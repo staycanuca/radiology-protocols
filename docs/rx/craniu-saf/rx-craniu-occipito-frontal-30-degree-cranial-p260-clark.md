@@ -50,6 +50,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-occipito-frontal-30-degree-cranial-p260-clark/fig_6.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Această incidență implică o doză de radiație mai mică pentru structurile
@@ -165,34 +169,36 @@ title: 'Radiografia craniului: incidență occipitofrontală cu 30 grade cranial
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Această incidență se efectuează de obicei cu pacientul în ortostatism, cu fața spre stativul Bucky vertical, deși poate fi efectuată și în decubit ventral.
-• Inițial, pacientului i se cere să-și așeze nasul și fruntea pe masa radiologică. Capul este ajustat pentru a aduce planul mediosagital în unghi drept față de casetă, astfel încât să coincidă cu linia mediană a acesteia.
-• Linia de bază orbitomeatală trebuie să fie perpendiculară pe casetă.
-• Pacientul își poate așeza mâinile pe Bucky pentru stabilitate.
+    - **Poziție Pacient:**
+        - Această incidență se efectuează de obicei cu pacientul în ortostatism, cu fața spre stativul Bucky vertical, deși poate fi efectuată și în decubit ventral.
+        - Inițial, pacientului i se cere să-și așeze nasul și fruntea pe masa radiologică. Capul este ajustat pentru a aduce planul mediosagital în unghi drept față de casetă, astfel încât să coincidă cu linia mediană a acesteia.
+        - Linia de bază orbitomeatală trebuie să fie perpendiculară pe casetă.
+        - Pacientul își poate așeza mâinile pe Bucky pentru stabilitate.
+        Pacientul poate fi examinat în ortostatism sau în decubit dorsal. Dacă pacientul este instabil, se recomandă tehnica în decubit dorsal.
 
-Pacientul poate fi examinat în ortostatism sau în decubit dorsal. Dacă pacientul este instabil, se recomandă tehnica în decubit dorsal.
-Decubit dorsal
-• Umerii pacientului sunt ridicați, iar gâtul este hiperextins pentru a aduce vertexul craniului în contact cu caseta cu grilă antidifuzoare sau cu masa.
-• Capul este ajustat pentru a aduce conductele auditive externe la distanțe egale față de casetă.
-• Planul mediosagital trebuie să fie în unghi drept față de casetă, de-a lungul liniei sale mediane.
-• Planul orbitomeatal trebuie să fie cât mai paralel posibil cu caseta.
-Ortostatism
-• Pacientul stă așezat la mică distanță de stativul vertical Bucky.
-• Gâtul este hiperextins pentru a permite capului să cadă posterior până când vertexul craniului intră în contact cu centrul stativului vertical Bucky.
-• Restul poziționării este cel descris pentru tehnica în decubit dorsal.
-    - **Punct de Centrare Fascicul:** • Raza centrală este înclinată cranial, astfel încât formează un unghi de 30 grade față de planul orbitomeatal.
-• Câmpul de colimare se ajustează astfel încât întregul os occipital și oasele parietale până la vertex să fie incluse în câmp. Evitați includerea ochilor în fasciculul primar. Lateral, marginile cutanate trebuie, de asemenea, incluse în câmp.
+        Decubit dorsal
 
-• Raza centrală este orientată în unghi drept față de planul orbitomeatal și centrată la jumătatea distanței dintre conductele auditive externe.
+        - Umerii pacientului sunt ridicați, iar gâtul este hiperextins pentru a aduce vertexul craniului în contact cu caseta cu grilă antidifuzoare sau cu masa.
+        - Capul este ajustat pentru a aduce conductele auditive externe la distanțe egale față de casetă.
+        - Planul mediosagital trebuie să fie în unghi drept față de casetă, de-a lungul liniei sale mediane.
+        - Planul orbitomeatal trebuie să fie cât mai paralel posibil cu caseta. Ortostatism
+        - Pacientul stă așezat la mică distanță de stativul vertical Bucky.
+        - Gâtul este hiperextins pentru a permite capului să cadă posterior până când vertexul craniului intră în contact cu centrul stativului vertical Bucky.
+        - Restul poziționării este cel descris pentru tehnica în decubit dorsal.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală este înclinată cranial, astfel încât formează un unghi de 30 grade față de planul orbitomeatal.
+        - Câmpul de colimare se ajustează astfel încât întregul os occipital și oasele parietale până la vertex să fie incluse în câmp. Evitați includerea ochilor în fasciculul primar. Lateral, marginile cutanate trebuie, de asemenea, incluse în câmp.
+        - Raza centrală este orientată în unghi drept față de planul orbitomeatal și centrată la jumătatea distanței dintre conductele auditive externe.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -234,10 +240,10 @@ Ortostatism
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Această incidență implică o doză de radiație mai mică pentru structurile sensibile decât incidența anteroposterioară (AP) echivalentă.
-• Poziționarea poate fi mai ușor realizată la pacienții cărora le este dificil să obțină poziția necesară pentru incidențele anteroposterioare (AP) semi-axiale echivalente.
-30° Towne inversă Towne inversă, poziționare alternativă Towne subînclinată
+    - Această incidență implică o doză de radiație mai mică pentru structurile sensibile decât incidența anteroposterioară (AP) echivalentă.
+    - Poziționarea poate fi mai ușor realizată la pacienții cărora le este dificil să obțină poziția necesară pentru incidențele anteroposterioare (AP) semi-axiale echivalente. 30° Towne inversă Towne inversă, poziționare alternativă Towne subînclinată
 
 
 ### 🖼️ Imagini

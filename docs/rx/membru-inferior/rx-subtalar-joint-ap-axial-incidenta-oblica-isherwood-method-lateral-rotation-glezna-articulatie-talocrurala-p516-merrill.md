@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: orientat la point 1 inch (2.5 cm) distal la maleolă medială (tibială) la
-  un unghi de 10 grade cranial.
+centering: Orientată spre un punct situat la 1 țol (2.5 cm) distal față de maleola
+  medială (tibială), la un unghi de 10 grade cranial.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,67 +13,75 @@ images:
 - caption: Merrill — pagina 517, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-lateral-rotation-glezna-articulatie-talocrurala-p516-merrill/p517_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție.; Se instruiește
-  pacientul să se rotește membru inferior și Picior laterally until side de Picior
-  și Gleznă (Articulație Talocrurală) rests against optional 30-grade foam wedge.
-  Dorsiflex Picior, evert it if possible, și Se instruiește pacientul să maintain
-  poziție prin pulling pe broad bandage looped around ball de Picior (Fig. 7.89).
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în poziție de decubit dorsal sau în poziție șezândă;
+  se instruiește pacientul să rotească membrul inferior și piciorul lateral până când
+  partea laterală a piciorului și a gleznei (articulației talocrurale) se sprijină
+  pe o pană opțională din spumă de 30 de grade. Se flectează dorsal piciorul, se evertează
+  dacă este posibil și se instruiește pacientul să mențină poziția trăgând de o fașă
+  lată înfășurată în jurul antepiciorului (Fig. 7.89). Se efectuează ecranarea gonadelor
+  cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- posterior subtalar articulation
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația subtalară posterioară
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-subtalar-joint-ap-axial-incidenta-oblica-isherwood-method-lateral-rotation-glezna-articulatie-talocrurala-p516-merrill
 source_pages:
 - 516
 - 517
 source_sections:
-  anatomy: posterior articulation de subtalar articulație în profile (Fig. 7.90).
-  collimation: • se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior
-    și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal
-    bases. Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • orientat la point 1 inch (2.5 cm) distal la maleolă medială (tibială) la un
-    unghi de 10 grade cranial.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Articulația subtalară posterioară în profil (Fig. 7.90).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de imaginea
+    posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară)
+    și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+  cr: • Orientată spre un punct situat la 1 țol (2.5 cm) distal față de maleola medială
+    (tibială), la un unghi de 10 grade cranial.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • posterior subtalar articulation
+    • Articulația subtalară posterioară
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Se instruiește pacientul să se rotește membru inferior și picior laterally
-    until side de picior și ankle rests against optional 30-grade foam wedge.
+    • Detaliile trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se instruiește pacientul să rotească membrul inferior și piciorul lateral
+    până când partea laterală a piciorului și glezna se sprijină pe o pană opțională
+    din spumă de 30 de grade.
 
-    • Dorsiflex picior, evert it if possible, și Se instruiește pacientul să maintain
-    poziție prin pulling pe broad bandage looped around ball
+    • Se flectează dorsal piciorul, se eversionează dacă este posibil și se instruiește
+    pacientul să mențină poziția trăgând de o fașă lată înfășurată în jurul antepiciorului
+    (Fig. 7.89).
 
-    de picior (Fig. 7.89).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit dorsal sau așezat pe scaun poziție.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în decubit dorsal sau în poziție șezândă.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 516–517
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și
-    inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație Externă (Laterală)
-  Gleznă (Articulație Talocrurală) (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra
+    posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară)
+    și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+title: Rx articulație subtalară — incidență AP oblică axială — metoda Isherwood, rotație
+  externă (laterală) a gleznei (articulației talocrurale) (Merrill)
 ---
-# Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație Externă (Laterală) Gleznă (Articulație Talocrurală) (Merrill)
+# Rx articulație subtalară — incidență AP oblică axială — metoda Isherwood, rotație externă (laterală) a gleznei (articulației talocrurale) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -97,17 +105,18 @@ title: Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație Ex
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție.; Se instruiește pacientul să se rotește membru inferior și Picior laterally until side de Picior și Gleznă (Articulație Talocrurală) rests against optional 30-grade foam wedge. Dorsiflex Picior, evert it if possible, și Se instruiește pacientul să maintain poziție prin pulling pe broad bandage looped around ball de Picior (Fig. 7.89). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la point 1 inch (2.5 cm) distal la maleolă medială (tibială) la un unghi de 10 grade cranial.
+    - **Poziție Pacient:** Se așază pacientul în poziție de decubit dorsal sau în poziție șezândă; se instruiește pacientul să rotească membrul inferior și piciorul lateral până când partea laterală a piciorului și a gleznei (articulației talocrurale) se sprijină pe o pană opțională din spumă de 30 de grade. Se flectează dorsal piciorul, se evertează dacă este posibil și se instruiește pacientul să mențină poziția trăgând de o fașă lată înfășurată în jurul antepiciorului (Fig. 7.89). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată spre un punct situat la 1 țol (2.5 cm) distal față de maleola medială (tibială), la un unghi de 10 grade cranial.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -123,17 +132,17 @@ title: Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație Ex
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară) și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - posterior subtalar articulation
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația subtalară posterioară
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,6 +151,7 @@ title: Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație Ex
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -181,40 +191,3 @@ title: Rx Subtalar Joint — Oblică Axială AP — Isherwood Method Rotație Ex
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 516–517](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-posterior articulation de subtalar articulație în profile (Fig. 7.90).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• orientat la point 1 inch (2.5 cm) distal la maleolă medială (tibială) la un unghi de 10 grade cranial.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• posterior subtalar articulation
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Se instruiește pacientul să se rotește membru inferior și picior laterally until side de picior și ankle rests against optional 30-grade foam wedge.
-• Dorsiflex picior, evert it if possible, și Se instruiește pacientul să maintain poziție prin pulling pe broad bandage looped around ball
-de picior (Fig. 7.89).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau așezat pe scaun poziție.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

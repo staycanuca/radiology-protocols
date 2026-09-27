@@ -133,7 +133,26 @@ def numeric_tokens(text):
     return Counter(re.findall(r'\d+(?:[.,]\d+)*', text.replace(',', '.')))
 
 
+def localize_units(text):
+    """Localize unit names after a number, without changing values or URLs."""
+    text = re.sub(r'(?<=\d)\s*\x02\s*(?=\d)', ' × ', text)
+    fractions = '¼½¾⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞'
+    pattern = (r'https?://[^\s)\]>]+|(?P<number>(?:\d+(?:[.,]\d+)?[' + fractions +
+               r']?|[' + fractions + r']))\s*-?\s*(?P<unit>inches|inch)\b')
+    def replace(match):
+        if match.group('number') is None:
+            return match.group(0)
+        return match.group('number') + (' țoli' if match.group('unit') == 'inches' else ' țol')
+    return re.sub(pattern, replace, text)
+
+
 def quantities(text):
+    # Clark OCR uses this damaged degree glyph in three reviewed subtalar
+    # captions (10/20/30/40/45). Keep their number-unit checks effective.
+    text = re.sub(r'(?<=\d)\x06', '°', text)
+    # "Fig. 6.39 Second toe" uses an ordinal, not a duration of 6.39 seconds.
+    text = re.sub(r'(\b(?:fig\.?|figure)\s+\d+(?:[.,]\d+)?\s+)second\b',
+                  r'\1ordinal', text, flags=re.I)
     unit_aliases = {'degrees': 'deg', 'degree': 'deg', 'grade': 'deg', 'grad': 'deg', '°': 'deg',
                     'inches': 'inch', 'inch': 'inch', 'inchi': 'inch', 'inci': 'inch', 'țol': 'inch', 'țoli': 'inch',
                     'seconds': 's', 'second': 's', 'secunde': 's', 'secundă': 's'}
@@ -145,7 +164,7 @@ def quantities(text):
 def numeric_forms(text):
     text = text.replace('–', '-').replace('−', '-').replace(',', '.')
     return Counter(re.sub(r'\s+', '', value) for value in
-                   re.findall(r'(?<!\w)-\d+(?:\.\d+)?|\d+\s*/\s*\d+', text))
+                   re.findall(r'(?<!\w)-\d+(?:\.\d+)?|\d+\s*/\s*\d+|[¼½¾⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞]', text))
 
 
 def validate(source, target):
@@ -248,7 +267,8 @@ def load_cache():
             if (row.get('id') == digest(row.get('source', ''))
                     and not validate(row['source'], row.get('translation'))):
                 cache[row['id']] = row
-    return cache
+    return {key: {**row, 'translation': localize_units(row['translation'])}
+            for key, row in cache.items()}
 
 
 def codex_batch(batch, model=None, key=None, retry=False, reasoning_effort=None):
@@ -275,6 +295,7 @@ def codex_batch(batch, model=None, key=None, retry=False, reasoning_effort=None)
     valid, invalid = [], []
     for item in result:
         original = batch[int(item['id'])]
+        item['text'] = localize_units(item['text'])
         errors = validate(original['source'], item['text'])
         record = {**original, 'translation': item['text'], 'incomplete': bool(item['incomplete']), 'model': label}
         if errors:
@@ -292,6 +313,7 @@ def translate(args):
         raise RuntimeError('GEMINI_API_KEY is not configured')
     manifest = json.loads((WORK / 'manifest.json').read_text(encoding='utf-8'))
     cache = load_cache()
+    current_ids = {item['id'] for item in manifest['texts']}
     pending = [x for x in manifest['texts'] if x['id'] not in cache]
     batches, batch, size = [], [], 0
     for item in pending:
@@ -304,7 +326,7 @@ def translate(args):
         batches.append(batch)
     if args.limit:
         batches = batches[:args.limit]
-    print(f'Translating {sum(map(len,batches))} texts in {len(batches)} batches; {len(cache)} cached.', flush=True)
+    print(f'Translating {sum(map(len,batches))} texts in {len(batches)} batches; {len(current_ids & cache.keys())} cached.', flush=True)
     failures = []
     worker = codex_batch if args.provider == 'codex' else api_batch
     workers = min(args.workers, 2) if args.provider == 'codex' else args.workers
@@ -336,7 +358,7 @@ def translate(args):
                 failures.extend(invalid)
                 with (WORK / 'usage.jsonl').open('a', encoding='utf-8') as handle:
                     handle.write(json.dumps({'batch': i, 'usage': usage}) + '\n')
-                print(f'Batch {i+1}/{len(batches)}: {len(valid)} accepted, {len(invalid)} rejected; total {len(load_cache())}/{len(manifest["texts"])}.', flush=True)
+                print(f'Batch {i+1}/{len(batches)}: {len(valid)} accepted, {len(invalid)} rejected; total {len(current_ids & load_cache().keys())}/{len(current_ids)}.', flush=True)
             except Exception as exc:
                 service_failures += 1
                 failures.append({'batch': i, 'error': str(exc)})
@@ -346,7 +368,7 @@ def translate(args):
                     print('Service unavailable repeatedly; remaining calls suspended. Resume from cache later.', flush=True)
     (WORK / 'failures.json').write_text(json.dumps(failures, ensure_ascii=False, indent=2), encoding='utf-8')
     cache = load_cache()
-    print(f'Finished: {len(cache)}/{len(manifest["texts"])} cached; {len(failures)} failures.', flush=True)
+    print(f'Finished: {len(current_ids & cache.keys())}/{len(current_ids)} cached; {len(failures)} failures.', flush=True)
     if failures:
         raise SystemExit(1)
 

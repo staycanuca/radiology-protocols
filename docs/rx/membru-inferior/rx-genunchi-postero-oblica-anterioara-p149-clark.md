@@ -3,15 +3,16 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: • raza centrală verticală centrală este orientat la middle de uppermost
-  tibial condyle.
+centering: • Raza centrală verticală este orientată spre mijlocul condilului tibial
+  superior.
 clinical_indications:
-- Evaluare radiografică regiunii Genunchi (Postero - Oblică Anterioară).
+- Evaluarea radiografică a regiunii genunchiului (incidență postero-oblică anterioară).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-genunchi-postero-oblica-anterioara-p149-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -25,26 +26,30 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-postero-oblica-anterioara-p149-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• These incidențe poate fie taken în addition la basic imagini la show fiecare
-  half de Rotulă (Patelă) clear de Femur.
+notes: '• Aceste incidențe pot fi efectuate în plus față de imaginile de bază pentru
+  a evidenția fiecare jumătate a rotulei, liberă de femur.
 
-  • choice de either Postero-anterior (PA) Oblică sau anteroposterior Oblică este
-  dependent upon condition de pacientul. Postero-anterior (PA) incidență will give
-  better quality imagine prin placing Rotulă (Patelă) în closer proximity la caseta.
+  • Alegerea incidenței postero-anterioare (PA) oblice sau antero-posterioare oblice
+  depinde de starea pacientului. Incidența postero-anterioară (PA) va oferi o imagine
+  de calitate mai bună prin plasarea rotulei mai aproape de casetă.
 
   134'
 position: '• Pacientul este așezat în decubit dorsal pe masa radiologică.
 
-  • trunk este then rotit la allow rotație de affected limb either medially sau laterally
-  through 45 grade.
+  • Trunchiul este apoi rotit pentru a permite rotația membrului afectat fie medial,
+  fie lateral, la 45 de grade.
 
-  • Genunchi este flectat slightly.
+  • Genunchiul este ușor flectat.
 
-  • săculeți cu nisip este plasat under Gleznă (Articulație Talocrurală) pentru support.
+  • Un săculeț cu nisip este plasat sub gleznă pentru susținere.
 
-  • centre de caseta este level cu upper margine de uppermost tibial condyle.'
+  • Centrul casetei este la nivelul marginii superioare a condilului tibial superior.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -53,7 +58,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Genunchi).
+- Vizualizarea clară a întregii arii anatomice (genunchi).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -65,14 +70,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Genunchi Postero - Oblică Anterioară
+  mas: Conform AEC / grosimii anatomice
+title: Rx genunchi — incidență postero-oblică anterioară
 ---
-# Rx Genunchi Postero - Oblică Anterioară
+# Rx genunchi — incidență postero-oblică anterioară
 
 
 <div class="rx-meta-bar">
@@ -91,28 +96,30 @@ title: Rx Genunchi Postero - Oblică Anterioară
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Genunchi (Postero - Oblică Anterioară).
+        - Evaluarea radiografică a regiunii genunchiului (incidență postero-oblică anterioară).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică.
-• trunk este then rotit la allow rotație de affected limb either medially sau laterally through 45 grade.
-• Genunchi este flectat slightly.
-• săculeți cu nisip este plasat under Gleznă (Articulație Talocrurală) pentru support.
-• centre de caseta este level cu upper margine de uppermost tibial condyle.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat la middle de uppermost tibial condyle.
+    - **Poziție Pacient:**
+        - Pacientul este așezat în decubit dorsal pe masa radiologică.
+        - Trunchiul este apoi rotit pentru a permite rotația membrului afectat fie medial, fie lateral, la 45 de grade.
+        - Genunchiul este ușor flectat.
+        - Un săculeț cu nisip este plasat sub gleznă pentru susținere.
+        - Centrul casetei este la nivelul marginii superioare a condilului tibial superior.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre mijlocul condilului tibial superior.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -123,19 +130,19 @@ title: Rx Genunchi Postero - Oblică Anterioară
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Genunchi).
+    - Vizualizarea clară a întregii arii anatomice (genunchi).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -149,10 +156,10 @@ title: Rx Genunchi Postero - Oblică Anterioară
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • These incidențe poate fie taken în addition la basic imagini la show fiecare half de Rotulă (Patelă) clear de Femur.
-• choice de either Postero-anterior (PA) Oblică sau anteroposterior Oblică este dependent upon condition de pacientul. Postero-anterior (PA) incidență will give better quality imagine prin placing Rotulă (Patelă) în closer proximity la caseta.
-134
+    - Aceste incidențe pot fi efectuate în plus față de imaginile de bază pentru a evidenția fiecare jumătate a rotulei, liberă de femur.
+    - Alegerea incidenței postero-anterioare (PA) oblice sau antero-posterioare oblice depinde de starea pacientului. Incidența postero-anterioară (PA) va oferi o imagine de calitate mai bună prin plasarea rotulei mai aproape de casetă. 134
 
 
 ### 🖼️ Imagini
@@ -163,7 +170,7 @@ title: Rx Genunchi Postero - Oblică Anterioară
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-genunchi-postero-oblica-anterioara-p149-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

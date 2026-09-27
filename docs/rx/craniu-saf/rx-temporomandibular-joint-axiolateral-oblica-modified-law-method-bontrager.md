@@ -4,7 +4,7 @@ breathing: Apnee pe durata expunerii. ARTICULAȚII TEMPOROMANDIBULARE DE RUTINĂ
   axială (incidență AP axială modificată (metoda Towne)) SPECIALĂ Axiolaterală oblică
   la 15° (metoda Law modificată) Axiolaterală (Schuller) Ortopantomografie
 category: craniu-saf
-centering: Raza centrală se înclină 15° caudal (spre picioare), centrată la 1½ inches
+centering: Raza centrală se înclină 15° caudal (spre picioare), centrată la 1½ țoli
   (4 cm) superior față de conductul auditiv extern (CAE) de partea superioară, pentru
   a trece prin articulația temporomandibulară (ATM) de partea inferioară. Se centrează
   receptorul de imagine pe proiecția razei centrale.
@@ -29,6 +29,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.178
     ATM dreaptă—gură deschisă (transorală); oblică la 15°; raza centrală 15° caudal.)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joint-axiolateral-oblica-modified-law-method-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -109,17 +113,18 @@ title: Radiografia articulației temporomandibulare, incidență axiolaterală o
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: pacientul este în ortostatism sau în poziție semipronă (ortostatismul este preferat dacă starea pacientului permite). Se sprijină aspectul lateral al capului pe masă/pe suprafața dispozitivului de imagistică în ortostatism, cu partea de interes cel mai aproape de receptorul de imagine. Regiune anatomică: se previne înclinarea prin menținerea liniei interpupilare (LIP) perpendiculară pe receptorul de imagine. MSP este paralel cu receptorul de imagine la început. Se aliniază linia infraorbitomeatală (LIOM) perpendicular pe marginea anterioară a receptorului de imagine (Fig. 11.177). Din incidență de profil (lateral), se rotește fața spre receptorul de imagine cu 15° (cu MSP al capului rotit cu 15° față de planul receptorului de imagine). Incidențele cu gura închisă și deschisă sunt efectuate frecvent pentru a evidenția amplitudinea mișcării articulațiilor temporomandibulare (ATM) (Fig. 11.178).
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° caudal (spre picioare), centrată la 1½ inches (4 cm) superior față de conductul auditiv extern (CAE) de partea superioară, pentru a trece prin articulația temporomandibulară (ATM) de partea inferioară. Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° caudal (spre picioare), centrată la 1½ țoli (4 cm) superior față de conductul auditiv extern (CAE) de partea superioară, pentru a trece prin articulația temporomandibulară (ATM) de partea inferioară. Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii. ARTICULAȚII TEMPOROMANDIBULARE DE RUTINĂ AP axială (incidență AP axială modificată (metoda Towne)) SPECIALĂ Axiolaterală oblică la 15° (metoda Law modificată) Axiolaterală (Schuller) Ortopantomografie
 

@@ -2,46 +2,51 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la second la fifth articulații
-  metacarpofalangiene (MCF)
+centering: Perpendicular pe receptorul de imagine, orientat spre a doua până la a
+  cincea articulații metacarpofalangiene (MCF)
 clinical_indications:
-- lateral în either extension sau flexion este alternative la fan lateral pentru localization
-  de Corp străin / corpuri străine radio-opace de Mână și Degete Mână; it also evidențiază
-  anterior sau posterior displaced suspiciune de fractură de oase metacarpiene. lateral
-  în natural flectat poziție poate fie less painful pentru pacientul.
+- Incidența de profil în extensie sau în flexie este o alternativă la incidența de
+  profil în evantai pentru localizarea corpului străin / corpurilor străine radioopace
+  ale mâinii și degetelor mâinii; evidențiază, de asemenea, deplasarea anterioară
+  sau posterioară în suspiciunea de fractură a oaselor metacarpiene. Incidența de
+  profil în poziția naturală flectată poate fi mai puțin dureroasă pentru pacient.
 images:
-- caption: Fig. 4.78 lateral în extension.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.78 lateral în
-    extension.)
+- caption: Fig. 4.78 profil în extensie.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.78 profil
+    în extensie.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_1.jpeg
-- caption: Fig. 4.79 lateral în flexion.
+- caption: Fig. 4.79 profil în flexie.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.79
-    lateral în flexion.)
+    profil în flexie.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_2.jpeg
-- caption: Fig. 4.80 lateral în
+- caption: Fig. 4.80 profil în
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.80
-    lateral în)
+    profil în)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_3.jpeg
-- caption: Fig. 4.81 lateral în flexion.
+- caption: Fig. 4.81 profil în flexie.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.81
-    lateral în flexion.)
+    profil în flexie.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_4.jpeg
-- caption: Fig. 4.82 lateral în flexion.
+- caption: Fig. 4.82 profil în flexie.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.82
-    lateral în flexion.)
+    profil în flexie.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_5.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table cu Mână și Antebraț extins.; Regiune
-  anatomică: Rotate Mână și Pumn (Articulație Radiocarpiană), cu Police side up, into
-  true Incidență de Profil (lateral), cu second la fifth articulații metacarpofalangiene
-  (MCF) centrat pe receptorul de imagine și raza centrală. lateral în extension: Extend
-  Degete Mână și Police, și support against radiolucent support block. Ensure that
-  toate Degete Mână și oase metacarpiene sunt superimposed directly pentru true Incidență
-  de Profil (lateral) (Fig. 4.78) lateral în flexion: Flex Degete Mână into natural
-  flectat poziție, cu Police lightly touching first finger; maintain true Incidență
-  de Profil (lateral) (Fig. 4.79)'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu mâna și antebrațul extinse.;
+  Regiune anatomică: Rotiți mâna și pumnul (articulația radiocarpiană), cu partea
+  policelui în sus, în adevărata incidență de profil, cu articulațiile metacarpofalangiene
+  (MCF) de la a doua până la a cincea centrate pe receptorul de imagine și pe raza
+  centrală. Profil în extensie: Extindeți degetele mâinii și policele și sprijiniți-le
+  pe un suport radiotransparent. Asigurați-vă că toate degetele mâinii și oasele metacarpiene
+  sunt suprapuse direct pentru adevărata incidență de profil (Fig. 4.78). Profil în
+  flexie: Flectați degetele mâinii în poziție naturală flectată, cu policele atingând
+  ușor primul deget; mențineți adevărata incidență de profil (Fig. 4.79)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,28 +54,29 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire Mână și Pumn (Articulație Radiocarpiană) și about 1 inch (2.5 cm) de distal
-  Antebraț sunt vizibil.
-- 'Police trebuie să appear în slightly Incidență Oblică și liber de superimposition
-  cu spații articulare open. poziție:'
-- axa longitudinală de Mână și Pumn (Articulație Radiocarpiană) este aliniat cu axa
-  longitudinală de receptorul de imagine.
-- 'Mână și Pumn (Articulație Radiocarpiană) trebuie să fie în true Incidență de Profil
-  (lateral), ca evidenced prin: distal radius și ulna sunt superimposed; oase metacarpiene
-  și falange sunt superimposed.'
-- 'lateral în extension: falange și oase metacarpiene trebuie să fie superimposed
-  și extins (Fig. 4.80).'
-- 'lateral în flexion: falange și oase metacarpiene trebuie să fie superimposed cu
-  Mână în natural flectat poziție (Figs. 4.81 și 4.82).'
-- 'raza centrală și center de collimation field size trebuie să fie la second la fifth
-  articulații metacarpofalangiene (MCF). expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
-  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
+- Întreaga mână și întregul pumn (articulația radiocarpiană) și aproximativ 1 țol
+  (2.5 cm) din antebrațul distal sunt vizibile.
+- 'Policele trebuie să apară în incidență ușor oblică și liber de suprapunere, cu
+  spațiile articulare deschise. Poziție:'
+- Axa longitudinală a mâinii și pumnului (articulația radiocarpiană) este aliniată
+  cu axa longitudinală a receptorului de imagine.
+- 'Mâna și pumnul (articulația radiocarpiană) trebuie să fie în adevărata incidență
+  de profil, evidențiată prin: radiusul distal și ulna sunt suprapuse; oasele metacarpiene
+  și falangele sunt suprapuse.'
+- 'Profil în extensie: falangele și oasele metacarpiene trebuie să fie suprapuse și
+  extinse (Fig. 4.80).'
+- 'Profil în flexie: falangele și oasele metacarpiene trebuie să fie suprapuse, cu
+  mâna în poziție naturală flectată (Fig. 4.81 și 4.82).'
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul articulațiilor
+  metacarpofalangiene (MCF) de la a doua până la a cincea. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, evidențiază
+  clar marginile părților moi, contururile osoase și traveele trabeculare, fără artefacte
   de mișcare.
-- Margins de individual oase metacarpiene și falange sunt vizibil but mostly superimposed.
-  Fig. 4.80 lateral în extension. Fig. 4.81 lateral în flexion. Ulna Radius falange
-  R 2nd la 5th articulații metacarpofalangiene (MCF) (raza centrală) 2nd la 5th oase
-  metacarpiene 1st metacarpal oase carpiene Fig. 4.82 lateral în flexion.
+- Marginile fiecărui metacarpian și ale fiecărei falange sunt vizibile, dar în mare
+  parte suprapuse. Fig. 4.80 Incidență de profil în extensie. Fig. 4.81 Incidență
+  de profil în flexie. Ulnă; radius; falange; R; articulațiile metacarpofalangiene
+  (MCF) de la a 2-a până la a 5-a (raza centrală); metacarpienele de la al 2-lea până
+  la al 5-lea; metacarpianul 1; oase carpiene. Fig. 4.82 Incidență de profil în flexie.
 sid_dff: 100 cm
 slug: rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager
 sources:
@@ -78,17 +84,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate la outer margins de Mână și Pumn (Articulație
-    Radiocarpiană). Mână ALTERNATE Extension lateral Flexion lateral Fig. 4.78 lateral
-    în extension. Fig. 4.79 lateral în flexion.
+  collimation: 'Dimensiunea câmpului: Colimați la marginile externe ale mâinii și
+    pumnului (articulația radiocarpiană). MÂNĂ ALTERNATIVĂ Profil în extensie Profil
+    în flexie Fig. 4.78 profil în extensie. Fig. 4.79 profil în flexie.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Incidență Latero-MedialăS LATERAL IN EXTENSION AND FLEXION (- Mână)
+title: Rx incidență latero-medială — PROFIL ÎN EXTENSIE ȘI FLEXIE (- MÂNĂ)
 ---
-# Rx Incidență Latero-MedialăS LATERAL IN EXTENSION AND FLEXION (- Mână)
+# Rx incidență latero-medială — PROFIL ÎN EXTENSIE ȘI FLEXIE (- MÂNĂ)
 
 
 <div class="rx-meta-bar">
@@ -107,22 +113,23 @@ title: Rx Incidență Latero-MedialăS LATERAL IN EXTENSION AND FLEXION (- Mân�
 
     === "Indicații Clinice"
 
-        - lateral în either extension sau flexion este alternative la fan lateral pentru localization de Corp străin / corpuri străine radio-opace de Mână și Degete Mână; it also evidențiază anterior sau posterior displaced suspiciune de fractură de oase metacarpiene. lateral în natural flectat poziție poate fie less painful pentru pacientul.
+        - Incidența de profil în extensie sau în flexie este o alternativă la incidența de profil în evantai pentru localizarea corpului străin / corpurilor străine radioopace ale mâinii și degetelor mâinii; evidențiază, de asemenea, deplasarea anterioară sau posterioară în suspiciunea de fractură a oaselor metacarpiene. Incidența de profil în poziția naturală flectată poate fi mai puțin dureroasă pentru pacient.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână și Antebraț extins.; Regiune anatomică: Rotate Mână și Pumn (Articulație Radiocarpiană), cu Police side up, into true Incidență de Profil (lateral), cu second la fifth articulații metacarpofalangiene (MCF) centrat pe receptorul de imagine și raza centrală. lateral în extension: Extend Degete Mână și Police, și support against radiolucent support block. Ensure that toate Degete Mână și oase metacarpiene sunt superimposed directly pentru true Incidență de Profil (lateral) (Fig. 4.78) lateral în flexion: Flex Degete Mână into natural flectat poziție, cu Police lightly touching first finger; maintain true Incidență de Profil (lateral) (Fig. 4.79)
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la second la fifth articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu mâna și antebrațul extinse.; Regiune anatomică: Rotiți mâna și pumnul (articulația radiocarpiană), cu partea policelui în sus, în adevărata incidență de profil, cu articulațiile metacarpofalangiene (MCF) de la a doua până la a cincea centrate pe receptorul de imagine și pe raza centrală. Profil în extensie: Extindeți degetele mâinii și policele și sprijiniți-le pe un suport radiotransparent. Asigurați-vă că toate degetele mâinii și oasele metacarpiene sunt suprapuse direct pentru adevărata incidență de profil (Fig. 4.78). Profil în flexie: Flectați degetele mâinii în poziție naturală flectată, cu policele atingând ușor primul deget; mențineți adevărata incidență de profil (Fig. 4.79)
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, orientat spre a doua până la a cincea articulații metacarpofalangiene (MCF)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -138,22 +145,22 @@ title: Rx Incidență Latero-MedialăS LATERAL IN EXTENSION AND FLEXION (- Mân�
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate la outer margins de Mână și Pumn (Articulație Radiocarpiană). Mână ALTERNATE Extension lateral Flexion lateral Fig. 4.78 lateral în extension. Fig. 4.79 lateral în flexion. |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Colimați la marginile externe ale mâinii și pumnului (articulația radiocarpiană). MÂNĂ ALTERNATIVĂ Profil în extensie Profil în flexie Fig. 4.78 profil în extensie. Fig. 4.79 profil în flexie. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Mână și Pumn (Articulație Radiocarpiană) și about 1 inch (2.5 cm) de distal Antebraț sunt vizibil.
-    - Police trebuie să appear în slightly Incidență Oblică și liber de superimposition cu spații articulare open. poziție:
-    - axa longitudinală de Mână și Pumn (Articulație Radiocarpiană) este aliniat cu axa longitudinală de receptorul de imagine.
-    - Mână și Pumn (Articulație Radiocarpiană) trebuie să fie în true Incidență de Profil (lateral), ca evidenced prin: distal radius și ulna sunt superimposed; oase metacarpiene și falange sunt superimposed.
-    - lateral în extension: falange și oase metacarpiene trebuie să fie superimposed și extins (Fig. 4.80).
-    - lateral în flexion: falange și oase metacarpiene trebuie să fie superimposed cu Mână în natural flectat poziție (Figs. 4.81 și 4.82).
-    - raza centrală și center de collimation field size trebuie să fie la second la fifth articulații metacarpofalangiene (MCF). expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
-    - Margins de individual oase metacarpiene și falange sunt vizibil but mostly superimposed. Fig. 4.80 lateral în extension. Fig. 4.81 lateral în flexion. Ulna Radius falange R 2nd la 5th articulații metacarpofalangiene (MCF) (raza centrală) 2nd la 5th oase metacarpiene 1st metacarpal oase carpiene Fig. 4.82 lateral în flexion.
+    - Întreaga mână și întregul pumn (articulația radiocarpiană) și aproximativ 1 țol (2.5 cm) din antebrațul distal sunt vizibile.
+    - Policele trebuie să apară în incidență ușor oblică și liber de suprapunere, cu spațiile articulare deschise. Poziție:
+    - Axa longitudinală a mâinii și pumnului (articulația radiocarpiană) este aliniată cu axa longitudinală a receptorului de imagine.
+    - Mâna și pumnul (articulația radiocarpiană) trebuie să fie în adevărata incidență de profil, evidențiată prin: radiusul distal și ulna sunt suprapuse; oasele metacarpiene și falangele sunt suprapuse.
+    - Profil în extensie: falangele și oasele metacarpiene trebuie să fie suprapuse și extinse (Fig. 4.80).
+    - Profil în flexie: falangele și oasele metacarpiene trebuie să fie suprapuse, cu mâna în poziție naturală flectată (Fig. 4.81 și 4.82).
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul articulațiilor metacarpofalangiene (MCF) de la a doua până la a cincea. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, evidențiază clar marginile părților moi, contururile osoase și traveele trabeculare, fără artefacte de mișcare.
+    - Marginile fiecărui metacarpian și ale fiecărei falange sunt vizibile, dar în mare parte suprapuse. Fig. 4.80 Incidență de profil în extensie. Fig. 4.81 Incidență de profil în flexie. Ulnă; radius; falange; R; articulațiile metacarpofalangiene (MCF) de la a 2-a până la a 5-a (raza centrală); metacarpienele de la al 2-lea până la al 5-lea; metacarpianul 1; oase carpiene. Fig. 4.82 Incidență de profil în flexie.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -173,41 +180,41 @@ title: Rx Incidență Latero-MedialăS LATERAL IN EXTENSION AND FLEXION (- Mân�
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.78 lateral în extension.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_1.jpeg)
+![Fig. 4.78 profil în extensie.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.78 lateral în extension.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.78 lateral în extension.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.79 lateral în flexion.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.79 lateral în flexion.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.79 lateral în flexion.)</span></figcaption>
+<figcaption><strong>Fig. 4.78 profil în extensie.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.78 profil în extensie.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.80 lateral în](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_3.jpeg)
+![Fig. 4.79 profil în flexie.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.80 lateral în</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.80 lateral în)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.81 lateral în flexion.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 4.81 lateral în flexion.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.81 lateral în flexion.)</span></figcaption>
+<figcaption><strong>Fig. 4.79 profil în flexie.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.79 profil în flexie.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.82 lateral în flexion.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_5.jpeg)
+![Fig. 4.80 profil în](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.82 lateral în flexion.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.82 lateral în flexion.)</span></figcaption>
+<figcaption><strong>Fig. 4.80 profil în</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.80 profil în)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.81 profil în flexie.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 4.81 profil în flexie.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.81 profil în flexie.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.82 profil în flexie.](../../assets/images/protocols/bontrager/rx-lateromedial-projections-lateral-in-extension-and-flexion-mana-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 4.82 profil în flexie.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.82 profil în flexie.)</span></figcaption>
 
 </figure>
 

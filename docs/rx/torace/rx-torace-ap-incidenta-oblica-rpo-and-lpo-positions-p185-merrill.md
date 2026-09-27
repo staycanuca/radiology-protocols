@@ -1,10 +1,10 @@
 ---
 author: Referință Merrill
-breathing: Inspir profund complet. expunere este made after second Inspir profund
-  complet la ensure maximum expansion de plămânii.
+breathing: Inspir profund complet. Expunerea se efectuează după al doilea inspir profund
+  complet pentru a asigura expansiunea maximă a plămânilor.
 category: torace
-centering: perpendicular pe centrul receptorului de imagine la level 3 inches (7.6
-  cm) below incizură jugulară (furculiță sternală) (raza centrală exits la T7).
+centering: Perpendicular pe centrul receptorului de imagine, la nivelul situat 3 țoli
+  (7.6 cm) sub incizura jugulară (furculița sternală) (raza centrală iese la T7).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -17,34 +17,39 @@ images:
 - caption: Merrill — pagina 188, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-ap-incidenta-oblica-rpo-and-lpo-positions-p185-merrill/p188_fig3.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: cu pacientul Decubit dorsal sau facing x-ray tube, either în ortostatism
-  sau Decubit, se ajustează receptorul de imagine astfel încât upper margine de receptorul
-  de imagine este approximately 1.5 la 2 inches (3.8 la 5 cm) above vertebral prominens
-  sau approximately 5 inches (12.7 cm) above incizură jugulară (furculiță sternală).;
-  se rotește pacient spre correct side, se ajustează corp la a 45-grade angle, și
-  se centrează thorax la grila. If pacientul este Decubit, support ridicat Șold și
-  braț. Ensure that ambele părți (bilateral) de Torace sunt poziționat la receptorul
-  de imagine. se flectează pacient’s coate și place mâinile pe șoldurile cu palms
-  facing outward sau pronate mâinile beside șoldurile. braț closer la receptorul de
-  imagine poate fie raised if Umăr este rotit anteriorly. se ajustează umeri la lie
-  în same plan transversal în poziție de forward rotație (Figs. 3.53 și 3.54). se
-  efectuează ecranarea gonadelor cu șorț plumbat.
+position: Cu pacientul în decubit dorsal sau cu fața spre tubul radiogen, fie în ortostatism,
+  fie în decubit, ajustați receptorul de imagine astfel încât marginea superioară
+  a receptorului de imagine să fie la aproximativ 1.5 la 2 țoli (3.8 la 5 cm) deasupra
+  vertebrei proeminente sau la aproximativ 5 țoli (12.7 cm) deasupra incizurii jugulare
+  (furculiței sternale).; Rotiți pacientul spre partea corectă, ajustați corpul la
+  un unghi de 45 de grade și centrați toracele pe grilă. Dacă pacientul este în decubit,
+  ridicați și susțineți șoldul și brațul. Asigurați-vă că ambele părți ale toracelui
+  sunt poziționate pe receptorul de imagine. Flectați coatele pacientului și așezați
+  mâinile pe șolduri, cu palmele orientate în exterior, sau pronați mâinile lângă
+  șolduri. Brațul mai apropiat de receptorul de imagine poate fi ridicat dacă umărul
+  este rotit anterior. Ajustați umerii astfel încât să se afle în același plan transversal,
+  în poziție de rotație anterioară (Figs. 3.53 și 3.54). Efectuați ecranarea gonadelor
+  cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- ambele plămâni included de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
-- Trachea filled cu air
-- stâng lung best evidențiat pe LPO
-- drept lung best evidențiat pe RPO
-- Pulmonary vascular markings de la hilar regions la periphery de lung
-sid_dff: Minimum SID of 72 inches (183 cm) is recommended to decrease magnification
-  of the heart and increase spatial resolution of the thoracic structures.
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Ambii plămâni incluși de la apexuri (vârfurile pulmonare) la sinusurile costodiafragmatice
+- Trahee umplută cu aer
+- Plămânul stâng este cel mai bine evidențiat pe LPO
+- Plămânul drept este cel mai bine evidențiat pe RPO
+- Desenul vascular pulmonar de la regiunile hilare până la periferia plămânului
+sid_dff: Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea
+  inimii și a crește rezoluția spațială a structurilor toracice.
 slug: rx-torace-ap-incidenta-oblica-rpo-and-lpo-positions-p185-merrill
 source_pages:
 - 185
@@ -52,81 +57,71 @@ source_pages:
 - 187
 - 188
 source_sections:
-  anatomy: 'This radiografie presents AP oblic incidență de thoracic viscera similar
-    la corresponding PA oblic incidență (Fig. 3.55). RPO
+  anatomy: Această radiografie prezintă o incidență oblică AP a viscerelor toracice,
+    similară cu incidența oblică PA corespunzătoare (Fig. 3.55). Poziția RPO este
+    comparabilă cu poziția oblică anterioară stângă (OAS / LAO). Totuși, câmpul pulmonar
+    de partea ridicată apare de obicei mai scurt din cauza magnificației cupolelor
+    diafragmatice. Cordul și vasele mari proiectează, de asemenea, umbre mărite ca
+    urmare a faptului că se află mai departe de receptorul de imagine.
+  collimation: • Ajustați câmpul de iradiere la 17 țoli (43 cm) longitudinal și la
+    1 țol (2.5 cm) dincolo de umbre pe ambele părți, dar fără mai mult de 14 țoli
+    (35 cm). Dimensiunea verticală poate fi mai mică pentru pacienții mai mici. Plasați
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe centrul receptorului de imagine la nivelul de 3 țoli (7.6
+    cm) sub incizura jugulară (furculița sternală) (raza centrală iese la T7).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    poziție este comparable cu poziție oblică anterioară stângă (OAS / LAO). However,
-    câmpuri pulmonare de ridicat side usually appears shorter because de magnification
-    de
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    cupole diafragmatice. cordul și great vessels also cast magnified shadows ca result
-    de being farther de la receptorul de imagine.'
-  collimation: '• Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch
-    (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches
+    • ambii plămâni incluși de la apexuri până la sinusurile costodiafragmatice
 
-    (35 cm). vertical dimension poate fie less pentru smaller pacienți. Place marker
-    de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular pe centrul receptorului de imagine la level 3 inches (7.6 cm)
-    below incizură jugulară (furculiță sternală) (raza centrală exits la T7).
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Traheea umplută cu aer
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • plămânul stâng cel mai bine evidențiat pe LPO
 
-    • ambele plămâni included de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+    • plămânul drept cel mai bine evidențiat pe RPO
 
-    • Trachea filled cu air
+    • Desen vascular pulmonar de la regiunile hilare până la periferia plămânului'
+  part_pos: '• Rotiți pacientul spre partea corectă, ajustați corpul la un unghi de
+    45 de grade și centrați toracele pe grilă.
 
-    • stâng lung best evidențiat pe LPO
+    • Dacă pacientul este în decubit, ridicați și susțineți șoldul și brațul. Asigurați-vă
+    că ambele părți ale toracelui sunt poziționate pe receptorul de imagine.
 
-    • drept lung best evidențiat pe RPO
+    • Flectați coatele pacientului și așezați mâinile pe șolduri, cu palmele orientate
+    în exterior, sau pronați mâinile lângă șolduri. Brațul mai apropiat de receptorul
+    de imagine poate fi ridicat dacă umărul este rotit anterior.
 
-    • Pulmonary vascular markings de la hilar regions la periphery de lung'
-  part_pos: '• se rotește pacient spre correct side, se ajustează corp la a 45-grade
-    angle, și se centrează thorax la grila.
+    • Ajustați umerii astfel încât să se afle în același plan transversal, în poziție
+    de rotație anterioară (Figs. 3.53 și 3.54).
 
-    • If pacientul este recumbent, support ridicat hip și braț. Ensure that ambele
-    părți (bilateral) de toracele sunt poziționat la receptorul de imagine.
-
-    • se flectează pacient’s coate și place mâinile pe șoldurile cu palms facing outward
-    sau pronate mâinile beside șoldurile. braț
-
-    closer la receptorul de imagine poate fie raised if umăr este rotit anteriorly.
-
-    • se ajustează umeri la lie în same plan transversal în poziție de forward rotație
-    (Figs. 3.53 și 3.54).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• cu pacientul în decubit dorsal sau facing x-ray tube, either în
-    ortostatism sau recumbent, se ajustează receptorul de imagine astfel încât upper
-    margine de receptorul de imagine este
-
-    approximately 1.5 la 2 inches (3.8 la 5 cm) above vertebral prominens sau approximately
-    5 inches (12.7 cm) above incizură jugulară (furculiță sternală).'
-  respiration: Inspir profund complet. expunere este made after second Inspir profund
-    complet la ensure maximum expansion de plămânii.
-  sid: 'Minimum SID de 72 inches (183 cm) este recommended la decrease magnification
-    de cordul și increase spatial resolution de thoracic
-
-    structures.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35
-
-    × 43 cm) longitudinal.'
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Cu pacientul în decubit dorsal sau cu fața spre tubul radiogen, fie
+    în ortostatism, fie în decubit, ajustați receptorul de imagine astfel încât marginea
+    superioară a receptorului de imagine să fie la aproximativ 1.5 la 2 țoli (3.8
+    la 5 cm) deasupra vertebrei proeminente sau la aproximativ 5 țoli (12.7 cm) deasupra
+    incizurii jugulare (furculiței sternale).
+  respiration: Inspir profund complet. Expunerea se efectuează după al doilea inspir
+    profund complet pentru a asigura expansiunea maximă a plămânilor.
+  sid: O SID minimă de 72 țoli (183 cm) este recomandată pentru a reduce magnifierea
+    cordului și a crește rezoluția spațială a structurilor toracice.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 țoli (35
+    × 43 cm), longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    185–188'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 185–188'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch
-    (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches
-    (35 cm). vertical dimension poate fie less pentru smaller pacienți. Place marker
-    de lateralitate (D/S) în collimated expunere field.
-title: Rx Torace — Oblică Antero-Posterioară (AP) — RPO and Oblică Posterioară Stângă
-  (OPS / LPO)s (Merrill)
+  collimation: Ajustați câmpul de iradiere la 17 țoli (43 cm) longitudinal și la 1
+    țol (2.5 cm) dincolo de umbre pe ambele părți, dar fără mai mult de 14 țoli (35
+    cm). Dimensiunea verticală poate fi mai mică pentru pacienții mai mici. Plasați
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx torace — incidență oblică antero-posterioară (AP) — poziții oblice posterioare
+  dreaptă (RPO) și stângă (OPS / LPO) (Merrill)
 ---
-# Rx Torace — Oblică Antero-Posterioară (AP) — RPO and Oblică Posterioară Stângă (OPS / LPO)s (Merrill)
+# Rx torace — incidență oblică antero-posterioară (AP) — poziții oblice posterioare dreaptă (RPO) și stângă (OPS / LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -150,19 +145,20 @@ title: Rx Torace — Oblică Antero-Posterioară (AP) — RPO and Oblică Poster
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** cu pacientul Decubit dorsal sau facing x-ray tube, either în ortostatism sau Decubit, se ajustează receptorul de imagine astfel încât upper margine de receptorul de imagine este approximately 1.5 la 2 inches (3.8 la 5 cm) above vertebral prominens sau approximately 5 inches (12.7 cm) above incizură jugulară (furculiță sternală).; se rotește pacient spre correct side, se ajustează corp la a 45-grade angle, și se centrează thorax la grila. If pacientul este Decubit, support ridicat Șold și braț. Ensure that ambele părți (bilateral) de Torace sunt poziționat la receptorul de imagine. se flectează pacient’s coate și place mâinile pe șoldurile cu palms facing outward sau pronate mâinile beside șoldurile. braț closer la receptorul de imagine poate fie raised if Umăr este rotit anteriorly. se ajustează umeri la lie în same plan transversal în poziție de forward rotație (Figs. 3.53 și 3.54). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine la level 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) (raza centrală exits la T7).
-    - **Distanță Focar-Film (DFF / SID):** Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures.
-    - **Comandă Respiratorie:** Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
+    - **Poziție Pacient:** Cu pacientul în decubit dorsal sau cu fața spre tubul radiogen, fie în ortostatism, fie în decubit, ajustați receptorul de imagine astfel încât marginea superioară a receptorului de imagine să fie la aproximativ 1.5 la 2 țoli (3.8 la 5 cm) deasupra vertebrei proeminente sau la aproximativ 5 țoli (12.7 cm) deasupra incizurii jugulare (furculiței sternale).; Rotiți pacientul spre partea corectă, ajustați corpul la un unghi de 45 de grade și centrați toracele pe grilă. Dacă pacientul este în decubit, ridicați și susțineți șoldul și brațul. Asigurați-vă că ambele părți ale toracelui sunt poziționate pe receptorul de imagine. Flectați coatele pacientului și așezați mâinile pe șolduri, cu palmele orientate în exterior, sau pronați mâinile lângă șolduri. Brațul mai apropiat de receptorul de imagine poate fi ridicat dacă umărul este rotit anterior. Ajustați umerii astfel încât să se afle în același plan transversal, în poziție de rotație anterioară (Figs. 3.53 și 3.54). Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine, la nivelul situat 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală) (raza centrală iese la T7).
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.
+    - **Comandă Respiratorie:** Inspir profund complet. Expunerea se efectuează după al doilea inspir profund complet pentru a asigura expansiunea maximă a plămânilor.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -172,24 +168,24 @@ title: Rx Torace — Oblică Antero-Posterioară (AP) — RPO and Oblică Poster
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches (35 cm). vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 17 țoli (43 cm) longitudinal și la 1 țol (2.5 cm) dincolo de umbre pe ambele părți, dar fără mai mult de 14 țoli (35 cm). Dimensiunea verticală poate fi mai mică pentru pacienții mai mici. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - ambele plămâni included de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
-    - Trachea filled cu air
-    - stâng lung best evidențiat pe LPO
-    - drept lung best evidențiat pe RPO
-    - Pulmonary vascular markings de la hilar regions la periphery de lung
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Ambii plămâni incluși de la apexuri (vârfurile pulmonare) la sinusurile costodiafragmatice
+    - Trahee umplută cu aer
+    - Plămânul stâng este cel mai bine evidențiat pe LPO
+    - Plămânul drept este cel mai bine evidențiat pe RPO
+    - Desenul vascular pulmonar de la regiunile hilare până la periferia plămânului
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -198,6 +194,7 @@ title: Rx Torace — Oblică Antero-Posterioară (AP) — RPO and Oblică Poster
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -237,7 +234,7 @@ title: Rx Torace — Oblică Antero-Posterioară (AP) — RPO and Oblică Poster
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -245,59 +242,3 @@ title: Rx Torace — Oblică Antero-Posterioară (AP) — RPO and Oblică Poster
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 185–188](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This radiografie presents AP oblic incidență de thoracic viscera similar la corresponding PA oblic incidență (Fig. 3.55). RPO
-poziție este comparable cu poziție oblică anterioară stângă (OAS / LAO). However, câmpuri pulmonare de ridicat side usually appears shorter because de magnification de
-cupole diafragmatice. cordul și great vessels also cast magnified shadows ca result de being farther de la receptorul de imagine.
-
-### collimation
-
-• Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches
-(35 cm). vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe centrul receptorului de imagine la level 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) (raza centrală exits la T7).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• ambele plămâni included de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
-• Trachea filled cu air
-• stâng lung best evidențiat pe LPO
-• drept lung best evidențiat pe RPO
-• Pulmonary vascular markings de la hilar regions la periphery de lung
-
-### part_pos
-
-• se rotește pacient spre correct side, se ajustează corp la a 45-grade angle, și se centrează thorax la grila.
-• If pacientul este recumbent, support ridicat hip și braț. Ensure that ambele părți (bilateral) de toracele sunt poziționat la receptorul de imagine.
-• se flectează pacient’s coate și place mâinile pe șoldurile cu palms facing outward sau pronate mâinile beside șoldurile. braț
-closer la receptorul de imagine poate fie raised if umăr este rotit anteriorly.
-• se ajustează umeri la lie în same plan transversal în poziție de forward rotație (Figs. 3.53 și 3.54).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• cu pacientul în decubit dorsal sau facing x-ray tube, either în ortostatism sau recumbent, se ajustează receptorul de imagine astfel încât upper margine de receptorul de imagine este
-approximately 1.5 la 2 inches (3.8 la 5 cm) above vertebral prominens sau approximately 5 inches (12.7 cm) above incizură jugulară (furculiță sternală).
-
-### respiration
-
-Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
-
-### sid
-
-Minimum SID de 72 inches (183 cm) este recommended la decrease magnification de cordul și increase spatial resolution de thoracic
-structures.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35
-× 43 cm) longitudinal.
-

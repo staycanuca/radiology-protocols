@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe Cot articulație
+centering: Perpendicular pe articulația cotului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,32 +12,37 @@ images:
 - caption: Merrill — pagina 327, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cot-ap-incidenta-oblica-medial-rotation-p325-merrill/p327_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Pronation de Mână only poate nu se rotește Cot articulație necessary 45 grade
-  la evidențiază ulnar proces coronoid în profile. se efectuează ecranarea gonadelor
-  cu șorț plumbat.
-position: se așază pacientul pe scaun la end de masa radiologică, cu braț extins și
-  în contact cu masa de examinare.; se extinde extremity în anatomic poziție, ensuring
-  extremity este în same plane și paralel cu receptorul de imagine plane. se centrează
-  midpoint de receptorul de imagine la Cot articulație Medially (internally) se rotește
-  upper extremity la place humeral epicondyles 45 grade de la true anatomic poziție.
-  This grade de obliquity usually clears proces coronoid de cap radial. Mână poate
-  fie în pronație sau la a 45-grade angle (Fig. 5.116).
+notes: Pronația mâinii singură poate să nu rotească articulația cotului cu 45 de grade,
+  necesare pentru evidențierea procesului coronoid ulnar în profil. Se efectuează
+  ecranarea gonadelor cu șorț plumbat.
+position: Pacientul se așază pe scaun la capătul mesei radiologice, cu brațul extins
+  și în contact cu masa de examinare.; Se extinde extremitatea în poziție anatomică,
+  asigurându-se că extremitatea se află în același plan și paralel cu planul receptorului
+  de imagine. Se centrează mijlocul receptorului de imagine la nivelul articulației
+  cotului. Se rotește medial (intern) extremitatea superioară pentru a plasa epicondilii
+  humerali la 45 de grade față de poziția anatomică adevărată. Acest grad de oblicitate
+  eliberează de obicei procesul coronoid de capul radial. Mâna poate fi în pronație
+  sau la un unghi de 45 de grade (Fig. 5.116).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Cot articulație centrat pe expunere field
-- '45-grade rotație internă (medială) de Cot:'
-- proces coronoid în profile
-- Elongated medial humeral epicondyle
-- Ulna superimposed prin cap radial și neck
-- Trochlea
-- olecran within olecran fossa
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația cotului centrată pe câmpul de expunere
+- 'Rotație internă (medială) de 45 de grade a cotului:'
+- Procesul coronoid în profil
+- Epicondilul humeral medial alungit
+- Ulna suprapusă peste capul radial și col
+- Trohleea
+- Olecranul în fosa olecraniană
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-cot-ap-incidenta-oblica-medial-rotation-p325-merrill
 source_pages:
@@ -45,59 +50,60 @@ source_pages:
 - 326
 - 327
 source_sections:
-  anatomy: oblic incidență de cot cu proces coronoid projected liber de superimposition
-    (Fig. 5.117).
-  collimation: • Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la
-    cot articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S)
-    în collimated expunere field.
-  cr: • perpendicular pe cot articulație
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Incidență oblică a cotului, cu procesul coronoid proiectat liber, fără
+    suprapunere (Fig. 5.117).
+  collimation: • Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față
+    de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe articulația cotului
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • cot articulație centrat pe expunere field
+    • Articulația cotului centrată pe câmpul de expunere
 
-    • 45-grade rotație internă (medială) de cot:
+    • Rotație internă (medială) de 45 de grade a cotului:
 
-    • proces coronoid în profile
+    • Procesul coronoid în profil
 
-    • Elongated medial humeral epicondyle
+    • Epicondilul humeral medial alungit
 
-    • Ulna superimposed prin cap radial și neck
+    • Ulna suprapusă peste capul radial și col
 
-    • Trochlea
+    • Trohleea
 
-    • olecran within olecran fossa
+    • Olecranul în fosa olecraniană
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'Pronation de mână only poate nu se rotește cot articulație necessary 45
-    grade la evidențiază ulnar proces coronoid în
+    • Detalii trabeculare osoase și țesuturile moi din jur'
+  notes: 'Pronația mâinii singură poate să nu rotească articulația cotului cu 45 de
+    grade, necesare pentru evidențierea procesului coronoid ulnar în
 
-    profile.
+    profil.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  part_pos: '• se extinde extremity în anatomic poziție, ensuring extremity este în
-    same plane și paralel cu receptorul de imagine plane.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  part_pos: '• se extinde extremitatea în poziție anatomică, asigurându-se că extremitatea
+    este în același plan și paralelă cu planul receptorului de imagine.
 
-    • se centrează midpoint de receptorul de imagine la cot articulație
+    • se centrează mijlocul receptorului de imagine la articulația cotului
 
-    • Medially (internally) se rotește upper extremity la place humeral epicondyles
-    45 grade de la true anatomic poziție. This grade
+    • Medial (intern) se rotește membrul superior pentru a poziționa epicondilii humerali
+    la 45 grade față de poziția anatomică adevărată. Acest grad
 
-    de obliquity usually clears proces coronoid de cap radial. mână poate fie în pronație
-    sau la a 45-grade angle (Fig. 5.116).'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică, cu braț extins
-    și în contact cu masa de examinare.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    de oblicitate eliberează de obicei procesul coronoid de capul radial. Mâna poate
+    fi în pronație sau la un unghi de 45 grade (Fig. 5.116).'
+  patient_pos: • Pacientul se așază pe scaun la capătul mesei radiologice, cu brațul
+    extins și în contact cu masa de examinare.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 325–327
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot
-    articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate
+  collimation: Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față
+    de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate
     în câmpul colimat.
 title: Rx Cot — Oblică Antero-Posterioară (AP) — Rotație Internă (Medială) (Merrill)
 ---
@@ -125,17 +131,18 @@ title: Rx Cot — Oblică Antero-Posterioară (AP) — Rotație Internă (Medial
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică, cu braț extins și în contact cu masa de examinare.; se extinde extremity în anatomic poziție, ensuring extremity este în same plane și paralel cu receptorul de imagine plane. se centrează midpoint de receptorul de imagine la Cot articulație Medially (internally) se rotește upper extremity la place humeral epicondyles 45 grade de la true anatomic poziție. This grade de obliquity usually clears proces coronoid de cap radial. Mână poate fie în pronație sau la a 45-grade angle (Fig. 5.116).
-    - **Punct de Centrare Fascicul:** perpendicular pe Cot articulație
+    - **Poziție Pacient:** Pacientul se așază pe scaun la capătul mesei radiologice, cu brațul extins și în contact cu masa de examinare.; Se extinde extremitatea în poziție anatomică, asigurându-se că extremitatea se află în același plan și paralel cu planul receptorului de imagine. Se centrează mijlocul receptorului de imagine la nivelul articulației cotului. Se rotește medial (intern) extremitatea superioară pentru a plasa epicondilii humerali la 45 de grade față de poziția anatomică adevărată. Acest grad de oblicitate eliberează de obicei procesul coronoid de capul radial. Mâna poate fi în pronație sau la un unghi de 45 de grade (Fig. 5.116).
+    - **Punct de Centrare Fascicul:** Perpendicular pe articulația cotului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -151,23 +158,23 @@ title: Rx Cot — Oblică Antero-Posterioară (AP) — Rotație Internă (Medial
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Cot articulație centrat pe expunere field
-    - 45-grade rotație internă (medială) de Cot:
-    - proces coronoid în profile
-    - Elongated medial humeral epicondyle
-    - Ulna superimposed prin cap radial și neck
-    - Trochlea
-    - olecran within olecran fossa
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația cotului centrată pe câmpul de expunere
+    - Rotație internă (medială) de 45 de grade a cotului:
+    - Procesul coronoid în profil
+    - Epicondilul humeral medial alungit
+    - Ulna suprapusă peste capul radial și col
+    - Trohleea
+    - Olecranul în fosa olecraniană
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -177,8 +184,9 @@ title: Rx Cot — Oblică Antero-Posterioară (AP) — Rotație Internă (Medial
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Pronation de Mână only poate nu se rotește Cot articulație necessary 45 grade la evidențiază ulnar proces coronoid în profile. se efectuează ecranarea gonadelor cu șorț plumbat.
+    Pronația mâinii singură poate să nu rotească articulația cotului cu 45 de grade, necesare pentru evidențierea procesului coronoid ulnar în profil. Se efectuează ecranarea gonadelor cu șorț plumbat.
 
 
 ### 🖼️ Imagini
@@ -215,52 +223,3 @@ title: Rx Cot — Oblică Antero-Posterioară (AP) — Rotație Internă (Medial
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 325–327](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-oblic incidență de cot cu proces coronoid projected liber de superimposition (Fig. 5.117).
-
-### collimation
-
-• Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la cot articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe cot articulație
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cot articulație centrat pe expunere field
-• 45-grade rotație internă (medială) de cot:
-• proces coronoid în profile
-• Elongated medial humeral epicondyle
-• Ulna superimposed prin cap radial și neck
-• Trochlea
-• olecran within olecran fossa
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Pronation de mână only poate nu se rotește cot articulație necessary 45 grade la evidențiază ulnar proces coronoid în
-profile.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### part_pos
-
-• se extinde extremity în anatomic poziție, ensuring extremity este în same plane și paralel cu receptorul de imagine plane.
-• se centrează midpoint de receptorul de imagine la cot articulație
-• Medially (internally) se rotește upper extremity la place humeral epicondyles 45 grade de la true anatomic poziție. This grade
-de obliquity usually clears proces coronoid de cap radial. mână poate fie în pronație sau la a 45-grade angle (Fig. 5.116).
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică, cu braț extins și în contact cu masa de examinare.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

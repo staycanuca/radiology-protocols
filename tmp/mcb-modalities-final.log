@@ -1,0 +1,29 @@
+
+ │  ⚠  Warning from the Material for MkDocs team
+ │
+ │  MkDocs 2.0, the underlying framework of Material for MkDocs,
+ │  will introduce backward-incompatible changes, including:
+ │
+ │  × All plugins will stop working – the plugin system has been removed
+ │  × All theme overrides will break – the theming system has been rewritten
+ │  × No migration path exists – existing projects cannot be upgraded
+ │  × Closed contribution model – community members can't report bugs
+ │  × Currently unlicensed – unsuitable for production use
+ │
+ │  Our full analysis:
+ │
+ │  https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
+
+WARNING -  A 'dirty' build is being performed, this will likely lead to inaccurate navigation and other links within your site. This option is designed for site development purposes only.
+INFO    -  Building documentation to directory: C:\Users\ionel\Downloads\radiology-protocols\site
+INFO    -  The directory contains stale files. Use --clean to remove them.
+
+[build_optimizer] 🚀 Pornire optimizare și compresie pentru: site/
+  • Minificare 2109 fișiere HTML...
+  • Optimizare 3109 imagini (PNG & JPEG)...
+[build_optimizer] ✔ Optimizare finalizată în 46.30s!
+    - HTML:    124.3 MB -> 124.3 MB (-0.0 MB)
+    - Imagini: 237.2 MB -> 237.2 MB (-0.0 MB)
+    - TOTAL ECONOMISIT: 0.0 MB (reducere 0.0%)
+
+INFO    -  Documentation built in 73.81 seconds

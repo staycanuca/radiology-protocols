@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: înclinat 45 grade distally la enter anatomic snuf-box de Pumn (Articulație
-  Radiocarpiană) și pass through trapezium
+centering: înclinat la 45 de grade distal pentru a pătrunde în tabachera anatomică
+  a pumnului și a trece prin trapez
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -16,31 +16,35 @@ images:
 - caption: Merrill — pagina 310, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill/p310_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Holly 26 recommended variation de this method cu Mână în ulnar deviation pe
-  a 37-grade sponge wedge. raza centrală este Orientat vertical, entering just proximal
-  la first metacarpal base.
-position: cu pacientul Poziție Șezândă la end de masa radiologică, place Mână pe receptorul
-  de imagine în Incidență de Profil (lateral).; Place Pumn (Articulație Radiocarpiană)
-  în Incidență de Profil (lateral), resting pe ulnar surface over center de receptorul
-  de imagine. Place a 45-grade sponge wedge pe / sprijinit de anterior surface, then
-  se rotește Mână la come în contact cu sponge. If pacientul este able la achieve
-  ulnar deviation, se ajustează receptorul de imagine astfel încât axa longitudinală
-  de receptorul de imagine și Antebraț align cu raza centrală centrală (Fig. 5.93).
-  If pacientul este unable la achieve ulnar deviation comfortably, se aliniază straight
-  Pumn (Articulație Radiocarpiană) la receptorul de imagine, și se rotește Cot end
-  de receptorul de imagine și braț 20 grade away de la raza centrală (Fig. 5.94).
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Holly 26 recomandă o variantă a acestei metode, cu mâna în deviație ulnară
+  pe o pană de burete de 37 de grade. Raza centrală este orientată vertical, pătrunzând
+  imediat proximal față de baza primului metacarpian.
+position: Cu pacientul în poziție șezândă la capătul mesei radiologice, așezați mâna
+  pe receptorul de imagine în incidență de profil (lateral).; Așezați pumnul în incidență
+  de profil (lateral), sprijinit pe suprafața ulnară, peste centrul receptorului de
+  imagine. Așezați o pană de burete de 45 de grade pe/sprijinită de suprafața anterioară,
+  apoi rotiți mâna până intră în contact cu buretele. Dacă pacientul poate realiza
+  deviația ulnară, ajustați receptorul de imagine astfel încât axa longitudinală a
+  receptorului de imagine și antebrațul să se alinieze cu raza centrală (Fig. 5.93).
+  Dacă pacientul nu poate realiza confortabil deviația ulnară, aliniați pumnul drept
+  cu receptorul de imagine și rotiți capătul cotului al receptorului de imagine și
+  brațul la 20 de grade față de raza centrală (Fig. 5.94). Se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Trapezium projected liber de other oase carpiene cu exception de articulation cu
-  scaphoid
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Trapezul este proiectat liber de celelalte oase carpiene, cu excepția articulației
+  cu scafoidul
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-trapezium-pa-axial-incidenta-oblica-clements-nakayama-method-p307-merrill
 source_pages:
@@ -49,64 +53,56 @@ source_pages:
 - 309
 - 310
 source_sections:
-  anatomy: 'trapezium și its articulations cu adjacent oase carpiene (Fig. 5.95).
-    articulation de trapezium și scaphoid este nu vizualizat pe this
-
-    imagine.'
-  collimation: '• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal
-    la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate
-    (D/S) în
-
-    collimated expunere field.'
-  cr: • înclinat 45 grade distally la enter anatomic snuf-box de wrist și pass through
-    trapezium
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Trapezul și articulațiile sale cu oasele carpiene adiacente (Fig. 5.95).
+    Articulația trapezului cu scafoidul nu este vizualizată în această imagine.
+  collimation: • Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Plasați markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • înclinat la 45 de grade distal pentru a pătrunde în tabachera anatomică a
+    pumnului și a trece prin trapez
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar la nivelul anatomiei de interes
 
-    • Trapezium projected liber de other oase carpiene cu exception de articulation
-    cu scaphoid
+    • Trapezul proiectat liber de celelalte oase carpiene, cu excepția articulației
+    cu scafoidul
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'Holly 26 recommended variation de this method cu mână în ulnar deviation
-    pe a 37-grade sponge wedge. raza centrală este
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  notes: Holly 26 recomandă o variantă a acestei metode, cu mâna în deviație ulnară
+    pe o pană de burete de 37 de grade. Raza centrală este orientată vertical, pătrunzând
+    imediat proximal față de baza primului metacarpian.
+  part_pos: '• Așezați pumnul în poziție de profil (lateral), sprijinit pe suprafața
+    ulnară, peste centrul receptorului de imagine.
 
-    Orientat vertical, entering just proximal la first metacarpal base.'
-  part_pos: '• Place wrist în poziție de profil (lateral), resting pe ulnar surface
-    over center de receptorul de imagine.
+    • Așezați o pană de burete de 45 de grade pe/sprijinită de suprafața anterioară,
+    apoi rotiți mâna până intră în contact cu buretele.
 
-    • Place a 45-grade sponge wedge pe / sprijinit de anterior surface, then se rotește
-    mână la come în contact cu sponge.
+    • Dacă pacientul poate realiza deviația ulnară, ajustați receptorul de imagine
+    astfel încât axa longitudinală a receptorului de imagine și antebrațul să se alinieze
+    cu raza centrală (Fig. 5.93).
 
-    • If pacientul este able la achieve ulnar deviation, se ajustează receptorul de
-    imagine astfel încât axa longitudinală de receptorul de imagine și forearm align
-    cu raza centrală centrală (Fig.
+    • Dacă pacientul nu poate realiza confortabil deviația ulnară, aliniați pumnul
+    drept cu receptorul de imagine și rotiți capătul cotului al receptorului de imagine
+    și brațul la 20 de grade față de raza centrală (Fig. 5.94).
 
-    5.93).
-
-    • If pacientul este unable la achieve ulnar deviation comfortably, se aliniază
-    straight wrist la receptorul de imagine, și se rotește cot end de receptorul de
-    imagine
-
-    și braț 20 grade away de la raza centrală (Fig. 5.94).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • cu pacientul așezat pe scaun la end de masa radiologică, place mână
-    pe receptorul de imagine în poziție de profil (lateral).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Cu pacientul așezat pe scaun la capătul mesei radiologice, așezați
+    mâna pe receptorul de imagine în poziție de profil (lateral).
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 307–310
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
-    Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill)
+  collimation: Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față
+    de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de
+    lateralitate în câmpul colimat.
+title: Rx trapez — incidență oblică axială PA — metoda Clements-Nakayama (Merrill)
 ---
-# Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill)
+# Rx trapez — incidență oblică axială PA — metoda Clements-Nakayama (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -130,17 +126,18 @@ title: Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** cu pacientul Poziție Șezândă la end de masa radiologică, place Mână pe receptorul de imagine în Incidență de Profil (lateral).; Place Pumn (Articulație Radiocarpiană) în Incidență de Profil (lateral), resting pe ulnar surface over center de receptorul de imagine. Place a 45-grade sponge wedge pe / sprijinit de anterior surface, then se rotește Mână la come în contact cu sponge. If pacientul este able la achieve ulnar deviation, se ajustează receptorul de imagine astfel încât axa longitudinală de receptorul de imagine și Antebraț align cu raza centrală centrală (Fig. 5.93). If pacientul este unable la achieve ulnar deviation comfortably, se aliniază straight Pumn (Articulație Radiocarpiană) la receptorul de imagine, și se rotește Cot end de receptorul de imagine și braț 20 grade away de la raza centrală (Fig. 5.94). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** înclinat 45 grade distally la enter anatomic snuf-box de Pumn (Articulație Radiocarpiană) și pass through trapezium
+    - **Poziție Pacient:** Cu pacientul în poziție șezândă la capătul mesei radiologice, așezați mâna pe receptorul de imagine în incidență de profil (lateral).; Așezați pumnul în incidență de profil (lateral), sprijinit pe suprafața ulnară, peste centrul receptorului de imagine. Așezați o pană de burete de 45 de grade pe/sprijinită de suprafața anterioară, apoi rotiți mâna până intră în contact cu buretele. Dacă pacientul poate realiza deviația ulnară, ajustați receptorul de imagine astfel încât axa longitudinală a receptorului de imagine și antebrațul să se alinieze cu raza centrală (Fig. 5.93). Dacă pacientul nu poate realiza confortabil deviația ulnară, aliniați pumnul drept cu receptorul de imagine și rotiți capătul cotului al receptorului de imagine și brațul la 20 de grade față de raza centrală (Fig. 5.94). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** înclinat la 45 de grade distal pentru a pătrunde în tabachera anatomică a pumnului și a trece prin trapez
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -156,17 +153,17 @@ title: Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Trapezium projected liber de other oase carpiene cu exception de articulation cu scaphoid
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Trapezul este proiectat liber de celelalte oase carpiene, cu excepția articulației cu scafoidul
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -176,8 +173,9 @@ title: Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Holly 26 recommended variation de this method cu Mână în ulnar deviation pe a 37-grade sponge wedge. raza centrală este Orientat vertical, entering just proximal la first metacarpal base.
+    Holly 26 recomandă o variantă a acestei metode, cu mâna în deviație ulnară pe o pană de burete de 37 de grade. Raza centrală este orientată vertical, pătrunzând imediat proximal față de baza primului metacarpian.
 
 
 ### 🖼️ Imagini
@@ -222,50 +220,3 @@ title: Rx Trapezium — Oblică Axială PA — Clements-Nakayama Method (Merrill
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 307–310](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-trapezium și its articulations cu adjacent oase carpiene (Fig. 5.95). articulation de trapezium și scaphoid este nu vizualizat pe this
-imagine.
-
-### collimation
-
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• înclinat 45 grade distally la enter anatomic snuf-box de wrist și pass through trapezium
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Trapezium projected liber de other oase carpiene cu exception de articulation cu scaphoid
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Holly 26 recommended variation de this method cu mână în ulnar deviation pe a 37-grade sponge wedge. raza centrală este
-Orientat vertical, entering just proximal la first metacarpal base.
-
-### part_pos
-
-• Place wrist în poziție de profil (lateral), resting pe ulnar surface over center de receptorul de imagine.
-• Place a 45-grade sponge wedge pe / sprijinit de anterior surface, then se rotește mână la come în contact cu sponge.
-• If pacientul este able la achieve ulnar deviation, se ajustează receptorul de imagine astfel încât axa longitudinală de receptorul de imagine și forearm align cu raza centrală centrală (Fig.
-5.93).
-• If pacientul este unable la achieve ulnar deviation comfortably, se aliniază straight wrist la receptorul de imagine, și se rotește cot end de receptorul de imagine
-și braț 20 grade away de la raza centrală (Fig. 5.94).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• cu pacientul așezat pe scaun la end de masa radiologică, place mână pe receptorul de imagine în poziție de profil (lateral).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

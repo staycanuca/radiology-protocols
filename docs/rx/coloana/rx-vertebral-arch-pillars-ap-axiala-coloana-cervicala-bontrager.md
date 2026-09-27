@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-vertebral-arch-pillars-ap-axiala-coloana-cervicala-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Hiperextensia suficientă a gâtului și unghiul caudal al razei centrale sunt
@@ -106,11 +110,12 @@ title: RADIOGRAFIA ARCULUI VERTEBRAL (PILIERI) AP AXIALĂ (COLOANA CERVICALĂ)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -155,6 +160,7 @@ title: RADIOGRAFIA ARCULUI VERTEBRAL (PILIERI) AP AXIALĂ (COLOANA CERVICALĂ)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Hiperextensia suficientă a gâtului și unghiul caudal al razei centrale sunt esențiale pentru evidențierea aspectelor posterioare ale coloanei cervicale medii și inferioare. Valoarea unghiului razei centrale (20° până la 30°) este determinată de amploarea curburii lordotice cervicale naturale. Uneori poate fi plasat un suport sub umeri pentru a obține o hiperextensie suficientă. COLOANA CERVICALĂ SPECIALĂ Incidență laterală cervicotoracică (Swimmer) laterală — hiperflexie și hiperextensie AP (metoda Fuchs), PA (metoda Judd), AP cu mișcarea mandibulei (metoda Ottonello), AP axială (pilieri)

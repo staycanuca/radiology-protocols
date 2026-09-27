@@ -2,96 +2,100 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe axa longitudinală de Gambă, entering Genunchi articulație
-  ½ inch (1.3 cm) below patellar apex.
+centering: perpendicular pe axa longitudinală a gambei, intrând în articulația genunchiului
+  la ½ țol (1.3 cm) sub vârful rotulei.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 562, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-intercondylar-fossa-incidenta-ap-axiala-b-cl-re-method-p561-merrill/p562_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție și se ajustează corp so that
-  it este nu rotit.; se flectează afected Genunchi enough la place axa longitudinală
-  de Femur la un unghi de 60 grade la axa longitudinală de tibia. Support Genunchi
-  pe săculeți cu nisip (Fig. 7.144). Place receptorul de imagine under Genunchi și
-  poziție receptorul de imagine astfel încât center point coincides cu raza centrală
-  centrală. se ajustează membru inferior astfel încât femoral condyles sunt echidistant
-  față de receptorul de imagine. se imobilizează Picior cu săculeți cu nisip. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în poziție de decubit dorsal și se ajustează corpul astfel
+  încât să nu fie rotit; se flectează genunchiul afectat suficient pentru a plasa
+  axa longitudinală a femurului la un unghi de 60 grade față de axa longitudinală
+  a tibiei. Se sprijină genunchiul pe săculeți cu nisip (Fig. 7.144). Se plasează
+  receptorul de imagine sub genunchi și se poziționează astfel încât punctul central
+  să coincidă cu raza centrală. Se ajustează membrul inferior astfel încât condilii
+  femurali să fie echidistanți față de receptorul de imagine. Se imobilizează piciorul
+  cu săculeți cu nisip. Se efectuează protecția gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Open intercondylar fossa
-- Posteroinferior surface de femoral condyles
-- Intercondylar eminence și Genunchi spații articulare
-- fără superimposition de fossa prin apex de Rotulă (Patelă)
-- Absența rotației anatomice (simetrie bilaterală perfectă), ca evidențiat prin slight
-  tibiofibular overlap
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Fosa intercondiliană deschisă
+- Suprafața postero-inferioară a condililor femurali
+- Eminența intercondiliană și spațiile articulare ale genunchiului
+- fără suprapunerea fosei de către vârful rotulei (patela)
+- Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată prin suprapunerea
+  tibio-fibulară ușoară
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-intercondylar-fossa-incidenta-ap-axiala-b-cl-re-method-p561-merrill
 source_pages:
 - 561
 - 562
 source_sections:
-  anatomy: intercondylar fossa, intercondylar eminence, și genunchi articulație (Fig.
-    7.145).
-  collimation: '• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S)
+  anatomy: fosa intercondiliană, eminența intercondiliană și articulația genunchiului
+    (Fig. 7.145).
+  collimation: • Ajustați câmpul de iradiere la 8 × 10 inci (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de laturi. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: • perpendiculară pe axa longitudinală a membrului inferior, intrând în articulația
+    genunchiului la ½ țol (1.3 cm) sub apexul rotulei.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    în collimated expunere field.'
-  cr: • perpendicular pe axa longitudinală de lower membru inferior, entering genunchi
-    articulație ½ inch (1.3 cm) below patellar apex.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Fosa intercondiliană deschisă
 
-    • Open intercondylar fossa
+    • Suprafața posteroinferioară a condililor femurali
 
-    • Posteroinferior surface de femoral condyles
+    • Eminența intercondiliană și spațiile articulare ale genunchiului
 
-    • Intercondylar eminence și genunchi spații articulare
+    • Fără suprapunerea fosei de către apexul rotulei (patela)
 
-    • fără superimposition de fossa prin apex de rotulă (patelă)
+    • Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată printr-o
+    ușoară suprapunere tibiofibulară
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă), ca evidențiat prin
-    slight tibiofibular overlap
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• se flectează genunchiul afectat suficient pentru a plasa axa longitudinală
+    a femurului la un unghi de 60 grade față de axa longitudinală a tibiei.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se flectează afected genunchi enough la place axa longitudinală de
-    femur la un unghi de 60 grade la axa longitudinală de tibia.
+    • Se sprijină genunchiul pe săculeți cu nisip (Fig. 7.144).
 
-    • Support genunchi pe săculeți cu nisip (Fig. 7.144).
+    • Se plasează receptorul de imagine sub genunchi și se poziționează receptorul
+    de imagine astfel încât punctul central să coincidă cu raza centrală.
 
-    • Place receptorul de imagine under genunchi și poziție receptorul de imagine
-    astfel încât center point coincides cu raza centrală centrală.
+    • Se ajustează membrul inferior astfel încât condilii femurali să fie echidistanți
+    față de receptorul de imagine. Se imobilizează piciorul cu săculeți cu nisip.
 
-    • se ajustează membru inferior astfel încât femoral condyles sunt echidistant
-    față de receptorul de imagine. se imobilizează picior cu săculeți cu nisip.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit dorsal și se ajustează corp so that
-    it este nu rotit.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) transversal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • se așază pacientul în decubit dorsal și se ajustează corpul astfel
+    încât să nu fie rotit.
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru afișarea corectă a anatomiei; placă pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 561–562
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în
-    collimated expunere field.
-title: Rx Intercondylar Fossa — Incidență AP Axială — Béclère Method (Merrill)
+  collimation: Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: Rx fosa intercondiliană — incidență AP axială — metoda Béclère (Merrill)
 ---
-# Rx Intercondylar Fossa — Incidență AP Axială — Béclère Method (Merrill)
+# Rx fosa intercondiliană — incidență AP axială — metoda Béclère (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -115,17 +119,18 @@ title: Rx Intercondylar Fossa — Incidență AP Axială — Béclère Method (M
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție și se ajustează corp so that it este nu rotit.; se flectează afected Genunchi enough la place axa longitudinală de Femur la un unghi de 60 grade la axa longitudinală de tibia. Support Genunchi pe săculeți cu nisip (Fig. 7.144). Place receptorul de imagine under Genunchi și poziție receptorul de imagine astfel încât center point coincides cu raza centrală centrală. se ajustează membru inferior astfel încât femoral condyles sunt echidistant față de receptorul de imagine. se imobilizează Picior cu săculeți cu nisip. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală de Gambă, entering Genunchi articulație ½ inch (1.3 cm) below patellar apex.
+    - **Poziție Pacient:** Se așază pacientul în poziție de decubit dorsal și se ajustează corpul astfel încât să nu fie rotit; se flectează genunchiul afectat suficient pentru a plasa axa longitudinală a femurului la un unghi de 60 grade față de axa longitudinală a tibiei. Se sprijină genunchiul pe săculeți cu nisip (Fig. 7.144). Se plasează receptorul de imagine sub genunchi și se poziționează astfel încât punctul central să coincidă cu raza centrală. Se ajustează membrul inferior astfel încât condilii femurali să fie echidistanți față de receptorul de imagine. Se imobilizează piciorul cu săculeți cu nisip. Se efectuează protecția gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală a gambei, intrând în articulația genunchiului la ½ țol (1.3 cm) sub vârful rotulei.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -141,21 +146,21 @@ title: Rx Intercondylar Fossa — Incidență AP Axială — Béclère Method (M
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator. Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Open intercondylar fossa
-    - Posteroinferior surface de femoral condyles
-    - Intercondylar eminence și Genunchi spații articulare
-    - fără superimposition de fossa prin apex de Rotulă (Patelă)
-    - Absența rotației anatomice (simetrie bilaterală perfectă), ca evidențiat prin slight tibiofibular overlap
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Fosa intercondiliană deschisă
+    - Suprafața postero-inferioară a condililor femurali
+    - Eminența intercondiliană și spațiile articulare ale genunchiului
+    - fără suprapunerea fosei de către vârful rotulei (patela)
+    - Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată prin suprapunerea tibio-fibulară ușoară
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -164,6 +169,7 @@ title: Rx Intercondylar Fossa — Incidență AP Axială — Béclère Method (M
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -195,46 +201,3 @@ title: Rx Intercondylar Fossa — Incidență AP Axială — Béclère Method (M
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 561–562](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-intercondylar fossa, intercondylar eminence, și genunchi articulație (Fig. 7.145).
-
-### collimation
-
-• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-• perpendicular pe axa longitudinală de lower membru inferior, entering genunchi articulație ½ inch (1.3 cm) below patellar apex.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Open intercondylar fossa
-• Posteroinferior surface de femoral condyles
-• Intercondylar eminence și genunchi spații articulare
-• fără superimposition de fossa prin apex de rotulă (patelă)
-• Absența rotației anatomice (simetrie bilaterală perfectă), ca evidențiat prin slight tibiofibular overlap
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se flectează afected genunchi enough la place axa longitudinală de femur la un unghi de 60 grade la axa longitudinală de tibia.
-• Support genunchi pe săculeți cu nisip (Fig. 7.144).
-• Place receptorul de imagine under genunchi și poziție receptorul de imagine astfel încât center point coincides cu raza centrală centrală.
-• se ajustează membru inferior astfel încât femoral condyles sunt echidistant față de receptorul de imagine. se imobilizează picior cu săculeți cu nisip.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal și se ajustează corp so that it este nu rotit.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) transversal.
-

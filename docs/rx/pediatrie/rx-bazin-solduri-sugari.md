@@ -4,7 +4,7 @@ breathing: Nemodificată
 category: pediatrie
 centering: Pe linia mediană, la nivelul simfizei pubiene
 clinical_indications:
-- Depistarea și evaluarea displaziei de dezvoltare șoldului (DDH) la sugari peste
+- Depistarea și evaluarea displaziei de dezvoltare a șoldului (DDH) la sugari peste
   4-6 luni (după debutul osificării capului femural)
 - Monitorizare post-tratament cu ham Pavlik sau atelă de abducție
 - Luxație congenitală de șold confirmată
@@ -21,12 +21,12 @@ position: Decubit dorsal, asistentul sau părintele menține bazinul perfect ori
   membrele inferioare în adducție ușoară și extensie simetrică
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Însoțitorul este protejat cu șorț și mănuși de plumb
 quality_criteria:
-- Simetrie perfectă inelului pelvin (absența înclinației pelvine)
+- Simetrie perfectă a inelului pelvin (absența înclinației pelvine)
 - Găurile obturatoare simetrice ca dimensiune
-- 'Trasarea clară reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele
+- 'Trasarea clară a reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele
   triradiate), linia Perkin (verticală la marginea externă acetabulară) și linia Shenton'
 - Calculul unghiului acetabular (normal < 30° la nou-născut, < 25° la 6 luni)
 sid_dff: 100 cm
@@ -55,9 +55,9 @@ tech_params:
   grid: Fără grilă (sau grilă cu raport mic 6:1)
   kv: 55 - 60
   mas: 3 - 5
-title: Rx Bazin & Șolduri Sugari (Displazie de Șold)
+title: Rx bazin și șolduri la sugari (displazia de șold)
 ---
-# Rx Bazin & Șolduri Sugari (Displazie de Șold)
+# Rx bazin și șolduri la sugari (displazia de șold)
 
 
 <div class="rx-meta-bar">
@@ -76,7 +76,7 @@ title: Rx Bazin & Șolduri Sugari (Displazie de Șold)
 
     === "Indicații Clinice"
 
-        - Depistarea și evaluarea displaziei de dezvoltare șoldului (DDH) la sugari peste 4-6 luni (după debutul osificării capului femural)
+        - Depistarea și evaluarea displaziei de dezvoltare a șoldului (DDH) la sugari peste 4-6 luni (după debutul osificării capului femural)
         - Monitorizare post-tratament cu ham Pavlik sau atelă de abducție
         - Luxație congenitală de șold confirmată
 
@@ -88,6 +88,7 @@ title: Rx Bazin & Șolduri Sugari (Displazie de Șold)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -116,19 +117,20 @@ title: Rx Bazin & Șolduri Sugari (Displazie de Șold)
 
     ---
 
-    - Simetrie perfectă inelului pelvin (absența înclinației pelvine)
+    - Simetrie perfectă a inelului pelvin (absența înclinației pelvine)
     - Găurile obturatoare simetrice ca dimensiune
-    - Trasarea clară reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele triradiate), linia Perkin (verticală la marginea externă acetabulară) și linia Shenton
+    - Trasarea clară a reperelor geometrice: linia Hilgenreiner (orizontală prin cartilajele triradiate), linia Perkin (verticală la marginea externă acetabulară) și linia Shenton
     - Calculul unghiului acetabular (normal < 30° la nou-născut, < 25° la 6 luni)
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Însoțitorul este protejat cu șorț și mănuși de plumb
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     La sugari sub 4-6 luni, metoda de elecție este ECOGRAFIA DE ȘOLD (metoda Graf) conform ghidului IRIS, deoarece componentele sunt predominant cartilaginoase și nu iradiază!

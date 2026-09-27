@@ -2,40 +2,44 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular pe receptorul de imagine, orientat la maleolă medială (tibială)
+centering: perpendicular pe receptorul de imagine, orientat spre maleola medială (tibială)
 clinical_indications:
-- incidență este useful în evaluation de suspiciune de fractură, luxație / subluxație
-  articulară, și articulație effusions associated cu other articulație pathologies
+- Incidența este utilă în evaluarea suspiciunii de fractură, a luxației/subluxației
+  articulare și a revărsatelor articulare asociate cu alte patologii articulare
 images:
-- caption: Fig. 6.90 Mediolateral Gleznă (Articulație Talocrurală).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.90 Mediolateral
-    ankle.)
+- caption: Fig. 6.90 Gleznă (articulație talocrurală) mediolaterală.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.90 Gleznă
+    mediolaterală.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_1.jpeg
-- caption: Fig. 6.91 Alternative lateromedial Gleznă (Articulație Talocrurală).
+- caption: Fig. 6.91 Gleznă (articulație talocrurală) lateromedială alternativă.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.91
-    Alternative lateromedial ankle.)
+    Gleznă lateromedială alternativă.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_2.jpeg
-- caption: Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală).
+- caption: Fig. 6.92 Gleznă (articulație talocrurală) mediolaterală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.92
-    Mediolateral ankle.)
+    Gleznă mediolaterală.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_3.jpeg
-- caption: Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală).
+- caption: Fig. 6.93 Gleznă (articulație talocrurală) mediolaterală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.93
-    Mediolateral ankle.)
+    Gleznă mediolaterală.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place pacient în lateral Decubit poziție, affected side down;
-  provide pillow pentru pacient’s cap; flex Genunchi de affected limb approximately
-  45°; place opposite membru inferior behind injured limb la prevent overrotation.;
-  Regiune anatomică: (Mediolateral incidență) Center și align Gleznă (Articulație
-  Talocrurală) articulație la raza centrală și la axa longitudinală de portion de
-  receptorul de imagine being exposed (Fig. 6.90). Place support under Genunchi ca
-  needed la place membru inferior și Picior în true Incidență de Profil (lateral).
-  Dorsiflex Picior so that plantar surface este la drept angle la membru inferior
-  sau ca far ca pacient poate tolerate; do nu force. (This helps maintain true Incidență
-  de Profil (lateral).)'
+position: 'Pacient: Așezați pacientul în decubit lateral, cu partea afectată în jos;
+  asigurați o pernă pentru capul pacientului; flectați genunchiul membrului afectat
+  la aproximativ 45°; plasați membrul inferior opus în spatele membrului lezat pentru
+  a preveni suprarotirea. Regiune anatomică: (Incidență mediolaterală) Centrați și
+  aliniați articulația gleznei (talocrurale) la raza centrală și la axa longitudinală
+  a porțiunii receptorului de imagine expuse (Fig. 6.90). Plasați un suport sub genunchi,
+  după cum este necesar, pentru a poziționa membrul inferior și piciorul în incidență
+  de profil adevărată. Dorsiflectați piciorul astfel încât suprafața plantară să fie
+  în unghi drept față de membrul inferior sau cât poate tolera pacientul; nu forțați.
+  (Aceasta ajută la menținerea incidenței de profil adevărate.)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,15 +47,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- distal onethird de tibia și fibula cu distal fibula superimposed prin distal tibia,
-  astragal (talus), și Calcaneu appear în lateral profile.
-- 'Tuberosity de fifth metatarsal, navicular, și cuboid also sunt visualized (Figs.
-  6.92 și 6.93). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  este evidenced prin distal fibula being superimposed over posterior half de tibia.'
-- Tibiotalar articulație este open cu uniform spații articulare.
-- Collimation field trebuie să include distal onethird de Gambă, Calcaneu, tuberosity
-  de fifth metatarsal, și surrounding părți moi structures.
+- Treimea distală a tibiei și fibulei, cu fibula distală suprapusă peste tibia distală,
+  astragalul (talusul) și calcaneul apar de profil.
+- 'Tuberozitatea celui de-al cincilea metatarsian, navicularul și cuboidul sunt, de
+  asemenea, vizualizate (Fig. 6.92 și 6.93). Poziție:'
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase
+  este evidențiată prin suprapunerea fibulei distale peste jumătatea posterioară a
+  tibiei.'
+- Articulația tibiotalară este deschisă, cu spații articulare uniforme.
+- Câmpul de colimare trebuie să includă treimea distală a gambei, calcaneul, tuberozitatea
+  celui de-al cincilea metatarsian și structurile părților moi înconjurătoare.
 sid_dff: 100 cm
 slug: rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager
 sources:
@@ -59,22 +64,22 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'la aria de interes diagnostic. expunere: optim receptorul de imagine
-    expunere și contrast cu fără mișcare, ca evidenced prin net bony margins și trabecular
-    patterns. maleolă laterală (fibulară) trebuie să fie seen through distal tibia
-    și astragal (talus), și părți moi trebuie să fie evidențiat pentru evaluation
-    de articulație effusion. Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală).
-    Fibula Calcaneu Cuboid Navicular astragal (talus) Base de 5th metatarsal anterior
-    tubercle Tibia Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală).'
+  collimation: 'la aria de interes diagnostic. Expunere: Expunerea și contrastul optime
+    ale receptorului de imagine, fără mișcare, evidențiate prin margini osoase și
+    modele trabeculare clare. Maleola laterală (fibulară) trebuie să fie vizualizată
+    prin tibia distală și astragal (talus), iar părțile moi trebuie evidențiate pentru
+    evaluarea revărsatului articular. Fig. 6.92 Gleznă (articulație talocrurală) mediolaterală.
+    Fibulă Calcaneu Cuboid Navicular Astragal (talus) Baza celui de-al 5-lea metatarsian
+    Tubercul anterior Tibie Fig. 6.93 Gleznă (articulație talocrurală) mediolaterală.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-75
   mas: DE CONFIGURAT PE APARAT
-title: Rx Medio-Lateral (OR Latero-Medial) Incidență LATERAL (Gleznă (Articulație
-  Talocrurală))
+title: Rx mediolaterală (SAU lateromedială), incidență de profil, a gleznei (articulației
+  talocrurale)
 ---
-# Rx Medio-Lateral (OR Latero-Medial) Incidență LATERAL (Gleznă (Articulație Talocrurală))
+# Rx mediolaterală (SAU lateromedială), incidență de profil, a gleznei (articulației talocrurale)
 
 
 <div class="rx-meta-bar">
@@ -93,22 +98,23 @@ title: Rx Medio-Lateral (OR Latero-Medial) Incidență LATERAL (Gleznă (Articul
 
     === "Indicații Clinice"
 
-        - incidență este useful în evaluation de suspiciune de fractură, luxație / subluxație articulară, și articulație effusions associated cu other articulație pathologies
+        - Incidența este utilă în evaluarea suspiciunii de fractură, a luxației/subluxației articulare și a revărsatelor articulare asociate cu alte patologii articulare
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție, affected side down; provide pillow pentru pacient’s cap; flex Genunchi de affected limb approximately 45°; place opposite membru inferior behind injured limb la prevent overrotation.; Regiune anatomică: (Mediolateral incidență) Center și align Gleznă (Articulație Talocrurală) articulație la raza centrală și la axa longitudinală de portion de receptorul de imagine being exposed (Fig. 6.90). Place support under Genunchi ca needed la place membru inferior și Picior în true Incidență de Profil (lateral). Dorsiflex Picior so that plantar surface este la drept angle la membru inferior sau ca far ca pacient poate tolerate; do nu force. (This helps maintain true Incidență de Profil (lateral).)
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la maleolă medială (tibială)
+    - **Poziție Pacient:** Pacient: Așezați pacientul în decubit lateral, cu partea afectată în jos; asigurați o pernă pentru capul pacientului; flectați genunchiul membrului afectat la aproximativ 45°; plasați membrul inferior opus în spatele membrului lezat pentru a preveni suprarotirea. Regiune anatomică: (Incidență mediolaterală) Centrați și aliniați articulația gleznei (talocrurale) la raza centrală și la axa longitudinală a porțiunii receptorului de imagine expuse (Fig. 6.90). Plasați un suport sub genunchi, după cum este necesar, pentru a poziționa membrul inferior și piciorul în incidență de profil adevărată. Dorsiflectați piciorul astfel încât suprafața plantară să fie în unghi drept față de membrul inferior sau cât poate tolera pacientul; nu forțați. (Aceasta ajută la menținerea incidenței de profil adevărate.)
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat spre maleola medială (tibială)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -124,18 +130,18 @@ title: Rx Medio-Lateral (OR Latero-Medial) Incidență LATERAL (Gleznă (Articul
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | la aria de interes diagnostic. expunere: optim receptorul de imagine expunere și contrast cu fără mișcare, ca evidenced prin net bony margins și trabecular patterns. maleolă laterală (fibulară) trebuie să fie seen through distal tibia și astragal (talus), și părți moi trebuie să fie evidențiat pentru evaluation de articulație effusion. Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală). Fibula Calcaneu Cuboid Navicular astragal (talus) Base de 5th metatarsal anterior tubercle Tibia Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală). |
+    | **Colimare Fascicul** | la aria de interes diagnostic. Expunere: Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, evidențiate prin margini osoase și modele trabeculare clare. Maleola laterală (fibulară) trebuie să fie vizualizată prin tibia distală și astragal (talus), iar părțile moi trebuie evidențiate pentru evaluarea revărsatului articular. Fig. 6.92 Gleznă (articulație talocrurală) mediolaterală. Fibulă Calcaneu Cuboid Navicular Astragal (talus) Baza celui de-al 5-lea metatarsian Tubercul anterior Tibie Fig. 6.93 Gleznă (articulație talocrurală) mediolaterală. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal onethird de tibia și fibula cu distal fibula superimposed prin distal tibia, astragal (talus), și Calcaneu appear în lateral profile.
-    - Tuberosity de fifth metatarsal, navicular, și cuboid also sunt visualized (Figs. 6.92 și 6.93). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced prin distal fibula being superimposed over posterior half de tibia.
-    - Tibiotalar articulație este open cu uniform spații articulare.
-    - Collimation field trebuie să include distal onethird de Gambă, Calcaneu, tuberosity de fifth metatarsal, și surrounding părți moi structures.
+    - Treimea distală a tibiei și fibulei, cu fibula distală suprapusă peste tibia distală, astragalul (talusul) și calcaneul apar de profil.
+    - Tuberozitatea celui de-al cincilea metatarsian, navicularul și cuboidul sunt, de asemenea, vizualizate (Fig. 6.92 și 6.93). Poziție:
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase este evidențiată prin suprapunerea fibulei distale peste jumătatea posterioară a tibiei.
+    - Articulația tibiotalară este deschisă, cu spații articulare uniforme.
+    - Câmpul de colimare trebuie să includă treimea distală a gambei, calcaneul, tuberozitatea celui de-al cincilea metatarsian și structurile părților moi înconjurătoare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,33 +161,33 @@ title: Rx Medio-Lateral (OR Latero-Medial) Incidență LATERAL (Gleznă (Articul
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.90 Mediolateral Gleznă (Articulație Talocrurală).](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_1.jpeg)
+![Fig. 6.90 Gleznă (articulație talocrurală) mediolaterală.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.90 Mediolateral Gleznă (Articulație Talocrurală).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.90 Mediolateral ankle.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.91 Alternative lateromedial Gleznă (Articulație Talocrurală).](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.91 Alternative lateromedial Gleznă (Articulație Talocrurală).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.91 Alternative lateromedial ankle.)</span></figcaption>
+<figcaption><strong>Fig. 6.90 Gleznă (articulație talocrurală) mediolaterală.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.90 Gleznă mediolaterală.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală).](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_3.jpeg)
+![Fig. 6.91 Gleznă (articulație talocrurală) lateromedială alternativă.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.92 Mediolateral Gleznă (Articulație Talocrurală).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.92 Mediolateral ankle.)</span></figcaption>
+<figcaption><strong>Fig. 6.91 Gleznă (articulație talocrurală) lateromedială alternativă.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.91 Gleznă lateromedială alternativă.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală).](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_4.jpeg)
+![Fig. 6.92 Gleznă (articulație talocrurală) mediolaterală.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.93 Mediolateral Gleznă (Articulație Talocrurală).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.93 Mediolateral ankle.)</span></figcaption>
+<figcaption><strong>Fig. 6.92 Gleznă (articulație talocrurală) mediolaterală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.92 Gleznă mediolaterală.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.93 Gleznă (articulație talocrurală) mediolaterală.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projection-lateral-glezna-articulatie-talocrurala-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 6.93 Gleznă (articulație talocrurală) mediolaterală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.93 Gleznă mediolaterală.)</span></figcaption>
 
 </figure>
 

@@ -15,6 +15,10 @@ images:
 - caption: Merrill — pagina 1117, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-pa-incidenta-oblica-rao-position-p1114-merrill/p1117_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -153,11 +157,12 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (P
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -202,6 +207,7 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (P
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -249,53 +255,3 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Oblică Postero-Anterioară (P
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1114–1117](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Sunt evidențiate întregul stomac și ansa duodenală. Oferă cea mai bună imagine a canalului piloric și a bulbului duodenal la pacienții stenici (Fig. 15.68 și 15.69).
-Deoarece peristaltismul gastric este în general mai activ când pacientul se află în poziție oblică anterioară dreaptă (OAD / RAO), uneori se efectuează o examinare în serie cu mai multe expuneri la intervale de 30 până la 40 secunde, pentru a contura canalul piloric și bulbul duodenal.
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• perpendicular pe centrul receptorului de imagine.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste anatomia de interes
-• Întregul stomac și ansa duodenală
-• Fără suprapunerea pilorului și a bulbului duodenal
-• Bulbul și ansa duodenală în profil
-• Stomacul centrat la nivelul pilorului
-• Penetrarea mediului de contrast
-• Anatomia înconjurătoare
-
-### part_pos
-
-• După incidența PA, se instruiește pacientul să își sprijine capul pe obrazul drept și să își așeze brațul drept de-a lungul corpului.
-• Se instruiește pacientul să își ridice partea stângă și să își sprijine corpul pe antebrațul stâng și pe genunchiul stâng flectat.
-• Se ajustează poziția pacientului astfel încât planul sagital care trece la jumătatea distanței dintre vertebre și marginea laterală a părții ridicate să coincidă cu linia mediană a grilei (Fig. 15.67).
-• Se centrează receptorul de imagine la aproximativ 1 până la 2 țoli (2.5 până la 5 cm) deasupra marginii costale inferioare, la nivelul L1-L2, când pacientul este în decubit ventral.
-• Se efectuează ajustarea finală a rotației corpului. Rotația de aproximativ 40 până la 70 grade necesară pentru a obține cea mai bună imagine a canalului piloric și a duodenului depinde de dimensiunea, forma și poziția stomacului. În general, pacienții hiperstenici necesită un grad de rotație mai mare decât pacienții stenici și astenici.
-• Poziția oblică anterioară dreaptă (OAD / RAO) este utilizată pentru examinări în serie ale canalului piloric și bulbului duodenal, deoarece peristaltismul gastric este de obicei mai activ când pacientul se află în această poziție.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se așază pacientul în decubit.
-
-### respirație
-
-Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
-

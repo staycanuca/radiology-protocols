@@ -13,6 +13,10 @@ images:
 - caption: Merrill — pagina 1252, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-right-or-left-position-p1250-merrill/p1252_fig2.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -131,11 +135,12 @@ title: Rx aparat urinar — Incidență de profil (laterală) — Profil (drept 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -181,6 +186,7 @@ title: Rx aparat urinar — Incidență de profil (laterală) — Profil (drept 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -219,52 +225,3 @@ title: Rx aparat urinar — Incidență de profil (laterală) — Profil (drept 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1250–1252](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidența de profil a abdomenului evidențiază rinichii, ureterele și vezica urinară umplute cu substanță de contrast. Incidențele de profil sunt utilizate pentru a evidenția
-situații precum rotația sau deplasarea prin compresiune a rinichilor și pentru a localiza zonele calcificate și masele tumorale (Fig. 16.48).
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5
-cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
-
-### raza centrală
-
-• Perpendiculară pe receptorul de imagine (RI), pătrunzând în planul mediocoronal la nivelul crestelor iliace
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
-• Întregul aparat urinar
-• Vezica urinară și simfiza pubiană
-• Substanță de contrast în regiunea renală, uretere și vezica urinară
-• Structurile anatomice învecinate
-• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică bazinul (pelvisul) și coloana lombară)
-• Marker temporal
-
-### part_pos
-
-• Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
-• Se așază suporturi între genunchii și între gleznele pacientului.
-• Se flectează coatele pacientului și se așază mâinile sub capul acestuia (Fig. 16.47).
-• Se centrează receptorul de imagine la nivelul crestelor iliace.
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se întoarce pacientul în decubit lateral drept sau stâng, conform indicației.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
-43 cm), longitudinal.
-

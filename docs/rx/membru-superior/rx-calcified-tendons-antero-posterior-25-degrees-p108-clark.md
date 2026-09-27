@@ -3,22 +3,23 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală orizontală centrală este orientat la centre de axilla,
-  cu minimum angulation spre trunk.
+centering: '• Raza centrală orizontală este orientată spre centrul axilei, cu o angulație
+  minimă spre trunchi.
 
-  evidențiază: insertion de subscapularis și teres minor și course de tendons anterior
-  și posterior la capsule de Umăr articulație.'
+  Evidențiază: inserția mușchilor subscapular și rotund mic și traiectul tendoanelor
+  anterior și posterior față de capsula articulației umărului.'
 clinical_indications:
-- 93 3 Calcified tendons Antero-posterior (AP) – 25 grade caudal
+- 93 3 Tendoane calcificate antero-posterior (AP) – 25 de grade caudal
 images:
-- caption: Antero-posterior (AP) radiografie de Umăr cu 25 grade caudal
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie antero-posterioară (AP) a umărului cu 25 de grade caudal
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_1.jpeg
-- caption: angulation la show calcificări patologice
+- caption: angulație pentru evidențierea calcificărilor patologice
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_2.jpeg
-- caption: Infero-Superioară (Axială) radiografie de Umăr evidențiind calcificări
+- caption: Radiografie infero-superioară (axială) a umărului, evidențiind calcificările
     patologice
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
@@ -27,17 +28,21 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este culcat Decubit dorsal pe masa de examinare, cu braț de
-  side being examined în abducție la drept-angle.
+position: '• Pacientul este culcat în decubit dorsal pe masa de examinare, cu brațul
+  de pe partea examinată în abducție la un unghi drept.
 
-  • palm de Mână faces upwards și line joining medial și Profil (lateral) epicondyles
-  este în plane paralel cu tabletop.
+  • Palma mâinii este orientată în sus, iar linia care unește epicondilele medial
+  și lateral este în plan paralel cu blatul mesei.
 
-  • caseta este sprijinit vertically pe / sprijinit de upper margine de Umăr și pressed
-  into gâtul.'
+  • Caseta este sprijinită vertical pe sau de marginea superioară a umărului și presată
+  în gât.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -46,10 +51,10 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- în fiecare case, imagine trebuie să evidențiază extremitatea proximală Humerus în
-  profile la tendon under examination. Antero-posterior (AP) radiografie de Umăr cu
-  25 grade caudal angulation la show calcificări patologice Infero-Superioară (Axială)
-  radiografie de Umăr evidențiind calcificări patologice
+- În fiecare caz, imaginea trebuie să evidențieze extremitatea proximală a humerusului
+  în profil față de tendonul examinat. Radiografie antero-posterioară (AP) a umărului
+  cu angulație caudală de 25 de grade pentru evidențierea calcificărilor patologice.
+  Radiografie infero-superioară (axială) a umărului, evidențiind calcificările patologice
 sid_dff: 100 cm
 slug: rx-calcified-tendons-antero-posterior-25-degrees-p108-clark
 sources:
@@ -58,14 +63,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Calcified tendons Antero-Posterior (AP) - 25 degrees
+  mas: Conform AEC / grosimii anatomice
+title: Rx tendoane calcificate antero-posterior (AP) - 25 de grade
 ---
-# Rx Calcified tendons Antero-Posterior (AP) - 25 degrees
+# Rx tendoane calcificate antero-posterior (AP) - 25 de grade
 
 
 <div class="rx-meta-bar">
@@ -84,25 +89,27 @@ title: Rx Calcified tendons Antero-Posterior (AP) - 25 degrees
 
     === "Indicații Clinice"
 
-        - 93 3 Calcified tendons Antero-posterior (AP) – 25 grade caudal
+        - 93 3 Tendoane calcificate antero-posterior (AP) – 25 de grade caudal
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal pe masa de examinare, cu braț de side being examined în abducție la drept-angle.
-• palm de Mână faces upwards și line joining medial și Profil (lateral) epicondyles este în plane paralel cu tabletop.
-• caseta este sprijinit vertically pe / sprijinit de upper margine de Umăr și pressed into gâtul.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat la centre de axilla, cu minimum angulation spre trunk.
-evidențiază: insertion de subscapularis și teres minor și course de tendons anterior și posterior la capsule de Umăr articulație.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal pe masa de examinare, cu brațul de pe partea examinată în abducție la un unghi drept.
+        - Palma mâinii este orientată în sus, iar linia care unește epicondilele medial și lateral este în plan paralel cu blatul mesei.
+        - Caseta este sprijinită vertical pe sau de marginea superioară a umărului și presată în gât.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală orizontală este orientată spre centrul axilei, cu o angulație minimă spre trunchi. Evidențiază: inserția mușchilor subscapular și rotund mic și traiectul tendoanelor anterior și posterior față de capsula articulației umărului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -113,19 +120,19 @@ evidențiază: insertion de subscapularis și teres minor și course de tendons 
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - în fiecare case, imagine trebuie să evidențiază extremitatea proximală Humerus în profile la tendon under examination. Antero-posterior (AP) radiografie de Umăr cu 25 grade caudal angulation la show calcificări patologice Infero-Superioară (Axială) radiografie de Umăr evidențiind calcificări patologice
+    - În fiecare caz, imaginea trebuie să evidențieze extremitatea proximală a humerusului în profil față de tendonul examinat. Radiografie antero-posterioară (AP) a umărului cu angulație caudală de 25 de grade pentru evidențierea calcificărilor patologice. Radiografie infero-superioară (axială) a umărului, evidențiind calcificările patologice
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -137,6 +144,7 @@ evidențiază: insertion de subscapularis și teres minor și course de tendons 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -147,25 +155,25 @@ evidențiază: insertion de subscapularis și teres minor și course de tendons 
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie de Umăr cu 25 grade caudal](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_1.jpeg)
+![Radiografie antero-posterioară (AP) a umărului cu 25 de grade caudal](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_1.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie de Umăr cu 25 grade caudal</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![angulation la show calcificări patologice](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_2.jpeg)
-
-<figcaption><strong>angulation la show calcificări patologice</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară (AP) a umărului cu 25 de grade caudal</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Infero-Superioară (Axială) radiografie de Umăr evidențiind calcificări patologice](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_3.jpeg)
+![angulație pentru evidențierea calcificărilor patologice](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_2.jpeg)
 
-<figcaption><strong>Infero-Superioară (Axială) radiografie de Umăr evidențiind calcificări patologice</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>angulație pentru evidențierea calcificărilor patologice</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie infero-superioară (axială) a umărului, evidențiind calcificările patologice](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-25-degrees-p108-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie infero-superioară (axială) a umărului, evidențiind calcificările patologice</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

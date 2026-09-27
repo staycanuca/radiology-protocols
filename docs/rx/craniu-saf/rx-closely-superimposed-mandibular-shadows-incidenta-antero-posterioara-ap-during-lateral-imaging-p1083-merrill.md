@@ -9,6 +9,10 @@ images:
 - caption: Merrill — pagina 1084, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-closely-superimposed-mandibular-shadows-incidenta-antero-posterioara-ap-during-lateral-imaging-p1083-merrill/p1084_fig1.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -33,7 +37,7 @@ source_pages:
 source_sections:
   anatomy: ''
   collimation: • se ajustează câmpul de iradiere la nivelul conductului auditiv extern
-    (CAE), al incizurii jugulare (furculița sternală) și la 1 inch (2.5 cm) dincolo
+    (CAE), al incizurii jugulare (furculița sternală) și la 1 țol (2.5 cm) dincolo
     de marginile cutanate laterale. Se plasează markerul de lateralitate în câmpul
     de expunere colimat.
   cr: • perpendicular pe proeminența laringiană.
@@ -63,7 +67,7 @@ sources:
 status: draft
 tech_params:
   collimation: se ajustează câmpul de iradiere la nivelul conductului auditiv extern
-    (CAE), al incizurii jugulare (furculița sternală) și la 1 inch (2.5 cm) dincolo
+    (CAE), al incizurii jugulare (furculița sternală) și la 1 țol (2.5 cm) dincolo
     de marginile cutanate laterale. Se plasează markerul de lateralitate în câmpul
     de expunere colimat.
 title: Rx ▪ Umbre mandibulare strâns suprapuse — Incidență anteroposterioară (AP)
@@ -93,11 +97,12 @@ title: Rx ▪ Umbre mandibulare strâns suprapuse — Incidență anteroposterio
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -119,7 +124,7 @@ title: Rx ▪ Umbre mandibulare strâns suprapuse — Incidență anteroposterio
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmpul de iradiere la nivelul conductului auditiv extern (CAE), al incizurii jugulare (furculița sternală) și la 1 inch (2.5 cm) dincolo de marginile cutanate laterale. Se plasează markerul de lateralitate în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la nivelul conductului auditiv extern (CAE), al incizurii jugulare (furculița sternală) și la 1 țol (2.5 cm) dincolo de marginile cutanate laterale. Se plasează markerul de lateralitate în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -135,6 +140,7 @@ title: Rx ▪ Umbre mandibulare strâns suprapuse — Incidență anteroposterio
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -166,31 +172,3 @@ title: Rx ▪ Umbre mandibulare strâns suprapuse — Incidență anteroposterio
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1083–1084](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-
-
-### colimare
-
-• se ajustează câmpul de iradiere la nivelul conductului auditiv extern (CAE), al incizurii jugulare (furculița sternală) și la 1 inch (2.5 cm) dincolo de marginile cutanate laterale. Se plasează markerul de lateralitate în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe proeminența laringiană.
-
-### part_pos
-
-• se centrează MSP al corpului pe linia mediană a stativului vertical Bucky.
-• se ajustează umerii pacientului astfel încât să se afle în același plan orizontal, pentru a preveni rotația capului și a gâtului și oblicitatea rezultantă a structurilor faringiene.
-• se centrează receptorul de imagine la nivelul proeminenței laringiene sau imediat sub aceasta.
-• se asistă logopedul în poziționarea specifică a capului necesară pentru evaluarea deglutiției (Fig. 15.35).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• în ortostatism, așezat pe scaunul de proceduri sau în ortostatism pe platforma mesei pentru ortostatism.
-• Dacă se utilizează poziția în ortostatism, se instruiește pacientul să distribuie egal greutatea corpului pe ambele picioare.
-

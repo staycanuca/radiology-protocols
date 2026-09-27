@@ -52,6 +52,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sacru-antero-posterior-postero-anterior-p205-clark/fig_5.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -130,30 +134,30 @@ title: Rx Sacru Antero-Posterior (AP)/Postero-Anterior (PA)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal sau decubit ventral pe masa radiologică, cu planul mediosagital coincident cu linia mediană Bucky și perpendicular pe aceasta.
-• Spinele iliace antero-superioare trebuie să fie echidistante față de masa radiologică.
-• Dacă pacientul este examinat în decubit dorsal (antero-posterior), genunchii pot fi flectați peste un suport din spumă pentru confort. Aceasta va reduce și înclinarea bazinului.
-• Caseta este deplasată cranial pentru incidența Antero-posterior (AP) sau caudal pentru incidențele Postero-anterioare (PA), astfel încât centrul acesteia să coincidă cu raza centrală înclinată.
-
-• Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu brațele ridicate și mâinile sprijinite pe o pernă. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
-• Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace postero-superioare. Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană Bucky și să fie perpendicular pe aceasta.
-• Caseta este centrată astfel încât să coincidă cu raza centrală la nivelul punctului median al sacrului.
-    - **Punct de Centrare Fascicul:** • Antero-posterior (AP): se orientează raza centrală 10–25 grade cranial față de verticală și spre punctul situat la jumătatea distanței dintre nivelul spinelor iliace antero-superioare și marginea superioară a simfizei pubiene.
-• Gradul de angulare a razei centrale este în mod normal mai mare la femei decât la bărbați și va fi mai mic pentru grade mai mari de flexie a șoldurilor și genunchilor.
-• Postero-anterior (PA): se palpează poziția sacrului prin localizarea spinelor iliace postero-superioare (SIPS) și a coccisului. Se centrează pe mijlocul sacrului, pe linia mediană.
-• Gradul de angulare a fasciculului va depinde de înclinarea bazinului.
-Se palpează sacrul și apoi se aplică simplu o angulare caudală, astfel încât raza centrală să fie perpendiculară pe axa longitudinală a sacrului (vezi fotografia alăturată).
-
-• Se orientează raza centrală perpendicular pe axa longitudinală a sacrului și spre un punct situat pe linia mediană a mesei, la nivelul situat la jumătatea distanței dintre spinele iliace postero-superioare și joncțiunea sacrococcigiană.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal sau decubit ventral pe masa radiologică, cu planul mediosagital coincident cu linia mediană Bucky și perpendicular pe aceasta.
+        - Spinele iliace antero-superioare trebuie să fie echidistante față de masa radiologică.
+        - Dacă pacientul este examinat în decubit dorsal (antero-posterior), genunchii pot fi flectați peste un suport din spumă pentru confort. Aceasta va reduce și înclinarea bazinului.
+        - Caseta este deplasată cranial pentru incidența Antero-posterior (AP) sau caudal pentru incidențele Postero-anterioare (PA), astfel încât centrul acesteia să coincidă cu raza centrală înclinată.
+        - Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu brațele ridicate și mâinile sprijinite pe o pernă. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
+        - Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace postero-superioare. Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană Bucky și să fie perpendicular pe aceasta.
+        - Caseta este centrată astfel încât să coincidă cu raza centrală la nivelul punctului median al sacrului.
+    - **Punct de Centrare Fascicul:**
+        - Antero-posterior (AP): se orientează raza centrală 10–25 grade cranial față de verticală și spre punctul situat la jumătatea distanței dintre nivelul spinelor iliace antero-superioare și marginea superioară a simfizei pubiene.
+        - Gradul de angulare a razei centrale este în mod normal mai mare la femei decât la bărbați și va fi mai mic pentru grade mai mari de flexie a șoldurilor și genunchilor.
+        - Postero-anterior (PA): se palpează poziția sacrului prin localizarea spinelor iliace postero-superioare (SIPS) și a coccisului. Se centrează pe mijlocul sacrului, pe linia mediană.
+        - Gradul de angulare a fasciculului va depinde de înclinarea bazinului. Se palpează sacrul și apoi se aplică simplu o angulare caudală, astfel încât raza centrală să fie perpendiculară pe axa longitudinală a sacrului (vezi fotografia alăturată).
+        - Se orientează raza centrală perpendicular pe axa longitudinală a sacrului și spre un punct situat pe linia mediană a mesei, la nivelul situat la jumătatea distanței dintre spinele iliace postero-superioare și joncțiunea sacrococcigiană.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -187,6 +191,7 @@ Se palpează sacrul și apoi se aplică simplu o angulare caudală, astfel înc�
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

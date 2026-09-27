@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: perpendicular pe receptorul de imagine (RI); raza centrală trebuie să fie
-  la point 2 inches (5 cm) medial și 2 inches (5 cm) inferior la superolateral margine
-  de Umăr
+centering: Perpendicular pe receptorul de imagine (RI); raza centrală trebuie să fie
+  la un punct situat la 2 țol (5 cm) medial și 2 țol (5 cm) inferior față de marginea
+  superolaterală a umărului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -14,32 +14,37 @@ images:
 - caption: Merrill — pagina 386, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill/p386_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau ortostatism. ortostatism este more
-  comfortable pentru pacientul și assists în precis adjustment de part.; se centrează
-  receptorul de imagine la scapulohumeral articulație. articulație este 2 inches (5
-  cm) medial și 2 inches (5 cm) inferior la superolateral margine de Umăr. se rotește
-  corp 35 la 45 grade spre afected side (Fig. 6.17). se ajustează grade de rotație
-  la place Omoplat (Scapulă) paralel cu plane de receptorul de imagine. This este
-  accomplished prin orienting plane through superior angle de Omoplat (Scapulă) și
-  acromial tip, paralel cu receptorul de imagine (RI).capul de Humerus este în contact
-  cu receptorul de imagine. If pacientul este în Decubit poziție, corp poate need
-  la fie rotit more than 45 grade (up la 60 grade) la place Omoplat (Scapulă) paralel
-  cu receptorul de imagine (RI). Support ridicat Umăr și Șold pe săculeți cu nisip
-  (Fig. 6.18). Abduct braț slightly în intern rotație și place palm de Mână pe abdomenul.
-  Other braț poziții poate fie dictated prin department protocol. se efectuează ecranarea
+position: Așezați pacientul în decubit dorsal sau în ortostatism. Ortostatismul este
+  mai confortabil pentru pacient și ajută la ajustarea precisă a regiunii.; centrați
+  receptorul de imagine pe articulația scapulohumerală. Articulația se află la 2 țol
+  (5 cm) medial și 2 țol (5 cm) inferior față de marginea superolaterală a umărului.
+  Rotiți corpul cu 35 până la 45 de grade spre partea afectată (Fig. 6.17). Ajustați
+  gradul de rotație pentru a poziționa omoplatul paralel cu planul receptorului de
+  imagine. Acest lucru se realizează prin orientarea planului care trece prin unghiul
+  superior al omoplatului și vârful acromionului, paralel cu receptorul de imagine
+  (RI). Capul humerusului este în contact cu receptorul de imagine. Dacă pacientul
+  se află în decubit, corpul poate necesita o rotație mai mare de 45 de grade (până
+  la 60 de grade) pentru a poziționa omoplatul paralel cu receptorul de imagine (RI).
+  Sprijiniți umărul și șoldul ridicate pe săculeți cu nisip (Fig. 6.18). Abduceți
+  ușor brațul, în rotație internă, și așezați palma mâinii pe abdomen. Alte poziții
+  ale brațului pot fi stabilite prin protocolul departamentului. Efectuați ecranarea
   gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Open spații articulare între cap humeral și cavitate glenoidă
-- cavitate glenoidă în profile
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Spații articulare deschise între capul humeral și cavitatea glenoidă
+- Cavitatea glenoidă în profil
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-glenoid-cavity-ap-incidenta-oblica-grashey-method-rpo-or-lpo-position-p384-merrill
 source_pages:
@@ -47,76 +52,70 @@ source_pages:
 - 385
 - 386
 source_sections:
-  anatomy: spații articulare între cap humeral și cavitate glenoidă (scapulohumeral
-    sau glenohumeral articulație) (Figs. 6.19 și 6.20).
-  collimation: • Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm)
-    pe collimator. If transversal, include 1.5 inches (3.8 cm) above umăr, 1 inch
-    (2.5 cm) beyond lateral aspect de umăr, lateral half de clavicle, și proximal
-    third de humerus. If longitudinal, more humerus și less clavicle will fie included.
-    Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe receptorul de imagine (RI); raza centrală trebuie să fie
-    la point 2 inches (5 cm) medial și 2 inches (5 cm) inferior la superolateral margine
-    de
-
-    umăr'
+  anatomy: Spațiile articulare dintre capul humeral și cavitatea glenoidă (articulația
+    scapulohumerală sau glenohumerală) (Fig. 6.19 și 6.20).
+  collimation: • ajustați câmpul de iradiere la aproximativ 8 × 10 țol (18 × 24 cm)
+    pe colimator. Dacă este transversal, includeți 1,5 țol (3,8 cm) deasupra umărului,
+    1 țol (2,5 cm) dincolo de aspectul lateral al umărului, jumătatea laterală a claviculei
+    și treimea proximală a humerusului. Dacă este longitudinal, vor fi incluse mai
+    mult humerus și mai puțină claviculă. Plasați markerul de lateralitate în câmpul
+    de expunere colimat.
+  cr: • perpendicular pe receptorul de imagine (RI); raza centrală trebuie să fie
+    la un punct situat la 2 țol (5 cm) medial și 2 țol (5 cm) inferior față de marginea
+    superolaterală a umărului
   criteria: 'Criterii radiologice de calitate imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar față de anatomia de interes
 
-    • Open spații articulare între cap humeral și cavitate glenoidă
+    • Spații articulare deschise între capul humeral și cavitatea glenoidă
 
-    • cavitate glenoidă în profile
+    • Cavitatea glenoidă în profil
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează receptorul de imagine la scapulohumeral articulație. articulație
-    este 2 inches (5 cm) medial și 2 inches (5 cm) inferior la superolateral margine
-    de
+    • Detalii osoase trabeculare și țesuturi moi adiacente'
+  part_pos: '• Se centrează receptorul de imagine la nivelul articulației scapulohumerale.
+    Articulația se află la 2 țoli (5 cm) medial și 2 țoli (5 cm) inferior față de
+    marginea superolaterală a umărului.
 
-    umăr.
+    • Se rotește corpul cu 35 la 45 grade spre partea afectată (Fig. 6.17).
 
-    • se rotește corp 35 la 45 grade spre afected side (Fig. 6.17).
+    • Se ajustează gradul de rotație pentru a plasa scapula paralel cu planul receptorului
+    de imagine. Acest lucru se realizează prin orientarea planului care trece prin
+    unghiul superior al scapulei și vârful acromionului, paralel cu receptorul de
+    imagine (RI). Capul humerusului este în contact cu receptorul de imagine.
 
-    • se ajustează grade de rotație la place scapula paralel cu plane de receptorul
-    de imagine. This este accomplished prin orienting plane through
+    • Dacă pacientul este în decubit, corpul poate necesita o rotație mai mare de
+    45 grade (până la 60 grade) pentru a plasa scapula paralel cu receptorul de imagine
+    (RI).
 
-    superior angle de scapula și acromial tip, paralel cu receptorul de imagine (RI).capul
-    de humerus este în contact cu receptorul de imagine.
+    • Se susțin umărul ridicat și șoldul pe săculeți cu nisip (Fig. 6.18).
 
-    • If pacientul este în recumbent poziție, corp poate need la fie rotit more than
-    45 grade (up la 60 grade) la place scapula paralel cu receptorul de imagine (RI).
+    • Se abduce ușor brațul, în rotație internă, și se plasează palma mâinii pe abdomen.
+    Poziția celuilalt braț poate fi stabilită prin protocolul departamentului.
 
-    • Support ridicat umăr și hip pe săculeți cu nisip (Fig. 6.18).
-
-    • Abduct braț slightly în intern rotație și place palm de mână pe abdomenul. Other
-    braț poziții poate fie dictated prin
-
-    department protocol.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau ortostatism. ortostatism
-    este more comfortable pentru pacientul și assists în precis
-
-    adjustment de part.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în decubit dorsal sau în ortostatism. Ortostatismul
+    este mai confortabil pentru pacient și ajută la ajustarea precisă a regiunii examinate.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm), transversal la include entire clavicle, longitudinal la include more humerus.'
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; receptorul de imagine: 10 × 12
+    țoli (24 × 30 cm), transversal pentru a include întreaga claviculă, longitudinal
+    pentru a include o porțiune mai mare din humerus.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 384–386
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm)
-    pe collimator. If transversal, include 1.5 inches (3.8 cm) above Umăr, 1 inch
-    (2.5 cm) beyond lateral aspect de Umăr, lateral half de Claviculă, și proximal
-    third de Humerus. If longitudinal, more Humerus și less Claviculă will fie included.
-    Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method RPO or
-  Oblică Posterioară Stângă (OPS / LPO) (Merrill)
+  collimation: Se ajustează câmpul de iradiere la aproximativ 8 × 10 țoli (18 × 24
+    cm) pe colimator. Dacă este transversal, se includ 1.5 țoli (3.8 cm) deasupra
+    umărului, 1 țol (2.5 cm) dincolo de aspectul lateral al umărului, jumătatea laterală
+    a claviculei și treimea proximală a humerusului. Dacă este longitudinal, se va
+    include mai mult humerus și mai puțină claviculă. Se plasează markerul de lateralitate
+    în câmpul colimat.
+title: Rx cavitate glenoidă — oblică anteroposterioară (AP) — metoda Grashey RPO sau
+  oblică posterioară stângă (OPS / LPO) (Merrill)
 ---
-# Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method RPO or Oblică Posterioară Stângă (OPS / LPO) (Merrill)
+# Rx cavitate glenoidă — oblică anteroposterioară (AP) — metoda Grashey RPO sau oblică posterioară stângă (OPS / LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -140,17 +139,18 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau ortostatism. ortostatism este more comfortable pentru pacientul și assists în precis adjustment de part.; se centrează receptorul de imagine la scapulohumeral articulație. articulație este 2 inches (5 cm) medial și 2 inches (5 cm) inferior la superolateral margine de Umăr. se rotește corp 35 la 45 grade spre afected side (Fig. 6.17). se ajustează grade de rotație la place Omoplat (Scapulă) paralel cu plane de receptorul de imagine. This este accomplished prin orienting plane through superior angle de Omoplat (Scapulă) și acromial tip, paralel cu receptorul de imagine (RI).capul de Humerus este în contact cu receptorul de imagine. If pacientul este în Decubit poziție, corp poate need la fie rotit more than 45 grade (up la 60 grade) la place Omoplat (Scapulă) paralel cu receptorul de imagine (RI). Support ridicat Umăr și Șold pe săculeți cu nisip (Fig. 6.18). Abduct braț slightly în intern rotație și place palm de Mână pe abdomenul. Other braț poziții poate fie dictated prin department protocol. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI); raza centrală trebuie să fie la point 2 inches (5 cm) medial și 2 inches (5 cm) inferior la superolateral margine de Umăr
+    - **Poziție Pacient:** Așezați pacientul în decubit dorsal sau în ortostatism. Ortostatismul este mai confortabil pentru pacient și ajută la ajustarea precisă a regiunii.; centrați receptorul de imagine pe articulația scapulohumerală. Articulația se află la 2 țol (5 cm) medial și 2 țol (5 cm) inferior față de marginea superolaterală a umărului. Rotiți corpul cu 35 până la 45 de grade spre partea afectată (Fig. 6.17). Ajustați gradul de rotație pentru a poziționa omoplatul paralel cu planul receptorului de imagine. Acest lucru se realizează prin orientarea planului care trece prin unghiul superior al omoplatului și vârful acromionului, paralel cu receptorul de imagine (RI). Capul humerusului este în contact cu receptorul de imagine. Dacă pacientul se află în decubit, corpul poate necesita o rotație mai mare de 45 de grade (până la 60 de grade) pentru a poziționa omoplatul paralel cu receptorul de imagine (RI). Sprijiniți umărul și șoldul ridicate pe săculeți cu nisip (Fig. 6.18). Abduceți ușor brațul, în rotație internă, și așezați palma mâinii pe abdomen. Alte poziții ale brațului pot fi stabilite prin protocolul departamentului. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine (RI); raza centrală trebuie să fie la un punct situat la 2 țol (5 cm) medial și 2 țol (5 cm) inferior față de marginea superolaterală a umărului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -166,18 +166,18 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm) pe collimator. If transversal, include 1.5 inches (3.8 cm) above Umăr, 1 inch (2.5 cm) beyond lateral aspect de Umăr, lateral half de Claviculă, și proximal third de Humerus. If longitudinal, more Humerus și less Claviculă will fie included. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la aproximativ 8 × 10 țoli (18 × 24 cm) pe colimator. Dacă este transversal, se includ 1.5 țoli (3.8 cm) deasupra umărului, 1 țol (2.5 cm) dincolo de aspectul lateral al umărului, jumătatea laterală a claviculei și treimea proximală a humerusului. Dacă este longitudinal, se va include mai mult humerus și mai puțină claviculă. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Open spații articulare între cap humeral și cavitate glenoidă
-    - cavitate glenoidă în profile
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Spații articulare deschise între capul humeral și cavitatea glenoidă
+    - Cavitatea glenoidă în profil
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -186,6 +186,7 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -225,54 +226,3 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Grashey Method
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 384–386](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-spații articulare între cap humeral și cavitate glenoidă (scapulohumeral sau glenohumeral articulație) (Figs. 6.19 și 6.20).
-
-### collimation
-
-• Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm) pe collimator. If transversal, include 1.5 inches (3.8 cm) above umăr, 1 inch (2.5 cm) beyond lateral aspect de umăr, lateral half de clavicle, și proximal third de humerus. If longitudinal, more humerus și less clavicle will fie included. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe receptorul de imagine (RI); raza centrală trebuie să fie la point 2 inches (5 cm) medial și 2 inches (5 cm) inferior la superolateral margine de
-umăr
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Open spații articulare între cap humeral și cavitate glenoidă
-• cavitate glenoidă în profile
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează receptorul de imagine la scapulohumeral articulație. articulație este 2 inches (5 cm) medial și 2 inches (5 cm) inferior la superolateral margine de
-umăr.
-• se rotește corp 35 la 45 grade spre afected side (Fig. 6.17).
-• se ajustează grade de rotație la place scapula paralel cu plane de receptorul de imagine. This este accomplished prin orienting plane through
-superior angle de scapula și acromial tip, paralel cu receptorul de imagine (RI).capul de humerus este în contact cu receptorul de imagine.
-• If pacientul este în recumbent poziție, corp poate need la fie rotit more than 45 grade (up la 60 grade) la place scapula paralel cu receptorul de imagine (RI).
-• Support ridicat umăr și hip pe săculeți cu nisip (Fig. 6.18).
-• Abduct braț slightly în intern rotație și place palm de mână pe abdomenul. Other braț poziții poate fie dictated prin
-department protocol.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau ortostatism. ortostatism este more comfortable pentru pacientul și assists în precis
-adjustment de part.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm), transversal la include entire clavicle, longitudinal la include more humerus.
-

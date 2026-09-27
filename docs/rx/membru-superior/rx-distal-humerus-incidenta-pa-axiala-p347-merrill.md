@@ -2,101 +2,108 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe ulnar sulcus, entering la point just medial la olecran
+centering: Perpendicular pe șanțul ulnar, intrând în punctul situat imediat medial
+  față de olecran
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 348, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-distal-humerus-incidenta-pa-axiala-p347-merrill/p348_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Long și Rafert 35 describe AP oblic distal Humerus incidență that specifically
-  shows ulnar sulcus.
-position: se așază pacientul pe scaun high enough la enable Antebraț la rest pe masa
-  radiologică, cu braț în vertical poziție. pacientul trebuie să fie Poziție Șezândă
-  astfel încât Antebraț poate fie ajustat paralel cu axa longitudinală de masa de
-  examinare.; Se instruiește pacientul să rest Antebraț pe masa de examinare, și then
-  se ajustează Antebraț so that its axa longitudinală este paralel cu table. Center
-  point midway între epicondyles și center de receptorul de imagine. se flectează
-  pacient’s Cot la place braț în nearly vertical poziție astfel încât Humerus forms
-  angle de approximately 75 grade de la Antebraț (approximately 15 grade între raza
-  centrală și axa longitudinală de Humerus). Confirm that pacientul este nu leaning
-  anteriorly sau posteriorly. Supinate Mână la prevent rotație de Humerus și ulna,
-  și Se instruiește pacientul să immobilize it cu opposite Mână (Fig. 5.145). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+notes: Long și Rafert 35 descriu o incidență AP oblică a humerusului distal care evidențiază
+  în mod specific șanțul ulnar.
+position: Se așază pacientul pe un scaun suficient de înalt pentru a permite sprijinirea
+  antebrațului pe masa radiologică, cu brațul în poziție verticală. Pacientul trebuie
+  să fie așezat astfel încât antebrațul să poată fi ajustat paralel cu axa longitudinală
+  a mesei de examinare. Se instruiește pacientul să sprijine antebrațul pe masa de
+  examinare, apoi se ajustează antebrațul astfel încât axa sa longitudinală să fie
+  paralelă cu masa. Se centrează la jumătatea distanței dintre epicondili și centrul
+  receptorului de imagine. Se flectează cotul pacientului pentru a plasa brațul în
+  poziție aproape verticală, astfel încât humerusul să formeze un unghi de aproximativ
+  75 de grade față de antebraț (aproximativ 15 grade între raza centrală și axa longitudinală
+  a humerusului). Se confirmă că pacientul nu se înclină anterior sau posterior. Se
+  supinează mâna pentru a preveni rotația humerusului și ulnei și se instruiește pacientul
+  să o imobilizeze cu mâna opusă (Fig. 5.145). Se efectuează ecranarea gonadelor cu
+  șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Outline de ulnar sulcus (groove)
-- Antebraț și Humerus superimposed, fără rotație
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Conturul șanțului ulnar (șanț)
+- Antebrațul și humerusul suprapuse, fără rotație
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-distal-humerus-incidenta-pa-axiala-p347-merrill
 source_pages:
 - 347
 - 348
 source_sections:
-  anatomy: 'epicondyles, trochlea, ulnar sulcus (groove între epicondil medial (epitrohlee)
-    și trochlea), și olecran fossa (Fig. 5.146). incidență este
-
-    used în radiohumeral bursitis (tennis cot) la detect otherwise obscured calcifications
-    located în ulnar sulcus.'
-  collimation: '• Adjust câmp de iradiere la include distal third de humerus și extend
-    2 inches (5 cm) beyond olecran și 1 inch (2.5 cm)
-
-    beyond sides pe cot. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • perpendicular pe ulnar sulcus, entering la point just medial la olecran
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Epicondilii, trohleea, șanțul ulnar (șanțul dintre epicondilul medial (epitrohlee)
+    și trohlee) și fosa olecraniană (Fig. 5.146). Incidența este utilizată în bursita
+    radiohumerală (cotul tenismenului) pentru detectarea calcificărilor, altfel obscure,
+    localizate în șanțul ulnar.
+  collimation: • Se ajustează câmpul de iradiere pentru a include treimea distală
+    a humerusului și pentru a se extinde 2 țoli (5 cm) dincolo de olecran și 1 țol
+    (2.5 cm) dincolo de părțile laterale ale cotului. Se plasează markerul de lateralitate
+    în câmpul colimat.
+  cr: • perpendicular pe șanțul ulnar, intrând în punctul situat imediat medial față
+    de olecran
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar față de anatomia de interes
 
-    • Outline de ulnar sulcus (groove)
+    • Conturul șanțului ulnar (șanț)
 
-    • Forearm și humerus superimposed, fără rotație
+    • Antebrațul și humerusul suprapuse, fără rotație
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: Long și Rafert 35 describe AP oblic distal humerus incidență that specifically
-    shows ulnar sulcus.
-  part_pos: '• Se instruiește pacientul să rest forearm pe masa de examinare, și then
-    se ajustează forearm so that its axa longitudinală este paralel cu table.
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: Long și Rafert 35 descriu o incidență AP oblică a humerusului distal care
+    evidențiază în mod specific șanțul ulnar.
+  part_pos: '• Se instruiește pacientul să sprijine antebrațul pe masa de examinare,
+    apoi se ajustează antebrațul astfel încât axa sa longitudinală să fie paralelă
+    cu masa.
 
-    • Center point midway între epicondyles și center de receptorul de imagine.
+    • Se centrează la jumătatea distanței dintre epicondili și centrul receptorului
+    de imagine.
 
-    • se flectează pacient’s cot la place braț în nearly vertical poziție astfel încât
-    humerus forms angle de approximately 75 grade
+    • Se flectează cotul pacientului pentru a plasa brațul în poziție aproape verticală,
+    astfel încât humerusul să formeze un unghi de aproximativ 75 de grade față de
+    antebraț (aproximativ 15 grade între raza centrală și axa longitudinală a humerusului).
 
-    de la forearm (approximately 15 grade între raza centrală și axa longitudinală
-    de humerus).
+    • Se confirmă că pacientul nu se înclină anterior sau posterior.
 
-    • Confirm that pacientul este nu leaning anteriorly sau posteriorly.
-
-    • Supinate mână la prevent rotație de humerus și ulna, și Se instruiește pacientul
-    să immobilize it cu opposite mână (Fig. 5.145).
+    • Se supinează mâna pentru a preveni rotația humerusului și ulnei și se instruiește
+    pacientul să o imobilizeze cu mâna opusă (Fig. 5.145).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun high enough la enable forearm la rest
-    pe masa radiologică, cu braț în vertical poziție. pacientul
-
-    trebuie să fie așezat pe scaun astfel încât forearm poate fie ajustat paralel
-    cu axa longitudinală de masa de examinare.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • se așază pacientul pe un scaun suficient de înalt pentru a permite
+    sprijinirea antebrațului pe masa radiologică, cu brațul în poziție verticală.
+    Pacientul trebuie să fie așezat pe scaun astfel încât antebrațul să poată fi ajustat
+    paralel cu axa longitudinală a mesei de examinare.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 347–348
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la include distal third de Humerus și extend
-    2 inches (5 cm) beyond olecran și 1 inch (2.5 cm) beyond sides pe Cot. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Distal Humerus — Incidență PA Axială (Merrill)
+  collimation: Se ajustează câmpul de iradiere pentru a include treimea distală a
+    humerusului și pentru a se extinde 2 țoli (5 cm) dincolo de olecran și 1 țol (2.5
+    cm) dincolo de părțile laterale ale cotului. Se plasează markerul de lateralitate
+    în câmpul colimat.
+title: Rx humerus distal — Incidență PA axială (Merrill)
 ---
-# Rx Distal Humerus — Incidență PA Axială (Merrill)
+# Rx humerus distal — Incidență PA axială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -120,17 +127,18 @@ title: Rx Distal Humerus — Incidență PA Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun high enough la enable Antebraț la rest pe masa radiologică, cu braț în vertical poziție. pacientul trebuie să fie Poziție Șezândă astfel încât Antebraț poate fie ajustat paralel cu axa longitudinală de masa de examinare.; Se instruiește pacientul să rest Antebraț pe masa de examinare, și then se ajustează Antebraț so that its axa longitudinală este paralel cu table. Center point midway între epicondyles și center de receptorul de imagine. se flectează pacient’s Cot la place braț în nearly vertical poziție astfel încât Humerus forms angle de approximately 75 grade de la Antebraț (approximately 15 grade între raza centrală și axa longitudinală de Humerus). Confirm that pacientul este nu leaning anteriorly sau posteriorly. Supinate Mână la prevent rotație de Humerus și ulna, și Se instruiește pacientul să immobilize it cu opposite Mână (Fig. 5.145). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe ulnar sulcus, entering la point just medial la olecran
+    - **Poziție Pacient:** Se așază pacientul pe un scaun suficient de înalt pentru a permite sprijinirea antebrațului pe masa radiologică, cu brațul în poziție verticală. Pacientul trebuie să fie așezat astfel încât antebrațul să poată fi ajustat paralel cu axa longitudinală a mesei de examinare. Se instruiește pacientul să sprijine antebrațul pe masa de examinare, apoi se ajustează antebrațul astfel încât axa sa longitudinală să fie paralelă cu masa. Se centrează la jumătatea distanței dintre epicondili și centrul receptorului de imagine. Se flectează cotul pacientului pentru a plasa brațul în poziție aproape verticală, astfel încât humerusul să formeze un unghi de aproximativ 75 de grade față de antebraț (aproximativ 15 grade între raza centrală și axa longitudinală a humerusului). Se confirmă că pacientul nu se înclină anterior sau posterior. Se supinează mâna pentru a preveni rotația humerusului și ulnei și se instruiește pacientul să o imobilizeze cu mâna opusă (Fig. 5.145). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe șanțul ulnar, intrând în punctul situat imediat medial față de olecran
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -146,18 +154,18 @@ title: Rx Distal Humerus — Incidență PA Axială (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la include distal third de Humerus și extend 2 inches (5 cm) beyond olecran și 1 inch (2.5 cm) beyond sides pe Cot. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a include treimea distală a humerusului și pentru a se extinde 2 țoli (5 cm) dincolo de olecran și 1 țol (2.5 cm) dincolo de părțile laterale ale cotului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Outline de ulnar sulcus (groove)
-    - Antebraț și Humerus superimposed, fără rotație
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Conturul șanțului ulnar (șanț)
+    - Antebrațul și humerusul suprapuse, fără rotație
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -167,8 +175,9 @@ title: Rx Distal Humerus — Incidență PA Axială (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Long și Rafert 35 describe AP oblic distal Humerus incidență that specifically shows ulnar sulcus.
+    Long și Rafert 35 descriu o incidență AP oblică a humerusului distal care evidențiază în mod specific șanțul ulnar.
 
 
 ### 🖼️ Imagini
@@ -197,51 +206,3 @@ title: Rx Distal Humerus — Incidență PA Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 347–348](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-epicondyles, trochlea, ulnar sulcus (groove între epicondil medial (epitrohlee) și trochlea), și olecran fossa (Fig. 5.146). incidență este
-used în radiohumeral bursitis (tennis cot) la detect otherwise obscured calcifications located în ulnar sulcus.
-
-### collimation
-
-• Adjust câmp de iradiere la include distal third de humerus și extend 2 inches (5 cm) beyond olecran și 1 inch (2.5 cm)
-beyond sides pe cot. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe ulnar sulcus, entering la point just medial la olecran
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Outline de ulnar sulcus (groove)
-• Forearm și humerus superimposed, fără rotație
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Long și Rafert 35 describe AP oblic distal humerus incidență that specifically shows ulnar sulcus.
-
-### part_pos
-
-• Se instruiește pacientul să rest forearm pe masa de examinare, și then se ajustează forearm so that its axa longitudinală este paralel cu table.
-• Center point midway între epicondyles și center de receptorul de imagine.
-• se flectează pacient’s cot la place braț în nearly vertical poziție astfel încât humerus forms angle de approximately 75 grade
-de la forearm (approximately 15 grade între raza centrală și axa longitudinală de humerus).
-• Confirm that pacientul este nu leaning anteriorly sau posteriorly.
-• Supinate mână la prevent rotație de humerus și ulna, și Se instruiește pacientul să immobilize it cu opposite mână (Fig. 5.145).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun high enough la enable forearm la rest pe masa radiologică, cu braț în vertical poziție. pacientul
-trebuie să fie așezat pe scaun astfel încât forearm poate fie ajustat paralel cu axa longitudinală de masa de examinare.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

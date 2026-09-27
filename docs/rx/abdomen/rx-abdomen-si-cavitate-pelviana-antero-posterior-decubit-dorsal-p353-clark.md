@@ -38,6 +38,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-decubit-dorsal-p353-clark/fig_5.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• În cazul unui abdomen voluminos, poate fi aplicată o bandă de imobilizare
@@ -145,22 +149,24 @@ title: Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe masa radiologică, cu planul mediosagital perpendicular pe masă și aliniat cu linia mediană a mesei.
-• Bazinul (pelvisul) este ajustat astfel încât spinele iliace anterosuperioare să fie echidistante față de suprafața mesei.
-• Caseta este plasată longitudinal în tava pentru casetă și poziționată astfel încât simfiza pubiană să fie inclusă în partea inferioară a filmului radiologic, ținând cont că razele oblice vor proiecta simfiza pubiană în jos.
-• Centrul casetei va fi aproximativ la nivelul unui punct situat la 1 cm sub linia care unește crestele iliace.
-Astfel se asigură includerea simfizei pubiene pe imagine.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre centrul casetei.
-• Folosind un timp scurt de expunere, expunerea se efectuează în apnee.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal pe masa radiologică, cu planul mediosagital perpendicular pe masă și aliniat cu linia mediană a mesei.
+        - Bazinul (pelvisul) este ajustat astfel încât spinele iliace anterosuperioare să fie echidistante față de suprafața mesei.
+        - Caseta este plasată longitudinal în tava pentru casetă și poziționată astfel încât simfiza pubiană să fie inclusă în partea inferioară a filmului radiologic, ținând cont că razele oblice vor proiecta simfiza pubiană în jos.
+        - Centrul casetei va fi aproximativ la nivelul unui punct situat la 1 cm sub linia care unește crestele iliace. Astfel se asigură includerea simfizei pubiene pe imagine.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată spre centrul casetei.
+        - Folosind un timp scurt de expunere, expunerea se efectuează în apnee.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în
 
@@ -200,13 +206,13 @@ Astfel se asigură includerea simfizei pubiene pe imagine.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • În cazul unui abdomen voluminos, poate fi aplicată o bandă de imobilizare pentru a comprima părțile moi și a reduce efectele radiației împrăștiate.
-• Fasciculul este colimat la dimensiunea casetei selectate și ajustat astfel încât să nu depășească marginile laterale ale abdomenului.
-• Asigurați-vă că marcajele de poziție și cele anatomice sunt incluse pe casetă.
-• La utilizarea unui dispozitiv de control automat al expunerii (AEC), camerele centrală și dreaptă pot fi selectate simultan pentru a evita riscul de subexpunere din cauza trecerii fasciculului prin regiuni care conțin în principal gaz intestinal.
-• Dacă starea pacientului este prea gravă pentru a fi transferat pe masa radiologică (de exemplu,
-traumatisme multiple sau durere acută), imaginea poate fi obținută folosind o grilă fixă și o casetă plasată în tava de sub targa de transport a pacientului. Trebuie avut grijă să se utilizeze FFD corectă și să se centreze pe mijlocul casetei pentru a evita tăierea fasciculului de către grilă. O bucată de cauciuc plumbat este plasată sub casetă pentru a reduce «radiația retroîmprăștiată» și a îmbunătăți contrastul imaginii.
+    - În cazul unui abdomen voluminos, poate fi aplicată o bandă de imobilizare pentru a comprima părțile moi și a reduce efectele radiației împrăștiate.
+    - Fasciculul este colimat la dimensiunea casetei selectate și ajustat astfel încât să nu depășească marginile laterale ale abdomenului.
+    - Asigurați-vă că marcajele de poziție și cele anatomice sunt incluse pe casetă.
+    - La utilizarea unui dispozitiv de control automat al expunerii (AEC), camerele centrală și dreaptă pot fi selectate simultan pentru a evita riscul de subexpunere din cauza trecerii fasciculului prin regiuni care conțin în principal gaz intestinal.
+    - Dacă starea pacientului este prea gravă pentru a fi transferat pe masa radiologică (de exemplu, traumatisme multiple sau durere acută), imaginea poate fi obținută folosind o grilă fixă și o casetă plasată în tava de sub targa de transport a pacientului. Trebuie avut grijă să se utilizeze FFD corectă și să se centreze pe mijlocul casetei pentru a evita tăierea fasciculului de către grilă. O bucată de cauciuc plumbat este plasată sub casetă pentru a reduce «radiația retroîmprăștiată» și a îmbunătăți contrastul imaginii.
 
 
 ### 🖼️ Imagini

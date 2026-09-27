@@ -54,6 +54,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-teleradiografie-craniana-cefalometrie-postero-anterior-projection-p343-clark/fig_2.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -115,22 +119,24 @@ title: Rx Teleradiografie Craniană (Cefalometrie) Postero-Anterior (PA) Inciden
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • echipamentul este rotit cu 90 de grade.
-• pacientul este poziționat ca pentru incidența postero-anterioară (PA) a mandibulei.
-• linia bazală orbito-meatală este paralelă cu podeaua.
-• capul este imobilizat folosind olive introduse în meaturile acustice externe.
-    - **Punct de Centrare Fascicul:** • fasciculul de raze X orizontal este fix.
-• raza centrală este centrată prin coloana vertebrală cervicală la nivelul ramurilor.
-Poziționarea pentru incidența cefalometrică postero-anterioară (PA) a mandibulei
+    - **Poziție Pacient:**
+        - echipamentul este rotit cu 90 de grade.
+        - pacientul este poziționat ca pentru incidența postero-anterioară (PA) a mandibulei.
+        - linia bazală orbito-meatală este paralelă cu podeaua.
+        - capul este imobilizat folosind olive introduse în meaturile acustice externe.
+    - **Punct de Centrare Fascicul:**
+        - fasciculul de raze X orizontal este fix.
+        - raza centrală este centrată prin coloana vertebrală cervicală la nivelul ramurilor. Poziționarea pentru incidența cefalometrică postero-anterioară (PA) a mandibulei
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -166,6 +172,7 @@ Poziționarea pentru incidența cefalometrică postero-anterioară (PA) a mandib
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

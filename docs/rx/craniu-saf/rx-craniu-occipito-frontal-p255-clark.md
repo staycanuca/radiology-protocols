@@ -60,6 +60,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-occipito-frontal-p255-clark/fig_7.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Pacienților le este adesea dificil să mențină linia de bază orbitomeatală
@@ -160,28 +164,30 @@ title: 'Radiografia craniului: incidență occipitofrontală'
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Această incidență poate fi efectuată în ortostatism sau în decubit ventral. Va fi descrisă incidența în ortostatism, deoarece incidența în decubit ventral este incomodă pentru pacient și se efectuează de obicei numai în absența unui stativ vertical Bucky.
-• Pacientul este așezat pe scaun cu fața spre stativul Bucky vertical, astfel încât planul mediosagital să coincidă cu linia mediană a Bucky și să fie, de asemenea, perpendicular pe acesta.
-• Gâtul este flectat astfel încât linia de bază orbitomeatală să fie perpendiculară pe Bucky. Aceasta se obține de obicei asigurându-se că nasul și fruntea sunt în contact cu Bucky.
-• Asigurați-vă că porțiunea mijlocie a osului frontal este poziționată în centrul Bucky.
-• Pacientul își poate așeza palmele de fiecare parte a capului, în afara fasciculului primar, pentru stabilitate.
-• O casetă de 24 × 30 cm este plasată longitudinal în tava Bucky. Asigurați-vă că plăcuța de identificare din plumb nu interferează cu imaginea finală.
-    - **Punct de Centrare Fascicul:** Occipitofrontală
-• Raza centrală este orientată perpendicular pe Bucky, de-a lungul planului mediosagital.
-• Câmpul de colimare trebuie ajustat pentru a include superior vertexul craniului, inferior regiunea imediat sub baza osului occipital și marginile cutanate de profil. Este important să vă asigurați că tubul este centrat pe mijlocul Bucky.
-Incidență occipitofrontală cu angulație caudală:
-10, 15 și 20 grade
-• Tehnica utilizată pentru aceste trei incidențe este similară celei folosite pentru incidența occipitofrontală, cu excepția aplicării angulației caudale. Gradul de angulație va depinde de tehnică, de exemplu, pentru incidența OF20°↓ se va utiliza o angulație caudală de 20 grade.
-• Asigurați-vă că raza centrală este întotdeauna centrată pe mijlocul Bucky după aplicarea angulației tubului, nu înainte.
+    - **Poziție Pacient:**
+        - Această incidență poate fi efectuată în ortostatism sau în decubit ventral. Va fi descrisă incidența în ortostatism, deoarece incidența în decubit ventral este incomodă pentru pacient și se efectuează de obicei numai în absența unui stativ vertical Bucky.
+        - Pacientul este așezat pe scaun cu fața spre stativul Bucky vertical, astfel încât planul mediosagital să coincidă cu linia mediană a Bucky și să fie, de asemenea, perpendicular pe acesta.
+        - Gâtul este flectat astfel încât linia de bază orbitomeatală să fie perpendiculară pe Bucky. Aceasta se obține de obicei asigurându-se că nasul și fruntea sunt în contact cu Bucky.
+        - Asigurați-vă că porțiunea mijlocie a osului frontal este poziționată în centrul Bucky.
+        - Pacientul își poate așeza palmele de fiecare parte a capului, în afara fasciculului primar, pentru stabilitate.
+        - O casetă de 24 × 30 cm este plasată longitudinal în tava Bucky. Asigurați-vă că plăcuța de identificare din plumb nu interferează cu imaginea finală.
+    - **Punct de Centrare Fascicul:**
+        Occipitofrontală
+
+        - Raza centrală este orientată perpendicular pe Bucky, de-a lungul planului mediosagital.
+        - Câmpul de colimare trebuie ajustat pentru a include superior vertexul craniului, inferior regiunea imediat sub baza osului occipital și marginile cutanate de profil. Este important să vă asigurați că tubul este centrat pe mijlocul Bucky. Incidență occipitofrontală cu angulație caudală: 10, 15 și 20 grade
+        - Tehnica utilizată pentru aceste trei incidențe este similară celei folosite pentru incidența occipitofrontală, cu excepția aplicării angulației caudale. Gradul de angulație va depinde de tehnică, de exemplu, pentru incidența OF20°↓ se va utiliza o angulație caudală de 20 grade.
+        - Asigurați-vă că raza centrală este întotdeauna centrată pe mijlocul Bucky după aplicarea angulației tubului, nu înainte.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -219,11 +225,10 @@ Incidență occipitofrontală cu angulație caudală:
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Pacienților le este adesea dificil să mențină linia de bază orbitomeatală perpendiculară pe filmul radiologic, deoarece aceasta este o poziție nenaturală și este probabil să se miște.
-• În loc să se încline fasciculul pentru a obține poziția dorită a porțiunilor pietroase ale oaselor temporale în orbite, poate fi utilizată o rază centrală verticală, adică perpendiculară pe filmul radiologic. Angulația dorită pentru incidență poate fi apoi obținută prin ridicarea liniei de bază orbitomeatale cu unghiul dorit; de exemplu, pentru OF20°↓, bărbia poate fi ridicată astfel încât linia de bază orbitomeatală să formeze un unghi de 20 grade față de orizontală (vezi fotografia).
-În mod similar, pentru OF10°↓, linia orbitomeatală (LOM) va fi ridicată cu 10 grade.
-OF20°↓ OF10°↓
+    - Pacienților le este adesea dificil să mențină linia de bază orbitomeatală perpendiculară pe filmul radiologic, deoarece aceasta este o poziție nenaturală și este probabil să se miște.
+    - În loc să se încline fasciculul pentru a obține poziția dorită a porțiunilor pietroase ale oaselor temporale în orbite, poate fi utilizată o rază centrală verticală, adică perpendiculară pe filmul radiologic. Angulația dorită pentru incidență poate fi apoi obținută prin ridicarea liniei de bază orbitomeatale cu unghiul dorit; de exemplu, pentru OF20°↓, bărbia poate fi ridicată astfel încât linia de bază orbitomeatală să formeze un unghi de 20 grade față de orizontală (vezi fotografia). În mod similar, pentru OF10°↓, linia orbitomeatală (LOM) va fi ridicată cu 10 grade. OF20°↓ OF10°↓
 
 
 ### 🖼️ Imagini

@@ -24,6 +24,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-sella-turcica-profil-lateral-p262-clark/fig_2.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -90,19 +94,21 @@ title: 'Rx Craniu Șa turcească: profil (lateral)'
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat, cu fața spre stativul Bucky, iar capul este apoi rotit astfel încât planul mediosagital să fie paralel cu Bucky, iar linia interorbitală să fie perpendiculară pe Bucky.
-• Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
-• Capul și înălțimea Bucky sunt ajustate astfel încât centrul Bucky să fie situat la 2.5 cm vertical deasupra unui punct aflat la 2.5 cm de-a lungul liniei de bază, pornind de la conductul auditiv extern.
-• Un suport radiotransparent poate fi plasat sub bărbie și față pentru susținere.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat, cu fața spre stativul Bucky, iar capul este apoi rotit astfel încât planul mediosagital să fie paralel cu Bucky, iar linia interorbitală să fie perpendiculară pe Bucky.
+        - Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
+        - Capul și înălțimea Bucky sunt ajustate astfel încât centrul Bucky să fie situat la 2.5 cm vertical deasupra unui punct aflat la 2.5 cm de-a lungul liniei de bază, pornind de la conductul auditiv extern.
+        - Un suport radiotransparent poate fi plasat sub bărbie și față pentru susținere.
     - **Punct de Centrare Fascicul:** • Fasciculul bine colimat este centrat într-un punct situat la 2.5 cm vertical deasupra unui punct situat la 2.5 cm de-a lungul liniei de bază, pornind de la conductul auditiv extern mai apropiat de tubul de raze X.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -139,6 +145,7 @@ title: 'Rx Craniu Șa turcească: profil (lateral)'
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

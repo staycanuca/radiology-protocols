@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: orientat 15 grade posteriorly și aliniat perpendicular pe col femural și
-  grila receptorul de imagine (Fig. 8.37).
+centering: Orientată cu 15 grade posterior și aliniată perpendicular pe colul femural
+  și pe grila receptorului de imagine (Fig. 8.37).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -16,25 +16,30 @@ images:
 - caption: Merrill — pagina 633, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sold-modified-axiolateral-projection-clements-nakayama-modification-angulation-of-the-central-ray-fig-8-36-p631-merrill/p633_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul Decubit dorsal pe masa radiologică cu afected
-  side near edge de masa de examinare.; pentru this poziție, do nu se rotește membru
-  inferior internally. Instead, limb remains în neutral sau slightly externally rotit
-  poziție. Support grilă receptorul de imagine pe tăvița Bucky so that its lower margin
-  este below pacientul. poziție grila astfel încât lines run paralel cu floor. se
-  ajustează grilă paralel cu axis de col femural și tilt its top back 15 grade.
+position: Se poziționează pacientul în decubit dorsal pe masa radiologică, cu partea
+  afectată aproape de marginea mesei de examinare; pentru această poziție, nu se rotește
+  intern membrul inferior. În schimb, membrul rămâne în poziție neutră sau ușor rotată
+  extern. Se sprijină grila receptorului de imagine pe tăvița Bucky astfel încât marginea
+  sa inferioară să fie sub pacient. Se poziționează grila astfel încât liniile să
+  fie paralele cu podeaua. Se ajustează grila paralel cu axa colului femural și se
+  înclină partea superioară posterior cu 15 grade.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Șold articulație cu cotil (acetabul)
-- cap femural, neck, și trochanters
-- orice orthopedic appliance în its entirety
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația șoldului cu cotilul (acetabulul)
+- Capul femural, colul și trohanterii
+- orice dispozitiv ortopedic în întregime
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sold-modified-axiolateral-projection-clements-nakayama-modification-angulation-of-the-central-ray-fig-8-36-p631-merrill
 source_pages:
@@ -42,43 +47,42 @@ source_pages:
 - 632
 - 633
 source_sections:
-  anatomy: 'cotil (acetabul) și proximal femur—including capul, neck, și trochanters—în
-    lateral profile. Clements-Nakayama modification (Fig.
-
-    8.38) poate fie compared cu Danelius-Miller approach described previously (Fig.
-    8.39).'
+  anatomy: Cotilul (acetabulul) și femurul proximal — inclusiv capul, colul și trohanterii
+    — în profil lateral. Modificarea Clements-Nakayama (Fig. 8.38) poate fi comparată
+    cu abordarea Danelius-Miller descrisă anterior (Fig. 8.39).
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • orientat 15 grade posteriorly și aliniat perpendicular pe col femural și grila
-    receptorul de imagine (Fig. 8.37).
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • Orientată cu 15 grade posterior și aliniată perpendicular pe colul femural
+    și pe grila receptorului de imagine (Fig. 8.37).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Hip articulație cu cotil (acetabul)
+    • Articulația șoldului cu cotilul (acetabulul)
 
-    • cap femural, neck, și trochanters
+    • Capul femural, colul și trohanterii
 
-    • orice orthopedic appliance în its entirety
+    • Orice dispozitiv ortopedic, în întregime
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• pentru this poziție, do nu se rotește membru inferior internally. Instead,
-    limb remains în neutral sau slightly externally rotit poziție.
+    • Detaliile trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Pentru această poziție, nu se rotește intern membrul inferior. În schimb,
+    membrul rămâne în poziție neutră sau ușor rotată extern.
 
-    • Support grilă receptorul de imagine pe tăvița Bucky so that its lower margin
-    este below pacientul. poziție grila astfel încât lines run paralel cu
+    • Se sprijină grila receptorului de imagine pe tăvița Bucky astfel încât marginea
+    sa inferioară să fie sub pacient. Se poziționează grila astfel încât liniile să
+    fie paralele cu podeaua.
 
-    floor.
-
-    • se ajustează grilă paralel cu axis de col femural și tilt its top back 15 grade.'
-  patient_pos: • se poziționează pacientul în decubit dorsal pe masa radiologică cu
-    afected side near edge de masa de examinare.
+    • Se ajustează grila paralel cu axa colului femural și se înclină partea superioară
+    posterior cu 15 grade.'
+  patient_pos: • Se poziționează pacientul în decubit dorsal pe masa radiologică,
+    cu partea afectată aproape de marginea mesei de examinare.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 631–633
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -86,10 +90,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Șold — Modified Axiolateral Incidență — Clements-Nakayama Modification angulation
-  of the central ray (Fig. 8.36). (Merrill)
+title: Rx șold — incidență axiolaterală modificată — modificarea Clements-Nakayama,
+  angulația razei centrale (Fig. 8.36) (Merrill)
 ---
-# Rx Șold — Modified Axiolateral Incidență — Clements-Nakayama Modification angulation of the central ray (Fig. 8.36). (Merrill)
+# Rx șold — incidență axiolaterală modificată — modificarea Clements-Nakayama, angulația razei centrale (Fig. 8.36) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -113,17 +117,18 @@ title: Rx Șold — Modified Axiolateral Incidență — Clements-Nakayama Modif
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul Decubit dorsal pe masa radiologică cu afected side near edge de masa de examinare.; pentru this poziție, do nu se rotește membru inferior internally. Instead, limb remains în neutral sau slightly externally rotit poziție. Support grilă receptorul de imagine pe tăvița Bucky so that its lower margin este below pacientul. poziție grila astfel încât lines run paralel cu floor. se ajustează grilă paralel cu axis de col femural și tilt its top back 15 grade.
-    - **Punct de Centrare Fascicul:** orientat 15 grade posteriorly și aliniat perpendicular pe col femural și grila receptorul de imagine (Fig. 8.37).
+    - **Poziție Pacient:** Se poziționează pacientul în decubit dorsal pe masa radiologică, cu partea afectată aproape de marginea mesei de examinare; pentru această poziție, nu se rotește intern membrul inferior. În schimb, membrul rămâne în poziție neutră sau ușor rotată extern. Se sprijină grila receptorului de imagine pe tăvița Bucky astfel încât marginea sa inferioară să fie sub pacient. Se poziționează grila astfel încât liniile să fie paralele cu podeaua. Se ajustează grila paralel cu axa colului femural și se înclină partea superioară posterior cu 15 grade.
+    - **Punct de Centrare Fascicul:** Orientată cu 15 grade posterior și aliniată perpendicular pe colul femural și pe grila receptorului de imagine (Fig. 8.37).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -146,12 +151,12 @@ title: Rx Șold — Modified Axiolateral Incidență — Clements-Nakayama Modif
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Șold articulație cu cotil (acetabul)
-    - cap femural, neck, și trochanters
-    - orice orthopedic appliance în its entirety
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația șoldului cu cotilul (acetabulul)
+    - Capul femural, colul și trohanterii
+    - orice dispozitiv ortopedic în întregime
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,6 +165,7 @@ title: Rx Șold — Modified Axiolateral Incidență — Clements-Nakayama Modif
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -207,48 +213,3 @@ title: Rx Șold — Modified Axiolateral Incidență — Clements-Nakayama Modif
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 631–633](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-cotil (acetabul) și proximal femur—including capul, neck, și trochanters—în lateral profile. Clements-Nakayama modification (Fig.
-8.38) poate fie compared cu Danelius-Miller approach described previously (Fig. 8.39).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• orientat 15 grade posteriorly și aliniat perpendicular pe col femural și grila receptorul de imagine (Fig. 8.37).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Hip articulație cu cotil (acetabul)
-• cap femural, neck, și trochanters
-• orice orthopedic appliance în its entirety
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• pentru this poziție, do nu se rotește membru inferior internally. Instead, limb remains în neutral sau slightly externally rotit poziție.
-• Support grilă receptorul de imagine pe tăvița Bucky so that its lower margin este below pacientul. poziție grila astfel încât lines run paralel cu
-floor.
-• se ajustează grilă paralel cu axis de col femural și tilt its top back 15 grade.
-
-### patient_pos
-
-• se poziționează pacientul în decubit dorsal pe masa radiologică cu afected side near edge de masa de examinare.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

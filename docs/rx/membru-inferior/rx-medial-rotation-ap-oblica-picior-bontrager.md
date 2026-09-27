@@ -2,48 +2,58 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular pe receptorul de imagine, orientat la base de third metatarsal
+centering: perpendicular pe receptorul de imagine, orientat la baza celui de-al treilea
+  metatarsian
 clinical_indications:
-- Location și extent de suspiciune de fractură și fragment alignments, spații articulare
-  abnormalities, părți moi effusions
-- Location de opaque Corp străin / corpuri străine radio-opace
+- Localizarea și extinderea suspiciunii de fractură și alinierea fragmentelor, anomalii
+  ale spațiilor articulare, revărsate ale părților moi
+- Localizarea corpului străin/corpurilor străine radio-opace
 images:
-- caption: Fig. 6.61 40° AP
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.61 40° AP)
+- caption: Fig. 6.61 AP la 40°
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.61 AP la
+    40°)
   url: assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_1.jpeg
-- caption: Fig. 6.62 40° medial
+- caption: Fig. 6.62 medial la 40°
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.62
-    40° medial)
+    medial la 40°)
   url: assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_2.jpeg
-- caption: Fig. 6.59 30° la 40° AP medial oblic.
+- caption: Fig. 6.59 AP oblic medial la 30° până la 40°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.59
-    30° la 40° AP medial oblic.)
+    AP oblic medial la 30° până la 40°.)
   url: assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_3.jpeg
-- caption: Fig. 6.60 30° AP lateral
+- caption: Fig. 6.60 AP oblic lateral la 30°
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.60
-    30° AP lateral)
+    AP oblic lateral la 30°)
   url: assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Some references suggest only a 30° oblic routinely. This text recommends greater
-  obliquity, 40°, la evidențiază oase tarsiene și proximal oase metatarsiene best
-  relatively liber de superimposition pentru Picior cu average transverse arch. Optional
-  lateral oblic (Fig. 6.60) se rotește Picior laterally 30° (less obliquity este required
-  because de natural arch de Picior). lateral oblic best evidențiază space între first
-  și second oase metatarsiene și între first și second cuneiforms. navicular also
-  este well visualized pe lateral oblic. Fig. 6.61 40° AP medial oblic. Navicular
-  Cuboid 3rd cuneiform oase metatarsiene falange Sinus tarsi Calcaneu astragal (talus)
-  Fig. 6.62 40° medial oblic. Picior ROUTINE AP oblic lateral Fig. 6.59 30° la 40°
-  AP medial oblic. Fig. 6.60 30° AP lateral oblic.
-position: 'Pacient: Place pacient Decubit dorsal sau așezat; flex Genunchi, cu plantar
-  surface de Picior pe table; turn corp slightly away de la side în question.; Regiune
-  anatomică: Align și center axa longitudinală de Picior la raza centrală și la axa
-  longitudinală de portion de receptorul de imagine being exposed. Rotate Picior medially
-  la place plantar surface 30° la 40° la plane de receptorul de imagine (see NOTE).
-  general plane de dorsum de Picior trebuie să fie paralel cu receptorul de imagine
-  și perpendicular la raza centrală (Fig. 6.59). Use 45° radiolucent support block
-  la prevent mișcare. Use săculeți cu nisip if necessary la prevent receptorul de
-  imagine de la slipping pe tabletop.'
+notes: Unele referințe sugerează utilizarea de rutină a unei singure incidențe oblice
+  de 30°. Acest text recomandă o oblicitate mai mare, de 40°, pentru a evidenția cel
+  mai bine oasele tarsiene și oasele metatarsiene proximale, relativ libere de suprapunere,
+  la un picior cu arc transversal mediu. Incidența oblică laterală opțională (Fig.
+  6.60) se obține prin rotirea laterală a piciorului cu 30° (este necesară o oblicitate
+  mai mică datorită arcului natural al piciorului). Incidența oblică laterală evidențiază
+  cel mai bine spațiul dintre primul și al doilea os metatarsian și dintre primul
+  și al doilea os cuneiform. Osul navicular este, de asemenea, bine vizualizat în
+  incidența oblică laterală. Fig. 6.61 Incidență AP oblică medială de 40°. Os navicular
+  Os cuboid Al 3-lea os cuneiform Oase metatarsiene Falange Sinus tarsi Calcaneu Astragal
+  (talus) Fig. 6.62 Incidență oblică medială de 40°. Picior INCIDENȚĂ AP DE RUTINĂ
+  oblică laterală Fig. 6.59 Incidență AP oblică medială de la 30° la 40°. Fig. 6.60
+  Incidență AP oblică laterală de 30°.
+position: 'Pacient: Așezați pacientul în decubit dorsal sau în poziție șezândă; flectați
+  genunchiul, cu suprafața plantară a piciorului pe masă; rotiți ușor corpul în partea
+  opusă față de partea examinată. Regiune anatomică: Aliniați și centrați axa longitudinală
+  a piciorului la raza centrală și la axa longitudinală a porțiunii receptorului de
+  imagine expuse. Rotiți piciorul medial pentru a plasa suprafața plantară la 30°
+  până la 40° față de planul receptorului de imagine (vezi NOTA). Planul general al
+  dosului piciorului trebuie să fie paralel cu receptorul de imagine și perpendicular
+  pe raza centrală (Fig. 6.59). Utilizați un suport radiotransparent la 45° pentru
+  a preveni mișcarea. Utilizați săculeți cu nisip, dacă este necesar, pentru a preveni
+  alunecarea receptorului de imagine pe masa de examinare.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -51,20 +61,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Picior trebuie să fie evidențiat de la distal falange la posterior Calcaneu
-  și proximal astragal (talus) (Figs. 6.61 și 6.62). poziție:'
-- axa longitudinală de Picior trebuie să fie aliniat la axa longitudinală de receptorul
+- 'Întregul picior trebuie să fie evidențiat de la falangele distale până la calcaneul
+  posterior și astragalul (talusul) proximal (Fig. 6.61 și 6.62). Poziție:'
+- Axa longitudinală a piciorului trebuie să fie aliniată cu axa longitudinală a receptorului
   de imagine.
-- Correct obliquity este evidențiat when third through fifth oase metatarsiene sunt
-  liber de superimposition.
-- First și second oase metatarsiene also trebuie să fie liber de superimposition except
-  pentru base area.
-- Tuberosity la base de fifth metatarsal este seen în profile și este well visualized.
-- spații articulare around cuboid și sinus tarsi sunt open și well evidențiat when
-  Picior este poziționat obliquely correctly.
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize
-  net margini și trabecular markings de falange, oase metatarsiene, și oase tarsiene.
+- Oblicitatea corectă este evidențiată atunci când al treilea până la al cincilea
+  metatarsian sunt libere de suprapunere.
+- Primul și al doilea metatarsian trebuie, de asemenea, să fie libere de suprapunere,
+  cu excepția zonei bazelor.
+- Tuberozitatea de la baza celui de-al cincilea metatarsian este vizualizată de profil
+  și este bine evidențiată.
+- Spațiile articulare din jurul cuboidului și sinus tarsi sunt deschise și bine evidențiate
+  atunci când piciorul este poziționat corect oblic.
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie
+  să vizualizeze clar marginile și desenul trabecular al falangelor, oaselor metatarsiene
+  și oaselor tarsiene.
 sid_dff: 100 cm
 slug: rx-medial-rotation-ap-oblica-picior-bontrager
 sources:
@@ -72,15 +84,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate la outer margins de skin pe four sides.
+  collimation: Colimați la marginile externe ale pielii pe cele patru laturi.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-70
   mas: DE CONFIGURAT PE APARAT
-title: Rx Rotație Internă (Medială) AP Oblică (Picior)
+title: Rx oblică AP cu rotație internă (medială) a piciorului
 ---
-# Rx Rotație Internă (Medială) AP Oblică (Picior)
+# Rx oblică AP cu rotație internă (medială) a piciorului
 
 
 <div class="rx-meta-bar">
@@ -99,23 +111,24 @@ title: Rx Rotație Internă (Medială) AP Oblică (Picior)
 
     === "Indicații Clinice"
 
-        - Location și extent de suspiciune de fractură și fragment alignments, spații articulare abnormalities, părți moi effusions
-        - Location de opaque Corp străin / corpuri străine radio-opace
+        - Localizarea și extinderea suspiciunii de fractură și alinierea fragmentelor, anomalii ale spațiilor articulare, revărsate ale părților moi
+        - Localizarea corpului străin/corpurilor străine radio-opace
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient Decubit dorsal sau așezat; flex Genunchi, cu plantar surface de Picior pe table; turn corp slightly away de la side în question.; Regiune anatomică: Align și center axa longitudinală de Picior la raza centrală și la axa longitudinală de portion de receptorul de imagine being exposed. Rotate Picior medially la place plantar surface 30° la 40° la plane de receptorul de imagine (see NOTE). general plane de dorsum de Picior trebuie să fie paralel cu receptorul de imagine și perpendicular la raza centrală (Fig. 6.59). Use 45° radiolucent support block la prevent mișcare. Use săculeți cu nisip if necessary la prevent receptorul de imagine de la slipping pe tabletop.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la base de third metatarsal
+    - **Poziție Pacient:** Pacient: Așezați pacientul în decubit dorsal sau în poziție șezândă; flectați genunchiul, cu suprafața plantară a piciorului pe masă; rotiți ușor corpul în partea opusă față de partea examinată. Regiune anatomică: Aliniați și centrați axa longitudinală a piciorului la raza centrală și la axa longitudinală a porțiunii receptorului de imagine expuse. Rotiți piciorul medial pentru a plasa suprafața plantară la 30° până la 40° față de planul receptorului de imagine (vezi NOTA). Planul general al dosului piciorului trebuie să fie paralel cu receptorul de imagine și perpendicular pe raza centrală (Fig. 6.59). Utilizați un suport radiotransparent la 45° pentru a preveni mișcarea. Utilizați săculeți cu nisip, dacă este necesar, pentru a preveni alunecarea receptorului de imagine pe masa de examinare.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la baza celui de-al treilea metatarsian
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -131,21 +144,21 @@ title: Rx Rotație Internă (Medială) AP Oblică (Picior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate la outer margins de skin pe four sides. |
+    | **Colimare Fascicul** | Colimați la marginile externe ale pielii pe cele patru laturi. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Picior trebuie să fie evidențiat de la distal falange la posterior Calcaneu și proximal astragal (talus) (Figs. 6.61 și 6.62). poziție:
-    - axa longitudinală de Picior trebuie să fie aliniat la axa longitudinală de receptorul de imagine.
-    - Correct obliquity este evidențiat when third through fifth oase metatarsiene sunt liber de superimposition.
-    - First și second oase metatarsiene also trebuie să fie liber de superimposition except pentru base area.
-    - Tuberosity la base de fifth metatarsal este seen în profile și este well visualized.
-    - spații articulare around cuboid și sinus tarsi sunt open și well evidențiat when Picior este poziționat obliquely correctly.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize net margini și trabecular markings de falange, oase metatarsiene, și oase tarsiene.
+    - Întregul picior trebuie să fie evidențiat de la falangele distale până la calcaneul posterior și astragalul (talusul) proximal (Fig. 6.61 și 6.62). Poziție:
+    - Axa longitudinală a piciorului trebuie să fie aliniată cu axa longitudinală a receptorului de imagine.
+    - Oblicitatea corectă este evidențiată atunci când al treilea până la al cincilea metatarsian sunt libere de suprapunere.
+    - Primul și al doilea metatarsian trebuie, de asemenea, să fie libere de suprapunere, cu excepția zonei bazelor.
+    - Tuberozitatea de la baza celui de-al cincilea metatarsian este vizualizată de profil și este bine evidențiată.
+    - Spațiile articulare din jurul cuboidului și sinus tarsi sunt deschise și bine evidențiate atunci când piciorul este poziționat corect oblic.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie să vizualizeze clar marginile și desenul trabecular al falangelor, oaselor metatarsiene și oaselor tarsiene.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,8 +170,9 @@ title: Rx Rotație Internă (Medială) AP Oblică (Picior)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Some references suggest only a 30° oblic routinely. This text recommends greater obliquity, 40°, la evidențiază oase tarsiene și proximal oase metatarsiene best relatively liber de superimposition pentru Picior cu average transverse arch. Optional lateral oblic (Fig. 6.60) se rotește Picior laterally 30° (less obliquity este required because de natural arch de Picior). lateral oblic best evidențiază space între first și second oase metatarsiene și între first și second cuneiforms. navicular also este well visualized pe lateral oblic. Fig. 6.61 40° AP medial oblic. Navicular Cuboid 3rd cuneiform oase metatarsiene falange Sinus tarsi Calcaneu astragal (talus) Fig. 6.62 40° medial oblic. Picior ROUTINE AP oblic lateral Fig. 6.59 30° la 40° AP medial oblic. Fig. 6.60 30° AP lateral oblic.
+    Unele referințe sugerează utilizarea de rutină a unei singure incidențe oblice de 30°. Acest text recomandă o oblicitate mai mare, de 40°, pentru a evidenția cel mai bine oasele tarsiene și oasele metatarsiene proximale, relativ libere de suprapunere, la un picior cu arc transversal mediu. Incidența oblică laterală opțională (Fig. 6.60) se obține prin rotirea laterală a piciorului cu 30° (este necesară o oblicitate mai mică datorită arcului natural al piciorului). Incidența oblică laterală evidențiază cel mai bine spațiul dintre primul și al doilea os metatarsian și dintre primul și al doilea os cuneiform. Osul navicular este, de asemenea, bine vizualizat în incidența oblică laterală. Fig. 6.61 Incidență AP oblică medială de 40°. Os navicular Os cuboid Al 3-lea os cuneiform Oase metatarsiene Falange Sinus tarsi Calcaneu Astragal (talus) Fig. 6.62 Incidență oblică medială de 40°. Picior INCIDENȚĂ AP DE RUTINĂ oblică laterală Fig. 6.59 Incidență AP oblică medială de la 30° la 40°. Fig. 6.60 Incidență AP oblică laterală de 30°.
 
 
 ### 🖼️ Imagini
@@ -167,33 +181,33 @@ title: Rx Rotație Internă (Medială) AP Oblică (Picior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.61 40° AP](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_1.jpeg)
+![Fig. 6.61 AP la 40°](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.61 40° AP</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.61 40° AP)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.62 40° medial](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.62 40° medial</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.62 40° medial)</span></figcaption>
+<figcaption><strong>Fig. 6.61 AP la 40°</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.61 AP la 40°)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.59 30° la 40° AP medial oblic.](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_3.jpeg)
+![Fig. 6.62 medial la 40°](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.59 30° la 40° AP medial oblic.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.59 30° la 40° AP medial oblic.)</span></figcaption>
+<figcaption><strong>Fig. 6.62 medial la 40°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.62 medial la 40°)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.60 30° AP lateral](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_4.jpeg)
+![Fig. 6.59 AP oblic medial la 30° până la 40°.](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.60 30° AP lateral</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.60 30° AP lateral)</span></figcaption>
+<figcaption><strong>Fig. 6.59 AP oblic medial la 30° până la 40°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.59 AP oblic medial la 30° până la 40°.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.60 AP oblic lateral la 30°](../../assets/images/protocols/bontrager/rx-medial-rotation-ap-oblica-picior-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 6.60 AP oblic lateral la 30°</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.60 AP oblic lateral la 30°)</span></figcaption>
 
 </figure>
 

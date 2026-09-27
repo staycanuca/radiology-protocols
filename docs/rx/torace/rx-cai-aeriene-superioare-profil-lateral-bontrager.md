@@ -24,6 +24,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.88
     Profil—căi aeriene superioare.)
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: '(Centrarea și expunerea pentru regiunea laringelui distal și a traheei): Dacă
@@ -61,7 +65,7 @@ quality_criteria:
 - Umbrele umerilor trebuie să fie situate în principal posterior de regiunea traheei
   și să nu se suprapună peste aceasta.
 - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼
-  inch) la partea superioară și inferioară. Expunere.
+  țol) la partea superioară și inferioară. Expunere.
 - Expunerea optimă include o tehnică pentru părți moi și un algoritm de procesare
   prin care laringele umplut cu aer și traheea superioară să fie bine vizualizate,
   fără supraexpunere.
@@ -108,11 +112,12 @@ title: Rx căi aeriene superioare de profil
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -144,7 +149,7 @@ title: Rx căi aeriene superioare de profil
     - Laringele și traheea trebuie să fie umplute cu aer și bine vizualizate (Fig. 2.87 și 2.88). Poziție.
     - Centrarea pentru regiunea gâtului (laringe și trahee proximală) trebuie să includă conductul auditiv extern (CAE) la marginea superioară a imaginii și T2 sau T3 la marginea inferioară. Dacă laringele distal și traheea reprezintă principala arie de interes diagnostic, centrarea trebuie coborâtă pentru a include pe imagine zona de la C3 până la T4 sau T5.
     - Umbrele umerilor trebuie să fie situate în principal posterior de regiunea traheei și să nu se suprapună peste aceasta.
-    - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼ inch) la partea superioară și inferioară. Expunere.
+    - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼ țol) la partea superioară și inferioară. Expunere.
     - Expunerea optimă include o tehnică pentru părți moi și un algoritm de procesare prin care laringele umplut cu aer și traheea superioară să fie bine vizualizate, fără supraexpunere.
     - Coloana cervicală apare subexpusă. R Fig. 2.87 Profil—căi aeriene superioare (pentru regiunea laringelui distal și a traheei). R Laringe. Trahee. Epiglotă. Fig. 2.88 Profil—căi aeriene superioare.
 
@@ -157,6 +162,7 @@ title: Rx căi aeriene superioare de profil
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     (Centrarea și expunerea pentru regiunea laringelui distal și a traheei): Dacă laringele distal și porțiunile superioară și mijlocie ale traheei constituie principalele zone de interes, receptorul de imagine și raza centrală trebuie coborâte pentru a plasa raza centrală la partea superioară a incizurii jugulare (manubriul sternal) (T1–T2), cu parametri de expunere aproximativ ca pentru toracele de profil. CĂI AERIENE SUPERIOARE — INCIDENȚE DE RUTINĂ: profil, AP. Fig. 2.86 Incidență de profil drept—căi aeriene superioare.

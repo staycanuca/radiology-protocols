@@ -19,22 +19,142 @@ def _yaml_block(fm: dict) -> str:
     return '---\n' + yaml.dump(fm, default_flow_style=False, allow_unicode=True) + '---\n'
 
 
+def _clean_table_val(val: str) -> str:
+    if not val:
+        return ""
+    lines = [l.strip() for l in str(val).splitlines() if l.strip()]
+    return " ".join(lines).replace("|", "/")
+
+
 def _indications_bullets(indications: list) -> str:
     if not indications:
         return '        - Nicio indicație specificată\n'
-    return ''.join(f'        - {ind}\n' for ind in indications)
+    lines = []
+    for ind in indications:
+        ind_str = str(ind).strip()
+        sublines = [l.strip() for l in ind_str.splitlines() if l.strip()]
+        for sl in sublines:
+            if sl.startswith('• ') or sl.startswith('- ') or sl.startswith('n '):
+                sl = sl[2:].strip()
+            lines.append(f'        - {sl}\n')
+    return ''.join(lines)
 
 
 def _quality_bullets(criteria: list) -> str:
     if not criteria:
         return '    - Criterii standard conform bunelor practici radiologice.\n'
-    return ''.join(f'    - {c}\n' for c in criteria)
+    lines = []
+    for c in criteria:
+        c_str = str(c).strip()
+        sublines = [l.strip() for l in c_str.splitlines() if l.strip()]
+        for sl in sublines:
+            if sl.startswith('• ') or sl.startswith('- ') or sl.startswith('n '):
+                sl = sl[2:].strip()
+            lines.append(f'    - {sl}\n')
+    return ''.join(lines)
 
 
 def _protection_bullets(protection: list) -> str:
     if not protection:
         return '    - Măsuri standard ALARA de radioprotecție aplicate.\n'
-    return ''.join(f'    - {p}\n' for p in protection)
+    lines = []
+    for p in protection:
+        p_str = str(p).strip()
+        sublines = [l.strip() for l in p_str.splitlines() if l.strip()]
+        for sl in sublines:
+            if sl.startswith('• ') or sl.startswith('- ') or sl.startswith('n '):
+                sl = sl[2:].strip()
+            lines.append(f'    - {sl}\n')
+    return ''.join(lines)
+
+
+def _format_card_field(label: str, value: str) -> str:
+    if not value or not str(value).strip():
+        return f"    - **{label}:** {PENDING}\n"
+    val_str = str(value).strip()
+    lines = [l.strip() for l in val_str.splitlines()]
+    non_empty = [l for l in lines if l]
+    if len(non_empty) <= 1:
+        text = " ".join(non_empty)
+        return f"    - **{label}:** {text}\n"
+
+    has_bullets = any(l.startswith("• ") or l.startswith("- ") for l in non_empty)
+    res = [f"    - **{label}:**\n"]
+    if has_bullets:
+        current_bullet = []
+        for l in lines:
+            if not l:
+                if current_bullet:
+                    b_text = " ".join(current_bullet)
+                    res.append(f"        - {b_text}\n")
+                    current_bullet = []
+                continue
+            if l.startswith("• ") or l.startswith("- "):
+                if current_bullet:
+                    b_text = " ".join(current_bullet)
+                    res.append(f"        - {b_text}\n")
+                    current_bullet = []
+                current_bullet.append(l[2:].strip())
+            else:
+                if current_bullet:
+                    current_bullet.append(l)
+                else:
+                    res.append(f"        {l}\n\n")
+        if current_bullet:
+            b_text = " ".join(current_bullet)
+            res.append(f"        - {b_text}\n")
+    else:
+        for l in lines:
+            if l:
+                res.append(f"        {l}\n\n")
+    return "".join(res)
+
+
+def _format_notes_section(notes: str) -> str:
+    if not notes or not str(notes).strip():
+        return ""
+    val_str = str(notes).strip()
+    lines = [l.strip() for l in val_str.splitlines()]
+    has_bullets = any(l.startswith("• ") or l.startswith("- ") for l in lines if l)
+
+    out = ['\n!!! note "Observații Clinice & Tehnice"\n']
+    if has_bullets:
+        current_bullet = []
+        for l in lines:
+            if not l:
+                if current_bullet:
+                    b_text = " ".join(current_bullet)
+                    out.append(f"    - {b_text}\n")
+                    current_bullet = []
+                continue
+            if l.startswith("• ") or l.startswith("- "):
+                if current_bullet:
+                    b_text = " ".join(current_bullet)
+                    out.append(f"    - {b_text}\n")
+                    current_bullet = []
+                current_bullet.append(l[2:].strip())
+            else:
+                if current_bullet:
+                    current_bullet.append(l)
+                else:
+                    out.append(f"    {l}\n\n")
+        if current_bullet:
+            b_text = " ".join(current_bullet)
+            out.append(f"    - {b_text}\n")
+    else:
+        current_para = []
+        for l in lines:
+            if not l:
+                if current_para:
+                    p_text = " ".join(current_para)
+                    out.append(f"    {p_text}\n\n")
+                    current_para = []
+            else:
+                current_para.append(l)
+        if current_para:
+            p_text = " ".join(current_para)
+            out.append(f"    {p_text}\n")
+    return "".join(out)
 
 
 def _format_kv(kv: str) -> str:
@@ -76,20 +196,21 @@ def _iris_guide_tab(iris_ref: dict, category: str) -> str:
 
 def _tech_params_section(tech: dict, sid: str) -> str:
     t = tech or {}
-    kv_val = _format_kv(t.get("kv", ""))
-    mas_val = _format_mas(t.get("mas", ""))
-    grid_val = t.get("grid") or PENDING
-    focal_val = t.get("focal_spot") or PENDING
-    aec_val = t.get("aec_chambers") or PENDING
-    collimation_val = t.get("collimation", "Strictă pe regiunea de interes")
-    filtration_val = t.get("filtration") or PENDING
+    kv_val = _clean_table_val(_format_kv(t.get("kv", "")))
+    mas_val = _clean_table_val(_format_mas(t.get("mas", "")))
+    grid_val = _clean_table_val(t.get("grid") or PENDING)
+    focal_val = _clean_table_val(t.get("focal_spot") or PENDING)
+    aec_val = _clean_table_val(t.get("aec_chambers") or PENDING)
+    collimation_val = _clean_table_val(t.get("collimation", "Strictă pe regiunea de interes"))
+    filtration_val = _clean_table_val(t.get("filtration") or PENDING)
+    sid_val = _clean_table_val(sid)
 
     lines = [
         '    | Parametru Tehnic | Valoare Configurare Generator / Tub |\n',
         '    |:-----------------|:-------------------------------------|\n',
         f'    | **Tensiune Tub (kV)** | {kv_val} |\n',
         f'    | **Sarcină / Produs Curent-Timp (mAs)** | {mas_val} |\n',
-        f'    | **Distanță Focar-Film (DFF / SID)** | {sid} |\n',
+        f'    | **Distanță Focar-Film (DFF / SID)** | {sid_val} |\n',
         f'    | **Grilă Antidifuzoare (Bucky)** | {grid_val} |\n',
         f'    | **Dimensiune Focar** | {focal_val} |\n',
         f'    | **Camere de Ionizare AEC** | {aec_val} |\n',
@@ -225,15 +346,13 @@ def render_rx_document(fm: dict) -> str:
     === "Indicații Clinice"
 
 {_indications_bullets(clinical_indications)}
-{_iris_guide_tab(iris_ref, category)}-   __2. Poziționare & Centrare Fascicul__
+{_iris_guide_tab(iris_ref, category)}
+-   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** {position}
-    - **Punct de Centrare Fascicul:** {centering}
-    - **Distanță Focar-Film (DFF / SID):** {sid}
-    - **Comandă Respiratorie:** {breathing}
-
+{_format_card_field('Poziție Pacient', position)}{_format_card_field('Punct de Centrare Fascicul', centering)}    - **Distanță Focar-Film (DFF / SID):** {sid}
+{_format_card_field('Comandă Respiratorie', breathing)}
 -   __3. Parametri Tehnici Expunere__
 
     ---
@@ -251,7 +370,7 @@ def render_rx_document(fm: dict) -> str:
 {_protection_bullets(protection)}
 </div>
 
-{f'!!! note "Observații Clinice & Tehnice"\n    {notes}\n' if notes else ''}{_views_section(fm.get('standard_views'))}{images_section}{review_section}
+{_format_notes_section(notes)}{_views_section(fm.get('standard_views'))}{images_section}{review_section}
 === "Ghid Rapid de Execuție"
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.

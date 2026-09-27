@@ -3,7 +3,7 @@ author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: coloana
 centering: perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace
-  (L4) pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor
+  (L4) pentru examinarea lombosacrală sau la 1.5 țoli (3.8 cm) deasupra crestelor
   iliace pentru coloana lombară בלבד
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
@@ -26,6 +26,10 @@ images:
 - caption: Merrill — pagina 728, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-lumbosacral-vertebrae-incidenta-antero-posterioara-ap-incidenta-postero-anterioara-pa-optional-generated-within-a-filled-bl-p723-merrill/p728_fig6.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -37,10 +41,10 @@ position: Se examinează coloana lombară sau lombosacrală cu pacientul în dec
   sub partea pelvină inferioară pentru reducerea rotației, când este necesar. Se reduce
   lordoza lombară prin flexia șoldurilor și genunchilor pacientului suficient pentru
   a așeza spatele în contact ferm cu masa (vezi Fig. 9.86). Pentru evidențierea coloanei
-  lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 inches (35
-  × 43 cm) la nivelul crestelor iliace (L4). Pentru evidențierea numai a coloanei
-  lombare, se centrează receptorul de imagine la 1.5 inches (3.8 cm) deasupra crestelor
-  iliace (L3). Se efectuează ecranarea gonadelor cu șorț plumbat.
+  lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 țoli (35 ×
+  43 cm) la nivelul crestelor iliace (L4). Pentru evidențierea numai a coloanei lombare,
+  se centrează receptorul de imagine la 1.5 țoli (3.8 cm) deasupra crestelor iliace
+  (L3). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -66,12 +70,12 @@ source_pages:
 - 727
 - 728
 source_sections:
-  collimation: • Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana
+  collimation: • Se ajustează la 8 × 17 țoli (18 × 43 cm) pe colimator pentru coloana
     lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana
-    lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează
+    lombară בלבד, colimarea poate fi redusă la 8 × 14 țoli (18 × 35 cm). Se plasează
     markerul de lateralitate (D/S) în câmpul de expunere colimat.
   cr: • perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace (L4)
-    pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor iliace
+    pentru examinarea lombosacrală sau la 1.5 țoli (3.8 cm) deasupra crestelor iliace
     pentru coloana lombară בלבד
   criteria: 'Criterii radiologice de calitate a imaginii:
 
@@ -109,27 +113,27 @@ source_sections:
     suficient pentru a așeza spatele în contact ferm cu masa (vezi Fig. 9.86).
 
     • Pentru evidențierea coloanei lombare și a sacrului, se centrează receptorul
-    de imagine de 14 × 17 inches (35 × 43 cm) la nivelul crestelor iliace (L4).
+    de imagine de 14 × 17 țoli (35 × 43 cm) la nivelul crestelor iliace (L4).
 
     • Pentru evidențierea numai a coloanei lombare, se centrează receptorul de imagine
-    la 1.5 inches (3.8 cm) deasupra crestelor iliace (L3).
+    la 1.5 țoli (3.8 cm) deasupra crestelor iliace (L3).
 
     • Se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • Se examinează coloana lombară sau lombosacrală cu pacientul în decubit.
   respiration: Apnee la sfârșitul expirului complet.
-  sid: 48 inches (122 cm) este recomandat pentru reducerea distorsiunii și deschiderea
+  sid: 48 țoli (122 cm) este recomandat pentru reducerea distorsiunii și deschiderea
     mai completă a spațiilor discale intervertebrale.
   tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
-    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 inches
-    (35 × 43 cm), longitudinal.'
+    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 țoli (35
+    × 43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 9. Vertebral Column, pagini 723–728
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana
+  collimation: Se ajustează la 8 × 17 țoli (18 × 43 cm) pe colimator pentru coloana
     lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana
-    lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează
+    lombară בלבד, colimarea poate fi redusă la 8 × 14 țoli (18 × 35 cm). Se plasează
     markerul de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx vertebrele lombare-lombosacrale — Incidență antero-posterioară (AP) — Incidență
   postero-anterioară (PA) (opțional), obținute cu vezica urinară plină. (Merrill)
@@ -158,17 +162,18 @@ title: Rx vertebrele lombare-lombosacrale — Incidență antero-posterioară (A
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se examinează coloana lombară sau lombosacrală cu pacientul în decubit; se centrează MSP al corpului pacientului pe linia mediană a grilei. Se ajustează umerii și șoldurile pacientului pentru a se afla în același plan orizontal. Se flectează coatele pacientului și se așază mâinile pe toracele superior, astfel încât antebrațele să nu se afle în câmpul de expunere. Se poate utiliza un suport radiotransparent sub partea pelvină inferioară pentru reducerea rotației, când este necesar. Se reduce lordoza lombară prin flexia șoldurilor și genunchilor pacientului suficient pentru a așeza spatele în contact ferm cu masa (vezi Fig. 9.86). Pentru evidențierea coloanei lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 inches (35 × 43 cm) la nivelul crestelor iliace (L4). Pentru evidențierea numai a coloanei lombare, se centrează receptorul de imagine la 1.5 inches (3.8 cm) deasupra crestelor iliace (L3). Se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace (L4) pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor iliace pentru coloana lombară בלבד
+    - **Poziție Pacient:** Se examinează coloana lombară sau lombosacrală cu pacientul în decubit; se centrează MSP al corpului pacientului pe linia mediană a grilei. Se ajustează umerii și șoldurile pacientului pentru a se afla în același plan orizontal. Se flectează coatele pacientului și se așază mâinile pe toracele superior, astfel încât antebrațele să nu se afle în câmpul de expunere. Se poate utiliza un suport radiotransparent sub partea pelvină inferioară pentru reducerea rotației, când este necesar. Se reduce lordoza lombară prin flexia șoldurilor și genunchilor pacientului suficient pentru a așeza spatele în contact ferm cu masa (vezi Fig. 9.86). Pentru evidențierea coloanei lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 țoli (35 × 43 cm) la nivelul crestelor iliace (L4). Pentru evidențierea numai a coloanei lombare, se centrează receptorul de imagine la 1.5 țoli (3.8 cm) deasupra crestelor iliace (L3). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace (L4) pentru examinarea lombosacrală sau la 1.5 țoli (3.8 cm) deasupra crestelor iliace pentru coloana lombară בלבד
     - **Distanță Focar-Film (DFF / SID):** Se recomandă o distanță de 48 inci (122 cm), pentru a reduce distorsiunea și a evidenția mai complet spațiile discale intervertebrale.
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -184,7 +189,7 @@ title: Rx vertebrele lombare-lombosacrale — Incidență antero-posterioară (A
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Se ajustează la 8 × 17 țoli (18 × 43 cm) pe colimator pentru coloana lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana lombară בלבד, colimarea poate fi redusă la 8 × 14 țoli (18 × 35 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -209,6 +214,7 @@ title: Rx vertebrele lombare-lombosacrale — Incidență antero-posterioară (A
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -280,54 +286,3 @@ title: Rx vertebrele lombare-lombosacrale — Incidență antero-posterioară (A
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 723–728](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### colimare
-
-• Se ajustează la 8 × 17 inches (18 × 43 cm) pe colimator pentru coloana lombosacrală. Se asigură includerea articulațiilor sacroiliace. Pentru coloana lombară בלבד, colimarea poate fi redusă la 8 × 14 inches (18 × 35 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe receptorul de imagine (RI), la nivelul crestelor iliace (L4) pentru examinarea lombosacrală sau la 1.5 inches (3.8 cm) deasupra crestelor iliace pentru coloana lombară בלבד
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-• Regiunea de la coloana toracală inferioară până la sacru
-• Fasciculul de raze X colimat la marginea laterală a mușchilor psoas
-• Fără artefact la nivelul mezogastrului, produs de orice elastic din lenjeria pacientului
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Vertebre simetrice, cu procesele spinoase centrate pe corpurile vertebrale
-• Articulațiile sacroiliace echidistante față de coloana vertebrală
-• Spații discale intervertebrale deschise
-• Detalii trabeculare osoase și țesuturi moi adiacente
-
-### part_pos
-
-• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
-• Se ajustează umerii și șoldurile pacientului pentru a se afla în același plan orizontal.
-• Se flectează coatele pacientului și se așază mâinile pe toracele superior, astfel încât antebrațele să nu se afle în câmpul de expunere.
-• Se poate utiliza un suport radiotransparent sub partea pelvină inferioară pentru reducerea rotației, când este necesar.
-• Se reduce lordoza lombară prin flexia șoldurilor și genunchilor pacientului suficient pentru a așeza spatele în contact ferm cu masa (vezi Fig. 9.86).
-• Pentru evidențierea coloanei lombare și a sacrului, se centrează receptorul de imagine de 14 × 17 inches (35 × 43 cm) la nivelul crestelor iliace (L4).
-• Pentru evidențierea numai a coloanei lombare, se centrează receptorul de imagine la 1.5 inches (3.8 cm) deasupra crestelor iliace (L3).
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se examinează coloana lombară sau lombosacrală cu pacientul în decubit.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### sid
-
-48 inches (122 cm) este recomandat pentru reducerea distorsiunii și deschiderea mai completă a spațiilor discale intervertebrale.
-
-### tehnică
-
-poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 inches (35 × 43 cm), longitudinal.
-

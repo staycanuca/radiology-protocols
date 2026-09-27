@@ -15,6 +15,10 @@ images:
 - caption: Merrill — pagina 778, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coloana-lombara-spinal-fusion-incidenta-de-profil-lateral-right-or-left-position-flexion-and-extension-p775-merrill/p778_fig3.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -87,7 +91,7 @@ source_sections:
     • se centrează planul mediocoronal pe linia mediană a grilei.'
   respiration: apnee (oprirea respirației).
   tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
-    afișarea corectă a orientării anatomice; placa pentru raza centrală: 14 × 17 inches
+    afișarea corectă a orientării anatomice; placa pentru raza centrală: 14 × 17 țoli
     (35 × 43 cm), dispusă longitudinal pentru fiecare expunere.'
 sources:
 - title: Merrill’s Atlas, 9. Vertebral Column, pagini 775–779
@@ -123,11 +127,12 @@ title: 'Rx Coloană Lombară: Fuziune vertebrală — Incidență de profil (lat
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -170,6 +175,7 @@ title: 'Rx Coloană Lombară: Fuziune vertebrală — Incidență de profil (lat
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -217,50 +223,3 @@ title: 'Rx Coloană Lombară: Fuziune vertebrală — Incidență de profil (lat
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 775–779](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Se efectuează două incidențe de profil ale coloanei vertebrale în flexie (Fig. 9.147A) și extensie (vezi Fig. 9.147B), pentru a determina dacă există mișcare în zona fuziunii vertebrale, indicând lipsa consolidării, sau pentru a localiza discul herniat, evidențiat prin limitarea mișcării la sediul leziunii.
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe zona fuziunii vertebrale sau pe L3.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
-• Sediul fuziunii vertebrale în centrul radiografiei
-• Absența rotației anatomice (simetrie bilaterală perfectă) a coloanei vertebrale (marginile posterioare ale corpurilor vertebrale sunt suprapuse)
-• Markerii de identificare a hiperflexiei și hiperextensiei utilizați corect pentru fiecare incidență respectivă
-• Detalii osoase trabeculare și țesuturi moi adiacente
-
-### part_pos
-
-Flexie
-• Se instruiește pacientul să se aplece înainte, flectând coloana vertebrală cât mai mult posibil (Fig. 9.145).
-Extensie
-• Se instruiește pacientul să se aplece înapoi, extinzând coloana vertebrală cât mai mult posibil (Fig. 9.146).
-• Se imobilizează pacientul pentru a preveni mișcarea, dacă este necesar.
-• Se centrează receptorul de imagine la nivelul fuziunii vertebrale.
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se ajustează pacientul în ortostatism sau în decubit lateral.
-• se centrează planul mediocoronal pe linia mediană a grilei.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; placa pentru raza centrală: 14 × 17 inches (35 × 43 cm), dispusă longitudinal pentru fiecare expunere.
-

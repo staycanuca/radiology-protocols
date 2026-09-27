@@ -24,6 +24,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.86
     AP axial oblic (LPO).)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-ap-axial-or-ap-axial-oblique-lpo-projections-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Procedați cât mai rapid posibil. Incidențe similare pot fi obținute în PA axial
@@ -98,11 +102,12 @@ title: Rx irigografie (clismă baritată), incidență AP axială sau AP axială
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -147,6 +152,7 @@ title: Rx irigografie (clismă baritată), incidență AP axială sau AP axială
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Procedați cât mai rapid posibil. Incidențe similare pot fi obținute în PA axial și RAO, cu raza centrală înclinată caudal la un unghi de 30° la 40° (vezi pagina următoare). Irigografie (clismă baritată) SPECIALĂ AP sau LPO axial

@@ -2,7 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe third articulații metacarpofalangiene (MCF)
+centering: perpendicular pe articulațiile metacarpofalangiene (MCF) ale celui de-al
+  treilea metacarpian
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,50 +19,59 @@ images:
 - caption: Merrill — pagina 279, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill/p279_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Lane et al. 11 recommended inclusion de reverse Incidență Oblică la better
-  show severe metacarpal deformities sau suspiciune de fractură. This incidență este
-  accomplished prin having pacientul se rotește Mână 45 grade medially (internally)
-  de la palm-down poziție. Kallen 12 recommended using tangențial Incidență Oblică
-  la show metacarpal cap suspiciune de fractură. de la PA Mână poziție, articulații
-  metacarpofalangiene (MCF) sunt flectat 75 la 80 grade cu dorsum de falange resting
-  pe receptorul de imagine. Mână este rotit 40 la 45 grade spre ulnar surface. Then
-  Mână este rotit 40 la 45 grade forward until afected articulații metacarpofalangiene
-  (MCF) este projected beyond its proximal phalanx. perpendicular raza centrală este
-  orientat tangentially la enter articulații metacarpofalangiene (MCF) de interest.
-  Variations de rotație sunt described la show second metacarpal cap liber de superimposition.
-position: se așază pacientul pe scaun la end de masa radiologică. se ajustează pacient’s
-  height la rest Antebraț pe masa de examinare.; se sprijină pacientul’s Antebraț
-  pe masa de examinare, cu Mână în pronație și palm resting pe receptorul de imagine.
-  se ajustează obliquity de Mână astfel încât articulații metacarpofalangiene (MCF)
-  form angle de approximately 45 grade cu receptorul de imagine plane. Use a 45-grade
-  foam wedge la support Degete Mână în extins poziție la show articulații interfalangiene
-  (IF) (see Figs. 5.55 și 5.56). When examining oase metacarpiene, obtain PA Incidență
-  Oblică de Mână prin rotating pacientul’s Mână laterally (externally) de la în pronație
-  poziție until fingertips touch receptorul de imagine (Fig. 5.57). If it este impossible
-  la obtain correct poziție cu toate fingertips resting pe receptorul de imagine,
-  elevate index finger și Police pe suitable radiolucent material (see Fig. 5.56).
-  Elevation opens spații articulare și reduces grade de foreshortening de falange.
-  pentru either approach, se centrează receptorul de imagine la articulații metacarpofalangiene
-  (MCF) și se ajustează midline la fie paralel cu axa longitudinală de Mână și Antebraț.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Lane et al. 11 au recomandat includerea incidenței oblice inverse pentru a
+  evidenția mai bine deformările metacarpiene severe sau suspiciunea de fractură.
+  Această incidență se realizează prin rotirea mâinii pacientului la 45 grade medial
+  (intern) din poziția cu palma în jos. Kallen 12 a recomandat utilizarea unei incidențe
+  oblice tangențiale pentru evidențierea suspiciunii de fractură a capului metacarpian.
+  Din poziția PA a mâinii, articulațiile metacarpofalangiene (MCF) sunt flectate la
+  75 la 80 grade, cu dosul falangelor sprijinit pe receptorul de imagine. Mâna este
+  rotită la 40 la 45 grade spre suprafața ulnară. Apoi mâna este rotită la 40 la 45
+  grade înainte, până când articulația metacarpofalangiană (MCF) afectată este proiectată
+  dincolo de falanga sa proximală. Raza centrală perpendiculară este orientată tangențial
+  pentru a pătrunde în articulația metacarpofalangiană (MCF) de interes. Au fost descrise
+  variații ale rotației pentru a evidenția capul celui de-al doilea metacarpian liber
+  de suprapunere.
+position: Se așază pacientul pe scaun la capătul mesei radiologice. Se ajustează înălțimea
+  pacientului pentru a sprijini antebrațul pe masa de examinare. Se sprijină antebrațul
+  pacientului pe masa de examinare, cu mâna în pronație și palma sprijinită pe receptorul
+  de imagine. Se ajustează oblicitatea mâinii astfel încât articulațiile metacarpofalangiene
+  (MCF) să formeze un unghi de aproximativ 45 grade cu planul receptorului de imagine.
+  Se utilizează un suport din spumă la 45 grade pentru susținerea degetelor în poziție
+  extinsă, pentru evidențierea articulațiilor interfalangiene (IF) (vezi Fig. 5.55
+  și 5.56). La examinarea oaselor metacarpiene, se obține o incidență PA oblică a
+  mâinii prin rotirea laterală (externă) a mâinii pacientului din poziția în pronație,
+  până când vârfurile degetelor ating receptorul de imagine (Fig. 5.57). Dacă este
+  imposibil să se obțină poziția corectă cu toate vârfurile degetelor sprijinite pe
+  receptorul de imagine, se ridică indexul și policele pe un material radiotransparent
+  adecvat (vezi Fig. 5.56). Ridicarea deschide spațiile articulare și reduce gradul
+  de scurtare aparentă a falangelor. Pentru oricare dintre abordări, se centrează
+  receptorul de imagine la nivelul articulațiilor metacarpofalangiene (MCF) și se
+  ajustează linia mediană pentru a fi paralelă cu axa longitudinală a mâinii și antebrațului.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Anatomy de la fingertips la distal radius și ulna
-- falange separated slightly cu fără overlap de their soft tissues
-- 45 grade de rotație de anatomy
-- Decreasing amounts de separation între metacarpal corpuri two through five, cu second
-  și third having greatest separation.
-- Partial superimposition de third, fourth, și fifth metacarpal bases și heads
-- Open articulații metacarpofalangiene (MCF)
-- Open articulații interfalangiene (IF), when falange sunt poziționat paralel cu receptorul
-  de imagine
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Anatomie de la vârfurile degetelor până la radiusul și ulna distale
+- Falange ușor depărtate, fără suprapunerea țesuturilor lor moi
+- Rotație de 45 grade a anatomiei
+- Cantități descrescătoare de separare între corpurile metacarpiene de la doi la cinci,
+  al doilea și al treilea prezentând cea mai mare separare.
+- Suprapunere parțială a bazelor și capetelor metacarpienelor al treilea, al patrulea
+  și al cincilea
+- Articulații metacarpofalangiene (MCF) deschise
+- Articulații interfalangiene (IF) deschise, atunci când falangele sunt poziționate
+  paralel cu receptorul de imagine
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mana-pa-incidenta-oblica-lateral-rotation-p277-merrill
 source_pages:
@@ -69,96 +79,92 @@ source_pages:
 - 278
 - 279
 source_sections:
-  anatomy: 'PA oblic incidență de bones și soft tissues de mână, including distal
-    radius și ulna (see Fig. 5.58). This supplemental poziție
+  anatomy: Incidență oblică PA a oaselor și țesuturilor moi ale mâinii, inclusiv radiusul
+    și ulna distale (vezi Fig. 5.58). Această poziție suplimentară este utilizată
+    pentru investigarea suspiciunii de fractură și a afecțiunilor patologice.
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile
+    mâinii, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Se plasează
+    markerul de lateralitate în câmpul de expunere colimat.
+  cr: • perpendicular pe articulațiile metacarpofalangiene (MCF) ale celui de-al treilea
+    metacarpian
+  criteria: 'Criterii radiologice pentru calitatea imaginii:
 
-    este used pentru investigating suspiciune de fractură și pathologic conditions.'
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de mână,
-    including 1 inch (2.5 cm) proximal la ulnar styloid. Place side
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    marker în collimated expunere field.'
-  cr: • perpendicular pe third articulații metacarpofalangiene (MCF)
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Anatomia de la vârfurile degetelor până la radiusul și ulna distale
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Falange ușor depărtate, fără suprapunerea țesuturilor lor moi
 
-    • Anatomy de la fingertips la distal radius și ulna
+    • Rotație de 45 grade a anatomiei
 
-    • falange separated slightly cu fără overlap de their soft tissues
+    • Cantități descrescătoare de separare între corpurile metacarpiene de la doi
+    la cinci, al doilea și al treilea prezentând cea mai mare separare
 
-    • 45 grade de rotație de anatomy
+    • Suprapunere parțială a bazelor și capetelor metacarpienelor al treilea, al patrulea
+    și al cincilea
 
-    • Decreasing amounts de separation între metacarpal corpuri two through five,
-    cu second și third having greatest
+    • Articulații metacarpofalangiene (MCF) deschise
 
-    separation.
+    • Articulații interfalangiene (IF) deschise, atunci când falangele sunt poziționate
+    paralel cu receptorul de imagine
 
-    • Partial superimposition de third, fourth, și fifth metacarpal bases și heads
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: 'Lane et al. 11 au recomandat includerea unei incidențe oblice inverse pentru
+    a evidenția mai bine deformările metacarpiene severe sau suspiciunea de fractură.
+    Această incidență se realizează prin rotirea mâinii pacientului la 45 grade medial
+    (intern) din poziția cu palma în jos.
 
-    • Open articulații metacarpofalangiene (MCF)
+    Kallen 12 a recomandat utilizarea unei incidențe oblice tangențiale pentru evidențierea
+    suspiciunii de fractură a capului metacarpian. Din poziția PA a mâinii, articulațiile
+    metacarpofalangiene (MCF) sunt flectate la 75 la 80 grade, cu dosul falangelor
+    sprijinit pe receptorul de imagine. Mâna este rotită la 40 la 45 grade spre suprafața
+    ulnară. Apoi mâna este rotită la 40 la 45 grade înainte, până când articulația
+    metacarpofalangiană (MCF) afectată este proiectată dincolo de falanga sa proximală.
+    Raza centrală perpendiculară este orientată tangențial pentru a pătrunde în articulația
+    metacarpofalangiană (MCF) de interes. Au fost descrise variații ale rotației pentru
+    a evidenția capul celui de-al doilea metacarpian liber de suprapunere.'
+  part_pos: '• Se sprijină antebrațul pacientului pe masa de examinare, cu mâna în
+    pronație și palma sprijinită pe receptorul de imagine.
 
-    • Open articulații interfalangiene (IF), when falange sunt poziționat paralel
-    cu receptorul de imagine
+    • Se ajustează oblicitatea mâinii astfel încât articulațiile metacarpofalangiene
+    (MCF) să formeze un unghi de aproximativ 45 grade cu planul receptorului de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'Lane et al. 11 recommended inclusion de reverse oblic incidență la better
-    show severe metacarpal deformities sau suspiciune de fractură. This
+    • Se utilizează un suport din spumă la 45 grade pentru susținerea degetelor în
+    poziție extinsă, pentru evidențierea articulațiilor interfalangiene (IF) (vezi
+    Fig. 5.55 și 5.56).
 
-    incidență este accomplished prin having pacientul se rotește mână 45 grade medially
-    (internally) de la palm-down poziție.
+    • La examinarea oaselor metacarpiene, se obține o incidență PA oblică a mâinii
+    prin rotirea laterală (externă) a mâinii pacientului din poziția în pronație,
+    până când vârfurile degetelor ating receptorul de imagine (Fig. 5.57).
 
-    Kallen 12 recommended using tangențial oblic incidență la show metacarpal cap
-    suspiciune de fractură. de la PA mână poziție, articulații metacarpofalangiene
-    (MCF)
+    • Dacă este imposibil să se obțină poziția corectă cu toate vârfurile degetelor
+    sprijinite pe receptorul de imagine, se ridică indexul și policele pe un material
+    radiotransparent adecvat (vezi Fig. 5.56). Ridicarea deschide spațiile articulare
+    și reduce gradul de scurtare aparentă a falangelor.
 
-    sunt flectat 75 la 80 grade cu dorsum de falange resting pe receptorul de imagine.
-    mână este rotit 40 la 45 grade spre ulnar surface. Then mână este rotit 40 la
-    45 grade forward until afected articulații metacarpofalangiene (MCF) este projected
-    beyond its proximal phalanx. perpendicular raza centrală este orientat
+    • Pentru oricare dintre abordări, se centrează receptorul de imagine la nivelul
+    articulațiilor metacarpofalangiene (MCF) și se ajustează linia mediană pentru
+    a fi paralelă cu axa longitudinală a mâinii și antebrațului.
 
-    tangentially la enter articulații metacarpofalangiene (MCF) de interest. Variations
-    de rotație sunt described la show second metacarpal cap liber de superimposition.'
-  part_pos: '• se sprijină pacientul’s forearm pe masa de examinare, cu mână în pronație
-    și palm resting pe receptorul de imagine.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul pe scaun la capătul mesei radiologice.
 
-    • se ajustează obliquity de mână astfel încât articulații metacarpofalangiene
-    (MCF) form angle de approximately 45 grade cu receptorul de imagine plane.
-
-    • Use a 45-grade foam wedge la support degetele în extins poziție la show articulații
-    interfalangiene (IF) (see Figs. 5.55 și 5.56).
-
-    • When examining oase metacarpiene, obtain PA oblic incidență de mână prin rotating
-    pacientul’s mână laterally (externally) de la
-
-    în pronație poziție until fingertips touch receptorul de imagine (Fig. 5.57).
-
-    • If it este impossible la obtain correct poziție cu toate fingertips resting
-    pe receptorul de imagine, elevate index finger și thumb pe suitable
-
-    radiolucent material (see Fig. 5.56). Elevation opens spații articulare și reduces
-    grade de foreshortening de falange.
-
-    • pentru either approach, se centrează receptorul de imagine la articulații metacarpofalangiene
-    (MCF) și se ajustează midline la fie paralel cu axa longitudinală de mână și forearm.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică.
-
-    • se ajustează pacient’s height la rest forearm pe masa de examinare.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se ajustează înălțimea pacientului pentru a sprijini antebrațul pe masa de examinare.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 277–279
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Mână,
-    including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Laterală) (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile
+    mâinii, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Se plasează
+    markerul de lateralitate în câmpul colimat.
+title: Rx mână — oblică postero-anterioară (PA) — rotație externă (laterală) (Merrill)
 ---
-# Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Laterală) (Merrill)
+# Rx mână — oblică postero-anterioară (PA) — rotație externă (laterală) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -182,17 +188,18 @@ title: Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Lat
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică. se ajustează pacient’s height la rest Antebraț pe masa de examinare.; se sprijină pacientul’s Antebraț pe masa de examinare, cu Mână în pronație și palm resting pe receptorul de imagine. se ajustează obliquity de Mână astfel încât articulații metacarpofalangiene (MCF) form angle de approximately 45 grade cu receptorul de imagine plane. Use a 45-grade foam wedge la support Degete Mână în extins poziție la show articulații interfalangiene (IF) (see Figs. 5.55 și 5.56). When examining oase metacarpiene, obtain PA Incidență Oblică de Mână prin rotating pacientul’s Mână laterally (externally) de la în pronație poziție until fingertips touch receptorul de imagine (Fig. 5.57). If it este impossible la obtain correct poziție cu toate fingertips resting pe receptorul de imagine, elevate index finger și Police pe suitable radiolucent material (see Fig. 5.56). Elevation opens spații articulare și reduces grade de foreshortening de falange. pentru either approach, se centrează receptorul de imagine la articulații metacarpofalangiene (MCF) și se ajustează midline la fie paralel cu axa longitudinală de Mână și Antebraț. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe third articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** Se așază pacientul pe scaun la capătul mesei radiologice. Se ajustează înălțimea pacientului pentru a sprijini antebrațul pe masa de examinare. Se sprijină antebrațul pacientului pe masa de examinare, cu mâna în pronație și palma sprijinită pe receptorul de imagine. Se ajustează oblicitatea mâinii astfel încât articulațiile metacarpofalangiene (MCF) să formeze un unghi de aproximativ 45 grade cu planul receptorului de imagine. Se utilizează un suport din spumă la 45 grade pentru susținerea degetelor în poziție extinsă, pentru evidențierea articulațiilor interfalangiene (IF) (vezi Fig. 5.55 și 5.56). La examinarea oaselor metacarpiene, se obține o incidență PA oblică a mâinii prin rotirea laterală (externă) a mâinii pacientului din poziția în pronație, până când vârfurile degetelor ating receptorul de imagine (Fig. 5.57). Dacă este imposibil să se obțină poziția corectă cu toate vârfurile degetelor sprijinite pe receptorul de imagine, se ridică indexul și policele pe un material radiotransparent adecvat (vezi Fig. 5.56). Ridicarea deschide spațiile articulare și reduce gradul de scurtare aparentă a falangelor. Pentru oricare dintre abordări, se centrează receptorul de imagine la nivelul articulațiilor metacarpofalangiene (MCF) și se ajustează linia mediană pentru a fi paralelă cu axa longitudinală a mâinii și antebrațului. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulațiile metacarpofalangiene (MCF) ale celui de-al treilea metacarpian
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -208,23 +215,23 @@ title: Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Lat
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Mână, including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile mâinii, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Anatomy de la fingertips la distal radius și ulna
-    - falange separated slightly cu fără overlap de their soft tissues
-    - 45 grade de rotație de anatomy
-    - Decreasing amounts de separation între metacarpal corpuri two through five, cu second și third having greatest separation.
-    - Partial superimposition de third, fourth, și fifth metacarpal bases și heads
-    - Open articulații metacarpofalangiene (MCF)
-    - Open articulații interfalangiene (IF), when falange sunt poziționat paralel cu receptorul de imagine
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Anatomie de la vârfurile degetelor până la radiusul și ulna distale
+    - Falange ușor depărtate, fără suprapunerea țesuturilor lor moi
+    - Rotație de 45 grade a anatomiei
+    - Cantități descrescătoare de separare între corpurile metacarpiene de la doi la cinci, al doilea și al treilea prezentând cea mai mare separare.
+    - Suprapunere parțială a bazelor și capetelor metacarpienelor al treilea, al patrulea și al cincilea
+    - Articulații metacarpofalangiene (MCF) deschise
+    - Articulații interfalangiene (IF) deschise, atunci când falangele sunt poziționate paralel cu receptorul de imagine
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -234,8 +241,9 @@ title: Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Lat
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Lane et al. 11 recommended inclusion de reverse Incidență Oblică la better show severe metacarpal deformities sau suspiciune de fractură. This incidență este accomplished prin having pacientul se rotește Mână 45 grade medially (internally) de la palm-down poziție. Kallen 12 recommended using tangențial Incidență Oblică la show metacarpal cap suspiciune de fractură. de la PA Mână poziție, articulații metacarpofalangiene (MCF) sunt flectat 75 la 80 grade cu dorsum de falange resting pe receptorul de imagine. Mână este rotit 40 la 45 grade spre ulnar surface. Then Mână este rotit 40 la 45 grade forward until afected articulații metacarpofalangiene (MCF) este projected beyond its proximal phalanx. perpendicular raza centrală este orientat tangentially la enter articulații metacarpofalangiene (MCF) de interest. Variations de rotație sunt described la show second metacarpal cap liber de superimposition.
+    Lane et al. 11 au recomandat includerea incidenței oblice inverse pentru a evidenția mai bine deformările metacarpiene severe sau suspiciunea de fractură. Această incidență se realizează prin rotirea mâinii pacientului la 45 grade medial (intern) din poziția cu palma în jos. Kallen 12 a recomandat utilizarea unei incidențe oblice tangențiale pentru evidențierea suspiciunii de fractură a capului metacarpian. Din poziția PA a mâinii, articulațiile metacarpofalangiene (MCF) sunt flectate la 75 la 80 grade, cu dosul falangelor sprijinit pe receptorul de imagine. Mâna este rotită la 40 la 45 grade spre suprafața ulnară. Apoi mâna este rotită la 40 la 45 grade înainte, până când articulația metacarpofalangiană (MCF) afectată este proiectată dincolo de falanga sa proximală. Raza centrală perpendiculară este orientată tangențial pentru a pătrunde în articulația metacarpofalangiană (MCF) de interes. Au fost descrise variații ale rotației pentru a evidenția capul celui de-al doilea metacarpian liber de suprapunere.
 
 
 ### 🖼️ Imagini
@@ -288,63 +296,3 @@ title: Rx Mână — Oblică Postero-Anterioară (PA) — Rotație Externă (Lat
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 277–279](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-PA oblic incidență de bones și soft tissues de mână, including distal radius și ulna (see Fig. 5.58). This supplemental poziție
-este used pentru investigating suspiciune de fractură și pathologic conditions.
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de mână, including 1 inch (2.5 cm) proximal la ulnar styloid. Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular pe third articulații metacarpofalangiene (MCF)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Anatomy de la fingertips la distal radius și ulna
-• falange separated slightly cu fără overlap de their soft tissues
-• 45 grade de rotație de anatomy
-• Decreasing amounts de separation între metacarpal corpuri two through five, cu second și third having greatest
-separation.
-• Partial superimposition de third, fourth, și fifth metacarpal bases și heads
-• Open articulații metacarpofalangiene (MCF)
-• Open articulații interfalangiene (IF), when falange sunt poziționat paralel cu receptorul de imagine
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Lane et al. 11 recommended inclusion de reverse oblic incidență la better show severe metacarpal deformities sau suspiciune de fractură. This
-incidență este accomplished prin having pacientul se rotește mână 45 grade medially (internally) de la palm-down poziție.
-Kallen 12 recommended using tangențial oblic incidență la show metacarpal cap suspiciune de fractură. de la PA mână poziție, articulații metacarpofalangiene (MCF)
-sunt flectat 75 la 80 grade cu dorsum de falange resting pe receptorul de imagine. mână este rotit 40 la 45 grade spre ulnar surface. Then mână este rotit 40 la 45 grade forward until afected articulații metacarpofalangiene (MCF) este projected beyond its proximal phalanx. perpendicular raza centrală este orientat
-tangentially la enter articulații metacarpofalangiene (MCF) de interest. Variations de rotație sunt described la show second metacarpal cap liber de superimposition.
-
-### part_pos
-
-• se sprijină pacientul’s forearm pe masa de examinare, cu mână în pronație și palm resting pe receptorul de imagine.
-• se ajustează obliquity de mână astfel încât articulații metacarpofalangiene (MCF) form angle de approximately 45 grade cu receptorul de imagine plane.
-• Use a 45-grade foam wedge la support degetele în extins poziție la show articulații interfalangiene (IF) (see Figs. 5.55 și 5.56).
-• When examining oase metacarpiene, obtain PA oblic incidență de mână prin rotating pacientul’s mână laterally (externally) de la
-în pronație poziție until fingertips touch receptorul de imagine (Fig. 5.57).
-• If it este impossible la obtain correct poziție cu toate fingertips resting pe receptorul de imagine, elevate index finger și thumb pe suitable
-radiolucent material (see Fig. 5.56). Elevation opens spații articulare și reduces grade de foreshortening de falange.
-• pentru either approach, se centrează receptorul de imagine la articulații metacarpofalangiene (MCF) și se ajustează midline la fie paralel cu axa longitudinală de mână și forearm.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-• se ajustează pacient’s height la rest forearm pe masa de examinare.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

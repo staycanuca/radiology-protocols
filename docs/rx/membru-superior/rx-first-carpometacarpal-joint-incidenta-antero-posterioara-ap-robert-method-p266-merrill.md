@@ -18,38 +18,44 @@ images:
 - caption: Merrill — pagina 269, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-robert-method-p266-merrill/p269_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'Angulation de raza centrală serves two purposes: (1) It poate help la project
-  părți moi de Mână away de la first articulații carpometacarpiene (CMC), și (2) it
-  poate help la open spații articulare when space este nu vizualizat cu perpendicular
-  raza centrală.'
-position: se așază pacientul pe scaun sideways la end de masa radiologică. pacientul
-  trebuie să fie poziționat low enough la place Umăr, Cot, și Pumn (Articulație Radiocarpiană)
-  pe same plane. entire extremity trebuie să fie pe same plane la prevent elevation
-  de oase carpiene și closing de first articulații carpometacarpiene (CMC) (Fig. 5.45).;
-  se extinde extremity straight out pe masa radiologică. se rotește braț internally
-  la place posterior aspect de Police pe receptorul de imagine cu thumbnail down (see
-  Fig. 5.45). Place Police în center de receptorul de imagine. Hyperextend Mână astfel
-  încât părți moi over ulnar aspect does nu obscure first articulații carpometacarpiene
-  (CMC) (Fig. 5.46). Ensure that Police este nu oblic. Long și Rafert 6 stated that
-  pacientul poate hold Degete Mână back cu other Mână. Steady Mână pe sponge if necessary.
-  se efectuează ecranarea gonadelor cu șorț plumbat. perpendicular entering la first
-  articulații carpometacarpiene (CMC) Long și Rafert modification înclinat 15 grade
-  proximally along axa longitudinală de Police și entering first articulații carpometacarpiene
-  (CMC) Lewis modification înclinat 10 la 15 grade proximally along axa longitudinală
-  de Police și entering first articulații metacarpofalangiene (MCF)
+notes: 'Înclinarea razei centrale are două scopuri: (1) poate ajuta la proiectarea
+  părților moi ale mâinii în afara primei articulații carpometacarpiene (CMC) și (2)
+  poate ajuta la deschiderea spațiilor articulare atunci când spațiul nu este vizualizat
+  cu raza centrală perpendiculară.'
+position: 'se așază pacientul pe scaun, lateral față de capătul mesei radiologice.
+  pacientul trebuie poziționat suficient de jos pentru a plasa umărul, cotul și pumnul
+  (articulația radiocarpiană) în același plan. întreaga extremitate trebuie să fie
+  în același plan pentru a preveni ridicarea oaselor carpiene și închiderea primei
+  articulații carpometacarpiene (CMC) (Fig. 5.45).; se extinde extremitatea drept
+  înainte pe masa radiologică. se rotește brațul în interior pentru a plasa aspectul
+  posterior al policelui pe receptorul de imagine, cu unghia în jos (vezi Fig. 5.45).
+  Se plasează policele în centrul receptorului de imagine. Se hiperextinde mâna astfel
+  încât părțile moi de pe aspectul ulnar să nu acopere prima articulație carpometacarpiană
+  (CMC) (Fig. 5.46). Se verifică faptul că policele nu este oblic. Long și Rafert
+  6 au afirmat că pacientul poate ține degetele mâinii înapoi cu cealaltă mână. Se
+  stabilizează mâna pe un burete, dacă este necesar. se efectuează ecranarea gonadelor
+  cu șorț plumbat. raza centrală perpendiculară, incidentă pe prima articulație carpometacarpiană
+  (CMC); modificarea Long și Rafert: înclinată cu 15 grade proximal de-a lungul axei
+  longitudinale a policelui și incidentă pe prima articulație carpometacarpiană (CMC);
+  modificarea Lewis: înclinată cu 10 la 15 grade proximal de-a lungul axei longitudinale
+  a policelui și incidentă pe prima articulație metacarpofalangiană (MCF)'
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- First articulații carpometacarpiene (CMC) liber de superimposition de Mână sau other
-  bony elements
-- First metacarpal cu base în convex profile
-- Trapezium
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Prima articulație carpometacarpiană (CMC) liberă de suprapunerea mâinii sau a altor
+  elemente osoase
+- Primul metacarpian cu baza în profil convex
+- Trapez
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-first-carpometacarpal-joint-incidenta-antero-posterioara-ap-robert-method-p266-merrill
 source_pages:
@@ -58,79 +64,78 @@ source_pages:
 - 268
 - 269
 source_sections:
-  anatomy: first articulații carpometacarpiene (CMC) liber de superimposition de soft
-    tissues de mână (Fig. 5.48).
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații carpometacarpiene (CMC). Place
-    marker de lateralitate (D/S)
+  anatomy: prima articulație carpometacarpiană (CMC) liberă de suprapunerea părților
+    moi ale mâinii (Fig. 5.48).
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    falangelor, inclusiv 1 țol (2.5 cm) proximal față de articulația carpometacarpiană
+    (CMC). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    în collimated expunere field.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Prima articulație carpometacarpiană (CMC) liberă de suprapunerea mâinii sau
+    a altor elemente osoase
 
-    • First articulații carpometacarpiene (CMC) liber de superimposition de mână sau
-    other bony elements
+    • Primul metacarpian cu baza în profil convex
 
-    • First metacarpal cu base în convex profile
+    • Trapez
 
-    • Trapezium
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: 'Înclinarea razei centrale are două scopuri: (1) poate ajuta la proiectarea
+    părților moi ale mâinii în afara primei articulații carpometacarpiene (CMC) și
+    (2) poate ajuta la deschiderea spațiilor articulare atunci când spațiul nu este
+    vizualizat cu raza centrală perpendiculară.'
+  part_pos: '• se extinde extremitatea drept înainte pe masa radiologică.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'Angulation de raza centrală serves two purposes: (1) It poate help la project
-    părți moi de mână away de la first articulații carpometacarpiene (CMC), și (2)
+    • se rotește brațul în interior pentru a plasa aspectul posterior al policelui
+    pe receptorul de imagine, cu unghia în jos (vezi Fig. 5.45).
 
-    it poate help la open spații articulare when space este nu vizualizat cu perpendicular
-    raza centrală.'
-  part_pos: '• se extinde extremity straight out pe masa radiologică.
+    • Se plasează policele în centrul receptorului de imagine.
 
-    • se rotește braț internally la place posterior aspect de policele pe receptorul
-    de imagine cu thumbnail down (see Fig. 5.45).
+    • Se hiperextinde mâna astfel încât părțile moi de pe aspectul ulnar să nu acopere
+    prima articulație carpometacarpiană (CMC) (Fig. 5.46). Se verifică faptul că policele
+    nu este oblic.
 
-    • Place policele în center de receptorul de imagine.
+    • Long și Rafert 6 au afirmat că pacientul poate ține degetele înapoi cu cealaltă
+    mână.
 
-    • Hyperextend mână astfel încât părți moi over ulnar aspect does nu obscure first
-    articulații carpometacarpiene (CMC) (Fig. 5.46). Ensure that thumb este nu oblic.
-
-    • Long și Rafert 6 stated that pacientul poate hold degetele back cu other mână.
-
-    • Steady mână pe sponge if necessary.
+    • Se stabilizează mâna pe un burete, dacă este necesar.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.
 
-    • perpendicular entering la first articulații carpometacarpiene (CMC)
+    • raza centrală perpendiculară, incidentă pe prima articulație carpometacarpiană
+    (CMC)
 
-    Long și Rafert modification
+    Modificarea Long și Rafert
 
-    • înclinat 15 grade proximally along axa longitudinală de policele și entering
-    first articulații carpometacarpiene (CMC)
+    • înclinată cu 15 grade proximal de-a lungul axei longitudinale a policelui și
+    incidentă pe prima articulație carpometacarpiană (CMC)
 
-    Lewis modification
+    Modificarea Lewis
 
-    • înclinat 10 la 15 grade proximally along axa longitudinală de policele și entering
-    first articulații metacarpofalangiene (MCF)'
-  patient_pos: '• se așază pacientul pe scaun sideways la end de masa radiologică.
-    pacientul trebuie să fie poziționat low enough la place umăr,
-
-    cot, și wrist pe same plane. entire extremity trebuie să fie pe same plane la
-    prevent elevation de oase carpiene și
-
-    closing de first articulații carpometacarpiene (CMC) (Fig. 5.45).'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • înclinată cu 10 la 15 grade proximal de-a lungul axei longitudinale a policelui
+    și incidentă pe prima articulație metacarpofalangiană (MCF)'
+  patient_pos: • se așază pacientul pe scaun, lateral față de capătul mesei radiologice.
+    pacientul trebuie poziționat suficient de jos pentru a plasa umărul, cotul și
+    pumnul în același plan. întreaga extremitate trebuie să fie în același plan pentru
+    a preveni ridicarea oaselor carpiene și închiderea primei articulații carpometacarpiene
+    (CMC) (Fig. 5.45).
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 266–269
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații carpometacarpiene (CMC). Se
-    plasează markerul de lateralitate în câmpul colimat.
-title: Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) — Robert
-  Method (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    falangelor, inclusiv 1 țol (2.5 cm) proximal față de articulațiile carpometacarpiene
+    (CMC). Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx prima articulație carpometacarpiană — Incidență anteroposterioară (AP) —
+  Metoda Robert (Merrill)
 ---
-# Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) — Robert Method (Merrill)
+# Rx prima articulație carpometacarpiană — Incidență anteroposterioară (AP) — Metoda Robert (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -154,16 +159,17 @@ title: Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) �
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun sideways la end de masa radiologică. pacientul trebuie să fie poziționat low enough la place Umăr, Cot, și Pumn (Articulație Radiocarpiană) pe same plane. entire extremity trebuie să fie pe same plane la prevent elevation de oase carpiene și closing de first articulații carpometacarpiene (CMC) (Fig. 5.45).; se extinde extremity straight out pe masa radiologică. se rotește braț internally la place posterior aspect de Police pe receptorul de imagine cu thumbnail down (see Fig. 5.45). Place Police în center de receptorul de imagine. Hyperextend Mână astfel încât părți moi over ulnar aspect does nu obscure first articulații carpometacarpiene (CMC) (Fig. 5.46). Ensure that Police este nu oblic. Long și Rafert 6 stated that pacientul poate hold Degete Mână back cu other Mână. Steady Mână pe sponge if necessary. se efectuează ecranarea gonadelor cu șorț plumbat. perpendicular entering la first articulații carpometacarpiene (CMC) Long și Rafert modification înclinat 15 grade proximally along axa longitudinală de Police și entering first articulații carpometacarpiene (CMC) Lewis modification înclinat 10 la 15 grade proximally along axa longitudinală de Police și entering first articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** se așază pacientul pe scaun, lateral față de capătul mesei radiologice. pacientul trebuie poziționat suficient de jos pentru a plasa umărul, cotul și pumnul (articulația radiocarpiană) în același plan. întreaga extremitate trebuie să fie în același plan pentru a preveni ridicarea oaselor carpiene și închiderea primei articulații carpometacarpiene (CMC) (Fig. 5.45).; se extinde extremitatea drept înainte pe masa radiologică. se rotește brațul în interior pentru a plasa aspectul posterior al policelui pe receptorul de imagine, cu unghia în jos (vezi Fig. 5.45). Se plasează policele în centrul receptorului de imagine. Se hiperextinde mâna astfel încât părțile moi de pe aspectul ulnar să nu acopere prima articulație carpometacarpiană (CMC) (Fig. 5.46). Se verifică faptul că policele nu este oblic. Long și Rafert 6 au afirmat că pacientul poate ține degetele mâinii înapoi cu cealaltă mână. Se stabilizează mâna pe un burete, dacă este necesar. se efectuează ecranarea gonadelor cu șorț plumbat. raza centrală perpendiculară, incidentă pe prima articulație carpometacarpiană (CMC); modificarea Long și Rafert: înclinată cu 15 grade proximal de-a lungul axei longitudinale a policelui și incidentă pe prima articulație carpometacarpiană (CMC); modificarea Lewis: înclinată cu 10 la 15 grade proximal de-a lungul axei longitudinale a policelui și incidentă pe prima articulație metacarpofalangiană (MCF)
     - **Punct de Centrare Fascicul:** Conform reperelor anatomice standard din tratat
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
@@ -180,19 +186,19 @@ title: Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) �
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații carpometacarpiene (CMC). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangelor, inclusiv 1 țol (2.5 cm) proximal față de articulațiile carpometacarpiene (CMC). Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - First articulații carpometacarpiene (CMC) liber de superimposition de Mână sau other bony elements
-    - First metacarpal cu base în convex profile
-    - Trapezium
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Prima articulație carpometacarpiană (CMC) liberă de suprapunerea mâinii sau a altor elemente osoase
+    - Primul metacarpian cu baza în profil convex
+    - Trapez
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -202,8 +208,9 @@ title: Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) �
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Angulation de raza centrală serves two purposes: (1) It poate help la project părți moi de Mână away de la first articulații carpometacarpiene (CMC), și (2) it poate help la open spații articulare when space este nu vizualizat cu perpendicular raza centrală.
+    Înclinarea razei centrale are două scopuri: (1) poate ajuta la proiectarea părților moi ale mâinii în afara primei articulații carpometacarpiene (CMC) și (2) poate ajuta la deschiderea spațiilor articulare atunci când spațiul nu este vizualizat cu raza centrală perpendiculară.
 
 
 ### 🖼️ Imagini
@@ -256,54 +263,3 @@ title: Rx First Carpometacarpal Joint — Incidență Antero-Posterioară (AP) �
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 266–269](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-first articulații carpometacarpiene (CMC) liber de superimposition de soft tissues de mână (Fig. 5.48).
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații carpometacarpiene (CMC). Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• First articulații carpometacarpiene (CMC) liber de superimposition de mână sau other bony elements
-• First metacarpal cu base în convex profile
-• Trapezium
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Angulation de raza centrală serves two purposes: (1) It poate help la project părți moi de mână away de la first articulații carpometacarpiene (CMC), și (2)
-it poate help la open spații articulare when space este nu vizualizat cu perpendicular raza centrală.
-
-### part_pos
-
-• se extinde extremity straight out pe masa radiologică.
-• se rotește braț internally la place posterior aspect de policele pe receptorul de imagine cu thumbnail down (see Fig. 5.45).
-• Place policele în center de receptorul de imagine.
-• Hyperextend mână astfel încât părți moi over ulnar aspect does nu obscure first articulații carpometacarpiene (CMC) (Fig. 5.46). Ensure that thumb este nu oblic.
-• Long și Rafert 6 stated that pacientul poate hold degetele back cu other mână.
-• Steady mână pe sponge if necessary.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-• perpendicular entering la first articulații carpometacarpiene (CMC)
-Long și Rafert modification
-• înclinat 15 grade proximally along axa longitudinală de policele și entering first articulații carpometacarpiene (CMC)
-Lewis modification
-• înclinat 10 la 15 grade proximally along axa longitudinală de policele și entering first articulații metacarpofalangiene (MCF)
-
-### patient_pos
-
-• se așază pacientul pe scaun sideways la end de masa radiologică. pacientul trebuie să fie poziționat low enough la place umăr,
-cot, și wrist pe same plane. entire extremity trebuie să fie pe same plane la prevent elevation de oase carpiene și
-closing de first articulații carpometacarpiene (CMC) (Fig. 5.45).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

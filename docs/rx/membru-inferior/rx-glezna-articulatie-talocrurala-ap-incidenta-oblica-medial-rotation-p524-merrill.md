@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe Gleznă (Articulație Talocrurală) articulație, entering
-  midway între malleoli. perpendicular, entering Gleznă (Articulație Talocrurală)
-  articulație midway între malleoli.
+centering: perpendicular pe articulația gleznei (articulația talocrurală), cu intrare
+  la mijlocul distanței dintre maleole. Perpendicular, cu intrare în articulația gleznei
+  (articulația talocrurală), la mijlocul distanței dintre maleole.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -26,54 +26,60 @@ images:
 - caption: Merrill — pagina 529, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glezna-articulatie-talocrurala-ap-incidenta-oblica-medial-rotation-p524-merrill/p529_fig6.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție cu afected
-  extremity fully extins. se așază pacientul în Decubit dorsal sau Poziție Șezândă
-  poziție.; se centrează receptorul de imagine la Gleznă (Articulație Talocrurală)
-  articulație midway între malleoli și se ajustează receptorul de imagine so that
-  its axa longitudinală este paralel cu axa longitudinală de membru inferior. Dorsiflex
-  Picior enough la place Gleznă (Articulație Talocrurală) la nearly drept-angle flexion
-  (Fig. 7.98). Gleznă (Articulație Talocrurală) poate fie imobilizat cu săculeți cu
-  nisip plasat pe / sprijinit de sole de Picior sau prin having pacientul hold ends
-  de strip de bandage looped around ball de Picior. se rotește pacient’s entire membru
-  inferior pentru toate oblic incidențe de Gleznă (Articulație Talocrurală) prin grasping
-  lower Femur area cu one Mână și Picior cu other (see Fig. 7.98). Because Genunchi
-  este hinge articulație, rotație de membru inferior poate come only de la Șold articulație.
-  Internally se rotește entire membru inferior și Picior together until 45-grade Incidență
-  Oblică este achieved (Fig. 7.99). Picior poate fie plasat against foam wedge pentru
-  support. se efectuează ecranarea gonadelor cu șorț plumbat. se centrează pacient’s
-  Gleznă (Articulație Talocrurală) articulație la receptorul de imagine. Grasp distal
-  Femur area cu one Mână și Picior cu other. Assist pacientul prin internally rotating
-  entire membru inferior și Picior together 15 la 20 grade until intermalleolar plane
-  este paralel cu receptorul de imagine (Fig. 7.101). plantar surface de Picior trebuie
-  să fie plasat la drept angle la membru inferior. se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+position: se așază pacientul în decubit dorsal sau în poziție șezândă, cu extremitatea
+  afectată complet extinsă. se așază pacientul în decubit dorsal sau în poziție șezândă.
+  se centrează receptorul de imagine la nivelul articulației gleznei (articulației
+  talocrurale), la mijlocul distanței dintre maleole, și se ajustează receptorul de
+  imagine astfel încât axa sa longitudinală să fie paralelă cu axa longitudinală a
+  membrului inferior. Se flectează dorsal piciorul suficient pentru a plasa glezna
+  (articulația talocrurală) în flexie aproape la un unghi drept (Fig. 7.98). Glezna
+  (articulația talocrurală) poate fi imobilizată cu săculeți cu nisip plasați pe /
+  sprijiniți de talpa piciorului sau punând pacientul să țină capetele unei fâșii
+  de bandaj înfășurate în jurul antepiciorului. se rotește întregul membru inferior
+  al pacientului pentru toate incidențele oblice ale gleznei (articulației talocrurale),
+  prin prinderea regiunii inferioare a femurului cu o mână și a piciorului cu cealaltă
+  (vezi Fig. 7.98). Deoarece genunchiul este o articulație de tip balama, rotația
+  membrului inferior poate proveni numai de la articulația șoldului. Se rotește intern
+  întregul membru inferior împreună cu piciorul până se obține o incidență oblică
+  de 45 de grade (Fig. 7.99). Piciorul poate fi plasat pe o pană de spumă pentru susținere.
+  se efectuează ecranarea gonadelor cu șorț plumbat. se centrează articulația gleznei
+  (articulația talocrurală) a pacientului la receptorul de imagine. Se prinde regiunea
+  distală a femurului cu o mână și piciorul cu cealaltă. Se asistă pacientul prin
+  rotirea internă a întregului membru inferior împreună cu piciorul cu 15 la 20 de
+  grade, până când planul intermalleolar este paralel cu receptorul de imagine (Fig.
+  7.101). Suprafața plantară a piciorului trebuie plasată la un unghi drept față de
+  membrul inferior. se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Gleznă (Articulație Talocrurală) articulație centrat pe expunere area
-- distal tibia, fibula, și astragal (talus)
-- corect 45-grade rotație de Gleznă (Articulație Talocrurală)
-- Tibiofibular articulation open
-- distal tibia și fibula overlap some de astragal (talus)
-- 'Bony detalii trabeculare osoase și surrounding soft tissues Criterii radiologice
-  de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire Gleznă (Articulație Talocrurală) mortise articulație centrat pe expunere
-  area
-- distal tibia, fibula, și astragal (talus)
-- corect 15- la 20-grade rotație de Gleznă (Articulație Talocrurală)
-- Talofibular articulation open
-- Tibiotalar articulation open
-- fără overlap de anterior tubercle de tibia și superolateral portion de astragal
-  (talus) cu fibula
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- articulația gleznei (articulația talocrurală) centrată pe zona de expunere
+- tibia distală, fibula și astragalul
+- rotație corectă de 45 de grade a gleznei (articulației talocrurale)
+- articulația tibiofibulară deschisă
+- tibia și fibula distale se suprapun parțial peste astragal (talus)
+- 'detalii osoase trabeculare și țesuturile moi înconjurătoare. Criterii radiologice
+  de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- întreaga articulație a mortaise-ului gleznei (articulația talocrurală) centrată
+  pe zona de expunere
+- tibia distală, fibula și astragalul
+- rotație corectă de 15 la 20 de grade a gleznei (articulației talocrurale)
+- articulația talofibulară deschisă
+- articulația tibiotalară deschisă
+- fără suprapunerea tuberculului anterior al tibiei și a porțiunii superolaterale
+  a astragalului (talusului) cu fibula
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-glezna-articulatie-talocrurala-ap-incidenta-oblica-medial-rotation-p524-merrill
 source_pages:
@@ -84,118 +90,117 @@ source_pages:
 - 528
 - 529
 source_sections:
-  anatomy: '45-grade medial oblic incidență shows distal ends de tibia și fibula,
-    parts de which sunt often superimposed over astragal (talus). tibiofibular articulation
-    also trebuie să fie vizualizat (Fig. 7.100).
+  anatomy: Incidența oblică medială de 45 de grade evidențiază extremitățile distale
+    ale tibiei și fibulei, dintre care unele sunt adesea suprapuse peste astragal
+    (talus). Articulația tibiofibulară trebuie, de asemenea, vizualizată (Fig. 7.100).
+    Întreaga articulație a mortaise-ului gleznei în profil. Cele trei laturi ale articulației
+    mortaise trebuie vizualizate (Fig. 7.102 și 7.103).
+  collimation: '• se ajustează câmpul de iradiere la 1 țol (2.5 cm) de fiecare parte
+    a gleznei și la 8 țoli (18 cm) longitudinal, pentru a include călcâiul. Se plasează
+    markerul de lateralitate în câmpul de expunere colimat.
 
-    entire ankle mortise articulație în profile. three sides de mortise articulație
-    trebuie să fie visualized (Figs. 7.102 și 7.103).'
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de ankle
-    și 8 inches (18 cm) longitudinal pentru include heel. Place side
+    • se ajustează câmpul de iradiere la 1 țol (2.5 cm) de fiecare parte a gleznei
+    și la 8 țoli (18 cm) longitudinal, pentru a include călcâiul. Se plasează markerul
+    de lateralitate în câmpul de expunere colimat.'
+  cr: '• perpendicular pe articulația gleznei, cu intrare la mijlocul distanței dintre
+    maleole.
 
-    marker în collimated expunere field.
+    • perpendicular, cu intrare în articulația gleznei, la mijlocul distanței dintre
+    maleole.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de ankle și 8 inches
-    (18 cm) longitudinal pentru include heel. Place side
+    • dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    marker în collimated expunere field.'
-  cr: '• perpendicular pe ankle articulație, entering midway între malleoli.
+    • articulația gleznei centrată pe zona de expunere
 
-    • perpendicular, entering ankle articulație midway între malleoli.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • tibia distală, fibula și astragalul (talusul)
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • rotație corectă de 45 de grade a gleznei
 
-    • Ankle articulație centrat pe expunere area
+    • articulația tibiofibulară deschisă
 
-    • distal tibia, fibula, și astragal (talus)
+    • tibia și fibula distale se suprapun parțial peste astragal (talus)
 
-    • corect 45-grade rotație de ankle
+    • detalii osoase trabeculare și țesuturile moi înconjurătoare
 
-    • Tibiofibular articulation open
+    Criterii radiologice de calitate a imaginii:
 
-    • distal tibia și fibula overlap some de astragal (talus)
+    • dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • întreaga articulație a mortaise-ului gleznei centrată pe zona de expunere
 
-    Criterii radiologice de calitate imaginii:
+    • tibia distală, fibula și astragalul (talusul)
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • rotație corectă de 15 la 20 de grade a gleznei
 
-    • Entire ankle mortise articulație centrat pe expunere area
+    • articulația talofibulară deschisă
 
-    • distal tibia, fibula, și astragal (talus)
+    • articulația tibiotalară deschisă
 
-    • corect 15- la 20-grade rotație de ankle
+    • fără suprapunerea tuberculului anterior al tibiei și a porțiunii superolaterale
+    a astragalului (talusului) cu fibula
 
-    • Talofibular articulation open
+    • detalii osoase trabeculare și țesuturile moi înconjurătoare'
+  part_pos: '• se centrează receptorul de imagine la nivelul articulației gleznei,
+    la mijlocul distanței dintre maleole, și se ajustează receptorul de imagine astfel
+    încât axa sa longitudinală să fie paralelă cu axa longitudinală a membrului inferior.
 
-    • Tibiotalar articulation open
+    • Se flectează dorsal piciorul suficient pentru a plasa glezna în flexie aproape
+    la un unghi drept (Fig. 7.98). Glezna poate fi imobilizată cu săculeți cu nisip
+    plasați pe / sprijiniți de talpa piciorului sau punând pacientul să țină capetele
+    unei fâșii de bandaj înfășurate în jurul antepiciorului.
 
-    • fără overlap de anterior tubercle de tibia și superolateral portion de astragal
-    (talus) cu fibula
+    • se rotește întregul membru inferior al pacientului pentru toate incidențele
+    oblice ale gleznei, prin prinderea regiunii inferioare a femurului cu o mână și
+    a piciorului cu cealaltă (vezi Fig. 7.98). Deoarece genunchiul este o articulație
+    de tip balama, rotația membrului inferior poate proveni numai de la articulația
+    șoldului. Se rotește intern întregul membru inferior împreună cu piciorul până
+    se obține poziția oblică de 45 de grade (Fig. 7.99).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează receptorul de imagine la ankle articulație midway între
-    malleoli și se ajustează receptorul de imagine so that its axa longitudinală este
-    paralel cu axa longitudinală de membru inferior.
-
-    • Dorsiflex picior enough la place ankle la nearly drept-angle flexion (Fig. 7.98).
-    ankle poate fie imobilizat cu săculeți cu nisip
-
-    plasat pe / sprijinit de sole de picior sau prin having pacientul hold ends de
-    strip de bandage looped around ball de picior.
-
-    • se rotește pacient’s entire membru inferior pentru toate oblic incidențe de
-    ankle prin grasping lower femur area cu one mână și picior cu
-
-    other (see Fig. 7.98). Because genunchi este hinge articulație, rotație de membru
-    inferior poate come only de la hip articulație. Internally se rotește
-
-    entire membru inferior și picior together until 45-grade oblic poziție este achieved
-    (Fig. 7.99).
-
-    • picior poate fie plasat against foam wedge pentru support.
+    • piciorul poate fi plasat pe o pană de spumă pentru susținere.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.
 
-    • se centrează pacient’s ankle articulație la receptorul de imagine.
+    • se centrează articulația gleznei pacientului la receptorul de imagine.
 
-    • Grasp distal femur area cu one mână și picior cu other. Assist pacientul prin
-    internally rotating entire membru inferior și picior
+    • Se prinde regiunea distală a femurului cu o mână și piciorul cu cealaltă. Se
+    asistă pacientul prin rotirea internă a întregului membru inferior împreună cu
+    piciorul cu 15 la 20 de grade, până când planul intermalleolar este paralel cu
+    receptorul de imagine (Fig. 7.101).
 
-    together 15 la 20 grade until intermalleolar plane este paralel cu receptorul
-    de imagine (Fig. 7.101).
-
-    • plantar surface de picior trebuie să fie plasat la drept angle la membru inferior.
+    • suprafața plantară a piciorului trebuie plasată la un unghi drept față de membrul
+    inferior.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau așezat pe scaun poziție
-    cu afected extremity fully extins.
+  patient_pos: '• se așază pacientul în decubit dorsal sau în poziție șezândă, cu
+    extremitatea afectată complet extinsă.
 
-    • se așază pacientul în decubit dorsal sau așezat pe scaun poziție.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
+    • se așază pacientul în decubit dorsal sau în poziție șezândă.'
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomice; placă «raza centrală» [formulare ambiguă
+    în sursă]: 10 × 12 țoli (24 × 30 cm), longitudinal.
 
-    poziționat prin manufacturer sau department protocol pentru corect anatomy display
-    orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    Poziționat conform protocolului producătorului sau al departamentului pentru orientarea
+    corectă a afișării anatomice; placă «raza centrală» [formulare ambiguă în sursă]:
+    10 × 12 țoli (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 524–529
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de Gleznă
-    (Articulație Talocrurală) și 8 inches (18 cm) longitudinal pentru include heel.
-    Place marker de lateralitate (D/S) în collimated expunere field. se ajustează
-    câmp de iradiere la 1 inch (2.5 cm) pe sides de Gleznă (Articulație Talocrurală)
-    și 8 inches (18 cm) longitudinal pentru include heel. Place marker de lateralitate
-    (D/S) în collimated expunere field.
-title: Rx Gleznă (Articulație Talocrurală) — Oblică Antero-Posterioară (AP) — Rotație
-  Internă (Medială) (Merrill)
+  collimation: 'Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturile gleznei
+    (articulația talocrurală) și la 8 țoli (18 cm) longitudinal, pentru a include
+    călcâiul. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+
+    Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturile gleznei (articulația
+    talocrurală) și la 8 țoli (18 cm) longitudinal, pentru a include călcâiul. Se
+    plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+title: Rx gleznă (articulație talocrurală) — oblică antero-posterioară (AP) — rotație
+  internă (medială) (Merrill)
 ---
-# Rx Gleznă (Articulație Talocrurală) — Oblică Antero-Posterioară (AP) — Rotație Internă (Medială) (Merrill)
+# Rx gleznă (articulație talocrurală) — oblică antero-posterioară (AP) — rotație internă (medială) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -219,17 +224,18 @@ title: Rx Gleznă (Articulație Talocrurală) — Oblică Antero-Posterioară (A
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție cu afected extremity fully extins. se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție.; se centrează receptorul de imagine la Gleznă (Articulație Talocrurală) articulație midway între malleoli și se ajustează receptorul de imagine so that its axa longitudinală este paralel cu axa longitudinală de membru inferior. Dorsiflex Picior enough la place Gleznă (Articulație Talocrurală) la nearly drept-angle flexion (Fig. 7.98). Gleznă (Articulație Talocrurală) poate fie imobilizat cu săculeți cu nisip plasat pe / sprijinit de sole de Picior sau prin having pacientul hold ends de strip de bandage looped around ball de Picior. se rotește pacient’s entire membru inferior pentru toate oblic incidențe de Gleznă (Articulație Talocrurală) prin grasping lower Femur area cu one Mână și Picior cu other (see Fig. 7.98). Because Genunchi este hinge articulație, rotație de membru inferior poate come only de la Șold articulație. Internally se rotește entire membru inferior și Picior together until 45-grade Incidență Oblică este achieved (Fig. 7.99). Picior poate fie plasat against foam wedge pentru support. se efectuează ecranarea gonadelor cu șorț plumbat. se centrează pacient’s Gleznă (Articulație Talocrurală) articulație la receptorul de imagine. Grasp distal Femur area cu one Mână și Picior cu other. Assist pacientul prin internally rotating entire membru inferior și Picior together 15 la 20 grade until intermalleolar plane este paralel cu receptorul de imagine (Fig. 7.101). plantar surface de Picior trebuie să fie plasat la drept angle la membru inferior. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Gleznă (Articulație Talocrurală) articulație, entering midway între malleoli. perpendicular, entering Gleznă (Articulație Talocrurală) articulație midway între malleoli.
+    - **Poziție Pacient:** se așază pacientul în decubit dorsal sau în poziție șezândă, cu extremitatea afectată complet extinsă. se așază pacientul în decubit dorsal sau în poziție șezândă. se centrează receptorul de imagine la nivelul articulației gleznei (articulației talocrurale), la mijlocul distanței dintre maleole, și se ajustează receptorul de imagine astfel încât axa sa longitudinală să fie paralelă cu axa longitudinală a membrului inferior. Se flectează dorsal piciorul suficient pentru a plasa glezna (articulația talocrurală) în flexie aproape la un unghi drept (Fig. 7.98). Glezna (articulația talocrurală) poate fi imobilizată cu săculeți cu nisip plasați pe / sprijiniți de talpa piciorului sau punând pacientul să țină capetele unei fâșii de bandaj înfășurate în jurul antepiciorului. se rotește întregul membru inferior al pacientului pentru toate incidențele oblice ale gleznei (articulației talocrurale), prin prinderea regiunii inferioare a femurului cu o mână și a piciorului cu cealaltă (vezi Fig. 7.98). Deoarece genunchiul este o articulație de tip balama, rotația membrului inferior poate proveni numai de la articulația șoldului. Se rotește intern întregul membru inferior împreună cu piciorul până se obține o incidență oblică de 45 de grade (Fig. 7.99). Piciorul poate fi plasat pe o pană de spumă pentru susținere. se efectuează ecranarea gonadelor cu șorț plumbat. se centrează articulația gleznei (articulația talocrurală) a pacientului la receptorul de imagine. Se prinde regiunea distală a femurului cu o mână și piciorul cu cealaltă. Se asistă pacientul prin rotirea internă a întregului membru inferior împreună cu piciorul cu 15 la 20 de grade, până când planul intermalleolar este paralel cu receptorul de imagine (Fig. 7.101). Suprafața plantară a piciorului trebuie plasată la un unghi drept față de membrul inferior. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulația gleznei (articulația talocrurală), cu intrare la mijlocul distanței dintre maleole. Perpendicular, cu intrare în articulația gleznei (articulația talocrurală), la mijlocul distanței dintre maleole.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -245,29 +251,29 @@ title: Rx Gleznă (Articulație Talocrurală) — Oblică Antero-Posterioară (A
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de Gleznă (Articulație Talocrurală) și 8 inches (18 cm) longitudinal pentru include heel. Place marker de lateralitate (D/S) în collimated expunere field. se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de Gleznă (Articulație Talocrurală) și 8 inches (18 cm) longitudinal pentru include heel. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturile gleznei (articulația talocrurală) și la 8 țoli (18 cm) longitudinal, pentru a include călcâiul. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturile gleznei (articulația talocrurală) și la 8 țoli (18 cm) longitudinal, pentru a include călcâiul. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Gleznă (Articulație Talocrurală) articulație centrat pe expunere area
-    - distal tibia, fibula, și astragal (talus)
-    - corect 45-grade rotație de Gleznă (Articulație Talocrurală)
-    - Tibiofibular articulation open
-    - distal tibia și fibula overlap some de astragal (talus)
-    - Bony detalii trabeculare osoase și surrounding soft tissues Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Gleznă (Articulație Talocrurală) mortise articulație centrat pe expunere area
-    - distal tibia, fibula, și astragal (talus)
-    - corect 15- la 20-grade rotație de Gleznă (Articulație Talocrurală)
-    - Talofibular articulation open
-    - Tibiotalar articulation open
-    - fără overlap de anterior tubercle de tibia și superolateral portion de astragal (talus) cu fibula
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - articulația gleznei (articulația talocrurală) centrată pe zona de expunere
+    - tibia distală, fibula și astragalul
+    - rotație corectă de 45 de grade a gleznei (articulației talocrurale)
+    - articulația tibiofibulară deschisă
+    - tibia și fibula distale se suprapun parțial peste astragal (talus)
+    - detalii osoase trabeculare și țesuturile moi înconjurătoare. Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - întreaga articulație a mortaise-ului gleznei (articulația talocrurală) centrată pe zona de expunere
+    - tibia distală, fibula și astragalul
+    - rotație corectă de 15 la 20 de grade a gleznei (articulației talocrurale)
+    - articulația talofibulară deschisă
+    - articulația tibiotalară deschisă
+    - fără suprapunerea tuberculului anterior al tibiei și a porțiunii superolaterale a astragalului (talusului) cu fibula
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -276,6 +282,7 @@ title: Rx Gleznă (Articulație Talocrurală) — Oblică Antero-Posterioară (A
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -347,69 +354,3 @@ title: Rx Gleznă (Articulație Talocrurală) — Oblică Antero-Posterioară (A
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 524–529](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-45-grade medial oblic incidență shows distal ends de tibia și fibula, parts de which sunt often superimposed over astragal (talus). tibiofibular articulation also trebuie să fie vizualizat (Fig. 7.100).
-entire ankle mortise articulație în profile. three sides de mortise articulație trebuie să fie visualized (Figs. 7.102 și 7.103).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de ankle și 8 inches (18 cm) longitudinal pentru include heel. Place side
-marker în collimated expunere field.
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de ankle și 8 inches (18 cm) longitudinal pentru include heel. Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular pe ankle articulație, entering midway între malleoli.
-• perpendicular, entering ankle articulație midway între malleoli.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Ankle articulație centrat pe expunere area
-• distal tibia, fibula, și astragal (talus)
-• corect 45-grade rotație de ankle
-• Tibiofibular articulation open
-• distal tibia și fibula overlap some de astragal (talus)
-• Bony detalii trabeculare osoase și surrounding soft tissues
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire ankle mortise articulație centrat pe expunere area
-• distal tibia, fibula, și astragal (talus)
-• corect 15- la 20-grade rotație de ankle
-• Talofibular articulation open
-• Tibiotalar articulation open
-• fără overlap de anterior tubercle de tibia și superolateral portion de astragal (talus) cu fibula
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează receptorul de imagine la ankle articulație midway între malleoli și se ajustează receptorul de imagine so that its axa longitudinală este paralel cu axa longitudinală de membru inferior.
-• Dorsiflex picior enough la place ankle la nearly drept-angle flexion (Fig. 7.98). ankle poate fie imobilizat cu săculeți cu nisip
-plasat pe / sprijinit de sole de picior sau prin having pacientul hold ends de strip de bandage looped around ball de picior.
-• se rotește pacient’s entire membru inferior pentru toate oblic incidențe de ankle prin grasping lower femur area cu one mână și picior cu
-other (see Fig. 7.98). Because genunchi este hinge articulație, rotație de membru inferior poate come only de la hip articulație. Internally se rotește
-entire membru inferior și picior together until 45-grade oblic poziție este achieved (Fig. 7.99).
-• picior poate fie plasat against foam wedge pentru support.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-• se centrează pacient’s ankle articulație la receptorul de imagine.
-• Grasp distal femur area cu one mână și picior cu other. Assist pacientul prin internally rotating entire membru inferior și picior
-together 15 la 20 grade until intermalleolar plane este paralel cu receptorul de imagine (Fig. 7.101).
-• plantar surface de picior trebuie să fie plasat la drept angle la membru inferior.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau așezat pe scaun poziție cu afected extremity fully extins.
-• se așază pacientul în decubit dorsal sau așezat pe scaun poziție.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

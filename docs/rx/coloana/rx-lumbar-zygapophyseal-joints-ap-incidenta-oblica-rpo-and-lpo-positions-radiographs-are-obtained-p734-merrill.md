@@ -2,11 +2,11 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: coloana
-centering: 'Regiunea lombară: perpendicular, pentru a intra la 2 inches (5 cm) medial
-  față de SIAS ridicată și la 1–1.5 inches (2.5–3.8 cm) deasupra crestelor iliace
-  (L3). Articulația zigapofizară L5–S1: perpendicular, pentru a intra la 2 inches
-  (5 cm) medial față de SIAS ridicată și la punctul situat la jumătatea distanței
-  dintre creasta iliacă și SIAS. Se centrează receptorul de imagine pe raza centrală.'
+centering: 'Regiunea lombară: perpendicular, pentru a intra la 2 țoli (5 cm) medial
+  față de SIAS ridicată și la 1–1.5 țoli (2.5–3.8 cm) deasupra crestelor iliace (L3).
+  Articulația zigapofizară L5–S1: perpendicular, pentru a intra la 2 țoli (5 cm) medial
+  față de SIAS ridicată și la punctul situat la jumătatea distanței dintre creasta
+  iliacă și SIAS. Se centrează receptorul de imagine pe raza centrală.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -25,6 +25,10 @@ images:
 - caption: Merrill — pagina 738, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-zygapophyseal-joints-ap-incidenta-oblica-rpo-and-lpo-positions-radiographs-are-obtained-p734-merrill/p738_fig5.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Deși poziția obișnuită a corpului în oblică la 45 de grade evidențiază majoritatea
@@ -40,8 +44,8 @@ position: Când sunt indicate incidențele oblice, acestea se efectuează în ge
   articulațiile zigapofizare L5–S1. Se ajustează corpul pacientului astfel încât axa
   longitudinală a pacientului să fie paralelă cu axa longitudinală a mesei radiologice.
   Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În Incidență
-  Oblică, Coloana Lombară se află în planul longitudinal care trece la 2 inches (5
-  cm) medial de spina iliacă antero-superioară (SIAS) ridicată. Se instruiește pacientul
+  Oblică, Coloana Lombară se află în planul longitudinal care trece la 2 țoli (5 cm)
+  medial de spina iliacă antero-superioară (SIAS) ridicată. Se instruiește pacientul
   să plaseze brațele într-o poziție confortabilă. Un suport poate fi plasat sub Umărul,
   Șoldul și Genunchiul ridicate pentru a evita mișcarea pacientului (Figs. 9.95 și
   9.96). Se efectuează ecranarea gonadelor cu șorț plumbat.
@@ -85,24 +89,24 @@ source_sections:
     Rezumatul incidențelor oblice, p. 440.)'
   collimation: '• Ajustați câmpul de iradiere la:
 
-    • 9 × 12 inches (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 ×
-    12 inches (24 × 30 cm)
+    • 9 × 12 țoli (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 × 12
+    țoli (24 × 30 cm)
 
-    • 9 × 14 inches (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 ×
-    17 inches (35 × 43 cm)
+    • 9 × 14 țoli (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17
+    țoli (35 × 43 cm)
 
-    • 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1
+    • 8 × 10 țoli (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1
 
     • Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.'
   cr: 'Regiunea lombară
 
-    • perpendicular pentru a intra la 2 inches (5 cm) medial de spina iliacă antero-superioară
-    (SIAS) ridicată și la 1 la 1.5 inches (2.5 la 3.8 cm) deasupra crestelor iliace
+    • perpendicular pentru a intra la 2 țoli (5 cm) medial de spina iliacă antero-superioară
+    (SIAS) ridicată și la 1 la 1.5 țoli (2.5 la 3.8 cm) deasupra crestelor iliace
     (L3)
 
     Articulația zigapofizară L5–S1
 
-    • perpendicular pentru a intra la 2 inches (5 cm) medial de spina iliacă antero-superioară
+    • perpendicular pentru a intra la 2 țoli (5 cm) medial de spina iliacă antero-superioară
     (SIAS) ridicată și în punctul situat la jumătatea distanței dintre crestele iliace
     și spina iliacă antero-superioară (SIAS)
 
@@ -143,7 +147,7 @@ source_sections:
 
     • Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În
     poziția oblică, coloana vertebrală lombară se află în planul longitudinal care
-    trece la 2 inches (5 cm) medial de spina iliacă antero-superioară (SIAS) ridicată.
+    trece la 2 țoli (5 cm) medial de spina iliacă antero-superioară (SIAS) ridicată.
 
     • Se instruiește pacientul să plaseze brațele într-o poziție confortabilă. Un
     suport poate fi plasat sub umărul, șoldul și genunchiul ridicate pentru a evita
@@ -155,18 +159,18 @@ source_sections:
     ortostatism).
   respiration: Apnee la sfârșitul expirului complet.
   tech: 'Poziționat de producător sau prin protocolul departamentului pentru afișarea
-    corectă a orientării anatomice; placa pentru raza centrală: 10 × 12 inches (24
-    × 30 cm) sau 14 × 17 inches (35 × 43 cm), longitudinal.'
+    corectă a orientării anatomice; placa pentru raza centrală: 10 × 12 țoli (24 ×
+    30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 9. Vertebral Column, pagini 734–738
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: 'Ajustați câmpul de iradiere la: 9 × 12 inches (23 × 30 cm) pe colimator
-    pentru receptorul de imagine de 10 × 12 inches (24 × 30 cm); 9 × 14 inches (23
-    × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17 inches (35 × 43
-    cm); 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1.
-    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.'
+  collimation: 'Ajustați câmpul de iradiere la: 9 × 12 țoli (23 × 30 cm) pe colimator
+    pentru receptorul de imagine de 10 × 12 țoli (24 × 30 cm); 9 × 14 țoli (23 × 35
+    cm) pe colimator pentru receptorul de imagine de 14 × 17 țoli (35 × 43 cm); 8
+    × 10 țoli (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1. Plasați
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.'
 title: Rx Articulațiile zigapofizare lombare — Incidență Oblică Antero-Posterioară
   (AP) — Se obțin radiografii RPO și Oblică Posterioară Stângă (OPS / LPO). (Merrill)
 ---
@@ -194,17 +198,18 @@ title: Rx Articulațiile zigapofizare lombare — Incidență Oblică Antero-Pos
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Când sunt indicate incidențele oblice, acestea se efectuează în general imediat după incidența Antero-Posterioară (AP) și în aceeași poziție a corpului (în decubit sau în ortostatism). Se instruiește pacientul să se rotească din decubit dorsal spre partea de interes cu aproximativ 45 de grade pentru a evidenția articulațiile cele mai apropiate de receptorul de imagine. Poziția oblică a corpului la 60 de grade față de planul receptorului de imagine poate fi necesară pentru a evidenția articulațiile zigapofizare L5–S1. Se ajustează corpul pacientului astfel încât axa longitudinală a pacientului să fie paralelă cu axa longitudinală a mesei radiologice. Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În Incidență Oblică, Coloana Lombară se află în planul longitudinal care trece la 2 inches (5 cm) medial de spina iliacă antero-superioară (SIAS) ridicată. Se instruiește pacientul să plaseze brațele într-o poziție confortabilă. Un suport poate fi plasat sub Umărul, Șoldul și Genunchiul ridicate pentru a evita mișcarea pacientului (Figs. 9.95 și 9.96). Se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Regiunea lombară: perpendicular, pentru a intra la 2 inches (5 cm) medial față de SIAS ridicată și la 1–1.5 inches (2.5–3.8 cm) deasupra crestelor iliace (L3). Articulația zigapofizară L5–S1: perpendicular, pentru a intra la 2 inches (5 cm) medial față de SIAS ridicată și la punctul situat la jumătatea distanței dintre creasta iliacă și SIAS. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Când sunt indicate incidențele oblice, acestea se efectuează în general imediat după incidența Antero-Posterioară (AP) și în aceeași poziție a corpului (în decubit sau în ortostatism). Se instruiește pacientul să se rotească din decubit dorsal spre partea de interes cu aproximativ 45 de grade pentru a evidenția articulațiile cele mai apropiate de receptorul de imagine. Poziția oblică a corpului la 60 de grade față de planul receptorului de imagine poate fi necesară pentru a evidenția articulațiile zigapofizare L5–S1. Se ajustează corpul pacientului astfel încât axa longitudinală a pacientului să fie paralelă cu axa longitudinală a mesei radiologice. Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În Incidență Oblică, Coloana Lombară se află în planul longitudinal care trece la 2 țoli (5 cm) medial de spina iliacă antero-superioară (SIAS) ridicată. Se instruiește pacientul să plaseze brațele într-o poziție confortabilă. Un suport poate fi plasat sub Umărul, Șoldul și Genunchiul ridicate pentru a evita mișcarea pacientului (Figs. 9.95 și 9.96). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Regiunea lombară: perpendicular, pentru a intra la 2 țoli (5 cm) medial față de SIAS ridicată și la 1–1.5 țoli (2.5–3.8 cm) deasupra crestelor iliace (L3). Articulația zigapofizară L5–S1: perpendicular, pentru a intra la 2 țoli (5 cm) medial față de SIAS ridicată și la punctul situat la jumătatea distanței dintre creasta iliacă și SIAS. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -220,7 +225,7 @@ title: Rx Articulațiile zigapofizare lombare — Incidență Oblică Antero-Pos
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Ajustați câmpul de iradiere la: 9 × 12 inches (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 × 12 inches (24 × 30 cm); 9 × 14 inches (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17 inches (35 × 43 cm); 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la: 9 × 12 țoli (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 × 12 țoli (24 × 30 cm); 9 × 14 țoli (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17 țoli (35 × 43 cm); 8 × 10 țoli (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -243,6 +248,7 @@ title: Rx Articulațiile zigapofizare lombare — Incidență Oblică Antero-Pos
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Deși poziția obișnuită a corpului în oblică la 45 de grade evidențiază majoritatea spațiilor articulare zigapofizare L3–S1, 25% dintre articulațiile L1–L2 și L2–L3 sunt vizualizate în incidența AP, iar un procent mic dintre articulațiile L4–L5 și L5–S1 sunt vizibile în incidența de profil (laterală). 21
@@ -306,65 +312,3 @@ title: Rx Articulațiile zigapofizare lombare — Incidență Oblică Antero-Pos
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 734–738](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Coloana vertebrală lombară sau lombosacrală sau ambele, evidențiind procesele articulare de partea cea mai apropiată de receptorul de imagine. Ambele părți (bilateral) sunt examinate pentru comparație
-(Figs. 9.97 și 9.98).
-Când corpul este plasat într-o poziție oblică de 45 de grade și coloana vertebrală lombară este radiografiată, procesele articulare și articulațiile zigapofizare sunt vizualizate. Când pacientul a fost poziționat corect, imaginile coloanei lombare au aspectul unor câini Scottie. Vezi Fig.
-9.97, care prezintă structurile vertebrale ce alcătuiesc câinele Scottie. (Vezi Rezumatul incidențelor oblice, p. 440.)
-
-### colimare
-
-• Ajustați câmpul de iradiere la:
-• 9 × 12 inches (23 × 30 cm) pe colimator pentru receptorul de imagine de 10 × 12 inches (24 × 30 cm)
-• 9 × 14 inches (23 × 35 cm) pe colimator pentru receptorul de imagine de 14 × 17 inches (35 × 43 cm)
-• 8 × 10 inches (18 × 24 cm) pe colimator pentru articulația zigapofizară L5–S1
-• Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-Regiunea lombară
-• perpendicular pentru a intra la 2 inches (5 cm) medial de spina iliacă antero-superioară (SIAS) ridicată și la 1 la 1.5 inches (2.5 la 3.8 cm) deasupra crestelor iliace (L3)
-Articulația zigapofizară L5–S1
-• perpendicular pentru a intra la 2 inches (5 cm) medial de spina iliacă antero-superioară (SIAS) ridicată și în punctul situat la jumătatea distanței dintre crestele iliace și spina iliacă antero-superioară (SIAS)
-• Se centrează receptorul de imagine pe raza centrală.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovezi de colimare corectă și prezența unui marker de lateralitate (D/S) plasat clar față de anatomia de interes
-• Regiunea de la coloana toracală inferioară până la sacrum
-• Articulațiile zigapofizare cele mai apropiate de receptorul de imagine — deschise și vizibile uniform prin corpurile vertebrale
-• Când articulația nu este bine vizibilă, iar pediculul este anterior pe corpul vertebral, pacientul nu este rotit suficient (Fig. 9.99A).
-• Când articulația nu este bine vizibilă, iar pediculul este posterior pe corpul vertebral, pacientul este rotit prea mult (vezi Fig. 9.99B).
-• Coloana vertebrală paralelă cu masa radiologică, astfel încât spațiile articulare intervertebrale T12–L1 și L1–L2 să rămână deschise
-• Detalii osoase trabeculare și țesuturile moi înconjurătoare
-
-### note
-
-Deși poziția oblică obișnuită a corpului, la 45 de grade, evidențiază majoritatea spațiilor articulare zigapofizare L3–S1, 25% dintre articulațiile L1–L2 și L2–L3 sunt vizualizate pe incidența AP, iar un procent mic dintre articulațiile L4–L5 și L5–S1 sunt vizibile pe incidența de profil. 21
-
-### part_pos
-
-• Se instruiește pacientul să se rotească din decubit dorsal spre partea de interes cu aproximativ 45 de grade pentru a evidenția articulațiile cele mai apropiate de receptorul de imagine.
-Poziția oblică a corpului la 60 de grade față de planul receptorului de imagine poate fi necesară pentru a evidenția articulațiile zigapofizare L5–S1.
-• Se ajustează corpul pacientului astfel încât axa longitudinală a pacientului să fie paralelă cu axa longitudinală a mesei radiologice.
-• Se centrează coloana vertebrală a pacientului pe linia mediană a grilei. În poziția oblică, coloana vertebrală lombară se află în planul longitudinal care trece la 2 inches (5 cm) medial de spina iliacă antero-superioară (SIAS) ridicată.
-• Se instruiește pacientul să plaseze brațele într-o poziție confortabilă. Un suport poate fi plasat sub umărul, șoldul și genunchiul ridicate pentru a evita mișcarea pacientului (Figs. 9.95 și 9.96).
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Când sunt indicate incidențele oblice, acestea se efectuează în general imediat după incidența AP și în aceeași poziție a corpului (în decubit sau în ortostatism).
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat de producător sau prin protocolul departamentului pentru afișarea corectă a orientării anatomice; placa pentru raza centrală: 10 × 12 inches (24 × 30 cm) sau 14 × 17 inches (35 × 43 cm), longitudinal.
-

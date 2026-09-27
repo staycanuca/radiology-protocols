@@ -20,6 +20,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.195
     Incidență SMV (pe dispozitivul de imagistică în ortostatism/masă).)
   url: assets/images/protocols/bontrager/rx-sinuses-submentovertical-smv-projection-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Dacă pacientul nu poate extinde gâtul suficient, înclinați tubul față de orizontală
@@ -99,11 +103,12 @@ title: Rx SINUSURI SUBMENTOVERTICALĂ (SMV) Incidență
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -149,6 +154,7 @@ title: Rx SINUSURI SUBMENTOVERTICALĂ (SMV) Incidență
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Dacă pacientul nu poate extinde gâtul suficient, înclinați tubul față de orizontală după cum este necesar pentru alinierea razei centrale perpendicular pe linia infraorbitomeatală (LIOM). SINUSURI SPECIALE Submentoverticală (sMV)

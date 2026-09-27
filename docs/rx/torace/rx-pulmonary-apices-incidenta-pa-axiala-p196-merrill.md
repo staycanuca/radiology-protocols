@@ -1,115 +1,119 @@
 ---
 author: Referință Merrill
-breathing: Se declanșează expunerea la end de Inspir profund complet sau, ca option,
-  la Expir complet. clavicles sunt ridicat prin inspiration și coborât prin expiration;
-  apexuri (vârfuri pulmonare) move little, if la toate, during either phase de respirație.
+breathing: Se declanșează expunerea la sfârșitul inspirului profund complet sau, opțional,
+  la expir complet. Claviculele sunt ridicate prin inspirație și coborâte prin expirație;
+  apexurile (vârfurile pulmonare) se deplasează foarte puțin, dacă se deplasează,
+  în timpul oricăreia dintre fazele respirației.
 category: torace
-centering: Inspiration orientat 10 la 15 grade cranial through T3 la center de receptorul
-  de imagine Expiration (optional) orientat perpendicular pe plane de receptorul de
-  imagine și centrat la nivelul level de T3
+centering: 'Inspir: orientat cu 10 la 15 grade cranial prin T3, către centrul receptorului
+  de imagine
+
+  Expir (opțional): orientat perpendicular pe planul receptorului de imagine și centrat
+  la nivelul T3'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul Poziție Șezândă sau în ortostatism before stativ
-  vertical Bucky. If pacientul este în ortostatism, weight de corp trebuie să fie
-  equally distributed pe picioarele.; se ajustează height de receptorul de imagine
-  so that it este centrat la nivelul level de incizură jugulară (furculiță sternală).
-  se centrează MSP de pacientul’s corp la linia mediană receptorul de imagine și rest
-  bărbia pe / sprijinit de grilă device. se ajustează pacient’s cap astfel încât plan
-  mediosagital este vertical, și then se flectează coate și place mâinile, palms out,
-  pe șoldurile. Depress pacientul’s umeri, rotate them forward, și adjust them la
-  lie în same plan transversal. Se instruiește pacientul să keep umerii în contact
-  cu grila device la move scapulae de la câmpuri pulmonare (Fig. 3.65). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Se poziționează pacientul în poziție șezândă sau în ortostatism, în fața
+  stativului vertical Bucky. Dacă pacientul este în ortostatism, greutatea corpului
+  trebuie distribuită egal pe picioare. Se ajustează înălțimea receptorului de imagine
+  astfel încât să fie centrat la nivelul incizurii jugulare (furculiței sternale).
+  Se centrează MSP al corpului pacientului pe linia mediană a receptorului de imagine
+  și se sprijină bărbia pe sau de grilă. Se ajustează capul pacientului astfel încât
+  planul mediosagital să fie vertical, apoi se flectează coatele și se plasează mâinile,
+  cu palmele orientate în afară, pe șolduri. Se coboară umerii pacientului, se rotesc
+  anterior și se ajustează astfel încât să se afle în același plan transversal. Se
+  instruiește pacientul să mențină umerii în contact cu grila pentru a deplasa scapulele
+  din câmpurile pulmonare (Fig. 3.65). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire apexuri (vârfuri pulmonare) și appropriate portion de plămâni
-- Clavicles located below apexuri (vârfuri pulmonare)
-- Sternal ends de clavicles echidistant față de coloană vertebrală
-- Pulmonary vascular markings de apexuri (vârfuri pulmonare)
-sid_dff: Minimum SID of 72 inches (183 cm) is recommended to decrease magnification
-  of the heart and to increase spatial resolution of the thoracic structures.
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Apexurile (vârfurile pulmonare) în întregime și porțiunea corespunzătoare a plămânilor
+- Claviculele situate inferior față de apexuri (vârfurile pulmonare)
+- Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+- Desenul vascular pulmonar de la apexuri (vârfurile pulmonare)
+sid_dff: Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea
+  inimii și a crește rezoluția spațială a structurilor toracice.
 slug: rx-pulmonary-apices-incidenta-pa-axiala-p196-merrill
 source_pages:
 - 196
 - 197
 source_sections:
-  anatomy: apexuri (vârfuri pulmonare) sunt projected above shadows de clavicles în
-    PA axial și PA incidențe (Fig. 3.66).
-  collimation: • Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Place marker
-    de lateralitate (D/S) în collimated expunere field.
-  cr: 'Inspiration
+  anatomy: Apexurile (vârfurile pulmonare) sunt proiectate deasupra umbrelor claviculelor
+    în incidențele axiale PA și PA (Fig. 3.66).
+  collimation: • Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm). Se
+    plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: 'Inspir
 
-    • orientat 10 la 15 grade cranial through T3 la center de receptorul de imagine
+    • orientat cu 10 la 15 grade cranial prin T3, către centrul receptorului de imagine
 
-    Expiration (optional)
+    Expir (opțional)
 
-    • orientat perpendicular pe plane de receptorul de imagine și centrat la nivelul
-    level de T3'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • orientat perpendicular pe planul receptorului de imagine și centrat la nivelul
+    T3'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Entire apexuri (vârfuri pulmonare) și appropriate portion de plămâni
+    • Apexurile (vârfurile pulmonare) în întregime și porțiunea corespunzătoare a
+    plămânilor
 
-    • Clavicles located below apexuri (vârfuri pulmonare)
+    • Claviculele situate inferior față de apexuri (vârfurile pulmonare)
 
-    • Sternal ends de clavicles echidistant față de coloană vertebrală
+    • Extremitățile sternale ale claviculelor echidistante față de coloana vertebrală
 
-    • Pulmonary vascular markings de apexuri (vârfuri pulmonare)'
-  part_pos: '• se ajustează height de receptorul de imagine so that it este centrat
-    la nivelul level de incizură jugulară (furculiță sternală).
+    • Desenul vascular pulmonar al apexurilor (vârfurilor pulmonare)'
+  part_pos: '• Se ajustează înălțimea receptorului de imagine astfel încât să fie
+    centrat la nivelul incizurii jugulare (furculiței sternale).
 
-    • se centrează MSP de pacientul’s corp la linia mediană receptorul de imagine
-    și rest bărbia pe / sprijinit de grilă device.
+    • Se centrează MSP al corpului pacientului pe linia mediană a receptorului de
+    imagine și se sprijină bărbia pe sau de grilă.
 
-    • se ajustează pacient’s cap astfel încât plan mediosagital este vertical, și
-    then se flectează coate și place mâinile, palms out, pe șoldurile.
+    • Se ajustează capul pacientului astfel încât planul mediosagital să fie vertical,
+    apoi se flectează coatele și se plasează mâinile, cu palmele orientate în afară,
+    pe șolduri.
 
-    • Depress pacientul’s umeri, rotate them forward, și adjust them la lie în same
-    plan transversal.
+    • Se coboară umerii pacientului, se rotesc anterior și se ajustează astfel încât
+    să se afle în același plan transversal.
 
-    • Se instruiește pacientul să keep umerii în contact cu grila device la move scapulae
-    de la câmpuri pulmonare (Fig. 3.65).
+    • Se instruiește pacientul să mențină umerii în contact cu grila pentru a deplasa
+    scapulele din câmpurile pulmonare (Fig. 3.65).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se poziționează pacientul așezat pe scaun sau în ortostatism before
-    stativ vertical Bucky. If pacientul este în ortostatism, weight de corp trebuie
-    să fie equally
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se poziționează pacientul așezat pe scaun sau în ortostatism, în
+    fața stativului vertical Bucky. Dacă pacientul este în ortostatism, greutatea
+    corpului trebuie distribuită egal pe picioare.
+  respiration: Se declanșează expunerea la sfârșitul inspirului profund complet sau,
+    opțional, la expir complet. Claviculele sunt ridicate prin inspirație și coborâte
+    prin expirație; apexurile (vârfurile pulmonare) se deplasează foarte puțin, dacă
+    se deplasează, în timpul oricăreia dintre fazele respirației.
+  sid: O SID minimă de 72 țoli (183 cm) este recomandată pentru a reduce magnifierea
+    cordului și a crește rezoluția spațială a structurilor toracice.
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placă pentru receptorul de imagine: 10
+    × 12 țoli (24 ×
 
-    distributed pe picioarele.'
-  respiration: 'Se declanșează expunerea la end de Inspir profund complet sau, ca
-    option, la Expir complet. clavicles sunt ridicat prin inspiration și
-
-    coborât prin expiration; apexuri (vârfuri pulmonare) move little, if la toate,
-    during either phase de respirație.'
-  sid: 'Minimum SID de 72 inches (183 cm) este recommended la decrease magnification
-    de cordul și la increase spatial resolution de thoracic
-
-    structures.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) transversal'
+    30 cm), transversal'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    196–197'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 196–197'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Place marker
-    de lateralitate (D/S) în collimated expunere field.
-title: Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm). Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Radiografie a apexurilor pulmonare — incidență axială PA (Merrill)
 ---
-# Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
+# Radiografie a apexurilor pulmonare — incidență axială PA (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -133,19 +137,24 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul Poziție Șezândă sau în ortostatism before stativ vertical Bucky. If pacientul este în ortostatism, weight de corp trebuie să fie equally distributed pe picioarele.; se ajustează height de receptorul de imagine so that it este centrat la nivelul level de incizură jugulară (furculiță sternală). se centrează MSP de pacientul’s corp la linia mediană receptorul de imagine și rest bărbia pe / sprijinit de grilă device. se ajustează pacient’s cap astfel încât plan mediosagital este vertical, și then se flectează coate și place mâinile, palms out, pe șoldurile. Depress pacientul’s umeri, rotate them forward, și adjust them la lie în same plan transversal. Se instruiește pacientul să keep umerii în contact cu grila device la move scapulae de la câmpuri pulmonare (Fig. 3.65). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Inspiration orientat 10 la 15 grade cranial through T3 la center de receptorul de imagine Expiration (optional) orientat perpendicular pe plane de receptorul de imagine și centrat la nivelul level de T3
-    - **Distanță Focar-Film (DFF / SID):** Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and to increase spatial resolution of the thoracic structures.
-    - **Comandă Respiratorie:** Se declanșează expunerea la end de Inspir profund complet sau, ca option, la Expir complet. clavicles sunt ridicat prin inspiration și coborât prin expiration; apexuri (vârfuri pulmonare) move little, if la toate, during either phase de respirație.
+    - **Poziție Pacient:** Se poziționează pacientul în poziție șezândă sau în ortostatism, în fața stativului vertical Bucky. Dacă pacientul este în ortostatism, greutatea corpului trebuie distribuită egal pe picioare. Se ajustează înălțimea receptorului de imagine astfel încât să fie centrat la nivelul incizurii jugulare (furculiței sternale). Se centrează MSP al corpului pacientului pe linia mediană a receptorului de imagine și se sprijină bărbia pe sau de grilă. Se ajustează capul pacientului astfel încât planul mediosagital să fie vertical, apoi se flectează coatele și se plasează mâinile, cu palmele orientate în afară, pe șolduri. Se coboară umerii pacientului, se rotesc anterior și se ajustează astfel încât să se afle în același plan transversal. Se instruiește pacientul să mențină umerii în contact cu grila pentru a deplasa scapulele din câmpurile pulmonare (Fig. 3.65). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:**
+        Inspir: orientat cu 10 la 15 grade cranial prin T3, către centrul receptorului de imagine
+
+        Expir (opțional): orientat perpendicular pe planul receptorului de imagine și centrat la nivelul T3
+
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.
+    - **Comandă Respiratorie:** Se declanșează expunerea la sfârșitul inspirului profund complet sau, opțional, la expir complet. Claviculele sunt ridicate prin inspirație și coborâte prin expirație; apexurile (vârfurile pulmonare) se deplasează foarte puțin, dacă se deplasează, în timpul oricăreia dintre fazele respirației.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -155,23 +164,23 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and to increase spatial resolution of the thoracic structures. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire apexuri (vârfuri pulmonare) și appropriate portion de plămâni
-    - Clavicles located below apexuri (vârfuri pulmonare)
-    - Sternal ends de clavicles echidistant față de coloană vertebrală
-    - Pulmonary vascular markings de apexuri (vârfuri pulmonare)
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Apexurile (vârfurile pulmonare) în întregime și porțiunea corespunzătoare a plămânilor
+    - Claviculele situate inferior față de apexuri (vârfurile pulmonare)
+    - Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+    - Desenul vascular pulmonar de la apexuri (vârfurile pulmonare)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -181,6 +190,7 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -188,7 +198,7 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and to increase spatial resolution of the thoracic structures.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -196,59 +206,3 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență PA Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 196–197](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-apexuri (vârfuri pulmonare) sunt projected above shadows de clavicles în PA axial și PA incidențe (Fig. 3.66).
-
-### collimation
-
-• Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-Inspiration
-• orientat 10 la 15 grade cranial through T3 la center de receptorul de imagine
-Expiration (optional)
-• orientat perpendicular pe plane de receptorul de imagine și centrat la nivelul level de T3
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire apexuri (vârfuri pulmonare) și appropriate portion de plămâni
-• Clavicles located below apexuri (vârfuri pulmonare)
-• Sternal ends de clavicles echidistant față de coloană vertebrală
-• Pulmonary vascular markings de apexuri (vârfuri pulmonare)
-
-### part_pos
-
-• se ajustează height de receptorul de imagine so that it este centrat la nivelul level de incizură jugulară (furculiță sternală).
-• se centrează MSP de pacientul’s corp la linia mediană receptorul de imagine și rest bărbia pe / sprijinit de grilă device.
-• se ajustează pacient’s cap astfel încât plan mediosagital este vertical, și then se flectează coate și place mâinile, palms out, pe șoldurile.
-• Depress pacientul’s umeri, rotate them forward, și adjust them la lie în same plan transversal.
-• Se instruiește pacientul să keep umerii în contact cu grila device la move scapulae de la câmpuri pulmonare (Fig. 3.65).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se poziționează pacientul așezat pe scaun sau în ortostatism before stativ vertical Bucky. If pacientul este în ortostatism, weight de corp trebuie să fie equally
-distributed pe picioarele.
-
-### respiration
-
-Se declanșează expunerea la end de Inspir profund complet sau, ca option, la Expir complet. clavicles sunt ridicat prin inspiration și
-coborât prin expiration; apexuri (vârfuri pulmonare) move little, if la toate, during either phase de respirație.
-
-### sid
-
-Minimum SID de 72 inches (183 cm) este recommended la decrease magnification de cordul și la increase spatial resolution de thoracic
-structures.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) transversal
-

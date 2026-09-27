@@ -34,6 +34,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-oblica-anterioara-occlusal-oblica-occlusal-of-the-maxilla-p326-clark/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Este important ca tubul să nu fie poziționat mai lateral decât punctul de
@@ -120,23 +124,26 @@ title: Radiografie dentară ocluzală oblică anterioară a maxilei.
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
-• Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
-• Filmul se află pe suprafețele ocluzale ale dinților inferiori, cu partea filmului orientată spre bolta palatină. Convenția pentru poziționarea filmului este ca axa longitudinală a filmului să fie orientată anteroposterior în cavitatea orală (adică paralelă cu planul mediosagital).
-• Marginea filmului adiacentă obrazului trebuie să se extindă cu 1cm profil (lateral) față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
-• Acesta trebuie poziționat cât mai posterior posibil, în limita toleranței pacientului.
-• Pacientul trebuie să muște ușor, cu dinții apropiați, pentru a evita imprimarea unor urme de presiune pe film.
-    - **Punct de Centrare Fascicul:** • Tubul de raze X este poziționat spre partea feței în care se suspectează patologia și înclinat inferior (caudal) la 65–70 grade prin obraz.
-• Punctul de centrare este medial față de canthusul extern al ochiului, dar la nivelul pupilei. Este important să se asigure că raza centrală este perpendiculară pe arcada dentară.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
+        - Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
+        - Filmul se află pe suprafețele ocluzale ale dinților inferiori, cu partea filmului orientată spre bolta palatină. Convenția pentru poziționarea filmului este ca axa longitudinală a filmului să fie orientată anteroposterior în cavitatea orală (adică paralelă cu planul mediosagital).
+        - Marginea filmului adiacentă obrazului trebuie să se extindă cu 1cm profil (lateral) față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
+        - Acesta trebuie poziționat cât mai posterior posibil, în limita toleranței pacientului.
+        - Pacientul trebuie să muște ușor, cu dinții apropiați, pentru a evita imprimarea unor urme de presiune pe film.
+    - **Punct de Centrare Fascicul:**
+        - Tubul de raze X este poziționat spre partea feței în care se suspectează patologia și înclinat inferior (caudal) la 65–70 grade prin obraz.
+        - Punctul de centrare este medial față de canthusul extern al ochiului, dar la nivelul pupilei. Este important să se asigure că raza centrală este perpendiculară pe arcada dentară.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -173,11 +180,10 @@ title: Radiografie dentară ocluzală oblică anterioară a maxilei.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Este important ca tubul să nu fie poziționat mai lateral decât punctul de centrare descris mai sus; în caz contrar, corpul zigomatic va obstrua detaliile importante din aria de interes diagnostic.
-• Această incidență este dificilă din punct de vedere tehnic atunci când se utilizează colimarea dreptunghiulară.
-Incidență ocluzală oblică anterioară a maxilei stângi, evidențiind caninul stâng neerupt. Incidență ocluzală oblică anterioară a maxilei drepte. Regiunea a suferit un traumatism. Incisivii centrali superior drept și profil (lateral) sunt parțial extruzați. Incidență ocluzală oblică posterioară stângă.
-În timpul extracției primului molar permanent, rădăcina palatinală a fost deplasată în antrul maxilar. Este clar vizibilă suprapusă peste planșeul fosei nazale. Poziționarea pacientului și a tubului de raze X pentru incidența ocluzală oblică posterioară superioară dreaptă.
+    - Este important ca tubul să nu fie poziționat mai lateral decât punctul de centrare descris mai sus; în caz contrar, corpul zigomatic va obstrua detaliile importante din aria de interes diagnostic.
+    - Această incidență este dificilă din punct de vedere tehnic atunci când se utilizează colimarea dreptunghiulară. Incidență ocluzală oblică anterioară a maxilei stângi, evidențiind caninul stâng neerupt. Incidență ocluzală oblică anterioară a maxilei drepte. Regiunea a suferit un traumatism. Incisivii centrali superior drept și profil (lateral) sunt parțial extruzați. Incidență ocluzală oblică posterioară stângă. În timpul extracției primului molar permanent, rădăcina palatinală a fost deplasată în antrul maxilar. Este clar vizibilă suprapusă peste planșeul fosei nazale. Poziționarea pacientului și a tubului de raze X pentru incidența ocluzală oblică posterioară superioară dreaptă.
 
 
 ### 🖼️ Imagini

@@ -10,6 +10,10 @@ images:
 - caption: Merrill — pagina 760, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbar-intervertebral-joints-incidenta-postero-anterioara-pa-in-incarcare-ortostatism-method-right-and-left-bending-p759-merrill/p760_fig1.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -104,11 +108,12 @@ title: Rx articulațiile intervertebrale lombare — Incidență postero-anterio
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -147,6 +152,7 @@ title: Rx articulațiile intervertebrale lombare — Incidență postero-anterio
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -177,34 +183,3 @@ title: Rx articulațiile intervertebrale lombare — Incidență postero-anterio
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 759–760](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### raza centrală
-
-• orientat perpendicular pe L3 sau prin spațiile discale intervertebrale L4–L5 sau L5–S1, dacă acestea sunt regiunile de interes
-
-### part_pos
-
-• Cu pacientul cu fața spre stativul vertical Bucky, se ajustează înălțimea receptorului de imagine pentru a fi centrat la nivelul L3.
-• Se ajustează bazinul pacientului pentru rotație, asigurându-se că spinele iliace antero-superioare (SIAS) sunt echidistante față de receptorul de imagine.
-• Se centrează MSP al corpului pacientului pe linia mediană a stativului vertical Bucky (Fig. 9.129).
-• Se lasă brațele pacientului să atârne nesusținute pe lângă corp.
-• Se efectuează o radiografie cu pacientul în flexie spre dreapta și una cu pacientul în flexie spre stânga (Fig. 9.130).
-• Se instruiește pacientul să se încline direct lateral cât mai mult posibil, fără rotație și fără ridicarea piciorului. Gradul de flexie nu trebuie forțat, iar pacientul nu trebuie sprijinit în această poziție.
-• Se asigură că MSP al coloanei lombare inferioare și al sacrului rămâne centrat pe grila dispozitivului pe măsură ce partea superioară se deplasează lateral.
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se efectuează această examinare cu pacientul în ortostatism. Duncan și Hoen 26 au recomandat utilizarea incidenței PA deoarece, în această direcție, razele divergente sunt mai aproape de paralelism cu spațiile discale intervertebrale.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
-43 cm), longitudinal.
-

@@ -3,46 +3,50 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: • Raza centrală verticală este centrată pe navicular cuneiform articulație.
+centering: • Raza centrală verticală este centrată pe articulația naviculocuneiformă.
 clinical_indications:
-- Evaluare radiografică regiunii Picior (Profil (lateral)).
+- Evaluarea radiografică a regiunii piciorului (profil lateral).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: suspiciune de fractură sau luxație articulară de oase tarsiene, sau base
-    de metatarsal
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Suspiciune de fractură sau luxație articulară a oaselor tarsiene sau a
+    bazei metatarsianului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_1.jpeg
-- caption: suspiciune de fractură sau luxație articulară.
+- caption: Suspiciune de fractură sau luxație articulară.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_2.jpeg
-- caption: Normal Profil (lateral) radiografie de Picior
+- caption: Radiografie normală de profil a piciorului
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_3.jpeg
-- caption: Profil (lateral) radiografie de Picior evidențiind metallic corp străin
-    radiopac
+- caption: Radiografie de profil a piciorului evidențiind un corp străin metalic radiopac
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'metal marker plasat over puncture site este commonly used la aid localization
-  de corp străin radiopac.
+notes: 'Markerul metalic plasat peste locul puncției este utilizat frecvent pentru
+  a ajuta la localizarea corpului străin radiopac.
 
-  110 Talonavicular articulație Neck de astragal (talus) Tibia Fibula posterior ‘malleolus’
-  de tibia posterior talocalcaneal articulație Calcaneu Longitudinal plantar arch
-  Cuboid cap de 5th metatarsal Sesamoid bone de hallux proximal și distal falange
-  de hallux Navicular Mid-tarsal articulație Cuneiform bones Metarsal bones Normal
-  Profil (lateral) radiografie de Picior Profil (lateral) radiografie de Picior evidențiind
-  metallic corp străin radiopac'
-position: '• de la Dorso-Plantară poziție, membru inferior este rotit outwards la
-  bring Profil (lateral) aspect de Picior în contact cu caseta.
+  110 Articulația talonaviculară Colul astragalului (talusului) Tibia Fibula Maleola
+  posterioară a tibiei Articulația talocalcaneană Calcaneu Arcada plantară longitudinală
+  Cuboid Capul celui de-al 5-lea metatarsian Os sesamoid al halucelui Falangele proximală
+  și distală ale halucelui Navicular Articulația mediotarsiană Oasele cuneiforme Oasele
+  metatarsiene Radiografie normală de profil a piciorului Radiografie de profil a
+  piciorului evidențiind un corp străin metalic radiopac'
+position: '• Din poziția dorsoplantară, membrul inferior este rotit în afară pentru
+  a aduce aspectul de profil al piciorului în contact cu caseta.
 
-  • Se plasează un suport/pernă sub genunchi pentru sprijin și relaxare.
+  • Se plasează un suport/o pernă sub genunchi pentru sprijin și relaxare.
 
-  • poziție de Picior este ajustat slightly la bring plantar aspect perpendicular
+  • Poziția piciorului este ajustată ușor pentru a aduce suprafața plantară perpendicular
   pe casetă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
@@ -52,8 +56,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- If examining pentru suspected corp străin radiopac, kVp selected trebuie să fie
-  adecvat la show corp străin radiopac pe / sprijinit de softtissue structures.
+- Dacă se examinează pentru un corp străin radiopac suspectat, kVp selectat trebuie
+  să fie adecvat pentru a evidenția corpul străin radiopac pe fondul structurilor
+  de țesuturi moi.
 sid_dff: 100 cm
 slug: rx-picior-profil-lateral-p125-clark
 sources:
@@ -62,14 +67,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Picior Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx picior — profil (lateral)
 ---
-# Rx Picior Profil (Lateral)
+# Rx picior — profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -88,26 +93,28 @@ title: Rx Picior Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Picior (Profil (lateral)).
+        - Evaluarea radiografică a regiunii piciorului (profil lateral).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • de la Dorso-Plantară poziție, membru inferior este rotit outwards la bring Profil (lateral) aspect de Picior în contact cu caseta.
-• Se plasează un suport/pernă sub genunchi pentru sprijin și relaxare.
-• poziție de Picior este ajustat slightly la bring plantar aspect perpendicular pe casetă.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe navicular cuneiform articulație.
+    - **Poziție Pacient:**
+        - Din poziția dorsoplantară, membrul inferior este rotit în afară pentru a aduce aspectul de profil al piciorului în contact cu caseta.
+        - Se plasează un suport/o pernă sub genunchi pentru sprijin și relaxare.
+        - Poziția piciorului este ajustată ușor pentru a aduce suprafața plantară perpendicular pe casetă.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe articulația naviculocuneiformă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -118,19 +125,19 @@ title: Rx Picior Profil (Lateral)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - If examining pentru suspected corp străin radiopac, kVp selected trebuie să fie adecvat la show corp străin radiopac pe / sprijinit de softtissue structures.
+    - Dacă se examinează pentru un corp străin radiopac suspectat, kVp selectat trebuie să fie adecvat pentru a evidenția corpul străin radiopac pe fondul structurilor de țesuturi moi.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,9 +149,9 @@ title: Rx Picior Profil (Lateral)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    metal marker plasat over puncture site este commonly used la aid localization de corp străin radiopac.
-110 Talonavicular articulație Neck de astragal (talus) Tibia Fibula posterior ‘malleolus’ de tibia posterior talocalcaneal articulație Calcaneu Longitudinal plantar arch Cuboid cap de 5th metatarsal Sesamoid bone de hallux proximal și distal falange de hallux Navicular Mid-tarsal articulație Cuneiform bones Metarsal bones Normal Profil (lateral) radiografie de Picior Profil (lateral) radiografie de Picior evidențiind metallic corp străin radiopac
+    Markerul metalic plasat peste locul puncției este utilizat frecvent pentru a ajuta la localizarea corpului străin radiopac. 110 Articulația talonaviculară Colul astragalului (talusului) Tibia Fibula Maleola posterioară a tibiei Articulația talocalcaneană Calcaneu Arcada plantară longitudinală Cuboid Capul celui de-al 5-lea metatarsian Os sesamoid al halucelui Falangele proximală și distală ale halucelui Navicular Articulația mediotarsiană Oasele cuneiforme Oasele metatarsiene Radiografie normală de profil a piciorului Radiografie de profil a piciorului evidențiind un corp străin metalic radiopac
 
 
 ### 🖼️ Imagini
@@ -153,33 +160,33 @@ title: Rx Picior Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![suspiciune de fractură sau luxație articulară de oase tarsiene, sau base de metatarsal](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_1.jpeg)
+![Suspiciune de fractură sau luxație articulară a oaselor tarsiene sau a bazei metatarsianului](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_1.jpeg)
 
-<figcaption><strong>suspiciune de fractură sau luxație articulară de oase tarsiene, sau base de metatarsal</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![suspiciune de fractură sau luxație articulară.](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_2.jpeg)
-
-<figcaption><strong>suspiciune de fractură sau luxație articulară.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Suspiciune de fractură sau luxație articulară a oaselor tarsiene sau a bazei metatarsianului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Profil (lateral) radiografie de Picior](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_3.jpeg)
+![Suspiciune de fractură sau luxație articulară.](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_2.jpeg)
 
-<figcaption><strong>Normal Profil (lateral) radiografie de Picior</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Suspiciune de fractură sau luxație articulară.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Picior evidențiind metallic corp străin radiopac](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_4.jpeg)
+![Radiografie normală de profil a piciorului](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_3.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Picior evidențiind metallic corp străin radiopac</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală de profil a piciorului</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil a piciorului evidențiind un corp străin metalic radiopac](../../assets/images/protocols/clark/rx-picior-profil-lateral-p125-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie de profil a piciorului evidențiind un corp străin metalic radiopac</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -3,59 +3,66 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: • raza centrală orizontală centrală este orientat la upper margine de Profil
-  (lateral) tibial condyle, la 90 grade la axa longitudinală de tibia.
+centering: • raza centrală orizontală este orientată la marginea superioară a condilului
+  tibial de profil, la 90 grade față de axa longitudinală a tibiei.
 clinical_indications:
-- Profil (lateral) incidență de Genunchi și tibial tubercle poate fie useful în Osgood
-  Schlatter’s disease, although this este primarily clinical diagnosis și radiografie
-  este reserved pentru exclusion de other pathology în cases de doubt. Ultrasound
-  poate also fie useful în this clinical situation. Profil (lateral) – Fascicul Orizontal
-  This incidență replaces conventional Profil (lateral) în toate cases de gross injury
-  și suspected suspiciune de fractură de Rotulă (Patelă).
+- Incidența de profil a genunchiului și a tuberculului tibial poate fi utilă în boala
+  Osgood-Schlatter, deși aceasta este în primul rând un diagnostic clinic, iar radiografia
+  este rezervată excluderii altor patologii în cazurile neclare. Ecografia poate fi,
+  de asemenea, utilă în această situație clinică. Profil – fascicul orizontal. Această
+  incidență înlocuiește incidența convențională de profil în toate cazurile de traumatism
+  sever și de suspiciune de fractură a rotulei (patela).
 images:
-- caption: Further incidențe sunt used la evidențiază suspiciune de fractură de the
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidențe suplimentare sunt utilizate pentru evidențierea suspiciunii de
+    fractură a
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_1.jpeg
-- caption: clinical diagnosis și radiografie este reserved pentru exclusion
+- caption: diagnosticul clinic, iar radiografia este rezervată excluderii
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_2.jpeg
-- caption: gross injury și suspected suspiciune de fractură de Rotulă (Patelă).
+- caption: traumatismului sever și suspiciunii de fractură a rotulei (patela).
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_3.jpeg
-- caption: patellar suspiciune de fractură being separated prin opposing muscle pull.
+- caption: fragmentelor unei suspiciuni de fractură patelară care se separă prin tracțiunea
+    musculară opusă.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• fără attempt trebuie să fie made la either flex sau se extinde Genunchi.
+notes: '• Nu trebuie făcută nicio încercare de flectare sau extensie a genunchiului.
 
-  • Additional flexion poate result în fragments de transverse patellar suspiciune
-  de fractură being separated prin opposing muscle pull.
+  • Flexia suplimentară poate determina separarea fragmentelor unei suspiciuni de
+  fractură transversală a rotulei prin tracțiunea musculară opusă.
 
-  • orice rotație de limb trebuie să fie de la Șold, cu support given la whole membru
-  inferior.
+  • Orice rotație a membrului trebuie realizată de la șold, cu sprijin pentru întregul
+  membru inferior.
 
-  • prin using Fascicul Orizontal, nivele hidroaerice poate fie evidențiat, indicating
-  lipohaemarthrosis.
+  • Utilizarea fasciculului orizontal poate evidenția niveluri hidroaerice, indicând
+  lipohemartroză.
 
-  128 Fascicul Orizontal Fascicul Orizontal Profil (lateral) evidențiind coborât suspiciune
-  de fractură de platou tibial (arrows) și lipohaemarthrosis (arrowheads) Fascicul
-  Orizontal Fascicul Orizontal Profil (lateral) evidențiind transverse suspiciune
-  de fractură de Rotulă (Patelă) și articulație effusion în suprapatellar bursa (arrows)
-  Fascicul Orizontal Fascicul Orizontal Profil (lateral) evidențiind distal femoral
-  suspiciune de fractură'
-position: '• pacientul remains pe trolley/bed, cu limb gently raised și sprijinit
-  pe pads.
+  128 Fascicul orizontal Profil (lateral) cu fascicul orizontal, evidențiind suspiciunea
+  de fractură înfundată a platoului tibial (săgeți) și lipohemartroza (capete de săgeată)
+  Fascicul orizontal Profil (lateral) cu fascicul orizontal, evidențiind suspiciunea
+  de fractură transversală a rotulei (patela) și revărsat articular în bursa suprapatelară
+  (săgeți) Fascicul orizontal Profil (lateral) cu fascicul orizontal, evidențiind
+  suspiciunea de fractură femurală distală'
+position: '• pacientul rămâne pe targa/patul mobil, cu membrul ușor ridicat și sprijinit
+  pe perne.
 
-  • If possible, membru inferior poate fie rotit slightly la centralize Rotulă (Patelă)
-  între femoral condyles.
+  • Dacă este posibil, membrul inferior poate fi rotit ușor pentru a centra rotula
+  (patela) între condilii femurali.
 
-  • film radiologic este sprijinit vertically pe / sprijinit de medial aspect de Genunchi.
+  • filmul radiologic este sprijinit vertical pe / de aspectul medial al genunchiului.
 
-  • centre de caseta este level cu upper margine de tibial condyle.'
+  • centrul casetei este la nivelul marginii superioare a condilului tibial.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -64,7 +71,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Genunchi).
+- Vizualizarea clară a întregii arii anatomice (genunchi).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -76,14 +83,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Genunchi Additional Incidență
+  mas: Conform AEC / grosimii anatomice
+title: Rx genunchi – incidență suplimentară
 ---
-# Rx Genunchi Additional Incidență
+# Rx genunchi – incidență suplimentară
 
 
 <div class="rx-meta-bar">
@@ -102,25 +109,27 @@ title: Rx Genunchi Additional Incidență
 
     === "Indicații Clinice"
 
-        - Profil (lateral) incidență de Genunchi și tibial tubercle poate fie useful în Osgood Schlatter’s disease, although this este primarily clinical diagnosis și radiografie este reserved pentru exclusion de other pathology în cases de doubt. Ultrasound poate also fie useful în this clinical situation. Profil (lateral) – Fascicul Orizontal This incidență replaces conventional Profil (lateral) în toate cases de gross injury și suspected suspiciune de fractură de Rotulă (Patelă).
+        - Incidența de profil a genunchiului și a tuberculului tibial poate fi utilă în boala Osgood-Schlatter, deși aceasta este în primul rând un diagnostic clinic, iar radiografia este rezervată excluderii altor patologii în cazurile neclare. Ecografia poate fi, de asemenea, utilă în această situație clinică. Profil – fascicul orizontal. Această incidență înlocuiește incidența convențională de profil în toate cazurile de traumatism sever și de suspiciune de fractură a rotulei (patela).
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul remains pe trolley/bed, cu limb gently raised și sprijinit pe pads.
-• If possible, membru inferior poate fie rotit slightly la centralize Rotulă (Patelă) între femoral condyles.
-• film radiologic este sprijinit vertically pe / sprijinit de medial aspect de Genunchi.
-• centre de caseta este level cu upper margine de tibial condyle.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat la upper margine de Profil (lateral) tibial condyle, la 90 grade la axa longitudinală de tibia.
+    - **Poziție Pacient:**
+        - pacientul rămâne pe targa/patul mobil, cu membrul ușor ridicat și sprijinit pe perne.
+        - Dacă este posibil, membrul inferior poate fi rotit ușor pentru a centra rotula (patela) între condilii femurali.
+        - filmul radiologic este sprijinit vertical pe / de aspectul medial al genunchiului.
+        - centrul casetei este la nivelul marginii superioare a condilului tibial.
+    - **Punct de Centrare Fascicul:** • raza centrală orizontală este orientată la marginea superioară a condilului tibial de profil, la 90 grade față de axa longitudinală a tibiei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -131,19 +140,19 @@ title: Rx Genunchi Additional Incidență
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Genunchi).
+    - Vizualizarea clară a întregii arii anatomice (genunchi).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -157,12 +166,12 @@ title: Rx Genunchi Additional Incidență
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • fără attempt trebuie să fie made la either flex sau se extinde Genunchi.
-• Additional flexion poate result în fragments de transverse patellar suspiciune de fractură being separated prin opposing muscle pull.
-• orice rotație de limb trebuie să fie de la Șold, cu support given la whole membru inferior.
-• prin using Fascicul Orizontal, nivele hidroaerice poate fie evidențiat, indicating lipohaemarthrosis.
-128 Fascicul Orizontal Fascicul Orizontal Profil (lateral) evidențiind coborât suspiciune de fractură de platou tibial (arrows) și lipohaemarthrosis (arrowheads) Fascicul Orizontal Fascicul Orizontal Profil (lateral) evidențiind transverse suspiciune de fractură de Rotulă (Patelă) și articulație effusion în suprapatellar bursa (arrows) Fascicul Orizontal Fascicul Orizontal Profil (lateral) evidențiind distal femoral suspiciune de fractură
+    - Nu trebuie făcută nicio încercare de flectare sau extensie a genunchiului.
+    - Flexia suplimentară poate determina separarea fragmentelor unei suspiciuni de fractură transversală a rotulei prin tracțiunea musculară opusă.
+    - Orice rotație a membrului trebuie realizată de la șold, cu sprijin pentru întregul membru inferior.
+    - Utilizarea fasciculului orizontal poate evidenția niveluri hidroaerice, indicând lipohemartroză. 128 Fascicul orizontal Profil (lateral) cu fascicul orizontal, evidențiind suspiciunea de fractură înfundată a platoului tibial (săgeți) și lipohemartroza (capete de săgeată) Fascicul orizontal Profil (lateral) cu fascicul orizontal, evidențiind suspiciunea de fractură transversală a rotulei (patela) și revărsat articular în bursa suprapatelară (săgeți) Fascicul orizontal Profil (lateral) cu fascicul orizontal, evidențiind suspiciunea de fractură femurală distală
 
 
 ### 🖼️ Imagini
@@ -171,33 +180,33 @@ title: Rx Genunchi Additional Incidență
 
 <figure class="protocol-image-card" markdown>
 
-![Further incidențe sunt used la evidențiază suspiciune de fractură de the](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_1.jpeg)
+![Incidențe suplimentare sunt utilizate pentru evidențierea suspiciunii de fractură a](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_1.jpeg)
 
-<figcaption><strong>Further incidențe sunt used la evidențiază suspiciune de fractură de the</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![clinical diagnosis și radiografie este reserved pentru exclusion](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_2.jpeg)
-
-<figcaption><strong>clinical diagnosis și radiografie este reserved pentru exclusion</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidențe suplimentare sunt utilizate pentru evidențierea suspiciunii de fractură a</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![gross injury și suspected suspiciune de fractură de Rotulă (Patelă).](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_3.jpeg)
+![diagnosticul clinic, iar radiografia este rezervată excluderii](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_2.jpeg)
 
-<figcaption><strong>gross injury și suspected suspiciune de fractură de Rotulă (Patelă).</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>diagnosticul clinic, iar radiografia este rezervată excluderii</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![patellar suspiciune de fractură being separated prin opposing muscle pull.](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_4.jpeg)
+![traumatismului sever și suspiciunii de fractură a rotulei (patela).](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_3.jpeg)
 
-<figcaption><strong>patellar suspiciune de fractură being separated prin opposing muscle pull.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>traumatismului sever și suspiciunii de fractură a rotulei (patela).</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![fragmentelor unei suspiciuni de fractură patelară care se separă prin tracțiunea musculară opusă.](../../assets/images/protocols/clark/rx-genunchi-additional-projections-p143-clark/fig_4.jpeg)
+
+<figcaption><strong>fragmentelor unei suspiciuni de fractură patelară care se separă prin tracțiunea musculară opusă.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

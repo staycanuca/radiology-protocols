@@ -1,6 +1,7 @@
 ---
 title: Ghid Național IRIS — Indicații RadioImagistice Structurate
 hide:
+  - navigation
   - toc
 ---
 

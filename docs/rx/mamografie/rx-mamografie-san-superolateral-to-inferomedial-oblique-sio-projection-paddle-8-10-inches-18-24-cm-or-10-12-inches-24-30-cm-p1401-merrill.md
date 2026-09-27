@@ -2,8 +2,9 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: mamografie
-centering: perpendicular pe receptorul de imagine (RI) C-braț apparatus este poziționat
-  la angle determined prin pacientul’s corp habitus sau tissue composition.
+centering: Perpendicular pe receptorul de imagine (RI). Aparatul cu braț în C este
+  poziționat la un unghi determinat de conformația corporală sau de compoziția țesutului
+  pacientului.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -34,183 +35,201 @@ images:
 - caption: Merrill — pagina 1411, imaginea 9
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mamografie-san-superolateral-to-inferomedial-oblique-sio-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1401-merrill/p1411_fig9.png
+iris_reference:
+  chapter: Sân
+  radiation_dose: Clasa 1 (Minimă < 0.4 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să stand facing receptorul de imagine sau se așază
-  pacientul pe scaun pe adjustable stool facing unit.; se rotește C-braț apparatus
-  astfel încât raza centrală este orientat la angle la enter superior și lateral aspect
-  de afected Mamografie (Sân). LIQ este adjacent la receptorul de imagine. se ajustează
-  grade de C-braț obliquity according la corp habitus de pacientul, sau, when superolateral
-  la inferomedial oblic (SIO) incidență este being used ca additional incidență la
-  imagine area de tissue more clearly fără superimposition de surrounding tissue,
-  se ajustează C-braț la grade de angulation required prin radiologist, generally
-  a 20- la 30-grade angle. se ajustează height de C-braț la se poziționează pacientul’s
-  Mamografie (Sân) over center de receptorul de imagine. Se instruiește pacientul
-  să rest Mână de afected side pe handgrip adjacent la receptorul de imagine holder.
-  pacientul’s Cot trebuie să fie flectat. pentru shallow-înclinat SIO incidențe, braț
-  pe afected side trebuie să lie straight pe / sprijinit de pacient’s side. handgrip
-  este held prin Mână pe contralateral side. Place upper corner de receptorul de imagine
-  along sternal edge adjacent la upper inner aspect de pacientul’s Mamografie (Sân).
-  cu pacientul leaning slightly forward, gently pull ca much medial tissue ca possible
-  away de la sternal edge while menținerea Mamografie (Sân) up și out. Mamografie
-  (Sân) trebuie să nu droop. Ensure that pacientul’s back remains straight during
-  positioning, și that pacientul does nu lean la side sau spre receptorul de imagine.
-  Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Continue
-  la hold Mamografie (Sân) up și out. Bring compression paddle under afected braț
-  și into contact cu pacientul’s Mamografie (Sân) while sliding Mână spre pacientul’s
-  nipple. pentru shallow-înclinat SIO, afected braț la pacientul’s side trebuie să
-  fie bent la Cot la avoid superimposition de cap humeral over Mamografie (Sân) tissue.
-  Se aplică progresiv compresia până când glanda mamară este ferm fixată. upper corner
-  de compression paddle trebuie să fie în axilla pentru standard SIO incidență. Se
-  instruiește pacientul să indicate if compression becomes uncomfortable. When full
-  compression este achieved pe standard SIO, help pacientul bring braț up și over
-  cu flectat Cot resting pe top de receptorul de imagine. Gently pull down pe pacientul’s
-  abdominal tissue la smooth out orice skin folds. Move AEC detector la appropriate
-  poziție și Se instruiește pacientul să stop respirație (Fig. 18.72). Se declanșează
-  expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
+position: Se instruiește pacienta să stea cu fața spre receptorul de imagine sau se
+  așază pacienta pe un scaun, pe un taburet reglabil, cu fața spre aparat; se rotește
+  aparatul cu braț C astfel încât raza centrală să fie orientată la un unghi spre
+  aspectul superior și lateral al sânului afectat. LIQ este adiacent receptorului
+  de imagine. Se ajustează gradul de oblicitate al brațului C în funcție de conformația
+  pacientei sau, atunci când se utilizează incidența oblică supero-laterală spre infero-medială
+  (SIO) ca incidență suplimentară pentru a vizualiza mai clar aria de țesut fără suprapunerea
+  țesuturilor înconjurătoare, se ajustează brațul C la unghiul de angulație necesar
+  de către radiolog, în general un unghi de 20–30 de grade. Se ajustează înălțimea
+  brațului C pentru a poziționa sânul pacientei deasupra centrului receptorului de
+  imagine. Se instruiește pacienta să-și sprijine mâna de partea afectată pe mânerul
+  adiacent suportului receptorului de imagine. Cotul pacientei trebuie să fie flectat.
+  Pentru incidențele SIO cu înclinare redusă, brațul de partea afectată trebuie să
+  fie întins pe lângă corpul pacientei sau sprijinit de acesta. Mânerul este ținut
+  cu mâna de partea contralaterală. Se plasează colțul superior al receptorului de
+  imagine de-a lungul marginii sternale, adiacent aspectului supero-medial al sânului
+  pacientei. Cu pacienta aplecată ușor înainte, se trage ușor cât mai mult țesut medial
+  posibil în afara marginii sternale, menținând sânul în sus și în afară. Sânul nu
+  trebuie să atârne. Se verifică dacă spatele pacientei rămâne drept în timpul poziționării
+  și dacă pacienta nu se înclină în lateral sau spre receptorul de imagine. Se informează
+  pacienta cu privire la aplicarea compresiei pe glanda mamară. Se continuă menținerea
+  sânului în sus și în afară. Se aduce paleta de compresie sub brațul afectat și în
+  contact cu sânul pacientei, în timp ce mâna este deplasată spre mamelonul pacientei.
+  Pentru SIO cu înclinare redusă, brațul afectat, aflat pe lângă corpul pacientei,
+  trebuie flectat la cot pentru a evita suprapunerea capului humeral peste țesutul
+  mamar. Se aplică progresiv compresia până când glanda mamară este fixată ferm. Colțul
+  superior al paletei de compresie trebuie să fie în axilă pentru incidența SIO standard.
+  Se instruiește pacienta să indice dacă compresia devine inconfortabilă. Când se
+  obține compresia completă pentru SIO standard, se ajută pacienta să ridice brațul
+  și să-l treacă peste aparat, cu cotul flectat sprijinit pe partea superioară a receptorului
+  de imagine. Se trage ușor în jos de țesutul abdominal al pacientei pentru a netezi
+  orice pliuri cutanate. Se deplasează detectorul AEC în poziția corespunzătoare și
+  se instruiește pacienta să-și oprească respirația (Fig. 18.72). Se declanșează expunerea.
+  Se decomprimă sânul imediat după efectuarea expunerii.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să fie clearly vizualizat:'
-- UIQ și LOQ liber de superimposition (these quadrants sunt superimposed pe MLO și
-  LMO incidențe)
-- Lower inner aspect de Mamografie (Sân) visualized cu greater detail
-- Nipple în profile if possible
-- Deep și superficial Mamografie (Sân) tissues well separated when Mamografie (Sân)
-  este adequately maneuvered up și out de la Torace perete
-- Retroglandular fat well visualized la ensure inclusion de deep fibroglandular Mamografie
-  (Sân) tissue
-- Uniform tissue expunere if compression este adecvat.
-- Immediately obtain radiografii cu pacientul poziționat pentru CC și lateral incidențe
-  de subareolar region using magnification technique (see Fig. 18.74A și B). If needed,
-  MLO sau rolled CC și rolled MLO magnification incidențe poate fie obtained la resolve
-  superimposed ducts.
-- Employ expunere techniques used în general Mamografie.
-- Leave cannula în duct la minimize leakage de contrast material during compression
-  și la facilitate reinjection de contrast medium fără need pentru recannulation.
-- 'If cannula este removed pentru imagini, do nu apply vigorous compression because
-  this would cause contrast medium la fie expelled. Localization și Biopsy de Suspicious
-  Lesions Approximately 80% de nonpalpable lesions identified prin Mamografie sunt
-  nu malignant. Nonetheless, Mamografie (Sân) lesion cannot fie definitively judged
-  benign until it has been microscopically evaluated. When Mamografie identifies nonpalpable
-  lesion that warrants biopsy, abnormality trebuie să fie accurately located astfel
-  încât smallest amount de Mamografie (Sân) tissue este removed pentru microscopic
-  evaluation, minimizing Traumatism / Regim Urgență la Mamografie (Sân). This technique
-  conserves maximal amount de normal Mamografie (Sân) tissue unless extensive surgery
-  este indicated prin pathologic findings. Suspicious Mamografie (Sân) lesions poate
-  fie biopsied using three techniques: (1) FNAB, (2) large-core needle biopsy (LCNB),
-  și (3) open surgical biopsy. FNAB uses hollow small-gauge needle la extract tissue
-  cells de la suspicious lesion. location de lesion este identified prin doctor using
-  palpation, ultrasonography, sau mammographic sau stereotactic guidance. FNAB poate
-  potentially decrease need pentru surgical excisional biopsy prin identifying benign
-  lesions și prin diagnosing malignant lesions that require extensive surgery rather
-  than excisional biopsy. LCNB obtains small samples de Mamografie (Sân) tissue prin
-  means de larger-gauge (generally sized între 9-gauge și 14-gauge) hollow needle
-  cu trough adjacent la tip de needle, using same localizing techniques. vacuum suction
-  system este frequently employed during this procedure la pull target tissue through
-  trough into collecting chamber. Once tissue sample has been obtained, titanium clip
-  este often plasat în Mamografie (Sân) through needle la mark exact location de biopsy.
-  This clip poate fie used prin surgeon la locate area de concern during open surgical
-  excision, sau la indicate area de prior LCNB during subsequent Mamografie. Because
-  larger tissue samples sunt obtained cu LCNB, și because results sunt very precis,
-  clinical support este available pentru use de this technique instead de surgical
-  excisional biopsy la diagnose pathology de lesion. LCNB poate fie used cu clinical,
-  ultrasound, stereotactic, și MRI guidance. method used depends pe preference de
-  radiologist și surgeon și este typically determined prin modality cu which lesion
-  este most vizibil. When pacient este candidate pentru open surgical biopsy, preoperative
-  localization este used la locate și guide surgeon la nonpalpable lesion. Several
-  types de preoperative localization methods sunt în use today, but toate require
-  imaging assistance la tag nonpalpable area de concern. most common method de preoperative
-  localization este needle-wire localization. long needle containing hooked guidewire
-  este inserted into Mamografie (Sân) la lead surgeon directly la lesion. four most
-  common needle-wire localization systems sunt Kopans, Homer (18- gauge), Frank (21-gauge),
-  și Hawkins (20-gauge) biopsy guides. small incision (1 la 2 mm) la entry site poate
-  fie necessary la facilitate insertion de larger-gauge needle. cu fiecare system,
-  long needle containing hooked wire este inserted into Mamografie (Sân) until needle’s
-  tip este adjacent la lesion. When needle și wire sunt în place, needle este withdrawn
-  over wire. hook pe end de wire anchors wire within Mamografie (Sân) tissue. Some
-  radiologists also inject small amount de methylene blue dye la label corect biopsy
-  site visually. After needle-wire localization, pacientul este bandaged și taken
-  la surgical area pentru excisional biopsy (Fig. 18.75). surgeon then cuts along
-  guidewire și removes Mamografie (Sân) tissue around wire’s hooked end. Alternatively,
-  surgeon poate choose incision site that intercepts anchored wire distant de la point
-  de wire entry. Ideally, radiologist și surgeon trebuie să review localization imagini
-  together before excisional biopsy este performed. Newer methods de preoperative
-  localization that utilize Mamografie (Sân) imaging include radioguided occult lesion
-  localization (ROLL), radioactive iodine seed localization (RSL), și SAVI Scout (Cianna
-  Medical) radar localization. ROLL method involves injection de radioisotope into
-  tissue în area la fie excised. cu RSL, radioactive seed este plasat în tissue through
-  localizing needle. ambele de these methods require surgeon la locate tissue la fie
-  excised using gamma probe. Surgical outcomes cu this method have been found la fie
-  similar la those de wire-guided localizations. 35, 36 SAVI Scout method utilizes
-  radar technology. reflector este plasat into target tissue prin radiologist up la
-  30 days prior la surgery using mammographic sau ultrasound guidance. surgeon uses
-  SCOUT guide, which emits radar signal, la detect location de reflector și target
-  tissue. Real-time audible și visual indicators de la radar console assist surgeon
-  în accurately locating reflector și target tissue. 37 This este newer și nonradioactive
-  method de localization. 38'
-- Perform preliminary routine full-Mamografie (Sân) incidențe la confirm existence
-  de lesion (Figs. 18.77 și 18.78). Orthogonal incidențe will fie more helpful în
-  visualizing exact location de lesion; therefore, MLO incidență poate fie replaced
-  prin a 90-grade Incidență de Profil (lateral).
-- 'Obtain informed consent after discussing following topics cu pacientul: 1. Full
-  explanation de procedure 2. Full description de potential problems per facility
-  policy: These poate include vasovagal reaction, excessive bleeding, allergic reaction
-  la lidocaine, și possible failure de procedure (failure rate de 0% la 20%). 39–41
-  3. Answers la pacient’s preliminary questions'
-- se poziționează pacientul astfel încât compression plate este pe / sprijinit de
-  skin surface cel mai apropiat de lesion ca determined de la preliminary imagini.
-- Tell pacientul that compression will nu fie released until needle has been successfully
-  plasat și that pacientul este la hold ca still ca possible.
-- Disable automatic release de compression paddle.
-- Make preliminary expunere using compression. Ink marks poate fie plasat la corners
-  de paddle window sau în several de concentric holes away de la area la fie localized
-  la determine whether pacientul moves during procedure.
-- Process imagine fără removing compression. resultant imagine shows where lesion
-  lies în relation la compression plate openings (Fig. 18.79). If using circularly
-  fenestrated paddle, count holes vizibil pe imagine la determine correct entry point
-  de needle. If using rectangular hole, use alphanumeric marker system supplied cu
-  paddle la determine location de lesion și needle entry point.
-- Clean skin de Mamografie (Sân) over entry site cu topical antiseptic. Some radiologists
-  poate prefer la do this before compression.
-- Apply topical anesthetic if necessary.
-- Insert localizing needle și guidewire into Mamografie (Sân) perpendicular pe compression
-  plate și paralel cu Torace perete, moving needle directly spre underlying lesion.
-  Advance needle la estimated depth de lesion. Because Mamografie (Sân) este compressed
-  în direction de needle’s insertion, it este better la pass beyond lesion than la
-  fie short de lesion. Do nu advance guidewire into tissue until depth de lesion has
-  been determined prin orthogonal incidență.
-- cu needle în poziție, make expunere. fie sure that shadow de hub de needle projects
-  directly over insertion point de needle during expunere la precisely indicate location
-  de tip. Slowly release compression plate, leaving needle-wire system în place. Obtain
-  additional incidență after C-braț apparatus has been shifted 90 grade. (These two
-  orthogonal radiografii sunt used la determine poziție de end de needle-wire relative
-  la depth de lesion.)
-- If needle este nu located adjacent la sau within aria de interes diagnostic, reposition
-  needle-wire, și repeat expuneri.
-- When needle este accurately plasat within lesion, withdraw needle, but leave hooked
-  guidewire în place.
-- Place gauze bandage over Mamografie (Sân).
-- 'Transport pacientul la surgery along cu final localization imagini. Localization
-  de dermal calcifications pentru localization de nonpalpable dermal calcifications,
-  two incidențe sunt necessary: (1) localization incidență (which depends pe aria
-  de interes diagnostic) și (2) TAN incidență.'
-- de la routine CC și MLO incidențe, determine quadrant în which aria de interes diagnostic
-  este located.
-- Determine which incidență would best localize aria de interes diagnostic—CC sau
-  90-grade Incidență de Profil (lateral).
-- Turn de automatic compression release, și inform pacientul that compression will
-  fie continued while first imagine este processed.
-- Using localization compression paddle, poziție C-braț și Mamografie (Sân) astfel
-  încât paddle opening este poziționat over quadrant de interest.
+- 'Următoarele trebuie să fie clar vizualizate:'
+- UIQ și LOQ libere de suprapunere (aceste cadrane sunt suprapuse în incidențele MLO
+  și LMO)
+- Aspectul infero-medial al sânului vizualizat cu detalii mai clare
+- Mamelonul în profil, dacă este posibil
+- Țesuturile mamare profund și superficial sunt bine separate atunci când sânul este
+  mobilizat adecvat în sus și în afara peretelui toracic
+- Grăsimea retroglandulară este bine vizualizată pentru a asigura includerea țesutului
+  fibroglandular profund al sânului
+- Expunere uniformă a țesutului dacă compresia este adecvată.
+- Se efectuează imediat radiografii cu pacienta poziționată pentru incidențele CC
+  și de profil ale regiunii subareolare, utilizând tehnica de magnificare (vezi Fig.
+  18.74A și B). Dacă este necesar, se pot efectua incidențe de magnificare MLO sau
+  CC rulată și MLO rulată pentru clarificarea canalelor suprapuse.
+- Se utilizează tehnicile de expunere folosite în general pentru mamografie.
+- Se lasă canula în canal pentru a minimiza scurgerea substanței de contrast în timpul
+  compresiei și pentru a facilita reinjectarea substanței de contrast fără a fi necesară
+  recanularea.
+- 'Dacă se îndepărtează canula pentru obținerea imaginilor, nu se aplică o compresie
+  viguroasă, deoarece aceasta ar determina expulzarea substanței de contrast. Localizarea
+  și biopsia leziunilor suspecte Aproximativ 80% dintre leziunile nepalpabile identificate
+  prin mamografie nu sunt maligne. Cu toate acestea, o leziune mamară nu poate fi
+  considerată definitiv benignă până când nu a fost evaluată microscopic. Atunci când
+  mamografia identifică o leziune nepalpabilă care justifică biopsia, anomalia trebuie
+  localizată cu exactitate, astfel încât să fie îndepărtată cea mai mică cantitate
+  posibilă de țesut mamar pentru evaluarea microscopică, minimizând traumatismul /
+  regimul de urgență la sân. Această tehnică păstrează cantitatea maximă de țesut
+  mamar normal, cu excepția cazului în care intervenția chirurgicală extinsă este
+  indicată prin rezultatele patologice. Leziunile mamare suspecte pot fi biopsiate
+  prin trei tehnici: (1) FNAB, (2) biopsia cu ac de calibru mare (LCNB) și (3) biopsia
+  chirurgicală deschisă. FNAB utilizează un ac gol, de calibru mic, pentru a extrage
+  celule tisulare din leziunea suspectă. Localizarea leziunii este identificată de
+  medic prin palpare, ultrasonografie sau ghidaj mamografic ori stereotactic. FNAB
+  poate reduce potențial necesitatea biopsiei chirurgicale excizionale prin identificarea
+  leziunilor benigne și diagnosticarea leziunilor maligne care necesită o intervenție
+  chirurgicală extinsă, mai degrabă decât biopsie excizională. LCNB obține probe mici
+  de țesut mamar prin intermediul unui ac gol de calibru mai mare (în general între
+  9 gauge și 14 gauge), cu o fantă adiacentă vârfului acului, utilizând aceleași tehnici
+  de localizare. În timpul acestei proceduri se utilizează frecvent un sistem de aspirație
+  cu vid pentru a trage țesutul-țintă prin fantă în camera de colectare. După obținerea
+  probei de țesut, se plasează adesea un clip de titan în sân prin ac pentru a marca
+  localizarea exactă a biopsiei. Acest clip poate fi utilizat de chirurg pentru localizarea
+  zonei de interes în timpul exciziei chirurgicale deschise sau pentru indicarea zonei
+  unei LCNB anterioare în timpul unei mamografii ulterioare. Deoarece prin LCNB se
+  obțin probe de țesut mai mari și deoarece rezultatele sunt foarte precise, există
+  suport clinic pentru utilizarea acestei tehnici în locul biopsiei chirurgicale excizionale
+  pentru diagnosticarea patologiei leziunii. LCNB poate fi utilizată cu ghidaj clinic,
+  ecografic, stereotactic și RMN. Metoda utilizată depinde de preferința radiologului
+  și a chirurgului și este determinată de obicei de modalitatea prin care leziunea
+  este cel mai vizibilă. Atunci când pacienta este candidată pentru biopsie chirurgicală
+  deschisă, se utilizează localizarea preoperatorie pentru a localiza leziunea nepalpabilă
+  și pentru a ghida chirurgul. În prezent sunt utilizate mai multe tipuri de metode
+  de localizare preoperatorie, dar toate necesită asistență imagistică pentru marcarea
+  zonei nepalpabile de interes. Cea mai frecventă metodă de localizare preoperatorie
+  este localizarea cu ac și fir metalic. Un ac lung care conține un fir de ghidaj
+  cu cârlig este introdus în sân pentru a conduce chirurgul direct la leziune. Cele
+  mai frecvente patru sisteme de localizare cu ac și fir metalic sunt ghidajele pentru
+  biopsie Kopans, Homer (18 gauge), Frank (21 gauge) și Hawkins (20 gauge). Poate
+  fi necesară o mică incizie (1–2 mm) la locul de intrare pentru a facilita introducerea
+  acului de calibru mai mare. Pentru fiecare sistem, acul lung care conține firul
+  cu cârlig este introdus în sân până când vârful acului este adiacent leziunii. Când
+  acul și firul sunt poziționate, acul este retras de-a lungul firului. Cârligul de
+  la capătul firului fixează firul în țesutul mamar. Unii radiologi injectează, de
+  asemenea, o cantitate mică de colorant albastru de metilen pentru a marca vizual
+  locul corect al biopsiei. După localizarea cu ac și fir metalic, pacienta este pansată
+  și transportată în sala de operație pentru biopsia excizională (Fig. 18.75). Chirurgul
+  efectuează apoi incizia de-a lungul firului de ghidaj și îndepărtează țesutul mamar
+  din jurul capătului cu cârlig al firului. Ca alternativă, chirurgul poate alege
+  un loc de incizie care intersectează firul fixat la distanță de punctul de intrare
+  al firului. În mod ideal, radiologul și chirurgul trebuie să revizuiască împreună
+  imaginile de localizare înainte de efectuarea biopsiei excizionale. Metodele mai
+  noi de localizare preoperatorie care utilizează imagistica mamară includ localizarea
+  radioghidată a leziunii oculte (ROLL), localizarea cu semințe de iod radioactiv
+  (RSL) și localizarea radar SAVI Scout (Cianna Medical). Metoda ROLL implică injectarea
+  unui radioizotop în țesutul din zona care urmează să fie excizată. În cazul RSL,
+  o sămânță radioactivă este plasată în țesut prin acul de localizare. Ambele metode
+  necesită ca chirurgul să localizeze țesutul care urmează să fie excizat utilizând
+  o sondă gamma. Rezultatele chirurgicale obținute prin această metodă s-au dovedit
+  similare celor ale localizărilor ghidate prin fir. 35, 36 Metoda SAVI Scout utilizează
+  tehnologia radar. Reflectorul este plasat în țesutul-țintă de către radiolog cu
+  până la 30 de zile înainte de intervenția chirurgicală, folosind ghidaj mamografic
+  sau ecografic. Chirurgul utilizează ghidul SCOUT, care emite un semnal radar, pentru
+  a detecta localizarea reflectorului și a țesutului-țintă. Indicatorii acustici și
+  vizuali în timp real ai consolei radar asistă chirurgul în localizarea cu exactitate
+  a reflectorului și a țesutului-țintă. 37 Aceasta este o metodă de localizare mai
+  nouă și neradioactivă. 38'
+- Se efectuează incidențe mamografice complete de rutină preliminare pentru confirmarea
+  existenței leziunii (Fig. 18.77 și 18.78). Incidențele ortogonale vor fi mai utile
+  pentru vizualizarea localizării exacte a leziunii; prin urmare, incidența MLO poate
+  fi înlocuită cu o incidență de profil la 90 de grade.
+- 'Se obține consimțământul informat după discutarea următoarelor aspecte cu pacienta:
+  1. Explicația completă a procedurii 2. Descrierea completă a problemelor potențiale
+  conform politicii unității: acestea pot include reacție vasovagală, sângerare excesivă,
+  reacție alergică la lidocaină și posibilul eșec al procedurii (rată de eșec de 0%
+  până la 20%). 39–41 3. Răspunsuri la întrebările preliminare ale pacientei'
+- Se poziționează pacienta astfel încât placa de compresie să fie pe suprafața cutanată
+  cea mai apropiată de leziune, conform determinării din imaginile preliminare.
+- I se spune pacientei că nu se va elibera compresia până când acul nu a fost plasat
+  cu succes și că trebuie să stea cât mai nemișcată posibil.
+- Se dezactivează eliberarea automată a paletei de compresie.
+- Se efectuează o expunere preliminară folosind compresia. Marcajele cu cerneală pot
+  fi plasate la colțurile ferestrei paletei sau în câteva dintre orificiile concentrice,
+  la distanță de zona care urmează să fie localizată, pentru a determina dacă pacienta
+  se mișcă în timpul procedurii.
+- Se procesează imaginea fără îndepărtarea compresiei. Imaginea rezultată arată poziția
+  leziunii în raport cu deschiderile plăcii de compresie (Fig. 18.79). Dacă se utilizează
+  o paletă perforată circular, se numără orificiile vizibile pe imagine pentru a determina
+  punctul corect de intrare al acului. Dacă se utilizează un orificiu dreptunghiular,
+  se folosește sistemul de marcaje alfanumerice furnizat împreună cu paleta pentru
+  a determina localizarea leziunii și punctul de intrare al acului.
+- Se curăță pielea sânului de deasupra locului de intrare cu un antiseptic topic.
+  Unii radiologi pot prefera să efectueze acest lucru înainte de compresie.
+- Se aplică anestezic topic, dacă este necesar.
+- Se introduc acul de localizare și firul de ghidaj în sân, perpendicular pe placa
+  de compresie și paralel cu peretele toracic, deplasând acul direct spre leziunea
+  subiacentă. Se avansează acul până la adâncimea estimată a leziunii. Deoarece sânul
+  este comprimat în direcția introducerii acului, este mai bine ca acul să treacă
+  dincolo de leziune decât să rămână înaintea acesteia. Nu se avansează firul de ghidaj
+  în țesut până când adâncimea leziunii nu a fost determinată printr-o incidență ortogonală.
+- Cu acul în poziție, se efectuează expunerea. Se verifică dacă umbra conectorului
+  acului se proiectează direct peste punctul de introducere al acului în timpul expunerii,
+  pentru a indica cu precizie localizarea vârfului. Se eliberează lent placa de compresie,
+  lăsând sistemul ac–fir în poziție. Se obține o incidență suplimentară după ce aparatul
+  cu braț C a fost deplasat cu 90 de grade. (Aceste două radiografii ortogonale sunt
+  utilizate pentru a determina poziția capătului sistemului ac–fir în raport cu profunzimea
+  leziunii.)
+- Dacă acul nu este localizat adiacent sau în aria de interes diagnostic, se repoziționează
+  sistemul ac–fir și se repetă expunerile.
+- Când acul este plasat cu exactitate în leziune, se retrage acul, dar se lasă firul
+  de ghidaj cu cârlig în poziție.
+- Se aplică un pansament de tifon peste sân.
+- 'Se transportă pacienta la intervenția chirurgicală împreună cu imaginile finale
+  de localizare. Localizarea calcificărilor dermice Pentru localizarea calcificărilor
+  dermice nepalpabile sunt necesare două incidențe: (1) incidența de localizare (care
+  depinde de aria de interes diagnostic) și (2) incidența TAN.'
+- Din incidențele CC și MLO de rutină, se determină cadranul în care este localizată
+  aria de interes diagnostic.
+- Se determină ce incidență ar localiza cel mai bine aria de interes diagnostic —
+  CC sau incidența de profil la 90 de grade.
+- Se dezactivează eliberarea automată a compresiei și se informează pacienta că aceasta
+  va fi menținută în timp ce prima imagine este procesată.
+- Folosind compresorul pentru localizare, se poziționează C-brațul și mamografia (sânul)
+  astfel încât deschiderea compresorului să fie poziționată deasupra cadranului de
+  interes.
 - Se aplică progresiv compresia până când glanda mamară este ferm fixată.
-- Se instruiește pacientul să indicate if compression becomes uncomfortable.
-- When full compression este achieved, move AEC detector la appropriate poziție, și
-  Se instruiește pacientul să stop respirație.
+- Se instruiește pacientul să indice dacă compresia devine inconfortabilă.
+- Când compresia completă este obținută, se deplasează detectorul AEC în poziția corespunzătoare
+  și se instruiește pacientul să intre în apnee.
 - Se declanșează expunerea.
-- Do nu release compression. Keep Mamografie (Sân) compressed while initial imagine
-  este processed.
+- Nu eliberați compresia. Mențineți sânul comprimat în timp ce imaginea inițială este
+  procesată.
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mamografie-san-superolateral-to-inferomedial-oblique-sio-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1401-merrill
 source_pages:
@@ -227,342 +246,293 @@ source_pages:
 - 1411
 - 1412
 source_sections:
-  anatomy: 'This incidență shows UIQ și LOQ de breast liber de superimposition. în
-    addition, lesions located în lower inner aspect de breast
-
-    sunt vizualizat cu better recorded detail. This incidență poate also fie used
-    la replace MLO ID incidență în pacienți cu encapsulated implants
+  anatomy: 'Această incidență evidențiază UIQ și LOQ ale sânului, fără suprapuneri.
+    În plus, leziunile situate în partea inferointernă a sânului sunt vizualizate
+    cu detalii mai bine înregistrate. Această incidență poate fi utilizată și pentru
+    înlocuirea incidenței MLO ID la pacientele cu implanturi încapsulate
 
     (Fig. 18.73).'
   cr: '• perpendicular pe receptorul de imagine (RI)
 
-    • C-braț apparatus este poziționat la angle determined prin pacientul’s corp habitus
-    sau tissue composition.'
-  criteria: 'following trebuie să fie clearly vizualizat:
+    • Aparatul cu C-braț este poziționat la un unghi determinat de conformația corporală
+    sau de compoziția țesutului pacientei.'
+  criteria: 'Trebuie să fie vizualizate clar:
+
+    • UIQ și LOQ fără suprapuneri (aceste cadrane se suprapun în incidențele MLO și
+    LMO)
+
+    • Partea inferointernă a sânului vizualizată cu detalii mai bune
+
+    • Mamelonul în profil, dacă este posibil
+
+    • Țesuturile mamare profunde și superficiale bine separate atunci când sânul este
+    mobilizat corespunzător în sus și în afară de peretele toracic
+
+    • Grăsimea retroglandulară bine vizualizată pentru a asigura includerea țesutului
+    mamar fibroglandular profund
+
+    • Expunere uniformă a țesutului dacă compresia este adecvată.
+
+    • Se obțin imediat radiografii cu pacienta poziționată pentru incidențele CC și
+    de profil ale regiunii subareolare, utilizând tehnica de magnificare (vezi Fig.
+    18.74A și B). Dacă este necesar, se pot obține incidențe de magnificare MLO sau
+    CC rotată și MLO rotată pentru a delimita ductele suprapuse.
+
+    • Se utilizează tehnicile de expunere folosite în mamografia generală.
+
+    • Se lasă canula în duct pentru a minimiza scurgerea substanței de contrast în
+    timpul compresiei și pentru a facilita reinjectarea substanței de contrast fără
+    a fi necesară recanularea.
+
+    • Dacă canula este îndepărtată pentru obținerea imaginilor, nu se aplică o compresie
+    viguroasă, deoarece aceasta ar determina expulzarea substanței de contrast.
+
+
+    Localizarea și biopsia leziunilor suspecte
+
+    Aproximativ 80% dintre leziunile nepalpabile identificate prin mamografie nu sunt
+    maligne. Cu toate acestea, o leziune mamară nu poate fi considerată definitiv
+    benignă până când nu a fost evaluată microscopic. Atunci când mamografia identifică
+    o leziune nepalpabilă care justifică biopsia, anomalia trebuie localizată cu precizie,
+    astfel încât să fie îndepărtată cea mai mică cantitate posibilă de țesut mamar
+    pentru evaluarea microscopică, minimizând traumatismul sânului. Această tehnică
+    păstrează cantitatea maximă de țesut mamar normal, cu excepția cazului în care
+    este indicată o intervenție chirurgicală extinsă pe baza rezultatelor patologice.
+
+    Leziunile mamare suspecte pot fi biopsiate prin trei tehnici: (1) FNAB, (2) biopsie
+    cu ac cu miez larg (LCNB) și (3) biopsie chirurgicală deschisă.
+
+    FNAB utilizează un ac gol, de calibru mic, pentru extragerea celulelor tisulare
+    din leziunea suspectă. Localizarea leziunii este identificată de medic prin palpare,
+    ultrasonografie sau ghidaj mamografic ori stereotactic. FNAB poate reduce potențial
+    necesitatea biopsiei chirurgicale excizionale prin identificarea leziunilor benigne
+    și diagnosticarea leziunilor maligne care necesită o intervenție chirurgicală
+    extinsă, în locul biopsiei excizionale.
+
+    LCNB obține probe mici de țesut mamar prin intermediul unui ac gol de calibru
+    mai mare (în general între 9-gauge și 14-gauge), cu un șanț adiacent vârfului
+    acului, utilizând aceleași tehnici de localizare. În timpul acestei proceduri
+    se utilizează frecvent un sistem de aspirație cu vid pentru a trage țesutul-țintă
+    prin șanț în camera de colectare. După obținerea probei tisulare, în sân este
+    plasată adesea, prin ac, o clemă de titan pentru marcarea localizării exacte a
+    biopsiei. Această clemă poate fi utilizată de chirurg pentru localizarea zonei
+    de interes în timpul exciziei chirurgicale deschise sau pentru indicarea zonei
+    biopsiate anterior prin LCNB în timpul unei mamografii ulterioare. Deoarece prin
+    LCNB se obțin probe tisulare mai mari și deoarece rezultatele sunt foarte precise,
+    există suport clinic pentru utilizarea acestei tehnici în locul biopsiei chirurgicale
+    excizionale pentru diagnosticarea patologiei leziunii. LCNB poate fi utilizată
+    cu ghidaj clinic, ecografic, stereotactic și IRM. Metoda utilizată depinde de
+    preferința radiologului și a chirurgului și este determinată de obicei de modalitatea
+    prin care leziunea este cel mai bine vizibilă.
+
+    Atunci când pacienta este candidată pentru biopsie chirurgicală deschisă, localizarea
+    preoperatorie este utilizată pentru localizarea leziunii nepalpabile și pentru
+    ghidarea chirurgului. În prezent sunt utilizate mai multe tipuri de metode de
+    localizare preoperatorie, dar toate necesită asistență imagistică pentru marcarea
+    zonei nepalpabile de interes.
+
+    Cea mai frecventă metodă de localizare preoperatorie este localizarea cu ac și
+    fir metalic. Un ac lung care conține un fir-ghid cu cârlig este introdus în sân
+    pentru a conduce chirurgul direct la leziune. Cele mai frecvente patru sisteme
+    de localizare cu ac și fir metalic sunt ghidajele pentru biopsie Kopans, Homer
+    (18-gauge), Frank (21-gauge) și Hawkins (20-gauge). O mică incizie (1 până la
+    2 mm) la locul de pătrundere poate fi necesară pentru a facilita introducerea
+    acului de calibru mai mare. În fiecare sistem, acul lung care conține firul cu
+    cârlig este introdus în sân până când vârful acului este adiacent leziunii. Când
+    acul și firul sunt poziționate, acul este retras peste fir. Cârligul de la capătul
+    firului ancorează firul în țesutul mamar. Unii radiologi injectează, de asemenea,
+    o cantitate mică de colorant albastru de metilen pentru marcarea vizuală corectă
+    a locului biopsiei. După localizarea cu ac și fir metalic, pacienta este pansată
+    și transportată în sala de operație pentru biopsia excizională (Fig. 18.75). Chirurgul
+    incizează apoi de-a lungul firului-ghid și îndepărtează țesutul mamar din jurul
+    capătului cu cârlig al firului. Alternativ, chirurgul poate alege un loc de incizie
+    care intersectează firul ancorat la distanță de punctul de intrare a firului.
+    În mod ideal, radiologul și chirurgul trebuie să examineze împreună imaginile
+    de localizare înainte de efectuarea biopsiei excizionale.
+
+    Metodele mai noi de localizare preoperatorie care utilizează imagistica sânului
+    includ localizarea radioghidată a leziunilor oculte (ROLL), localizarea cu semințe
+    de iod radioactiv (RSL) și localizarea radar SAVI Scout (Cianna Medical). Metoda
+    ROLL implică injectarea unui radioizotop în țesutul din zona care urmează să fie
+    excizată. În cazul RSL, o sămânță radioactivă este plasată în țesut printr-un
+    ac de localizare. Ambele metode necesită ca chirurgul să localizeze țesutul care
+    urmează să fie excizat utilizând o sondă gamma. Rezultatele chirurgicale obținute
+    prin această metodă s-au dovedit similare celor ale localizărilor ghidate prin
+    fir metalic. 35, 36 Metoda SAVI Scout utilizează tehnologia radar. Reflectorul
+    este plasat în țesutul-țintă de către radiolog cu până la 30 de zile înainte de
+    intervenția chirurgicală, utilizând ghidaj mamografic sau ecografic. Chirurgul
+    utilizează ghidul SCOUT, care emite un semnal radar, pentru a detecta localizarea
+    reflectorului și a țesutului-țintă. Indicatorii auditivi și vizuali în timp real
+    de pe consola radarului ajută chirurgul să localizeze cu precizie reflectorul
+    și țesutul-țintă. 37 Aceasta este o metodă de localizare mai nouă și neradioactivă.
+    38
 
-    • UIQ și LOQ liber de superimposition (these quadrants sunt superimposed pe MLO
-    și LMO incidențe)
+    • Se efectuează incidențe preliminare de rutină ale întregului sân pentru confirmarea
+    existenței leziunii (Fig. 18.77 și 18.78). Incidențele ortogonale vor fi mai utile
+    pentru vizualizarea localizării exacte a leziunii; prin urmare, incidența MLO
+    poate fi înlocuită cu o incidență de profil la 90 de grade.
 
-    • Lower inner aspect de breast visualized cu greater detail
+    • Se obține consimțământul informat după discutarea următoarelor subiecte cu pacienta:
 
-    • Nipple în profile if possible
+    1. Explicația completă a procedurii
 
-    • Deep și superficial breast tissues well separated when breast este adequately
-    maneuvered up și out de la chest perete
+    2. Descrierea completă a problemelor potențiale, conform politicii unității: acestea
+    pot include reacție vasovagală, sângerare excesivă, reacție alergică la lidocaină
+    și posibilul eșec al procedurii (rata de eșec de la 0% la 20%). 39–41
 
-    • Retroglandular fat well visualized la ensure inclusion de deep fibroglandular
-    breast tissue
+    3. Răspunsuri la întrebările preliminare ale pacientei
 
-    • Uniform tissue expunere if compression este adecvat.
+    • Se poziționează pacienta astfel încât placa de compresie să fie pe / sprijinită
+    de suprafața cutanată cea mai apropiată de leziune, așa cum a fost determinat
+    pe imaginile preliminare.
 
-    • Immediately obtain radiografii cu pacientul poziționat pentru CC și lateral
-    incidențe de subareolar region using magnification technique (see Fig. 18.74A
-    și B). If needed, MLO sau rolled CC și rolled MLO magnification incidențe poate
-    fie
+    • I se spune pacientei că nu se va elibera compresia până când acul nu a fost
+    plasat cu succes și că trebuie să stea cât mai nemișcată posibil.
 
-    obtained la resolve superimposed ducts.
+    • Se dezactivează eliberarea automată a compresorului.
 
-    • Employ expunere techniques used în general mammography.
+    • Se efectuează o expunere preliminară cu compresie. Marcajele cu cerneală pot
+    fi plasate la colțurile ferestrei compresorului sau în câteva dintre orificiile
+    concentrice, la distanță de zona care urmează să fie localizată, pentru a determina
+    dacă pacienta se mișcă în timpul procedurii.
 
-    • Leave cannula în duct la minimize leakage de contrast material during compression
-    și la facilitate reinjection de contrast
+    • Se procesează imaginea fără îndepărtarea compresiei. Imaginea rezultată arată
+    unde se află leziunea în raport cu deschiderile plăcii de compresie (Fig. 18.79).
+    Dacă se utilizează un compresor cu orificii circulare, se numără orificiile vizibile
+    pe imagine pentru determinarea punctului corect de pătrundere a acului. Dacă se
+    utilizează un orificiu dreptunghiular, se folosește sistemul de marcaj alfanumeric
+    furnizat împreună cu compresorul pentru determinarea localizării leziunii și a
+    punctului de pătrundere a acului.
 
-    medium fără need pentru recannulation.
+    • Se curăță tegumentul sânului de deasupra locului de pătrundere cu un antiseptic
+    topic. Unii radiologi pot prefera efectuarea acestui lucru înainte de compresie.
 
-    • If cannula este removed pentru imagini, do nu apply vigorous compression because
-    this would cause contrast medium la fie
+    • Se aplică anestezic topic, dacă este necesar.
 
-    expelled.
+    • Se introduc acul de localizare și firul-ghid în sân, perpendicular pe placa
+    de compresie și paralel cu peretele toracic, deplasând acul direct spre leziunea
+    subiacentă. Se avansează acul până la adâncimea estimată a leziunii. Deoarece
+    sânul este comprimat în direcția introducerii acului, este mai bine ca acul să
+    depășească leziunea decât să rămână prea scurt față de leziune. Nu se avansează
+    firul-ghid în țesut până când adâncimea leziunii nu a fost determinată printr-o
+    incidență ortogonală.
 
-    Localization și Biopsy de Suspicious Lesions
+    • Cu acul în poziție, se efectuează o expunere. Se verifică dacă umbra amboului
+    acului se proiectează direct peste punctul de pătrundere a acului în timpul expunerii,
+    pentru a indica precis localizarea vârfului. Se eliberează lent placa de compresie,
+    lăsând sistemul ac-fir în poziție. Se obține o incidență suplimentară după ce
+    aparatul cu C-braț a fost deplasat cu 90 de grade. (Aceste două radiografii ortogonale
+    sunt utilizate pentru determinarea poziției capătului sistemului ac-fir în raport
+    cu adâncimea leziunii.)
 
-    Approximately 80% de nonpalpable lesions identified prin mammography sunt nu malignant.
-    Nonetheless, breast lesion cannot fie definitively
+    • Dacă acul nu este localizat adiacent zonei de interes diagnostic sau în interiorul
+    acesteia, se repoziționează sistemul ac-fir și se repetă expunerile.
 
-    judged benign until it has been microscopically evaluated. When mammography identifies
-    nonpalpable lesion that warrants biopsy, abnormality trebuie să fie accurately
-    located astfel încât smallest amount de breast tissue este removed pentru microscopic
-    evaluation, minimizing trauma la
+    • Când acul este plasat cu precizie în interiorul leziunii, se retrage acul, lăsând
+    firul-ghid cu cârlig în poziție.
 
-    breast. This technique conserves maximal amount de normal breast tissue unless
-    extensive surgery este indicated prin pathologic findings.
+    • Se aplică un pansament de tifon peste sân.
 
-    Suspicious breast lesions poate fie biopsied using three techniques: (1) FNAB,
-    (2) large-core needle biopsy (LCNB), și (3) open surgical biopsy.
+    • Se transportă pacienta la sala de operație împreună cu imaginile finale de localizare.
 
-    FNAB uses hollow small-gauge needle la extract tissue cells de la suspicious lesion.
-    location de lesion este identified prin doctor using
 
-    palpation, ultrasonography, sau mammographic sau stereotactic guidance. FNAB poate
-    potentially decrease need pentru surgical excisional biopsy prin
+    Localizarea calcificărilor dermice
 
-    identifying benign lesions și prin diagnosing malignant lesions that require extensive
-    surgery rather than excisional biopsy.
+    Pentru localizarea calcificărilor dermice nepalpabile sunt necesare două incidențe:
+    (1) incidența de localizare (care depinde de zona de interes) și (2) incidența
+    TAN.
 
-    LCNB obtains small samples de breast tissue prin means de larger-gauge (generally
-    sized între 9-gauge și 14-gauge) hollow needle cu trough adjacent la tip de needle,
-    using same localizing techniques. vacuum suction system este frequently employed
-    during this
+    • Din incidențele CC și MLO de rutină, se determină cadranul în care este localizată
+    zona de interes diagnostic.
 
-    procedure la pull target tissue through trough into collecting chamber. Once tissue
-    sample has been obtained, titanium clip este
+    • Se determină ce incidență ar localiza cel mai bine zona de interes diagnostic
+    — CC sau incidența de profil la 90 de grade.
 
-    often plasat în breast through needle la mark exact location de biopsy. This clip
-    poate fie used prin surgeon la locate area de
+    • Se oprește eliberarea automată a compresiei și se informează pacienta că aceasta
+    va fi menținută în timp ce prima imagine este procesată.
 
-    concern during open surgical excision, sau la indicate area de prior LCNB during
-    subsequent mammography. Because larger tissue samples
-
-    sunt obtained cu LCNB, și because results sunt very precis, clinical support este
-    available pentru use de this technique instead de surgical excisional
-
-    biopsy la diagnose pathology de lesion. LCNB poate fie used cu clinical, ultrasound,
-    stereotactic, și MRI guidance. method used depends
-
-    pe preference de radiologist și surgeon și este typically determined prin modality
-    cu which lesion este most vizibil.
-
-    When pacient este candidate pentru open surgical biopsy, preoperative localization
-    este used la locate și guide surgeon la nonpalpable
-
-    lesion. Several types de preoperative localization methods sunt în use today,
-    but toate require imaging assistance la tag nonpalpable area de
-
-    concern.
-
-    most common method de preoperative localization este needle-wire localization.
-    long needle containing hooked guidewire este inserted
-
-    into breast la lead surgeon directly la lesion. four most common needle-wire localization
-    systems sunt Kopans, Homer (18-
-
-    gauge), Frank (21-gauge), și Hawkins (20-gauge) biopsy guides. small incision
-    (1 la 2 mm) la entry site poate fie necessary la facilitate
-
-    insertion de larger-gauge needle. cu fiecare system, long needle containing hooked
-    wire este inserted into breast until needle’s tip este
-
-    adjacent la lesion. When needle și wire sunt în place, needle este withdrawn over
-    wire. hook pe end de wire anchors wire within breast tissue. Some radiologists
-    also inject small amount de methylene blue dye la label corect biopsy site visually.
-    After
-
-    needle-wire localization, pacientul este bandaged și taken la surgical area pentru
-    excisional biopsy (Fig. 18.75). surgeon then cuts along guidewire și removes breast
-    tissue around wire’s hooked end. Alternatively, surgeon poate choose incision
-    site that intercepts anchored wire distant de la point de wire entry. Ideally,
-    radiologist și surgeon trebuie să review localization imagini together before
-
-    excisional biopsy este performed.
-
-    Newer methods de preoperative localization that utilize breast imaging include
-    radioguided occult lesion localization (ROLL), radioactive
-
-    iodine seed localization (RSL), și SAVI Scout (Cianna Medical) radar localization.
-    ROLL method involves injection de radioisotope
-
-    into tissue în area la fie excised. cu RSL, radioactive seed este plasat în tissue
-    through localizing needle. ambele de these methods
-
-    require surgeon la locate tissue la fie excised using gamma probe. Surgical outcomes
-    cu this method have been found la fie similar la
-
-    those de wire-guided localizations. 35, 36 SAVI Scout method utilizes radar technology.
-    reflector este plasat into target tissue prin radiologist up la 30 days prior
-    la surgery using mammographic sau ultrasound guidance. surgeon uses SCOUT guide,
-    which emits radar signal, la detect location de reflector și target tissue. Real-time
-    audible și visual indicators de la radar console assist surgeon în accurately
-    locating reflector și target tissue. 37 This este newer și nonradioactive method
-    de localization. 38
-
-    • Perform preliminary routine full-breast incidențe la confirm existence de lesion
-    (Figs. 18.77 și 18.78). Orthogonal incidențe will
-
-    fie more helpful în visualizing exact location de lesion; therefore, MLO incidență
-    poate fie replaced prin a 90-grade lateral
-
-    incidență.
-
-    • Obtain informed consent after discussing following topics cu pacientul:
-
-    1. Full explanation de procedure
-
-    2. Full description de potential problems per facility policy: These poate include
-    vasovagal reaction, excessive bleeding, allergic
-
-    reaction la lidocaine, și possible failure de procedure (failure rate de 0% la
-    20%). 39–41
-
-    3. Answers la pacient’s preliminary questions
-
-    • se poziționează pacientul astfel încât compression plate este pe / sprijinit
-    de skin surface cel mai apropiat de lesion ca determined de la preliminary
-
-    imagini.
-
-    • Tell pacientul that compression will nu fie released until needle has been successfully
-    plasat și that pacientul este la hold ca still
-
-    ca possible.
-
-    • Disable automatic release de compression paddle.
-
-    • Make preliminary expunere using compression. Ink marks poate fie plasat la corners
-    de paddle window sau în several de concentric holes away de la area la fie localized
-    la determine whether pacientul moves during procedure.
-
-    • Process imagine fără removing compression. resultant imagine shows where lesion
-    lies în relation la compression plate
-
-    openings (Fig. 18.79). If using circularly fenestrated paddle, count holes vizibil
-    pe imagine la determine correct entry
-
-    point de needle. If using rectangular hole, use alphanumeric marker system supplied
-    cu paddle la determine location de lesion și needle entry point.
-
-    • Clean skin de breast over entry site cu topical antiseptic. Some radiologists
-    poate prefer la do this before compression.
-
-    • Apply topical anesthetic if necessary.
-
-    • Insert localizing needle și guidewire into breast perpendicular pe compression
-    plate și paralel cu chest perete, moving
-
-    needle directly spre underlying lesion. Advance needle la estimated depth de lesion.
-    Because breast este
-
-    compressed în direction de needle’s insertion, it este better la pass beyond lesion
-    than la fie short de lesion. Do nu
-
-    advance guidewire into tissue until depth de lesion has been determined prin orthogonal
-    incidență.
-
-    • cu needle în poziție, make expunere. fie sure that shadow de hub de needle projects
-    directly over insertion
-
-    point de needle during expunere la precisely indicate location de tip. Slowly
-    release compression plate, leaving needle-wire system în place. Obtain additional
-    incidență after C-braț apparatus has been shifted 90 grade. (These two
-
-    orthogonal radiografii sunt used la determine poziție de end de needle-wire relative
-    la depth de lesion.)
-
-    • If needle este nu located adjacent la sau within aria de interes diagnostic,
-    reposition needle-wire, și repeat expuneri.
-
-    • When needle este accurately plasat within lesion, withdraw needle, but leave
-    hooked guidewire în place.
-
-    • Place gauze bandage over breast.
-
-    • Transport pacientul la surgery along cu final localization imagini.
-
-    Localization de dermal calcifications
-
-    pentru localization de nonpalpable dermal calcifications, two incidențe sunt necessary:
-    (1) localization incidență (which depends pe area de
-
-    interest) și (2) TAN incidență.
-
-    • de la routine CC și MLO incidențe, determine quadrant în which aria de interes
-    diagnostic este located.
-
-    • Determine which incidență would best localize aria de interes diagnostic—CC
-    sau 90-grade lateral incidență.
-
-    • Turn de automatic compression release, și inform pacientul that compression
-    will fie continued while first imagine este
-
-    processed.
-
-    • Using localization compression paddle, poziție C-braț și breast astfel încât
-    paddle opening este poziționat over quadrant de
-
-    interest.
+    • Utilizând compresorul pentru localizare, se poziționează C-brațul și sânul astfel
+    încât deschiderea compresorului să fie poziționată deasupra cadranului de interes.
 
     • Se aplică progresiv compresia până când glanda mamară este ferm fixată.
 
-    • Se instruiește pacientul să indicate if compression becomes uncomfortable.
+    • Se instruiește pacienta să indice dacă compresia devine inconfortabilă.
 
-    • When full compression este achieved, move AEC detector la appropriate poziție,
-    și Se instruiește pacientul să stop respirație.
-
-    • Se declanșează expunerea.
-
-    • Do nu release compression. Keep breast compressed while initial imagine este
-    processed.'
-  part_pos: '• se rotește C-braț apparatus astfel încât raza centrală este orientat
-    la angle la enter superior și lateral aspect de afected breast.
-
-    LIQ este adjacent la receptorul de imagine.
-
-    • se ajustează grade de C-braț obliquity according la corp habitus de pacientul,
-    sau, when superolateral la inferomedial oblic
-
-    (SIO) incidență este being used ca additional incidență la imagine area de tissue
-    more clearly fără superimposition de
-
-    surrounding tissue, se ajustează C-braț la grade de angulation required prin radiologist,
-    generally a 20- la 30-grade angle.
-
-    • se ajustează height de C-braț la se poziționează pacientul’s breast over center
-    de receptorul de imagine.
-
-    • Se instruiește pacientul să rest mână de afected side pe handgrip adjacent la
-    receptorul de imagine holder. pacientul’s cot trebuie să fie
-
-    flectat. pentru shallow-înclinat SIO incidențe, braț pe afected side trebuie să
-    lie straight pe / sprijinit de pacient’s side. handgrip este
-
-    held prin mână pe contralateral side.
-
-    • Place upper corner de receptorul de imagine along sternal edge adjacent la upper
-    inner aspect de pacientul’s breast.
-
-    • cu pacientul leaning slightly forward, gently pull ca much medial tissue ca
-    possible away de la sternal edge while menținerea breast up și out. breast trebuie
-    să nu droop. Ensure that pacientul’s back remains straight during positioning,
-    și that pacient does nu lean la side sau spre receptorul de imagine.
-
-    • Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară.
-    Continue la hold breast up și out.
-
-    • Bring compression paddle under afected braț și into contact cu pacientul’s breast
-    while sliding mână spre pacient’s nipple. pentru shallow-înclinat SIO, afected
-    braț la pacientul’s side trebuie să fie bent la cot la avoid superimposition de
-
-    cap humeral over breast tissue.
-
-    • Se aplică progresiv compresia până când glanda mamară este ferm fixată. upper
-    corner de compression paddle trebuie să fie în axilla pentru standard SIO incidență.
-
-    • Se instruiește pacientul să indicate if compression becomes uncomfortable.
-
-    • When full compression este achieved pe standard SIO, help pacientul bring braț
-    up și over cu flectat cot resting pe
-
-    top de receptorul de imagine.
-
-    • Gently pull down pe pacientul’s abdominal tissue la smooth out orice skin folds.
-
-    • Move AEC detector la appropriate poziție și Se instruiește pacientul să stop
-    respirație (Fig. 18.72).
+    • Când compresia completă este obținută, se deplasează detectorul AEC în poziția
+    corespunzătoare și se instruiește pacienta să intre în apnee.
 
     • Se declanșează expunerea.
 
-    • Se decomprimă sânul imediat după efectuarea expunerii.'
-  patient_pos: • Se instruiește pacientul să stand facing receptorul de imagine sau
-    se așază pacientul pe scaun pe adjustable stool facing unit.
+    • Nu se eliberează compresia. Se menține sânul comprimat în timp ce imaginea inițială
+    este procesată.'
+  part_pos: '• se rotește aparatul cu C-braț astfel încât raza centrală să fie orientată
+    la un unghi către aspectul superior și lateral al sânului afectat.
+
+    LIQ este adiacent receptorului de imagine.
+
+    • se ajustează gradul de oblicitate al C-brațului în funcție de conformația pacientului
+    sau, atunci când se utilizează incidența oblică supero-laterală spre infero-medială
+    (SIO) superficial înclinată ca incidență suplimentară pentru a vizualiza mai clar
+    zona de țesut, fără suprapunerea țesuturilor înconjurătoare, se ajustează C-brațul
+    la unghiul de angulare solicitat de radiolog, în general un unghi de 20–30 de
+    grade.
+
+    • se ajustează înălțimea C-brațului pentru a poziționa sânul pacientei peste centrul
+    receptorului de imagine.
+
+    • se instruiește pacienta să-și sprijine mâna de partea afectată pe mânerul adiacent
+    suportului receptorului de imagine. Cotul pacientei trebuie să fie flectat. Pentru
+    incidențele SIO superficial înclinate, brațul de partea afectată trebuie să fie
+    întins pe lângă corpul pacientei sau sprijinit de acesta. Mânerul este ținut cu
+    mâna de partea contralaterală.
+
+    • se plasează colțul superior al receptorului de imagine de-a lungul marginii
+    sternale, adiacent aspectului supero-intern al sânului pacientei.
+
+    • cu pacienta ușor aplecată înainte, se trage ușor cât mai mult țesut medial posibil
+    de la marginea sternală, menținând sânul ridicat și în afară. Sânul nu trebuie
+    să atârne. Se verifică menținerea spatelui pacientei drept în timpul poziționării
+    și faptul că pacienta nu se înclină lateral sau spre receptorul de imagine.
+
+    • se informează pacienta cu privire la aplicarea compresiei asupra glandei mamare.
+    Se continuă menținerea sânului ridicat și în afară.
+
+    • se aduce paleta de compresie sub brațul afectat și în contact cu sânul pacientei,
+    în timp ce mâna alunecă spre mamelonul pacientei. Pentru incidența SIO superficial
+    înclinată, brațul afectat de partea pacientei trebuie flectat la cot pentru a
+    evita suprapunerea capului humeral peste țesutul mamar.
+
+    • se aplică progresiv compresia până când glanda mamară este fixată ferm. Colțul
+    superior al paletei de compresie trebuie să fie în axilă pentru incidența SIO
+    standard.
+
+    • se instruiește pacienta să indice dacă presiunea devine inconfortabilă.
+
+    • când s-a obținut compresia completă pentru SIO standard, se ajută pacienta să
+    ridice brațul și să-l treacă peste receptorul de imagine, cu cotul flectat sprijinit
+    pe acesta.
+
+    • se trage ușor în jos de țesutul abdominal al pacientei pentru a netezi pliurile
+    cutanate.
+
+    • se deplasează detectorul AEC în poziția adecvată și se instruiește pacienta
+    să-și oprească respirația (Fig. 18.72).
+
+    • se declanșează expunerea.
+
+    • sânul se decomprimă imediat după efectuarea expunerii.'
+  patient_pos: • Instruiți pacienta să stea cu fața către receptorul de imagine sau
+    așezați pacienta pe un scaun, pe un taburet reglabil, cu fața către unitate.
 sources:
 - title: Merrill’s Atlas, 18. Mammography, pagini 1401–1412
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Mamografie — Oblică Supero-Laterală spre Infero-Medială (SIO) or 10 × 12
-  inches (24 × 30 cm). (Merrill)
+title: Rx Mamografie — Incidență oblică supero-laterală spre infero-medială (SIO)
+  sau 10 × 12 țoli (24 × 30 cm). (Merrill)
 ---
-# Rx Mamografie — Oblică Supero-Laterală spre Infero-Medială (SIO) or 10 × 12 inches (24 × 30 cm). (Merrill)
+# Rx Mamografie — Incidență oblică supero-laterală spre infero-medială (SIO) sau 10 × 12 țoli (24 × 30 cm). (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -586,17 +556,18 @@ title: Rx Mamografie — Oblică Supero-Laterală spre Infero-Medială (SIO) or 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Sân*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.4 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit.; se rotește C-braț apparatus astfel încât raza centrală este orientat la angle la enter superior și lateral aspect de afected Mamografie (Sân). LIQ este adjacent la receptorul de imagine. se ajustează grade de C-braț obliquity according la corp habitus de pacientul, sau, when superolateral la inferomedial oblic (SIO) incidență este being used ca additional incidență la imagine area de tissue more clearly fără superimposition de surrounding tissue, se ajustează C-braț la grade de angulation required prin radiologist, generally a 20- la 30-grade angle. se ajustează height de C-braț la se poziționează pacientul’s Mamografie (Sân) over center de receptorul de imagine. Se instruiește pacientul să rest Mână de afected side pe handgrip adjacent la receptorul de imagine holder. pacientul’s Cot trebuie să fie flectat. pentru shallow-înclinat SIO incidențe, braț pe afected side trebuie să lie straight pe / sprijinit de pacient’s side. handgrip este held prin Mână pe contralateral side. Place upper corner de receptorul de imagine along sternal edge adjacent la upper inner aspect de pacientul’s Mamografie (Sân). cu pacientul leaning slightly forward, gently pull ca much medial tissue ca possible away de la sternal edge while menținerea Mamografie (Sân) up și out. Mamografie (Sân) trebuie să nu droop. Ensure that pacientul’s back remains straight during positioning, și that pacientul does nu lean la side sau spre receptorul de imagine. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Continue la hold Mamografie (Sân) up și out. Bring compression paddle under afected braț și into contact cu pacientul’s Mamografie (Sân) while sliding Mână spre pacientul’s nipple. pentru shallow-înclinat SIO, afected braț la pacientul’s side trebuie să fie bent la Cot la avoid superimposition de cap humeral over Mamografie (Sân) tissue. Se aplică progresiv compresia până când glanda mamară este ferm fixată. upper corner de compression paddle trebuie să fie în axilla pentru standard SIO incidență. Se instruiește pacientul să indicate if compression becomes uncomfortable. When full compression este achieved pe standard SIO, help pacientul bring braț up și over cu flectat Cot resting pe top de receptorul de imagine. Gently pull down pe pacientul’s abdominal tissue la smooth out orice skin folds. Move AEC detector la appropriate poziție și Se instruiește pacientul să stop respirație (Fig. 18.72). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) C-braț apparatus este poziționat la angle determined prin pacientul’s corp habitus sau tissue composition.
+    - **Poziție Pacient:** Se instruiește pacienta să stea cu fața spre receptorul de imagine sau se așază pacienta pe un scaun, pe un taburet reglabil, cu fața spre aparat; se rotește aparatul cu braț C astfel încât raza centrală să fie orientată la un unghi spre aspectul superior și lateral al sânului afectat. LIQ este adiacent receptorului de imagine. Se ajustează gradul de oblicitate al brațului C în funcție de conformația pacientei sau, atunci când se utilizează incidența oblică supero-laterală spre infero-medială (SIO) ca incidență suplimentară pentru a vizualiza mai clar aria de țesut fără suprapunerea țesuturilor înconjurătoare, se ajustează brațul C la unghiul de angulație necesar de către radiolog, în general un unghi de 20–30 de grade. Se ajustează înălțimea brațului C pentru a poziționa sânul pacientei deasupra centrului receptorului de imagine. Se instruiește pacienta să-și sprijine mâna de partea afectată pe mânerul adiacent suportului receptorului de imagine. Cotul pacientei trebuie să fie flectat. Pentru incidențele SIO cu înclinare redusă, brațul de partea afectată trebuie să fie întins pe lângă corpul pacientei sau sprijinit de acesta. Mânerul este ținut cu mâna de partea contralaterală. Se plasează colțul superior al receptorului de imagine de-a lungul marginii sternale, adiacent aspectului supero-medial al sânului pacientei. Cu pacienta aplecată ușor înainte, se trage ușor cât mai mult țesut medial posibil în afara marginii sternale, menținând sânul în sus și în afară. Sânul nu trebuie să atârne. Se verifică dacă spatele pacientei rămâne drept în timpul poziționării și dacă pacienta nu se înclină în lateral sau spre receptorul de imagine. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Se continuă menținerea sânului în sus și în afară. Se aduce paleta de compresie sub brațul afectat și în contact cu sânul pacientei, în timp ce mâna este deplasată spre mamelonul pacientei. Pentru SIO cu înclinare redusă, brațul afectat, aflat pe lângă corpul pacientei, trebuie flectat la cot pentru a evita suprapunerea capului humeral peste țesutul mamar. Se aplică progresiv compresia până când glanda mamară este fixată ferm. Colțul superior al paletei de compresie trebuie să fie în axilă pentru incidența SIO standard. Se instruiește pacienta să indice dacă compresia devine inconfortabilă. Când se obține compresia completă pentru SIO standard, se ajută pacienta să ridice brațul și să-l treacă peste aparat, cu cotul flectat sprijinit pe partea superioară a receptorului de imagine. Se trage ușor în jos de țesutul abdominal al pacientei pentru a netezi orice pliuri cutanate. Se deplasează detectorul AEC în poziția corespunzătoare și se instruiește pacienta să-și oprească respirația (Fig. 18.72). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine (RI). Aparatul cu braț în C este poziționat la un unghi determinat de conformația corporală sau de compoziția țesutului pacientului.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -619,41 +590,41 @@ title: Rx Mamografie — Oblică Supero-Laterală spre Infero-Medială (SIO) or 
 
     ---
 
-    - following trebuie să fie clearly vizualizat:
-    - UIQ și LOQ liber de superimposition (these quadrants sunt superimposed pe MLO și LMO incidențe)
-    - Lower inner aspect de Mamografie (Sân) visualized cu greater detail
-    - Nipple în profile if possible
-    - Deep și superficial Mamografie (Sân) tissues well separated when Mamografie (Sân) este adequately maneuvered up și out de la Torace perete
-    - Retroglandular fat well visualized la ensure inclusion de deep fibroglandular Mamografie (Sân) tissue
-    - Uniform tissue expunere if compression este adecvat.
-    - Immediately obtain radiografii cu pacientul poziționat pentru CC și lateral incidențe de subareolar region using magnification technique (see Fig. 18.74A și B). If needed, MLO sau rolled CC și rolled MLO magnification incidențe poate fie obtained la resolve superimposed ducts.
-    - Employ expunere techniques used în general Mamografie.
-    - Leave cannula în duct la minimize leakage de contrast material during compression și la facilitate reinjection de contrast medium fără need pentru recannulation.
-    - If cannula este removed pentru imagini, do nu apply vigorous compression because this would cause contrast medium la fie expelled. Localization și Biopsy de Suspicious Lesions Approximately 80% de nonpalpable lesions identified prin Mamografie sunt nu malignant. Nonetheless, Mamografie (Sân) lesion cannot fie definitively judged benign until it has been microscopically evaluated. When Mamografie identifies nonpalpable lesion that warrants biopsy, abnormality trebuie să fie accurately located astfel încât smallest amount de Mamografie (Sân) tissue este removed pentru microscopic evaluation, minimizing Traumatism / Regim Urgență la Mamografie (Sân). This technique conserves maximal amount de normal Mamografie (Sân) tissue unless extensive surgery este indicated prin pathologic findings. Suspicious Mamografie (Sân) lesions poate fie biopsied using three techniques: (1) FNAB, (2) large-core needle biopsy (LCNB), și (3) open surgical biopsy. FNAB uses hollow small-gauge needle la extract tissue cells de la suspicious lesion. location de lesion este identified prin doctor using palpation, ultrasonography, sau mammographic sau stereotactic guidance. FNAB poate potentially decrease need pentru surgical excisional biopsy prin identifying benign lesions și prin diagnosing malignant lesions that require extensive surgery rather than excisional biopsy. LCNB obtains small samples de Mamografie (Sân) tissue prin means de larger-gauge (generally sized între 9-gauge și 14-gauge) hollow needle cu trough adjacent la tip de needle, using same localizing techniques. vacuum suction system este frequently employed during this procedure la pull target tissue through trough into collecting chamber. Once tissue sample has been obtained, titanium clip este often plasat în Mamografie (Sân) through needle la mark exact location de biopsy. This clip poate fie used prin surgeon la locate area de concern during open surgical excision, sau la indicate area de prior LCNB during subsequent Mamografie. Because larger tissue samples sunt obtained cu LCNB, și because results sunt very precis, clinical support este available pentru use de this technique instead de surgical excisional biopsy la diagnose pathology de lesion. LCNB poate fie used cu clinical, ultrasound, stereotactic, și MRI guidance. method used depends pe preference de radiologist și surgeon și este typically determined prin modality cu which lesion este most vizibil. When pacient este candidate pentru open surgical biopsy, preoperative localization este used la locate și guide surgeon la nonpalpable lesion. Several types de preoperative localization methods sunt în use today, but toate require imaging assistance la tag nonpalpable area de concern. most common method de preoperative localization este needle-wire localization. long needle containing hooked guidewire este inserted into Mamografie (Sân) la lead surgeon directly la lesion. four most common needle-wire localization systems sunt Kopans, Homer (18- gauge), Frank (21-gauge), și Hawkins (20-gauge) biopsy guides. small incision (1 la 2 mm) la entry site poate fie necessary la facilitate insertion de larger-gauge needle. cu fiecare system, long needle containing hooked wire este inserted into Mamografie (Sân) until needle’s tip este adjacent la lesion. When needle și wire sunt în place, needle este withdrawn over wire. hook pe end de wire anchors wire within Mamografie (Sân) tissue. Some radiologists also inject small amount de methylene blue dye la label corect biopsy site visually. After needle-wire localization, pacientul este bandaged și taken la surgical area pentru excisional biopsy (Fig. 18.75). surgeon then cuts along guidewire și removes Mamografie (Sân) tissue around wire’s hooked end. Alternatively, surgeon poate choose incision site that intercepts anchored wire distant de la point de wire entry. Ideally, radiologist și surgeon trebuie să review localization imagini together before excisional biopsy este performed. Newer methods de preoperative localization that utilize Mamografie (Sân) imaging include radioguided occult lesion localization (ROLL), radioactive iodine seed localization (RSL), și SAVI Scout (Cianna Medical) radar localization. ROLL method involves injection de radioisotope into tissue în area la fie excised. cu RSL, radioactive seed este plasat în tissue through localizing needle. ambele de these methods require surgeon la locate tissue la fie excised using gamma probe. Surgical outcomes cu this method have been found la fie similar la those de wire-guided localizations. 35, 36 SAVI Scout method utilizes radar technology. reflector este plasat into target tissue prin radiologist up la 30 days prior la surgery using mammographic sau ultrasound guidance. surgeon uses SCOUT guide, which emits radar signal, la detect location de reflector și target tissue. Real-time audible și visual indicators de la radar console assist surgeon în accurately locating reflector și target tissue. 37 This este newer și nonradioactive method de localization. 38
-    - Perform preliminary routine full-Mamografie (Sân) incidențe la confirm existence de lesion (Figs. 18.77 și 18.78). Orthogonal incidențe will fie more helpful în visualizing exact location de lesion; therefore, MLO incidență poate fie replaced prin a 90-grade Incidență de Profil (lateral).
-    - Obtain informed consent after discussing following topics cu pacientul: 1. Full explanation de procedure 2. Full description de potential problems per facility policy: These poate include vasovagal reaction, excessive bleeding, allergic reaction la lidocaine, și possible failure de procedure (failure rate de 0% la 20%). 39–41 3. Answers la pacient’s preliminary questions
-    - se poziționează pacientul astfel încât compression plate este pe / sprijinit de skin surface cel mai apropiat de lesion ca determined de la preliminary imagini.
-    - Tell pacientul that compression will nu fie released until needle has been successfully plasat și that pacientul este la hold ca still ca possible.
-    - Disable automatic release de compression paddle.
-    - Make preliminary expunere using compression. Ink marks poate fie plasat la corners de paddle window sau în several de concentric holes away de la area la fie localized la determine whether pacientul moves during procedure.
-    - Process imagine fără removing compression. resultant imagine shows where lesion lies în relation la compression plate openings (Fig. 18.79). If using circularly fenestrated paddle, count holes vizibil pe imagine la determine correct entry point de needle. If using rectangular hole, use alphanumeric marker system supplied cu paddle la determine location de lesion și needle entry point.
-    - Clean skin de Mamografie (Sân) over entry site cu topical antiseptic. Some radiologists poate prefer la do this before compression.
-    - Apply topical anesthetic if necessary.
-    - Insert localizing needle și guidewire into Mamografie (Sân) perpendicular pe compression plate și paralel cu Torace perete, moving needle directly spre underlying lesion. Advance needle la estimated depth de lesion. Because Mamografie (Sân) este compressed în direction de needle’s insertion, it este better la pass beyond lesion than la fie short de lesion. Do nu advance guidewire into tissue until depth de lesion has been determined prin orthogonal incidență.
-    - cu needle în poziție, make expunere. fie sure that shadow de hub de needle projects directly over insertion point de needle during expunere la precisely indicate location de tip. Slowly release compression plate, leaving needle-wire system în place. Obtain additional incidență after C-braț apparatus has been shifted 90 grade. (These two orthogonal radiografii sunt used la determine poziție de end de needle-wire relative la depth de lesion.)
-    - If needle este nu located adjacent la sau within aria de interes diagnostic, reposition needle-wire, și repeat expuneri.
-    - When needle este accurately plasat within lesion, withdraw needle, but leave hooked guidewire în place.
-    - Place gauze bandage over Mamografie (Sân).
-    - Transport pacientul la surgery along cu final localization imagini. Localization de dermal calcifications pentru localization de nonpalpable dermal calcifications, two incidențe sunt necessary: (1) localization incidență (which depends pe aria de interes diagnostic) și (2) TAN incidență.
-    - de la routine CC și MLO incidențe, determine quadrant în which aria de interes diagnostic este located.
-    - Determine which incidență would best localize aria de interes diagnostic—CC sau 90-grade Incidență de Profil (lateral).
-    - Turn de automatic compression release, și inform pacientul that compression will fie continued while first imagine este processed.
-    - Using localization compression paddle, poziție C-braț și Mamografie (Sân) astfel încât paddle opening este poziționat over quadrant de interest.
+    - Următoarele trebuie să fie clar vizualizate:
+    - UIQ și LOQ libere de suprapunere (aceste cadrane sunt suprapuse în incidențele MLO și LMO)
+    - Aspectul infero-medial al sânului vizualizat cu detalii mai clare
+    - Mamelonul în profil, dacă este posibil
+    - Țesuturile mamare profund și superficial sunt bine separate atunci când sânul este mobilizat adecvat în sus și în afara peretelui toracic
+    - Grăsimea retroglandulară este bine vizualizată pentru a asigura includerea țesutului fibroglandular profund al sânului
+    - Expunere uniformă a țesutului dacă compresia este adecvată.
+    - Se efectuează imediat radiografii cu pacienta poziționată pentru incidențele CC și de profil ale regiunii subareolare, utilizând tehnica de magnificare (vezi Fig. 18.74A și B). Dacă este necesar, se pot efectua incidențe de magnificare MLO sau CC rulată și MLO rulată pentru clarificarea canalelor suprapuse.
+    - Se utilizează tehnicile de expunere folosite în general pentru mamografie.
+    - Se lasă canula în canal pentru a minimiza scurgerea substanței de contrast în timpul compresiei și pentru a facilita reinjectarea substanței de contrast fără a fi necesară recanularea.
+    - Dacă se îndepărtează canula pentru obținerea imaginilor, nu se aplică o compresie viguroasă, deoarece aceasta ar determina expulzarea substanței de contrast. Localizarea și biopsia leziunilor suspecte Aproximativ 80% dintre leziunile nepalpabile identificate prin mamografie nu sunt maligne. Cu toate acestea, o leziune mamară nu poate fi considerată definitiv benignă până când nu a fost evaluată microscopic. Atunci când mamografia identifică o leziune nepalpabilă care justifică biopsia, anomalia trebuie localizată cu exactitate, astfel încât să fie îndepărtată cea mai mică cantitate posibilă de țesut mamar pentru evaluarea microscopică, minimizând traumatismul / regimul de urgență la sân. Această tehnică păstrează cantitatea maximă de țesut mamar normal, cu excepția cazului în care intervenția chirurgicală extinsă este indicată prin rezultatele patologice. Leziunile mamare suspecte pot fi biopsiate prin trei tehnici: (1) FNAB, (2) biopsia cu ac de calibru mare (LCNB) și (3) biopsia chirurgicală deschisă. FNAB utilizează un ac gol, de calibru mic, pentru a extrage celule tisulare din leziunea suspectă. Localizarea leziunii este identificată de medic prin palpare, ultrasonografie sau ghidaj mamografic ori stereotactic. FNAB poate reduce potențial necesitatea biopsiei chirurgicale excizionale prin identificarea leziunilor benigne și diagnosticarea leziunilor maligne care necesită o intervenție chirurgicală extinsă, mai degrabă decât biopsie excizională. LCNB obține probe mici de țesut mamar prin intermediul unui ac gol de calibru mai mare (în general între 9 gauge și 14 gauge), cu o fantă adiacentă vârfului acului, utilizând aceleași tehnici de localizare. În timpul acestei proceduri se utilizează frecvent un sistem de aspirație cu vid pentru a trage țesutul-țintă prin fantă în camera de colectare. După obținerea probei de țesut, se plasează adesea un clip de titan în sân prin ac pentru a marca localizarea exactă a biopsiei. Acest clip poate fi utilizat de chirurg pentru localizarea zonei de interes în timpul exciziei chirurgicale deschise sau pentru indicarea zonei unei LCNB anterioare în timpul unei mamografii ulterioare. Deoarece prin LCNB se obțin probe de țesut mai mari și deoarece rezultatele sunt foarte precise, există suport clinic pentru utilizarea acestei tehnici în locul biopsiei chirurgicale excizionale pentru diagnosticarea patologiei leziunii. LCNB poate fi utilizată cu ghidaj clinic, ecografic, stereotactic și RMN. Metoda utilizată depinde de preferința radiologului și a chirurgului și este determinată de obicei de modalitatea prin care leziunea este cel mai vizibilă. Atunci când pacienta este candidată pentru biopsie chirurgicală deschisă, se utilizează localizarea preoperatorie pentru a localiza leziunea nepalpabilă și pentru a ghida chirurgul. În prezent sunt utilizate mai multe tipuri de metode de localizare preoperatorie, dar toate necesită asistență imagistică pentru marcarea zonei nepalpabile de interes. Cea mai frecventă metodă de localizare preoperatorie este localizarea cu ac și fir metalic. Un ac lung care conține un fir de ghidaj cu cârlig este introdus în sân pentru a conduce chirurgul direct la leziune. Cele mai frecvente patru sisteme de localizare cu ac și fir metalic sunt ghidajele pentru biopsie Kopans, Homer (18 gauge), Frank (21 gauge) și Hawkins (20 gauge). Poate fi necesară o mică incizie (1–2 mm) la locul de intrare pentru a facilita introducerea acului de calibru mai mare. Pentru fiecare sistem, acul lung care conține firul cu cârlig este introdus în sân până când vârful acului este adiacent leziunii. Când acul și firul sunt poziționate, acul este retras de-a lungul firului. Cârligul de la capătul firului fixează firul în țesutul mamar. Unii radiologi injectează, de asemenea, o cantitate mică de colorant albastru de metilen pentru a marca vizual locul corect al biopsiei. După localizarea cu ac și fir metalic, pacienta este pansată și transportată în sala de operație pentru biopsia excizională (Fig. 18.75). Chirurgul efectuează apoi incizia de-a lungul firului de ghidaj și îndepărtează țesutul mamar din jurul capătului cu cârlig al firului. Ca alternativă, chirurgul poate alege un loc de incizie care intersectează firul fixat la distanță de punctul de intrare al firului. În mod ideal, radiologul și chirurgul trebuie să revizuiască împreună imaginile de localizare înainte de efectuarea biopsiei excizionale. Metodele mai noi de localizare preoperatorie care utilizează imagistica mamară includ localizarea radioghidată a leziunii oculte (ROLL), localizarea cu semințe de iod radioactiv (RSL) și localizarea radar SAVI Scout (Cianna Medical). Metoda ROLL implică injectarea unui radioizotop în țesutul din zona care urmează să fie excizată. În cazul RSL, o sămânță radioactivă este plasată în țesut prin acul de localizare. Ambele metode necesită ca chirurgul să localizeze țesutul care urmează să fie excizat utilizând o sondă gamma. Rezultatele chirurgicale obținute prin această metodă s-au dovedit similare celor ale localizărilor ghidate prin fir. 35, 36 Metoda SAVI Scout utilizează tehnologia radar. Reflectorul este plasat în țesutul-țintă de către radiolog cu până la 30 de zile înainte de intervenția chirurgicală, folosind ghidaj mamografic sau ecografic. Chirurgul utilizează ghidul SCOUT, care emite un semnal radar, pentru a detecta localizarea reflectorului și a țesutului-țintă. Indicatorii acustici și vizuali în timp real ai consolei radar asistă chirurgul în localizarea cu exactitate a reflectorului și a țesutului-țintă. 37 Aceasta este o metodă de localizare mai nouă și neradioactivă. 38
+    - Se efectuează incidențe mamografice complete de rutină preliminare pentru confirmarea existenței leziunii (Fig. 18.77 și 18.78). Incidențele ortogonale vor fi mai utile pentru vizualizarea localizării exacte a leziunii; prin urmare, incidența MLO poate fi înlocuită cu o incidență de profil la 90 de grade.
+    - Se obține consimțământul informat după discutarea următoarelor aspecte cu pacienta: 1. Explicația completă a procedurii 2. Descrierea completă a problemelor potențiale conform politicii unității: acestea pot include reacție vasovagală, sângerare excesivă, reacție alergică la lidocaină și posibilul eșec al procedurii (rată de eșec de 0% până la 20%). 39–41 3. Răspunsuri la întrebările preliminare ale pacientei
+    - Se poziționează pacienta astfel încât placa de compresie să fie pe suprafața cutanată cea mai apropiată de leziune, conform determinării din imaginile preliminare.
+    - I se spune pacientei că nu se va elibera compresia până când acul nu a fost plasat cu succes și că trebuie să stea cât mai nemișcată posibil.
+    - Se dezactivează eliberarea automată a paletei de compresie.
+    - Se efectuează o expunere preliminară folosind compresia. Marcajele cu cerneală pot fi plasate la colțurile ferestrei paletei sau în câteva dintre orificiile concentrice, la distanță de zona care urmează să fie localizată, pentru a determina dacă pacienta se mișcă în timpul procedurii.
+    - Se procesează imaginea fără îndepărtarea compresiei. Imaginea rezultată arată poziția leziunii în raport cu deschiderile plăcii de compresie (Fig. 18.79). Dacă se utilizează o paletă perforată circular, se numără orificiile vizibile pe imagine pentru a determina punctul corect de intrare al acului. Dacă se utilizează un orificiu dreptunghiular, se folosește sistemul de marcaje alfanumerice furnizat împreună cu paleta pentru a determina localizarea leziunii și punctul de intrare al acului.
+    - Se curăță pielea sânului de deasupra locului de intrare cu un antiseptic topic. Unii radiologi pot prefera să efectueze acest lucru înainte de compresie.
+    - Se aplică anestezic topic, dacă este necesar.
+    - Se introduc acul de localizare și firul de ghidaj în sân, perpendicular pe placa de compresie și paralel cu peretele toracic, deplasând acul direct spre leziunea subiacentă. Se avansează acul până la adâncimea estimată a leziunii. Deoarece sânul este comprimat în direcția introducerii acului, este mai bine ca acul să treacă dincolo de leziune decât să rămână înaintea acesteia. Nu se avansează firul de ghidaj în țesut până când adâncimea leziunii nu a fost determinată printr-o incidență ortogonală.
+    - Cu acul în poziție, se efectuează expunerea. Se verifică dacă umbra conectorului acului se proiectează direct peste punctul de introducere al acului în timpul expunerii, pentru a indica cu precizie localizarea vârfului. Se eliberează lent placa de compresie, lăsând sistemul ac–fir în poziție. Se obține o incidență suplimentară după ce aparatul cu braț C a fost deplasat cu 90 de grade. (Aceste două radiografii ortogonale sunt utilizate pentru a determina poziția capătului sistemului ac–fir în raport cu profunzimea leziunii.)
+    - Dacă acul nu este localizat adiacent sau în aria de interes diagnostic, se repoziționează sistemul ac–fir și se repetă expunerile.
+    - Când acul este plasat cu exactitate în leziune, se retrage acul, dar se lasă firul de ghidaj cu cârlig în poziție.
+    - Se aplică un pansament de tifon peste sân.
+    - Se transportă pacienta la intervenția chirurgicală împreună cu imaginile finale de localizare. Localizarea calcificărilor dermice Pentru localizarea calcificărilor dermice nepalpabile sunt necesare două incidențe: (1) incidența de localizare (care depinde de aria de interes diagnostic) și (2) incidența TAN.
+    - Din incidențele CC și MLO de rutină, se determină cadranul în care este localizată aria de interes diagnostic.
+    - Se determină ce incidență ar localiza cel mai bine aria de interes diagnostic — CC sau incidența de profil la 90 de grade.
+    - Se dezactivează eliberarea automată a compresiei și se informează pacienta că aceasta va fi menținută în timp ce prima imagine este procesată.
+    - Folosind compresorul pentru localizare, se poziționează C-brațul și mamografia (sânul) astfel încât deschiderea compresorului să fie poziționată deasupra cadranului de interes.
     - Se aplică progresiv compresia până când glanda mamară este ferm fixată.
-    - Se instruiește pacientul să indicate if compression becomes uncomfortable.
-    - When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație.
+    - Se instruiește pacientul să indice dacă compresia devine inconfortabilă.
+    - Când compresia completă este obținută, se deplasează detectorul AEC în poziția corespunzătoare și se instruiește pacientul să intre în apnee.
     - Se declanșează expunerea.
-    - Do nu release compression. Keep Mamografie (Sân) compressed while initial imagine este processed.
+    - Nu eliberați compresia. Mențineți sânul comprimat în timp ce imaginea inițială este procesată.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -662,6 +633,7 @@ title: Rx Mamografie — Oblică Supero-Laterală spre Infero-Medială (SIO) or 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -757,137 +729,3 @@ title: Rx Mamografie — Oblică Supero-Laterală spre Infero-Medială (SIO) or 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 18. Mammography, pagini 1401–1412](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This incidență shows UIQ și LOQ de breast liber de superimposition. în addition, lesions located în lower inner aspect de breast
-sunt vizualizat cu better recorded detail. This incidență poate also fie used la replace MLO ID incidență în pacienți cu encapsulated implants
-(Fig. 18.73).
-
-### cr
-
-• perpendicular pe receptorul de imagine (RI)
-• C-braț apparatus este poziționat la angle determined prin pacientul’s corp habitus sau tissue composition.
-
-### criteria
-
-following trebuie să fie clearly vizualizat:
-• UIQ și LOQ liber de superimposition (these quadrants sunt superimposed pe MLO și LMO incidențe)
-• Lower inner aspect de breast visualized cu greater detail
-• Nipple în profile if possible
-• Deep și superficial breast tissues well separated when breast este adequately maneuvered up și out de la chest perete
-• Retroglandular fat well visualized la ensure inclusion de deep fibroglandular breast tissue
-• Uniform tissue expunere if compression este adecvat.
-• Immediately obtain radiografii cu pacientul poziționat pentru CC și lateral incidențe de subareolar region using magnification technique (see Fig. 18.74A și B). If needed, MLO sau rolled CC și rolled MLO magnification incidențe poate fie
-obtained la resolve superimposed ducts.
-• Employ expunere techniques used în general mammography.
-• Leave cannula în duct la minimize leakage de contrast material during compression și la facilitate reinjection de contrast
-medium fără need pentru recannulation.
-• If cannula este removed pentru imagini, do nu apply vigorous compression because this would cause contrast medium la fie
-expelled.
-Localization și Biopsy de Suspicious Lesions
-Approximately 80% de nonpalpable lesions identified prin mammography sunt nu malignant. Nonetheless, breast lesion cannot fie definitively
-judged benign until it has been microscopically evaluated. When mammography identifies nonpalpable lesion that warrants biopsy, abnormality trebuie să fie accurately located astfel încât smallest amount de breast tissue este removed pentru microscopic evaluation, minimizing trauma la
-breast. This technique conserves maximal amount de normal breast tissue unless extensive surgery este indicated prin pathologic findings.
-Suspicious breast lesions poate fie biopsied using three techniques: (1) FNAB, (2) large-core needle biopsy (LCNB), și (3) open surgical biopsy.
-FNAB uses hollow small-gauge needle la extract tissue cells de la suspicious lesion. location de lesion este identified prin doctor using
-palpation, ultrasonography, sau mammographic sau stereotactic guidance. FNAB poate potentially decrease need pentru surgical excisional biopsy prin
-identifying benign lesions și prin diagnosing malignant lesions that require extensive surgery rather than excisional biopsy.
-LCNB obtains small samples de breast tissue prin means de larger-gauge (generally sized între 9-gauge și 14-gauge) hollow needle cu trough adjacent la tip de needle, using same localizing techniques. vacuum suction system este frequently employed during this
-procedure la pull target tissue through trough into collecting chamber. Once tissue sample has been obtained, titanium clip este
-often plasat în breast through needle la mark exact location de biopsy. This clip poate fie used prin surgeon la locate area de
-concern during open surgical excision, sau la indicate area de prior LCNB during subsequent mammography. Because larger tissue samples
-sunt obtained cu LCNB, și because results sunt very precis, clinical support este available pentru use de this technique instead de surgical excisional
-biopsy la diagnose pathology de lesion. LCNB poate fie used cu clinical, ultrasound, stereotactic, și MRI guidance. method used depends
-pe preference de radiologist și surgeon și este typically determined prin modality cu which lesion este most vizibil.
-When pacient este candidate pentru open surgical biopsy, preoperative localization este used la locate și guide surgeon la nonpalpable
-lesion. Several types de preoperative localization methods sunt în use today, but toate require imaging assistance la tag nonpalpable area de
-concern.
-most common method de preoperative localization este needle-wire localization. long needle containing hooked guidewire este inserted
-into breast la lead surgeon directly la lesion. four most common needle-wire localization systems sunt Kopans, Homer (18-
-gauge), Frank (21-gauge), și Hawkins (20-gauge) biopsy guides. small incision (1 la 2 mm) la entry site poate fie necessary la facilitate
-insertion de larger-gauge needle. cu fiecare system, long needle containing hooked wire este inserted into breast until needle’s tip este
-adjacent la lesion. When needle și wire sunt în place, needle este withdrawn over wire. hook pe end de wire anchors wire within breast tissue. Some radiologists also inject small amount de methylene blue dye la label corect biopsy site visually. After
-needle-wire localization, pacientul este bandaged și taken la surgical area pentru excisional biopsy (Fig. 18.75). surgeon then cuts along guidewire și removes breast tissue around wire’s hooked end. Alternatively, surgeon poate choose incision site that intercepts anchored wire distant de la point de wire entry. Ideally, radiologist și surgeon trebuie să review localization imagini together before
-excisional biopsy este performed.
-Newer methods de preoperative localization that utilize breast imaging include radioguided occult lesion localization (ROLL), radioactive
-iodine seed localization (RSL), și SAVI Scout (Cianna Medical) radar localization. ROLL method involves injection de radioisotope
-into tissue în area la fie excised. cu RSL, radioactive seed este plasat în tissue through localizing needle. ambele de these methods
-require surgeon la locate tissue la fie excised using gamma probe. Surgical outcomes cu this method have been found la fie similar la
-those de wire-guided localizations. 35, 36 SAVI Scout method utilizes radar technology. reflector este plasat into target tissue prin radiologist up la 30 days prior la surgery using mammographic sau ultrasound guidance. surgeon uses SCOUT guide, which emits radar signal, la detect location de reflector și target tissue. Real-time audible și visual indicators de la radar console assist surgeon în accurately locating reflector și target tissue. 37 This este newer și nonradioactive method de localization. 38
-• Perform preliminary routine full-breast incidențe la confirm existence de lesion (Figs. 18.77 și 18.78). Orthogonal incidențe will
-fie more helpful în visualizing exact location de lesion; therefore, MLO incidență poate fie replaced prin a 90-grade lateral
-incidență.
-• Obtain informed consent after discussing following topics cu pacientul:
-1. Full explanation de procedure
-2. Full description de potential problems per facility policy: These poate include vasovagal reaction, excessive bleeding, allergic
-reaction la lidocaine, și possible failure de procedure (failure rate de 0% la 20%). 39–41
-3. Answers la pacient’s preliminary questions
-• se poziționează pacientul astfel încât compression plate este pe / sprijinit de skin surface cel mai apropiat de lesion ca determined de la preliminary
-imagini.
-• Tell pacientul that compression will nu fie released until needle has been successfully plasat și that pacientul este la hold ca still
-ca possible.
-• Disable automatic release de compression paddle.
-• Make preliminary expunere using compression. Ink marks poate fie plasat la corners de paddle window sau în several de concentric holes away de la area la fie localized la determine whether pacientul moves during procedure.
-• Process imagine fără removing compression. resultant imagine shows where lesion lies în relation la compression plate
-openings (Fig. 18.79). If using circularly fenestrated paddle, count holes vizibil pe imagine la determine correct entry
-point de needle. If using rectangular hole, use alphanumeric marker system supplied cu paddle la determine location de lesion și needle entry point.
-• Clean skin de breast over entry site cu topical antiseptic. Some radiologists poate prefer la do this before compression.
-• Apply topical anesthetic if necessary.
-• Insert localizing needle și guidewire into breast perpendicular pe compression plate și paralel cu chest perete, moving
-needle directly spre underlying lesion. Advance needle la estimated depth de lesion. Because breast este
-compressed în direction de needle’s insertion, it este better la pass beyond lesion than la fie short de lesion. Do nu
-advance guidewire into tissue until depth de lesion has been determined prin orthogonal incidență.
-• cu needle în poziție, make expunere. fie sure that shadow de hub de needle projects directly over insertion
-point de needle during expunere la precisely indicate location de tip. Slowly release compression plate, leaving needle-wire system în place. Obtain additional incidență after C-braț apparatus has been shifted 90 grade. (These two
-orthogonal radiografii sunt used la determine poziție de end de needle-wire relative la depth de lesion.)
-• If needle este nu located adjacent la sau within aria de interes diagnostic, reposition needle-wire, și repeat expuneri.
-• When needle este accurately plasat within lesion, withdraw needle, but leave hooked guidewire în place.
-• Place gauze bandage over breast.
-• Transport pacientul la surgery along cu final localization imagini.
-Localization de dermal calcifications
-pentru localization de nonpalpable dermal calcifications, two incidențe sunt necessary: (1) localization incidență (which depends pe area de
-interest) și (2) TAN incidență.
-• de la routine CC și MLO incidențe, determine quadrant în which aria de interes diagnostic este located.
-• Determine which incidență would best localize aria de interes diagnostic—CC sau 90-grade lateral incidență.
-• Turn de automatic compression release, și inform pacientul that compression will fie continued while first imagine este
-processed.
-• Using localization compression paddle, poziție C-braț și breast astfel încât paddle opening este poziționat over quadrant de
-interest.
-• Se aplică progresiv compresia până când glanda mamară este ferm fixată.
-• Se instruiește pacientul să indicate if compression becomes uncomfortable.
-• When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație.
-• Se declanșează expunerea.
-• Do nu release compression. Keep breast compressed while initial imagine este processed.
-
-### part_pos
-
-• se rotește C-braț apparatus astfel încât raza centrală este orientat la angle la enter superior și lateral aspect de afected breast.
-LIQ este adjacent la receptorul de imagine.
-• se ajustează grade de C-braț obliquity according la corp habitus de pacientul, sau, when superolateral la inferomedial oblic
-(SIO) incidență este being used ca additional incidență la imagine area de tissue more clearly fără superimposition de
-surrounding tissue, se ajustează C-braț la grade de angulation required prin radiologist, generally a 20- la 30-grade angle.
-• se ajustează height de C-braț la se poziționează pacientul’s breast over center de receptorul de imagine.
-• Se instruiește pacientul să rest mână de afected side pe handgrip adjacent la receptorul de imagine holder. pacientul’s cot trebuie să fie
-flectat. pentru shallow-înclinat SIO incidențe, braț pe afected side trebuie să lie straight pe / sprijinit de pacient’s side. handgrip este
-held prin mână pe contralateral side.
-• Place upper corner de receptorul de imagine along sternal edge adjacent la upper inner aspect de pacientul’s breast.
-• cu pacientul leaning slightly forward, gently pull ca much medial tissue ca possible away de la sternal edge while menținerea breast up și out. breast trebuie să nu droop. Ensure that pacientul’s back remains straight during positioning, și that pacient does nu lean la side sau spre receptorul de imagine.
-• Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Continue la hold breast up și out.
-• Bring compression paddle under afected braț și into contact cu pacientul’s breast while sliding mână spre pacient’s nipple. pentru shallow-înclinat SIO, afected braț la pacientul’s side trebuie să fie bent la cot la avoid superimposition de
-cap humeral over breast tissue.
-• Se aplică progresiv compresia până când glanda mamară este ferm fixată. upper corner de compression paddle trebuie să fie în axilla pentru standard SIO incidență.
-• Se instruiește pacientul să indicate if compression becomes uncomfortable.
-• When full compression este achieved pe standard SIO, help pacientul bring braț up și over cu flectat cot resting pe
-top de receptorul de imagine.
-• Gently pull down pe pacientul’s abdominal tissue la smooth out orice skin folds.
-• Move AEC detector la appropriate poziție și Se instruiește pacientul să stop respirație (Fig. 18.72).
-• Se declanșează expunerea.
-• Se decomprimă sânul imediat după efectuarea expunerii.
-
-### patient_pos
-
-• Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit.
-

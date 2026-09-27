@@ -4,11 +4,11 @@ breathing: Nemodificată
 category: membru-superior
 centering: Capul metacarpianului III
 clinical_indications:
-- 'Traumatisme ale mâinii, fracturi de metacarpiene (ex: fractura boxerului - metacarpian
-  V)'
+- Traumatisme ale mâinii, fracturi de metacarpiene (de exemplu, fractura boxerului
+  — metacarpianul V)
 - Fracturi și luxații ale falangelor
-- Evaluare artrită reumatoidă (eroziuni periarticulare, pensări fante)
-- Suspiciune corp străin radioopac în părțile moi ale mâinii
+- Evaluarea artritei reumatoide (eroziuni periarticulare, îngustarea fantelor)
+- Suspiciune de corp străin radioopac în părțile moi ale mâinii
 iris_reference:
   chapter: Aparat locomotor & Membru superior
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
@@ -16,17 +16,17 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: Pentru un deget izolat (police, index etc.), se recomandă incidențe dedicate
-  de deget (Față + Profil strict) pentru o rezoluție optimă.
-position: '1) PA (Față): palma complet etalată pe detector, degetele ușor depărtate;
+  degetului (față + profil strict) pentru o rezoluție optimă.
+position: '1) PA (față): palma complet etalată pe detector, degetele ușor depărtate;
   2) Semioblică (la 45°): mâna sprijinită pe un burete unghiular de spumă pentru separarea
   falangelor'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare strictă la conturul cutanat al mâinii
 quality_criteria:
-- Includerea completă carpiencelor distale, metacarpienelor și tuturor falangelor
-- Fantele articulare interfalangiene și metacarpo-falangiene clar vizibile și deschise
+- Includerea completă a carpienelor distale, metacarpienelor și tuturor falangelor
+- Fantele articulare interfalangiene și metacarpofalangiene clar vizibile și deschise
 - 'Pe incidența oblică: metacarpienele și falangele sunt proiectate fără suprapunere
   excesivă'
 sid_dff: 100 cm
@@ -55,15 +55,15 @@ sources:
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Manual
-  collimation: De la articulația pumnului la extremitatea distală degetelor
+  collimation: De la articulația pumnului până la extremitatea distală a degetelor
   filtration: Totală ≥ 2.5 mm Al
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă antidifuzoare
   kv: 50 - 55
   mas: 2 - 3 (fără grilă)
-title: Rx Mână & Degete (Față & Oblică)
+title: Rx mână și degete (față și oblică)
 ---
-# Rx Mână & Degete (Față & Oblică)
+# Rx mână și degete (față și oblică)
 
 
 <div class="rx-meta-bar">
@@ -82,10 +82,10 @@ title: Rx Mână & Degete (Față & Oblică)
 
     === "Indicații Clinice"
 
-        - Traumatisme ale mâinii, fracturi de metacarpiene (ex: fractura boxerului - metacarpian V)
+        - Traumatisme ale mâinii, fracturi de metacarpiene (de exemplu, fractura boxerului — metacarpianul V)
         - Fracturi și luxații ale falangelor
-        - Evaluare artrită reumatoidă (eroziuni periarticulare, pensări fante)
-        - Suspiciune corp străin radioopac în părțile moi ale mâinii
+        - Evaluarea artritei reumatoide (eroziuni periarticulare, îngustarea fantelor)
+        - Suspiciune de corp străin radioopac în părțile moi ale mâinii
 
     === "Ghid Național IRIS"
 
@@ -95,11 +95,12 @@ title: Rx Mână & Degete (Față & Oblică)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** 1) PA (Față): palma complet etalată pe detector, degetele ușor depărtate; 2) Semioblică (la 45°): mâna sprijinită pe un burete unghiular de spumă pentru separarea falangelor
+    - **Poziție Pacient:** 1) PA (față): palma complet etalată pe detector, degetele ușor depărtate; 2) Semioblică (la 45°): mâna sprijinită pe un burete unghiular de spumă pentru separarea falangelor
     - **Punct de Centrare Fascicul:** Capul metacarpianului III
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Nemodificată
@@ -116,28 +117,29 @@ title: Rx Mână & Degete (Față & Oblică)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă antidifuzoare |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Manual |
-    | **Colimare Fascicul** | De la articulația pumnului la extremitatea distală degetelor |
+    | **Colimare Fascicul** | De la articulația pumnului până la extremitatea distală a degetelor |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Includerea completă carpiencelor distale, metacarpienelor și tuturor falangelor
-    - Fantele articulare interfalangiene și metacarpo-falangiene clar vizibile și deschise
+    - Includerea completă a carpienelor distale, metacarpienelor și tuturor falangelor
+    - Fantele articulare interfalangiene și metacarpofalangiene clar vizibile și deschise
     - Pe incidența oblică: metacarpienele și falangele sunt proiectate fără suprapunere excesivă
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare strictă la conturul cutanat al mâinii
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Pentru un deget izolat (police, index etc.), se recomandă incidențe dedicate de deget (Față + Profil strict) pentru o rezoluție optimă.
+    Pentru un deget izolat (police, index etc.), se recomandă incidențe dedicate degetului (față + profil strict) pentru o rezoluție optimă.
 
 === "Ghid Rapid de Execuție"
 

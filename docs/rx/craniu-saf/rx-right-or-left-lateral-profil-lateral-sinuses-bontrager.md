@@ -24,6 +24,10 @@ images:
   description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.188
     profil sinusuri. (Modificat după Curtis T: Curs online)'
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-sinuses-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Pentru vizualizarea nivelurilor aer-lichid este necesară poziția în ortostatism
@@ -111,11 +115,12 @@ title: Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (SINUSURI)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -161,6 +166,7 @@ title: Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (SINUSURI)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pentru vizualizarea nivelurilor aer-lichid este necesară poziția în ortostatism cu fascicul orizontal. Lichidul din cavitățile sinusurilor paranazale este vâscos și gelatinos, ceea ce îl face să adere la pereții cavității. Pentru vizualizarea acestui lichid, lăsați un timp scurt (cel puțin 5 minute) pentru sedimentarea lichidului după schimbarea poziției pacientului (de exemplu, din decubit în ortostatism). Dacă pacientul nu poate fi așezat în ortostatism, imaginea poate fi obținută folosind un fascicul orizontal, similar cu incidența laterală pentru traumatism acut / regim de urgență al masivului facial (oaselor feței), după cum este descris în capitolul 15. SINUSURI DE RUTINĂ profil PA (incidență occipito-frontală (metoda Caldwell)) Parietoacantial (incidență occipito-mentonieră (metoda Waters)) Fig. 11.186 profil stâng al sinusurilor în ortostatism (pe dispozitivul de imagistică pentru ortostatism).

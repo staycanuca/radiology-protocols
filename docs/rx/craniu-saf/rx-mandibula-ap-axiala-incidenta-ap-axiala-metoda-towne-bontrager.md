@@ -5,7 +5,7 @@ category: craniu-saf
 centering: Raza centrală se înclină cu 35° caudal (spre picioare) dacă linia orbitomeatală
   (LOM) este perpendiculară pe receptorul de imagine sau cu 42° caudal dacă linia
   infraorbitomeatală (LIOM) este perpendiculară pe receptorul de imagine (vezi NOTA).
-  Se centrează raza centrală la 1 inch (2,5 cm) superior de glabelă. Receptorul de
+  Se centrează raza centrală la 1 țol (2,5 cm) superior de glabelă. Receptorul de
   imagine se centrează pe raza centrală.
 clinical_indications:
 - Suspiciune de fractură
@@ -25,6 +25,10 @@ images:
     AP axială—raza centrală de la 35° la 40° față de linia orbitomeatală (LOM), în
     ortostatism și în decubit dorsal (casetă inserată).)
   url: assets/images/protocols/bontrager/rx-mandibula-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Dacă pacientul nu poate aduce linia orbitomeatală (LOM) în poziție perpendiculară
@@ -104,17 +108,18 @@ title: Mandibulă AP axială (incidență AP axială (metoda Towne))
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Poziția pacientului este ortostatism sau decubit dorsal. Regiune anatomică: Se sprijină partea posterioară a craniului pacientului pe masă/suprafața dispozitivului de imagistică în ortostatism. Se retrage bărbia, aliniind linia orbitomeatală (LOM) perpendicular pe receptorul de imagine sau poziționând linia infraorbitomeatală (LIOM) perpendicular, apoi se ajustează corespunzător unghiul razei centrale (vezi NOTA). Se aliniază MsP perpendicular pe linia mediană a grilei sau pe suprafața mesei/dispozitivului de imagistică în ortostatism, pentru a preveni rotația sau înclinarea capului.
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 35° caudal (spre picioare) dacă linia orbitomeatală (LOM) este perpendiculară pe receptorul de imagine sau cu 42° caudal dacă linia infraorbitomeatală (LIOM) este perpendiculară pe receptorul de imagine (vezi NOTA). Se centrează raza centrală la 1 inch (2,5 cm) superior de glabelă. Receptorul de imagine se centrează pe raza centrală.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 35° caudal (spre picioare) dacă linia orbitomeatală (LOM) este perpendiculară pe receptorul de imagine sau cu 42° caudal dacă linia infraorbitomeatală (LIOM) este perpendiculară pe receptorul de imagine (vezi NOTA). Se centrează raza centrală la 1 țol (2,5 cm) superior de glabelă. Receptorul de imagine se centrează pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -152,6 +157,7 @@ title: Mandibulă AP axială (incidență AP axială (metoda Towne))
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Dacă pacientul nu poate aduce linia orbitomeatală (LOM) în poziție perpendiculară pe receptorul de imagine, se aliniază linia infraorbitomeatală (LIOM) perpendicular și se mărește unghiul razei centrale de 35° cu 7°, până la 42° caudal (Fig. 11.163). Dacă regiunea de interes diagnostic este reprezentată de fosele TM, se mărește unghiul razei centrale la 40° față de linia orbitomeatală (LOM) pentru a reduce suprapunerea foselor TM și a porțiunilor mastoidiene ale osului temporal. Mandibulă, tehnică de rutină, axiolaterală oblică PA (sau PA axială); AP axială (incidență AP axială (metoda Towne))

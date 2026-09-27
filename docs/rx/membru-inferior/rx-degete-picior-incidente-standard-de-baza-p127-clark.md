@@ -3,30 +3,33 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• vertical ray este centred over first metatarso-phalangeal articulație
-  if toate Degete Picior sunt la fie imaged și înclinat sufficiently la allow raza
-  centrală la pass through third articulații metatarsofalangiene (MTF).
+centering: '• Raza verticală este centrată deasupra primei articulații metatarsofalangiene
+  dacă toate degetele de la picior trebuie examinate și este înclinată suficient pentru
+  a permite trecerea razei centrale prin a treia articulație metatarsofalangiană (MTF).
 
-  • pentru single Degete Picior, vertical ray este centred over articulații metatarsofalangiene
-  (MTF) de individual toe, perpendicular pe casetă.
+  • Pentru un singur deget de la picior, raza verticală este centrată deasupra articulației
+  metatarsofalangiene (MTF) a degetului individual, perpendicular pe casetă.
 
-  112 Normal Dorso-Plantară incidență de toate Degete Picior Collimated Dorso-Plantară
-  Oblică incidență de fifth toe, evidențiind suspiciune de fractură de proximal phalanx'
+  112 Incidență dorso-plantară normală a tuturor degetelor de la picior Incidență
+  dorso-plantară oblică colimată a degetului al cincilea, evidențiind suspiciunea
+  de fractură a falangei proximale'
 clinical_indications:
-- Evaluare radiografică regiunii Degete Picior (Incidențe Standard de Bază).
+- Evaluarea radiografică a regiunii degetelor de la picior (incidențe standard de
+  bază).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: casetă. Profil (lateral) incidență este taken pentru suspiciune de fractură
-    de hallux
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Casetă. Incidența de profil (laterală) este efectuată pentru suspiciunea
+    de fractură a halucelui.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_1.jpeg
-- caption: Normal Dorso-Plantară incidență de toate Degete Picior
+- caption: Incidență dorso-plantară normală a tuturor degetelor de la picior
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_2.jpeg
-- caption: Collimated Dorso-Plantară Oblică incidență de fifth toe, evidențiind suspiciune
-    de fractură
+- caption: Incidență dorso-plantară oblică colimată a degetului al cincilea, evidențiind
+    suspiciunea de fractură
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_3.jpeg
@@ -34,14 +37,19 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• de la basic Dorso-Plantară poziție, affected limb este allowed la lean
-  medially la bring plantar surface de Picior approximately 45 grade la caseta.
+position: '• Din poziția dorso-plantară de bază, membrul afectat este lăsat să se
+  încline medial pentru a aduce suprafața plantară a piciorului la aproximativ 45
+  de grade față de casetă.
 
-  • A 45-grade non-opaque pad este plasat under side de Picior pentru support, cu
-  opposite membru inferior acting ca support.'
+  • Un suport neopac de 45 de grade este plasat sub partea laterală a piciorului pentru
+  sprijin, membrul inferior opus acționând ca suport.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -50,7 +58,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Degete Picior).
+- Vizualizarea clară a întregii arii anatomice (degetele de la picior).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -62,11 +70,11 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
+  mas: Conform AEC / grosimii anatomice
 title: Rx Degete Picior Incidențe Standard de Bază
 ---
 # Rx Degete Picior Incidențe Standard de Bază
@@ -88,27 +96,29 @@ title: Rx Degete Picior Incidențe Standard de Bază
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Degete Picior (Incidențe Standard de Bază).
+        - Evaluarea radiografică a regiunii degetelor de la picior (incidențe standard de bază).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • de la basic Dorso-Plantară poziție, affected limb este allowed la lean medially la bring plantar surface de Picior approximately 45 grade la caseta.
-• A 45-grade non-opaque pad este plasat under side de Picior pentru support, cu opposite membru inferior acting ca support.
-    - **Punct de Centrare Fascicul:** • vertical ray este centred over first metatarso-phalangeal articulație if toate Degete Picior sunt la fie imaged și înclinat sufficiently la allow raza centrală la pass through third articulații metatarsofalangiene (MTF).
-• pentru single Degete Picior, vertical ray este centred over articulații metatarsofalangiene (MTF) de individual toe, perpendicular pe casetă.
-112 Normal Dorso-Plantară incidență de toate Degete Picior Collimated Dorso-Plantară Oblică incidență de fifth toe, evidențiind suspiciune de fractură de proximal phalanx
+    - **Poziție Pacient:**
+        - Din poziția dorso-plantară de bază, membrul afectat este lăsat să se încline medial pentru a aduce suprafața plantară a piciorului la aproximativ 45 de grade față de casetă.
+        - Un suport neopac de 45 de grade este plasat sub partea laterală a piciorului pentru sprijin, membrul inferior opus acționând ca suport.
+    - **Punct de Centrare Fascicul:**
+        - Raza verticală este centrată deasupra primei articulații metatarsofalangiene dacă toate degetele de la picior trebuie examinate și este înclinată suficient pentru a permite trecerea razei centrale prin a treia articulație metatarsofalangiană (MTF).
+        - Pentru un singur deget de la picior, raza verticală este centrată deasupra articulației metatarsofalangiene (MTF) a degetului individual, perpendicular pe casetă. 112 Incidență dorso-plantară normală a tuturor degetelor de la picior Incidență dorso-plantară oblică colimată a degetului al cincilea, evidențiind suspiciunea de fractură a falangei proximale
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -119,19 +129,19 @@ title: Rx Degete Picior Incidențe Standard de Bază
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Degete Picior).
+    - Vizualizarea clară a întregii arii anatomice (degetele de la picior).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -145,6 +155,7 @@ title: Rx Degete Picior Incidențe Standard de Bază
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -155,25 +166,25 @@ title: Rx Degete Picior Incidențe Standard de Bază
 
 <figure class="protocol-image-card" markdown>
 
-![casetă. Profil (lateral) incidență este taken pentru suspiciune de fractură de hallux](../../assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_1.jpeg)
+![Casetă. Incidența de profil (laterală) este efectuată pentru suspiciunea de fractură a halucelui.](../../assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_1.jpeg)
 
-<figcaption><strong>casetă. Profil (lateral) incidență este taken pentru suspiciune de fractură de hallux</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Normal Dorso-Plantară incidență de toate Degete Picior](../../assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_2.jpeg)
-
-<figcaption><strong>Normal Dorso-Plantară incidență de toate Degete Picior</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Casetă. Incidența de profil (laterală) este efectuată pentru suspiciunea de fractură a halucelui.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Collimated Dorso-Plantară Oblică incidență de fifth toe, evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_3.jpeg)
+![Incidență dorso-plantară normală a tuturor degetelor de la picior](../../assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_2.jpeg)
 
-<figcaption><strong>Collimated Dorso-Plantară Oblică incidență de fifth toe, evidențiind suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență dorso-plantară normală a tuturor degetelor de la picior</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Incidență dorso-plantară oblică colimată a degetului al cincilea, evidențiind suspiciunea de fractură](../../assets/images/protocols/clark/rx-degete-picior-incidente-standard-de-baza-p127-clark/fig_3.jpeg)
+
+<figcaption><strong>Incidență dorso-plantară oblică colimată a degetului al cincilea, evidențiind suspiciunea de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

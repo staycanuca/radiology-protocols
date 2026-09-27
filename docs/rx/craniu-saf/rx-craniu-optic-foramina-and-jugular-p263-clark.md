@@ -35,6 +35,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-optic-foramina-and-jugular-p263-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -100,22 +104,24 @@ title: 'Radiografia craniului: foramenele optice și jugulare'
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit ventral sau, mai frecvent, în ortostatism, cu nasul, obrazul și bărbia de pe partea examinată în contact cu Bucky sau cu masa pentru casetă.
-• Centrul orbitei de pe partea examinată trebuie să coincidă cu centrul Bucky sau al mesei pentru casetă.
-• Planul mediosagital este ajustat pentru a forma un unghi de 35 grade față de verticală (55 grade față de masa de examinare).
-• Linia de bază orbitomeatală este ridicată la 35 grade față de orizontală.
-    - **Punct de Centrare Fascicul:** • Cu fasciculul bine colimat, raza centrală orizontală trebuie să fie centrată pe mijlocul Bucky. Aceasta se află la 7,5 cm deasupra și la 7,5 cm posterior de conductul auditiv extern superior, astfel încât raza centrală să iasă din centrul orbitei în contact cu masa de examinare.
-• Un mic marker lateral din plumb poate fi plasat deasupra marginii orbitale superioare.
-35°
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit ventral sau, mai frecvent, în ortostatism, cu nasul, obrazul și bărbia de pe partea examinată în contact cu Bucky sau cu masa pentru casetă.
+        - Centrul orbitei de pe partea examinată trebuie să coincidă cu centrul Bucky sau al mesei pentru casetă.
+        - Planul mediosagital este ajustat pentru a forma un unghi de 35 grade față de verticală (55 grade față de masa de examinare).
+        - Linia de bază orbitomeatală este ridicată la 35 grade față de orizontală.
+    - **Punct de Centrare Fascicul:**
+        - Cu fasciculul bine colimat, raza centrală orizontală trebuie să fie centrată pe mijlocul Bucky. Aceasta se află la 7,5 cm deasupra și la 7,5 cm posterior de conductul auditiv extern superior, astfel încât raza centrală să iasă din centrul orbitei în contact cu masa de examinare.
+        - Un mic marker lateral din plumb poate fi plasat deasupra marginii orbitale superioare. 35°
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -151,6 +157,7 @@ title: 'Radiografia craniului: foramenele optice și jugulare'
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

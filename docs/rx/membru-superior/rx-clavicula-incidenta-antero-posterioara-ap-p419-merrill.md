@@ -1,9 +1,9 @@
 ---
 author: Referință Merrill
-breathing: apnee (oprirea respirației) la end de exhalation la obtain more uniform-densitate
-  optică imagine.
+breathing: apnee (oprirea respirației) la sfârșitul expirului pentru a obține o imagine
+  cu densitate optică mai uniformă.
 category: membru-superior
-centering: perpendicular pe midshaft de Claviculă
+centering: perpendicular pe diafiza claviculei
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,82 +13,88 @@ images:
 - caption: Merrill — pagina 420, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-clavicula-incidenta-antero-posterioara-ap-p419-merrill/p420_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau ortostatism. If Claviculă este
-  being examined pentru suspiciune de fractură sau destructive disease, sau if pacientul
-  cannot fie plasat în ortostatism, use Decubit dorsal poziție la reduce possibility
-  de fragment displacement sau additional injury.; se ajustează corp la se centrează
-  Claviculă la linia mediană mesei sau stativ vertical Bucky. Place brațele along
-  sides de corp și se ajustează umeri la lie în same plan orizontal. se centrează
-  Claviculă la receptorul de imagine (Fig. 6.61). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal sau în ortostatism. Dacă clavicula
+  este examinată pentru suspiciune de fractură sau boală distructivă, sau dacă pacientul
+  nu poate fi plasat în ortostatism, se utilizează poziția de decubit dorsal pentru
+  a reduce posibilitatea deplasării fragmentelor sau a unei leziuni suplimentare.;
+  se ajustează corpul pentru a centra clavicula pe linia mediană a mesei sau a stativului
+  vertical Bucky. Se plasează brațele pe lângă corp și se ajustează umerii astfel
+  încât să se afle în același plan orizontal. Se centrează clavicula la receptorul
+  de imagine (Fig. 6.61). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire Claviculă centrat pe imagine
-- lateral half de Claviculă above Omoplat (Scapulă), cu medial half superimposing
-  thorax
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întreaga claviculă centrată pe imagine
+- Jumătatea laterală a claviculei deasupra scapulei, cu jumătatea medială suprapusă
+  peste torace
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-clavicula-incidenta-antero-posterioara-ap-p419-merrill
 source_pages:
 - 419
 - 420
 source_sections:
-  anatomy: AP imagine de entire clavicle (Fig. 6.62).
-  collimation: '• Se ajustează câmpul de iradiere la formatul 18 × 30 cm pe colimator.
-    Adjust ca needed la include 1.5 inches (3.8 cm) above umăr,
+  anatomy: Imagine AP a întregii clavicule (Fig. 6.62).
+  collimation: • Se ajustează câmpul de iradiere la formatul 18 × 30 cm pe colimator.
+    Se ajustează după necesitate pentru a include 1.5 țoli (3.8 cm) deasupra umărului,
+    1 țol (2.5 cm) dincolo de aspectul lateral al umărului și întreaga claviculă.
+    Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • perpendicular pe diafiza claviculei
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    1 inch (2.5 cm) beyond lateral aspect de umăr, și entire clavicle. Se plasează
-    markerul de lateralitate în câmpul colimat.'
-  cr: • perpendicular pe midshaft de clavicle
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Întreaga claviculă centrată pe imagine
 
-    • Entire clavicle centrat pe imagine
+    • Jumătatea laterală a claviculei deasupra scapulei, cu jumătatea medială suprapusă
+    peste torace
 
-    • lateral half de clavicle above scapula, cu medial half superimposing thorax
+    • Detalii trabeculare osoase și țesuturi moi din jur'
+  part_pos: '• se ajustează corpul pentru a centra clavicula pe linia mediană a mesei
+    sau a stativului vertical Bucky.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează corp la se centrează clavicle la linia mediană mesei sau
-    stativ vertical Bucky.
+    • Se plasează brațele pe lângă corp și se ajustează umerii pentru a se afla în
+    același plan orizontal.
 
-    • Place brațele along sides de corp și se ajustează umeri la lie în same plan
-    orizontal.
-
-    • se centrează clavicle la receptorul de imagine (Fig. 6.61).
+    • se centrează clavicula la receptorul de imagine (Fig. 6.61).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau ortostatism.
+  patient_pos: '• se așază pacientul în decubit dorsal sau în ortostatism.
 
-    • If clavicle este being examined pentru suspiciune de fractură sau destructive
-    disease, sau if pacientul cannot fie plasat în ortostatism, use decubit dorsal
-    la reduce possibility de fragment displacement sau additional injury.'
-  respiration: apnee (oprirea respirației) la end de exhalation la obtain more uniform-densitate
-    optică imagine.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+    • Dacă clavicula este examinată pentru suspiciune de fractură sau boală distructivă,
+    sau dacă pacientul nu poate fi plasat în ortostatism, se utilizează decubitul
+    dorsal pentru a reduce posibilitatea deplasării fragmentelor sau a unei leziuni
+    suplimentare.'
+  respiration: apnee (oprirea respirației) la sfârșitul expirului pentru a obține
+    o imagine cu densitate optică mai uniformă.
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 ×
 
-    30 cm) transversal.'
+    30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 419–420
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 18 × 30 cm pe colimator.
-    Adjust ca needed la include 1.5 inches (3.8 cm) above Umăr, 1 inch (2.5 cm) beyond
-    lateral aspect de Umăr, și entire Claviculă. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Claviculă — Incidență Antero-Posterioară (AP) (Merrill)
+    Se ajustează după necesitate pentru a include 1.5 țoli (3.8 cm) deasupra umărului,
+    1 țol (2.5 cm) dincolo de aspectul lateral al umărului și întreaga claviculă.
+    Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx claviculă — incidență antero-posterioară (AP) (Merrill)
 ---
-# Rx Claviculă — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx claviculă — incidență antero-posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -112,19 +118,20 @@ title: Rx Claviculă — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau ortostatism. If Claviculă este being examined pentru suspiciune de fractură sau destructive disease, sau if pacientul cannot fie plasat în ortostatism, use Decubit dorsal poziție la reduce possibility de fragment displacement sau additional injury.; se ajustează corp la se centrează Claviculă la linia mediană mesei sau stativ vertical Bucky. Place brațele along sides de corp și se ajustează umeri la lie în same plan orizontal. se centrează Claviculă la receptorul de imagine (Fig. 6.61). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midshaft de Claviculă
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în ortostatism. Dacă clavicula este examinată pentru suspiciune de fractură sau boală distructivă, sau dacă pacientul nu poate fi plasat în ortostatism, se utilizează poziția de decubit dorsal pentru a reduce posibilitatea deplasării fragmentelor sau a unei leziuni suplimentare.; se ajustează corpul pentru a centra clavicula pe linia mediană a mesei sau a stativului vertical Bucky. Se plasează brațele pe lângă corp și se ajustează umerii astfel încât să se afle în același plan orizontal. Se centrează clavicula la receptorul de imagine (Fig. 6.61). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe diafiza claviculei
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** apnee (oprirea respirației) la end de exhalation la obtain more uniform-densitate optică imagine.
+    - **Comandă Respiratorie:** apnee (oprirea respirației) la sfârșitul expirului pentru a obține o imagine cu densitate optică mai uniformă.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -138,18 +145,18 @@ title: Rx Claviculă — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 30 cm pe colimator. Adjust ca needed la include 1.5 inches (3.8 cm) above Umăr, 1 inch (2.5 cm) beyond lateral aspect de Umăr, și entire Claviculă. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 18 × 30 cm pe colimator. Se ajustează după necesitate pentru a include 1.5 țoli (3.8 cm) deasupra umărului, 1 țol (2.5 cm) dincolo de aspectul lateral al umărului și întreaga claviculă. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Claviculă centrat pe imagine
-    - lateral half de Claviculă above Omoplat (Scapulă), cu medial half superimposing thorax
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întreaga claviculă centrată pe imagine
+    - Jumătatea laterală a claviculei deasupra scapulei, cu jumătatea medială suprapusă peste torace
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -158,6 +165,7 @@ title: Rx Claviculă — Incidență Antero-Posterioară (AP) (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -197,48 +205,3 @@ title: Rx Claviculă — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 419–420](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP imagine de entire clavicle (Fig. 6.62).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 18 × 30 cm pe colimator. Adjust ca needed la include 1.5 inches (3.8 cm) above umăr,
-1 inch (2.5 cm) beyond lateral aspect de umăr, și entire clavicle. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe midshaft de clavicle
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire clavicle centrat pe imagine
-• lateral half de clavicle above scapula, cu medial half superimposing thorax
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează corp la se centrează clavicle la linia mediană mesei sau stativ vertical Bucky.
-• Place brațele along sides de corp și se ajustează umeri la lie în same plan orizontal.
-• se centrează clavicle la receptorul de imagine (Fig. 6.61).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau ortostatism.
-• If clavicle este being examined pentru suspiciune de fractură sau destructive disease, sau if pacientul cannot fie plasat în ortostatism, use decubit dorsal la reduce possibility de fragment displacement sau additional injury.
-
-### respiration
-
-apnee (oprirea respirației) la end de exhalation la obtain more uniform-densitate optică imagine.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) transversal.
-

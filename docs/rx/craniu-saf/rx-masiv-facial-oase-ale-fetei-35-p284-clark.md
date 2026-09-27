@@ -50,6 +50,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-35-p284-clark/fig_5.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Dacă examinarea are ca unic scop excluderea unui corp străin radiopac în
@@ -165,28 +169,29 @@ title: Rx Masiv Facial (Oase ale Feței) 35°
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei unității de Craniu sau spre stativul vertical Bucky.
-• Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia de bază orbito-meatală la un unghi de 35 de grade față de suportul casetei.
-• Linia centrală orizontală a stativului vertical Bucky sau a suportului casetei trebuie să fie la nivelul punctului median al orbitelor.
-• Asigurați-vă că planul mediosagital este perpendicular pe Bucky sau pe suportul casetei, verificând dacă unghiurile externe ale ochilor și conductele auditive externe sunt echidistante.
-
-• Pacientul stă așezat cu fața spre o casetă de 18 × 24 cm, sprijinită în suportul casetei stativului vertical Bucky.
-• Capul este rotit astfel încât planul mediosagital să fie paralel cu caseta, iar linia interpupilară să fie perpendiculară pe casetă.
-• Nasul trebuie să coincidă aproximativ cu centrul casetei.
-    - **Punct de Centrare Fascicul:** • Raza centrală a unității de Craniu trebuie să fie perpendiculară pe suportul casetei și, prin proiectare, va fi centrată la mijlocul receptorului de imagine. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect, atunci fasciculul va fi deja centrat.
-• Dacă se utilizează Bucky, tubul trebuie să fie centrat pe Bucky folosind Fasciculul Orizontal înainte de efectuarea poziționării. Din nou, dacă poziționarea de mai sus este efectuată corect și înălțimea Bucky nu este modificată, atunci fasciculul va fi deja centrat.
-• Pentru a verifica dacă fasciculul este centrat corect, liniile în cruce de pe Bucky sau de pe suportul casetei trebuie să coincidă cu linia mediană la nivelul regiunii medio-orbitale.
-
-• Raza centrală orizontală este orientată prin centrul Oaselor Proprii Nazale (OPN) și colimată pentru a include nasul.
+    - **Poziție Pacient:**
+        - Incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei unității de Craniu sau spre stativul vertical Bucky.
+        - Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia de bază orbito-meatală la un unghi de 35 de grade față de suportul casetei.
+        - Linia centrală orizontală a stativului vertical Bucky sau a suportului casetei trebuie să fie la nivelul punctului median al orbitelor.
+        - Asigurați-vă că planul mediosagital este perpendicular pe Bucky sau pe suportul casetei, verificând dacă unghiurile externe ale ochilor și conductele auditive externe sunt echidistante.
+        - Pacientul stă așezat cu fața spre o casetă de 18 × 24 cm, sprijinită în suportul casetei stativului vertical Bucky.
+        - Capul este rotit astfel încât planul mediosagital să fie paralel cu caseta, iar linia interpupilară să fie perpendiculară pe casetă.
+        - Nasul trebuie să coincidă aproximativ cu centrul casetei.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală a unității de Craniu trebuie să fie perpendiculară pe suportul casetei și, prin proiectare, va fi centrată la mijlocul receptorului de imagine. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect, atunci fasciculul va fi deja centrat.
+        - Dacă se utilizează Bucky, tubul trebuie să fie centrat pe Bucky folosind Fasciculul Orizontal înainte de efectuarea poziționării. Din nou, dacă poziționarea de mai sus este efectuată corect și înălțimea Bucky nu este modificată, atunci fasciculul va fi deja centrat.
+        - Pentru a verifica dacă fasciculul este centrat corect, liniile în cruce de pe Bucky sau de pe suportul casetei trebuie să coincidă cu linia mediană la nivelul regiunii medio-orbitale.
+        - Raza centrală orizontală este orientată prin centrul Oaselor Proprii Nazale (OPN) și colimată pentru a include nasul.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -223,19 +228,15 @@ title: Rx Masiv Facial (Oase ale Feței) 35°
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • Dacă examinarea are ca unic scop excluderea unui corp străin radiopac în ochi, trebuie aplicată colimarea strânsă, de tip „cutie de scris”, asupra regiunii orbitare.
-• Pentru corpul străin radiopac trebuie utilizată o casetă dedicată. Aceasta trebuie curățată regulat pentru a evita confundarea artefactelor mici de pe ecrane cu un corp străin radiopac.
-• Dacă se suspectează un corp străin radiopac, poate fi efectuată o a doua incidență, cu ochii în poziții diferite, pentru a-l diferenția de un artefact de imagine. Expunerea inițială poate fi efectuată cu ochii orientați în sus, iar a doua cu ochii orientați în jos.
-Aceasta este o incidență utilizată frecvent pentru evaluarea leziunilor regiunii orbitare (de exemplu, suspiciunea de fractură „blow-out” a planșeului orbitar) și pentru excluderea prezenței unui corp străin metalic radiopac în ochi înaintea investigațiilor prin rezonanță magnetică (MRI).
-Incidența este, în esență, o incidență occipito-mentală subînclinată, cu linia de bază orbito-meatală ridicată cu 10 grade mai puțin decât în incidența occipito-mentală standard.
 
-• Dacă este necesar un detaliu suplimentar, poate fi utilizată o casetă de înaltă rezoluție.
-• Această incidență poate fi utilă pentru un corp străin radiopac în nas.
-În acest caz trebuie utilizată o expunere pentru părți moi.
-• În majoritatea cazurilor, leziunile nazale severe vor necesita doar o incidență occipito-mentală pentru evaluarea septului nazal și a structurilor înconjurătoare.
-• Incidența poate fi efectuată și cu pacientul în decubit dorsal, iar caseta sprijinită pe/lângă partea laterală a capului.
-270
+!!! note "Observații Clinice & Tehnice"
+    - Dacă examinarea are ca unic scop excluderea unui corp străin radiopac în ochi, trebuie aplicată colimarea strânsă, de tip „cutie de scris”, asupra regiunii orbitare.
+    - Pentru corpul străin radiopac trebuie utilizată o casetă dedicată. Aceasta trebuie curățată regulat pentru a evita confundarea artefactelor mici de pe ecrane cu un corp străin radiopac.
+    - Dacă se suspectează un corp străin radiopac, poate fi efectuată o a doua incidență, cu ochii în poziții diferite, pentru a-l diferenția de un artefact de imagine. Expunerea inițială poate fi efectuată cu ochii orientați în sus, iar a doua cu ochii orientați în jos. Aceasta este o incidență utilizată frecvent pentru evaluarea leziunilor regiunii orbitare (de exemplu, suspiciunea de fractură „blow-out” a planșeului orbitar) și pentru excluderea prezenței unui corp străin metalic radiopac în ochi înaintea investigațiilor prin rezonanță magnetică (MRI). Incidența este, în esență, o incidență occipito-mentală subînclinată, cu linia de bază orbito-meatală ridicată cu 10 grade mai puțin decât în incidența occipito-mentală standard.
+    - Dacă este necesar un detaliu suplimentar, poate fi utilizată o casetă de înaltă rezoluție.
+    - Această incidență poate fi utilă pentru un corp străin radiopac în nas. În acest caz trebuie utilizată o expunere pentru părți moi.
+    - În majoritatea cazurilor, leziunile nazale severe vor necesita doar o incidență occipito-mentală pentru evaluarea septului nazal și a structurilor înconjurătoare.
+    - Incidența poate fi efectuată și cu pacientul în decubit dorsal, iar caseta sprijinită pe/lângă partea laterală a capului. 270
 
 
 ### 🖼️ Imagini

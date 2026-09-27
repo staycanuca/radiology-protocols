@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: orientat la proces coracoid la cephalic angle de 15 grade (Fig. 6.59).
-  This angulation projects articulații acromioclaviculare above acromion.
+centering: orientat către procesul coracoid, cu un unghi cefalic de 15 grade (Fig.
+  6.59). Această angulație proiectează articulațiile acromioclaviculare deasupra acromionului.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,63 +13,68 @@ images:
 - caption: Merrill — pagina 418, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-acromioclavicular-articulations-incidenta-ap-axiala-alexander-method-examined-separately-p417-merrill/p418_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în ortostatism, either în ortostatism sau Poziție Șezândă.;
-  Se instruiește pacientul să place back pe / sprijinit de stativ vertical Bucky și
-  sit sau stand în ortostatism. se centrează afected Umăr under examination la grila.
-  se ajustează height de receptorul de imagine astfel încât midpoint este la nivelul
-  articulații acromioclaviculare. se ajustează pacient’s poziție la se centrează proces
-  coracoid la receptorul de imagine (Fig. 6.58). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+position: se așază pacientul în ortostatism, fie în ortostatism, fie în poziție șezândă.;
+  Se instruiește pacientul să se așeze cu spatele pe / sprijinit de stativul vertical
+  Bucky și să stea așezat sau în ortostatism. Se centrează umărul afectat examinat
+  pe grilă. Se ajustează înălțimea receptorului de imagine astfel încât mijlocul să
+  fie la nivelul articulației acromioclaviculare. Se ajustează poziția pacientului
+  astfel încât procesul coracoid să fie centrat pe receptorul de imagine (Fig. 6.58).
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- articulații acromioclaviculare și Claviculă projected above acromion
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- articulațiile acromioclaviculare și clavicula proiectate deasupra acromionului
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-acromioclavicular-articulations-incidenta-ap-axiala-alexander-method-examined-separately-p417-merrill
 source_pages:
 - 417
 - 418
 source_sections:
-  anatomy: articulații acromioclaviculare projected slightly superiorly compared cu
-    AP incidență (Fig. 6.60).
+  anatomy: articulațiile acromioclaviculare proiectate ușor superior comparativ cu
+    incidența AP (Fig. 6.60).
   collimation: • Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • orientat la proces coracoid la cephalic angle de 15 grade (Fig. 6.59). This
-    angulation projects articulații acromioclaviculare above acromion.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • orientat către procesul coracoid, cu un unghi cefalic de 15 grade (Fig. 6.59).
+    Această angulație proiectează articulațiile acromioclaviculare deasupra acromionului.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar față de anatomia de interes
 
-    • articulații acromioclaviculare și clavicle projected above acromion
+    • articulațiile acromioclaviculare și clavicula proiectate deasupra acromionului
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Se instruiește pacientul să place back pe / sprijinit de stativ vertical
-    Bucky și sit sau stand în ortostatism.
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Se instruiește pacientul să se așeze cu spatele pe / sprijinit de stativul
+    vertical Bucky și să stea așezat sau în ortostatism.
 
-    • se centrează afected umăr under examination la grila.
+    • se centrează umărul afectat examinat pe grilă.
 
-    • se ajustează height de receptorul de imagine astfel încât midpoint este la nivelul
-    articulații acromioclaviculare.
+    • se ajustează înălțimea receptorului de imagine astfel încât mijlocul să fie
+    la nivelul articulației acromioclaviculare.
 
-    • se ajustează pacient’s poziție la se centrează proces coracoid la receptorul
-    de imagine (Fig. 6.58).
+    • se ajustează poziția pacientului astfel încât procesul coracoid să fie centrat
+    pe receptorul de imagine (Fig. 6.58).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în ortostatism, either în ortostatism sau așezat
+  patient_pos: • se așază pacientul în ortostatism, fie în ortostatism, fie așezat
     pe scaun.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 417–418
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -77,10 +82,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Articulații Acromioclaviculare — Incidență AP Axială — Metoda Alexander
-  examined separately. (Merrill)
+title: Rx articulații acromioclaviculare — incidență AP axială — metoda Alexander
+  examinată separat. (Merrill)
 ---
-# Rx Articulații Acromioclaviculare — Incidență AP Axială — Metoda Alexander examined separately. (Merrill)
+# Rx articulații acromioclaviculare — incidență AP axială — metoda Alexander examinată separat. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -104,17 +109,18 @@ title: Rx Articulații Acromioclaviculare — Incidență AP Axială — Metoda 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism, either în ortostatism sau Poziție Șezândă.; Se instruiește pacientul să place back pe / sprijinit de stativ vertical Bucky și sit sau stand în ortostatism. se centrează afected Umăr under examination la grila. se ajustează height de receptorul de imagine astfel încât midpoint este la nivelul articulații acromioclaviculare. se ajustează pacient’s poziție la se centrează proces coracoid la receptorul de imagine (Fig. 6.58). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la proces coracoid la cephalic angle de 15 grade (Fig. 6.59). This angulation projects articulații acromioclaviculare above acromion.
+    - **Poziție Pacient:** se așază pacientul în ortostatism, fie în ortostatism, fie în poziție șezândă.; Se instruiește pacientul să se așeze cu spatele pe / sprijinit de stativul vertical Bucky și să stea așezat sau în ortostatism. Se centrează umărul afectat examinat pe grilă. Se ajustează înălțimea receptorului de imagine astfel încât mijlocul să fie la nivelul articulației acromioclaviculare. Se ajustează poziția pacientului astfel încât procesul coracoid să fie centrat pe receptorul de imagine (Fig. 6.58). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** orientat către procesul coracoid, cu un unghi cefalic de 15 grade (Fig. 6.59). Această angulație proiectează articulațiile acromioclaviculare deasupra acromionului.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -137,10 +143,10 @@ title: Rx Articulații Acromioclaviculare — Incidență AP Axială — Metoda 
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - articulații acromioclaviculare și Claviculă projected above acromion
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - articulațiile acromioclaviculare și clavicula proiectate deasupra acromionului
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,6 +155,7 @@ title: Rx Articulații Acromioclaviculare — Incidență AP Axială — Metoda 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -188,46 +195,3 @@ title: Rx Articulații Acromioclaviculare — Incidență AP Axială — Metoda 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 417–418](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-articulații acromioclaviculare projected slightly superiorly compared cu AP incidență (Fig. 6.60).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• orientat la proces coracoid la cephalic angle de 15 grade (Fig. 6.59). This angulation projects articulații acromioclaviculare above acromion.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• articulații acromioclaviculare și clavicle projected above acromion
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Se instruiește pacientul să place back pe / sprijinit de stativ vertical Bucky și sit sau stand în ortostatism.
-• se centrează afected umăr under examination la grila.
-• se ajustează height de receptorul de imagine astfel încât midpoint este la nivelul articulații acromioclaviculare.
-• se ajustează pacient’s poziție la se centrează proces coracoid la receptorul de imagine (Fig. 6.58).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în ortostatism, either în ortostatism sau așezat pe scaun.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

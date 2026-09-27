@@ -2,10 +2,11 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: mamografie
-centering: 'perpendicular pe base de Mamografie (Sân) C-braț apparatus este poziționat
-  la angle determined prin slope de pacientul’s pectoral muscle (30 la 60 grade).
-  actual angle este determined prin pacientul’s corp habitus: Tall, thin pacienți
-  require steep angulation, whereas short, stout pacienți require shallow angulation.'
+centering: 'Perpendicular pe baza sânului. Aparatul cu braț în C este poziționat la
+  un unghi determinat de panta mușchiului pectoral al pacientului (30 la 60 grade).
+  Unghiul actual este determinat de conformația corporală a pacientului: pacienții
+  înalți și slabi necesită o angulație accentuată, în timp ce pacienții scunzi și
+  corpolenți necesită o angulație redusă.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,59 +16,69 @@ images:
 - caption: Merrill — pagina 1357, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mamografie-san-mediolateral-oblique-mlo-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1355-merrill/p1357_fig2.png
+iris_reference:
+  chapter: Sân
+  radiation_dose: Clasa 1 (Minimă < 0.4 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să stand facing receptorul de imagine cu her picioare
-  pointed forward sau se așază pacientul pe scaun pe adjustable stool facing unit.;
-  Determine grade de obliquity de C-braț. grade de obliquity trebuie să fie approximately
-  45 grade but will vary de la 30 la 60 grade, depending pe pacientul’s corp habitus.
-  Draw imaginary line de la pacient’s Umăr la midsternum și angle C- braț la paralel
-  this line. se ajustează height de C-braț astfel încât superior margine de receptorul
-  de imagine este level cu axilla. Se instruiește pacientul să lean slightly forward
-  de la waist. Elevate braț de afected side over corner de receptorul de imagine și
-  rest Mână pe adjacent handgrip. pacientul’s Cot trebuie să fie flectat și resting
-  posterior la receptorul de imagine. Place upper corner de receptorul de imagine
-  ca high ca possible into pacientul’s axilla între pectoral și latissimus dorsi muscles,
-  astfel încât receptorul de imagine este behind pectoral fold. Ensure that pacientul’s
-  afected Umăr este relaxat și leaning slightly anterior. While placing flat surface
-  de Mână along lateral aspect de Mamografie (Sân), gently pull pacientul’s Mamografie
-  (Sân) și pectoral muscle anteriorly și medially. menținerea Mamografie (Sân) între
-  Police și Degete Mână, gently lift it up, out, și away de la Torace perete. se centrează
-  Mamografie (Sân) pe receptorul de imagine cu nipple în profile, if possible, și
-  hold Mamografie (Sân) în poziție. Hold Mamografie (Sân) up și out de la corp prin
-  rotating Mână astfel încât base de Police și heel de Mână support Mamografie (Sân).
-  Inform pacientul that compression de Mamografie (Sân) will begin. Continue la hold
-  Mamografie (Sân) up și out while sliding Mână spre nipple ca compression paddle
-  este brought into contact cu Mamografie (Sân). Loosen skin la Claviculă cu opposite
-  Mână la ensure that posterior tissue este imaged while preventing injury la Umăr.
-  Roll contralateral Umăr spre unit la ensure that medial tissue este visualized.
-  Se aplică progresiv compresia până când glanda mamară este ferm fixată. corner de
-  compression paddle trebuie să fie inferior la Claviculă. Check superior și inferior
-  aspects de Mamografie (Sân) pentru adecvat compression. Se instruiește pacientul
-  să indicate whether compression becomes uncomfortable. Gently pull down pe pacientul’s
-  abdominal tissue la open inframammary fold. Se instruiește pacientul să hold opposite
-  Mamografie (Sân) away de la path de fascicul if necessary. Se instruiește pacientul
-  să lift her chin la clear field de potential artifacts. After full compression este
-  achieved, Se instruiește pacientul să stop respirație (Fig. 18.30). Se declanșează
-  expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
+position: Pacientului i se indică să stea cu fața spre receptorul de imagine, cu picioarele
+  orientate înainte, sau pacientul se așază pe un scaun, pe un taburet reglabil, cu
+  fața spre aparat. Se determină gradul de oblicitate al aparatului cu braț în C.
+  Gradul de oblicitate trebuie să fie de aproximativ 45 grade, dar va varia de la
+  30 la 60 grade, în funcție de conformația corporală a pacientului. Se trasează o
+  linie imaginară de la umărul pacientului la mijlocul sternului și se angulează brațul
+  în C paralel cu această linie. Se ajustează înălțimea aparatului cu braț în C astfel
+  încât marginea superioară a receptorului de imagine să fie la nivelul axilei. Pacientului
+  i se indică să se aplece ușor înainte din talie. Se ridică brațul de pe partea afectată
+  peste colțul receptorului de imagine și se sprijină mâna pe mânerul adiacent. Cotul
+  pacientului trebuie să fie flectat și sprijinit posterior de receptorul de imagine.
+  Se plasează colțul superior al receptorului de imagine cât mai sus posibil în axila
+  pacientului, între mușchii pectoral și latissimus dorsi, astfel încât receptorul
+  de imagine să fie în spatele pliului pectoral. Se verifică dacă umărul afectat al
+  pacientului este relaxat și ușor aplecat anterior. În timp ce suprafața palmei este
+  așezată de-a lungul aspectului lateral al sânului, se trage ușor sânul și mușchiul
+  pectoral al pacientului anterior și medial. Menținând sânul între police și degete,
+  acesta este ridicat ușor în sus, în afară și îndepărtat de peretele toracic. Se
+  centrează sânul pe receptorul de imagine, cu mamelonul în profil, dacă este posibil,
+  și se menține sânul în poziție. Sânul este menținut ridicat și în afară față de
+  corp prin rotirea mâinii, astfel încât baza policelui și călcâiul mâinii să susțină
+  sânul. Pacientul este informat că va începe compresia sânului. Se continuă menținerea
+  sânului ridicat și în afară, în timp ce mâna este glisată spre mamelon, iar paleta
+  de compresie este adusă în contact cu sânul. Se relaxează pielea la nivelul claviculei
+  cu mâna opusă, pentru a asigura reprezentarea țesutului posterior, prevenind lezarea
+  umărului. Se rotește umărul contralateral spre aparat pentru a asigura vizualizarea
+  țesutului medial. Se aplică progresiv compresia până când glanda mamară este ferm
+  fixată. Colțul paletei de compresie trebuie să fie inferior claviculei. Se verifică
+  aspectele superior și inferior ale sânului pentru o compresie adecvată. Pacientului
+  i se indică să semnaleze dacă aplicarea compresiei devine inconfortabilă. Se trage
+  ușor în jos țesutul abdominal al pacientului pentru a deschide pliul inframamar.
+  Pacientului i se indică să țină sânul opus în afara traiectului fasciculului, dacă
+  este necesar. Pacientului i se indică să își ridice bărbia pentru a elibera câmpul
+  de eventualele artefacte. După obținerea compresiei complete, pacientului i se indică
+  să oprească respirația (Fig. 18.30). Se declanșează expunerea. Sânul este decomprimat
+  imediat după efectuarea expunerii.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să fie clearly vizualizat:'
-- PNL measuring within ⅓ inch (1 cm) de depth de PNL pe CC incidență 5, 19
-- While drawing imaginary PNL obliquely following orientation de Mamografie (Sân)
-  tissue spre pectoral muscle, use Degete Mână la measure its depth de la nipple la
-  pectoral muscle sau la edge de imagine, whichever comes first (Fig. 18.31).
-- inferior aspect de pectoral muscle extending la PNL sau below it if possible
-- Pectoral muscle evidențiind anterior convexity la ensure relaxat Umăr și axilla
-- Nipple în profile if possible
-- Open inframammary fold
-- Deep și superficial Mamografie (Sân) tissues well separated when Mamografie (Sân)
-  este adequately maneuvered up și out de la Torace perete
-- Retroglandular fat well visualized la ensure inclusion de deep fibroglandular Mamografie
-  (Sân) tissue
-- Uniform tissue expunere if compression este adecvat
+- 'Următoarele trebuie să fie clar vizualizate:'
+- PNL măsurând în limita a ⅓ țol (1 cm) din profunzimea PNL pe incidența CC 5, 19
+- În timp ce se trasează imaginar PNL oblic, urmând orientarea țesutului mamar spre
+  mușchiul pectoral, se folosesc degetele pentru a-i măsura profunzimea de la mamelon
+  la mușchiul pectoral sau la marginea imaginii, oricare dintre acestea este întâlnită
+  prima (Fig. 18.31).
+- Aspectul inferior al mușchiului pectoral extinzându-se până la PNL sau sub aceasta,
+  dacă este posibil
+- Mușchiul pectoral evidențiind convexitatea anterioară pentru a asigura relaxarea
+  umărului și a axilei
+- Mamelonul în profil, dacă este posibil
+- Pliul inframamar deschis
+- Țesuturile mamare profund și superficial sunt bine separate atunci când sânul este
+  mobilizat adecvat în sus și în afara peretelui toracic
+- Grăsimea retroglandulară este bine vizualizată pentru a asigura includerea țesutului
+  fibroglandular profund al sânului
+- Expunere tisulară uniformă dacă compresia este adecvată
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mamografie-san-mediolateral-oblique-mlo-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1355-merrill
 source_pages:
@@ -75,120 +86,116 @@ source_pages:
 - 1356
 - 1357
 source_sections:
-  anatomy: MLO incidență usually shows most de breast tissue, cu emphasis pe lateral
-    aspect și la.
-  cr: '• perpendicular pe base de breast
+  anatomy: Incidența MLO evidențiază de obicei cea mai mare parte a țesutului mamar,
+    cu accent pe aspectul lateral și [fragment deteriorat în sursă].
+  cr: '• Perpendicular pe baza sânului
 
-    • C-braț apparatus este poziționat la angle determined prin slope de pacientul’s
-    pectoral muscle (30 la 60 grade). actual
+    • Aparatul cu braț în C este poziționat la un unghi determinat de panta mușchiului
+    pectoral al pacientului (30 la 60 grade). Unghiul actual este determinat de conformația
+    corporală a pacientului: pacienții înalți și slabi necesită o angulație accentuată,
+    în timp ce pacienții scunzi și corpolenți necesită o angulație redusă.'
+  criteria: 'Următoarele trebuie să fie vizualizate clar:
 
-    angle este determined prin pacientul’s corp habitus: Tall, thin pacienți require
-    steep angulation, whereas short, stout pacienți require
+    • PNL măsurând în limita a ⅓ țol (1 cm) din profunzimea PNL pe incidența CC 5,
+    19
 
-    shallow angulation.'
-  criteria: 'following trebuie să fie clearly vizualizat:
+    • În timp ce se trasează imaginar PNL oblic, urmând orientarea țesutului mamar
+    spre mușchiul pectoral, se folosesc degetele pentru a-i măsura profunzimea de
+    la mamelon la mușchiul pectoral sau la marginea imaginii, oricare dintre acestea
+    este întâlnită prima (Fig. 18.31).
 
-    • PNL measuring within ⅓ inch (1 cm) de depth de PNL pe CC incidență 5, 19
+    • Aspectul inferior al mușchiului pectoral extinzându-se până la PNL sau sub aceasta,
+    dacă este posibil
 
-    • While drawing imaginary PNL obliquely following orientation de breast tissue
-    spre pectoral muscle, use degetele la
+    • Mușchiul pectoral evidențiind convexitatea anterioară pentru a asigura relaxarea
+    umărului și a axilei
 
-    measure its depth de la nipple la pectoral muscle sau la edge de imagine, whichever
-    comes first (Fig. 18.31).
+    • Mamelonul în profil, dacă este posibil
 
-    • inferior aspect de pectoral muscle extending la PNL sau below it if possible
+    • Pliul inframamar deschis
 
-    • Pectoral muscle evidențiind anterior convexity la ensure relaxat umăr și axilla
+    • Țesuturile mamare profunde și superficiale bine separate atunci când sânul este
+    manevrat adecvat în sus și în afara peretelui toracic
 
-    • Nipple în profile if possible
+    • Grăsimea retroglandulară bine vizualizată pentru a asigura includerea țesutului
+    mamar fibroglandular profund
 
-    • Open inframammary fold
+    • Expunere uniformă a țesutului dacă este adecvată compresia'
+  part_pos: '• Se determină gradul de oblicitate al aparatului cu braț în C. Gradul
+    de oblicitate trebuie să fie de aproximativ 45 grade, dar va varia de la 30 la
+    60 grade, în funcție de conformația corporală a pacientului. Se trasează o linie
+    imaginară de la umărul pacientului la mijlocul sternului și se angulează brațul
+    în C paralel cu această linie.
 
-    • Deep și superficial breast tissues well separated when breast este adequately
-    maneuvered up și out de la toracele perete
+    • Se ajustează înălțimea aparatului cu braț în C astfel încât marginea superioară
+    a receptorului de imagine să fie la nivelul axilei.
 
-    • Retroglandular fat well visualized la ensure inclusion de deep fibroglandular
-    breast tissue
+    • Pacientului i se indică să se aplece ușor înainte din talie.
 
-    • Uniform tissue expunere if compression este adecvat'
-  part_pos: '• Determine grade de obliquity de C-braț. grade de obliquity trebuie
-    să fie approximately 45 grade but will vary de la 30 la 60
+    • Se ridică brațul de pe partea afectată peste colțul receptorului de imagine
+    și se sprijină mâna pe mânerul adiacent. Cotul pacientului trebuie să fie flectat
+    și sprijinit posterior de receptorul de imagine.
 
-    grade, depending pe pacientul’s corp habitus. Draw imaginary line de la pacient’s
-    umăr la midsternum și angle C-
+    • Se plasează colțul superior al receptorului de imagine cât mai sus posibil în
+    axila pacientului, între mușchii pectoral și latissimus dorsi, astfel încât receptorul
+    de imagine să fie în spatele pliului pectoral.
 
-    braț la paralel this line.
+    • Se verifică dacă umărul afectat al pacientului este relaxat și ușor aplecat
+    anterior. În timp ce suprafața palmei este așezată de-a lungul aspectului lateral
+    al sânului, se trage ușor sânul și mușchiul pectoral al pacientului anterior și
+    medial.
 
-    • se ajustează height de C-braț astfel încât superior margine de receptorul de
-    imagine este level cu axilla.
+    • Menținând sânul între police și degete, acesta este ridicat ușor în sus, în
+    afară și îndepărtat de peretele toracic.
 
-    • Se instruiește pacientul să lean slightly forward de la waist.
+    • Se centrează sânul pe receptorul de imagine, cu mamelonul în profil, dacă este
+    posibil, și se menține sânul în poziție.
 
-    • Elevate braț de afected side over corner de receptorul de imagine și rest mână
-    pe adjacent handgrip. pacientul’s cot trebuie să fie
+    • Sânul este menținut ridicat și în afară față de corp prin rotirea mâinii, astfel
+    încât baza policelui și călcâiul mâinii să susțină sânul.
 
-    flectat și resting posterior la receptorul de imagine.
+    • Pacientul este informat că va începe compresia sânului. Se continuă menținerea
+    sânului ridicat și în afară, în timp ce mâna este glisată spre mamelon, iar paleta
+    de compresie este adusă în contact cu sânul. Se relaxează pielea la nivelul claviculei
+    cu mâna opusă pentru a asigura reprezentarea țesutului posterior, prevenind lezarea
+    umărului. Se rotește umărul contralateral spre aparat pentru a asigura vizualizarea
+    țesutului medial.
 
-    • Place upper corner de receptorul de imagine ca high ca possible into pacientul’s
-    axilla între pectoral și latissimus dorsi muscles, so that
+    • Se aplică progresiv compresia până când glanda mamară este ferm fixată. Colțul
+    paletei de compresie trebuie să fie inferior claviculei.
 
-    receptorul de imagine este behind pectoral fold.
+    • Se verifică aspectele superior și inferior ale sânului pentru o compresie adecvată.
 
-    • Ensure that pacientul’s afected umăr este relaxat și leaning slightly anterior.
-    While placing flat surface de mână along lateral aspect de breast, gently pull
-    pacientul’s breast și pectoral muscle anteriorly și medially.
+    • Pacientului i se indică să semnaleze dacă aplicarea compresiei devine inconfortabilă.
 
-    • menținerea breast între thumb și fingers, gently lift it up, out, și away de
-    la toracele perete.
+    • Se trage ușor în jos țesutul abdominal al pacientului pentru a deschide pliul
+    inframamar.
 
-    • se centrează breast pe receptorul de imagine cu nipple în profile, if possible,
-    și hold breast în poziție.
+    • Pacientului i se indică să țină sânul opus în afara traiectului fasciculului,
+    dacă este necesar.
 
-    • Hold breast up și out de la corp prin rotating mână astfel încât base de policele
-    și heel de mână support breast.
+    • Pacientului i se indică să își ridice bărbia pentru a elibera câmpul de eventualele
+    artefacte.
 
-    • Inform pacientul that compression de breast will begin. Continue la hold breast
-    up și out while sliding mână spre nipple ca compression paddle este brought into
-    contact cu breast. Loosen skin la clavicle cu opposite mână la
-
-    ensure that posterior tissue este imaged while preventing injury la umăr. Roll
-    contralateral umăr spre unit la
-
-    ensure that medial tissue este visualized.
-
-    • Se aplică progresiv compresia până când glanda mamară este ferm fixată. corner
-    de compression paddle trebuie să fie inferior la clavicle.
-
-    • Check superior și inferior aspects de breast pentru adecvat compression.
-
-    • Se instruiește pacientul să indicate whether compression becomes uncomfortable.
-
-    • Gently pull down pe pacientul’s abdominal tissue la open inframammary fold.
-
-    • Se instruiește pacientul să hold opposite breast away de la path de fascicul
-    if necessary.
-
-    • Se instruiește pacientul să lift her chin la clear field de potential artifacts.
-
-    • After full compression este achieved, Se instruiește pacientul să stop respirație
+    • După obținerea compresiei complete, pacientului i se indică să oprească respirația
     (Fig. 18.30).
 
     • Se declanșează expunerea.
 
-    • Se decomprimă sânul imediat după efectuarea expunerii.'
-  patient_pos: • Se instruiește pacientul să stand facing receptorul de imagine cu
-    her picioare pointed forward sau se așază pacientul pe scaun pe adjustable stool
-    facing unit.
+    • Sânul este decomprimat imediat după efectuarea expunerii.'
+  patient_pos: • Pacientului i se indică să stea cu fața spre receptorul de imagine,
+    cu picioarele orientate înainte, sau pacientul se așază pe un scaun, pe un taburet
+    reglabil, cu fața spre aparat.
 sources:
 - title: Merrill’s Atlas, 18. Mammography, pagini 1355–1357
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Mamografie — Oblică Medio-Laterală (MLO) or 10 × 12 inches (24 × 30 cm).
+title: Rx Mamografie — Oblică Medio-Laterală (MLO) sau 10 × 12 țoli (24 × 30 cm).
   (Merrill)
 ---
-# Rx Mamografie — Oblică Medio-Laterală (MLO) or 10 × 12 inches (24 × 30 cm). (Merrill)
+# Rx Mamografie — Oblică Medio-Laterală (MLO) sau 10 × 12 țoli (24 × 30 cm). (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -212,17 +219,18 @@ title: Rx Mamografie — Oblică Medio-Laterală (MLO) or 10 × 12 inches (24 ×
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Sân*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.4 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să stand facing receptorul de imagine cu her picioare pointed forward sau se așază pacientul pe scaun pe adjustable stool facing unit.; Determine grade de obliquity de C-braț. grade de obliquity trebuie să fie approximately 45 grade but will vary de la 30 la 60 grade, depending pe pacientul’s corp habitus. Draw imaginary line de la pacient’s Umăr la midsternum și angle C- braț la paralel this line. se ajustează height de C-braț astfel încât superior margine de receptorul de imagine este level cu axilla. Se instruiește pacientul să lean slightly forward de la waist. Elevate braț de afected side over corner de receptorul de imagine și rest Mână pe adjacent handgrip. pacientul’s Cot trebuie să fie flectat și resting posterior la receptorul de imagine. Place upper corner de receptorul de imagine ca high ca possible into pacientul’s axilla între pectoral și latissimus dorsi muscles, astfel încât receptorul de imagine este behind pectoral fold. Ensure that pacientul’s afected Umăr este relaxat și leaning slightly anterior. While placing flat surface de Mână along lateral aspect de Mamografie (Sân), gently pull pacientul’s Mamografie (Sân) și pectoral muscle anteriorly și medially. menținerea Mamografie (Sân) între Police și Degete Mână, gently lift it up, out, și away de la Torace perete. se centrează Mamografie (Sân) pe receptorul de imagine cu nipple în profile, if possible, și hold Mamografie (Sân) în poziție. Hold Mamografie (Sân) up și out de la corp prin rotating Mână astfel încât base de Police și heel de Mână support Mamografie (Sân). Inform pacientul that compression de Mamografie (Sân) will begin. Continue la hold Mamografie (Sân) up și out while sliding Mână spre nipple ca compression paddle este brought into contact cu Mamografie (Sân). Loosen skin la Claviculă cu opposite Mână la ensure that posterior tissue este imaged while preventing injury la Umăr. Roll contralateral Umăr spre unit la ensure that medial tissue este visualized. Se aplică progresiv compresia până când glanda mamară este ferm fixată. corner de compression paddle trebuie să fie inferior la Claviculă. Check superior și inferior aspects de Mamografie (Sân) pentru adecvat compression. Se instruiește pacientul să indicate whether compression becomes uncomfortable. Gently pull down pe pacientul’s abdominal tissue la open inframammary fold. Se instruiește pacientul să hold opposite Mamografie (Sân) away de la path de fascicul if necessary. Se instruiește pacientul să lift her chin la clear field de potential artifacts. After full compression este achieved, Se instruiește pacientul să stop respirație (Fig. 18.30). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
-    - **Punct de Centrare Fascicul:** perpendicular pe base de Mamografie (Sân) C-braț apparatus este poziționat la angle determined prin slope de pacientul’s pectoral muscle (30 la 60 grade). actual angle este determined prin pacientul’s corp habitus: Tall, thin pacienți require steep angulation, whereas short, stout pacienți require shallow angulation.
+    - **Poziție Pacient:** Pacientului i se indică să stea cu fața spre receptorul de imagine, cu picioarele orientate înainte, sau pacientul se așază pe un scaun, pe un taburet reglabil, cu fața spre aparat. Se determină gradul de oblicitate al aparatului cu braț în C. Gradul de oblicitate trebuie să fie de aproximativ 45 grade, dar va varia de la 30 la 60 grade, în funcție de conformația corporală a pacientului. Se trasează o linie imaginară de la umărul pacientului la mijlocul sternului și se angulează brațul în C paralel cu această linie. Se ajustează înălțimea aparatului cu braț în C astfel încât marginea superioară a receptorului de imagine să fie la nivelul axilei. Pacientului i se indică să se aplece ușor înainte din talie. Se ridică brațul de pe partea afectată peste colțul receptorului de imagine și se sprijină mâna pe mânerul adiacent. Cotul pacientului trebuie să fie flectat și sprijinit posterior de receptorul de imagine. Se plasează colțul superior al receptorului de imagine cât mai sus posibil în axila pacientului, între mușchii pectoral și latissimus dorsi, astfel încât receptorul de imagine să fie în spatele pliului pectoral. Se verifică dacă umărul afectat al pacientului este relaxat și ușor aplecat anterior. În timp ce suprafața palmei este așezată de-a lungul aspectului lateral al sânului, se trage ușor sânul și mușchiul pectoral al pacientului anterior și medial. Menținând sânul între police și degete, acesta este ridicat ușor în sus, în afară și îndepărtat de peretele toracic. Se centrează sânul pe receptorul de imagine, cu mamelonul în profil, dacă este posibil, și se menține sânul în poziție. Sânul este menținut ridicat și în afară față de corp prin rotirea mâinii, astfel încât baza policelui și călcâiul mâinii să susțină sânul. Pacientul este informat că va începe compresia sânului. Se continuă menținerea sânului ridicat și în afară, în timp ce mâna este glisată spre mamelon, iar paleta de compresie este adusă în contact cu sânul. Se relaxează pielea la nivelul claviculei cu mâna opusă, pentru a asigura reprezentarea țesutului posterior, prevenind lezarea umărului. Se rotește umărul contralateral spre aparat pentru a asigura vizualizarea țesutului medial. Se aplică progresiv compresia până când glanda mamară este ferm fixată. Colțul paletei de compresie trebuie să fie inferior claviculei. Se verifică aspectele superior și inferior ale sânului pentru o compresie adecvată. Pacientului i se indică să semnaleze dacă aplicarea compresiei devine inconfortabilă. Se trage ușor în jos țesutul abdominal al pacientului pentru a deschide pliul inframamar. Pacientului i se indică să țină sânul opus în afara traiectului fasciculului, dacă este necesar. Pacientului i se indică să își ridice bărbia pentru a elibera câmpul de eventualele artefacte. După obținerea compresiei complete, pacientului i se indică să oprească respirația (Fig. 18.30). Se declanșează expunerea. Sânul este decomprimat imediat după efectuarea expunerii.
+    - **Punct de Centrare Fascicul:** Perpendicular pe baza sânului. Aparatul cu braț în C este poziționat la un unghi determinat de panta mușchiului pectoral al pacientului (30 la 60 grade). Unghiul actual este determinat de conformația corporală a pacientului: pacienții înalți și slabi necesită o angulație accentuată, în timp ce pacienții scunzi și corpolenți necesită o angulație redusă.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -245,16 +253,16 @@ title: Rx Mamografie — Oblică Medio-Laterală (MLO) or 10 × 12 inches (24 ×
 
     ---
 
-    - following trebuie să fie clearly vizualizat:
-    - PNL measuring within ⅓ inch (1 cm) de depth de PNL pe CC incidență 5, 19
-    - While drawing imaginary PNL obliquely following orientation de Mamografie (Sân) tissue spre pectoral muscle, use Degete Mână la measure its depth de la nipple la pectoral muscle sau la edge de imagine, whichever comes first (Fig. 18.31).
-    - inferior aspect de pectoral muscle extending la PNL sau below it if possible
-    - Pectoral muscle evidențiind anterior convexity la ensure relaxat Umăr și axilla
-    - Nipple în profile if possible
-    - Open inframammary fold
-    - Deep și superficial Mamografie (Sân) tissues well separated when Mamografie (Sân) este adequately maneuvered up și out de la Torace perete
-    - Retroglandular fat well visualized la ensure inclusion de deep fibroglandular Mamografie (Sân) tissue
-    - Uniform tissue expunere if compression este adecvat
+    - Următoarele trebuie să fie clar vizualizate:
+    - PNL măsurând în limita a ⅓ țol (1 cm) din profunzimea PNL pe incidența CC 5, 19
+    - În timp ce se trasează imaginar PNL oblic, urmând orientarea țesutului mamar spre mușchiul pectoral, se folosesc degetele pentru a-i măsura profunzimea de la mamelon la mușchiul pectoral sau la marginea imaginii, oricare dintre acestea este întâlnită prima (Fig. 18.31).
+    - Aspectul inferior al mușchiului pectoral extinzându-se până la PNL sau sub aceasta, dacă este posibil
+    - Mușchiul pectoral evidențiind convexitatea anterioară pentru a asigura relaxarea umărului și a axilei
+    - Mamelonul în profil, dacă este posibil
+    - Pliul inframamar deschis
+    - Țesuturile mamare profund și superficial sunt bine separate atunci când sânul este mobilizat adecvat în sus și în afara peretelui toracic
+    - Grăsimea retroglandulară este bine vizualizată pentru a asigura includerea țesutului fibroglandular profund al sânului
+    - Expunere tisulară uniformă dacă compresia este adecvată
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -263,6 +271,7 @@ title: Rx Mamografie — Oblică Medio-Laterală (MLO) or 10 × 12 inches (24 ×
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -302,63 +311,3 @@ title: Rx Mamografie — Oblică Medio-Laterală (MLO) or 10 × 12 inches (24 ×
 ## Surse de documentare
 
 - [Merrill’s Atlas, 18. Mammography, pagini 1355–1357](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-MLO incidență usually shows most de breast tissue, cu emphasis pe lateral aspect și la.
-
-### cr
-
-• perpendicular pe base de breast
-• C-braț apparatus este poziționat la angle determined prin slope de pacientul’s pectoral muscle (30 la 60 grade). actual
-angle este determined prin pacientul’s corp habitus: Tall, thin pacienți require steep angulation, whereas short, stout pacienți require
-shallow angulation.
-
-### criteria
-
-following trebuie să fie clearly vizualizat:
-• PNL measuring within ⅓ inch (1 cm) de depth de PNL pe CC incidență 5, 19
-• While drawing imaginary PNL obliquely following orientation de breast tissue spre pectoral muscle, use degetele la
-measure its depth de la nipple la pectoral muscle sau la edge de imagine, whichever comes first (Fig. 18.31).
-• inferior aspect de pectoral muscle extending la PNL sau below it if possible
-• Pectoral muscle evidențiind anterior convexity la ensure relaxat umăr și axilla
-• Nipple în profile if possible
-• Open inframammary fold
-• Deep și superficial breast tissues well separated when breast este adequately maneuvered up și out de la toracele perete
-• Retroglandular fat well visualized la ensure inclusion de deep fibroglandular breast tissue
-• Uniform tissue expunere if compression este adecvat
-
-### part_pos
-
-• Determine grade de obliquity de C-braț. grade de obliquity trebuie să fie approximately 45 grade but will vary de la 30 la 60
-grade, depending pe pacientul’s corp habitus. Draw imaginary line de la pacient’s umăr la midsternum și angle C-
-braț la paralel this line.
-• se ajustează height de C-braț astfel încât superior margine de receptorul de imagine este level cu axilla.
-• Se instruiește pacientul să lean slightly forward de la waist.
-• Elevate braț de afected side over corner de receptorul de imagine și rest mână pe adjacent handgrip. pacientul’s cot trebuie să fie
-flectat și resting posterior la receptorul de imagine.
-• Place upper corner de receptorul de imagine ca high ca possible into pacientul’s axilla între pectoral și latissimus dorsi muscles, so that
-receptorul de imagine este behind pectoral fold.
-• Ensure that pacientul’s afected umăr este relaxat și leaning slightly anterior. While placing flat surface de mână along lateral aspect de breast, gently pull pacientul’s breast și pectoral muscle anteriorly și medially.
-• menținerea breast între thumb și fingers, gently lift it up, out, și away de la toracele perete.
-• se centrează breast pe receptorul de imagine cu nipple în profile, if possible, și hold breast în poziție.
-• Hold breast up și out de la corp prin rotating mână astfel încât base de policele și heel de mână support breast.
-• Inform pacientul that compression de breast will begin. Continue la hold breast up și out while sliding mână spre nipple ca compression paddle este brought into contact cu breast. Loosen skin la clavicle cu opposite mână la
-ensure that posterior tissue este imaged while preventing injury la umăr. Roll contralateral umăr spre unit la
-ensure that medial tissue este visualized.
-• Se aplică progresiv compresia până când glanda mamară este ferm fixată. corner de compression paddle trebuie să fie inferior la clavicle.
-• Check superior și inferior aspects de breast pentru adecvat compression.
-• Se instruiește pacientul să indicate whether compression becomes uncomfortable.
-• Gently pull down pe pacientul’s abdominal tissue la open inframammary fold.
-• Se instruiește pacientul să hold opposite breast away de la path de fascicul if necessary.
-• Se instruiește pacientul să lift her chin la clear field de potential artifacts.
-• After full compression este achieved, Se instruiește pacientul să stop respirație (Fig. 18.30).
-• Se declanșează expunerea.
-• Se decomprimă sânul imediat după efectuarea expunerii.
-
-### patient_pos
-
-• Se instruiește pacientul să stand facing receptorul de imagine cu her picioare pointed forward sau se așază pacientul pe scaun pe adjustable stool facing unit.
-

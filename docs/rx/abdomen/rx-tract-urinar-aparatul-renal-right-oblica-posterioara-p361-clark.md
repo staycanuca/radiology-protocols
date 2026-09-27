@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-right-oblica-posterioara-p361-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Rotirea excesivă a pacientului va determina proiectarea rinichiului drept
@@ -93,20 +97,22 @@ title: Rx Tract Urinar (Aparatul Renal) Oblică Posterioară Dreaptă
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este întors pe partea examinată, cu mâinile sprijinite lângă cap. Șoldurile și genunchii sunt flectați pentru a asigura stabilitatea.
-• Cu planul mediosagital paralel cu masa, coloana vertebrală (la aproximativ 8 cm anterior de suprafața cutanată posterioară) este poziționată deasupra liniei mediane a mesei și se aplică o bandă de imobilizare.
-• Caseta se așază în tăviță și, pentru regiunea renală, se centrează la LV1/2, la aproximativ 5 cm superior de marginea costală inferioară.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre centrul casetei, iar expunerea se efectuează în apnee după expir.
-346 Rinichiul stâng Mușchiul psoas mare Rinichiul drept Coasta a 12-a Stomac Discul intervertebral lombar 2–3 Direcția fasciculului de raze X Pancreas Vezică biliară Ficat Umbra vezicii biliare Umbra rinichilor și a coloanei vertebrale Casetă Radiografie de profil a abdomenului
+    - **Poziție Pacient:**
+        - Pacientul este întors pe partea examinată, cu mâinile sprijinite lângă cap. Șoldurile și genunchii sunt flectați pentru a asigura stabilitatea.
+        - Cu planul mediosagital paralel cu masa, coloana vertebrală (la aproximativ 8 cm anterior de suprafața cutanată posterioară) este poziționată deasupra liniei mediane a mesei și se aplică o bandă de imobilizare.
+        - Caseta se așază în tăviță și, pentru regiunea renală, se centrează la LV1/2, la aproximativ 5 cm superior de marginea costală inferioară.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată spre centrul casetei, iar expunerea se efectuează în apnee după expir. 346 Rinichiul stâng Mușchiul psoas mare Rinichiul drept Coasta a 12-a Stomac Discul intervertebral lombar 2–3 Direcția fasciculului de raze X Pancreas Vezică biliară Ficat Umbra vezicii biliare Umbra rinichilor și a coloanei vertebrale Casetă Radiografie de profil a abdomenului
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -143,9 +149,9 @@ title: Rx Tract Urinar (Aparatul Renal) Oblică Posterioară Dreaptă
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Rotirea excesivă a pacientului va determina proiectarea rinichiului drept peste coloana vertebrală.
-Profil (lateral)
+    Rotirea excesivă a pacientului va determina proiectarea rinichiului drept peste coloana vertebrală. Profil (lateral)
 
 
 ### 🖼️ Imagini

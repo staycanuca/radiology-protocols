@@ -2,41 +2,44 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la pIp articulație
+centering: perpendicular pe receptorul de imagine, orientat spre articulația IFP
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de distal, middle, și
-  proximal falange; distal metacarpal; și associated articulații
-- Pathologic processes, such ca osteoporosis și artroză / modificări degenerative
-  articulare
+- suspiciune de fractură și luxație / subluxație articulară a falangelor distale,
+  mijlocii și proximale; a metacarpianului distal; și a articulațiilor asociate
+- Procese patologice, precum osteoporoza și artroza / modificările degenerative articulare
 images:
-- caption: Fig. 4.35 PA—second falange.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.35 PA—second
-    falange.)
+- caption: Fig. 4.35 PA—falanga a doua.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.35 PA—falanga
+    a doua.)
   url: assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_1.jpeg
-- caption: Fig. 4.36 PA—fourth falange.
+- caption: Fig. 4.36 PA—falanga a patra.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.36
-    PA—fourth falange.)
+    PA—falanga a patra.)
   url: assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_2.jpeg
-- caption: Fig. 4.37 PA—fourth falange.
+- caption: Fig. 4.37 PA—falanga a patra.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.37
-    PA—fourth falange.)
+    PA—falanga a patra.)
   url: assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_3.jpeg
-- caption: Fig. 4.38 PA—fourth falange.
+- caption: Fig. 4.38 PA—falanga a patra.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.38
-    PA—fourth falange.)
+    PA—falanga a patra.)
   url: assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: possible alternative routine involves larger receptorul de imagine pentru include
-  entire Mână pentru Incidență Postero-Anterioară (PA) de finger pentru possible secondary
-  traumatism acuttism / Regim Urgență sau pathology la other aspects de Mână și Pumn
-  (Articulație Radiocarpiană). Then oblic și lateral incidențe de affected finger
-  only would fie taken.
-position: 'Pacient: Seat pacient la end de table, cu Cot flectat about 90° și cu Mână
-  și Antebraț resting pe masa de examinare (Fig. 4.35).; Regiune anatomică: Pronate
-  Mână cu Degete Mână extins Center și align axa longitudinală de affected finger
-  cu axa longitudinală de receptorul de imagine Separate adjoining Degete Mână de
-  la affected finger (Fig. 4.36)'
+notes: O posibilă alternativă de rutină implică utilizarea unui receptor de imagine
+  mai mare pentru a include întreaga mână pentru incidența postero-anterioară (PA)
+  a degetului, în caz de posibil traumatism acut / regim de urgență secundar sau patologie
+  la nivelul altor regiuni ale mâinii și pumnului (articulației radiocarpiene). Apoi
+  se efectuează numai incidențele oblică și laterală ale degetului afectat.
+position: 'Pacient: Așezați pacientul la capătul mesei, cu cotul flectat aproximativ
+  90° și cu mâna și antebrațul sprijinite pe masa de examinare (Fig. 4.35).; Regiune
+  anatomică: Pronați mâna cu degetele extinse. Centrați și aliniați axa longitudinală
+  a degetului afectat cu axa longitudinală a receptorului de imagine. Separați degetele
+  adiacente de degetul afectat (Fig. 4.36).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,28 +47,29 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'distal, middle, și proximal falange; distal metacarpal; și associated articulații.
-  poziție:'
-- axa longitudinală de finger trebuie să fie aliniat cu și paralel la side margine
-  de receptorul de imagine.
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  de Degete Mână este evidenced prin simetric appearance de ambele părți (bilateral)
-  sau concavities de shafts de falange și distal oase metacarpiene.'
-- amount de tissue pe fiecare side de falange trebuie să appear equal.
-- Degete Mână trebuie să fie separated cu fără overlapping de soft tissues.
-- articulații interfalangiene (IF) trebuie să appear open, indicating that Mână was
-  fully în pronație și correct raza centrală poziție was used (Figs. 4.37 și 4.38).
-- 'raza centrală și midpoint de collimation field size trebuie să fie la pIp articulație.
-  expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
-  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
-  de mișcare. Degete Mână ROUTINE
+- 'falanga distală, mijlocie și proximală; metacarpianul distal; și articulațiile
+  asociate. Poziție:'
+- Axa longitudinală a degetului trebuie să fie aliniată cu marginea laterală a receptorului
+  de imagine și paralelă cu aceasta.
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase
+  de Degete Mână este evidențiată prin aspectul simetric de ambele părți (bilateral)
+  sau prin concavitățile diafizelor falangelor și ale oaselor metacarpiene distale.'
+- Cantitatea de țesut de pe fiecare parte a falangei trebuie să pară egală.
+- Degetele mâinii trebuie să fie separate, fără suprapunerea țesuturilor moi.
+- Articulațiile interfalangiene (IF) trebuie să apară deschise, indicând că mâna a
+  fost complet în pronație și că a fost utilizată poziția corectă a razei centrale
+  (Figs. 4.37 și 4.38).
+- 'Raza centrală și punctul median al dimensiunii câmpului de colimare trebuie să
+  fie la nivelul articulației PIP. Expunere:'
+- Expunerea optimă a receptorului de imagine și contrastul, fără mișcare, evidențiază
+  marginile părților moi și contururi osoase și travee trabeculare clare, fără artefacte
+  de mișcare. DEGETELE MÂINII — DE RUTINĂ
 - PA
-- PA oblic
-- lateral Fig. 4.37 PA—fourth falange. distal phalanx Middle phalanx (raza centrală)
-  proximal phalanx 4th metacarpal 4th articulații metacarpofalangiene (MCF) proximal
-  articulații interfalangiene (IF) distal articulații interfalangiene (IF) Fig. 4.38
-  PA—fourth falange.
+- PA oblică
+- profil Fig. 4.37 PA—falanga a patra. falanga distală falanga mijlocie (raza centrală)
+  falanga proximală al 4-lea metacarpian articulațiile metacarpofalangiene (MCF) ale
+  degetului al 4-lea articulațiile interfalangiene (IF) proximale articulațiile interfalangiene
+  (IF) distale Fig. 4.38 PA—falanga a patra.
 sid_dff: 100 cm
 slug: rx-degete-mana-pa-postero-anterior-bontrager
 sources:
@@ -73,8 +77,9 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la area de affected finger și distal
-    aspect de metacarpal Fig. 4.35 PA—second falange. Fig. 4.36 PA—fourth falange.
+  collimation: 'Dimensiunea câmpului: Colimați pe patru laturi până la regiunea degetului
+    afectat și aspectul distal al metacarpianului. Fig. 4.35 PA—falanga a doua. Fig.
+    4.36 PA—falanga a patra.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -101,23 +106,24 @@ title: Rx Degete Mână PA (Postero-Anterior)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de distal, middle, și proximal falange; distal metacarpal; și associated articulații
-        - Pathologic processes, such ca osteoporosis și artroză / modificări degenerative articulare
+        - suspiciune de fractură și luxație / subluxație articulară a falangelor distale, mijlocii și proximale; a metacarpianului distal; și a articulațiilor asociate
+        - Procese patologice, precum osteoporoza și artroza / modificările degenerative articulare
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot flectat about 90° și cu Mână și Antebraț resting pe masa de examinare (Fig. 4.35).; Regiune anatomică: Pronate Mână cu Degete Mână extins Center și align axa longitudinală de affected finger cu axa longitudinală de receptorul de imagine Separate adjoining Degete Mână de la affected finger (Fig. 4.36)
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la pIp articulație
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu cotul flectat aproximativ 90° și cu mâna și antebrațul sprijinite pe masa de examinare (Fig. 4.35).; Regiune anatomică: Pronați mâna cu degetele extinse. Centrați și aliniați axa longitudinală a degetului afectat cu axa longitudinală a receptorului de imagine. Separați degetele adiacente de degetul afectat (Fig. 4.36).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat spre articulația IFP
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -133,24 +139,24 @@ title: Rx Degete Mână PA (Postero-Anterior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la area de affected finger și distal aspect de metacarpal Fig. 4.35 PA—second falange. Fig. 4.36 PA—fourth falange. |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Colimați pe patru laturi până la regiunea degetului afectat și aspectul distal al metacarpianului. Fig. 4.35 PA—falanga a doua. Fig. 4.36 PA—falanga a patra. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal, middle, și proximal falange; distal metacarpal; și associated articulații. poziție:
-    - axa longitudinală de finger trebuie să fie aliniat cu și paralel la side margine de receptorul de imagine.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Degete Mână este evidenced prin simetric appearance de ambele părți (bilateral) sau concavities de shafts de falange și distal oase metacarpiene.
-    - amount de tissue pe fiecare side de falange trebuie să appear equal.
-    - Degete Mână trebuie să fie separated cu fără overlapping de soft tissues.
-    - articulații interfalangiene (IF) trebuie să appear open, indicating that Mână was fully în pronație și correct raza centrală poziție was used (Figs. 4.37 și 4.38).
-    - raza centrală și midpoint de collimation field size trebuie să fie la pIp articulație. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Degete Mână ROUTINE
+    - falanga distală, mijlocie și proximală; metacarpianul distal; și articulațiile asociate. Poziție:
+    - Axa longitudinală a degetului trebuie să fie aliniată cu marginea laterală a receptorului de imagine și paralelă cu aceasta.
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase de Degete Mână este evidențiată prin aspectul simetric de ambele părți (bilateral) sau prin concavitățile diafizelor falangelor și ale oaselor metacarpiene distale.
+    - Cantitatea de țesut de pe fiecare parte a falangei trebuie să pară egală.
+    - Degetele mâinii trebuie să fie separate, fără suprapunerea țesuturilor moi.
+    - Articulațiile interfalangiene (IF) trebuie să apară deschise, indicând că mâna a fost complet în pronație și că a fost utilizată poziția corectă a razei centrale (Figs. 4.37 și 4.38).
+    - Raza centrală și punctul median al dimensiunii câmpului de colimare trebuie să fie la nivelul articulației PIP. Expunere:
+    - Expunerea optimă a receptorului de imagine și contrastul, fără mișcare, evidențiază marginile părților moi și contururi osoase și travee trabeculare clare, fără artefacte de mișcare. DEGETELE MÂINII — DE RUTINĂ
     - PA
-    - PA oblic
-    - lateral Fig. 4.37 PA—fourth falange. distal phalanx Middle phalanx (raza centrală) proximal phalanx 4th metacarpal 4th articulații metacarpofalangiene (MCF) proximal articulații interfalangiene (IF) distal articulații interfalangiene (IF) Fig. 4.38 PA—fourth falange.
+    - PA oblică
+    - profil Fig. 4.37 PA—falanga a patra. falanga distală falanga mijlocie (raza centrală) falanga proximală al 4-lea metacarpian articulațiile metacarpofalangiene (MCF) ale degetului al 4-lea articulațiile interfalangiene (IF) proximale articulațiile interfalangiene (IF) distale Fig. 4.38 PA—falanga a patra.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -162,8 +168,9 @@ title: Rx Degete Mână PA (Postero-Anterior)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    possible alternative routine involves larger receptorul de imagine pentru include entire Mână pentru Incidență Postero-Anterioară (PA) de finger pentru possible secondary traumatism acuttism / Regim Urgență sau pathology la other aspects de Mână și Pumn (Articulație Radiocarpiană). Then oblic și lateral incidențe de affected finger only would fie taken.
+    O posibilă alternativă de rutină implică utilizarea unui receptor de imagine mai mare pentru a include întreaga mână pentru incidența postero-anterioară (PA) a degetului, în caz de posibil traumatism acut / regim de urgență secundar sau patologie la nivelul altor regiuni ale mâinii și pumnului (articulației radiocarpiene). Apoi se efectuează numai incidențele oblică și laterală ale degetului afectat.
 
 
 ### 🖼️ Imagini
@@ -172,33 +179,33 @@ title: Rx Degete Mână PA (Postero-Anterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.35 PA—second falange.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_1.jpeg)
+![Fig. 4.35 PA—falanga a doua.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.35 PA—second falange.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.35 PA—second falange.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.36 PA—fourth falange.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.36 PA—fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.36 PA—fourth falange.)</span></figcaption>
+<figcaption><strong>Fig. 4.35 PA—falanga a doua.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.35 PA—falanga a doua.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.37 PA—fourth falange.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_3.jpeg)
+![Fig. 4.36 PA—falanga a patra.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.37 PA—fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.37 PA—fourth falange.)</span></figcaption>
+<figcaption><strong>Fig. 4.36 PA—falanga a patra.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.36 PA—falanga a patra.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.38 PA—fourth falange.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_4.jpeg)
+![Fig. 4.37 PA—falanga a patra.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.38 PA—fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.38 PA—fourth falange.)</span></figcaption>
+<figcaption><strong>Fig. 4.37 PA—falanga a patra.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.37 PA—falanga a patra.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.38 PA—falanga a patra.](../../assets/images/protocols/bontrager/rx-degete-mana-pa-postero-anterior-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 4.38 PA—falanga a patra.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.38 PA—falanga a patra.)</span></figcaption>
 
 </figure>
 

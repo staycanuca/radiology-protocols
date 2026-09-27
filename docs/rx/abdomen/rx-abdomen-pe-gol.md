@@ -99,6 +99,7 @@ title: Rx Abdomen pe Gol (Abdominală Simplă)
             - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -140,6 +141,7 @@ title: Rx Abdomen pe Gol (Abdominală Simplă)
     - Verificarea obligatorie a statusului de sarcină la paciente
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pentru identificarea aerului liber subdiafragmatic (pneumoperitoneu), pacientul trebuie menținut în ortostatism minim 5-10 minute înainte de declanșarea expunerii.

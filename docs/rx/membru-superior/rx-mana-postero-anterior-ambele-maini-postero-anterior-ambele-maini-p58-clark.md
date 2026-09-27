@@ -3,22 +3,24 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • vertical central este centred over point midway între inter-phalangeal
-  articulații de ambele thumbs.
+centering: • Raza centrală verticală este centrată deasupra punctului situat la jumătatea
+  distanței dintre articulațiile interfalangiene ale ambelor police.
 clinical_indications:
-- 43 2 Mână Postero-anterior (PA) – Ambele Mâini This incidență este often used la
-  evidențiază subtle radiographic changes associated cu early poliartrită reumatoidă
-  / artropatie inflamatorie și la monitor progress de disease.
+- 43 2 Mână postero-anterioară (PA) – ambele mâini. Această incidență este utilizată
+  frecvent pentru evidențierea modificărilor radiografice subtile asociate cu poliartrita
+  reumatoidă precoce / artropatia inflamatorie și pentru monitorizarea progresiei
+  bolii.
 images:
-- caption: inter-phalangeal articulații de ambele thumbs.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Articulațiile interfalangiene ale ambelor police.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_1.jpeg
-- caption: Normal Postero-anterior (PA) radiografie, Ambele Mâini
+- caption: Radiografie postero-anterioară (PA) normală, ambele mâini
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_2.jpeg
-- caption: Postero-anterior (PA) radiografie de Ambele Mâini evidențiind severe erosive
-    disease
+- caption: Radiografie postero-anterioară (PA) a ambelor mâini, evidențiind boală
+    erozivă severă
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_3.jpeg
@@ -26,23 +28,28 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• Ideally, Pacientul este așezat pe scaun lângă masa de examinare. However,
-  if this este nu possible due la pacientul’s condition, pacientul poate fie așezat
-  pe scaun facing masa de examinare (see Radiation protection, p. 35).
+position: '• Ideal, pacientul este așezat pe un scaun lângă masa de examinare. Totuși,
+  dacă acest lucru nu este posibil din cauza stării pacientului, pacientul poate fi
+  așezat pe un scaun orientat spre masa de examinare (a se vedea Protecția împotriva
+  radiațiilor, p. 35).
 
-  • ambele forearms sunt în pronație și plasat pe masa de examinare cu palmer surface
-  de mâinile în contact cu caseta.
+  • Ambele antebrațe sunt în pronație și așezate pe masa de examinare, cu suprafața
+  palmară a mâinilor în contact cu caseta.
 
-  • Degete Mână sunt separated și extins but relaxat la ensure that they remain în
-  contact cu caseta.
+  • Degetele mâinii sunt depărtate și extinse, dar relaxate, pentru a se asigura că
+  rămân în contact cu caseta.
 
-  • wrists sunt ajustat astfel încât radial și ulna styloid processes sunt echidistant
-  față de caseta.
+  • Articulațiile radiocarpiene sunt ajustate astfel încât apofizele stiloide radială
+  și ulnară să fie echidistante față de casetă.
 
-  • săculeți cu nisip este plasat over lower forearms pentru imobilizare.'
+  • Un săculeț cu nisip este plasat peste antebrațele distale pentru imobilizare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -52,12 +59,12 @@ protection:
   expunere.
 quality_criteria:
 - Imaginea trebuie să demonstreze toate falangele (inclusiv părțile moi ale pulpei
-  degetelor), oasele carpiene, metacarpienele și extremitatea distală radiusului și
-  ulnei.
-- parametri de expunere selected trebuie să produce densitate optică și contrast that
-  optimally evidențiază articulație detail. Normal Postero-anterior (PA) radiografie,
-  Ambele Mâini Postero-anterior (PA) radiografie de Ambele Mâini evidențiind severe
-  erosive disease
+  degetelor), oasele carpiene, metacarpienele și extremitatea distală a radiusului
+  și ulnei.
+- Parametrii de expunere selectați trebuie să producă densitate optică și contrast
+  care să evidențieze optim detaliile articulare. Radiografie normală postero-anterioară
+  (PA), ambele mâini. Radiografie postero-anterioară (PA) a ambelor mâini, evidențiind
+  boală erozivă severă.
 sid_dff: 100 cm
 slug: rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark
 sources:
@@ -66,15 +73,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Mână Postero-Anterior (PA) - Ambele Mâini Postero-Anterior (PA) - Ambele
-  Mâini
+  mas: Conform AEC / grosimii anatomice
+title: Rx mână postero-anterioară (PA) – ambele mâini
 ---
-# Rx Mână Postero-Anterior (PA) - Ambele Mâini Postero-Anterior (PA) - Ambele Mâini
+# Rx mână postero-anterioară (PA) – ambele mâini
 
 
 <div class="rx-meta-bar">
@@ -93,26 +99,28 @@ title: Rx Mână Postero-Anterior (PA) - Ambele Mâini Postero-Anterior (PA) - A
 
     === "Indicații Clinice"
 
-        - 43 2 Mână Postero-anterior (PA) – Ambele Mâini This incidență este often used la evidențiază subtle radiographic changes associated cu early poliartrită reumatoidă / artropatie inflamatorie și la monitor progress de disease.
+        - 43 2 Mână postero-anterioară (PA) – ambele mâini. Această incidență este utilizată frecvent pentru evidențierea modificărilor radiografice subtile asociate cu poliartrita reumatoidă precoce / artropatia inflamatorie și pentru monitorizarea progresiei bolii.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Ideally, Pacientul este așezat pe scaun lângă masa de examinare. However, if this este nu possible due la pacientul’s condition, pacientul poate fie așezat pe scaun facing masa de examinare (see Radiation protection, p. 35).
-• ambele forearms sunt în pronație și plasat pe masa de examinare cu palmer surface de mâinile în contact cu caseta.
-• Degete Mână sunt separated și extins but relaxat la ensure that they remain în contact cu caseta.
-• wrists sunt ajustat astfel încât radial și ulna styloid processes sunt echidistant față de caseta.
-• săculeți cu nisip este plasat over lower forearms pentru imobilizare.
-    - **Punct de Centrare Fascicul:** • vertical central este centred over point midway între inter-phalangeal articulații de ambele thumbs.
+    - **Poziție Pacient:**
+        - Ideal, pacientul este așezat pe un scaun lângă masa de examinare. Totuși, dacă acest lucru nu este posibil din cauza stării pacientului, pacientul poate fi așezat pe un scaun orientat spre masa de examinare (a se vedea Protecția împotriva radiațiilor, p. 35).
+        - Ambele antebrațe sunt în pronație și așezate pe masa de examinare, cu suprafața palmară a mâinilor în contact cu caseta.
+        - Degetele mâinii sunt depărtate și extinse, dar relaxate, pentru a se asigura că rămân în contact cu caseta.
+        - Articulațiile radiocarpiene sunt ajustate astfel încât apofizele stiloide radială și ulnară să fie echidistante față de casetă.
+        - Un săculeț cu nisip este plasat peste antebrațele distale pentru imobilizare.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată deasupra punctului situat la jumătatea distanței dintre articulațiile interfalangiene ale ambelor police.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -123,20 +131,20 @@ title: Rx Mână Postero-Anterior (PA) - Ambele Mâini Postero-Anterior (PA) - A
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Imaginea trebuie să demonstreze toate falangele (inclusiv părțile moi ale pulpei degetelor), oasele carpiene, metacarpienele și extremitatea distală radiusului și ulnei.
-    - parametri de expunere selected trebuie să produce densitate optică și contrast that optimally evidențiază articulație detail. Normal Postero-anterior (PA) radiografie, Ambele Mâini Postero-anterior (PA) radiografie de Ambele Mâini evidențiind severe erosive disease
+    - Imaginea trebuie să demonstreze toate falangele (inclusiv părțile moi ale pulpei degetelor), oasele carpiene, metacarpienele și extremitatea distală a radiusului și ulnei.
+    - Parametrii de expunere selectați trebuie să producă densitate optică și contrast care să evidențieze optim detaliile articulare. Radiografie normală postero-anterioară (PA), ambele mâini. Radiografie postero-anterioară (PA) a ambelor mâini, evidențiind boală erozivă severă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -148,6 +156,7 @@ title: Rx Mână Postero-Anterior (PA) - Ambele Mâini Postero-Anterior (PA) - A
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -158,25 +167,25 @@ title: Rx Mână Postero-Anterior (PA) - Ambele Mâini Postero-Anterior (PA) - A
 
 <figure class="protocol-image-card" markdown>
 
-![inter-phalangeal articulații de ambele thumbs.](../../assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_1.jpeg)
+![Articulațiile interfalangiene ale ambelor police.](../../assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_1.jpeg)
 
-<figcaption><strong>inter-phalangeal articulații de ambele thumbs.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Normal Postero-anterior (PA) radiografie, Ambele Mâini](../../assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_2.jpeg)
-
-<figcaption><strong>Normal Postero-anterior (PA) radiografie, Ambele Mâini</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Articulațiile interfalangiene ale ambelor police.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) radiografie de Ambele Mâini evidențiind severe erosive disease](../../assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_3.jpeg)
+![Radiografie postero-anterioară (PA) normală, ambele mâini](../../assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_2.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) radiografie de Ambele Mâini evidențiind severe erosive disease</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie postero-anterioară (PA) normală, ambele mâini</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie postero-anterioară (PA) a ambelor mâini, evidențiind boală erozivă severă](../../assets/images/protocols/clark/rx-mana-postero-anterior-ambele-maini-postero-anterior-ambele-maini-p58-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie postero-anterioară (PA) a ambelor mâini, evidențiind boală erozivă severă</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

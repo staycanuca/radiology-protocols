@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: Perpendiculară, intrând la 2 inches (5 cm) superior de conductul auditiv
+centering: Perpendiculară, intrând la 2 țoli (5 cm) superior de conductul auditiv
   extern (CAE). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
@@ -19,6 +19,10 @@ images:
 - caption: Merrill — pagina 871, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-de-profil-lateral-right-or-left-position-p868-merrill/p871_fig4.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -60,12 +64,12 @@ source_sections:
     de imagine. Șaua turcească, procesele clinoide anterioare, dorsum sellae și procesele
     clinoide posterioare sunt bine vizualizate în incidența de profil (Fig. 11.54
     și 11.55).
-  collimation: Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+  collimation: Se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm)
     dincolo de conturul cutanat al craniului. Se verifică lumina la vertex, marginile
     anterioară, posterioară și bazală ale craniului. Se plasează markerul de lateralitate
     (D/S) în câmpul de expunere colimat.
-  cr: '• Perpendiculară, intrând la 2 inches (5 cm) superior de conductul auditiv
-    extern (CAE).
+  cr: '• Perpendiculară, intrând la 2 țoli (5 cm) superior de conductul auditiv extern
+    (CAE).
 
     • Se centrează receptorul de imagine pe raza centrală.'
   criteria: 'Criterii radiologice de calitate a imaginii:
@@ -107,7 +111,7 @@ source_sections:
     să se sprijine pe antebraț și se flectează genunchiul pentru a ridica partea respectivă.'
   respiration: apnee (oprirea respirației).
   tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
-    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
     (24 ×
 
     30 cm), transversal.'
@@ -116,7 +120,7 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+  collimation: Se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm)
     dincolo de conturul cutanat al craniului. Se verifică lumina la vertex, marginile
     anterioară, posterioară și bazală ale craniului. Se plasează markerul de lateralitate
     (D/S) în câmpul de expunere colimat.
@@ -146,17 +150,18 @@ title: Rx Craniu — Incidență de Profil (Lateral) — Profil (Drept sau Stân
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Se așază pacientul în incidență oblică anterioară, în poziție șezândă în ortostatism sau în decubit. Dacă se utilizează incidența oblică anterioară în decubit, pacientul este instruit să se sprijine pe antebraț și se flectează genunchiul pentru a ridica partea respectivă.; se ajustează capul pacientului astfel încât MSP să fie paralel cu planul receptorului de imagine. Dacă este necesar, se plasează un suport sub partea mandibulei pentru a preveni alunecarea acesteia. Se ajustează flexia gâtului pacientului astfel încât linia infraorbitomeatală (LIOM) să fie perpendiculară pe marginea anterioară a receptorului de imagine. Linia infraorbitomeatală (LIOM) trebuie să fie, de asemenea, paralelă cu axa longitudinală a receptorului de imagine. Se poziționează capul astfel încât linia interpupilară (LIP) să fie perpendiculară pe receptorul de imagine (RI) (Fig. 11.52 și 11.53). Capul pacientului se sprijină de obicei pe pavilionul urechii. Se imobilizează capul pacientului.
-    - **Punct de Centrare Fascicul:** Perpendiculară, intrând la 2 inches (5 cm) superior de conductul auditiv extern (CAE). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Perpendiculară, intrând la 2 țoli (5 cm) superior de conductul auditiv extern (CAE). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -172,7 +177,7 @@ title: Rx Craniu — Incidență de Profil (Lateral) — Profil (Drept sau Stân
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex, marginile anterioară, posterioară și bazală ale craniului. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex, marginile anterioară, posterioară și bazală ale craniului. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -184,8 +189,8 @@ title: Rx Craniu — Incidență de Profil (Lateral) — Profil (Drept sau Stân
     - Regiunile mastoidiene și conductele auditive externe (CAE) suprapuse
     - TMI suprapuse
     - Șaua turcească în profil
-• Fără suprapunerea coloanei cervicale prin mandibulă
-• Detaliu osos al craniului și al țesuturilor moi înconjurătoare
+    - Fără suprapunerea coloanei cervicale prin mandibulă
+    - Detaliu osos al craniului și al țesuturilor moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -194,6 +199,7 @@ title: Rx Craniu — Incidență de Profil (Lateral) — Profil (Drept sau Stân
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -249,52 +255,3 @@ title: Rx Craniu — Incidență de Profil (Lateral) — Profil (Drept sau Stân
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 868–871](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Jumătățile suprapuse ale craniului, cu detalii ale părții adiacente receptorului de imagine. Șaua turcească, procesele clinoide anterioare, dorsum sellae și procesele clinoide posterioare sunt bine vizualizate în incidența de profil (Fig. 11.54 și 11.55).
-
-### colimare
-
-Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex, marginile anterioară, posterioară și bazală ale craniului. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Perpendiculară, intrând la 2 inches (5 cm) superior de conductul auditiv extern (CAE).
-• Se centrează receptorul de imagine pe raza centrală.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-• Craniul în întregime, fără rotație sau înclinare, evidențiat prin:
-• Plafoanele orbitare și aripile mari ale sfenoidului suprapuse
-• Regiunile mastoidiene și conductele auditive externe (CAE) suprapuse
-• TMI suprapuse
-• Șaua turcească în profil
-• Fără suprapunerea coloanei vertebrale cervicale prin mandibulă
-• Detaliu osos al craniului și al țesuturilor moi înconjurătoare
-
-### part_pos
-
-• Se ajustează capul pacientului astfel încât MSP să fie paralel cu planul receptorului de imagine. Dacă este necesar, se plasează un suport sub partea mandibulei pentru a preveni alunecarea acesteia.
-• Se ajustează flexia gâtului pacientului astfel încât linia infraorbitomeatală (LIOM) să fie perpendiculară pe marginea anterioară a receptorului de imagine. Linia infraorbitomeatală (LIOM) trebuie să fie, de asemenea, paralelă cu axa longitudinală a receptorului de imagine.
-• Se poziționează capul astfel încât linia interpupilară (LIP) să fie perpendiculară pe receptorul de imagine (RI) (Fig. 11.52 și 11.53). Capul pacientului se sprijină de obicei pe pavilionul urechii.
-• Se imobilizează capul pacientului.
-
-### patient_pos
-
-• Se așază pacientul în poziție oblică anterioară, în șezut pe scaun în ortostatism sau în decubit.
-• Dacă se utilizează poziția oblică anterioară în decubit, pacientul este instruit să se sprijine pe antebraț și se flectează genunchiul pentru a ridica partea respectivă.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches (24 ×
-30 cm), transversal.
-

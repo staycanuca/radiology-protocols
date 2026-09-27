@@ -22,6 +22,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     3)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-pa-or-ap-antero-posterior-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: La majoritatea pacienților, canula de clismă poate fi îndepărtată înainte
@@ -98,11 +102,12 @@ title: Rx Irigografie (Clismă Baritată) PA SAU AP (Antero-Posterior)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -148,6 +153,7 @@ title: Rx Irigografie (Clismă Baritată) PA SAU AP (Antero-Posterior)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: La majoritatea pacienților, canula de clismă poate fi îndepărtată înainte de efectuarea radiografiilor, cu excepția cazului în care se utilizează o canulă de retenție. În general, acest tip nu trebuie îndepărtat până când pacientul nu este pregătit să evacueze. Includeți ampula rectală la marginea inferioară a radiografiei. Stabiliți protocolul departamentului privind includerea flexurii colice stângi la toți pacienții dacă această regiune este inclusă adecvat în imaginile țintite obținute în timpul fluoroscopiei. (La majoritatea pacienților adulți sunt necesare două imagini dacă această regiune trebuie inclusă.) La pacienții hiperstenici, utilizați două receptoare de imagine de 14 × 17 țoli (35 × 43 cm), așezate în orientare orizontală, pentru a include întregul intestin gros (colon). Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP Fig. 13.61 Incidență AP sau PA (în medalion). Fig. 13.62 Incidență Postero-Anterioară (PA)—Irigografie (Clismă Baritată) cu contrast simplu.

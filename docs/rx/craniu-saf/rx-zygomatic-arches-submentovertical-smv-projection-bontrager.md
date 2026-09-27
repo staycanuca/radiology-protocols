@@ -2,42 +2,49 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Align Raza centrală (RC) perpendiculară pe receptorul de imagine (see NOTE
-  2). Center raza centrală midway între zygomatic arches, la level 1½ inches (4 cm)
-  inferior la mandibular simfiză. Se centrează receptorul de imagine pe raza centrală,
-  cu plane de receptorul de imagine paralel la linie infraorbitomeatală (LIOM).
+centering: Aliniați raza centrală (RC) perpendicular pe receptorul de imagine (vezi
+  NOTA 2). Centrați raza centrală la jumătatea distanței dintre arcadele zigomatice,
+  la nivelul de 1½ țoli (4 cm) inferior de simfiza mandibulară. Centrați receptorul
+  de imagine pe raza centrală, cu planul receptorului de imagine paralel cu linia
+  infraorbitomeatală (LIOM).
 clinical_indications:
-- suspiciune de fractură de zygomatic arch
-- Neoplastic sau inflammatory processes
+- suspiciune de fractură a arcadei zigomatice
+- Procese neoplazice sau inflamatorii
 images:
-- caption: Fig. 11.143 SMV incidență, Ortostatism și Decubit dorsal (inset)—linie
-    infraorbitomeatală (LIOM) paralel
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.143 SMV incidență,
-    în ortostatism și în decubit dorsal (inset)—linie infraorbitomeatală (LIOM) paralel)
+- caption: Fig. 11.143 Incidență SMV, în ortostatism și în decubit dorsal (imagine
+    inserată)—linia infraorbitomeatală (LIOM) paralelă
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.143 Incidență
+    SMV, în ortostatism și în decubit dorsal (imagine inserată)—linia infraorbitomeatală
+    (LIOM) paralelă)
   url: assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_1.jpeg
-- caption: Fig. 11.144 SMV incidență.
+- caption: Fig. 11.144 Incidență SMV.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.144
-    SMV incidență.)
+    Incidență SMV.)
   url: assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_2.jpeg
-- caption: Fig. 11.145 SMV incidență.
+- caption: Fig. 11.145 Incidență SMV.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.145
-    SMV incidență.)
+    Incidență SMV.)
   url: assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
-notes: If pacient este unable la extend neck adequately, angle Raza centrală perpendiculară
-  la linie infraorbitomeatală (LIOM). If equipment allows, receptorul de imagine trebuie
-  să fie înclinat la maintain raza centrală/ receptorul de imagine perpendicular relationship
-  (Fig. 11.143, inset). ZYGOMATIC ARCHES ROUTINE SMV oblic inferosuperior (tangențial)
-  AP axial (modified Incidență AP Axială (Metoda Towne))
+notes: Dacă pacientul nu poate extinde gâtul adecvat, înclinați raza centrală perpendicular
+  pe linia infraorbitomeatală (LIOM). Dacă echipamentul permite, receptorul de imagine
+  trebuie înclinat pentru a menține relația perpendiculară dintre raza centrală și
+  receptorul de imagine (Fig. 11.143, detaliu). ARCADE ZIGOMATICE INCIDENȚĂ DE RUTINĂ
+  SMV oblică inferosuperior (tangențială) AP axială (incidență AP axială modificată
+  (metoda Towne))
 position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
-  capului și gâtului. This incidență poate fie taken cu pacientul Ortostatism sau
-  Decubit dorsal.; Regiune anatomică: Raise chin, hyperextend neck until linie infraorbitomeatală
-  (LIOM) este paralel cu receptorul de imagine (see'
+  capului și gâtului. Această incidență poate fi efectuată cu pacientul în ortostatism
+  sau decubit dorsal.; Regiune anatomică: Ridicați bărbia, hiperextindeți gâtul până
+  când linia infraorbitomeatală (LIOM) este paralelă cu receptorul de imagine (vezi'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,18 +52,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Zygomatic arches sunt evidențiat laterally de la fiecare ramuri mandibulare (Figs.
-  11.144 și 11.145). poziție:'
-- Correct linie infraorbitomeatală (LIOM)/raza centrală relationship, ca indicated
-  prin superimposition de mandibular simfiză pe frontal bone.
-- fără pacient rotație, ca indicated prin zygomatic arches visualized symmetrically.
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize zygomatic arches.
-- net bony margins indicate fără mișcare. Fig. 11.143 SMV incidență, Ortostatism și
-  Decubit dorsal (inset)—linie infraorbitomeatală (LIOM) paralel cu receptorul de
-  imagine; Raza centrală perpendiculară la linie infraorbitomeatală (LIOM). Fig. 11.144
-  SMV incidență. Mandibular simfiză over frontal bone Zygomatic bone Zygomatic arch
-  Temporal bone Fig. 11.145 SMV incidență. 24 18 fără AEC L
+- 'Arcadele zigomatice sunt evidențiate lateral față de fiecare ramură mandibulară
+  (Figs. 11.144 și 11.145). Poziție:'
+- Relația corectă dintre linia infraorbitomeatală (LIOM) și raza centrală, indicată
+  prin suprapunerea simfizei mandibulare peste osul frontal.
+- fără rotația pacientului, după cum indică vizualizarea simetrică a arcadelor zigomatice.
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul receptorului de imagine sunt optime pentru vizualizarea
+  arcadelor zigomatice.
+- Marginile osoase nete indică absența mișcării. Fig. 11.143 Incidență SMV, în ortostatism
+  și în decubit dorsal (imagine inserată)—linia infraorbitomeatală (LIOM) paralelă
+  cu receptorul de imagine; raza centrală perpendiculară pe linia infraorbitomeatală
+  (LIOM). Fig. 11.144 Incidență SMV. Simfiza mandibulară suprapusă peste osul frontal
+  Os zigomatic Arc zigomatic Os temporal Fig. 11.145 Incidență SMV. 24 18 fără AEC
+  L
 sid_dff: 100 cm
 slug: rx-zygomatic-arches-submentovertical-smv-projection-bontrager
 sources:
@@ -64,15 +73,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate la outer margins de zygomatic arches.
+  collimation: Colimați la marginile externe ale arcadelor zigomatice.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx ZYGOMATIC ARCHES SUBMENTOVERTICAL (SMV) Incidență
+title: Rx ARCE ZIGOMATICE INCIDENȚĂ SUBMENTOVERTICALĂ (SMV)
 ---
-# Rx ZYGOMATIC ARCHES SUBMENTOVERTICAL (SMV) Incidență
+# Rx ARCE ZIGOMATICE INCIDENȚĂ SUBMENTOVERTICALĂ (SMV)
 
 
 <div class="rx-meta-bar">
@@ -91,23 +100,24 @@ title: Rx ZYGOMATIC ARCHES SUBMENTOVERTICAL (SMV) Incidență
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură de zygomatic arch
-        - Neoplastic sau inflammatory processes
+        - suspiciune de fractură a arcadei zigomatice
+        - Procese neoplazice sau inflamatorii
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. This incidență poate fie taken cu pacientul Ortostatism sau Decubit dorsal.; Regiune anatomică: Raise chin, hyperextend neck until linie infraorbitomeatală (LIOM) este paralel cu receptorul de imagine (see
-    - **Punct de Centrare Fascicul:** Align Raza centrală (RC) perpendiculară pe receptorul de imagine (see NOTE 2). Center raza centrală midway între zygomatic arches, la level 1½ inches (4 cm) inferior la mandibular simfiză. Se centrează receptorul de imagine pe raza centrală, cu plane de receptorul de imagine paralel la linie infraorbitomeatală (LIOM).
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Această incidență poate fi efectuată cu pacientul în ortostatism sau decubit dorsal.; Regiune anatomică: Ridicați bărbia, hiperextindeți gâtul până când linia infraorbitomeatală (LIOM) este paralelă cu receptorul de imagine (vezi
+    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) perpendicular pe receptorul de imagine (vezi NOTA 2). Centrați raza centrală la jumătatea distanței dintre arcadele zigomatice, la nivelul de 1½ țoli (4 cm) inferior de simfiza mandibulară. Centrați receptorul de imagine pe raza centrală, cu planul receptorului de imagine paralel cu linia infraorbitomeatală (LIOM).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -123,19 +133,19 @@ title: Rx ZYGOMATIC ARCHES SUBMENTOVERTICAL (SMV) Incidență
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate la outer margins de zygomatic arches. |
+    | **Colimare Fascicul** | Colimați la marginile externe ale arcadelor zigomatice. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Zygomatic arches sunt evidențiat laterally de la fiecare ramuri mandibulare (Figs. 11.144 și 11.145). poziție:
-    - Correct linie infraorbitomeatală (LIOM)/raza centrală relationship, ca indicated prin superimposition de mandibular simfiză pe frontal bone.
-    - fără pacient rotație, ca indicated prin zygomatic arches visualized symmetrically.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize zygomatic arches.
-    - net bony margins indicate fără mișcare. Fig. 11.143 SMV incidență, Ortostatism și Decubit dorsal (inset)—linie infraorbitomeatală (LIOM) paralel cu receptorul de imagine; Raza centrală perpendiculară la linie infraorbitomeatală (LIOM). Fig. 11.144 SMV incidență. Mandibular simfiză over frontal bone Zygomatic bone Zygomatic arch Temporal bone Fig. 11.145 SMV incidență. 24 18 fără AEC L
+    - Arcadele zigomatice sunt evidențiate lateral față de fiecare ramură mandibulară (Figs. 11.144 și 11.145). Poziție:
+    - Relația corectă dintre linia infraorbitomeatală (LIOM) și raza centrală, indicată prin suprapunerea simfizei mandibulare peste osul frontal.
+    - fără rotația pacientului, după cum indică vizualizarea simetrică a arcadelor zigomatice.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul receptorului de imagine sunt optime pentru vizualizarea arcadelor zigomatice.
+    - Marginile osoase nete indică absența mișcării. Fig. 11.143 Incidență SMV, în ortostatism și în decubit dorsal (imagine inserată)—linia infraorbitomeatală (LIOM) paralelă cu receptorul de imagine; raza centrală perpendiculară pe linia infraorbitomeatală (LIOM). Fig. 11.144 Incidență SMV. Simfiza mandibulară suprapusă peste osul frontal Os zigomatic Arc zigomatic Os temporal Fig. 11.145 Incidență SMV. 24 18 fără AEC L
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -147,8 +157,9 @@ title: Rx ZYGOMATIC ARCHES SUBMENTOVERTICAL (SMV) Incidență
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    If pacient este unable la extend neck adequately, angle Raza centrală perpendiculară la linie infraorbitomeatală (LIOM). If equipment allows, receptorul de imagine trebuie să fie înclinat la maintain raza centrală/ receptorul de imagine perpendicular relationship (Fig. 11.143, inset). ZYGOMATIC ARCHES ROUTINE SMV oblic inferosuperior (tangențial) AP axial (modified Incidență AP Axială (Metoda Towne))
+    Dacă pacientul nu poate extinde gâtul adecvat, înclinați raza centrală perpendicular pe linia infraorbitomeatală (LIOM). Dacă echipamentul permite, receptorul de imagine trebuie înclinat pentru a menține relația perpendiculară dintre raza centrală și receptorul de imagine (Fig. 11.143, detaliu). ARCADE ZIGOMATICE INCIDENȚĂ DE RUTINĂ SMV oblică inferosuperior (tangențială) AP axială (incidență AP axială modificată (metoda Towne))
 
 
 ### 🖼️ Imagini
@@ -157,25 +168,25 @@ title: Rx ZYGOMATIC ARCHES SUBMENTOVERTICAL (SMV) Incidență
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.143 SMV incidență, Ortostatism și Decubit dorsal (inset)—linie infraorbitomeatală (LIOM) paralel](../../assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_1.jpeg)
+![Fig. 11.143 Incidență SMV, în ortostatism și în decubit dorsal (imagine inserată)—linia infraorbitomeatală (LIOM) paralelă](../../assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.143 SMV incidență, Ortostatism și Decubit dorsal (inset)—linie infraorbitomeatală (LIOM) paralel</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.143 SMV incidență, în ortostatism și în decubit dorsal (inset)—linie infraorbitomeatală (LIOM) paralel)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 11.144 SMV incidență.](../../assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 11.144 SMV incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.144 SMV incidență.)</span></figcaption>
+<figcaption><strong>Fig. 11.143 Incidență SMV, în ortostatism și în decubit dorsal (imagine inserată)—linia infraorbitomeatală (LIOM) paralelă</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.143 Incidență SMV, în ortostatism și în decubit dorsal (imagine inserată)—linia infraorbitomeatală (LIOM) paralelă)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.145 SMV incidență.](../../assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_3.jpeg)
+![Fig. 11.144 Incidență SMV.](../../assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.145 SMV incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.145 SMV incidență.)</span></figcaption>
+<figcaption><strong>Fig. 11.144 Incidență SMV.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.144 Incidență SMV.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 11.145 Incidență SMV.](../../assets/images/protocols/bontrager/rx-zygomatic-arches-submentovertical-smv-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 11.145 Incidență SMV.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.145 Incidență SMV.)</span></figcaption>
 
 </figure>
 

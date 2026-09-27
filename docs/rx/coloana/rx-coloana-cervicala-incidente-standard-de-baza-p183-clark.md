@@ -46,6 +46,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-incidente-standard-de-baza-p183-clark/fig_7.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Distanța mare obiect–film radiologic (OFD) va crește neclaritatea geometrică.
@@ -155,26 +159,25 @@ title: Rx Coloană Cervicală Incidențe Standard de Bază
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă în ortostatism sau stă cu unul dintre umeri sprijinit pe casetă.
-• Planul mediosagital trebuie ajustat astfel încât să fie paralel cu caseta.
-• Capul trebuie flectat sau extins astfel încât unghiul mandibulei să nu se suprapună peste vertebra cervicală anterioară superioară sau osul occipital să nu obscurizeze arcul posterior al atlasului.
-• Pentru a ajuta la imobilizare, pacientul trebuie să stea cu picioarele ușor depărtate și cu umărul sprijinit pe suportul casetei.
-• Pentru evidențierea vertebrelor cervicale inferioare, umerii trebuie coborâți, după cum se vede în fotografie.
-Acest lucru poate fi realizat cerându-i pacientului să-și relaxeze umerii în jos. Procesul poate fi ajutat cerându-i pacientului să țină câte o greutate în fiecare mână (dacă este capabil) și efectuând expunerea în apnee după expir.
-
-• Pacientul va ajunge în mod normal în decubit dorsal.
-• Este extrem de important ca pacientul să-și coboare umerii (presupunând că nu există alte leziuni ale brațelor).
-• Caseta poate fi fie sprijinită vertical, fie plasată într-un suport de casetă pentru ortostatism, cu partea superioară a casetei la același nivel cu partea superioară a urechii.
-(continuare) Incidență de profil în decubit dorsal, evidențiind suspiciunea de fractură-luxație articulară C5/C6 Poziționare pentru incidența de profil în decubit dorsal
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism sau stă cu unul dintre umeri sprijinit pe casetă.
+        - Planul mediosagital trebuie ajustat astfel încât să fie paralel cu caseta.
+        - Capul trebuie flectat sau extins astfel încât unghiul mandibulei să nu se suprapună peste vertebra cervicală anterioară superioară sau osul occipital să nu obscurizeze arcul posterior al atlasului.
+        - Pentru a ajuta la imobilizare, pacientul trebuie să stea cu picioarele ușor depărtate și cu umărul sprijinit pe suportul casetei.
+        - Pentru evidențierea vertebrelor cervicale inferioare, umerii trebuie coborâți, după cum se vede în fotografie. Acest lucru poate fi realizat cerându-i pacientului să-și relaxeze umerii în jos. Procesul poate fi ajutat cerându-i pacientului să țină câte o greutate în fiecare mână (dacă este capabil) și efectuând expunerea în apnee după expir.
+        - Pacientul va ajunge în mod normal în decubit dorsal.
+        - Este extrem de important ca pacientul să-și coboare umerii (presupunând că nu există alte leziuni ale brațelor).
+        - Caseta poate fi fie sprijinită vertical, fie plasată într-un suport de casetă pentru ortostatism, cu partea superioară a casetei la același nivel cu partea superioară a urechii. (continuare) Incidență de profil în decubit dorsal, evidențiind suspiciunea de fractură-luxație articulară C5/C6 Poziționare pentru incidența de profil în decubit dorsal
     - **Punct de Centrare Fascicul:** • Raza centrală orizontală este centrată în punctul situat vertical sub procesul mastoidian, la nivelul proeminenței cartilajului tiroid (mărul lui Adam).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -217,9 +220,10 @@ Acest lucru poate fi realizat cerându-i pacientului să-și relaxeze umerii în
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Distanța mare obiect–film radiologic (OFD) va crește neclaritatea geometrică. Aceasta este depășită prin creșterea distanței focar–film radiologic (FFD) la 150 cm.
-• Spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării unei grile antidifuzante pentru atenuarea radiației secundare.
+    - Distanța mare obiect–film radiologic (OFD) va crește neclaritatea geometrică. Aceasta este depășită prin creșterea distanței focar–film radiologic (FFD) la 150 cm.
+    - Spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării unei grile antidifuzante pentru atenuarea radiației secundare.
 
 
 ### 🖼️ Imagini

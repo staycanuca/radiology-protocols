@@ -15,8 +15,8 @@ category: abdomen
 centering: 'Se direcționează raza centrală (RC) perpendicular pe receptorul de imagine.
   Tip constituțional stenic: se centrează raza centrală și receptorul de imagine la
   nivelul pilorului și al bulbului duodenal, la nivelul l1 (1 la 2 inchi [2.5 la 5
-  cm] deasupra marginii costale inferolaterale) și la aproximativ 1 inch (2.5 cm)
-  la stânga coloanei vertebrale. Tip constituțional astenic: se centrează la aproximativ
+  cm] deasupra marginii costale inferolaterale) și la aproximativ 1 țol (2.5 cm) la
+  stânga coloanei vertebrale. Tip constituțional astenic: se centrează la aproximativ
   2 inchi (5 cm) sub nivelul L1. Tip constituțional hiperstenic: se centrează la aproximativ
   2 inchi (5 cm) deasupra nivelului L1 și mai aproape de linia mediană. Se centrează
   receptorul de imagine pe raza centrală.'
@@ -32,6 +32,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.97
     Incidență PA.)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-pa-postero-anterior-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -93,17 +97,18 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) PA (Postero-Anterior)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: se poziționează pacientul în decubit ventral, cu brațele ridicate lângă cap; se asigură sprijin pentru capul pacientului (Fig. 12.96).; Regiune anatomică: se aliniază MSP cu raza centrală și cu masa. Se asigură absența rotației corpului.
-    - **Punct de Centrare Fascicul:** Se direcționează raza centrală (RC) perpendicular pe receptorul de imagine. Tip constituțional stenic: se centrează raza centrală și receptorul de imagine la nivelul pilorului și al bulbului duodenal, la nivelul l1 (1 la 2 inchi [2.5 la 5 cm] deasupra marginii costale inferolaterale) și la aproximativ 1 inch (2.5 cm) la stânga coloanei vertebrale. Tip constituțional astenic: se centrează la aproximativ 2 inchi (5 cm) sub nivelul L1. Tip constituțional hiperstenic: se centrează la aproximativ 2 inchi (5 cm) deasupra nivelului L1 și mai aproape de linia mediană. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Se direcționează raza centrală (RC) perpendicular pe receptorul de imagine. Tip constituțional stenic: se centrează raza centrală și receptorul de imagine la nivelul pilorului și al bulbului duodenal, la nivelul l1 (1 la 2 inchi [2.5 la 5 cm] deasupra marginii costale inferolaterale) și la aproximativ 1 țol (2.5 cm) la stânga coloanei vertebrale. Tip constituțional astenic: se centrează la aproximativ 2 inchi (5 cm) sub nivelul L1. Tip constituțional hiperstenic: se centrează la aproximativ 2 inchi (5 cm) deasupra nivelului L1 și mai aproape de linia mediană. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Poziție alternativă PA axială: poziția înaltă și transversală a stomacului la pacientul hiperstenic determină o vizualizare aproape de-a lungul axului său, cu suprapunere importantă a regiunii pilorice a stomacului și a bulbului duodenal în incidența postero-anterioară (PA) (Fig. 12.97). Prin urmare, o înclinare cranială de 35° la 45° a razei centrale separă aceste regiuni pentru o vizualizare mai bună. Curbura mare și curbura mică ale stomacului sunt, de asemenea, mai bine vizualizate din profil. Pentru sugari, se recomandă o înclinare cranială de 20° la 25° a razei centrale pentru a deschide corpul și pilorul stomacului. (35) (43) Tranzit Baritat Gastro-Duodenal (TBGD) DE RUTINĂ RAO PA profil drept LPO AP Fig. 12.96 Poziție PA. Fig. 12.97 Incidență Postero-Anterioară (PA).
 

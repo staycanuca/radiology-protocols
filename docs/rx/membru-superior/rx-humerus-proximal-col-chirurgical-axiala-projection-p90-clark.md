@@ -3,46 +3,51 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală verticală centrală este orientat de la above la acromion
-  de Omoplat (Scapulă).
+centering: '• Raza centrală verticală este orientată deasupra acromionului scapulei.
 
-  • Owing la increased object-la-casetă distance, small focar tub together cu increased
-  FFD trebuie să fie selected.'
+  • Din cauza creșterii distanței obiect–casetă, trebuie selectate un focar mic și
+  o DFF crescută.'
 clinical_indications:
-- "75 2 Humerus – neck Axială incidență Positioning pentru Profil (lateral) incidență\
-  \ will depend pe how much movement de braț este possible. If pacientul este able\
-  \ la abduct braț, then Supero-Inferioară incidență este recommended cu pacientul\
-  \ Poziție Șezândă la end de masa radiologică. Alternatively, if pacientul este culcat\
-  \ pe trolley, then Infero-Superioară (Axială) incidență este acquired. If, however,\
-  \ braț este fully imobilizat, then alternative Profil (lateral) Oblică (ca pentru\
-  \ Profil (lateral) Omoplat (Scapulă)) poate fie taken. Profil (lateral) – Supero-Inferioară\
-  \ This incidență poate fie taken even when only small grade de abduction este possible.\
-  \ It este important that fără attempt trebuie să fie made la increase amount de\
-  \ movement that pacientul este able sau willing la make. An 18 \x02 24-cm casetă\
-  \ este selected."
+- 75 2 Humerus – colul – incidență axială. Poziționarea pentru incidența de profil
+  (laterală) va depinde de amplitudinea mișcării posibile a brațului. Dacă pacientul
+  poate efectua abducția brațului, se recomandă incidența superoinferioară, cu pacientul
+  în poziție șezândă la capătul mesei radiologice. Alternativ, dacă pacientul este
+  culcat pe targă, se efectuează incidența inferosuperioară (axială). Dacă, totuși,
+  brațul este complet imobilizat, se poate efectua incidența oblică de profil (laterală)
+  alternativă (ca pentru profilul lateral al scapulei). Profil (lateral) – superoinferioară.
+  Această incidență poate fi efectuată chiar și atunci când este posibil un grad redus
+  de abducție. Este important să nu se încerce creșterea amplitudinii mișcării pe
+  care pacientul o poate sau dorește să o efectueze. Se selectează o casetă de 18
+  × 24 cm.
 images:
-- caption: Normal Supero-Inferioară incidență la show neck de Humerus
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidență superoinferioară normală pentru evidențierea colului humerusului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_1.jpeg
-- caption: Supero-Inferioară incidență pentru neck de Humerus, evidențiind healing
+- caption: Incidență superoinferioară pentru colul humerusului, evidențiind consolidarea
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_2.jpeg
-- caption: angulated suspiciune de fractură de proximal shaft de Humerus
+- caption: vicioasă a unei suspiciuni de fractură a diafizei proximale a humerusului
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este așezat pe scaun la one end de masa de examinare, cu trunk
-  leaning spre masa de examinare, braț de side being examined în its maximum abduction,
-  și Cot resting pe masa de examinare.
+position: '• Pacientul este așezat pe scaun la un capăt al mesei de examinare, cu
+  trunchiul înclinat spre masă, brațul de pe partea examinată în abducție maximă și
+  cotul sprijinit pe masa de examinare.
 
-  • height de masa de examinare este ajustat la enable pacientul la adopt comfortable
-  poziție și la maximize full coverage de gâtul de Humerus și Umăr articulație.
+  • Înălțimea mesei de examinare este ajustată pentru a permite pacientului să adopte
+  o poziție confortabilă și pentru a maximiza acoperirea completă a colului humerusului
+  și a articulației umărului.
 
-  • caseta rests pe masa de examinare între Cot și trunk.'
+  • Caseta se sprijină pe masa de examinare între cot și trunchi.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,11 +56,12 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include acromion și coracoid processes, cavitate glenoidă și
-  proximal cap și neck de Humerus.
-- expunere trebuie să evidențiază adequately gâtul de Humerus. Normal Supero-Inferioară
-  incidență la show neck de Humerus Supero-Inferioară incidență pentru neck de Humerus,
-  evidențiind healing angulated suspiciune de fractură de proximal shaft de Humerus
+- Imaginea trebuie să includă acromionul și procesele coracoide, cavitatea glenoidă,
+  precum și capul și colul proximal al humerusului.
+- Expunerea trebuie să evidențieze adecvat colul humerusului. Incidență superoinferioară
+  normală pentru evidențierea colului humerusului. Incidență superoinferioară pentru
+  colul humerusului, evidențiind consolidarea vicioasă a unei suspiciuni de fractură
+  a diafizei proximale a humerusului.
 sid_dff: 100 cm
 slug: rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark
 sources:
@@ -64,14 +70,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Humerus Proximal (Col Chirurgical) Axială Incidență
+  mas: Conform AEC / grosimii anatomice
+title: Rx humerus proximal (col chirurgical) – incidență axială
 ---
-# Rx Humerus Proximal (Col Chirurgical) Axială Incidență
+# Rx humerus proximal (col chirurgical) – incidență axială
 
 
 <div class="rx-meta-bar">
@@ -90,25 +96,28 @@ title: Rx Humerus Proximal (Col Chirurgical) Axială Incidență
 
     === "Indicații Clinice"
 
-        - 75 2 Humerus – neck Axială incidență Positioning pentru Profil (lateral) incidență will depend pe how much movement de braț este possible. If pacientul este able la abduct braț, then Supero-Inferioară incidență este recommended cu pacientul Poziție Șezândă la end de masa radiologică. Alternatively, if pacientul este culcat pe trolley, then Infero-Superioară (Axială) incidență este acquired. If, however, braț este fully imobilizat, then alternative Profil (lateral) Oblică (ca pentru Profil (lateral) Omoplat (Scapulă)) poate fie taken. Profil (lateral) – Supero-Inferioară This incidență poate fie taken even when only small grade de abduction este possible. It este important that fără attempt trebuie să fie made la increase amount de movement that pacientul este able sau willing la make. An 18  24-cm casetă este selected.
+        - 75 2 Humerus – colul – incidență axială. Poziționarea pentru incidența de profil (laterală) va depinde de amplitudinea mișcării posibile a brațului. Dacă pacientul poate efectua abducția brațului, se recomandă incidența superoinferioară, cu pacientul în poziție șezândă la capătul mesei radiologice. Alternativ, dacă pacientul este culcat pe targă, se efectuează incidența inferosuperioară (axială). Dacă, totuși, brațul este complet imobilizat, se poate efectua incidența oblică de profil (laterală) alternativă (ca pentru profilul lateral al scapulei). Profil (lateral) – superoinferioară. Această incidență poate fi efectuată chiar și atunci când este posibil un grad redus de abducție. Este important să nu se încerce creșterea amplitudinii mișcării pe care pacientul o poate sau dorește să o efectueze. Se selectează o casetă de 18 × 24 cm.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este așezat pe scaun la one end de masa de examinare, cu trunk leaning spre masa de examinare, braț de side being examined în its maximum abduction, și Cot resting pe masa de examinare.
-• height de masa de examinare este ajustat la enable pacientul la adopt comfortable poziție și la maximize full coverage de gâtul de Humerus și Umăr articulație.
-• caseta rests pe masa de examinare între Cot și trunk.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat de la above la acromion de Omoplat (Scapulă).
-• Owing la increased object-la-casetă distance, small focar tub together cu increased FFD trebuie să fie selected.
+    - **Poziție Pacient:**
+        - Pacientul este așezat pe scaun la un capăt al mesei de examinare, cu trunchiul înclinat spre masă, brațul de pe partea examinată în abducție maximă și cotul sprijinit pe masa de examinare.
+        - Înălțimea mesei de examinare este ajustată pentru a permite pacientului să adopte o poziție confortabilă și pentru a maximiza acoperirea completă a colului humerusului și a articulației umărului.
+        - Caseta se sprijină pe masa de examinare între cot și trunchi.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată deasupra acromionului scapulei.
+        - Din cauza creșterii distanței obiect–casetă, trebuie selectate un focar mic și o DFF crescută.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -119,20 +128,20 @@ title: Rx Humerus Proximal (Col Chirurgical) Axială Incidență
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include acromion și coracoid processes, cavitate glenoidă și proximal cap și neck de Humerus.
-    - expunere trebuie să evidențiază adequately gâtul de Humerus. Normal Supero-Inferioară incidență la show neck de Humerus Supero-Inferioară incidență pentru neck de Humerus, evidențiind healing angulated suspiciune de fractură de proximal shaft de Humerus
+    - Imaginea trebuie să includă acromionul și procesele coracoide, cavitatea glenoidă, precum și capul și colul proximal al humerusului.
+    - Expunerea trebuie să evidențieze adecvat colul humerusului. Incidență superoinferioară normală pentru evidențierea colului humerusului. Incidență superoinferioară pentru colul humerusului, evidențiind consolidarea vicioasă a unei suspiciuni de fractură a diafizei proximale a humerusului.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -144,6 +153,7 @@ title: Rx Humerus Proximal (Col Chirurgical) Axială Incidență
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -154,25 +164,25 @@ title: Rx Humerus Proximal (Col Chirurgical) Axială Incidență
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Supero-Inferioară incidență la show neck de Humerus](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_1.jpeg)
+![Incidență superoinferioară normală pentru evidențierea colului humerusului](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Supero-Inferioară incidență la show neck de Humerus</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Supero-Inferioară incidență pentru neck de Humerus, evidențiind healing](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_2.jpeg)
-
-<figcaption><strong>Supero-Inferioară incidență pentru neck de Humerus, evidențiind healing</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență superoinferioară normală pentru evidențierea colului humerusului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![angulated suspiciune de fractură de proximal shaft de Humerus](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_3.jpeg)
+![Incidență superoinferioară pentru colul humerusului, evidențiind consolidarea](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_2.jpeg)
 
-<figcaption><strong>angulated suspiciune de fractură de proximal shaft de Humerus</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență superoinferioară pentru colul humerusului, evidențiind consolidarea</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![vicioasă a unei suspiciuni de fractură a diafizei proximale a humerusului](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-axiala-projection-p90-clark/fig_3.jpeg)
+
+<figcaption><strong>vicioasă a unei suspiciuni de fractură a diafizei proximale a humerusului</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

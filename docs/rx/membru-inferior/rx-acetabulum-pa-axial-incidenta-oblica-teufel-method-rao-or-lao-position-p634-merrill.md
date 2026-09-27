@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: orientat through cotil (acetabul) la un unghi de 12 grade cranial. raza
-  centrală enters corp la inferior level de Coccis și approximately 2 inches (5 cm)
-  lateral la MSP spre side being examined.
+centering: orientată prin cotil (acetabul) la un unghi de 12 grade cranial. Raza centrală
+  pătrunde în corp la nivelul inferior al coccisului și la aproximativ 2 țoli (5 cm)
+  lateral de MSP, spre partea examinată.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -14,26 +14,30 @@ images:
 - caption: Merrill — pagina 636, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-acetabulum-pa-axial-incidenta-oblica-teufel-method-rao-or-lao-position-p634-merrill/p636_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să lie Decubit în anterior Incidență Oblică pe
-  afected side.; se aliniază corp și se centrează Șold being examined la linia mediană
-  grilă. Elevate unafected side astfel încât anterior surface de corp forms a 38-grade
-  angle de la masa de examinare (Fig. 8.40). Se instruiește pacientul să support corp
-  pe Antebraț și flectat Genunchi de ridicat side. cu receptorul de imagine în tăvița
-  Bucky, se ajustează poziție de receptorul de imagine so that its midpoint coincides
-  cu raza centrală centrală.
+position: Se instruiește pacientul să stea în decubit ventral, în incidență oblică,
+  pe partea afectată; se aliniază corpul și se centrează șoldul examinat la linia
+  mediană a grilei. Se ridică partea neafectată astfel încât suprafața anterioară
+  a corpului să formeze un unghi de 38 de grade față de masa de examinare (Fig. 8.40).
+  Se instruiește pacientul să își susțină corpul pe antebraț și să flecteze genunchiul
+  părții ridicate. Cu receptorul de imagine în tăvița Bucky, se ajustează poziția
+  receptorului de imagine astfel încât mijlocul acestuia să coincidă cu raza centrală.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Șold articulație și cotil (acetabul) near center de radiografie
-- cap femural în profile la show concave area de fovea capitis
-- Superoposterior perete de cotil (acetabul)
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația șoldului și cotilul (acetabulul) aproape de centrul radiografiei
+- capul femural în profil pentru a evidenția zona concavă a foveei capitis
+- Peretele superoposterior al cotilului (acetabulului)
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-acetabulum-pa-axial-incidenta-oblica-teufel-method-rao-or-lao-position-p634-merrill
 source_pages:
@@ -41,43 +45,44 @@ source_pages:
 - 635
 - 636
 source_sections:
-  anatomy: fovea capitis și superoposterior perete de cotil (acetabul) (Fig. 8.41).
+  anatomy: fovea capitis și peretele superoposterior al cotilului (acetabulului) (Fig.
+    8.41).
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• orientat through cotil (acetabul) la un unghi de 12 grade cranial. raza centrală
-    enters corp la inferior level de coccyx
+  cr: • orientată prin cotil (acetabul) la un unghi de 12 grade cranial. Raza centrală
+    pătrunde în corp la nivelul inferior al coccisului și la aproximativ 2 țoli (5
+    cm) lateral de MSP, spre partea examinată.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    și approximately 2 inches (5 cm) lateral la MSP spre side being examined.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulația șoldului și cotilul (acetabulul) aproape de centrul radiografiei
 
-    • Hip articulație și cotil (acetabul) near center de radiografie
+    • Capul femural în profil pentru a evidenția zona concavă a foveei capitis
 
-    • cap femural în profile la show concave area de fovea capitis
+    • Peretele superoposterior al cotilului (acetabulului)
 
-    • Superoposterior perete de cotil (acetabul)
+    • Detalii trabeculare osoase și țesuturile moi din jur'
+  part_pos: '• se aliniază corpul și se centrează șoldul examinat la linia mediană
+    a grilei.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se aliniază corp și se centrează hip being examined la linia mediană
-    grilă.
+    • Se ridică partea neafectată astfel încât suprafața anterioară a corpului să
+    formeze un unghi de 38 de grade față de masa de examinare (Fig. 8.40).
 
-    • Elevate unafected side astfel încât anterior surface de corp forms a 38-grade
-    angle de la masa de examinare (Fig. 8.40).
+    • Se instruiește pacientul să își susțină corpul pe antebraț și să flecteze genunchiul
+    părții ridicate.
 
-    • Se instruiește pacientul să support corp pe forearm și flectat genunchi de ridicat
-    side.
-
-    • cu receptorul de imagine în tăvița Bucky, se ajustează poziție de receptorul
-    de imagine so that its midpoint coincides cu raza centrală centrală.'
-  patient_pos: • Se instruiește pacientul să lie recumbent în anterior oblic poziție
-    pe afected side.
+    • Cu receptorul de imagine în tăvița Bucky, se ajustează poziția receptorului
+    de imagine astfel încât mijlocul acestuia să coincidă cu raza centrală.'
+  patient_pos: • Se instruiește pacientul să stea în decubit ventral, în poziție oblică,
+    pe partea afectată.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 634–636
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -85,10 +90,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Acetabulum — Oblică Axială PA — Teufel Method RAO or Oblică Anterioară Stângă
-  (OAS / LAO) (Merrill)
+title: Rx Acetabulum — Incidență oblică axială PA — Metoda Teufel RAO sau oblică anterioară
+  stângă (OAS / LAO) (Merrill)
 ---
-# Rx Acetabulum — Oblică Axială PA — Teufel Method RAO or Oblică Anterioară Stângă (OAS / LAO) (Merrill)
+# Rx Acetabulum — Incidență oblică axială PA — Metoda Teufel RAO sau oblică anterioară stângă (OAS / LAO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -112,17 +117,18 @@ title: Rx Acetabulum — Oblică Axială PA — Teufel Method RAO or Oblică Ant
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să lie Decubit în anterior Incidență Oblică pe afected side.; se aliniază corp și se centrează Șold being examined la linia mediană grilă. Elevate unafected side astfel încât anterior surface de corp forms a 38-grade angle de la masa de examinare (Fig. 8.40). Se instruiește pacientul să support corp pe Antebraț și flectat Genunchi de ridicat side. cu receptorul de imagine în tăvița Bucky, se ajustează poziție de receptorul de imagine so that its midpoint coincides cu raza centrală centrală.
-    - **Punct de Centrare Fascicul:** orientat through cotil (acetabul) la un unghi de 12 grade cranial. raza centrală enters corp la inferior level de Coccis și approximately 2 inches (5 cm) lateral la MSP spre side being examined.
+    - **Poziție Pacient:** Se instruiește pacientul să stea în decubit ventral, în incidență oblică, pe partea afectată; se aliniază corpul și se centrează șoldul examinat la linia mediană a grilei. Se ridică partea neafectată astfel încât suprafața anterioară a corpului să formeze un unghi de 38 de grade față de masa de examinare (Fig. 8.40). Se instruiește pacientul să își susțină corpul pe antebraț și să flecteze genunchiul părții ridicate. Cu receptorul de imagine în tăvița Bucky, se ajustează poziția receptorului de imagine astfel încât mijlocul acestuia să coincidă cu raza centrală.
+    - **Punct de Centrare Fascicul:** orientată prin cotil (acetabul) la un unghi de 12 grade cranial. Raza centrală pătrunde în corp la nivelul inferior al coccisului și la aproximativ 2 țoli (5 cm) lateral de MSP, spre partea examinată.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -145,12 +151,12 @@ title: Rx Acetabulum — Oblică Axială PA — Teufel Method RAO or Oblică Ant
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Șold articulație și cotil (acetabul) near center de radiografie
-    - cap femural în profile la show concave area de fovea capitis
-    - Superoposterior perete de cotil (acetabul)
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația șoldului și cotilul (acetabulul) aproape de centrul radiografiei
+    - capul femural în profil pentru a evidenția zona concavă a foveei capitis
+    - Peretele superoposterior al cotilului (acetabulului)
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,6 +165,7 @@ title: Rx Acetabulum — Oblică Axială PA — Teufel Method RAO or Oblică Ant
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -198,48 +205,3 @@ title: Rx Acetabulum — Oblică Axială PA — Teufel Method RAO or Oblică Ant
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 634–636](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-fovea capitis și superoposterior perete de cotil (acetabul) (Fig. 8.41).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• orientat through cotil (acetabul) la un unghi de 12 grade cranial. raza centrală enters corp la inferior level de coccyx
-și approximately 2 inches (5 cm) lateral la MSP spre side being examined.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Hip articulație și cotil (acetabul) near center de radiografie
-• cap femural în profile la show concave area de fovea capitis
-• Superoposterior perete de cotil (acetabul)
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se aliniază corp și se centrează hip being examined la linia mediană grilă.
-• Elevate unafected side astfel încât anterior surface de corp forms a 38-grade angle de la masa de examinare (Fig. 8.40).
-• Se instruiește pacientul să support corp pe forearm și flectat genunchi de ridicat side.
-• cu receptorul de imagine în tăvița Bucky, se ajustează poziție de receptorul de imagine so that its midpoint coincides cu raza centrală centrală.
-
-### patient_pos
-
-• Se instruiește pacientul să lie recumbent în anterior oblic poziție pe afected side.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-

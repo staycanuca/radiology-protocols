@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular la point 1 inch (2.5 cm) distal și 1 inch (2.5 cm) anterior
-  la maleolă laterală (fibulară).
+centering: perpendicular pe un punct situat la 1 țol (2.5 cm) distal și la 1 țol (2.5
+  cm) anterior față de maleola laterală (fibulară).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,78 +13,85 @@ images:
 - caption: Merrill — pagina 514, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-subtalar-joint-lateromedial-incidenta-oblica-isherwood-method-medial-rotation-picior-p513-merrill/p514_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în semisupine sau Poziție Șezândă poziție, turned away
-  de la side being examined. Se instruiește pacientul să se flectează Genunchi enough
-  la place Gleznă (Articulație Talocrurală) articulație în nearly drept-angle flexion
-  și then la lean membru inferior și Picior medially.; cu medial margine de Picior
-  resting pe receptorul de imagine, place a 45-grade foam wedge under ridicat membru
-  inferior. se ajustează membru inferior so that its axa longitudinală este în same
-  plane ca raza centrală. se ajustează Picior la fie la drept angle. Place support
-  under Genunchi (Fig. 7.85). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în poziție semisupină sau șezând, orientat în sens opus
+  față de partea examinată. Se instruiește pacientul să flecteze genunchiul suficient
+  pentru a poziționa articulația gleznei în flexie aproape la un unghi drept și apoi
+  să încline medial membrul inferior și piciorul; cu marginea medială a piciorului
+  sprijinită pe receptorul de imagine, se plasează o pană din spumă de 45 de grade
+  sub membrul inferior ridicat. Se ajustează membrul inferior astfel încât axa sa
+  longitudinală să fie în același plan cu raza centrală. Se ajustează piciorul la
+  un unghi drept. Se plasează un suport sub genunchi (Fig. 7.85). Se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- anterior talar articular surface
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- suprafața articulară anterioară a talusului
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-subtalar-joint-lateromedial-incidenta-oblica-isherwood-method-medial-rotation-picior-p513-merrill
 source_pages:
 - 513
 - 514
 source_sections:
-  anatomy: 'anterior subtalar articulation și oblic incidență de oase tarsiene (Fig.
-    7.86). Feist-Mankin method produces similar imagine
+  anatomy: articulația subtalară anterioară și incidență oblică a oaselor tarsiene
+    (Fig. 7.86). Metoda Feist-Mankin produce o reprezentare imagistică similară.
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de imaginea
+    posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară)
+    și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+  cr: • perpendicular pe un punct situat la 1 țol (2.5 cm) distal și la 1 țol (2.5
+    cm) anterior față de maleola laterală (fibulară).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    representation.'
-  collimation: • se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior
-    și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal
-    bases. Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • perpendicular la point 1 inch (2.5 cm) distal și 1 inch (2.5 cm) anterior
-    la maleolă laterală (fibulară).
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • suprafața articulară anterioară a talusului
 
-    • anterior talar articular surface
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Cu marginea medială a piciorului sprijinită pe receptorul de imagine,
+    se plasează o pană din spumă de 45 de grade sub membrul inferior ridicat.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• cu medial margine de picior resting pe receptorul de imagine, place
-    a 45-grade foam wedge under ridicat membru inferior.
+    • Se ajustează membrul inferior astfel încât axa sa longitudinală să fie în același
+    plan cu raza centrală.
 
-    • se ajustează membru inferior so that its axa longitudinală este în same plane
-    ca raza centrală.
+    • Se ajustează piciorul la un unghi drept.
 
-    • se ajustează picior la fie la drept angle.
+    • Se plasează un suport sub genunchi (Fig. 7.85).
 
-    • Place support under genunchi (Fig. 7.85).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în poziție semisupină sau șezând, orientat în
+    sens opus față de partea examinată.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în semisupine sau așezat pe scaun poziție, turned
-    away de la side being examined.
-
-    • Se instruiește pacientul să se flectează genunchi enough la place ankle articulație
-    în nearly drept-angle flexion și then la lean membru inferior și picior medially.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se instruiește pacientul să flecteze genunchiul suficient pentru a poziționa
+    articulația gleznei în flexie aproape la un unghi drept și apoi să încline medial
+    membrul inferior și piciorul.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 513–514
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și
-    inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Subtalar Joint — Latero-Medial Incidență Oblică — Isherwood Method Rotație
-  Internă (Medială) Picior (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra
+    posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară)
+    și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+title: Rx articulație subtalară — incidență oblică latero-medială — metoda Isherwood,
+  rotație internă (medială), picior (Merrill)
 ---
-# Rx Subtalar Joint — Latero-Medial Incidență Oblică — Isherwood Method Rotație Internă (Medială) Picior (Merrill)
+# Rx articulație subtalară — incidență oblică latero-medială — metoda Isherwood, rotație internă (medială), picior (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -108,17 +115,18 @@ title: Rx Subtalar Joint — Latero-Medial Incidență Oblică — Isherwood Met
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în semisupine sau Poziție Șezândă poziție, turned away de la side being examined. Se instruiește pacientul să se flectează Genunchi enough la place Gleznă (Articulație Talocrurală) articulație în nearly drept-angle flexion și then la lean membru inferior și Picior medially.; cu medial margine de Picior resting pe receptorul de imagine, place a 45-grade foam wedge under ridicat membru inferior. se ajustează membru inferior so that its axa longitudinală este în same plane ca raza centrală. se ajustează Picior la fie la drept angle. Place support under Genunchi (Fig. 7.85). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular la point 1 inch (2.5 cm) distal și 1 inch (2.5 cm) anterior la maleolă laterală (fibulară).
+    - **Poziție Pacient:** Se așază pacientul în poziție semisupină sau șezând, orientat în sens opus față de partea examinată. Se instruiește pacientul să flecteze genunchiul suficient pentru a poziționa articulația gleznei în flexie aproape la un unghi drept și apoi să încline medial membrul inferior și piciorul; cu marginea medială a piciorului sprijinită pe receptorul de imagine, se plasează o pană din spumă de 45 de grade sub membrul inferior ridicat. Se ajustează membrul inferior astfel încât axa sa longitudinală să fie în același plan cu raza centrală. Se ajustează piciorul la un unghi drept. Se plasează un suport sub genunchi (Fig. 7.85). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe un punct situat la 1 țol (2.5 cm) distal și la 1 țol (2.5 cm) anterior față de maleola laterală (fibulară).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -134,17 +142,17 @@ title: Rx Subtalar Joint — Latero-Medial Incidență Oblică — Isherwood Met
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară) și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - anterior talar articular surface
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - suprafața articulară anterioară a talusului
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,6 +161,7 @@ title: Rx Subtalar Joint — Latero-Medial Incidență Oblică — Isherwood Met
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -192,43 +201,3 @@ title: Rx Subtalar Joint — Latero-Medial Incidență Oblică — Isherwood Met
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 513–514](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-anterior subtalar articulation și oblic incidență de oase tarsiene (Fig. 7.86). Feist-Mankin method produces similar imagine
-representation.
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular la point 1 inch (2.5 cm) distal și 1 inch (2.5 cm) anterior la maleolă laterală (fibulară).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• anterior talar articular surface
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• cu medial margine de picior resting pe receptorul de imagine, place a 45-grade foam wedge under ridicat membru inferior.
-• se ajustează membru inferior so that its axa longitudinală este în same plane ca raza centrală.
-• se ajustează picior la fie la drept angle.
-• Place support under genunchi (Fig. 7.85).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în semisupine sau așezat pe scaun poziție, turned away de la side being examined.
-• Se instruiește pacientul să se flectează genunchi enough la place ankle articulație în nearly drept-angle flexion și then la lean membru inferior și picior medially.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

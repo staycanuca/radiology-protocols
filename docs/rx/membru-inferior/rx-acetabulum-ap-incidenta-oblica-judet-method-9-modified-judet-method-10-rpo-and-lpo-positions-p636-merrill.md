@@ -2,106 +2,117 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației). apnee (oprirea respirației).
 category: membru-inferior
-centering: perpendicular pe receptorul de imagine (RI) și entering 2 inches (5 cm)
-  inferior la spină iliacă antero-superioară (SIAS) de afected side extern oblic extern
-  oblic este used pentru pacient cu suspected suspiciune de fractură de ilioischial
-  column (posterior) și anterior rim de cotil (acetabul). perpendicular pe receptorul
-  de imagine (RI) și entering la simfiză pubiană
+centering: perpendicular pe receptorul de imagine (RI) și intrând la 2 țoli (5 cm)
+  inferior față de spina iliacă anterosuperioară (SIAS) de partea afectată. Incidența
+  oblică externă este utilizată pentru pacientul cu suspiciune de fractură a coloanei
+  ilioischiatice (posterioare) și a marginii anterioare a cotilului (acetabulului).
+  perpendicular pe receptorul de imagine (RI) și intrând la nivelul simfizei pubiene
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 637, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-acetabulum-ap-incidenta-oblica-judet-method-9-modified-judet-method-10-rpo-and-lpo-positions-p636-merrill/p637_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: iliopubic column (anterior), composed de short segment de ilium și pubis, extends
-  up ca far ca anterior coloană vertebrală de ilium și de la simfiză pubiană și găuri
-  obturatoare through cotil (acetabul) la spină iliacă antero-superioară (SIAS). ilioischial
-  column (posterior), composed de vertical portion de ischium și portion de ilium
-  immediately above ischium, extends de la găuri obturatoare through posterior aspect
-  de cotil (acetabul).
-position: se așază pacientul în posterior Incidență Oblică cu afected Șold up. se
-  așază pacientul în posterior Incidență Oblică cu afected Șold down.; se aliniază
-  corp și se centrează Șold being examined la middle de receptorul de imagine. Elevate
-  afected side astfel încât MCP de corp forms a 45-grade angle de la masa de examinare
-  (Fig. 8.42A). se aliniază corp și se centrează Șold being examined la middle de
-  receptorul de imagine. Elevate unafected side astfel încât MCP de corp forms a 45-grade
-  angle de la masa de examinare (Fig. 8.42B).
+notes: coloana iliopubiană (anterioară), alcătuită dintr-un segment scurt al ilionului
+  și pubisului, se extinde superior până la coloana anterioară a ilionului și de la
+  simfiza pubiană și găurile obturatoare, prin cotil (acetabul), până la spina iliacă
+  anterosuperioară (SIAS). Coloana ilioischiatica (posterioară), alcătuită din porțiunea
+  verticală a ischionului și porțiunea ilionului situată imediat deasupra ischionului,
+  se extinde de la găurile obturatoare, prin aspectul posterior al cotilului (acetabulului).
+position: Se așază pacientul în incidență oblică posterioară, cu șoldul afectat în
+  sus. Se așază pacientul în incidență oblică posterioară, cu șoldul afectat în jos;
+  se aliniază corpul și se centrează șoldul examinat la mijlocul receptorului de imagine.
+  Se ridică partea afectată astfel încât MCP-ul corpului să formeze un unghi de 45
+  grade față de masa de examinare (Fig. 8.42A). Se aliniază corpul și se centrează
+  șoldul examinat la mijlocul receptorului de imagine. Se ridică partea neafectată
+  astfel încât MCP-ul corpului să formeze un unghi de 45 grade față de masa de examinare
+  (Fig. 8.42B).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- cotil (acetabul) centrat pe receptorul de imagine
-- iliopubic column și posterior rim de afected cotil (acetabul) pe intern oblic
-- ilioischial column și anterior rim de cotil (acetabul) pe extern oblic
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- cotilul (acetabulul) centrat pe receptorul de imagine
+- coloana iliopubiană și marginea posterioară a cotilului (acetabulului) afectat pe
+  incidența oblică internă
+- coloana ilioischiatică și marginea anterioară a cotilului (acetabulului) pe incidența
+  oblică externă
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-acetabulum-ap-incidenta-oblica-judet-method-9-modified-judet-method-10-rpo-and-lpo-positions-p636-merrill
 source_pages:
 - 636
 - 637
 source_sections:
-  anatomy: acetabular rim (Fig. 8.43).
+  anatomy: marginea cotilului (Fig. 8.43).
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe receptorul de imagine (RI) și entering 2 inches (5 cm) inferior
-    la spină iliacă antero-superioară (SIAS) de afected side
+  cr: '• perpendicular pe receptorul de imagine (RI) și intrând la 2 țoli (5 cm) inferior
+    față de spina iliacă anterosuperioară (SIAS) de partea afectată
 
-    extern oblic
+    incidență oblică externă
 
-    extern oblic este used pentru pacient cu suspected suspiciune de fractură de ilioischial
-    column (posterior) și anterior rim de cotil (acetabul).
+    incidența oblică externă este utilizată pentru pacientul cu suspiciune de fractură
+    a coloanei ilioischiatice (posterioare) și a marginii anterioare a cotilului (acetabulului).
 
-    • perpendicular pe receptorul de imagine (RI) și entering la simfiză pubiană'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • perpendicular pe receptorul de imagine (RI) și intrând la nivelul simfizei pubiene'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • cotil (acetabul) centrat pe receptorul de imagine
+    • Cotilul (acetabulul) centrat pe receptorul de imagine
 
-    • iliopubic column și posterior rim de afected cotil (acetabul) pe intern oblic
+    • Coloana iliopubiană și marginea posterioară a cotilului (acetabulului) afectat
+    pe incidența oblică internă
 
-    • ilioischial column și anterior rim de cotil (acetabul) pe extern oblic
+    • Coloana ilioischiatică și marginea anterioară a cotilului (acetabulului) pe
+    incidența oblică externă
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'iliopubic column (anterior), composed de short segment de ilium și pubis,
-    extends up ca far ca anterior coloană vertebrală de ilium și de la simfiză pubiană
-    și găuri obturatoare through cotil (acetabul) la spină iliacă antero-superioară
-    (SIAS).
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  notes: 'coloana iliopubiană (anterioară), alcătuită dintr-un segment scurt al ilionului
+    și pubisului, se extinde superior până la coloana anterioară a ilionului și de
+    la simfiza pubiană și găurile obturatoare, prin cotil (acetabul), până la spina
+    iliacă anterosuperioară (SIAS).
 
-    ilioischial column (posterior), composed de vertical portion de ischium și portion
-    de ilium immediately above ischium, extends de la găuri obturatoare through posterior
-    aspect de cotil (acetabul).'
-  part_pos: '• se aliniază corp și se centrează hip being examined la middle de receptorul
+    coloana ilioischiatică (posterioară), alcătuită din porțiunea verticală a ischionului
+    și porțiunea ilionului situată imediat deasupra ischionului, se extinde de la
+    găurile obturatoare, prin aspectul posterior al cotilului (acetabulului).'
+  part_pos: '• Se aliniază corpul și se centrează șoldul examinat la mijlocul receptorului
     de imagine.
 
-    • Elevate afected side astfel încât MCP de corp forms a 45-grade angle de la masa
-    de examinare (Fig. 8.42A).
+    • Se ridică partea afectată astfel încât MCP-ul corpului să formeze un unghi de
+    45 grade față de masa de examinare (Fig. 8.42A).
 
-    • se aliniază corp și se centrează hip being examined la middle de receptorul
+    • Se aliniază corpul și se centrează șoldul examinat la mijlocul receptorului
     de imagine.
 
-    • Elevate unafected side astfel încât MCP de corp forms a 45-grade angle de la
-    masa de examinare (Fig. 8.42B).'
-  patient_pos: '• se așază pacientul în posterior oblic poziție cu afected hip up.
+    • Se ridică partea neafectată astfel încât MCP-ul corpului să formeze un unghi
+    de 45 grade față de masa de examinare (Fig. 8.42B).'
+  patient_pos: '• Se așază pacientul în poziție oblică posterioară, cu șoldul afectat
+    în sus.
 
-    • se așază pacientul în posterior oblic poziție cu afected hip down.'
+    • Se așază pacientul în poziție oblică posterioară, cu șoldul afectat în jos.'
   respiration: 'apnee (oprirea respirației).
 
     apnee (oprirea respirației).'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24
 
-    × 30 cm) longitudinal.
+    × 30 cm), longitudinal.
 
-    intern oblic
+    incidență oblică internă
 
-    intern oblic poziție este used pentru pacient cu suspected suspiciune de fractură
-    de iliopubic column (anterior) și posterior rim de cotil (acetabul).'
+    poziția oblică internă este utilizată pentru pacientul cu suspiciune de fractură
+    a coloanei iliopubiene (anterioare) și a marginii posterioare a cotilului (acetabulului).'
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 636–637
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -109,10 +120,11 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Modified Judet
-  Method 10 RPO and Oblică Posterioară Stângă (OPS / LPO)s (Merrill)
+title: Rx acetabul — incidență oblică antero-posterioară (AP) — metoda Judet [9],
+  metoda Judet modificată [10], poziții oblice posterioare dreaptă (RPO) și stângă
+  (OPS / LPO) (Merrill)
 ---
-# Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Modified Judet Method 10 RPO and Oblică Posterioară Stângă (OPS / LPO)s (Merrill)
+# Rx acetabul — incidență oblică antero-posterioară (AP) — metoda Judet [9], metoda Judet modificată [10], poziții oblice posterioare dreaptă (RPO) și stângă (OPS / LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -136,17 +148,18 @@ title: Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Mod
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în posterior Incidență Oblică cu afected Șold up. se așază pacientul în posterior Incidență Oblică cu afected Șold down.; se aliniază corp și se centrează Șold being examined la middle de receptorul de imagine. Elevate afected side astfel încât MCP de corp forms a 45-grade angle de la masa de examinare (Fig. 8.42A). se aliniază corp și se centrează Șold being examined la middle de receptorul de imagine. Elevate unafected side astfel încât MCP de corp forms a 45-grade angle de la masa de examinare (Fig. 8.42B).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) și entering 2 inches (5 cm) inferior la spină iliacă antero-superioară (SIAS) de afected side extern oblic extern oblic este used pentru pacient cu suspected suspiciune de fractură de ilioischial column (posterior) și anterior rim de cotil (acetabul). perpendicular pe receptorul de imagine (RI) și entering la simfiză pubiană
+    - **Poziție Pacient:** Se așază pacientul în incidență oblică posterioară, cu șoldul afectat în sus. Se așază pacientul în incidență oblică posterioară, cu șoldul afectat în jos; se aliniază corpul și se centrează șoldul examinat la mijlocul receptorului de imagine. Se ridică partea afectată astfel încât MCP-ul corpului să formeze un unghi de 45 grade față de masa de examinare (Fig. 8.42A). Se aliniază corpul și se centrează șoldul examinat la mijlocul receptorului de imagine. Se ridică partea neafectată astfel încât MCP-ul corpului să formeze un unghi de 45 grade față de masa de examinare (Fig. 8.42B).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) și intrând la 2 țoli (5 cm) inferior față de spina iliacă anterosuperioară (SIAS) de partea afectată. Incidența oblică externă este utilizată pentru pacientul cu suspiciune de fractură a coloanei ilioischiatice (posterioare) și a marginii anterioare a cotilului (acetabulului). perpendicular pe receptorul de imagine (RI) și intrând la nivelul simfizei pubiene
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației). apnee (oprirea respirației).
 
@@ -169,12 +182,12 @@ title: Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Mod
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - cotil (acetabul) centrat pe receptorul de imagine
-    - iliopubic column și posterior rim de afected cotil (acetabul) pe intern oblic
-    - ilioischial column și anterior rim de cotil (acetabul) pe extern oblic
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - cotilul (acetabulul) centrat pe receptorul de imagine
+    - coloana iliopubiană și marginea posterioară a cotilului (acetabulului) afectat pe incidența oblică internă
+    - coloana ilioischiatică și marginea anterioară a cotilului (acetabulului) pe incidența oblică externă
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -184,8 +197,9 @@ title: Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Mod
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    iliopubic column (anterior), composed de short segment de ilium și pubis, extends up ca far ca anterior coloană vertebrală de ilium și de la simfiză pubiană și găuri obturatoare through cotil (acetabul) la spină iliacă antero-superioară (SIAS). ilioischial column (posterior), composed de vertical portion de ischium și portion de ilium immediately above ischium, extends de la găuri obturatoare through posterior aspect de cotil (acetabul).
+    coloana iliopubiană (anterioară), alcătuită dintr-un segment scurt al ilionului și pubisului, se extinde superior până la coloana anterioară a ilionului și de la simfiza pubiană și găurile obturatoare, prin cotil (acetabul), până la spina iliacă anterosuperioară (SIAS). Coloana ilioischiatica (posterioară), alcătuită din porțiunea verticală a ischionului și porțiunea ilionului situată imediat deasupra ischionului, se extinde de la găurile obturatoare, prin aspectul posterior al cotilului (acetabulului).
 
 
 ### 🖼️ Imagini
@@ -214,59 +228,3 @@ title: Rx Acetabulum — Oblică Antero-Posterioară (AP) — Judet Method 9 Mod
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 636–637](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-acetabular rim (Fig. 8.43).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe receptorul de imagine (RI) și entering 2 inches (5 cm) inferior la spină iliacă antero-superioară (SIAS) de afected side
-extern oblic
-extern oblic este used pentru pacient cu suspected suspiciune de fractură de ilioischial column (posterior) și anterior rim de cotil (acetabul).
-• perpendicular pe receptorul de imagine (RI) și entering la simfiză pubiană
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cotil (acetabul) centrat pe receptorul de imagine
-• iliopubic column și posterior rim de afected cotil (acetabul) pe intern oblic
-• ilioischial column și anterior rim de cotil (acetabul) pe extern oblic
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-iliopubic column (anterior), composed de short segment de ilium și pubis, extends up ca far ca anterior coloană vertebrală de ilium și de la simfiză pubiană și găuri obturatoare through cotil (acetabul) la spină iliacă antero-superioară (SIAS).
-ilioischial column (posterior), composed de vertical portion de ischium și portion de ilium immediately above ischium, extends de la găuri obturatoare through posterior aspect de cotil (acetabul).
-
-### part_pos
-
-• se aliniază corp și se centrează hip being examined la middle de receptorul de imagine.
-• Elevate afected side astfel încât MCP de corp forms a 45-grade angle de la masa de examinare (Fig. 8.42A).
-• se aliniază corp și se centrează hip being examined la middle de receptorul de imagine.
-• Elevate unafected side astfel încât MCP de corp forms a 45-grade angle de la masa de examinare (Fig. 8.42B).
-
-### patient_pos
-
-• se așază pacientul în posterior oblic poziție cu afected hip up.
-• se așază pacientul în posterior oblic poziție cu afected hip down.
-
-### respiration
-
-apnee (oprirea respirației).
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-intern oblic
-intern oblic poziție este used pentru pacient cu suspected suspiciune de fractură de iliopubic column (anterior) și posterior rim de cotil (acetabul).
-

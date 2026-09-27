@@ -2,36 +2,39 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la first articulații metacarpofalangiene
-  (MCF)
+centering: Perpendicular pe receptorul de imagine, orientat către prima articulație
+  metacarpofalangiană (MCF)
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de distal și proximal
-  falange, distal metacarpal, și associated articulații
-- Pathologic processes, such ca osteoporosis și artroză / modificări degenerative
-  articulare
+- Suspiciune de fractură și luxație / subluxație articulară a falangelor distală și
+  proximală, a metacarpianului distal și a articulațiilor asociate
+- Procese patologice, precum osteoporoza și artroza / modificările degenerative articulare
 images:
-- caption: Fig. 4.55 PA oblic Police—raza centrală la first articulații metacarpofalangiene
+- caption: Fig. 4.55 PA oblică a policelui—raza centrală la prima articulație metacarpofalangiană
     (MCF).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.55 PA oblic
-    thumb—raza centrală la first articulații metacarpofalangiene (MCF).)
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.55 PA oblică
+    a policelui—raza centrală la prima articulație metacarpofalangiană (MCF).)
   url: assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_1.jpeg
-- caption: Fig. 4.57 PA oblic Police.
+- caption: Fig. 4.57 PA oblică a policelui.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.57
-    PA oblic thumb.)
+    PA oblică a policelui.)
   url: assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_2.jpeg
-- caption: Fig. 4.56 PA oblic
+- caption: Fig. 4.56 PA oblică
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.56
-    PA oblic)
+    PA oblică)
   url: assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table cu Mână resting pe receptorul de
-  imagine.; Regiune anatomică: Abduct Police slightly cu palmar surface de Mână în
-  contact cu receptorul de imagine (this action naturally places Police în a 45° Incidență
-  Oblică). Align axa longitudinală de Police cu axa longitudinală de receptorul de
-  imagine. Center first articulații metacarpofalangiene (MCF) la raza centrală și
-  la center de receptorul de imagine (Fig. 4.55).'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu mâna sprijinită pe receptorul
+  de imagine.; Regiune anatomică: Abduceți ușor policele, cu suprafața palmară a mâinii
+  în contact cu receptorul de imagine (această acțiune plasează în mod natural policele
+  într-o incidență oblică la 45°). Aliniați axa longitudinală a policelui cu axa longitudinală
+  a receptorului de imagine. Centrați prima articulație metacarpofalangiană (MCF)
+  la raza centrală și la centrul receptorului de imagine (Fig. 4.55).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,20 +42,21 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'distal și proximal falange, first metacarpal, trapezium, și associated articulații
-  sunt visualized în a 45° Incidență Oblică (Figs. 4.56 și 4.57). poziție:'
-- axa longitudinală de Police trebuie să fie aliniat cu side margine de receptorul
+- 'Falangele distală și proximală, primul metacarpian, trapezul și articulațiile asociate
+  sunt vizualizate într-o incidență oblică la 45° (Fig. 4.56 și 4.57). Poziție:'
+- Axa longitudinală a policelui trebuie să fie aliniată cu marginea laterală a receptorului
   de imagine.
-- Interphalangeal și articulații metacarpofalangiene (MCF) trebuie să appear open
-  if falange sunt paralel cu receptorul de imagine (RI) și if raza centrală location
-  este correct.
-- 'raza centrală și center de collimation field size trebuie să fie la first articulații
-  metacarpofalangiene (MCF). expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
-  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
-  de mișcare. distal phalanx articulații interfalangiene (IF) R proximal phalanx articulații
-  metacarpofalangiene (MCF) raza centrală 1st metacarpal Sesamoid bone 1st articulații
-  carpometacarpiene (CMC) Fig. 4.57 PA oblic Police. R Fig. 4.56 PA oblic Police.
+- Articulațiile interfalangiene și metacarpofalangiene (MCF) trebuie să apară deschise
+  dacă falangele sunt paralele cu receptorul de imagine (RI) și dacă localizarea razei
+  centrale este corectă.
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la prima articulație
+  metacarpofalangiană (MCF). Expunere:'
+- Expunerea optimă a receptorului de imagine și contrastul, în absența mișcării, evidențiază
+  marginile părților moi, contururile osoase și traveele trabeculare nete, fără artefacte
+  de mișcare. Falangă distală; articulații interfalangiene (IF); R; falangă proximală;
+  articulații metacarpofalangiene (MCF); raza centrală; metacarpianul 1; os sesamoid;
+  articulația carpometacarpiană (CMC) 1. Fig. 4.57 Police în incidență PA oblică.
+  R Fig. 4.56 Police în incidență PA oblică.
 sid_dff: 100 cm
 slug: rx-medial-rotation-pa-oblica-police-bontrager
 sources:
@@ -60,18 +64,18 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la Police, ensuring that toate de
-    first metacarpal și trapezium este included. Police ROUTINE AP PA oblic lateral
-    Fig. 4.55 PA oblic Police—raza centrală la first articulații metacarpofalangiene
-    (MCF).
+  collimation: 'Dimensiunea câmpului: Colimați pe cele patru laturi până la police,
+    asigurând includerea întregului prim metacarpian și a trapezului. Police: de rutină
+    AP; PA oblică; laterală. Fig. 4.55 PA oblică a policelui—raza centrală la prima
+    articulație metacarpofalangiană (MCF).'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Rotație Internă (Medială) PA Oblică (Police)
+title: Rx rotație internă (medială) PA oblică (police)
 ---
-# Rx Rotație Internă (Medială) PA Oblică (Police)
+# Rx rotație internă (medială) PA oblică (police)
 
 
 <div class="rx-meta-bar">
@@ -90,23 +94,24 @@ title: Rx Rotație Internă (Medială) PA Oblică (Police)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de distal și proximal falange, distal metacarpal, și associated articulații
-        - Pathologic processes, such ca osteoporosis și artroză / modificări degenerative articulare
+        - Suspiciune de fractură și luxație / subluxație articulară a falangelor distală și proximală, a metacarpianului distal și a articulațiilor asociate
+        - Procese patologice, precum osteoporoza și artroza / modificările degenerative articulare
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână resting pe receptorul de imagine.; Regiune anatomică: Abduct Police slightly cu palmar surface de Mână în contact cu receptorul de imagine (this action naturally places Police în a 45° Incidență Oblică). Align axa longitudinală de Police cu axa longitudinală de receptorul de imagine. Center first articulații metacarpofalangiene (MCF) la raza centrală și la center de receptorul de imagine (Fig. 4.55).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la first articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu mâna sprijinită pe receptorul de imagine.; Regiune anatomică: Abduceți ușor policele, cu suprafața palmară a mâinii în contact cu receptorul de imagine (această acțiune plasează în mod natural policele într-o incidență oblică la 45°). Aliniați axa longitudinală a policelui cu axa longitudinală a receptorului de imagine. Centrați prima articulație metacarpofalangiană (MCF) la raza centrală și la centrul receptorului de imagine (Fig. 4.55).
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, orientat către prima articulație metacarpofalangiană (MCF)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -122,18 +127,18 @@ title: Rx Rotație Internă (Medială) PA Oblică (Police)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la Police, ensuring that toate de first metacarpal și trapezium este included. Police ROUTINE AP PA oblic lateral Fig. 4.55 PA oblic Police—raza centrală la first articulații metacarpofalangiene (MCF). |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Colimați pe cele patru laturi până la police, asigurând includerea întregului prim metacarpian și a trapezului. Police: de rutină AP; PA oblică; laterală. Fig. 4.55 PA oblică a policelui—raza centrală la prima articulație metacarpofalangiană (MCF). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal și proximal falange, first metacarpal, trapezium, și associated articulații sunt visualized în a 45° Incidență Oblică (Figs. 4.56 și 4.57). poziție:
-    - axa longitudinală de Police trebuie să fie aliniat cu side margine de receptorul de imagine.
-    - Interphalangeal și articulații metacarpofalangiene (MCF) trebuie să appear open if falange sunt paralel cu receptorul de imagine (RI) și if raza centrală location este correct.
-    - raza centrală și center de collimation field size trebuie să fie la first articulații metacarpofalangiene (MCF). expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. distal phalanx articulații interfalangiene (IF) R proximal phalanx articulații metacarpofalangiene (MCF) raza centrală 1st metacarpal Sesamoid bone 1st articulații carpometacarpiene (CMC) Fig. 4.57 PA oblic Police. R Fig. 4.56 PA oblic Police.
+    - Falangele distală și proximală, primul metacarpian, trapezul și articulațiile asociate sunt vizualizate într-o incidență oblică la 45° (Fig. 4.56 și 4.57). Poziție:
+    - Axa longitudinală a policelui trebuie să fie aliniată cu marginea laterală a receptorului de imagine.
+    - Articulațiile interfalangiene și metacarpofalangiene (MCF) trebuie să apară deschise dacă falangele sunt paralele cu receptorul de imagine (RI) și dacă localizarea razei centrale este corectă.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la prima articulație metacarpofalangiană (MCF). Expunere:
+    - Expunerea optimă a receptorului de imagine și contrastul, în absența mișcării, evidențiază marginile părților moi, contururile osoase și traveele trabeculare nete, fără artefacte de mișcare. Falangă distală; articulații interfalangiene (IF); R; falangă proximală; articulații metacarpofalangiene (MCF); raza centrală; metacarpianul 1; os sesamoid; articulația carpometacarpiană (CMC) 1. Fig. 4.57 Police în incidență PA oblică. R Fig. 4.56 Police în incidență PA oblică.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,25 +158,25 @@ title: Rx Rotație Internă (Medială) PA Oblică (Police)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.55 PA oblic Police—raza centrală la first articulații metacarpofalangiene (MCF).](../../assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_1.jpeg)
+![Fig. 4.55 PA oblică a policelui—raza centrală la prima articulație metacarpofalangiană (MCF).](../../assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.55 PA oblic Police—raza centrală la first articulații metacarpofalangiene (MCF).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.55 PA oblic thumb—raza centrală la first articulații metacarpofalangiene (MCF).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.57 PA oblic Police.](../../assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.57 PA oblic Police.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.57 PA oblic thumb.)</span></figcaption>
+<figcaption><strong>Fig. 4.55 PA oblică a policelui—raza centrală la prima articulație metacarpofalangiană (MCF).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.55 PA oblică a policelui—raza centrală la prima articulație metacarpofalangiană (MCF).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.56 PA oblic](../../assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_3.jpeg)
+![Fig. 4.57 PA oblică a policelui.](../../assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.56 PA oblic</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.56 PA oblic)</span></figcaption>
+<figcaption><strong>Fig. 4.57 PA oblică a policelui.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.57 PA oblică a policelui.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.56 PA oblică](../../assets/images/protocols/bontrager/rx-medial-rotation-pa-oblica-police-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 4.56 PA oblică</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.56 PA oblică)</span></figcaption>
 
 </figure>
 

@@ -1,0 +1,32 @@
+
+ │  ⚠  Warning from the Material for MkDocs team
+ │
+ │  MkDocs 2.0, the underlying framework of Material for MkDocs,
+ │  will introduce backward-incompatible changes, including:
+ │
+ │  × All plugins will stop working – the plugin system has been removed
+ │  × All theme overrides will break – the theming system has been rewritten
+ │  × No migration path exists – existing projects cannot be upgraded
+ │  × Closed contribution model – community members can't report bugs
+ │  × Currently unlicensed – unsuitable for production use
+ │
+ │  Our full analysis:
+ │
+ │  https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
+
+INFO    -  Cleaning site directory
+INFO    -  Building documentation to directory: C:\Users\ionel\Downloads\radiology-protocols\site
+Building prefix dict from C:\Users\ionel\AppData\Local\Programs\Python\Python312\Lib\site-packages\jieba\dict.txt ...
+Loading model from cache C:\Users\ionel\AppData\Local\Temp\jieba.cache
+Loading model cost 1.3363189697265625 seconds.
+Prefix dict has been built succesfully.
+
+[build_optimizer] 🚀 Pornire optimizare și compresie pentru: site/
+  • Minificare 1865 fișiere HTML...
+  • Optimizare 2364 imagini (PNG & JPEG)...
+[build_optimizer] ✔ Optimizare finalizată în 28.44s!
+    - HTML:    177.2 MB -> 106.4 MB (-70.8 MB)
+    - Imagini: 184.6 MB -> 131.9 MB (-52.7 MB)
+    - TOTAL ECONOMISIT: 123.5 MB (reducere 34.1%)
+
+INFO    -  Documentation built in 195.34 seconds

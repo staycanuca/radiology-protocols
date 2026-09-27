@@ -1,9 +1,9 @@
 ---
 author: Referință Merrill
-breathing: Inspiration unless otherwise requested.
+breathing: Inspiră, dacă nu se solicită altfel.
 category: neclasificat
-centering: orizontal și perpendicular pe centrul receptorului de imagine, entering
-  pacientul la level de 3 inches (7.6 cm) below incizură jugulară (furculiță sternală)
+centering: Orizontală și perpendiculară pe centrul receptorului de imagine, intrând
+  în pacient la nivelul de 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală)
   pentru AP și T7 pentru PA.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
@@ -11,22 +11,28 @@ images:
 - caption: Merrill — pagina 1486, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-20-mobile-radiography-ap-or-incidenta-postero-anterioara-pa-c-right-or-left-incidenta-decubit-lateral-p1485-merrill/p1486_fig1.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în lateral Decubit poziție. se flectează pacient’s genunchi
-  la provide stabilization, if possible. Place firm support under pacientul la elevate
-  corp 2 la 3 inches (5 la 7.6 cm) și prevent pacientul de la sinking into mattress.
-  Raise ambele de pacientul’s brațe up și away de la Torace region, preferably above
-  capul. braț culcat pe pacientul’s side poate imitate region de aer liber. Make sure
-  pacientul cannot roll de bed.; se poziționează pacientul pentru Incidență Antero-Posterioară
-  (AP) whenever possible. It este much easier la poziție ill pacient (particularly
-  brațele) pentru AP. se ajustează pacient la ensure Incidență de Profil (lateral).
-  plan coronal passing through umerii și hips trebuie să fie vertical. Place receptorul
-  de imagine behind pacientul și below support astfel încât lower margin de Torace
-  este vizibil. se ajustează grilă so that it extends approximately 2 inches (5 cm)
-  above umerii. în order la avoid distortion, receptorul de imagine trebuie să fie
-  sprijinit în poziție și nu leaning pe / sprijinit de pacient (Fig. 20.12). se efectuează
+position: Se așază pacientul în decubit lateral. Se flectează genunchii pacientului
+  pentru stabilizare, dacă este posibil. Se plasează un suport ferm sub pacient pentru
+  a ridica trunchiul cu 2 la 3 țoli (5 la 7.6 cm) și pentru a împiedica pacientul
+  să se afunde în saltea. Se ridică ambele brațe ale pacientului în sus și departe
+  de regiunea toracelui, de preferat deasupra capului. Brațul așezat pe partea pacientului
+  poate imita o regiune de aer liber. Se asigură că pacientul nu se poate rostogoli
+  din pat.; Se poziționează pacientul pentru incidență anteroposterioară (AP) ori
+  de câte ori este posibil. Este mult mai ușor să se poziționeze un pacient bolnav
+  (în special brațele) pentru AP. Se ajustează pacientul pentru a asigura incidența
+  de profil (lateral). Planul coronal care trece prin umeri și șolduri trebuie să
+  fie vertical. Se plasează receptorul de imagine în spatele pacientului și sub suport,
+  astfel încât marginea inferioară a toracelui să fie vizibilă. Se ajustează grila
+  astfel încât să se extindă aproximativ 2 țoli (5 cm) deasupra umerilor. Pentru a
+  evita deformarea, receptorul de imagine trebuie să fie sprijinit în poziție și să
+  nu fie înclinat spre pacient sau sprijinit de acesta (Fig. 20.12). Se efectuează
   ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
@@ -38,55 +44,52 @@ source_pages:
 - 1485
 - 1486
 source_sections:
-  anatomy: This incidență shows anatomy de thorax, including entire câmpuri pulmonare
-    și orice air sau nivele hidroaerice that poate fie present (Fig. 20.13).
-  collimation: • Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
-  cr: '• orizontal și perpendicular pe centrul receptorului de imagine, entering pacientul
-    la level de 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) pentru
-    AP
+  anatomy: Această incidență evidențiază anatomia toracelui, inclusiv întregul câmp
+    pulmonar și orice aer sau niveluri hidroaerice care pot fi prezente (Fig. 20.13).
+  collimation: • Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
+  cr: • Orizontală și perpendiculară pe centrul receptorului de imagine, intrând în
+    pacient la nivelul de 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală)
+    pentru AP și T7 pentru PA.
+  part_pos: '• Se poziționează pacientul pentru incidența AP ori de câte ori este
+    posibil. Este mult mai ușor să se poziționeze un pacient bolnav (în special brațele)
+    pentru AP.
 
-    și T7 pentru PA.'
-  part_pos: '• se poziționează pacientul pentru AP incidență whenever possible. It
-    este much easier la poziție ill pacient (particularly brațele) pentru AP.
+    • Se ajustează pacientul pentru a asigura poziția de profil (lateral). Planul
+    coronal care trece prin umeri și șolduri trebuie să fie vertical.
 
-    • se ajustează pacient la ensure poziție de profil (lateral). plan coronal passing
-    through umerii și hips trebuie să fie vertical.
+    • Se plasează receptorul de imagine în spatele pacientului și sub suport, astfel
+    încât marginea inferioară a toracelui să fie vizibilă.
 
-    • Place receptorul de imagine behind pacientul și below support astfel încât lower
-    margin de toracele este vizibil.
+    • Se ajustează grila astfel încât să se extindă aproximativ 2 țoli (5 cm) deasupra
+    umerilor. Pentru a evita deformarea, receptorul de imagine trebuie să fie sprijinit
+    în poziție și să nu fie înclinat spre pacient sau sprijinit de acesta (Fig. 20.12).
 
-    • se ajustează grilă so that it extends approximately 2 inches (5 cm) above umerii.
-    în order la avoid distortion, receptorul de imagine trebuie să fie
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit lateral.
 
-    sprijinit în poziție și nu leaning pe / sprijinit de pacient (Fig. 20.12).
+    • Se flectează genunchii pacientului pentru stabilizare, dacă este posibil.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în lateral recumbent poziție.
+    • Se plasează un suport ferm sub pacient pentru a ridica trunchiul cu 2 la 3 țoli
+    (5 la 7.6 cm) și pentru a împiedica pacientul să se afunde în saltea.
 
-    • se flectează pacient’s genunchi la provide stabilization, if possible.
+    • Se ridică ambele brațe ale pacientului în sus și departe de regiunea toracelui,
+    de preferat deasupra capului. Brațul așezat pe partea pacientului poate imita
+    o regiune de aer liber.
 
-    • Place firm support under pacientul la elevate corp 2 la 3 inches (5 la 7.6 cm)
-    și prevent pacientul de la sinking into mattress.
-
-    • Raise ambele de pacientul’s brațe up și away de la toracele region, preferably
-    above capul. braț culcat pe pacientul’s side poate
-
-    imitate region de aer liber.
-
-    • Make sure pacientul cannot roll de bed.'
-  respiration: Inspiration unless otherwise requested.
-  tech: receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu longitudinal
-    grilă.
+    • Se asigură că pacientul nu se poate rostogoli din pat.'
+  respiration: Inspiră, dacă nu se solicită altfel.
+  tech: Receptorul de imagine trebuie să aibă dimensiunile de 14 × 17 inchi (35 ×
+    43 cm), cu grila orientată longitudinal.
 sources:
 - title: Merrill’s Atlas, 20. Mobile Radiography, pagini 1485–1486
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
-title: Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c — Right or
-  left Incidență Decubit Lateral (Merrill)
+  collimation: Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
+title: Rx radiografie mobilă — AP sau incidență postero-anterioară (PA) c — incidență
+  în decubit lateral drept sau stâng (Merrill)
 ---
-# Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c — Right or left Incidență Decubit Lateral (Merrill)
+# Rx radiografie mobilă — AP sau incidență postero-anterioară (PA) c — incidență în decubit lateral drept sau stâng (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -110,19 +113,20 @@ title: Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c �
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în lateral Decubit poziție. se flectează pacient’s genunchi la provide stabilization, if possible. Place firm support under pacientul la elevate corp 2 la 3 inches (5 la 7.6 cm) și prevent pacientul de la sinking into mattress. Raise ambele de pacientul’s brațe up și away de la Torace region, preferably above capul. braț culcat pe pacientul’s side poate imitate region de aer liber. Make sure pacientul cannot roll de bed.; se poziționează pacientul pentru Incidență Antero-Posterioară (AP) whenever possible. It este much easier la poziție ill pacient (particularly brațele) pentru AP. se ajustează pacient la ensure Incidență de Profil (lateral). plan coronal passing through umerii și hips trebuie să fie vertical. Place receptorul de imagine behind pacientul și below support astfel încât lower margin de Torace este vizibil. se ajustează grilă so that it extends approximately 2 inches (5 cm) above umerii. în order la avoid distortion, receptorul de imagine trebuie să fie sprijinit în poziție și nu leaning pe / sprijinit de pacient (Fig. 20.12). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orizontal și perpendicular pe centrul receptorului de imagine, entering pacientul la level de 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) pentru AP și T7 pentru PA.
+    - **Poziție Pacient:** Se așază pacientul în decubit lateral. Se flectează genunchii pacientului pentru stabilizare, dacă este posibil. Se plasează un suport ferm sub pacient pentru a ridica trunchiul cu 2 la 3 țoli (5 la 7.6 cm) și pentru a împiedica pacientul să se afunde în saltea. Se ridică ambele brațe ale pacientului în sus și departe de regiunea toracelui, de preferat deasupra capului. Brațul așezat pe partea pacientului poate imita o regiune de aer liber. Se asigură că pacientul nu se poate rostogoli din pat.; Se poziționează pacientul pentru incidență anteroposterioară (AP) ori de câte ori este posibil. Este mult mai ușor să se poziționeze un pacient bolnav (în special brațele) pentru AP. Se ajustează pacientul pentru a asigura incidența de profil (lateral). Planul coronal care trece prin umeri și șolduri trebuie să fie vertical. Se plasează receptorul de imagine în spatele pacientului și sub suport, astfel încât marginea inferioară a toracelui să fie vizibilă. Se ajustează grila astfel încât să se extindă aproximativ 2 țoli (5 cm) deasupra umerilor. Pentru a evita deformarea, receptorul de imagine trebuie să fie sprijinit în poziție și să nu fie înclinat spre pacient sau sprijinit de acesta (Fig. 20.12). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orizontală și perpendiculară pe centrul receptorului de imagine, intrând în pacient la nivelul de 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală) pentru AP și T7 pentru PA.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Inspiration unless otherwise requested.
+    - **Comandă Respiratorie:** Inspiră, dacă nu se solicită altfel.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -136,7 +140,7 @@ title: Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c �
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust la 14 × 17 inches (35 × 43 cm) pe collimator. |
+    | **Colimare Fascicul** | Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm). |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -152,6 +156,7 @@ title: Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c �
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -183,45 +188,3 @@ title: Rx Mobile Radiography — AP or Incidență Postero-Anterioară (PA) c �
 ## Surse de documentare
 
 - [Merrill’s Atlas, 20. Mobile Radiography, pagini 1485–1486](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This incidență shows anatomy de thorax, including entire câmpuri pulmonare și orice air sau nivele hidroaerice that poate fie present (Fig. 20.13).
-
-### collimation
-
-• Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
-
-### cr
-
-• orizontal și perpendicular pe centrul receptorului de imagine, entering pacientul la level de 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) pentru AP
-și T7 pentru PA.
-
-### part_pos
-
-• se poziționează pacientul pentru AP incidență whenever possible. It este much easier la poziție ill pacient (particularly brațele) pentru AP.
-• se ajustează pacient la ensure poziție de profil (lateral). plan coronal passing through umerii și hips trebuie să fie vertical.
-• Place receptorul de imagine behind pacientul și below support astfel încât lower margin de toracele este vizibil.
-• se ajustează grilă so that it extends approximately 2 inches (5 cm) above umerii. în order la avoid distortion, receptorul de imagine trebuie să fie
-sprijinit în poziție și nu leaning pe / sprijinit de pacient (Fig. 20.12).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în lateral recumbent poziție.
-• se flectează pacient’s genunchi la provide stabilization, if possible.
-• Place firm support under pacientul la elevate corp 2 la 3 inches (5 la 7.6 cm) și prevent pacientul de la sinking into mattress.
-• Raise ambele de pacientul’s brațe up și away de la toracele region, preferably above capul. braț culcat pe pacientul’s side poate
-imitate region de aer liber.
-• Make sure pacientul cannot roll de bed.
-
-### respiration
-
-Inspiration unless otherwise requested.
-
-### tech
-
-receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu longitudinal grilă.
-

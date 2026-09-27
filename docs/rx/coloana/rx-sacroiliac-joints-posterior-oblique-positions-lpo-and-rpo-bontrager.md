@@ -25,6 +25,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.78
     Incidență RPO pentru articulațiile SI stângi (partea ridicată).)
   url: assets/images/protocols/bontrager/rx-sacroiliac-joints-posterior-oblique-positions-lpo-and-rpo-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Pentru evidențierea mai clară a părții inferioare sau distale a articulației,
@@ -96,11 +100,12 @@ title: ARTICULAȚIILE SACROILIACE — INCIDENȚE OB切ICE POSTERIOARE — Poziț
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -144,6 +149,7 @@ title: ARTICULAȚIILE SACROILIACE — INCIDENȚE OB切ICE POSTERIOARE — Poziț
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pentru evidențierea mai clară a părții inferioare sau distale a articulației, raza centrală poate fi înclinată cu 15° la 20° cranial. ARTICULAȚIILE SACROILIACE — incidențe AP axiale oblice posterioare de rutină

@@ -3,25 +3,36 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: "• Centre 2.5 cm distal la Profil (lateral) malleolus cu following cranial\
-  \ angulations:\n10\x06 20\x06 30\x06 40\x06 45\x06 40° radiografie evidențiind effect\
-  \ de 40-grade angulation 20° radiografie evidențiind effect de 20-grade angulation\
-  \ 10° radiografie evidențiind effect de 10-grade angulation 10 grade posterior part\
-  \ de posterior articulation 20–30 grade Middle part de posterior articulation și\
-  \ middle articulation 40 grade anterior part de posterior articulation"
+centering: '• Se centrează la 2.5 cm distal de maleola laterală, cu următoarele angulații
+  craniale:
+
+  10° 20° 30° 40° 45°
+
+  40°: radiografie care evidențiază efectul angulației de 40 grade.
+
+  20°: radiografie care evidențiază efectul angulației de 20 grade.
+
+  10°: radiografie care evidențiază efectul angulației de 10 grade.
+
+  10 grade: partea posterioară a articulației posterioare.
+
+  20–30 grade: partea mijlocie a articulației posterioare și articulația mijlocie.
+
+  40 grade: partea anterioară a articulației posterioare.'
 clinical_indications:
-- Evaluare radiografică regiunii Articulații Subtalare (Oblică medial).
+- Evaluarea radiografică a regiunii articulațiilor subtalare (oblică medială).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: radiografie evidențiind effect de 40-grade
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: radiografie care evidențiază efectul angulației de 40°
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_1.jpeg
-- caption: radiografie evidențiind effect de 20-grade
+- caption: radiografie care evidențiază efectul angulației de 20°
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_2.jpeg
-- caption: radiografie evidențiind effect de 10-grade
+- caption: radiografie care evidențiază efectul angulației de 10°
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_3.jpeg
@@ -33,24 +44,27 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_5.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• Pacientul este așezat în decubit dorsal pe masa radiologică, cu affected
-  limb extins.
+position: '• Pacientul este așezat în decubit dorsal pe masa radiologică, cu membrul
+  afectat extins.
 
-  • Gleznă (Articulație Talocrurală) articulație este dorsiflexed și malleoli sunt
-  echidistant față de film radiologic.
+  • Articulația talocrurală este în dorsiflexie, iar maleolele sunt echidistante față
+  de filmul radiologic.
 
-  • membru inferior este internally rotit through 45 grade.
+  • Membrul inferior este rotit intern la 45 grade.
 
-  • Se plasează un suport/pernă sub genunchi pentru sprijin și relaxare.
+  • Se plasează un suport/o pernă sub genunchi pentru sprijin și relaxare.
 
-  • non-opaque square pad și săculeți cu nisip poate fie plasat pe / sprijinit de
-  plantar aspect de Picior la keep Gleznă (Articulație Talocrurală) articulație în
-  dorsiflexion.
+  • Un suport pătrat radiotransparent și săculeți cu nisip pot fi plasați pe/sprijiniți
+  de fața plantară a piciorului pentru a menține articulația talocrurală în dorsiflexie.
 
-  • lower edge de caseta este plasat la nivelul plantar aspect de heel.'
+  • Marginea inferioară a casetei este plasată la nivelul feței plantare a călcâiului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -59,7 +73,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Articulații Subtalare).
+- Vizualizarea clară a întregii arii anatomice (articulațiile subtalare).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -71,14 +85,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Articulații Subtalare Oblică medial
+  mas: Conform AEC / grosimii anatomice
+title: Rx articulațiile subtalare — oblică medială
 ---
-# Rx Articulații Subtalare Oblică medial
+# Rx articulațiile subtalare — oblică medială
 
 
 <div class="rx-meta-bar">
@@ -97,30 +111,32 @@ title: Rx Articulații Subtalare Oblică medial
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Articulații Subtalare (Oblică medial).
+        - Evaluarea radiografică a regiunii articulațiilor subtalare (oblică medială).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică, cu affected limb extins.
-• Gleznă (Articulație Talocrurală) articulație este dorsiflexed și malleoli sunt echidistant față de film radiologic.
-• membru inferior este internally rotit through 45 grade.
-• Se plasează un suport/pernă sub genunchi pentru sprijin și relaxare.
-• non-opaque square pad și săculeți cu nisip poate fie plasat pe / sprijinit de plantar aspect de Picior la keep Gleznă (Articulație Talocrurală) articulație în dorsiflexion.
-• lower edge de caseta este plasat la nivelul plantar aspect de heel.
-    - **Punct de Centrare Fascicul:** • Centre 2.5 cm distal la Profil (lateral) malleolus cu following cranial angulations:
-10 20 30 40 45 40° radiografie evidențiind effect de 40-grade angulation 20° radiografie evidențiind effect de 20-grade angulation 10° radiografie evidențiind effect de 10-grade angulation 10 grade posterior part de posterior articulation 20–30 grade Middle part de posterior articulation și middle articulation 40 grade anterior part de posterior articulation
+    - **Poziție Pacient:**
+        - Pacientul este așezat în decubit dorsal pe masa radiologică, cu membrul afectat extins.
+        - Articulația talocrurală este în dorsiflexie, iar maleolele sunt echidistante față de filmul radiologic.
+        - Membrul inferior este rotit intern la 45 grade.
+        - Se plasează un suport/o pernă sub genunchi pentru sprijin și relaxare.
+        - Un suport pătrat radiotransparent și săculeți cu nisip pot fi plasați pe/sprijiniți de fața plantară a piciorului pentru a menține articulația talocrurală în dorsiflexie.
+        - Marginea inferioară a casetei este plasată la nivelul feței plantare a călcâiului.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează la 2.5 cm distal de maleola laterală, cu următoarele angulații craniale: 10° 20° 30° 40° 45° 40°: radiografie care evidențiază efectul angulației de 40 grade. 20°: radiografie care evidențiază efectul angulației de 20 grade. 10°: radiografie care evidențiază efectul angulației de 10 grade. 10 grade: partea posterioară a articulației posterioare. 20–30 grade: partea mijlocie a articulației posterioare și articulația mijlocie. 40 grade: partea anterioară a articulației posterioare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -131,19 +147,19 @@ title: Rx Articulații Subtalare Oblică medial
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Articulații Subtalare).
+    - Vizualizarea clară a întregii arii anatomice (articulațiile subtalare).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -157,6 +173,7 @@ title: Rx Articulații Subtalare Oblică medial
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -167,25 +184,25 @@ title: Rx Articulații Subtalare Oblică medial
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie evidențiind effect de 40-grade](../../assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_1.jpeg)
+![radiografie care evidențiază efectul angulației de 40°](../../assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_1.jpeg)
 
-<figcaption><strong>radiografie evidențiind effect de 40-grade</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![radiografie evidențiind effect de 20-grade](../../assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_2.jpeg)
-
-<figcaption><strong>radiografie evidențiind effect de 20-grade</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografie care evidențiază efectul angulației de 40°</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie evidențiind effect de 10-grade](../../assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_3.jpeg)
+![radiografie care evidențiază efectul angulației de 20°](../../assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_2.jpeg)
 
-<figcaption><strong>radiografie evidențiind effect de 10-grade</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografie care evidențiază efectul angulației de 20°</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![radiografie care evidențiază efectul angulației de 10°](../../assets/images/protocols/clark/rx-articulatii-subtalare-oblica-medial-p136-clark/fig_3.jpeg)
+
+<figcaption><strong>radiografie care evidențiază efectul angulației de 10°</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

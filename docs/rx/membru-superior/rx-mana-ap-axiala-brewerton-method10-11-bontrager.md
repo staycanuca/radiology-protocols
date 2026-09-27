@@ -2,27 +2,28 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: 'Fig. 4.83 AP axial—Brewerton method. Fig. 4.84 AP axial. (de la Wilson
-  DJ et al: Musculoskeletal imaging, ed 2, Philadelphia, 2015, Elsevier.) 2nd la 5th
-  articulații metacarpofalangiene (MCF) în profile Fig. 4.85 AP axial. (Modified de
-  la Wilson DJ et al: Musculoskeletal imaging, ed 2, Philadelphia, 2015, Elsevier.)'
+centering: 'Fig. 4.83 Incidență AP axială — metoda Brewerton. Fig. 4.84 Incidență
+  AP axială. (Din Wilson DJ și colab.: Musculoskeletal imaging, ediția 2, Philadelphia,
+  2015, Elsevier.) Articulațiile metacarpofalangiene (MCF) de la a 2-a până la a 5-a,
+  văzute din profil. Fig. 4.85 Incidență AP axială. (Modificat după Wilson DJ și colab.:
+  Musculoskeletal imaging, ediția 2, Philadelphia, 2015, Elsevier.)'
 clinical_indications:
-- Performed commonly la evaluate pentru early evidence de Poliartrită reumatoidă /
-  artropatie inflamatorie la second through fifth metacarpophalangeal (MCP) articulații.
-  Evident prin slight erosion de capul de metacarpal.
-- poate evidențiază suspiciune de fractură de base de fourth și fifth metacarpal.
+- Efectuată în mod obișnuit pentru evaluarea semnelor precoce de poliartrită reumatoidă
+  / artropatie inflamatorie la nivelul articulațiilor metacarpofalangiene (MCP) de
+  la a doua la a cincea. Evidențiată prin eroziunea discretă a capului metacarpian.
+- Poate evidenția suspiciunea de fractură a bazei metacarpienelor IV și V.
 images:
-- caption: Fig. 4.83 AP axial—Brewerton method.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.83 AP axial—Brewerton
-    method.)
+- caption: Fig. 4.83 AP axială — metoda Brewerton.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.83, AP
+    axială — metoda Brewerton.)
   url: assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_1.jpeg
-- caption: 'Fig. 4.84 AP axial. (de la Wilson DJ et al: Musculoskeletal imaging,'
-  description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.84
-    AP axial. (de la Wilson DJ et al: Musculoskeletal imaging,)'
+- caption: 'Fig. 4.84 AP axială. (după Wilson DJ et al.: Musculoskeletal imaging,'
+  description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.84,
+    AP axială. (după Wilson DJ et al.: Musculoskeletal imaging,)'
   url: assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_2.jpeg
-- caption: 'Fig. 4.85 AP axial. (Modified de la Wilson DJ et al: Musculoskeletal'
-  description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.85
-    AP axial. (Modified de la Wilson DJ et al: Musculoskeletal)'
+- caption: 'Fig. 4.85 AP axială. (Adaptat după Wilson DJ et al.: Musculoskeletal'
+  description: 'Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.85,
+    AP axială. (Adaptat după Wilson DJ et al.: Musculoskeletal)'
   url: assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
@@ -32,15 +33,20 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     5)
   url: assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_5.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Stand pacient la end de table cu Mână în supinație și flectat.;
-  Regiune anatomică: Supinate Mână și place la center de receptorul de imagine. de
-  la this poziție, keeping Degete Mână în contact cu receptorul de imagine, se flectează
-  Mână la create a 65° angle între dorsum de Mână și receptorul de imagine (Fig. 4.83).
-  Extend Degete Mână și ensure they sunt relaxat, slightly separated și paralel cu
-  receptorul de imagine. Abduct Police la avoid superimposition.'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu mâna în supinație și flectată.;
+  Regiune anatomică: Supinați mâna și așezați-o în centrul receptorului de imagine.
+  Din această poziție, menținând degetele mâinii în contact cu receptorul de imagine,
+  flectați mâna pentru a crea un unghi de 65° între dosul mâinii și receptorul de
+  imagine (Fig. 4.83). Extindeți degetele mâinii și asigurați-vă că sunt relaxate,
+  ușor depărtate și paralele cu receptorul de imagine. Abduceți policele pentru a
+  evita suprapunerea.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -48,17 +54,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Mână de la carpal area la tips de falange sunt vizibil (Figs. 4.84 și 4.85).
-  poziție:'
-- Second through fifth articulații metacarpofalangiene (MCF) open și vizibil cu fără
-  superimposition de palmer părți moi; Police trebuie să fie liber de superimposition
-  cu second through fifth falange. treimea medie diafizeis de second through fifth
-  oase metacarpiene și falange trebuie să nu overlap.
-- 'raza centrală și center de collimation field size trebuie să fie la treia articulație
-  metacarpofalangiană (MCP 3). expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare sunt evidențiat
-  prin clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare
-  și spații articulare margins de articulații metacarpofalangiene (MCF).
+- 'Întreaga mână, de la regiunea carpiană până la vârfurile falangelor, este vizibilă
+  (Figs. 4.84 și 4.85). Poziție:'
+- Articulațiile metacarpofalangiene (MCF) de la II la V sunt deschise și vizibile,
+  fără suprapunerea părților moi palmare; policele trebuie să fie liber de suprapunerea
+  cu falangele II–V. Treimile medii ale diafizelor oaselor metacarpiene și falangelor
+  II–V nu trebuie să se suprapună.
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul celei de-a
+  treia articulații metacarpofalangiene (MCP 3). Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, sunt evidențiate
+  prin contururi osoase clare și travee trabeculare nete, fără artefacte de mișcare,
+  precum și prin marginile spațiilor articulare ale articulațiilor metacarpofalangiene
+  (MCF).
 sid_dff: 100 cm
 slug: rx-mana-ap-axiala-brewerton-method10-11-bontrager
 sources:
@@ -66,16 +73,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la outer margins de Mână și Pumn
-    (Articulație Radiocarpiană). Mână SPECIAL AP axial
+  collimation: 'Dimensiunea câmpului: Colimați pe cele patru laturi la marginile externe
+    ale mâinii și pumnului (articulației radiocarpiene). Mână, SPECIAL, AP axială'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Mână AP Axială (BREWERTON METHOD10,11)
+title: Rx mână AP axială (metoda Brewerton 10,11)
 ---
-# Rx Mână AP Axială (BREWERTON METHOD10,11)
+# Rx mână AP axială (metoda Brewerton 10,11)
 
 
 <div class="rx-meta-bar">
@@ -94,23 +101,24 @@ title: Rx Mână AP Axială (BREWERTON METHOD10,11)
 
     === "Indicații Clinice"
 
-        - Performed commonly la evaluate pentru early evidence de Poliartrită reumatoidă / artropatie inflamatorie la second through fifth metacarpophalangeal (MCP) articulații. Evident prin slight erosion de capul de metacarpal.
-        - poate evidențiază suspiciune de fractură de base de fourth și fifth metacarpal.
+        - Efectuată în mod obișnuit pentru evaluarea semnelor precoce de poliartrită reumatoidă / artropatie inflamatorie la nivelul articulațiilor metacarpofalangiene (MCP) de la a doua la a cincea. Evidențiată prin eroziunea discretă a capului metacarpian.
+        - Poate evidenția suspiciunea de fractură a bazei metacarpienelor IV și V.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Stand pacient la end de table cu Mână în supinație și flectat.; Regiune anatomică: Supinate Mână și place la center de receptorul de imagine. de la this poziție, keeping Degete Mână în contact cu receptorul de imagine, se flectează Mână la create a 65° angle între dorsum de Mână și receptorul de imagine (Fig. 4.83). Extend Degete Mână și ensure they sunt relaxat, slightly separated și paralel cu receptorul de imagine. Abduct Police la avoid superimposition.
-    - **Punct de Centrare Fascicul:** Fig. 4.83 AP axial—Brewerton method. Fig. 4.84 AP axial. (de la Wilson DJ et al: Musculoskeletal imaging, ed 2, Philadelphia, 2015, Elsevier.) 2nd la 5th articulații metacarpofalangiene (MCF) în profile Fig. 4.85 AP axial. (Modified de la Wilson DJ et al: Musculoskeletal imaging, ed 2, Philadelphia, 2015, Elsevier.)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu mâna în supinație și flectată.; Regiune anatomică: Supinați mâna și așezați-o în centrul receptorului de imagine. Din această poziție, menținând degetele mâinii în contact cu receptorul de imagine, flectați mâna pentru a crea un unghi de 65° între dosul mâinii și receptorul de imagine (Fig. 4.83). Extindeți degetele mâinii și asigurați-vă că sunt relaxate, ușor depărtate și paralele cu receptorul de imagine. Abduceți policele pentru a evita suprapunerea.
+    - **Punct de Centrare Fascicul:** Fig. 4.83 Incidență AP axială — metoda Brewerton. Fig. 4.84 Incidență AP axială. (Din Wilson DJ și colab.: Musculoskeletal imaging, ediția 2, Philadelphia, 2015, Elsevier.) Articulațiile metacarpofalangiene (MCF) de la a 2-a până la a 5-a, văzute din profil. Fig. 4.85 Incidență AP axială. (Modificat după Wilson DJ și colab.: Musculoskeletal imaging, ediția 2, Philadelphia, 2015, Elsevier.)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -126,17 +134,17 @@ title: Rx Mână AP Axială (BREWERTON METHOD10,11)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la outer margins de Mână și Pumn (Articulație Radiocarpiană). Mână SPECIAL AP axial |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Colimați pe cele patru laturi la marginile externe ale mâinii și pumnului (articulației radiocarpiene). Mână, SPECIAL, AP axială |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Mână de la carpal area la tips de falange sunt vizibil (Figs. 4.84 și 4.85). poziție:
-    - Second through fifth articulații metacarpofalangiene (MCF) open și vizibil cu fără superimposition de palmer părți moi; Police trebuie să fie liber de superimposition cu second through fifth falange. treimea medie diafizeis de second through fifth oase metacarpiene și falange trebuie să nu overlap.
-    - raza centrală și center de collimation field size trebuie să fie la treia articulație metacarpofalangiană (MCP 3). expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare sunt evidențiat prin clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare și spații articulare margins de articulații metacarpofalangiene (MCF).
+    - Întreaga mână, de la regiunea carpiană până la vârfurile falangelor, este vizibilă (Figs. 4.84 și 4.85). Poziție:
+    - Articulațiile metacarpofalangiene (MCF) de la II la V sunt deschise și vizibile, fără suprapunerea părților moi palmare; policele trebuie să fie liber de suprapunerea cu falangele II–V. Treimile medii ale diafizelor oaselor metacarpiene și falangelor II–V nu trebuie să se suprapună.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul celei de-a treia articulații metacarpofalangiene (MCP 3). Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, sunt evidențiate prin contururi osoase clare și travee trabeculare nete, fără artefacte de mișcare, precum și prin marginile spațiilor articulare ale articulațiilor metacarpofalangiene (MCF).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -156,25 +164,25 @@ title: Rx Mână AP Axială (BREWERTON METHOD10,11)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.83 AP axial—Brewerton method.](../../assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_1.jpeg)
+![Fig. 4.83 AP axială — metoda Brewerton.](../../assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.83 AP axial—Brewerton method.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.83 AP axial—Brewerton method.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.84 AP axial. (de la Wilson DJ et al: Musculoskeletal imaging,](../../assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.84 AP axial. (de la Wilson DJ et al: Musculoskeletal imaging,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.84 AP axial. (de la Wilson DJ et al: Musculoskeletal imaging,)</span></figcaption>
+<figcaption><strong>Fig. 4.83 AP axială — metoda Brewerton.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.83, AP axială — metoda Brewerton.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.85 AP axial. (Modified de la Wilson DJ et al: Musculoskeletal](../../assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_3.jpeg)
+![Fig. 4.84 AP axială. (după Wilson DJ et al.: Musculoskeletal imaging,](../../assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.85 AP axial. (Modified de la Wilson DJ et al: Musculoskeletal</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.85 AP axial. (Modified de la Wilson DJ et al: Musculoskeletal)</span></figcaption>
+<figcaption><strong>Fig. 4.84 AP axială. (după Wilson DJ et al.: Musculoskeletal imaging,</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.84, AP axială. (după Wilson DJ et al.: Musculoskeletal imaging,)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.85 AP axială. (Adaptat după Wilson DJ et al.: Musculoskeletal](../../assets/images/protocols/bontrager/rx-mana-ap-axiala-brewerton-method10-11-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 4.85 AP axială. (Adaptat după Wilson DJ et al.: Musculoskeletal</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.85, AP axială. (Adaptat după Wilson DJ et al.: Musculoskeletal)</span></figcaption>
 
 </figure>
 

@@ -11,7 +11,8 @@ clinical_indications:
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
 - caption: • Raza centrală verticală este centrată prin spațiile articulare.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_1.jpeg
 - caption: • Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -21,6 +22,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Este necesară precauție când se suspectează o fractură supracondiliană a
@@ -83,14 +88,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cot Antero-Posterior (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Rx Cot antero-posterior (AP)
 ---
-# Rx Cot Antero-Posterior (AP)
+# Rx Cot antero-posterior (AP)
 
 
 <div class="rx-meta-bar">
@@ -116,20 +121,22 @@ title: Rx Cot Antero-Posterior (AP)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Din poziția de profil, brațul pacientului este rotit extern.
-• Brațul este apoi extins complet, astfel încât fața posterioară a întregului membru să fie în contact cu suprafața mesei, iar palma să fie orientată în sus.
-• Jumătatea neexpusă a casetei este poziționată sub articulația cotului, cu axa scurtă paralelă cu antebrațul.
-• Brațul este ajustat astfel încât epicondilii medial și lateral să fie la distanță egală față de casetă.
-• Membrul este imobilizat cu săculeți cu nisip.
+    - **Poziție Pacient:**
+        - Din poziția de profil, brațul pacientului este rotit extern.
+        - Brațul este apoi extins complet, astfel încât fața posterioară a întregului membru să fie în contact cu suprafața mesei, iar palma să fie orientată în sus.
+        - Jumătatea neexpusă a casetei este poziționată sub articulația cotului, cu axa scurtă paralelă cu antebrațul.
+        - Brațul este ajustat astfel încât epicondilii medial și lateral să fie la distanță egală față de casetă.
+        - Membrul este imobilizat cu săculeți cu nisip.
     - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată prin spațiile articulare, la 2.5 cm distal de mijlocul distanței dintre epicondilul medial și cel lateral al humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -141,13 +148,13 @@ title: Rx Cot Antero-Posterior (AP)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
@@ -166,14 +173,11 @@ title: Rx Cot Antero-Posterior (AP)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Este necesară precauție când se suspectează o fractură supracondiliană a humerusului. În aceste cazuri nu se încearcă extensia articulației cotului și se utilizează o tehnică adaptată.
-• Când pacientul nu poate extinde cotul la 90 de grade, se utilizează o tehnică adaptată pentru incidența antero-posterioară.
-• Dacă membrul nu poate fi mobilizat, se pot obține două incidențe perpendiculare menținând membrul în aceeași poziție și rotind tubul radiogen cu 90 de grade.
-Incidență antero-posterioară în flexie parțială. Dacă pacientul nu poate extinde complet cotul, poziționarea pentru incidența antero-posterioară poate fi adaptată. Pentru evaluarea generală a cotului sau dacă zona principală de interes este extremitatea proximală a radiusului și a ulnei, fața posterioară a antebrațului trebuie să fie în contact cu caseta. Dacă zona principală de interes este extremitatea distală a humerusului, fața posterioară a humerusului trebuie să fie în contact cu caseta.
-Dacă articulația cotului este imobilizată în flexie completă, se utilizează o incidență axială în locul celei antero-posterioare.
-În ambele cazuri de mai sus, oasele se vor suprapune parțial. Totuși, leziunile majore și alinierea generală pot fi evidențiate.
-Repere anatomice: fosa coronoidă și fosa olecraniană; epicondilul medial (epitrohleea); olecranul; trohleea; procesul coronoid; incizura radială; diafiza ulnei; diafiza radiusului; tuberozitatea radiusului; capul radiusului; capitulul humeral; epicondilul lateral; fosa radială; diafiza humerusului. Radiografie antero-posterioară a cotului. Radiografie normală antero-posterioară a cotului.
+    - Este necesară precauție când se suspectează o fractură supracondiliană a humerusului. În aceste cazuri nu se încearcă extensia articulației cotului și se utilizează o tehnică adaptată.
+    - Când pacientul nu poate extinde cotul la 90 de grade, se utilizează o tehnică adaptată pentru incidența antero-posterioară.
+    - Dacă membrul nu poate fi mobilizat, se pot obține două incidențe perpendiculare menținând membrul în aceeași poziție și rotind tubul radiogen cu 90 de grade. Incidență antero-posterioară în flexie parțială. Dacă pacientul nu poate extinde complet cotul, poziționarea pentru incidența antero-posterioară poate fi adaptată. Pentru evaluarea generală a cotului sau dacă zona principală de interes este extremitatea proximală a radiusului și a ulnei, fața posterioară a antebrațului trebuie să fie în contact cu caseta. Dacă zona principală de interes este extremitatea distală a humerusului, fața posterioară a humerusului trebuie să fie în contact cu caseta. Dacă articulația cotului este imobilizată în flexie completă, se utilizează o incidență axială în locul celei antero-posterioare. În ambele cazuri de mai sus, oasele se vor suprapune parțial. Totuși, leziunile majore și alinierea generală pot fi evidențiate. Repere anatomice: fosa coronoidă și fosa olecraniană; epicondilul medial (epitrohleea); olecranul; trohleea; procesul coronoid; incizura radială; diafiza ulnei; diafiza radiusului; tuberozitatea radiusului; capul radiusului; capitulul humeral; epicondilul lateral; fosa radială; diafiza humerusului. Radiografie antero-posterioară a cotului. Radiografie normală antero-posterioară a cotului.
 
 
 ### 🖼️ Imagini
@@ -184,7 +188,7 @@ Repere anatomice: fosa coronoidă și fosa olecraniană; epicondilul medial (epi
 
 ![• Raza centrală verticală este centrată prin spațiile articulare.](../../assets/images/protocols/clark/rx-cot-antero-posterior-p77-clark/fig_1.jpeg)
 
-<figcaption><strong>• Raza centrală verticală este centrată prin spațiile articulare.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Raza centrală verticală este centrată prin spațiile articulare.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

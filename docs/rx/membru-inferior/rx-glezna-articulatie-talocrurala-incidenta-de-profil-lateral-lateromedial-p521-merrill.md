@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular through Gleznă (Articulație Talocrurală) articulație, entering
-  ½ inch (1.3 cm) superior la maleolă laterală (fibulară).
+centering: perpendicular prin articulația gleznei, intrând la ½ țol (1.3 cm) superior
+  față de maleola laterală (fibulară).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,30 +13,35 @@ images:
 - caption: Merrill — pagina 524, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glezna-articulatie-talocrurala-incidenta-de-profil-lateral-lateromedial-p521-merrill/p524_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Have Decubit dorsal pacient turn away de la afected side until extins membru
-  inferior este plasat laterally.; se centrează receptorul de imagine la Gleznă (Articulație
-  Talocrurală) articulație și se ajustează receptorul de imagine so that its axa longitudinală
-  este paralel cu axa longitudinală de membru inferior. se ajustează Picior în Incidență
-  de Profil (lateral). Se instruiește pacientul să turn anteriorly sau posteriorly
-  ca required la place Rotulă (Patelă) perpendicular pe plan orizontal (Fig. 7.96A).
-  This incidență also poate fie performed ca cross table lateral cu pacientul Decubit
-  dorsal (Fig. 7.96B). If necessary, place support under pacientul’s Genunchi. se
-  efectuează ecranarea gonadelor cu șorț plumbat.
+position: Pacientul în decubit dorsal se rotește în direcție opusă părții afectate
+  până când membrul inferior extins este plasat lateral; se centrează receptorul de
+  imagine la articulația gleznei și se ajustează receptorul de imagine astfel încât
+  axa sa longitudinală să fie paralelă cu axa longitudinală a membrului inferior.
+  Se ajustează piciorul în incidență de profil (lateral). Se instruiește pacientul
+  să se rotească anterior sau posterior, după cum este necesar, pentru a plasa rotula
+  (patela) perpendicular pe planul orizontal (Fig. 7.96A). Această incidență poate
+  fi efectuată și ca incidență laterală cu fascicul orizontal, cu pacientul în decubit
+  dorsal (Fig. 7.96B). Dacă este necesar, se plasează un suport sub genunchiul pacientului.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Gleznă (Articulație Talocrurală) articulație centrat pe expunere area
-- distal tibia și fibula, astragal (talus), și adjacent oase tarsiene
-- Gleznă (Articulație Talocrurală) în true Incidență de Profil (lateral)
-- Tibiotalar articulație well visualized, cu medial și lateral talar domes superimposed
-- Fibula over posterior half de tibia
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- articulația gleznei (articulația talocrurală) centrată pe zona de expunere
+- tibia și fibula distale, astragalul (talusul) și oasele tarsiene adiacente
+- Gleznă (articulație talocrurală) în incidență de profil (lateral) adevărată
+- Articulația tibiotalară bine vizualizată, cu domurile talare medial și lateral suprapuse
+- Fibula peste jumătatea posterioară a tibiei
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-glezna-articulatie-talocrurala-incidenta-de-profil-lateral-lateromedial-p521-merrill
 source_pages:
@@ -45,61 +50,63 @@ source_pages:
 - 523
 - 524
 source_sections:
-  anatomy: lateral incidență de lower third de tibia și fibula, ankle articulație,
-    și oase tarsiene (Fig. 7.97).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de ankle
-    și 8 inches (18 cm) longitudinal. Include heel și fifth
+  anatomy: incidență laterală a treimii inferioare a tibiei și fibulei, a articulației
+    gleznei și a oaselor tarsiene (Fig. 7.97).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părțile laterale
+    ale gleznei și la 8 țoli (18 cm) pe longitudinală. Se includ călcâiul și baza
+    celui de-al cincilea metatarsian. Se plasează markerul de lateralitate (D/S) în
+    câmpul de expunere colimat.
+  cr: • perpendicular prin articulația gleznei, intrând la ½ țol (1.3 cm) superior
+    față de maleola laterală (fibulară).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    metatarsal base. Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular through ankle articulație, entering ½ inch (1.3 cm) superior
-    la maleolă laterală (fibulară).
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulația gleznei centrată în zona de expunere
 
-    • Ankle articulație centrat pe expunere area
+    • Tibia și fibula distale, astragalul (talusul) și oasele tarsiene adiacente
 
-    • distal tibia și fibula, astragal (talus), și adjacent oase tarsiene
+    • Glezna în poziție de profil (lateral) adevărată
 
-    • Ankle în true poziție de profil (lateral)
+    • Articulația tibiotalară bine vizualizată, cu domurile talare medial și lateral
+    suprapuse
 
-    • Tibiotalar articulație well visualized, cu medial și lateral talar domes superimposed
+    • Fibula peste jumătatea posterioară a tibiei
 
-    • Fibula over posterior half de tibia
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• se centrează receptorul de imagine la articulația gleznei și se ajustează
+    receptorul de imagine astfel încât axa sa longitudinală să fie paralelă cu axa
+    longitudinală a membrului inferior.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează receptorul de imagine la ankle articulație și se ajustează
-    receptorul de imagine so that its axa longitudinală este paralel cu axa longitudinală
-    de membru inferior.
+    • se ajustează piciorul în poziție de profil (lateral).
 
-    • se ajustează picior în poziție de profil (lateral).
+    • Se instruiește pacientul să se rotească anterior sau posterior, după cum este
+    necesar, pentru a plasa rotula (patela) perpendicular pe planul orizontal (Fig.
+    7.96A). Această incidență poate fi efectuată și ca incidență laterală cu fascicul
+    orizontal, cu pacientul în decubit dorsal (Fig. 7.96B).
 
-    • Se instruiește pacientul să turn anteriorly sau posteriorly ca required la place
-    rotulă (patelă) perpendicular pe plan orizontal (Fig. 7.96A). This
-
-    incidență also poate fie performed ca cross table lateral cu pacientul în decubit
-    dorsal (Fig. 7.96B).
-
-    • If necessary, place support under pacientul’s genunchi.
+    • Dacă este necesar, se plasează un suport sub genunchiul pacientului.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Have în decubit dorsal pacient turn away de la afected side until
-    extins membru inferior este plasat laterally.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • Pacientul în decubit dorsal se rotește în direcție opusă părții afectate
+    până când membrul inferior extins este plasat lateral.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 521–524
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de Gleznă
-    (Articulație Talocrurală) și 8 inches (18 cm) longitudinal. Include heel și fifth
-    metatarsal base. Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Gleznă (Articulație Talocrurală) — Incidență de Profil (Lateral) — Latero-Medial
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părțile laterale
+    ale gleznei și la 8 țoli (18 cm) pe longitudinală. Se includ călcâiul și baza
+    celui de-al cincilea metatarsian. Se plasează markerul de lateralitate (D/S) în
+    câmpul de expunere colimat.
+title: Rx gleznă (articulație talocrurală) — incidență de profil (lateral) — latero-medial
   (Merrill)
 ---
-# Rx Gleznă (Articulație Talocrurală) — Incidență de Profil (Lateral) — Latero-Medial (Merrill)
+# Rx gleznă (articulație talocrurală) — incidență de profil (lateral) — latero-medial (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -123,17 +130,18 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență de Profil (Lateral
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Have Decubit dorsal pacient turn away de la afected side until extins membru inferior este plasat laterally.; se centrează receptorul de imagine la Gleznă (Articulație Talocrurală) articulație și se ajustează receptorul de imagine so that its axa longitudinală este paralel cu axa longitudinală de membru inferior. se ajustează Picior în Incidență de Profil (lateral). Se instruiește pacientul să turn anteriorly sau posteriorly ca required la place Rotulă (Patelă) perpendicular pe plan orizontal (Fig. 7.96A). This incidență also poate fie performed ca cross table lateral cu pacientul Decubit dorsal (Fig. 7.96B). If necessary, place support under pacientul’s Genunchi. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular through Gleznă (Articulație Talocrurală) articulație, entering ½ inch (1.3 cm) superior la maleolă laterală (fibulară).
+    - **Poziție Pacient:** Pacientul în decubit dorsal se rotește în direcție opusă părții afectate până când membrul inferior extins este plasat lateral; se centrează receptorul de imagine la articulația gleznei și se ajustează receptorul de imagine astfel încât axa sa longitudinală să fie paralelă cu axa longitudinală a membrului inferior. Se ajustează piciorul în incidență de profil (lateral). Se instruiește pacientul să se rotească anterior sau posterior, după cum este necesar, pentru a plasa rotula (patela) perpendicular pe planul orizontal (Fig. 7.96A). Această incidență poate fi efectuată și ca incidență laterală cu fascicul orizontal, cu pacientul în decubit dorsal (Fig. 7.96B). Dacă este necesar, se plasează un suport sub genunchiul pacientului. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular prin articulația gleznei, intrând la ½ țol (1.3 cm) superior față de maleola laterală (fibulară).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -149,21 +157,21 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență de Profil (Lateral
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de Gleznă (Articulație Talocrurală) și 8 inches (18 cm) longitudinal. Include heel și fifth metatarsal base. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părțile laterale ale gleznei și la 8 țoli (18 cm) pe longitudinală. Se includ călcâiul și baza celui de-al cincilea metatarsian. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Gleznă (Articulație Talocrurală) articulație centrat pe expunere area
-    - distal tibia și fibula, astragal (talus), și adjacent oase tarsiene
-    - Gleznă (Articulație Talocrurală) în true Incidență de Profil (lateral)
-    - Tibiotalar articulație well visualized, cu medial și lateral talar domes superimposed
-    - Fibula over posterior half de tibia
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - articulația gleznei (articulația talocrurală) centrată pe zona de expunere
+    - tibia și fibula distale, astragalul (talusul) și oasele tarsiene adiacente
+    - Gleznă (articulație talocrurală) în incidență de profil (lateral) adevărată
+    - Articulația tibiotalară bine vizualizată, cu domurile talare medial și lateral suprapuse
+    - Fibula peste jumătatea posterioară a tibiei
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -172,6 +180,7 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență de Profil (Lateral
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -211,47 +220,3 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență de Profil (Lateral
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 521–524](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență de lower third de tibia și fibula, ankle articulație, și oase tarsiene (Fig. 7.97).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de ankle și 8 inches (18 cm) longitudinal. Include heel și fifth
-metatarsal base. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular through ankle articulație, entering ½ inch (1.3 cm) superior la maleolă laterală (fibulară).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Ankle articulație centrat pe expunere area
-• distal tibia și fibula, astragal (talus), și adjacent oase tarsiene
-• Ankle în true poziție de profil (lateral)
-• Tibiotalar articulație well visualized, cu medial și lateral talar domes superimposed
-• Fibula over posterior half de tibia
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează receptorul de imagine la ankle articulație și se ajustează receptorul de imagine so that its axa longitudinală este paralel cu axa longitudinală de membru inferior.
-• se ajustează picior în poziție de profil (lateral).
-• Se instruiește pacientul să turn anteriorly sau posteriorly ca required la place rotulă (patelă) perpendicular pe plan orizontal (Fig. 7.96A). This
-incidență also poate fie performed ca cross table lateral cu pacientul în decubit dorsal (Fig. 7.96B).
-• If necessary, place support under pacientul’s genunchi.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Have în decubit dorsal pacient turn away de la afected side until extins membru inferior este plasat laterally.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

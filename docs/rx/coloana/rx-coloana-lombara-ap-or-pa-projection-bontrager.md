@@ -4,8 +4,8 @@ breathing: Apnee pe durata expunerii, la sfârșitul expirului.
 category: coloana
 centering: 'la nivelul crestei iliace (corespunzător L4-L5) (L4–L5). Acest receptor
   de imagine mai mare va include coloana lombară, sacrul și posibil coccisul. Colimare
-  mai strânsă 11 × 14 inches (30 × 35 cm): raza centrală se orientează spre nivelul
-  L3, care poate fi localizat prin palparea marginii costale inferioare (1.5 inches
+  mai strânsă 11 × 14 țoli (30 × 35 cm): raza centrală se orientează spre nivelul
+  L3, care poate fi localizat prin palparea marginii costale inferioare (1.5 țoli
   [4 cm] deasupra crestei iliace (corespunzător L4-L5)). Acest câmp de colimare mai
   restrâns va include în principal cele cinci vertebre lombare și articulațiile SI.
   Se centrează receptorul de imagine pe raza centrală.'
@@ -29,6 +29,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-ap-or-pa-projection-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Flexia parțială a genunchilor, astfel cum este ilustrat, îndreaptă coloana
@@ -38,7 +42,7 @@ notes: 'S: Flexia parțială a genunchilor, astfel cum este ilustrat, îndreapt�
   în ortostatism poate fi utilă pentru evidențierea poziției naturale în încărcare
   a coloanei vertebrale. 35 (30) (35) COLOANĂ LOMBARĂ DE RUTINĂ AP (sau PA) oblică—laterală
   posterioară sau anterioară L5–S1 Fig. 9.28 Incidență antero-posterioară (AP) (centrată
-  pentru receptorul de imagine de 14 × 17 inch [35 × 43 cm]). Casetă: incidență postero-anterioară
+  pentru receptorul de imagine de 14 × 17 țol [35 × 43 cm]). Casetă: incidență postero-anterioară
   (PA) alternativă.'
 position: 'Pacient: decubit dorsal; pacientul în decubit dorsal, cu brațele pe lângă
   corp și capul pe pernă (se poate efectua și în decubit ventral sau în ortostatism;
@@ -56,7 +60,7 @@ protection:
 quality_criteria:
 - Corpii vertebrali lombari, articulațiile intervertebrale, procesele spinoase și
   transverse, articulațiile SI și sacrul sunt vizualizate.
-- 14 × 17 inch (35 × 43 cm)
+- 14 × 17 țol (35 × 43 cm)
 sid_dff: 100 cm
 slug: rx-coloana-lombara-ap-or-pa-projection-bontrager
 sources:
@@ -65,7 +69,7 @@ sources:
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: dimensiunea câmpului—aproximativ de la T11 la sacrul distal inclus.
-    Dimensiunea câmpului de colimare 11 × 14 inch (35 × 43 cm)—de la T12 la S1 inclus
+    Dimensiunea câmpului de colimare 11 × 14 țol (35 × 43 cm)—de la T12 la S1 inclus
     (Fig. 9.29 și 9.30). Poziția fără rotația pacientului este indicată prin articulațiile
     SI echidistante față de procesele spinoase, procesele spinoase pe linia mediană
     a coloanei vertebrale și procesele transverse de lungime egală. Spații articulare
@@ -73,7 +77,7 @@ tech_params:
     diagnostic. Expunere optimă pentru receptorul de imagine, expunere și contrast.
     Evidențiere clară a marginilor osoase și a desenului trabecular al coloanei lombare.
     Fără mișcare. Fig. 9.29 Incidență lombară AP (centrată pentru receptorul de imagine
-    de 14 × 17 inch [35 × 43 cm]). Aripa sacrului; articulație intervertebrală (L3-4);
+    de 14 × 17 țol [35 × 43 cm]). Aripa sacrului; articulație intervertebrală (L3-4);
     proces spinos (L2); proces transvers (L1); articulație sacroiliacă dreaptă. Fig.
     9.30 Incidență lombară AP.
   filtration: Totală ≥ 2.5 mm Al echivalent
@@ -107,17 +111,18 @@ title: Rx Coloană Lombară AP (OR PA) Incidență
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: decubit dorsal; pacientul în decubit dorsal, cu brațele pe lângă corp și capul pe pernă (se poate efectua și în decubit ventral sau în ortostatism; vezi NOTE).; Regiune anatomică: se aliniază planul mediosagital cu raza centrală și cu linia mediană a mesei și/sau a grilei (Fig. 9.28). Se flectează genunchii și șoldurile pentru a reduce curbura lordotică. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau ale bazinului (pelvisului), dacă acesta este inclus.
-    - **Punct de Centrare Fascicul:** la nivelul crestei iliace (corespunzător L4-L5) (L4–L5). Acest receptor de imagine mai mare va include coloana lombară, sacrul și posibil coccisul. Colimare mai strânsă 11 × 14 inches (30 × 35 cm): raza centrală se orientează spre nivelul L3, care poate fi localizat prin palparea marginii costale inferioare (1.5 inches [4 cm] deasupra crestei iliace (corespunzător L4-L5)). Acest câmp de colimare mai restrâns va include în principal cele cinci vertebre lombare și articulațiile SI. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** la nivelul crestei iliace (corespunzător L4-L5) (L4–L5). Acest receptor de imagine mai mare va include coloana lombară, sacrul și posibil coccisul. Colimare mai strânsă 11 × 14 țoli (30 × 35 cm): raza centrală se orientează spre nivelul L3, care poate fi localizat prin palparea marginii costale inferioare (1.5 țoli [4 cm] deasupra crestei iliace (corespunzător L4-L5)). Acest câmp de colimare mai restrâns va include în principal cele cinci vertebre lombare și articulațiile SI. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, la sfârșitul expirului.
 
@@ -133,7 +138,7 @@ title: Rx Coloană Lombară AP (OR PA) Incidență
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
-    | **Colimare Fascicul** | dimensiunea câmpului—aproximativ de la T11 la sacrul distal inclus. Dimensiunea câmpului de colimare 11 × 14 inch (35 × 43 cm)—de la T12 la S1 inclus (Fig. 9.29 și 9.30). Poziția fără rotația pacientului este indicată prin articulațiile SI echidistante față de procesele spinoase, procesele spinoase pe linia mediană a coloanei vertebrale și procesele transverse de lungime egală. Spații articulare intervertebrale deschise. Dimensiunea câmpului de colimare la aria de interes diagnostic. Expunere optimă pentru receptorul de imagine, expunere și contrast. Evidențiere clară a marginilor osoase și a desenului trabecular al coloanei lombare. Fără mișcare. Fig. 9.29 Incidență lombară AP (centrată pentru receptorul de imagine de 14 × 17 inch [35 × 43 cm]). Aripa sacrului; articulație intervertebrală (L3-4); proces spinos (L2); proces transvers (L1); articulație sacroiliacă dreaptă. Fig. 9.30 Incidență lombară AP. |
+    | **Colimare Fascicul** | dimensiunea câmpului—aproximativ de la T11 la sacrul distal inclus. Dimensiunea câmpului de colimare 11 × 14 țol (35 × 43 cm)—de la T12 la S1 inclus (Fig. 9.29 și 9.30). Poziția fără rotația pacientului este indicată prin articulațiile SI echidistante față de procesele spinoase, procesele spinoase pe linia mediană a coloanei vertebrale și procesele transverse de lungime egală. Spații articulare intervertebrale deschise. Dimensiunea câmpului de colimare la aria de interes diagnostic. Expunere optimă pentru receptorul de imagine, expunere și contrast. Evidențiere clară a marginilor osoase și a desenului trabecular al coloanei lombare. Fără mișcare. Fig. 9.29 Incidență lombară AP (centrată pentru receptorul de imagine de 14 × 17 țol [35 × 43 cm]). Aripa sacrului; articulație intervertebrală (L3-4); proces spinos (L2); proces transvers (L1); articulație sacroiliacă dreaptă. Fig. 9.30 Incidență lombară AP. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -141,7 +146,7 @@ title: Rx Coloană Lombară AP (OR PA) Incidență
     ---
 
     - Corpii vertebrali lombari, articulațiile intervertebrale, procesele spinoase și transverse, articulațiile SI și sacrul sunt vizualizate.
-    - 14 × 17 inch (35 × 43 cm)
+    - 14 × 17 țol (35 × 43 cm)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,8 +158,9 @@ title: Rx Coloană Lombară AP (OR PA) Incidență
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    S: Flexia parțială a genunchilor, astfel cum este ilustrat, îndreaptă coloana vertebrală, ceea ce ajută la deschiderea spațiilor discale intervertebrale. Radiografia poate fi efectuată în decubit ventral ca incidență postero-anterioară (PA), ceea ce așază spațiile intervertebrale mai aproape de paralel cu razele divergente. Poziția în ortostatism poate fi utilă pentru evidențierea poziției naturale în încărcare a coloanei vertebrale. 35 (30) (35) COLOANĂ LOMBARĂ DE RUTINĂ AP (sau PA) oblică—laterală posterioară sau anterioară L5–S1 Fig. 9.28 Incidență antero-posterioară (AP) (centrată pentru receptorul de imagine de 14 × 17 inch [35 × 43 cm]). Casetă: incidență postero-anterioară (PA) alternativă.
+    S: Flexia parțială a genunchilor, astfel cum este ilustrat, îndreaptă coloana vertebrală, ceea ce ajută la deschiderea spațiilor discale intervertebrale. Radiografia poate fi efectuată în decubit ventral ca incidență postero-anterioară (PA), ceea ce așază spațiile intervertebrale mai aproape de paralel cu razele divergente. Poziția în ortostatism poate fi utilă pentru evidențierea poziției naturale în încărcare a coloanei vertebrale. 35 (30) (35) COLOANĂ LOMBARĂ DE RUTINĂ AP (sau PA) oblică—laterală posterioară sau anterioară L5–S1 Fig. 9.28 Incidență antero-posterioară (AP) (centrată pentru receptorul de imagine de 14 × 17 țol [35 × 43 cm]). Casetă: incidență postero-anterioară (PA) alternativă.
 
 
 ### 🖼️ Imagini

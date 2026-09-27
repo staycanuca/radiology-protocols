@@ -3,32 +3,33 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• Raza centrală verticală este centrată pe styloid process de radius.
+centering: '• Raza centrală verticală este centrată pe procesul stiloid al radiusului.
 
 
-  • raza centrală verticală centrală este centred midway între radial și ulnar styloid
-  processes.'
+  • Raza centrală verticală este centrată la jumătatea distanței dintre procesele
+  stiloide radial și ulnar.'
 clinical_indications:
-- suspiciune de fractură de distal radius poate fie undisplaced, dorsally angulated
-  (Colles’ suspiciune de fractură) sau ventrally angulated (Smith’s suspiciune de
-  fractură). importance de Smith’s suspiciune de fractură lies în fact that it este
-  less stable than Colles’ suspiciune de fractură.
-- luxație articulară de carpus sunt uncommon, but again they carry potential pentru
-  serious disability. One manifestation de lunate luxație articulară este increased
-  gap între it și Scafoid Carpian, which will fie missed if Pumn (Articulație Radiocarpiană)
-  este rotit pe posteroanterior incidență. 58 Normal Oblică Anterioară radiografie
-  de Pumn (Articulație Radiocarpiană) la change incidență de ulna, braț trebuie să
-  fie rotit ca vizualizat în three photographs above
+- suspiciunea de fractură a radiusului distal poate fi fără deplasare, angulată dorsal
+  (suspiciune de fractură Colles) sau angulată volar (suspiciune de fractură Smith).
+  Importanța suspiciunii de fractură Smith constă în faptul că aceasta este mai puțin
+  stabilă decât suspiciunea de fractură Colles.
+- Luxațiile articulare ale carpului sunt neobișnuite, dar pot produce, din nou, dizabilități
+  grave. O manifestare a luxației semilunarului este creșterea spațiului dintre acesta
+  și scafoidul carpian, care va fi omisă dacă pumnul (articulația radiocarpiană) este
+  rotit în incidența postero-anterioară. 58 Radiografie oblică anterioară normală
+  a pumnului (articulației radiocarpiene) La schimbarea incidenței spre ulnă, brațul
+  trebuie rotit astfel cum se observă în cele trei imagini de mai sus
 images:
-- caption: Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană),
-    method 2
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie normală de profil (lateral) a pumnului (articulației radiocarpiene),
+    metoda 2
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_1.jpeg
-- caption: Postero-anterior (PA) radiografie de
+- caption: Radiografie postero-anterioară (PA) a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_2.jpeg
-- caption: Postero-anterior (PA) radiografie de Pumn (Articulație Radiocarpiană)
+- caption: Radiografie postero-anterioară (PA) a pumnului (articulației radiocarpiene)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_3.jpeg
@@ -36,65 +37,70 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_4.jpeg
-- caption: • suspiciune de fractură de distal radius poate fie undisplaced, dorsally
+- caption: • fractura suspectată a extremității distale a radiusului poate fi fără
+    deplasare, cu angulație dorsală
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_5.jpeg
-- caption: angulated (Colles’ suspiciune de fractură) sau ventrally angulated (Smith’s
+- caption: angulată (fractură Colles) sau cu angulație ventrală (fractură Smith
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_6.jpeg
-- caption: suspiciune de fractură). importance de Smith’s suspiciune de fractură lies
-    în fact
+- caption: suspectată). Importanța fracturii Smith constă în faptul
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_7.jpeg
-- caption: that it este less stable than Colles’ suspiciune de fractură.
+- caption: că este mai puțin stabilă decât fractura Colles.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_8.jpeg
-- caption: Normal Oblică Anterioară radiografie de Pumn (Articulație Radiocarpiană)
+- caption: Radiografie oblică anterioară normală a pumnului (articulației radiocarpiene)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_9.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• If pacientul’s limb este imobilizat în plaster de Paris, then it poate fie
-  necessary la modify positioning de pacientul la obtain precis Postero-anterior (PA)
-  și Profil (lateral) incidențe.
+notes: '• Dacă membrul pacientului este imobilizat în ghips, poate fi necesară modificarea
+  poziționării pacientului pentru obținerea unor incidențe postero-anterioare (PA)
+  și de profil (lateral) precise.
 
-  Increased parametri de expunere will fie necessary la penetrate plaster, și resultant
-  imagine will fie de reduced contrast.
+  Creșterea parametrilor de expunere va fi necesară pentru penetrarea ghipsului, iar
+  imaginea rezultată va avea un contrast redus.
 
-  • Light-weight plasters constructed de la polyester knit fabric sunt radio-lucent
-  și require parametri de expunere similar la uncasted areas.
+  • Ghipsurile ușoare confecționate din țesătură tricotată din poliester sunt radiotransparente
+  și necesită parametri de expunere similari zonelor fără ghips.
 
-  Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană), method
-  2 Postero-anterior (PA) radiografie de Pumn (Articulație Radiocarpiană) through
-  conventional plaster Postero-anterior (PA) radiografie de Pumn (Articulație Radiocarpiană)
-  through light-weight plaster
+  Radiografie normală de profil (lateral) a pumnului (articulației radiocarpiene),
+  metoda 2 Radiografie postero-anterioară (PA) a pumnului (articulației radiocarpiene)
+  prin ghips convențional Radiografie postero-anterioară (PA) a pumnului (articulației
+  radiocarpiene) prin ghips ușor
 
 
-  • This incidență results în additional Oblică incidență de oase metacarpiene, oase
-  carpiene și lower end de radius. la obtain additional incidență de lower end de
-  ulna, it este necessary la se rotește Humerus (see Pumn (Articulație Radiocarpiană),
-  Profil (lateral) – method 2, p. 57).
+  • Această incidență evidențiază suplimentar oasele metacarpiene, oasele carpiene
+  și extremitatea distală a radiusului. Pentru obținerea unei incidențe suplimentare
+  a extremității distale a ulnei, este necesară rotirea humerusului (vezi Pumn (articulație
+  radiocarpiană), profil (lateral) – metoda 2, p. 57).
 
-  • three incidențe, Postero-anterior (PA), Profil (lateral) și Oblică, poate toate
-  fie taken pe same casetă using lead rubber la mask off toate but one-third de caseta
-  being used.'
-position: '• de la Postero-anterior (PA) poziție, Humerus este externally rotit through
-  90 grade.
+  • Cele trei incidențe, postero-anterioară (PA), de profil (lateral) și oblică, pot
+  fi efectuate toate pe aceeași casetă, folosind cauciuc plumbat pentru a acoperi
+  toate zonele, cu excepția unei treimi a casetei utilizate.'
+position: '• Din poziția postero-anterioară (PA), humerusul este rotit extern la 90
+  grade.
 
-  • Cot articulație este extins la bring medial aspect de Antebraț (Radius și Ulna),
-  Pumn (Articulație Radiocarpiană) și Mână into contact cu masa de examinare.
+  • Articulația cotului este extinsă pentru a aduce în contact cu masa de examinare
+  aspectul medial al antebrațului (radius și ulnă), pumnul (articulația radiocarpiană)
+  și mâna.
 
-  • Pumn (Articulație Radiocarpiană) articulație este poziționat over unexposed half
-  de caseta pentru include lower part de radius și ulna și proximal two-thirds de
-  oase metacarpiene.
+  • Articulația pumnului (radiocarpiană) este poziționată peste jumătatea neexpusă
+  a casetei, pentru a include porțiunea inferioară a radiusului și ulnei și două treimi
+  proximale ale oaselor metacarpiene.
 
-  • Mână este rotit externally slightly further la ensure that radial și styloid processes
-  sunt superimposed.
+  • Mâna este rotită extern puțin mai mult pentru a asigura suprapunerea proceselor
+  stiloide radial și ulnar.
 
   • Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
 
@@ -102,17 +108,19 @@ position: '• de la Postero-anterior (PA) poziție, Humerus este externally rot
   • Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită
   pe masă.
 
-  • Cot articulație este flectat la 90 grade și braț este în abducție, astfel încât
-  anterior aspect de Antebraț (Radius și Ulna) și palm de Mână rest pe tabletop.
+  • Articulația cotului este flectată la 90 grade, iar brațul este în abducție, astfel
+  încât aspectul anterior al antebrațului (radius și ulnă) și palma mâinii să se sprijine
+  pe masă.
 
-  • If mobility de pacientul permits, then Umăr articulație trebuie să fie la same
-  height ca Antebraț (Radius și Ulna).
+  • Dacă mobilitatea pacientului permite, articulația umărului trebuie să fie la aceeași
+  înălțime cu antebrațul (radius și ulnă).
 
-  • Pumn (Articulație Radiocarpiană) articulație este plasat pe casetă și ajustat
-  pentru include lower part de radius și ulna și proximal two-thirds de oase metacarpiene.
+  • Articulația pumnului (radiocarpiană) este plasată pe casetă și ajustată pentru
+  a include porțiunea inferioară a radiusului și ulnei și două treimi proximale ale
+  oaselor metacarpiene.
 
-  • Mână este externally rotit through 45 grade și sprijinit în this poziție using
-  non-opaque pad.
+  • Mâna este rotită extern la 45 grade și sprijinită în această poziție folosind
+  un suport radiotransparent.
 
   • Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.'
 protection:
@@ -123,13 +131,13 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- expunere trebuie să provide adecvat penetration la visualize oase carpiene.
-- radial și ulnar styloid processes trebuie să fie superimposed.
-- imagine trebuie să evidențiază proximal two-thirds de oase metacarpiene, oase carpiene
-  și distal third de radius și ulna.
-- expunere trebuie să provide adecvat penetration la visualize oase carpiene.
-- imagine trebuie să evidențiază proximal two-thirds de oase metacarpiene, oase carpiene,
-  și distal third de radius și ulna.
+- expunerea trebuie să asigure o penetrare adecvată pentru vizualizarea oaselor carpiene.
+- Procesele stiloide radial și ulnar trebuie să fie suprapuse.
+- Imaginea trebuie să evidențieze două treimi proximale ale oaselor metacarpiene,
+  oasele carpiene și treimea distală a radiusului și ulnei.
+- expunerea trebuie să asigure o penetrare adecvată pentru vizualizarea oaselor carpiene.
+- Imaginea trebuie să evidențieze două treimi proximale ale oaselor metacarpiene,
+  oasele carpiene și treimea distală a radiusului și ulnei.
 sid_dff: 100 cm
 slug: rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark
 sources:
@@ -138,14 +146,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Pumn (Articulație Radiocarpiană) Profil (Lateral) - method 2
+  mas: Conform AEC / grosimii anatomice
+title: Rx pumn (articulație radiocarpiană) de profil — metoda 2
 ---
-# Rx Pumn (Articulație Radiocarpiană) Profil (Lateral) - method 2
+# Rx pumn (articulație radiocarpiană) de profil — metoda 2
 
 
 <div class="rx-meta-bar">
@@ -164,36 +172,37 @@ title: Rx Pumn (Articulație Radiocarpiană) Profil (Lateral) - method 2
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură de distal radius poate fie undisplaced, dorsally angulated (Colles’ suspiciune de fractură) sau ventrally angulated (Smith’s suspiciune de fractură). importance de Smith’s suspiciune de fractură lies în fact that it este less stable than Colles’ suspiciune de fractură.
-        - luxație articulară de carpus sunt uncommon, but again they carry potential pentru serious disability. One manifestation de lunate luxație articulară este increased gap între it și Scafoid Carpian, which will fie missed if Pumn (Articulație Radiocarpiană) este rotit pe posteroanterior incidență. 58 Normal Oblică Anterioară radiografie de Pumn (Articulație Radiocarpiană) la change incidență de ulna, braț trebuie să fie rotit ca vizualizat în three photographs above
+        - suspiciunea de fractură a radiusului distal poate fi fără deplasare, angulată dorsal (suspiciune de fractură Colles) sau angulată volar (suspiciune de fractură Smith). Importanța suspiciunii de fractură Smith constă în faptul că aceasta este mai puțin stabilă decât suspiciunea de fractură Colles.
+        - Luxațiile articulare ale carpului sunt neobișnuite, dar pot produce, din nou, dizabilități grave. O manifestare a luxației semilunarului este creșterea spațiului dintre acesta și scafoidul carpian, care va fi omisă dacă pumnul (articulația radiocarpiană) este rotit în incidența postero-anterioară. 58 Radiografie oblică anterioară normală a pumnului (articulației radiocarpiene) La schimbarea incidenței spre ulnă, brațul trebuie rotit astfel cum se observă în cele trei imagini de mai sus
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • de la Postero-anterior (PA) poziție, Humerus este externally rotit through 90 grade.
-• Cot articulație este extins la bring medial aspect de Antebraț (Radius și Ulna), Pumn (Articulație Radiocarpiană) și Mână into contact cu masa de examinare.
-• Pumn (Articulație Radiocarpiană) articulație este poziționat over unexposed half de caseta pentru include lower part de radius și ulna și proximal two-thirds de oase metacarpiene.
-• Mână este rotit externally slightly further la ensure that radial și styloid processes sunt superimposed.
-• Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
-
-• Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
-• Cot articulație este flectat la 90 grade și braț este în abducție, astfel încât anterior aspect de Antebraț (Radius și Ulna) și palm de Mână rest pe tabletop.
-• If mobility de pacientul permits, then Umăr articulație trebuie să fie la same height ca Antebraț (Radius și Ulna).
-• Pumn (Articulație Radiocarpiană) articulație este plasat pe casetă și ajustat pentru include lower part de radius și ulna și proximal two-thirds de oase metacarpiene.
-• Mână este externally rotit through 45 grade și sprijinit în this poziție using non-opaque pad.
-• Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe styloid process de radius.
-
-• raza centrală verticală centrală este centred midway între radial și ulnar styloid processes.
+    - **Poziție Pacient:**
+        - Din poziția postero-anterioară (PA), humerusul este rotit extern la 90 grade.
+        - Articulația cotului este extinsă pentru a aduce în contact cu masa de examinare aspectul medial al antebrațului (radius și ulnă), pumnul (articulația radiocarpiană) și mâna.
+        - Articulația pumnului (radiocarpiană) este poziționată peste jumătatea neexpusă a casetei, pentru a include porțiunea inferioară a radiusului și ulnei și două treimi proximale ale oaselor metacarpiene.
+        - Mâna este rotită extern puțin mai mult pentru a asigura suprapunerea proceselor stiloide radial și ulnar.
+        - Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
+        - Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
+        - Articulația cotului este flectată la 90 grade, iar brațul este în abducție, astfel încât aspectul anterior al antebrațului (radius și ulnă) și palma mâinii să se sprijine pe masă.
+        - Dacă mobilitatea pacientului permite, articulația umărului trebuie să fie la aceeași înălțime cu antebrațul (radius și ulnă).
+        - Articulația pumnului (radiocarpiană) este plasată pe casetă și ajustată pentru a include porțiunea inferioară a radiusului și ulnei și două treimi proximale ale oaselor metacarpiene.
+        - Mâna este rotită extern la 45 grade și sprijinită în această poziție folosind un suport radiotransparent.
+        - Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este centrată pe procesul stiloid al radiusului.
+        - Raza centrală verticală este centrată la jumătatea distanței dintre procesele stiloide radial și ulnar.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -204,23 +213,23 @@ title: Rx Pumn (Articulație Radiocarpiană) Profil (Lateral) - method 2
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - expunere trebuie să provide adecvat penetration la visualize oase carpiene.
-    - radial și ulnar styloid processes trebuie să fie superimposed.
-    - imagine trebuie să evidențiază proximal two-thirds de oase metacarpiene, oase carpiene și distal third de radius și ulna.
-    - expunere trebuie să provide adecvat penetration la visualize oase carpiene.
-    - imagine trebuie să evidențiază proximal two-thirds de oase metacarpiene, oase carpiene, și distal third de radius și ulna.
+    - expunerea trebuie să asigure o penetrare adecvată pentru vizualizarea oaselor carpiene.
+    - Procesele stiloide radial și ulnar trebuie să fie suprapuse.
+    - Imaginea trebuie să evidențieze două treimi proximale ale oaselor metacarpiene, oasele carpiene și treimea distală a radiusului și ulnei.
+    - expunerea trebuie să asigure o penetrare adecvată pentru vizualizarea oaselor carpiene.
+    - Imaginea trebuie să evidențieze două treimi proximale ale oaselor metacarpiene, oasele carpiene și treimea distală a radiusului și ulnei.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -232,14 +241,12 @@ title: Rx Pumn (Articulație Radiocarpiană) Profil (Lateral) - method 2
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • If pacientul’s limb este imobilizat în plaster de Paris, then it poate fie necessary la modify positioning de pacientul la obtain precis Postero-anterior (PA) și Profil (lateral) incidențe.
-Increased parametri de expunere will fie necessary la penetrate plaster, și resultant imagine will fie de reduced contrast.
-• Light-weight plasters constructed de la polyester knit fabric sunt radio-lucent și require parametri de expunere similar la uncasted areas.
-Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană), method 2 Postero-anterior (PA) radiografie de Pumn (Articulație Radiocarpiană) through conventional plaster Postero-anterior (PA) radiografie de Pumn (Articulație Radiocarpiană) through light-weight plaster
 
-• This incidență results în additional Oblică incidență de oase metacarpiene, oase carpiene și lower end de radius. la obtain additional incidență de lower end de ulna, it este necessary la se rotește Humerus (see Pumn (Articulație Radiocarpiană), Profil (lateral) – method 2, p. 57).
-• three incidențe, Postero-anterior (PA), Profil (lateral) și Oblică, poate toate fie taken pe same casetă using lead rubber la mask off toate but one-third de caseta being used.
+!!! note "Observații Clinice & Tehnice"
+    - Dacă membrul pacientului este imobilizat în ghips, poate fi necesară modificarea poziționării pacientului pentru obținerea unor incidențe postero-anterioare (PA) și de profil (lateral) precise. Creșterea parametrilor de expunere va fi necesară pentru penetrarea ghipsului, iar imaginea rezultată va avea un contrast redus.
+    - Ghipsurile ușoare confecționate din țesătură tricotată din poliester sunt radiotransparente și necesită parametri de expunere similari zonelor fără ghips. Radiografie normală de profil (lateral) a pumnului (articulației radiocarpiene), metoda 2 Radiografie postero-anterioară (PA) a pumnului (articulației radiocarpiene) prin ghips convențional Radiografie postero-anterioară (PA) a pumnului (articulației radiocarpiene) prin ghips ușor
+    - Această incidență evidențiază suplimentar oasele metacarpiene, oasele carpiene și extremitatea distală a radiusului. Pentru obținerea unei incidențe suplimentare a extremității distale a ulnei, este necesară rotirea humerusului (vezi Pumn (articulație radiocarpiană), profil (lateral) – metoda 2, p. 57).
+    - Cele trei incidențe, postero-anterioară (PA), de profil (lateral) și oblică, pot fi efectuate toate pe aceeași casetă, folosind cauciuc plumbat pentru a acoperi toate zonele, cu excepția unei treimi a casetei utilizate.
 
 
 ### 🖼️ Imagini
@@ -248,25 +255,25 @@ Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană), metho
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană), method 2](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_1.jpeg)
+![Radiografie normală de profil (lateral) a pumnului (articulației radiocarpiene), metoda 2](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană), method 2</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Postero-anterior (PA) radiografie de](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_2.jpeg)
-
-<figcaption><strong>Postero-anterior (PA) radiografie de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală de profil (lateral) a pumnului (articulației radiocarpiene), metoda 2</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) radiografie de Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_3.jpeg)
+![Radiografie postero-anterioară (PA) a](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_2.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) radiografie de Pumn (Articulație Radiocarpiană)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie postero-anterioară (PA) a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie postero-anterioară (PA) a pumnului (articulației radiocarpiene)](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie postero-anterioară (PA) a pumnului (articulației radiocarpiene)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -280,41 +287,41 @@ Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană), metho
 
 <figure class="protocol-image-card" markdown>
 
-![• suspiciune de fractură de distal radius poate fie undisplaced, dorsally](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_5.jpeg)
+![• fractura suspectată a extremității distale a radiusului poate fi fără deplasare, cu angulație dorsală](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_5.jpeg)
 
-<figcaption><strong>• suspiciune de fractură de distal radius poate fie undisplaced, dorsally</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![angulated (Colles’ suspiciune de fractură) sau ventrally angulated (Smith’s](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_6.jpeg)
-
-<figcaption><strong>angulated (Colles’ suspiciune de fractură) sau ventrally angulated (Smith’s</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• fractura suspectată a extremității distale a radiusului poate fi fără deplasare, cu angulație dorsală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![suspiciune de fractură). importance de Smith’s suspiciune de fractură lies în fact](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_7.jpeg)
+![angulată (fractură Colles) sau cu angulație ventrală (fractură Smith](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_6.jpeg)
 
-<figcaption><strong>suspiciune de fractură). importance de Smith’s suspiciune de fractură lies în fact</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![that it este less stable than Colles’ suspiciune de fractură.](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_8.jpeg)
-
-<figcaption><strong>that it este less stable than Colles’ suspiciune de fractură.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>angulată (fractură Colles) sau cu angulație ventrală (fractură Smith</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Oblică Anterioară radiografie de Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_9.jpeg)
+![suspectată). Importanța fracturii Smith constă în faptul](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_7.jpeg)
 
-<figcaption><strong>Normal Oblică Anterioară radiografie de Pumn (Articulație Radiocarpiană)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>suspectată). Importanța fracturii Smith constă în faptul</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![că este mai puțin stabilă decât fractura Colles.](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_8.jpeg)
+
+<figcaption><strong>că este mai puțin stabilă decât fractura Colles.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie oblică anterioară normală a pumnului (articulației radiocarpiene)](../../assets/images/protocols/clark/rx-pumn-articulatie-radiocarpiana-profil-lateral-method-2-p72-clark/fig_9.jpeg)
+
+<figcaption><strong>Radiografie oblică anterioară normală a pumnului (articulației radiocarpiene)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

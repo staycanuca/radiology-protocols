@@ -1,16 +1,17 @@
 ---
 author: Referință Merrill
-breathing: Inspir profund complet. Having plămânii full de air improves contrast și
-  decreases expunere necessary la penetrate corp. If pacientul poate fie suficiently
-  imobilizat la prevent voluntary mișcare, Tehnică de estompare prin respirație superficială
-  (respirație technique) poate fie used la blur pulmonary vasculature. în this case,
-  Se instruiește pacientul să practice slow, deep respirație. minimum expunere time
-  de 3 seconds (4 la 5 seconds este desirable) gives excellent results when low milliamperage
-  este used.
+breathing: Inspir profund complet. Plămânii plini cu aer îmbunătățesc contrastul și
+  reduc expunerea necesară pentru a traversa corpul. Dacă pacientul poate fi imobilizat
+  suficient pentru a preveni mișcarea voluntară, se poate utiliza tehnica de estompare
+  prin respirație superficială (tehnica respirației) pentru a estompa vascularizația
+  pulmonară. În acest caz, pacientului i se indică să practice o respirație lentă
+  și profundă. Un timp minim de expunere de 3 secunde (4 până la 5 secunde este de
+  dorit) oferă rezultate excelente atunci când se utilizează un miliamperaj scăzut.
 category: membru-superior
-centering: perpendicular pe receptorul de imagine (RI), entering planul mediocoronal
-  la nivelul surgical neck If pacientul cannot elevate unafected Umăr, angle raza
-  centrală 10 la 15 grade cranial la obtain comparable radiografie.
+centering: Perpendiculară pe receptorul de imagine (RI), intrând în planul mediocoronal
+  la nivelul colului chirurgical. Dacă pacientul nu poate ridica umărul neafectat,
+  se angulează raza centrală cu 10 până la 15 grade cranial pentru a obține o radiografie
+  comparabilă.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -23,32 +24,37 @@ images:
 - caption: Merrill — pagina 390, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-transthoracic-incidenta-de-profil-lateral-metoda-lawrence-right-or-left-position-p388-merrill/p390_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Although this incidență poate fie carried out cu pacientul în ortostatism
-  sau Decubit dorsal poziție. ortostatism poate fie less painful pentru Traumatism
-  / Regim Urgență pacient, și it also allows easier adjustment de Umăr. pentru în
-  ortostatism positioning, seat sau stand pacientul în Incidență de Profil (lateral)
-  before stativ vertical Bucky (Fig. 6.23). If ortostatism este impossible, se așază
-  pacientul în Incidență Decubit dorsal pe masa de examinare cu radiolucent pads elevating
-  capul și umeri (Fig. 6.24).; Se instruiește pacientul să raise noninjured braț,
-  rest Antebraț pe capul, și elevate Umăr ca much ca possible (see Fig. 6.23). Elevation
-  de noninjured Umăr drops injured side, separating umerii la prevent superimposition.
-  Ensure that planul mediocoronal este perpendicular pe receptorul de imagine (RI).
-  fără attempt trebuie să fie made la rotate sau otherwise la move injured braț. se
-  centrează receptorul de imagine la surgical neck area de afected Humerus. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Deși această incidență poate fi efectuată cu pacientul în ortostatism sau
+  în decubit dorsal. Ortostatismul poate fi mai puțin dureros pentru pacientul traumatizat/de
+  urgență și permite, de asemenea, ajustarea mai ușoară a umărului. Pentru poziționarea
+  în ortostatism, pacientul este așezat sau stă în incidență de profil (lateral),
+  în fața stativului vertical Bucky (Fig. 6.23). Dacă ortostatismul este imposibil,
+  pacientul este așezat în decubit dorsal pe masa de examinare, cu tampoane radiotransparente
+  care ridică capul și umerii (Fig. 6.24). Pacientului i se indică să ridice brațul
+  neafectat, să sprijine antebrațul pe cap și să ridice umărul cât mai mult posibil
+  (vezi Fig. 6.23). Ridicarea umărului neafectat coboară partea afectată, separând
+  umerii pentru a preveni suprapunerea. Se asigură că planul mediocoronal este perpendicular
+  pe receptorul de imagine (RI). Nu se încearcă rotirea sau deplasarea în alt mod
+  a brațului afectat. Receptorul de imagine se centrează la nivelul regiunii colului
+  chirurgical al humerusului afectat. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Omoplat (Scapulă), Claviculă, și proximal Humerus seen through câmpuri pulmonare
-- Omoplat (Scapulă) superimposed over Coloană Toracală
-- Unafected Claviculă și Humerus projected above Umăr cel mai apropiat de receptorul
-  de imagine
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Omoplatul (scapula), clavicula și humerusul proximal vizualizate prin câmpurile
+  pulmonare
+- Omoplatul (scapula) suprapus peste coloana toracică
+- Clavicula și humerusul neafectate proiectate deasupra umărului cel mai apropiat
+  de receptorul de imagine
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-umar-transthoracic-incidenta-de-profil-lateral-metoda-lawrence-right-or-left-position-p388-merrill
 source_pages:
@@ -56,78 +62,79 @@ source_pages:
 - 389
 - 390
 source_sections:
-  anatomy: lateral imagine de umăr și proximal humerus este projected through thorax
-    (Figs. 6.25 și 6.26).
+  anatomy: Imaginea de profil (laterală) a umărului și humerusului proximal este proiectată
+    prin torace (Figs. 6.25 și 6.26).
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
-    field de light pe skin appears smaller because de distance de la receptorul de
-    imagine. Do nu collimate larger than stated size. Se plasează markerul de lateralitate
-    în câmpul colimat.
-  cr: '• perpendicular pe receptorul de imagine (RI), entering planul mediocoronal
-    la nivelul surgical neck
+    Câmpul luminos de pe piele apare mai mic din cauza distanței față de receptorul
+    de imagine. Nu se colimează la o dimensiune mai mare decât cea indicată. Se plasează
+    markerul de lateralitate în câmpul colimat.
+  cr: '• Perpendiculară pe receptorul de imagine (RI), intrând în planul mediocoronal
+    la nivelul colului chirurgical
 
-    • If pacientul cannot elevate unafected umăr, angle raza centrală 10 la 15 grade
-    cranial la obtain comparable radiografie.'
+    • Dacă pacientul nu poate ridica umărul neafectat, se angulează raza centrală
+    cu 10 până la 15 grade cranial pentru a obține o radiografie comparabilă.'
   criteria: 'Criterii radiologice de calitate imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar deasupra anatomiei de interes
 
-    • Scapula, clavicle, și proximal humerus seen through câmpuri pulmonare
+    • Scapula, clavicula și humerusul proximal vizualizate prin câmpurile pulmonare
 
-    • Scapula superimposed over thoracic coloană vertebrală
+    • Scapula suprapusă peste coloana vertebrală toracică
 
-    • Unafected clavicle și humerus projected above umăr cel mai apropiat de receptorul
-    de imagine'
-  part_pos: '• Se instruiește pacientul să raise noninjured braț, rest forearm pe
-    capul, și elevate umăr ca much ca possible (see Fig. 6.23).
+    • Clavicula și humerusul neafectate proiectate deasupra umărului cel mai apropiat
+    de receptorul de imagine'
+  part_pos: '• Se instruiește pacientul să ridice brațul neafectat, să sprijine antebrațul
+    pe cap și să ridice umărul cât mai mult posibil (vezi Fig. 6.23).
 
-    Elevation de noninjured umăr drops injured side, separating umerii la prevent
-    superimposition. Ensure that plan mediocoronal este perpendicular pe receptorul
-    de imagine (RI).
+    Ridicarea umărului neafectat coboară partea afectată, separând umerii pentru a
+    preveni suprapunerea. Se asigură că planul mediocoronal este perpendicular pe
+    receptorul de imagine (RI).
 
-    • fără attempt trebuie să fie made la rotate sau otherwise la move injured braț.
+    • Nu trebuie făcută nicio încercare de rotire sau de mișcare în alt mod a brațului
+    afectat.
 
-    • se centrează receptorul de imagine la surgical neck area de afected humerus.
+    • Se centrează receptorul de imagine la nivelul colului chirurgical al humerusului
+    afectat.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Although this incidență poate fie carried out cu pacientul în ortostatism
-    sau decubit dorsal. ortostatism poate fie less painful
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Deși această incidență poate fi efectuată cu pacientul în ortostatism
+    sau în decubit dorsal, ortostatismul poate fi mai puțin dureros pentru pacientul
+    traumatizat și permite, de asemenea, ajustarea mai ușoară a umărului.
 
-    pentru trauma pacient, și it also allows easier adjustment de umăr.
+    • Pentru poziționarea în ortostatism, pacientul este așezat sau stă în poziție
+    de profil (lateral) în fața stativului vertical Bucky (Fig. 6.23).
 
-    • pentru în ortostatism positioning, seat sau stand pacientul în poziție de profil
-    (lateral) before stativ vertical Bucky (Fig. 6.23).
+    • Dacă ortostatismul este imposibil, pacientul este așezat în decubit dorsal pe
+    masa de examinare, cu tampoane radiotransparente care ridică capul și umerii (Fig.
+    6.24).'
+  respiration: 'Inspir profund complet. Plămânii plini cu aer îmbunătățesc contrastul
+    și reduc expunerea necesară pentru traversarea corpului.
 
-    • If ortostatism este impossible, se așază pacientul în dorsal decubit poziție
-    pe masa de examinare cu radiolucent pads elevating cap și umeri (Fig. 6.24).'
-  respiration: 'Inspir profund complet. Having plămânii full de air improves contrast
-    și decreases expunere necessary la penetrate corp.
+    • Dacă pacientul poate fi imobilizat suficient pentru a preveni mișcarea voluntară,
+    tehnica de estompare prin respirație superficială (tehnica respirației) poate
+    fi utilizată pentru estomparea vascularizației pulmonare. În acest caz, pacientul
+    este instruit să practice o respirație lentă și profundă. Un timp minim de expunere
+    de 3 secunde (4 până la 5 secunde este de dorit) oferă rezultate excelente atunci
+    când se utilizează un miliamperaj mic.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    • If pacientul poate fie suficiently imobilizat la prevent voluntary mișcare,
-    Tehnică de estompare prin respirație superficială (respirație technique) poate
-    fie used la blur pulmonary
-
-    vasculature. în this case, Se instruiește pacientul să practice slow, deep respirație.
-    minimum expunere time de 3 seconds (4 la 5 seconds
-
-    este desirable) gives excellent results when low milliamperage este used.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
-
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 388–390
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
-    field de light pe skin appears smaller because de distance de la receptorul de
-    imagine. Do nu collimate larger than stated size. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Umăr — Transthoracic Incidență de Profil (Lateral) — Metoda Lawrence Profil
-  (Drept sau Stâng) (Merrill)
+    Câmpul luminos de pe piele pare mai mic din cauza distanței față de receptorul
+    de imagine. Nu se colimează la o dimensiune mai mare decât cea menționată. Se
+    plasează markerul de lateralitate în câmpul colimat.
+title: Rx umăr — incidență de profil transtoracică (laterală) — metoda Lawrence, profil
+  (drept sau stâng) (Merrill)
 ---
-# Rx Umăr — Transthoracic Incidență de Profil (Lateral) — Metoda Lawrence Profil (Drept sau Stâng) (Merrill)
+# Rx umăr — incidență de profil transtoracică (laterală) — metoda Lawrence, profil (drept sau stâng) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -151,19 +158,20 @@ title: Rx Umăr — Transthoracic Incidență de Profil (Lateral) — Metoda Law
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Although this incidență poate fie carried out cu pacientul în ortostatism sau Decubit dorsal poziție. ortostatism poate fie less painful pentru Traumatism / Regim Urgență pacient, și it also allows easier adjustment de Umăr. pentru în ortostatism positioning, seat sau stand pacientul în Incidență de Profil (lateral) before stativ vertical Bucky (Fig. 6.23). If ortostatism este impossible, se așază pacientul în Incidență Decubit dorsal pe masa de examinare cu radiolucent pads elevating capul și umeri (Fig. 6.24).; Se instruiește pacientul să raise noninjured braț, rest Antebraț pe capul, și elevate Umăr ca much ca possible (see Fig. 6.23). Elevation de noninjured Umăr drops injured side, separating umerii la prevent superimposition. Ensure that planul mediocoronal este perpendicular pe receptorul de imagine (RI). fără attempt trebuie să fie made la rotate sau otherwise la move injured braț. se centrează receptorul de imagine la surgical neck area de afected Humerus. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), entering planul mediocoronal la nivelul surgical neck If pacientul cannot elevate unafected Umăr, angle raza centrală 10 la 15 grade cranial la obtain comparable radiografie.
+    - **Poziție Pacient:** Deși această incidență poate fi efectuată cu pacientul în ortostatism sau în decubit dorsal. Ortostatismul poate fi mai puțin dureros pentru pacientul traumatizat/de urgență și permite, de asemenea, ajustarea mai ușoară a umărului. Pentru poziționarea în ortostatism, pacientul este așezat sau stă în incidență de profil (lateral), în fața stativului vertical Bucky (Fig. 6.23). Dacă ortostatismul este imposibil, pacientul este așezat în decubit dorsal pe masa de examinare, cu tampoane radiotransparente care ridică capul și umerii (Fig. 6.24). Pacientului i se indică să ridice brațul neafectat, să sprijine antebrațul pe cap și să ridice umărul cât mai mult posibil (vezi Fig. 6.23). Ridicarea umărului neafectat coboară partea afectată, separând umerii pentru a preveni suprapunerea. Se asigură că planul mediocoronal este perpendicular pe receptorul de imagine (RI). Nu se încearcă rotirea sau deplasarea în alt mod a brațului afectat. Receptorul de imagine se centrează la nivelul regiunii colului chirurgical al humerusului afectat. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendiculară pe receptorul de imagine (RI), intrând în planul mediocoronal la nivelul colului chirurgical. Dacă pacientul nu poate ridica umărul neafectat, se angulează raza centrală cu 10 până la 15 grade cranial pentru a obține o radiografie comparabilă.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Inspir profund complet. Having plămânii full de air improves contrast și decreases expunere necessary la penetrate corp. If pacientul poate fie suficiently imobilizat la prevent voluntary mișcare, Tehnică de estompare prin respirație superficială (respirație technique) poate fie used la blur pulmonary vasculature. în this case, Se instruiește pacientul să practice slow, deep respirație. minimum expunere time de 3 seconds (4 la 5 seconds este desirable) gives excellent results when low milliamperage este used.
+    - **Comandă Respiratorie:** Inspir profund complet. Plămânii plini cu aer îmbunătățesc contrastul și reduc expunerea necesară pentru a traversa corpul. Dacă pacientul poate fi imobilizat suficient pentru a preveni mișcarea voluntară, se poate utiliza tehnica de estompare prin respirație superficială (tehnica respirației) pentru a estompa vascularizația pulmonară. În acest caz, pacientului i se indică să practice o respirație lentă și profundă. Un timp minim de expunere de 3 secunde (4 până la 5 secunde este de dorit) oferă rezultate excelente atunci când se utilizează un miliamperaj scăzut.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -177,18 +185,18 @@ title: Rx Umăr — Transthoracic Incidență de Profil (Lateral) — Metoda Law
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. field de light pe skin appears smaller because de distance de la receptorul de imagine. Do nu collimate larger than stated size. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Câmpul luminos de pe piele pare mai mic din cauza distanței față de receptorul de imagine. Nu se colimează la o dimensiune mai mare decât cea menționată. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Omoplat (Scapulă), Claviculă, și proximal Humerus seen through câmpuri pulmonare
-    - Omoplat (Scapulă) superimposed over Coloană Toracală
-    - Unafected Claviculă și Humerus projected above Umăr cel mai apropiat de receptorul de imagine
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Omoplatul (scapula), clavicula și humerusul proximal vizualizate prin câmpurile pulmonare
+    - Omoplatul (scapula) suprapus peste coloana toracică
+    - Clavicula și humerusul neafectate proiectate deasupra umărului cel mai apropiat de receptorul de imagine
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,6 +205,7 @@ title: Rx Umăr — Transthoracic Incidență de Profil (Lateral) — Metoda Law
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -244,54 +253,3 @@ title: Rx Umăr — Transthoracic Incidență de Profil (Lateral) — Metoda Law
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 388–390](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral imagine de umăr și proximal humerus este projected through thorax (Figs. 6.25 și 6.26).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. field de light pe skin appears smaller because de distance de la receptorul de imagine. Do nu collimate larger than stated size. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe receptorul de imagine (RI), entering planul mediocoronal la nivelul surgical neck
-• If pacientul cannot elevate unafected umăr, angle raza centrală 10 la 15 grade cranial la obtain comparable radiografie.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Scapula, clavicle, și proximal humerus seen through câmpuri pulmonare
-• Scapula superimposed over thoracic coloană vertebrală
-• Unafected clavicle și humerus projected above umăr cel mai apropiat de receptorul de imagine
-
-### part_pos
-
-• Se instruiește pacientul să raise noninjured braț, rest forearm pe capul, și elevate umăr ca much ca possible (see Fig. 6.23).
-Elevation de noninjured umăr drops injured side, separating umerii la prevent superimposition. Ensure that plan mediocoronal este perpendicular pe receptorul de imagine (RI).
-• fără attempt trebuie să fie made la rotate sau otherwise la move injured braț.
-• se centrează receptorul de imagine la surgical neck area de afected humerus.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Although this incidență poate fie carried out cu pacientul în ortostatism sau decubit dorsal. ortostatism poate fie less painful
-pentru trauma pacient, și it also allows easier adjustment de umăr.
-• pentru în ortostatism positioning, seat sau stand pacientul în poziție de profil (lateral) before stativ vertical Bucky (Fig. 6.23).
-• If ortostatism este impossible, se așază pacientul în dorsal decubit poziție pe masa de examinare cu radiolucent pads elevating cap și umeri (Fig. 6.24).
-
-### respiration
-
-Inspir profund complet. Having plămânii full de air improves contrast și decreases expunere necessary la penetrate corp.
-• If pacientul poate fie suficiently imobilizat la prevent voluntary mișcare, Tehnică de estompare prin respirație superficială (respirație technique) poate fie used la blur pulmonary
-vasculature. în this case, Se instruiește pacientul să practice slow, deep respirație. minimum expunere time de 3 seconds (4 la 5 seconds
-este desirable) gives excellent results when low milliamperage este used.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

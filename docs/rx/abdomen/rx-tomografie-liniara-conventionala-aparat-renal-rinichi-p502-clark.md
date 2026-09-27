@@ -37,6 +37,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-tomografie-liniara-conventionala-aparat-renal-rinichi-p502-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'trebuie efectuată la alegerea înălțimii pivotului.
@@ -105,19 +109,20 @@ title: Rx Tomografie Liniară Convențională Aparat Renal (Rinichi)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** • Pacientul este în decubit dorsal pe masa de examinare, cu planul mediosagital al corpului în unghi drept față de masă și aliniat cu linia mediană a mesei.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe linia mediană, la jumătatea distanței dintre incizura suprasternală și simfiza pubiană.
-Înălțimea pivotului
-• 8–11 cm.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este centrată pe linia mediană, la jumătatea distanței dintre incizura suprasternală și simfiza pubiană. Înălțimea pivotului
+        - 8–11 cm.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -154,12 +159,14 @@ title: Rx Tomografie Liniară Convențională Aparat Renal (Rinichi)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     trebuie efectuată la alegerea înălțimii pivotului.
-Mișcarea tomografică
-• Liniară 10 grade – zonografie.
-• Liniară 30 grade – pentru estomparea gazelor intestinale suprapuse.
-Pacient poziționat pentru tomografia liniară convențională a regiunilor renale – rețineți că, în timpul IVU, compresia abdominală este de obicei aplicată. Imagine la cinci minute după administrarea substanței de contrast, cu gaze intestinale care maschează regiunile renale. Imagine de tomografie liniară convențională care evidențiază regiunile renale fără umbrele gazelor și o masă în regiunea bazinetului renal stâng.
+
+    Mișcarea tomografică
+
+    - Liniară 10 grade – zonografie.
+    - Liniară 30 grade – pentru estomparea gazelor intestinale suprapuse. Pacient poziționat pentru tomografia liniară convențională a regiunilor renale – rețineți că, în timpul IVU, compresia abdominală este de obicei aplicată. Imagine la cinci minute după administrarea substanței de contrast, cu gaze intestinale care maschează regiunile renale. Imagine de tomografie liniară convențională care evidențiază regiunile renale fără umbrele gazelor și o masă în regiunea bazinetului renal stâng.
 
 
 ### 🖼️ Imagini

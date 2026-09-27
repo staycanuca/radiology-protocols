@@ -6,8 +6,8 @@ centering: Punctul mijlociu dintre cele două maleole pe fața anterioară
 clinical_indications:
 - Entorsă de gleznă conform criteriilor Ottawa (durere la nivelul maleolelor, imposibilitate
   de sprijin)
-- Fracturi bimalleolare sau trimalleolare
-- Suspiciune leziune sindesmozei tibio-fibulare
+- Fracturi bimalleolare sau trimaleolare
+- Suspiciune de leziune a sindesmozei tibio-fibulare
 - Artroză tibio-astragaliană
 iris_reference:
   chapter: Aparat locomotor & Membru inferior
@@ -15,18 +15,18 @@ iris_reference:
   recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Aplicarea corectă Criteriilor Ottawa reduce cu peste 30% efectuarea de radiografii
+notes: Aplicarea corectă a criteriilor Ottawa reduce cu peste 30% efectuarea radiografiilor
   inutile de gleznă.
-position: '1) Incidență Morteză (Față AP): decubit dorsal cu membrul inferior extins
+position: '1) Incidență de mortază (față AP): decubit dorsal cu membrul inferior extins
   și rotație internă de 15-20° (aduce linia bimaleolară paralelă cu detectorul); 2)
   Profil: decubit lateral pe partea afectată, genunchi flectat, piciorul la 90° în
   dorsiflexie'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare centrată pe gleznă
 quality_criteria:
-- 'Pe incidența morteză: spațiul articular tibio-talar este egal pe toată circumferința
+- 'Pe incidența de mortază: spațiul articular tibio-talar este egal pe toată circumferința
   (superior, medial și lateral fără suprapunere fibulară)'
 - 'Pe profil: domul talusului este aliniat fără dublu contur (condilii talari suprapuși
   perfect)'
@@ -58,7 +58,7 @@ sources:
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Manual
-  collimation: De la treimea distală de tibie/fibulă la baza oaselor metatarsiene
+  collimation: De la treimea distală a tibiei/fibulei la baza oaselor metatarsiene
   filtration: Totală ≥ 2.5 mm Al
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă antidifuzoare
@@ -86,8 +86,8 @@ title: Rx Gleznă (Față / Morteză & Profil)
     === "Indicații Clinice"
 
         - Entorsă de gleznă conform criteriilor Ottawa (durere la nivelul maleolelor, imposibilitate de sprijin)
-        - Fracturi bimalleolare sau trimalleolare
-        - Suspiciune leziune sindesmozei tibio-fibulare
+        - Fracturi bimalleolare sau trimaleolare
+        - Suspiciune de leziune a sindesmozei tibio-fibulare
         - Artroză tibio-astragaliană
 
     === "Ghid Național IRIS"
@@ -98,11 +98,12 @@ title: Rx Gleznă (Față / Morteză & Profil)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** 1) Incidență Morteză (Față AP): decubit dorsal cu membrul inferior extins și rotație internă de 15-20° (aduce linia bimaleolară paralelă cu detectorul); 2) Profil: decubit lateral pe partea afectată, genunchi flectat, piciorul la 90° în dorsiflexie
+    - **Poziție Pacient:** 1) Incidență de mortază (față AP): decubit dorsal cu membrul inferior extins și rotație internă de 15-20° (aduce linia bimaleolară paralelă cu detectorul); 2) Profil: decubit lateral pe partea afectată, genunchi flectat, piciorul la 90° în dorsiflexie
     - **Punct de Centrare Fascicul:** Punctul mijlociu dintre cele două maleole pe fața anterioară
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Nemodificată
@@ -119,14 +120,14 @@ title: Rx Gleznă (Față / Morteză & Profil)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă antidifuzoare |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Manual |
-    | **Colimare Fascicul** | De la treimea distală de tibie/fibulă la baza oaselor metatarsiene |
+    | **Colimare Fascicul** | De la treimea distală a tibiei/fibulei la baza oaselor metatarsiene |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Pe incidența morteză: spațiul articular tibio-talar este egal pe toată circumferința (superior, medial și lateral fără suprapunere fibulară)
+    - Pe incidența de mortază: spațiul articular tibio-talar este egal pe toată circumferința (superior, medial și lateral fără suprapunere fibulară)
     - Pe profil: domul talusului este aliniat fără dublu contur (condilii talari suprapuși perfect)
     - Vizualizarea bazei celui de-al V-lea metatarsian pentru excluderea unei fracturi asociate de avulsie
 
@@ -134,13 +135,14 @@ title: Rx Gleznă (Față / Morteză & Profil)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare centrată pe gleznă
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Aplicarea corectă Criteriilor Ottawa reduce cu peste 30% efectuarea de radiografii inutile de gleznă.
+    Aplicarea corectă a criteriilor Ottawa reduce cu peste 30% efectuarea radiografiilor inutile de gleznă.
 
 === "Ghid Rapid de Execuție"
 

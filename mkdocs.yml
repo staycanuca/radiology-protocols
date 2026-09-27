@@ -1,8 +1,10 @@
 site_name: Ghidul Protocoalelor de Radiologie
-site_url: https://dfergs93.github.io/radiology-protocols/
+site_url: https://protocoale.co.uk/
+site_description: Protocoale de radiologie în limba română pentru CT, IRM, radiografie, ecografie și fluoroscopie. Navigare pe regiuni anatomice și acces la ghidul IRIS.
 
 theme:
   name: material
+  custom_dir: overrides
   language: ro
   font:
     text: Inter
@@ -12,6 +14,7 @@ theme:
     # - navigation.expand
     # - navigation.sections
     - navigation.indexes
+    - navigation.prune
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -34,29 +37,42 @@ theme:
         name: Comută la modul luminos
     
 plugins:
-  - search
+  - search:
+      separator: '[\s\-–—,;:!?\[\]()"/]+|\.(?!\d)'
+      fields:
+        title: {boost: 12}
+        title_terms: {boost: 12}
+        text: {boost: 1}
+        tags: {boost: 6}
+        keywords: {boost: 6}
   - awesome-pages
 
 hooks:
   # Normalize search terms and keep RX navigation/catalog ordering consistent.
   - scripts/search_enhancer.py
   - scripts/rx_catalog.py
+  - scripts/seo.py
+  - scripts/provenance.py
+  - scripts/ai_catalog.py
   - scripts/build_optimizer.py
 
 extra_css:
   - custom_css/extra.css
+  - custom_css/provenance.css
+  - custom_css/ai-assistant.css
+  - custom_css/omnisearch.css
 
 extra_javascript:
-  - https://js.puter.com/v2/
   - javascripts/acquisition-diagram.js
   - javascripts/acquisition-diagram-init.js
-  - https://cdn.jsdelivr.net/npm/marked/marked.min.js
   - javascripts/protocol-compare.js
   - javascripts/request-change.js
   - javascripts/iris-data.js
   - javascripts/iris-browser.js
   - javascripts/body-map.js
+  - javascripts/ai-core.js
   - javascripts/ai-assistant.js
+  - javascripts/search-core.js
   - javascripts/omnisearch.js
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

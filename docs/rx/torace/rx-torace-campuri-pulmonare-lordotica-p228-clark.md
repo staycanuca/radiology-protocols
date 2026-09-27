@@ -3,20 +3,23 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: torace
-centering: '• Direct raza centrală orizontală centrală la drept-angles la caseta la
-  point immediately în front de Umăr nearest tubul.
+centering: '• Se direcționează raza centrală orizontală perpendicular pe casetă, în
+  punctul situat imediat anterior umărului cel mai apropiat de tub.
 
-  • Collimate la aria de interes diagnostic.'
+  • Se colimează la aria de interes diagnostic.'
 clinical_indications:
-- 213 7 Torace (Câmpuri Pulmonare) Lordotică This technique poate fie used la evidențiază
-  drept middle-lobe collapse sau inter-lobar revărsat pleural (pleurezie). pacientul
-  este poziționat la bring middle-lobe fissure orizontal.
+- 213 7 Torace (Câmpuri Pulmonare) Lordotică. Această tehnică poate fi utilizată pentru
+  evidențierea colapsului lobului mijlociu drept sau a revărsatului pleural interlobar
+  (pleurezie). Pacientul este poziționat pentru a aduce scizura lobului mijlociu în
+  poziție orizontală.
 images:
-- caption: Profil (lateral) incidență de upper anterior chest în pacient cu sternal
-    suspiciune de fractură
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidență de profil (lateral) a toracelui anterior superior la un pacient
+    cu suspiciune de fractură sternală
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-lordotica-p228-clark/fig_1.jpeg
-- caption: Lordotică Postero-anterior (PA) radiografie evidențiind middle lobe collapse
+- caption: Radiografie lordotică postero-anterioară (PA) evidențiind colapsul lobului
+    mijlociu
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-lordotica-p228-clark/fig_2.jpeg
@@ -28,16 +31,20 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-lordotica-p228-clark/fig_4.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este poziționat cu planul mediosagital paralel cu casetă, which
-  este centred la nivelul Umăr de side under examination.
+position: '• pacientul este poziționat cu planul mediosagital paralel cu caseta, care
+  este centrată la nivelul umărului de pe partea examinată.
 
-  • ambele umeri sunt drawn backward și brațele extins la move umerii clear de retrosternal
-  space.
+  • ambii umeri sunt trași posterior, iar brațele sunt extinse pentru a îndepărta
+  umerii de spațiul retrosternal.
 
-  • mâinile sunt clasped low down over buttocks.'
+  • mâinile sunt împreunate jos, peste fese.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -46,7 +53,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Torace (Câmpuri Pulmonare)).
+- Vizualizarea clară a întregii arii anatomice (toracele (câmpurile pulmonare)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -56,16 +63,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 228
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Torace (Câmpuri Pulmonare) Lordotică
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie toracică (câmpuri pulmonare) lordotică
 ---
-# Rx Torace (Câmpuri Pulmonare) Lordotică
+# Radiografie toracică (câmpuri pulmonare) lordotică
 
 
 <div class="rx-meta-bar">
@@ -84,25 +91,28 @@ title: Rx Torace (Câmpuri Pulmonare) Lordotică
 
     === "Indicații Clinice"
 
-        - 213 7 Torace (Câmpuri Pulmonare) Lordotică This technique poate fie used la evidențiază drept middle-lobe collapse sau inter-lobar revărsat pleural (pleurezie). pacientul este poziționat la bring middle-lobe fissure orizontal.
+        - 213 7 Torace (Câmpuri Pulmonare) Lordotică. Această tehnică poate fi utilizată pentru evidențierea colapsului lobului mijlociu drept sau a revărsatului pleural interlobar (pleurezie). Pacientul este poziționat pentru a aduce scizura lobului mijlociu în poziție orizontală.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este poziționat cu planul mediosagital paralel cu casetă, which este centred la nivelul Umăr de side under examination.
-• ambele umeri sunt drawn backward și brațele extins la move umerii clear de retrosternal space.
-• mâinile sunt clasped low down over buttocks.
-    - **Punct de Centrare Fascicul:** • Direct raza centrală orizontală centrală la drept-angles la caseta la point immediately în front de Umăr nearest tubul.
-• Collimate la aria de interes diagnostic.
+    - **Poziție Pacient:**
+        - pacientul este poziționat cu planul mediosagital paralel cu caseta, care este centrată la nivelul umărului de pe partea examinată.
+        - ambii umeri sunt trași posterior, iar brațele sunt extinse pentru a îndepărta umerii de spațiul retrosternal.
+        - mâinile sunt împreunate jos, peste fese.
+    - **Punct de Centrare Fascicul:**
+        - Se direcționează raza centrală orizontală perpendicular pe casetă, în punctul situat imediat anterior umărului cel mai apropiat de tub.
+        - Se colimează la aria de interes diagnostic.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -113,19 +123,19 @@ title: Rx Torace (Câmpuri Pulmonare) Lordotică
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Torace (Câmpuri Pulmonare)).
+    - Vizualizarea clară a întregii arii anatomice (toracele (câmpurile pulmonare)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -139,6 +149,7 @@ title: Rx Torace (Câmpuri Pulmonare) Lordotică
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -149,17 +160,17 @@ title: Rx Torace (Câmpuri Pulmonare) Lordotică
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) incidență de upper anterior chest în pacient cu sternal suspiciune de fractură](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-lordotica-p228-clark/fig_1.jpeg)
+![Incidență de profil (lateral) a toracelui anterior superior la un pacient cu suspiciune de fractură sternală](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-lordotica-p228-clark/fig_1.jpeg)
 
-<figcaption><strong>Profil (lateral) incidență de upper anterior chest în pacient cu sternal suspiciune de fractură</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență de profil (lateral) a toracelui anterior superior la un pacient cu suspiciune de fractură sternală</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Lordotică Postero-anterior (PA) radiografie evidențiind middle lobe collapse](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-lordotica-p228-clark/fig_2.jpeg)
+![Radiografie lordotică postero-anterioară (PA) evidențiind colapsul lobului mijlociu](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-lordotica-p228-clark/fig_2.jpeg)
 
-<figcaption><strong>Lordotică Postero-anterior (PA) radiografie evidențiind middle lobe collapse</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie lordotică postero-anterioară (PA) evidențiind colapsul lobului mijlociu</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

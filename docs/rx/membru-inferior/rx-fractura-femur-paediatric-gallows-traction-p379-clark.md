@@ -3,18 +3,19 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre la middle de medial aspect de Femur, cu raza centrală orizontală
-  centrală la drept-angles la caseta.
+centering: '• Se centrează la mijlocul aspectului medial al femurului, cu raza centrală
+  orizontală perpendiculară pe casetă.
 
-  364 Child în process de being poziționat pentru Antero-posterior (AP) Femur Antero-posterior
-  (AP) și Profil (lateral) imagini de stâng Femur two weeks post-trauma'
+  364 Copil în curs de poziționare pentru imagini de femur antero-posterioare (AP)
+  și de profil ale femurului stâng, la două săptămâni post-traumă'
 clinical_indications:
-- Evaluare radiografică regiunii Fractură Femur - paediatric ((gallows traction)).
+- 'Evaluarea radiografică a regiunii: fractură de femur — pediatrică (tracțiune Gallows).'
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: 12 Fractură Femur – paediatric
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: 12 Fractură de femur — pediatrică
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-fractura-femur-paediatric-gallows-traction-p379-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -28,21 +29,25 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-fractura-femur-paediatric-gallows-traction-p379-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• la avoid superimposition de unaffected Femur, sound limb este carefully
-  removed de la traction prin medical officer și held în poziție outside radiation
-  fascicul.
+position: '• Pentru a evita suprapunerea femurului neafectat, membrul sănătos este
+  îndepărtat cu atenție din tracțiune de către personalul medical și menținut în afara
+  fasciculului de radiații.
 
-  • Alternatively, traction poate fie ajustat și sound limb sprijinit temporarily
-  în different poziție.
+  • Alternativ, tracțiunea poate fi ajustată, iar membrul sănătos poate fi susținut
+  temporar într-o poziție diferită.
 
-  • medical officer sau health professional trebuie să wear leadrubber apron și lead-rubber
-  gloves.
+  • Personalul medical sau un profesionist din domeniul sănătății trebuie să poarte
+  șorț de cauciuc plumbat și mănuși de cauciuc plumbat.
 
-  • casetă este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de
-  membrul inferior afectat și ajustat paralel cu Femur.'
+  • Caseta este susținută vertical pe aspectul de profil al membrului inferior afectat
+  și ajustată paralel cu femurul.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,7 +56,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Fractură Femur - paediatric).
+- Vizualizarea clară a întregii arii anatomice (fractură de femur — pediatrică).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -63,14 +68,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Fractură Femur - paediatric (gallows traction)
+  mas: Conform AEC / grosimii anatomice
+title: Rx fractură de femur — pediatrică (tracțiune Gallows)
 ---
-# Rx Fractură Femur - paediatric (gallows traction)
+# Rx fractură de femur — pediatrică (tracțiune Gallows)
 
 
 <div class="rx-meta-bar">
@@ -89,28 +94,30 @@ title: Rx Fractură Femur - paediatric (gallows traction)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Fractură Femur - paediatric ((gallows traction)).
+        - Evaluarea radiografică a regiunii: fractură de femur — pediatrică (tracțiune Gallows).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • la avoid superimposition de unaffected Femur, sound limb este carefully removed de la traction prin medical officer și held în poziție outside radiation fascicul.
-• Alternatively, traction poate fie ajustat și sound limb sprijinit temporarily în different poziție.
-• medical officer sau health professional trebuie să wear leadrubber apron și lead-rubber gloves.
-• casetă este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de membrul inferior afectat și ajustat paralel cu Femur.
-    - **Punct de Centrare Fascicul:** • Centre la middle de medial aspect de Femur, cu raza centrală orizontală centrală la drept-angles la caseta.
-364 Child în process de being poziționat pentru Antero-posterior (AP) Femur Antero-posterior (AP) și Profil (lateral) imagini de stâng Femur two weeks post-trauma
+    - **Poziție Pacient:**
+        - Pentru a evita suprapunerea femurului neafectat, membrul sănătos este îndepărtat cu atenție din tracțiune de către personalul medical și menținut în afara fasciculului de radiații.
+        - Alternativ, tracțiunea poate fi ajustată, iar membrul sănătos poate fi susținut temporar într-o poziție diferită.
+        - Personalul medical sau un profesionist din domeniul sănătății trebuie să poarte șorț de cauciuc plumbat și mănuși de cauciuc plumbat.
+        - Caseta este susținută vertical pe aspectul de profil al membrului inferior afectat și ajustată paralel cu femurul.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează la mijlocul aspectului medial al femurului, cu raza centrală orizontală perpendiculară pe casetă. 364 Copil în curs de poziționare pentru imagini de femur antero-posterioare (AP) și de profil ale femurului stâng, la două săptămâni post-traumă
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -121,19 +128,19 @@ title: Rx Fractură Femur - paediatric (gallows traction)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Fractură Femur - paediatric).
+    - Vizualizarea clară a întregii arii anatomice (fractură de femur — pediatrică).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -147,6 +154,7 @@ title: Rx Fractură Femur - paediatric (gallows traction)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -157,9 +165,9 @@ title: Rx Fractură Femur - paediatric (gallows traction)
 
 <figure class="protocol-image-card" markdown>
 
-![12 Fractură Femur – paediatric](../../assets/images/protocols/clark/rx-fractura-femur-paediatric-gallows-traction-p379-clark/fig_1.jpeg)
+![12 Fractură de femur — pediatrică](../../assets/images/protocols/clark/rx-fractura-femur-paediatric-gallows-traction-p379-clark/fig_1.jpeg)
 
-<figcaption><strong>12 Fractură Femur – paediatric</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>12 Fractură de femur — pediatrică</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

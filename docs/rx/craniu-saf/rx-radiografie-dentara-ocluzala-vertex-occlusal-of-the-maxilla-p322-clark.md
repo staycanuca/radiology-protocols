@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-vertex-occlusal-of-the-maxilla-p322-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Este important să se rețină că fasciculul nu este perpendicular pe planul
@@ -99,20 +103,22 @@ title: Rx Radiografie Dentară Ocluzală Vedere ocluzală de vertex a maxilarulu
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
-• Caseta ocluzală este poziționată cu axa longitudinală antero-posterior (adică paralel cu planul mediosagital) în cavitatea bucală.
-• Caseta trebuie plasată orizontal în gura pacientului, adiacent suprafeței ocluzale a dinților inferiori.
-• Poziționați caseta cât mai posterior posibil, cel puțin la nivelul primilor molari permanenți.
-• Pacientul trebuie să muște ușor pentru a stabiliza caseta intraoral.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
+        - Caseta ocluzală este poziționată cu axa longitudinală antero-posterior (adică paralel cu planul mediosagital) în cavitatea bucală.
+        - Caseta trebuie plasată orizontal în gura pacientului, adiacent suprafeței ocluzale a dinților inferiori.
+        - Poziționați caseta cât mai posterior posibil, cel puțin la nivelul primilor molari permanenți.
+        - Pacientul trebuie să muște ușor pentru a stabiliza caseta intraoral.
     - **Punct de Centrare Fascicul:** • Tubul este poziționat deasupra vertexului craniului, iar raza centrală este orientată de-a lungul planului mediosagital, în jos (caudal), prin axa longitudinală a dinților incisivi centrali superiori.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -150,9 +156,9 @@ title: Rx Radiografie Dentară Ocluzală Vedere ocluzală de vertex a maxilarulu
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Este important să se rețină că fasciculul nu este perpendicular pe planul ocluzal.
-Radiografie ocluzală de vertex Poziționarea pacientului și a tubului radiogen pentru ocluzala de vertex Radiografie ocluzală de vertex evidențiind caninul stâng poziționat vestibular și al doilea premolar stâng poziționat palatinal
+    Este important să se rețină că fasciculul nu este perpendicular pe planul ocluzal. Radiografie ocluzală de vertex Poziționarea pacientului și a tubului radiogen pentru ocluzala de vertex Radiografie ocluzală de vertex evidențiind caninul stâng poziționat vestibular și al doilea premolar stâng poziționat palatinal
 
 
 ### 🖼️ Imagini

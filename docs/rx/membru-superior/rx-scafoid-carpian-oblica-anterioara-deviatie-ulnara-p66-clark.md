@@ -3,15 +3,16 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • raza centrală verticală centrală este centred midway între radial și
-  ulnar styloid processes (see p. 58).
+centering: • raza centrală verticală este centrată la jumătatea distanței dintre procesele
+  stiloide radial și ulnar (vezi p. 58).
 clinical_indications:
-- 51 2 Scafoid Carpian Oblică Anterioară – Deviație Ulnară
+- 51 2 Scafoid carpian, incidență oblică anterioară – deviație ulnară
 images:
-- caption: Oblică Anterioară radiografie de Scafoid Carpian
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie oblică anterioară a scafoidului carpian
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark/fig_1.jpeg
-- caption: Normal Oblică Anterioară radiografie de Scafoid Carpian
+- caption: Radiografie oblică anterioară normală a scafoidului carpian
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark/fig_2.jpeg
@@ -19,14 +20,18 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• de la Postero-anterior (PA) poziție, Mână și Pumn (Articulație Radiocarpiană)
-  sunt rotit 45 grade externally și plasat over unexposed quarter de caseta. Mână
-  trebuie să remain în adducție în Deviație Ulnară.
+position: '• Din poziția postero-anterioară (PA), mâna și pumnul (articulația radiocarpiană)
+  sunt rotite extern cu 45 de grade și așezate peste un sfert neexpus al casetei.
+  Mâna trebuie să rămână în adducție, în deviație ulnară.
 
-  • Mână este sprijinit în poziție, cu non-opaque pad plasat under Police.
+  • Mâna este susținută în poziție, cu un suport radiotransparent așezat sub police.
 
   • Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.'
 protection:
@@ -37,13 +42,13 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală
-  oase metacarpiene.
-- Scafoid Carpian trebuie să fie seen clearly, cu its axa longitudinală paralel cu
-  casetă. Trapezium Trapezoid Scafoid Carpian Styloid process de radius Radio-carpal
-  articulație oase metacarpiene 1-5 Hamate Capitate Triquetral Pisiform Lunate Styloid
-  process de ulna 1 2 3 4 5 Oblică Anterioară radiografie de Scafoid Carpian Normal
-  Oblică Anterioară radiografie de Scafoid Carpian
+- Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea
+  proximală a oaselor metacarpiene.
+- Scafoidul carpian trebuie să fie vizibil clar, cu axa sa longitudinală paralelă
+  cu caseta. Trapez Trapezoid Scafoid carpian Proces stiloid al radiusului Articulație
+  radiocarpiană Oase metacarpiene 1-5 Hamatus Capitat Triquetrum Pisiform Semilunar
+  Proces stiloid al ulnei 1 2 3 4 5 Radiografie oblică anterioară a scafoidului carpian
+  Normal Radiografie oblică anterioară a scafoidului carpian
 sid_dff: 100 cm
 slug: rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark
 sources:
@@ -52,14 +57,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Scafoid Carpian Oblică Anterioară - Deviație Ulnară
+  mas: Conform AEC / grosimii anatomice
+title: Rx scafoid carpian, incidență oblică anterioară – deviație ulnară
 ---
-# Rx Scafoid Carpian Oblică Anterioară - Deviație Ulnară
+# Rx scafoid carpian, incidență oblică anterioară – deviație ulnară
 
 
 <div class="rx-meta-bar">
@@ -78,24 +83,26 @@ title: Rx Scafoid Carpian Oblică Anterioară - Deviație Ulnară
 
     === "Indicații Clinice"
 
-        - 51 2 Scafoid Carpian Oblică Anterioară – Deviație Ulnară
+        - 51 2 Scafoid carpian, incidență oblică anterioară – deviație ulnară
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • de la Postero-anterior (PA) poziție, Mână și Pumn (Articulație Radiocarpiană) sunt rotit 45 grade externally și plasat over unexposed quarter de caseta. Mână trebuie să remain în adducție în Deviație Ulnară.
-• Mână este sprijinit în poziție, cu non-opaque pad plasat under Police.
-• Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este centred midway între radial și ulnar styloid processes (see p. 58).
+    - **Poziție Pacient:**
+        - Din poziția postero-anterioară (PA), mâna și pumnul (articulația radiocarpiană) sunt rotite extern cu 45 de grade și așezate peste un sfert neexpus al casetei. Mâna trebuie să rămână în adducție, în deviație ulnară.
+        - Mâna este susținută în poziție, cu un suport radiotransparent așezat sub police.
+        - Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
+    - **Punct de Centrare Fascicul:** • raza centrală verticală este centrată la jumătatea distanței dintre procesele stiloide radial și ulnar (vezi p. 58).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -106,20 +113,20 @@ title: Rx Scafoid Carpian Oblică Anterioară - Deviație Ulnară
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală oase metacarpiene.
-    - Scafoid Carpian trebuie să fie seen clearly, cu its axa longitudinală paralel cu casetă. Trapezium Trapezoid Scafoid Carpian Styloid process de radius Radio-carpal articulație oase metacarpiene 1-5 Hamate Capitate Triquetral Pisiform Lunate Styloid process de ulna 1 2 3 4 5 Oblică Anterioară radiografie de Scafoid Carpian Normal Oblică Anterioară radiografie de Scafoid Carpian
+    - Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea proximală a oaselor metacarpiene.
+    - Scafoidul carpian trebuie să fie vizibil clar, cu axa sa longitudinală paralelă cu caseta. Trapez Trapezoid Scafoid carpian Proces stiloid al radiusului Articulație radiocarpiană Oase metacarpiene 1-5 Hamatus Capitat Triquetrum Pisiform Semilunar Proces stiloid al ulnei 1 2 3 4 5 Radiografie oblică anterioară a scafoidului carpian Normal Radiografie oblică anterioară a scafoidului carpian
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -131,6 +138,7 @@ title: Rx Scafoid Carpian Oblică Anterioară - Deviație Ulnară
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -141,17 +149,17 @@ title: Rx Scafoid Carpian Oblică Anterioară - Deviație Ulnară
 
 <figure class="protocol-image-card" markdown>
 
-![Oblică Anterioară radiografie de Scafoid Carpian](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark/fig_1.jpeg)
+![Radiografie oblică anterioară a scafoidului carpian](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark/fig_1.jpeg)
 
-<figcaption><strong>Oblică Anterioară radiografie de Scafoid Carpian</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică anterioară a scafoidului carpian</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Oblică Anterioară radiografie de Scafoid Carpian](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark/fig_2.jpeg)
+![Radiografie oblică anterioară normală a scafoidului carpian](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-anterioara-deviatie-ulnara-p66-clark/fig_2.jpeg)
 
-<figcaption><strong>Normal Oblică Anterioară radiografie de Scafoid Carpian</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică anterioară normală a scafoidului carpian</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

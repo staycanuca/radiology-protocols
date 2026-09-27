@@ -1,31 +1,36 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: respirație aids good rib detail în acute trauma
+breathing: Apneea contribuie la evidențierea detaliilor costale în traumatismul acut
 category: membru-superior
-centering: '• raza centrală verticală centrală este orientat through proximal aspect
-  cap de cap humeral. Some tube angulation, spre palm de Mână, poate fie necessary
-  la coincide cu plane de cavitate glenoidă.
+centering: '• raza centrală verticală este orientată prin aspectul proximal al capului
+  humeral. Poate fi necesară o anumită angulație a tubului, spre palma mâinii, pentru
+  a coincide cu planul cavității glenoide.
 
-  • If there este large OFD, it poate fie necessary la increase overall focus-la-film
-  radiologic distance (FFD) la reduce magnification.
+  • Dacă DFO este mare, poate fi necesară creșterea distanței focar–film radiologic
+  (DFF) pentru a reduce mărirea.
 
-  Antero-posterior (AP) radiografie de Umăr evidențiind severe arthritic disease Normal
-  Supero-Inferioară imagine de Umăr Incidențe Standard de Bază'
+  Radiografie anteroposterioară (AP) a umărului, evidențiind boală artrozică severă
+
+  Imagine superoinferioară normală a umărului
+
+  Incidențe standard de bază'
 clinical_indications:
-- 81 3 Antero-posterior (AP) (15 grade) Ortostatism – survey imagine
-- braț este în supinație și slightly în abducție away de la corp. medial și Profil
-  (lateral) epicondyles de distal Humerus trebuie să fie paralel cu casetă.
-- caseta este poziționat so that its upper margine este la least 5 cm above Umăr la
-  ensure that Oblică rays do nu project Umăr off caseta.
+- 81 3 Anteroposterior (AP) (15 grade), în ortostatism – imagine de examinare
+- Brațul este în supinație și ușor în abducție față de corp. Epicondilii medial și
+  lateral ai humerusului distal trebuie să fie paraleli cu caseta.
+- Caseta este poziționată astfel încât marginea sa superioară să fie la cel puțin
+  5 cm deasupra umărului, pentru a asigura că razele oblice nu proiectează umărul
+  în afara casetei.
 images:
-- caption: Antero-posterior (AP) radiografie de
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie anteroposterioară (AP) a
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_1.jpeg
-- caption: Umăr evidențiind severe arthritic
+- caption: umărului, evidențiind boală artrozică severă
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_2.jpeg
-- caption: Normal Supero-Inferioară imagine de the
+- caption: Imagine superoinferioară normală a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_3.jpeg
@@ -33,12 +38,16 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: • pacientul stă în ortostatism cu affected Umăr sprijinit pe casetă și este
-  rotit 15 grade la bring Umăr closer la caseta și plane de articulații acromioclaviculare
-  paralel cu central fascicul.
+position: • Pacientul stă în ortostatism, cu umărul afectat sprijinit pe casetă, și
+  este rotit 15 grade pentru a aduce umărul mai aproape de casetă și planul articulațiilor
+  acromioclaviculare paralel cu fasciculul central.
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -47,11 +56,12 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază capul și extremitatea proximală Humerus, inferior
-  angle de Omoplat (Scapulă) și whole de Claviculă.
-- capul de Humerus trebuie să fie seen slightly overlapping cavitate glenoidă but
-  separate de la acromion.
-- Arrested respirație aids good rib detail în acute trauma. Supero-Inferioară (Axială)
+- Imaginea trebuie să evidențieze capul și extremitatea proximală a humerusului, unghiul
+  inferior al omoplatului (scapula) și clavicula în întregime.
+- Capul humerusului trebuie vizualizat ușor suprapus peste cavitatea glenoidă, dar
+  separat de acromion.
+- Apneea contribuie la evidențierea detaliilor costale în traumatismul acut. Superoinferioară
+  (axială)
 sid_dff: 100 cm
 slug: rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark
 sources:
@@ -60,14 +70,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Antero-Posterior (AP) (15 degrees) Ortostatism - survey image
+  mas: Conform AEC / grosimii anatomice
+title: Rx anteroposterior (AP) (15 grade), în ortostatism – imagine de examinare
 ---
-# Rx Antero-Posterior (AP) (15 degrees) Ortostatism - survey image
+# Rx anteroposterior (AP) (15 grade), în ortostatism – imagine de examinare
 
 
 <div class="rx-meta-bar">
@@ -86,28 +96,29 @@ title: Rx Antero-Posterior (AP) (15 degrees) Ortostatism - survey image
 
     === "Indicații Clinice"
 
-        - 81 3 Antero-posterior (AP) (15 grade) Ortostatism – survey imagine
-        - braț este în supinație și slightly în abducție away de la corp. medial și Profil (lateral) epicondyles de distal Humerus trebuie să fie paralel cu casetă.
-        - caseta este poziționat so that its upper margine este la least 5 cm above Umăr la ensure that Oblică rays do nu project Umăr off caseta.
+        - 81 3 Anteroposterior (AP) (15 grade), în ortostatism – imagine de examinare
+        - Brațul este în supinație și ușor în abducție față de corp. Epicondilii medial și lateral ai humerusului distal trebuie să fie paraleli cu caseta.
+        - Caseta este poziționată astfel încât marginea sa superioară să fie la cel puțin 5 cm deasupra umărului, pentru a asigura că razele oblice nu proiectează umărul în afara casetei.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism cu affected Umăr sprijinit pe casetă și este rotit 15 grade la bring Umăr closer la caseta și plane de articulații acromioclaviculare paralel cu central fascicul.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat through proximal aspect cap de cap humeral. Some tube angulation, spre palm de Mână, poate fie necessary la coincide cu plane de cavitate glenoidă.
-• If there este large OFD, it poate fie necessary la increase overall focus-la-film radiologic distance (FFD) la reduce magnification.
-Antero-posterior (AP) radiografie de Umăr evidențiind severe arthritic disease Normal Supero-Inferioară imagine de Umăr Incidențe Standard de Bază
+    - **Poziție Pacient:** • Pacientul stă în ortostatism, cu umărul afectat sprijinit pe casetă, și este rotit 15 grade pentru a aduce umărul mai aproape de casetă și planul articulațiilor acromioclaviculare paralel cu fasciculul central.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală verticală este orientată prin aspectul proximal al capului humeral. Poate fi necesară o anumită angulație a tubului, spre palma mâinii, pentru a coincide cu planul cavității glenoide.
+        - Dacă DFO este mare, poate fi necesară creșterea distanței focar–film radiologic (DFF) pentru a reduce mărirea. Radiografie anteroposterioară (AP) a umărului, evidențiind boală artrozică severă Imagine superoinferioară normală a umărului Incidențe standard de bază
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** respirație aids good rib detail în acute trauma
+    - **Comandă Respiratorie:** Apneea contribuie la evidențierea detaliilor costale în traumatismul acut
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,21 +127,21 @@ Antero-posterior (AP) radiografie de Umăr evidențiind severe arthritic disease
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază capul și extremitatea proximală Humerus, inferior angle de Omoplat (Scapulă) și whole de Claviculă.
-    - capul de Humerus trebuie să fie seen slightly overlapping cavitate glenoidă but separate de la acromion.
-    - Arrested respirație aids good rib detail în acute trauma. Supero-Inferioară (Axială)
+    - Imaginea trebuie să evidențieze capul și extremitatea proximală a humerusului, unghiul inferior al omoplatului (scapula) și clavicula în întregime.
+    - Capul humerusului trebuie vizualizat ușor suprapus peste cavitatea glenoidă, dar separat de acromion.
+    - Apneea contribuie la evidențierea detaliilor costale în traumatismul acut. Superoinferioară (axială)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,6 +153,7 @@ Antero-posterior (AP) radiografie de Umăr evidențiind severe arthritic disease
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -152,25 +164,25 @@ Antero-posterior (AP) radiografie de Umăr evidențiind severe arthritic disease
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie de](../../assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_1.jpeg)
+![Radiografie anteroposterioară (AP) a](../../assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_1.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie de</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Umăr evidențiind severe arthritic](../../assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_2.jpeg)
-
-<figcaption><strong>Umăr evidențiind severe arthritic</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) a</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Supero-Inferioară imagine de the](../../assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_3.jpeg)
+![umărului, evidențiind boală artrozică severă](../../assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_2.jpeg)
 
-<figcaption><strong>Normal Supero-Inferioară imagine de the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>umărului, evidențiind boală artrozică severă</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Imagine superoinferioară normală a](../../assets/images/protocols/clark/rx-antero-posterior-15-degrees-ortostatism-survey-image-p96-clark/fig_3.jpeg)
+
+<figcaption><strong>Imagine superoinferioară normală a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

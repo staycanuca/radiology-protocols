@@ -2,37 +2,42 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: 90° 40°-45° Fig. 6.128 8 × 10 inches (18 × 24 cm) receptorul de imagine.
+centering: 90° 40°-45° Fig. 6.128 Receptor de imagine de 8 × 10 inci (18 × 24 cm).
 clinical_indications:
-- Intercondylar fossa, femoral condyles, tibial plateaus, și intercondylar eminence
-  evidențiat la look pentru evidence de bony sau cartilaginous pathology
-- Osteochondral defects, sau narrowing de spații articulare
+- Fosa intercondiliană, condilii femurali, platourile tibiale și eminența intercondiliană
+  sunt evidențiate pentru depistarea dovezilor de patologie osoasă sau cartilaginoasă.
+- Defecte osteocondrale sau îngustarea spațiilor articulare
 images:
-- caption: Fig. 6.127 AP axial—(40° flexion, Raza centrală perpendiculară la Gambă
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.127 AP axial—(40°
-    flexion, raza centrală perpendicular la lower membru inferior)
+- caption: Fig. 6.127 AP axial—(flexie 40°, raza centrală perpendiculară pe gambă
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.127 AP
+    axial—(flexie 40°, raza centrală perpendiculară pe membrul inferior)
   url: assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_1.jpeg
-- caption: Fig. 6.128 8 × 10 inches (18 × 24 cm) receptorul de imagine.
+- caption: Fig. 6.128 Receptor de imagine de 8 × 10 inci (18 × 24 cm).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.128
-    8 × 10 inches (18 × 24 cm) receptorul de imagine.)
+    receptor de imagine de 8 × 10 inci (18 × 24 cm).)
   url: assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_2.png
-- caption: Fig. 6.129 AP axial—40° flexion și raza centrală angle.
+- caption: Fig. 6.129 AP axial—flexie 40° și unghiul razei centrale.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.129
-    AP axial—40° flexion și raza centrală angle.)
+    AP axial—flexie 40° și unghiul razei centrale.)
   url: assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: This este reversal de Incidență PA Axială pentru pacienți who cannot assume
-  Decubit ventral poziție. However, this este nu preferred incidență because de distortion
-  de la raza centrală angle și increased partIR distance. This incidență also increases
-  expunere pentru gonadal region.
-position: 'Pacient: Place pacient în Decubit dorsal poziție. Provide support under
-  partially flectat Genunchi cu entire membru inferior în anatomic poziție cu Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.; Regiune
-  anatomică: Flex Genunchi 40° la 45°, și poziție support under receptorul de imagine
-  ca needed la place receptorul de imagine firmly against posterior thigh și Gambă,
-  ca vizualizat în Figs. 6.127 și 6.128. Adjust receptorul de imagine ca needed la
-  center receptorul de imagine la midknee articulație area.'
+notes: Aceasta este inversarea incidenței axiale PA pentru pacienții care nu pot adopta
+  poziția în decubit ventral. Totuși, aceasta nu este incidența preferată din cauza
+  distorsiunii produse de unghiul razei centrale și a distanței crescute dintre parte
+  și receptorul de imagine. Această incidență crește, de asemenea, expunerea regiunii
+  gonadale.
+position: 'Pacient: Așezați pacientul în decubit dorsal. Sprijiniți genunchiul flectat
+  parțial, cu întregul membru inferior în poziție anatomică, cu absența rotației anatomice:
+  clavicule echidistante față de linia apofizelor spinoase. Regiune anatomică: Flectați
+  genunchiul la 40° până la 45° și poziționați suportul de sub receptorul de imagine
+  după necesitate pentru a plasa ferm receptorul de imagine pe coapsa posterioară
+  și gambă, după cum este ilustrat în Fig. 6.127 și 6.128. Ajustați receptorul de
+  imagine după necesitate pentru a-l centra la nivelul zonei articulației genunchiului.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,39 +45,40 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Intercondylar fossa, femoral condyles, tibial plateaus, și intercondylar eminence.
-  poziție:'
-- Center de foursided collimation field trebuie să fie la midknee articulație area.
-- Intercondylar fossa trebuie să appear în profile, open fără superimposition prin
-  Rotulă (Patelă).
-- Intercondylar eminence și platou tibial și distal condyles de Femur trebuie să fie
-  clearly visualized.
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  este evidenced prin simetric appearance de distal posterior femoral condyles și
-  superimposition de approximately half de cap peronier (fibular) prin tibia (Fig.
-  6.129). expunere:'
-- optim expunere trebuie să visualize părți moi în Genunchi spații articulare și outline
-  de Rotulă (Patelă) through Femur.
-- Trabecular markings de femoral condyles și proximal tibia trebuie să appear clear
-  și net, cu fără mișcare. Fig. 6.129 AP axial—40° flexion și raza centrală angle.
+- 'Fosa intercondiliană, condilii femurali, platourile tibiale și eminența intercondiliană.
+  Poziție:'
+- Centrul câmpului de colimare cu patru laturi trebuie să fie la nivelul zonei articulației
+  genunchiului.
+- Fosa intercondiliană trebuie să apară de profil, deschisă, fără suprapunerea rotulei
+  (patelă).
+- Eminența intercondiliană, platoul tibial și condilii distali ai femurului trebuie
+  să fie clar vizualizați.
+- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase,
+  evidențiată prin aspectul simetric al condililor femurali posteriori distali și
+  prin suprapunerea aproximativ a jumătății capului peronier (fibular) de către tibie
+  (Fig. 6.129). Expunere:'
+- Expunerea optimă trebuie să vizualizeze părțile moi din spațiile articulare ale
+  genunchiului și conturul rotulei (patelă) prin femur.
+- Desenul trabecular al condililor femurali și al tibiei proximale trebuie să apară
+  clar și net, fără mișcare. Fig. 6.129 Axial AP—flexie 40° și unghiul razei centrale.
 sid_dff: 100 cm
 slug: rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 270
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la Genunchi articulație area. Genunchi—Intercondylar
-    Fossa SPECIAL AP axial Fig. 6.127 AP axial—(40° flexion, Raza centrală perpendiculară
-    la Gambă approximately 40° cranial).
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe patru laturi la nivelul zonei articulației genunchiului.
+    Genunchi—fosa intercondiliană, incidență AP axială SPECIALĂ. Fig. 6.127 AP axial—(flexie
+    40°, raza centrală perpendiculară pe gambă, aproximativ 40° cranial).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 65-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Genunchi AP Axială (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA - BÉCLERE METHOD)
+title: Rx genunchi AP axială („incidență tunel”) (fosa intercondiliană—metoda Béclère)
 ---
-# Rx Genunchi AP Axială (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA - BÉCLERE METHOD)
+# Rx genunchi AP axială („incidență tunel”) (fosa intercondiliană—metoda Béclère)
 
 
 <div class="rx-meta-bar">
@@ -91,23 +97,24 @@ title: Rx Genunchi AP Axială (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA - 
 
     === "Indicații Clinice"
 
-        - Intercondylar fossa, femoral condyles, tibial plateaus, și intercondylar eminence evidențiat la look pentru evidence de bony sau cartilaginous pathology
-        - Osteochondral defects, sau narrowing de spații articulare
+        - Fosa intercondiliană, condilii femurali, platourile tibiale și eminența intercondiliană sunt evidențiate pentru depistarea dovezilor de patologie osoasă sau cartilaginoasă.
+        - Defecte osteocondrale sau îngustarea spațiilor articulare
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient în Decubit dorsal poziție. Provide support under partially flectat Genunchi cu entire membru inferior în anatomic poziție cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.; Regiune anatomică: Flex Genunchi 40° la 45°, și poziție support under receptorul de imagine ca needed la place receptorul de imagine firmly against posterior thigh și Gambă, ca vizualizat în Figs. 6.127 și 6.128. Adjust receptorul de imagine ca needed la center receptorul de imagine la midknee articulație area.
-    - **Punct de Centrare Fascicul:** 90° 40°-45° Fig. 6.128 8 × 10 inches (18 × 24 cm) receptorul de imagine.
+    - **Poziție Pacient:** Pacient: Așezați pacientul în decubit dorsal. Sprijiniți genunchiul flectat parțial, cu întregul membru inferior în poziție anatomică, cu absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase. Regiune anatomică: Flectați genunchiul la 40° până la 45° și poziționați suportul de sub receptorul de imagine după necesitate pentru a plasa ferm receptorul de imagine pe coapsa posterioară și gambă, după cum este ilustrat în Fig. 6.127 și 6.128. Ajustați receptorul de imagine după necesitate pentru a-l centra la nivelul zonei articulației genunchiului.
+    - **Punct de Centrare Fascicul:** 90° 40°-45° Fig. 6.128 Receptor de imagine de 8 × 10 inci (18 × 24 cm).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -122,21 +129,21 @@ title: Rx Genunchi AP Axială (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA - 
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la Genunchi articulație area. Genunchi—Intercondylar Fossa SPECIAL AP axial Fig. 6.127 AP axial—(40° flexion, Raza centrală perpendiculară la Gambă approximately 40° cranial). |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe patru laturi la nivelul zonei articulației genunchiului. Genunchi—fosa intercondiliană, incidență AP axială SPECIALĂ. Fig. 6.127 AP axial—(flexie 40°, raza centrală perpendiculară pe gambă, aproximativ 40° cranial). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Intercondylar fossa, femoral condyles, tibial plateaus, și intercondylar eminence. poziție:
-    - Center de foursided collimation field trebuie să fie la midknee articulație area.
-    - Intercondylar fossa trebuie să appear în profile, open fără superimposition prin Rotulă (Patelă).
-    - Intercondylar eminence și platou tibial și distal condyles de Femur trebuie să fie clearly visualized.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced prin simetric appearance de distal posterior femoral condyles și superimposition de approximately half de cap peronier (fibular) prin tibia (Fig. 6.129). expunere:
-    - optim expunere trebuie să visualize părți moi în Genunchi spații articulare și outline de Rotulă (Patelă) through Femur.
-    - Trabecular markings de femoral condyles și proximal tibia trebuie să appear clear și net, cu fără mișcare. Fig. 6.129 AP axial—40° flexion și raza centrală angle.
+    - Fosa intercondiliană, condilii femurali, platourile tibiale și eminența intercondiliană. Poziție:
+    - Centrul câmpului de colimare cu patru laturi trebuie să fie la nivelul zonei articulației genunchiului.
+    - Fosa intercondiliană trebuie să apară de profil, deschisă, fără suprapunerea rotulei (patelă).
+    - Eminența intercondiliană, platoul tibial și condilii distali ai femurului trebuie să fie clar vizualizați.
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, evidențiată prin aspectul simetric al condililor femurali posteriori distali și prin suprapunerea aproximativ a jumătății capului peronier (fibular) de către tibie (Fig. 6.129). Expunere:
+    - Expunerea optimă trebuie să vizualizeze părțile moi din spațiile articulare ale genunchiului și conturul rotulei (patelă) prin femur.
+    - Desenul trabecular al condililor femurali și al tibiei proximale trebuie să apară clar și net, fără mișcare. Fig. 6.129 Axial AP—flexie 40° și unghiul razei centrale.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -148,8 +155,9 @@ title: Rx Genunchi AP Axială (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA - 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    This este reversal de Incidență PA Axială pentru pacienți who cannot assume Decubit ventral poziție. However, this este nu preferred incidență because de distortion de la raza centrală angle și increased partIR distance. This incidență also increases expunere pentru gonadal region.
+    Aceasta este inversarea incidenței axiale PA pentru pacienții care nu pot adopta poziția în decubit ventral. Totuși, aceasta nu este incidența preferată din cauza distorsiunii produse de unghiul razei centrale și a distanței crescute dintre parte și receptorul de imagine. Această incidență crește, de asemenea, expunerea regiunii gonadale.
 
 
 ### 🖼️ Imagini
@@ -158,25 +166,25 @@ title: Rx Genunchi AP Axială (“TUNNEL Incidență”) (INTERCONDYLAR FOSSA - 
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.127 AP axial—(40° flexion, Raza centrală perpendiculară la Gambă](../../assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_1.jpeg)
+![Fig. 6.127 AP axial—(flexie 40°, raza centrală perpendiculară pe gambă](../../assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.127 AP axial—(40° flexion, Raza centrală perpendiculară la Gambă</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.127 AP axial—(40° flexion, raza centrală perpendicular la lower membru inferior)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.128 8 × 10 inches (18 × 24 cm) receptorul de imagine.](../../assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_2.png)
-
-<figcaption><strong>Fig. 6.128 8 × 10 inches (18 × 24 cm) receptorul de imagine.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.128 8 × 10 inches (18 × 24 cm) receptorul de imagine.)</span></figcaption>
+<figcaption><strong>Fig. 6.127 AP axial—(flexie 40°, raza centrală perpendiculară pe gambă</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.127 AP axial—(flexie 40°, raza centrală perpendiculară pe membrul inferior)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.129 AP axial—40° flexion și raza centrală angle.](../../assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_3.jpeg)
+![Fig. 6.128 Receptor de imagine de 8 × 10 inci (18 × 24 cm).](../../assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_2.png)
 
-<figcaption><strong>Fig. 6.129 AP axial—40° flexion și raza centrală angle.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.129 AP axial—40° flexion și raza centrală angle.)</span></figcaption>
+<figcaption><strong>Fig. 6.128 Receptor de imagine de 8 × 10 inci (18 × 24 cm).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.128 receptor de imagine de 8 × 10 inci (18 × 24 cm).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.129 AP axial—flexie 40° și unghiul razei centrale.](../../assets/images/protocols/bontrager/rx-genunchi-ap-axiala-tunnel-view-intercondylar-fossa-b-clere-method-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.129 AP axial—flexie 40° și unghiul razei centrale.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.129 AP axial—flexie 40° și unghiul razei centrale.)</span></figcaption>
 
 </figure>
 

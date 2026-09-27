@@ -2,26 +2,31 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Raza centrală se înclină 45° cranial (spre cap) (raza centrală tangențial
-  la patellofemoral articulație).
+centering: Raza centrală se înclină cranial la 45° (spre cap) (raza centrală tangențială
+  la articulația patelofemurală).
 clinical_indications:
 - Investigație diagnostică inițială sau de control pentru regiunea anatomică selectată
 images:
-- caption: Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.138 Inferosuperior
-    axial incidență—40° la 45° flexion de genunchi.)
+- caption: Fig. 6.138 Incidență axială inferosuperioară — flexia genunchiului la 40°
+    până la 45°.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.138 Incidență
+    axială inferosuperioară — flexia genunchiului la 40° până la 45°.)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_1.jpeg
-- caption: Fig. 6.139 Metoda Hughston—50° la 60° flexion.
+- caption: Fig. 6.139 Metoda Hughston — flexia la 50° până la 60°.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.139
-    Hughston method—50° la 60° flexion.)
+    Metoda Hughston — flexia la 50° până la 60°.)
   url: assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Some authors suggest reduced flexion de only 20° la prevent Rotulă (Patelă)
-  de la being drawn into patellofemoral groove, which poate prevent detection de subtle
-  abnormalities în alignment.9 Rotulă (Patelă) tangențial Fig. 6.138 Inferosuperior
-  axial incidență—40° la 45° flexion de genunchi. Fig. 6.139 Metoda Hughston—50° la
-  60° flexion.
+notes: Unii autori sugerează reducerea flexiei la numai 20° pentru a împiedica tragerea
+  rotulei în șanțul patelofemural, ceea ce poate împiedica detectarea unor anomalii
+  subtile de aliniere.9 Tangențială a rotulei. Fig. 6.138 Incidență axială inferosuperioară
+  — flexia genunchiului la 40° până la 45°. Fig. 6.139 Metoda Hughston — flexia la
+  50° până la 60°.
 position: Conform incidenței standard descrise
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
@@ -30,9 +35,10 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă regiunii anatomice explorate
-- Absența artefactelor de mișcare sau suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
+- Vizualizarea completă a regiunii anatomice explorate
+- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
+  moi
 sid_dff: 120 cm
 slug: rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager
 sources:
@@ -40,16 +46,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic anatomic
+  collimation: Colimare strictă pe regiunea anatomică de interes diagnostic
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - INFEROSUPERIOR
-  AXIAL AND HUGHSTON METHODS)
+title: Rx incidență axială sau sunrise/skyline, tangențială (rotula — bilateral) —
+  metodele axială inferosuperioară și Hughston
 ---
-# Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - INFEROSUPERIOR AXIAL AND HUGHSTON METHODS)
+# Rx incidență axială sau sunrise/skyline, tangențială (rotula — bilateral) — metodele axială inferosuperioară și Hughston
 
 
 <div class="rx-meta-bar">
@@ -73,17 +79,18 @@ title: Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - I
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină 45° cranial (spre cap) (raza centrală tangențial la patellofemoral articulație).
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină cranial la 45° (spre cap) (raza centrală tangențială la articulația patelofemurală).
     - **Distanță Focar-Film (DFF / SID):** 120 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -99,16 +106,16 @@ title: Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - I
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic anatomic |
+    | **Colimare Fascicul** | Colimare strictă pe regiunea anatomică de interes diagnostic |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
+    - Vizualizarea completă a regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -120,8 +127,9 @@ title: Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - I
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Some authors suggest reduced flexion de only 20° la prevent Rotulă (Patelă) de la being drawn into patellofemoral groove, which poate prevent detection de subtle abnormalities în alignment.9 Rotulă (Patelă) tangențial Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi. Fig. 6.139 Metoda Hughston—50° la 60° flexion.
+    Unii autori sugerează reducerea flexiei la numai 20° pentru a împiedica tragerea rotulei în șanțul patelofemural, ceea ce poate împiedica detectarea unor anomalii subtile de aliniere.9 Tangențială a rotulei. Fig. 6.138 Incidență axială inferosuperioară — flexia genunchiului la 40° până la 45°. Fig. 6.139 Metoda Hughston — flexia la 50° până la 60°.
 
 
 ### 🖼️ Imagini
@@ -130,17 +138,17 @@ title: Rx AXIAL OR SUNRISE/SKYLINE Incidență TANGENTIAL (Rotulă (Patelă) - I
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_1.jpeg)
+![Fig. 6.138 Incidență axială inferosuperioară — flexia genunchiului la 40° până la 45°.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.138 Inferosuperior axial incidență—40° la 45° flexion de genunchi.)</span></figcaption>
+<figcaption><strong>Fig. 6.138 Incidență axială inferosuperioară — flexia genunchiului la 40° până la 45°.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.138 Incidență axială inferosuperioară — flexia genunchiului la 40° până la 45°.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.139 Metoda Hughston—50° la 60° flexion.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_2.jpeg)
+![Fig. 6.139 Metoda Hughston — flexia la 50° până la 60°.](../../assets/images/protocols/bontrager/rx-axial-or-sunrise-skyline-projections-tangential-rotula-patela-inferosuperior-axial-and-hughston-methods-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.139 Metoda Hughston—50° la 60° flexion.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.139 Hughston method—50° la 60° flexion.)</span></figcaption>
+<figcaption><strong>Fig. 6.139 Metoda Hughston — flexia la 50° până la 60°.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.139 Metoda Hughston — flexia la 50° până la 60°.)</span></figcaption>
 
 </figure>
 

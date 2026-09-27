@@ -3,47 +3,58 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: "• raza centrală orizontală centrală este orientat 30 grade caudally și\
-  \ centred la palpable Proces Coracoid de Omoplat (Scapulă).\n• An 18 \x02 24-cm\
-  \ casetă este used cu fascicul collimated la glenohumeral articulație."
+centering: '• Raza centrală orizontală este orientată la 30 grade caudal și centrată
+  pe procesul coracoid palpabil al omoplatului (scapulei).
+
+  • Se utilizează o casetă de 18 × 24 cm, cu fasciculul colimat la nivelul articulației
+  glenohumerale.'
 clinical_indications:
-- 83 3 Incidență Outlet (Subacromială Neer) în cases de suspected Umăr impingement
-  syndrome, it este important la visualize anterior portion de acromion. Routine incidențe
-  described above sunt frequently unsatisfactory because anterior portion de acromion
-  este superimposed pe corp de acromion. If Antero-posterior (AP) incidență este undertaken
-  cu X-ray fascicul înclinat 30 grade caudally, anterior part de acromion este projected
-  inferiorly la corp de acromion și este visualized more clearly. modified Profil
-  (lateral) incidență (outlet incidență) cu 10-grade caudal angulation poate also
-  fie undertaken. Antero-posterior (AP) (Incidență Outlet (Subacromială Neer))
+- 83 3 Incidența outlet (subacromială Neer) în cazurile de suspiciune de sindrom de
+  impingement al umărului; este importantă vizualizarea porțiunii anterioare a acromionului.
+  Incidențele de rutină descrise mai sus sunt frecvent nesatisfăcătoare, deoarece
+  porțiunea anterioară a acromionului se suprapune peste corpul acromionului. Dacă
+  se efectuează o incidență anteroposterioară (AP) cu fasciculul de raze X înclinat
+  la 30 grade caudal, partea anterioară a acromionului este proiectată inferior față
+  de corpul acromionului și este vizualizată mai clar. Se poate efectua, de asemenea,
+  o incidență modificată de profil (laterală) (incidență outlet), cu angulație caudală
+  de 10 grade. Anteroposterioră (AP) (Incidență outlet (subacromială Neer))
 images:
-- caption: ence de bony spurs sau abnormally long acromion.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: ența osteofitelor sau a unui acromion anormal de lung.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_1.jpeg
-- caption: • subacromial spații articulare trebuie să fie vizualizat above the
+- caption: • Spațiul articular subacromial trebuie vizualizat deasupra [fragment deteriorat
+    în sursă]
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_2.jpeg
-- caption: Antero-posterior (AP) radiografie de Umăr outlet evidențiind normal undersurface
+- caption: Radiografie anteroposterioară (AP) de umăr, incidență outlet, evidențiind
+    suprafața inferioară normală
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_3.jpeg
-- caption: de acromion (incidental calcificări patologice de supraspinatus tendon)
+- caption: a acromionului (calcificări patologice incidentale ale tendonului supraspinos)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: 'pentru Antero-posterior (AP) survey imagine)
+position: 'pentru imaginea de examinare anteroposterioară (AP)
 
-  • pacientul stă în ortostatism cu affected Umăr against casetă și este rotit 15
-  grade la bring plane de Omoplat (Scapulă) paralel cu casetă.
+  • Pacientul stă în ortostatism, cu umărul afectat lipit de casetă, și este rotit
+  la 15 grade pentru a aduce planul omoplatului (scapulei) paralel cu caseta.
 
-  • braț este în supinație și slightly în abducție away de la corp. medial și Profil
-  (lateral) epicondyles de distal Humerus trebuie să fie paralel cu casetă.
+  • Brațul este în supinație și ușor în abducție față de corp. Epicondilii medial
+  și lateral ai humerusului distal trebuie să fie paraleli cu caseta.
 
-  • caseta este poziționat so that its upper margine este la least 5 cm above Umăr
-  la ensure that Oblică rays do nu project Umăr off caseta.'
+  • Caseta este poziționată astfel încât marginea sa superioară să fie cu cel puțin
+  5 cm deasupra umărului, pentru a asigura că razele oblice nu proiectează umărul
+  în afara casetei.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -52,15 +63,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază anterior part de acromion projected inferiorly la
-  corp la visualize presence de bony spurs sau abnormally long acromion.
-- subacromial spații articulare trebuie să fie vizualizat above cap humeral. Undersurface
-  de acromion superior surface de Humerus Proces Coracoid Glenohumeral articulație
-  coloană vertebrală de Omoplat (Scapulă) inferior surface de Claviculă medial margine
-  de Omoplat (Scapulă) A-C articulație Antero-posterior (AP) radiografie de Umăr outlet
-  evidențiind normal undersurface de acromion (incidental calcificări patologice de
-  supraspinatus tendon) Antero-posterior (AP) incidență de Umăr evidențiind bony spur
-  pe Profil (lateral) undersurface de acromion
+- Imaginea trebuie să evidențieze porțiunea anterioară a acromionului, proiectată
+  inferior față de corpul acromionului, pentru a vizualiza prezența osteofitelor sau
+  a unui acromion anormal de lung.
+- Spațiul articular subacromial trebuie vizualizat deasupra capului humeral. Suprafața
+  inferioară a acromionului Suprafața superioară a humerusului Proces coracoid Articulație
+  glenohumerală Coloană vertebrală a omoplatului (scapulei) Suprafața inferioară a
+  claviculei Marginea medială a omoplatului (scapulei) Articulație A-C Radiografie
+  anteroposterioară (AP) de umăr, incidență outlet, evidențiind suprafața inferioară
+  normală a acromionului (calcificări patologice incidentale ale tendonului supraspinos)
+  Incidență anteroposterioară (AP) de umăr, evidențiind un osteofit pe suprafața inferioară,
+  de profil, a acromionului
 sid_dff: 100 cm
 slug: rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark
 sources:
@@ -69,14 +82,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Umăr - Outlet Antero-Posterior (AP) (Incidență Outlet (Subacromială Neer))
+  mas: Conform AEC / grosimii anatomice
+title: Rx Umăr - Outlet anteroposterioră (AP) (Incidență outlet (subacromială Neer))
 ---
-# Rx Umăr - Outlet Antero-Posterior (AP) (Incidență Outlet (Subacromială Neer))
+# Rx Umăr - Outlet anteroposterioră (AP) (Incidență outlet (subacromială Neer))
 
 
 <div class="rx-meta-bar">
@@ -95,26 +108,30 @@ title: Rx Umăr - Outlet Antero-Posterior (AP) (Incidență Outlet (Subacromial�
 
     === "Indicații Clinice"
 
-        - 83 3 Incidență Outlet (Subacromială Neer) în cases de suspected Umăr impingement syndrome, it este important la visualize anterior portion de acromion. Routine incidențe described above sunt frequently unsatisfactory because anterior portion de acromion este superimposed pe corp de acromion. If Antero-posterior (AP) incidență este undertaken cu X-ray fascicul înclinat 30 grade caudally, anterior part de acromion este projected inferiorly la corp de acromion și este visualized more clearly. modified Profil (lateral) incidență (outlet incidență) cu 10-grade caudal angulation poate also fie undertaken. Antero-posterior (AP) (Incidență Outlet (Subacromială Neer))
+        - 83 3 Incidența outlet (subacromială Neer) în cazurile de suspiciune de sindrom de impingement al umărului; este importantă vizualizarea porțiunii anterioare a acromionului. Incidențele de rutină descrise mai sus sunt frecvent nesatisfăcătoare, deoarece porțiunea anterioară a acromionului se suprapune peste corpul acromionului. Dacă se efectuează o incidență anteroposterioară (AP) cu fasciculul de raze X înclinat la 30 grade caudal, partea anterioară a acromionului este proiectată inferior față de corpul acromionului și este vizualizată mai clar. Se poate efectua, de asemenea, o incidență modificată de profil (laterală) (incidență outlet), cu angulație caudală de 10 grade. Anteroposterioră (AP) (Incidență outlet (subacromială Neer))
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** pentru Antero-posterior (AP) survey imagine)
-• pacientul stă în ortostatism cu affected Umăr against casetă și este rotit 15 grade la bring plane de Omoplat (Scapulă) paralel cu casetă.
-• braț este în supinație și slightly în abducție away de la corp. medial și Profil (lateral) epicondyles de distal Humerus trebuie să fie paralel cu casetă.
-• caseta este poziționat so that its upper margine este la least 5 cm above Umăr la ensure that Oblică rays do nu project Umăr off caseta.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat 30 grade caudally și centred la palpable Proces Coracoid de Omoplat (Scapulă).
-• An 18  24-cm casetă este used cu fascicul collimated la glenohumeral articulație.
+    - **Poziție Pacient:**
+        pentru imaginea de examinare anteroposterioară (AP)
+
+        - Pacientul stă în ortostatism, cu umărul afectat lipit de casetă, și este rotit la 15 grade pentru a aduce planul omoplatului (scapulei) paralel cu caseta.
+        - Brațul este în supinație și ușor în abducție față de corp. Epicondilii medial și lateral ai humerusului distal trebuie să fie paraleli cu caseta.
+        - Caseta este poziționată astfel încât marginea sa superioară să fie cu cel puțin 5 cm deasupra umărului, pentru a asigura că razele oblice nu proiectează umărul în afara casetei.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală orizontală este orientată la 30 grade caudal și centrată pe procesul coracoid palpabil al omoplatului (scapulei).
+        - Se utilizează o casetă de 18 × 24 cm, cu fasciculul colimat la nivelul articulației glenohumerale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -125,20 +142,20 @@ title: Rx Umăr - Outlet Antero-Posterior (AP) (Incidență Outlet (Subacromial�
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază anterior part de acromion projected inferiorly la corp la visualize presence de bony spurs sau abnormally long acromion.
-    - subacromial spații articulare trebuie să fie vizualizat above cap humeral. Undersurface de acromion superior surface de Humerus Proces Coracoid Glenohumeral articulație coloană vertebrală de Omoplat (Scapulă) inferior surface de Claviculă medial margine de Omoplat (Scapulă) A-C articulație Antero-posterior (AP) radiografie de Umăr outlet evidențiind normal undersurface de acromion (incidental calcificări patologice de supraspinatus tendon) Antero-posterior (AP) incidență de Umăr evidențiind bony spur pe Profil (lateral) undersurface de acromion
+    - Imaginea trebuie să evidențieze porțiunea anterioară a acromionului, proiectată inferior față de corpul acromionului, pentru a vizualiza prezența osteofitelor sau a unui acromion anormal de lung.
+    - Spațiul articular subacromial trebuie vizualizat deasupra capului humeral. Suprafața inferioară a acromionului Suprafața superioară a humerusului Proces coracoid Articulație glenohumerală Coloană vertebrală a omoplatului (scapulei) Suprafața inferioară a claviculei Marginea medială a omoplatului (scapulei) Articulație A-C Radiografie anteroposterioară (AP) de umăr, incidență outlet, evidențiind suprafața inferioară normală a acromionului (calcificări patologice incidentale ale tendonului supraspinos) Incidență anteroposterioară (AP) de umăr, evidențiind un osteofit pe suprafața inferioară, de profil, a acromionului
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -150,6 +167,7 @@ title: Rx Umăr - Outlet Antero-Posterior (AP) (Incidență Outlet (Subacromial�
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -160,33 +178,33 @@ title: Rx Umăr - Outlet Antero-Posterior (AP) (Incidență Outlet (Subacromial�
 
 <figure class="protocol-image-card" markdown>
 
-![ence de bony spurs sau abnormally long acromion.](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_1.jpeg)
+![ența osteofitelor sau a unui acromion anormal de lung.](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_1.jpeg)
 
-<figcaption><strong>ence de bony spurs sau abnormally long acromion.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• subacromial spații articulare trebuie să fie vizualizat above the](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_2.jpeg)
-
-<figcaption><strong>• subacromial spații articulare trebuie să fie vizualizat above the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>ența osteofitelor sau a unui acromion anormal de lung.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie de Umăr outlet evidențiind normal undersurface](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_3.jpeg)
+![• Spațiul articular subacromial trebuie vizualizat deasupra [fragment deteriorat în sursă]](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie de Umăr outlet evidențiind normal undersurface</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Spațiul articular subacromial trebuie vizualizat deasupra [fragment deteriorat în sursă]</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![de acromion (incidental calcificări patologice de supraspinatus tendon)](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_4.jpeg)
+![Radiografie anteroposterioară (AP) de umăr, incidență outlet, evidențiind suprafața inferioară normală](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_3.jpeg)
 
-<figcaption><strong>de acromion (incidental calcificări patologice de supraspinatus tendon)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) de umăr, incidență outlet, evidențiind suprafața inferioară normală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![a acromionului (calcificări patologice incidentale ale tendonului supraspinos)](../../assets/images/protocols/clark/rx-umar-outlet-antero-posterior-incidenta-outlet-subacromiala-neer-p98-clark/fig_4.jpeg)
+
+<figcaption><strong>a acromionului (calcificări patologice incidentale ale tendonului supraspinos)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

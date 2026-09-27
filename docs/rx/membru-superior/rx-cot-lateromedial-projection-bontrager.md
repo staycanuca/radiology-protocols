@@ -2,44 +2,52 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la midelbow articulație
-  (point approximately 1½ inches [4 cm] medial la easily palpated posterior surface
-  de olecran)
+centering: perpendicular pe receptorul de imagine, orientat spre articulația cotului,
+  la mijloc (punct situat aproximativ la 1½ țoli [4 cm] medial față de suprafața posterioară
+  ușor palpabilă a olecranului)
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de Cot
-- Certain bony pathologic processes, such ca osteomielită / leziuni inflamatorii osoase
-  și arthritis
-- ridicat sau displaced fat pads de Cot articulație poate fie visualized
+- suspiciune de fractură și luxație / subluxație articulară a cotului
+- Anumite procese patologice osoase, precum osteomielita / leziunile inflamatorii
+  osoase și artrita
+- pernuțele adipoase ridicate sau deplasate ale articulației cotului pot fi vizualizate
 images:
-- caption: Fig. 4.144 Lateromedial incidență de drept Cot.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.144 Lateromedial
-    incidență de drept cot.)
+- caption: Fig. 4.144 Incidență latero-medială a cotului drept.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.144 Incidență
+    latero-medială a cotului drept.)
   url: assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_1.jpeg
-- caption: Fig. 4.143 lateral—Cot flectat 90° (Antebraț paralel cu receptorul de imagine).
+- caption: Fig. 4.143 Profil—cot flectat la 90° (antebraț paralel cu receptorul de
+    imagine).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.143
-    lateral—cot flectat 90° (forearm paralel cu receptorul de imagine).)
+    profil—cot flectat la 90° (antebraț paralel cu receptorul de imagine).)
   url: assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_2.jpeg
-- caption: Fig. 4.145 Lateromedial incidență de drept Cot.
+- caption: Fig. 4.145 Incidență latero-medială a cotului drept.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.145
-    Lateromedial incidență de drept cot.)
+    Incidență latero-medială a cotului drept.)
   url: assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: 'Diagnosis de certain important articulație pathologic processes (e.g., possible
-  visualization de posterior fat pad) depends pe 90° flexion de Cot articulație.3
-  eXCepTION: Certain părți moi diagnoses poate require less flexion (30° la 35°),
-  but these incidențe trebuie să fie taken only when specifically indicated. Cot ROUTINE
-  AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral (extern)
-  medial (intern) lateral Fig. 4.144 Lateromedial incidență de drept Cot.'
-position: 'Pacient: Seat pacient la end de table, cu Cot flectat 90° (see NOTE).;
-  Regiune anatomică: Align axa longitudinală de Antebraț cu axa longitudinală de receptorul
-  de imagine. Center Cot articulație la raza centrală și la center de receptorul de
-  imagine. Drop Umăr so that Humerus și Antebraț sunt pe same plan orizontal. Rotate
-  Mână și Pumn (Articulație Radiocarpiană) into true Incidență de Profil (lateral),
-  Police side up. Place interepicondylar plane perpendicular pe receptorul de imagine
-  (RI) (Fig. 4.143). Place support under Mână și Pumn (Articulație Radiocarpiană)
-  la elevate Mână și distal Antebraț ca needed pentru heavy muscular Antebraț so that
-  Antebraț este paralel cu receptorul de imagine pentru true lateral Cot.'
+notes: 'Diagnosticul anumitor procese patologice articulare importante (de exemplu,
+  posibila vizualizare a pernuței adipoase posterioare) depinde de flexia la 90° a
+  articulației cotului.3 eXCepTION: Anumite diagnostice ale părților moi pot necesita
+  o flexie mai mică (30° la 35°), dar aceste incidențe trebuie efectuate numai când
+  sunt indicate în mod specific. Cot RUTINĂ AP AP alternativă — flexie parțială AP
+  alternativă — flexie acută oblică laterală (externă) medială (internă) laterală
+  Fig. 4.144 Incidență latero-medială a cotului drept.'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu cotul flectat la 90° (vezi
+  NOTĂ).; Regiune anatomică: Aliniați axa longitudinală a antebrațului cu axa longitudinală
+  a receptorului de imagine. Centrați articulația cotului pe raza centrală și în centrul
+  receptorului de imagine. Coborâți umărul astfel încât humerusul și antebrațul să
+  fie în același plan orizontal. Rotiți mâna și pumnul (articulația radiocarpiană)
+  în incidență de profil adevărată, cu partea policelui în sus. Plasați planul interepicondilian
+  perpendicular pe receptorul de imagine (RI) (Fig. 4.143). Plasați un suport sub
+  mână și pumn (articulația radiocarpiană) pentru a ridica mâna și antebrațul distal,
+  după cum este necesar pentru antebrațul cu musculatură voluminoasă, astfel încât
+  antebrațul să fie paralel cu receptorul de imagine pentru o incidență de profil
+  adevărată a cotului.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -47,24 +55,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Incidență de Profil (lateral) de distal Humerus și proximal Antebraț, olecran,
-  și soft tissues și fat pads de Cot articulație sunt vizibil (Figs. 4.144 și 4.145).
-  poziție:'
-- axa longitudinală de Antebraț trebuie să fie aliniat cu axa longitudinală de receptorul
-  de imagine, cu Cot articulație flectat 90°.
-- About onehalf de cap radial trebuie să fie superimposed prin proces coronoid, și
-  olecran trebuie să fie visualized în profile.
-- True lateral incidență este indicated prin three concentric arcs de trochlear sulcus,
-  double ridges de capitulum și trochlea, și trochlear notch de ulna. în addition,
-  superimposition de humeral epicondyles occurs.
-- 'raza centrală și center de collimation field size trebuie să fie midpoint de Cot
-  articulație. expunere:'
-- fără mișcare și optim receptorul de imagine expunere și contrast trebuie să visualize
-  net cortical margins și clear trabecular markings ca well ca părți moi margins de
-  anterior și posterior fat pads. Fig. 4.143 lateral—Cot flectat 90° (Antebraț paralel
-  cu receptorul de imagine). anterior fat pad proces coronoid Supinator fat strip
-  R cap radial Trochlear sulcus Trochlear notch olecran Epicondyles Fig. 4.145 Lateromedial
-  incidență de drept Cot.
+- 'Incidența de profil a humerusului distal și antebrațului proximal, olecranului,
+  țesuturilor moi și pernițelor adipoase ale articulației cotului sunt vizibile (Figs.
+  4.144 și 4.145). Poziție:'
+- Axa longitudinală a antebrațului trebuie să fie aliniată cu axa longitudinală a
+  receptorului de imagine, cu articulația cotului flectată la 90°.
+- Aproximativ jumătate din capul radial trebuie să fie suprapusă de procesul coronoid,
+  iar olecranul trebuie să fie vizualizat de profil.
+- Incidența de profil adevărată este indicată de trei arcuri concentrice ale șanțului
+  trohlear, de crestele duble ale capitulului și trohleei și de incizura trohleară
+  a ulnei. În plus, apare suprapunerea epicondililor humerali.
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la mijlocul articulației
+  cotului. Expunere:'
+- Fără mișcare și cu expunere și contrast optime ale receptorului de imagine, trebuie
+  vizualizate marginile corticale nete și desenul trabecular clar, precum și marginile
+  țesuturilor moi ale pernițelor adipoase anterioară și posterioară. Fig. 4.143 profil—cot
+  flectat la 90° (antebraț paralel cu receptorul de imagine). Perniță adipoasă anterioară;
+  proces coronoid; bandă adipoasă supinatoare; R cap radial; șanț trohlear; incizură
+  trohleară; olecran; epicondili. Fig. 4.145 Incidență latero-medială a cotului drept.
 sid_dff: 100 cm
 slug: rx-cot-lateromedial-projection-bontrager
 sources:
@@ -72,15 +80,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la anatomy de interest.
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică
+    de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '65'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Cot Incidență Latero-Medială
+title: Rx cot incidență latero-medială
 ---
-# Rx Cot Incidență Latero-Medială
+# Rx cot incidență latero-medială
 
 
 <div class="rx-meta-bar">
@@ -99,24 +108,25 @@ title: Rx Cot Incidență Latero-Medială
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de Cot
-        - Certain bony pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
-        - ridicat sau displaced fat pads de Cot articulație poate fie visualized
+        - suspiciune de fractură și luxație / subluxație articulară a cotului
+        - Anumite procese patologice osoase, precum osteomielita / leziunile inflamatorii osoase și artrita
+        - pernuțele adipoase ridicate sau deplasate ale articulației cotului pot fi vizualizate
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot flectat 90° (see NOTE).; Regiune anatomică: Align axa longitudinală de Antebraț cu axa longitudinală de receptorul de imagine. Center Cot articulație la raza centrală și la center de receptorul de imagine. Drop Umăr so that Humerus și Antebraț sunt pe same plan orizontal. Rotate Mână și Pumn (Articulație Radiocarpiană) into true Incidență de Profil (lateral), Police side up. Place interepicondylar plane perpendicular pe receptorul de imagine (RI) (Fig. 4.143). Place support under Mână și Pumn (Articulație Radiocarpiană) la elevate Mână și distal Antebraț ca needed pentru heavy muscular Antebraț so that Antebraț este paralel cu receptorul de imagine pentru true lateral Cot.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midelbow articulație (point approximately 1½ inches [4 cm] medial la easily palpated posterior surface de olecran)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu cotul flectat la 90° (vezi NOTĂ).; Regiune anatomică: Aliniați axa longitudinală a antebrațului cu axa longitudinală a receptorului de imagine. Centrați articulația cotului pe raza centrală și în centrul receptorului de imagine. Coborâți umărul astfel încât humerusul și antebrațul să fie în același plan orizontal. Rotiți mâna și pumnul (articulația radiocarpiană) în incidență de profil adevărată, cu partea policelui în sus. Plasați planul interepicondilian perpendicular pe receptorul de imagine (RI) (Fig. 4.143). Plasați un suport sub mână și pumn (articulația radiocarpiană) pentru a ridica mâna și antebrațul distal, după cum este necesar pentru antebrațul cu musculatură voluminoasă, astfel încât antebrațul să fie paralel cu receptorul de imagine pentru o incidență de profil adevărată a cotului.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat spre articulația cotului, la mijloc (punct situat aproximativ la 1½ țoli [4 cm] medial față de suprafața posterioară ușor palpabilă a olecranului)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -132,19 +142,19 @@ title: Rx Cot Incidență Latero-Medială
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Incidență de Profil (lateral) de distal Humerus și proximal Antebraț, olecran, și soft tissues și fat pads de Cot articulație sunt vizibil (Figs. 4.144 și 4.145). poziție:
-    - axa longitudinală de Antebraț trebuie să fie aliniat cu axa longitudinală de receptorul de imagine, cu Cot articulație flectat 90°.
-    - About onehalf de cap radial trebuie să fie superimposed prin proces coronoid, și olecran trebuie să fie visualized în profile.
-    - True lateral incidență este indicated prin three concentric arcs de trochlear sulcus, double ridges de capitulum și trochlea, și trochlear notch de ulna. în addition, superimposition de humeral epicondyles occurs.
-    - raza centrală și center de collimation field size trebuie să fie midpoint de Cot articulație. expunere:
-    - fără mișcare și optim receptorul de imagine expunere și contrast trebuie să visualize net cortical margins și clear trabecular markings ca well ca părți moi margins de anterior și posterior fat pads. Fig. 4.143 lateral—Cot flectat 90° (Antebraț paralel cu receptorul de imagine). anterior fat pad proces coronoid Supinator fat strip R cap radial Trochlear sulcus Trochlear notch olecran Epicondyles Fig. 4.145 Lateromedial incidență de drept Cot.
+    - Incidența de profil a humerusului distal și antebrațului proximal, olecranului, țesuturilor moi și pernițelor adipoase ale articulației cotului sunt vizibile (Figs. 4.144 și 4.145). Poziție:
+    - Axa longitudinală a antebrațului trebuie să fie aliniată cu axa longitudinală a receptorului de imagine, cu articulația cotului flectată la 90°.
+    - Aproximativ jumătate din capul radial trebuie să fie suprapusă de procesul coronoid, iar olecranul trebuie să fie vizualizat de profil.
+    - Incidența de profil adevărată este indicată de trei arcuri concentrice ale șanțului trohlear, de crestele duble ale capitulului și trohleei și de incizura trohleară a ulnei. În plus, apare suprapunerea epicondililor humerali.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la mijlocul articulației cotului. Expunere:
+    - Fără mișcare și cu expunere și contrast optime ale receptorului de imagine, trebuie vizualizate marginile corticale nete și desenul trabecular clar, precum și marginile țesuturilor moi ale pernițelor adipoase anterioară și posterioară. Fig. 4.143 profil—cot flectat la 90° (antebraț paralel cu receptorul de imagine). Perniță adipoasă anterioară; proces coronoid; bandă adipoasă supinatoare; R cap radial; șanț trohlear; incizură trohleară; olecran; epicondili. Fig. 4.145 Incidență latero-medială a cotului drept.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -156,8 +166,9 @@ title: Rx Cot Incidență Latero-Medială
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Diagnosis de certain important articulație pathologic processes (e.g., possible visualization de posterior fat pad) depends pe 90° flexion de Cot articulație.3 eXCepTION: Certain părți moi diagnoses poate require less flexion (30° la 35°), but these incidențe trebuie să fie taken only when specifically indicated. Cot ROUTINE AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral (extern) medial (intern) lateral Fig. 4.144 Lateromedial incidență de drept Cot.
+    Diagnosticul anumitor procese patologice articulare importante (de exemplu, posibila vizualizare a pernuței adipoase posterioare) depinde de flexia la 90° a articulației cotului.3 eXCepTION: Anumite diagnostice ale părților moi pot necesita o flexie mai mică (30° la 35°), dar aceste incidențe trebuie efectuate numai când sunt indicate în mod specific. Cot RUTINĂ AP AP alternativă — flexie parțială AP alternativă — flexie acută oblică laterală (externă) medială (internă) laterală Fig. 4.144 Incidență latero-medială a cotului drept.
 
 
 ### 🖼️ Imagini
@@ -166,25 +177,25 @@ title: Rx Cot Incidență Latero-Medială
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.144 Lateromedial incidență de drept Cot.](../../assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_1.jpeg)
+![Fig. 4.144 Incidență latero-medială a cotului drept.](../../assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.144 Lateromedial incidență de drept Cot.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.144 Lateromedial incidență de drept cot.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.143 lateral—Cot flectat 90° (Antebraț paralel cu receptorul de imagine).](../../assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.143 lateral—Cot flectat 90° (Antebraț paralel cu receptorul de imagine).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.143 lateral—cot flectat 90° (forearm paralel cu receptorul de imagine).)</span></figcaption>
+<figcaption><strong>Fig. 4.144 Incidență latero-medială a cotului drept.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.144 Incidență latero-medială a cotului drept.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.145 Lateromedial incidență de drept Cot.](../../assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_3.jpeg)
+![Fig. 4.143 Profil—cot flectat la 90° (antebraț paralel cu receptorul de imagine).](../../assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.145 Lateromedial incidență de drept Cot.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.145 Lateromedial incidență de drept cot.)</span></figcaption>
+<figcaption><strong>Fig. 4.143 Profil—cot flectat la 90° (antebraț paralel cu receptorul de imagine).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.143 profil—cot flectat la 90° (antebraț paralel cu receptorul de imagine).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.145 Incidență latero-medială a cotului drept.](../../assets/images/protocols/bontrager/rx-cot-lateromedial-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 4.145 Incidență latero-medială a cotului drept.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.145 Incidență latero-medială a cotului drept.)</span></figcaption>
 
 </figure>
 

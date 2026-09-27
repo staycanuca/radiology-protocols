@@ -1,6 +1,6 @@
 ---
 author: Departamentul de Radiologie
-breathing: Expunere declanșată rapid în faza de inspir maxim (la plânsul copilului
+breathing: Expunere declanșată rapid în faza de inspir maxim (la plânsul copilului,
   expunerea se face la sfârșitul inspirului profund)
 category: pediatrie
 centering: Nivel medio-sternal (mamelonar)
@@ -22,7 +22,7 @@ position: 'La sugari/copii mici: decubit dorsal pe detector (sau imobilizare cu 
   Bucky'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Însoțitorul (părintele) echipat obligatoriu cu șorț și guler de plumb pe durata
   imobilizării
 - 'Principiul ALARA strict respectat: zero repetări nejustificate'
@@ -59,9 +59,9 @@ tech_params:
   kv: 60 - 70 (tehnică pediatrică adaptată)
   mas: 1.0 - 2.0 (timp de expunere ultra-scurt < 5-10 ms pentru evitarea neclarității
     cinetice)
-title: Rx Torace Pediatric (Sugar & Copil)
+title: Rx torace pediatric (sugar & copil)
 ---
-# Rx Torace Pediatric (Sugar & Copil)
+# Rx torace pediatric (sugar & copil)
 
 
 <div class="rx-meta-bar">
@@ -93,6 +93,7 @@ title: Rx Torace Pediatric (Sugar & Copil)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -100,7 +101,7 @@ title: Rx Torace Pediatric (Sugar & Copil)
     - **Poziție Pacient:** La sugari/copii mici: decubit dorsal pe detector (sau imobilizare cu dispozitiv Pigg-O-Stat în ortostatism dacă este disponibil); la copii mari: ortostatism la Bucky
     - **Punct de Centrare Fascicul:** Nivel medio-sternal (mamelonar)
     - **Distanță Focar-Film (DFF / SID):** 100 - 150 cm
-    - **Comandă Respiratorie:** Expunere declanșată rapid în faza de inspir maxim (la plânsul copilului expunerea se face la sfârșitul inspirului profund)
+    - **Comandă Respiratorie:** Expunere declanșată rapid în faza de inspir maxim (la plânsul copilului, expunerea se face la sfârșitul inspirului profund)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -130,11 +131,12 @@ title: Rx Torace Pediatric (Sugar & Copil)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Însoțitorul (părintele) echipat obligatoriu cu șorț și guler de plumb pe durata imobilizării
     - Principiul ALARA strict respectat: zero repetări nejustificate
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Timusul normal la sugari poate mări considerabil mediastinul antero-superior; nu trebuie confundat cu o tumoră mediastinală sau cardiomegalie!

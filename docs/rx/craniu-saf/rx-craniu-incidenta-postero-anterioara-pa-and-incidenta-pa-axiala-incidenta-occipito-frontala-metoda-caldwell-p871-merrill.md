@@ -33,6 +33,10 @@ images:
 - caption: Merrill — pagina 874, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-postero-anterioara-pa-and-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-p871-merrill/p874_fig6.png
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -76,7 +80,7 @@ source_sections:
     grade.
 
     Examinări pe targă și la patul pacientului'
-  collimation: • Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
+  collimation: • Se ajustează câmpul de iradiere pentru a se extinde cu 1 țol (2.5
     cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și
     pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul
     de expunere colimat.
@@ -132,10 +136,10 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5
-    cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și
-    pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul
-    de expunere colimat.
+  collimation: Se ajustează câmpul de iradiere pentru a se extinde cu 1 țol (2.5 cm)
+    dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și pe ambele
+    părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul de expunere
+    colimat.
 title: Rx Craniu — Incidență Postero-Anterioară (PA) și Incidență PA Axială — Incidență
   Occipito-Frontală (Metoda Caldwell) (Merrill)
 ---
@@ -163,11 +167,12 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) și Incidență PA Axi
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -189,7 +194,7 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) și Incidență PA Axi
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde cu 1 țol (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -205,6 +210,7 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) și Incidență PA Axi
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -276,51 +282,3 @@ title: Rx Craniu — Incidență Postero-Anterioară (PA) și Incidență PA Axi
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 871–874](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-pentru incidența PA cu raza centrală perpendiculară (Fig. 11.60), orbitele sunt ocupate de marginile stâncilor temporale (piramidele pietroase). Alte structuri vizualizate includ celulele etmoidale aerice posterioare, crista galli, osul frontal și sinusurile frontale. Dorsum sellae este vizibil ca o linie curbată care se extinde între orbite, imediat deasupra celulelor etmoidale aerice.
-Când raza centrală este înclinată cu 15 grade caudal spre nazion pentru incidența PA axială, metoda Caldwell, sunt vizibile multe dintre aceleași structuri care apar în incidența PA (Fig. 11.61); totuși, stâncile temporale (piramidele pietroase) sunt proiectate în treimea inferioară a orbitelor. Metoda Caldwell evidențiază, de asemenea, celulele etmoidale aerice anterioare. Schüller, 2 care a descris primul această poziționare pentru craniu, a recomandat un unghi caudal de 25
-grade.
-Examinări pe targă și la patul pacientului
-
-### colimare
-
-• Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Se verifică lumina la vertex și pe ambele părți (bilateral). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• pentru incidența PA, când osul frontal este de interes principal, se orientează raza centrală perpendicular pe nazion (Fig. 11.56).
-• pentru incidența PA axială, metoda Caldwell, se orientează raza centrală spre nazion, la un unghi de 15 grade caudal (Figs. 11.57–
-11.59).
-• Se centrează receptorul de imagine pe raza centrală.
-• pentru evidențierea fisurilor orbitare superioare, se orientează raza centrală prin mijlocul orbitelor, la un unghi de 20 la 25 grade caudal.
-• pentru evidențierea foramina rotundum, se orientează raza centrală spre nazion, la un unghi de 25 la 30 grade caudal. (Metoda Waters,
-prezentată în secțiunea Radiografia sinusurilor, este de asemenea utilizată pentru evidențierea foramina rotundum.)
-
-### part_pos
-
-• se ajustează flexia gâtului pacientului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine.
-• Dacă pacientul este în decubit, se sprijină bărbia pe un burete radiotransparent, dacă este necesar.
-• Dacă pacientul este obez sau hiperstenic, poate fi necesar să se plaseze un burete radiotransparent mic sub (sau în fața) frunții.
-• Se aliniază MSP perpendicular pe receptorul de imagine (RI). Aceasta se realizează prin ajustarea marginilor laterale ale orbitelor sau ale conductelor auditive externe (CAE), la distanțe egale față de masa de examinare.
-• se imobilizează capul pacientului și se centrează receptorul de imagine la nazion.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral sau în poziție șezândă pe scaun.
-• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
-• se sprijină fruntea și nasul pacientului pe masa de examinare sau pe stativul vertical Bucky.
-• se flectează coatele pacientului și se așază brațele într-o poziție confortabilă.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

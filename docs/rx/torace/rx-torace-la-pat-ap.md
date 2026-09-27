@@ -1,17 +1,17 @@
 ---
 author: Departamentul de Radiologie
-breathing: Apnee la sfârșitul inspirului (sincronizat cu ventilatorul mecanic la pacientul
-  intubat)
+breathing: Apnee la sfârșitul inspirului (sincronizată cu ventilatorul mecanic la
+  pacientul intubat)
 category: torace
 centering: Nivel medio-sternal, perpendicular pe detector (sau ușor angulat caudal
-  5° dacă pacientul este semi-șezând)
+  cu 5° dacă pacientul este semișezând)
 clinical_indications:
 - Pacient nedeplasabil, critic, intubat sau monitorizat în Terapie Intensivă (ATI)
-- Control poziție cateter venos central (CVC), tub de dren toracic, sondă intubație
-  IOT
-- Evaluare rapidă edem pulmonar acut, pneumotorax sub tensiune sau atelectazie la
-  pat
-- Monitorizare postoperatorie toracică / cardiacă
+- Verificarea poziției cateterului venos central (CVC), a tubului de dren toracic
+  și a sondei de intubație IOT
+- Evaluare rapidă la pat a edemului pulmonar acut, pneumotoraxului sub tensiune sau
+  atelectaziei
+- Monitorizare toracică / cardiacă postoperatorie
 iris_reference:
   chapter: Torace & Pulmon
   radiation_dose: Clasa 1 (Minimă < 0.08 mSv)
@@ -20,16 +20,16 @@ last_updated: '2026-09-15'
 modality: rx
 notes: Silueta cardiacă apare mărită dimensional în proiecția AP față de PA standard
   din cauza divergenței fasciculului; nu se măsoară indexul cardiotoracic pe AP.
-position: Decubit dorsal sau semi-șezând (Fowler) la pat, caseta/detectorul digital
-  plasat posterior în spatele toracelui
+position: Decubit dorsal sau semișezând (Fowler) la pat, cu caseta/detectorul digital
+  plasat posterior, în spatele toracelui
 protection:
-- Distanțare de siguranță a personalului medical la minim 2 metri în timpul expunerii
+- Distanțarea de siguranță a personalului medical la minimum 2 metri în timpul expunerii
 - Șorțuri de plumb pentru personalul prezent în salonul ATI
 quality_criteria:
 - Vârful sondei IOT la 3-5 cm deasupra carinei
-- Traiectul CVC vizualizat la joncțiunea venă cavă superioară / atriu drept
-- Includerea completă ambelor hemidiafragme și unghiurilor costofrenice
-- Notarea obligatorie pe imagine incidenței AP la pat și poziției (șezând/decubit)
+- Traiectul CVC vizualizat la joncțiunea venei cave superioare cu atriul drept
+- Includerea completă a ambelor hemidiafragme și a unghiurilor costofrenice
+- Notarea obligatorie pe imagine a incidenței AP la pat și a poziției (șezând/decubit)
 sid_dff: 100 - 120 cm (adaptat la distanța aparatului mobil)
 slug: rx-torace-la-pat-ap
 sources:
@@ -55,16 +55,16 @@ sources:
   title: Radiopaedia — X-ray Positioning and Projections Reference
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
-  aec_chambers: Mod manual / expunere pre-calibrată
-  collimation: Strictă la marginile toracelui
+  aec_chambers: Mod manual / expunere precalibrată
+  collimation: Strict la marginile toracelui
   filtration: Totală ≥ 2.5 mm Al
-  focal_spot: Focar Mic sau Mare
-  grid: Opțional grilă mobilă (sau procesare software anti-scatter / gridless)
+  focal_spot: Focar mic sau mare
+  grid: Opțional, grilă mobilă (sau procesare software antiîmprăștiere / fără grilă)
   kv: 85 - 95 (fără grilă mobilă) sau 110 (cu grilă mobilă)
   mas: 2.5 - 5
-title: Rx Torace la Pat / Decubit (AP)
+title: Radiografie toracică la pat / decubit (AP)
 ---
-# Rx Torace la Pat / Decubit (AP)
+# Radiografie toracică la pat / decubit (AP)
 
 
 <div class="rx-meta-bar">
@@ -84,9 +84,9 @@ title: Rx Torace la Pat / Decubit (AP)
     === "Indicații Clinice"
 
         - Pacient nedeplasabil, critic, intubat sau monitorizat în Terapie Intensivă (ATI)
-        - Control poziție cateter venos central (CVC), tub de dren toracic, sondă intubație IOT
-        - Evaluare rapidă edem pulmonar acut, pneumotorax sub tensiune sau atelectazie la pat
-        - Monitorizare postoperatorie toracică / cardiacă
+        - Verificarea poziției cateterului venos central (CVC), a tubului de dren toracic și a sondei de intubație IOT
+        - Evaluare rapidă la pat a edemului pulmonar acut, pneumotoraxului sub tensiune sau atelectaziei
+        - Monitorizare toracică / cardiacă postoperatorie
 
     === "Ghid Național IRIS"
 
@@ -96,14 +96,15 @@ title: Rx Torace la Pat / Decubit (AP)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.08 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Decubit dorsal sau semi-șezând (Fowler) la pat, caseta/detectorul digital plasat posterior în spatele toracelui
-    - **Punct de Centrare Fascicul:** Nivel medio-sternal, perpendicular pe detector (sau ușor angulat caudal 5° dacă pacientul este semi-șezând)
+    - **Poziție Pacient:** Decubit dorsal sau semișezând (Fowler) la pat, cu caseta/detectorul digital plasat posterior, în spatele toracelui
+    - **Punct de Centrare Fascicul:** Nivel medio-sternal, perpendicular pe detector (sau ușor angulat caudal cu 5° dacă pacientul este semișezând)
     - **Distanță Focar-Film (DFF / SID):** 100 - 120 cm (adaptat la distanța aparatului mobil)
-    - **Comandă Respiratorie:** Apnee la sfârșitul inspirului (sincronizat cu ventilatorul mecanic la pacientul intubat)
+    - **Comandă Respiratorie:** Apnee la sfârșitul inspirului (sincronizată cu ventilatorul mecanic la pacientul intubat)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -114,10 +115,10 @@ title: Rx Torace la Pat / Decubit (AP)
     | **Tensiune Tub (kV)** | 85 - 95 (fără grilă mobilă) sau 110 (cu grilă mobilă) kV |
     | **Sarcină / Produs Curent-Timp (mAs)** | 2.5 - 5 mAs |
     | **Distanță Focar-Film (DFF / SID)** | 100 - 120 cm (adaptat la distanța aparatului mobil) |
-    | **Grilă Antidifuzoare (Bucky)** | Opțional grilă mobilă (sau procesare software anti-scatter / gridless) |
-    | **Dimensiune Focar** | Focar Mic sau Mare |
-    | **Camere de Ionizare AEC** | Mod manual / expunere pre-calibrată |
-    | **Colimare Fascicul** | Strictă la marginile toracelui |
+    | **Grilă Antidifuzoare (Bucky)** | Opțional, grilă mobilă (sau procesare software antiîmprăștiere / fără grilă) |
+    | **Dimensiune Focar** | Focar mic sau mare |
+    | **Camere de Ionizare AEC** | Mod manual / expunere precalibrată |
+    | **Colimare Fascicul** | Strict la marginile toracelui |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -125,18 +126,19 @@ title: Rx Torace la Pat / Decubit (AP)
     ---
 
     - Vârful sondei IOT la 3-5 cm deasupra carinei
-    - Traiectul CVC vizualizat la joncțiunea venă cavă superioară / atriu drept
-    - Includerea completă ambelor hemidiafragme și unghiurilor costofrenice
-    - Notarea obligatorie pe imagine incidenței AP la pat și poziției (șezând/decubit)
+    - Traiectul CVC vizualizat la joncțiunea venei cave superioare cu atriul drept
+    - Includerea completă a ambelor hemidiafragme și a unghiurilor costofrenice
+    - Notarea obligatorie pe imagine a incidenței AP la pat și a poziției (șezând/decubit)
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Distanțare de siguranță a personalului medical la minim 2 metri în timpul expunerii
+    - Distanțarea de siguranță a personalului medical la minimum 2 metri în timpul expunerii
     - Șorțuri de plumb pentru personalul prezent în salonul ATI
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Silueta cardiacă apare mărită dimensional în proiecția AP față de PA standard din cauza divergenței fasciculului; nu se măsoară indexul cardiotoracic pe AP.

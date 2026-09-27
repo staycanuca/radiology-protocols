@@ -1,22 +1,24 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made pe peak inspiration
+breathing: Expunerea se efectuează la inspir maxim
 category: pediatrie
-centering: '• Direct raza centrală verticală centrală la drept-angles la middle de
-  caseta în mid-axillary line.
+centering: '• Direcționați raza centrală verticală perpendicular pe mijlocul casetei,
+  în linia medioaxilară.
 
-  • expunere este made pe peak inspiration.'
+  • Expunerea se efectuează la inspir maxim.'
 clinical_indications:
-- "397 14 Chest – post-neonatal Profil (lateral) This incidență suplimentară este\
-  \ undertaken la locate poziție de inhaled sau swallowed corp străin radiopac, la\
-  \ evaluate middle lobe pathology sau la localize opacities evidențiat pe Postero-anterior\
-  \ (PA)/Antero-posterior (AP) incidență. A 24 \x02 30-cm casetă este selected."
+- 397 14 Torace – post-neonatal Profil (lateral) Această incidență suplimentară se
+  efectuează pentru localizarea poziției unui corp străin radiopac inhalat sau înghițit,
+  pentru evaluarea unei patologii a lobului mijlociu sau pentru localizarea opacităților
+  evidențiate pe incidența postero-anterioară (PA)/antero-posterioară (AP). Se selectează
+  o casetă de 24 × 30 cm.
 images:
-- caption: pe exposed radiografie, bone detail este effaced la consid-
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Pe radiografia expusă, detaliul osos este estompat într-o măsură considerabilă
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark/fig_1.jpeg
-- caption: Profil (lateral) chest radiografie evidențiind pulmonary abscess și nivele
-    hidroaerice
+- caption: Radiografie toracică de profil (lateral) evidențiind abces pulmonar și
+    niveluri hidroaerice
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark/fig_2.jpeg
@@ -28,16 +30,20 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark/fig_4.jpeg
+iris_reference:
+  chapter: Pediatrie — Torace, pulmon, cord
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este întors la bring side under investigation spre caseta.
-  planul mediosagital este ajustat paralel cu casetă.
+position: '• Pacientul este întors pentru a aduce partea investigată spre casetă.
+  Planul mediosagital este ajustat paralel cu caseta.
 
-  • outstretched brațe sunt raised above capul și sprijinit.
+  • Brațele întinse sunt ridicate deasupra capului și sprijinite.
 
-  • mid-axillary line este coincident cu middle de caseta, și caseta este ajustat
-  pentru include Vârfuri Pulmonare (Apexuri) și inferior lobes.'
+  • Linia medioaxilară coincide cu mijlocul casetei, iar caseta este ajustată pentru
+  a include vârfurile pulmonare (apexurile) și lobii inferiori.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -46,27 +52,30 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Peak inspiration (six anterior Coaste (Grilaj Costal) above cupole diafragmatice).
-- Whole chest de la C7 la L1.
-- Stern și coloană vertebrală la fie included și la fie true Profil (lateral).
-- Visualization de whole trachea și major bronchi.
-- Visually reproducere netă contururilor de whole de ambele domes de cupole diafragmatice.
-- Reproduction de hilar vessels.
-- Reproduction de Stern și thoracic coloană vertebrală. Cincinnati filter device use
-  de this filter device este employed în cases de suspected inhaled corp străin radiopac
-  when Antero-posterior (AP) imagine de toracele este acquired cu child culcat Decubit
-  dorsal. Cincinnati filter este composed de 2mm de aluminium, 0.5mm de copper și
-  0.4mm de tin inserted into collimator box astfel încât copper layer este spre -X-ray
-  tube. expuneri used sunt în range de 125–140kVp și 10–16mAs, using casetă și grilă
-  system. pe exposed radiografie, bone detail este effaced la considerable grade,
-  allowing părți moi și air interfaces în mediastinum și adjacent lung la fie seen.
-  trachea și proximal bronchial anatomy sunt evidențiat well. CT scout scanogram poate
-  fie considered ca alternative. Careful handling este always advisable în children
-  suspected la have inhaled corp străin radiopac, ca dislodgement poate result în
-  total airway obstruction. R L Child poziție pentru Profil (lateral) incidență de
-  toracele Profil (lateral) chest radiografie evidențiind pulmonary abscess și nivele
-  hidroaerice Cincinnati filter device Coned imagine de Antero-posterior (AP) chest
-  cu Cincinnati filter la show trachea și proximal bronchi
+- Inspir maxim (șase coaste anterioare deasupra cupolelor diafragmatice).
+- Toracele în întregime, de la C7 la L1.
+- Sternul și coloana vertebrală trebuie incluse și trebuie să fie în profil adevărat
+  (lateral).
+- Vizualizarea întregii trahee și a bronhiilor principale.
+- Reproducerea vizuală clară a contururilor ambelor cupole diafragmatice în întregime.
+- Reproducerea vaselor hilare.
+- Reproducerea sternului și a coloanei vertebrale toracice. Dispozitivul cu filtru
+  Cincinnati. Utilizarea acestui dispozitiv cu filtru se face în cazurile de suspiciune
+  de corp străin radiopac inhalat, când imaginea antero-posterioară (AP) a toracelui
+  este obținută cu copilul în decubit dorsal. Filtrul Cincinnati este alcătuit din
+  2 mm de aluminiu, 0,5 mm de cupru și 0,4 mm de staniu, introduse în cutia colimatorului
+  astfel încât stratul de cupru să fie orientat spre tubul de raze X. Expunerile utilizate
+  sunt în intervalul 125–140 kVp și 10–16 mAs, folosind un sistem cu casetă și grilă.
+  Pe radiografia expusă, detaliul osos este estompat într-o măsură considerabilă,
+  permițând vizualizarea părților moi și a interfețelor aerice din mediastin și din
+  plămânul adiacent. Traheea și anatomia bronșică proximală sunt bine evidențiate.
+  Scanograma de recunoaștere CT poate fi considerată o alternativă. Manipularea atentă
+  este întotdeauna recomandată la copiii suspectați că au inhalat un corp străin radiopac,
+  deoarece dislocarea acestuia poate duce la obstrucția totală a căilor respiratorii.
+  R L Poziția copilului pentru incidența de profil (lateral) a toracelui. Radiografie
+  toracică de profil (lateral) evidențiind abces pulmonar și niveluri hidroaerice.
+  Dispozitiv cu filtru Cincinnati. Imagine conizată antero-posterioară (AP) a toracelui
+  cu filtru Cincinnati, pentru evidențierea traheei și a bronhiilor proximale.
 sid_dff: 100 cm
 slug: rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark
 sources:
@@ -75,14 +84,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: 125-140
-  mas: Conform AEC / grosime anatomică
-title: Rx Torace Pediatric (Post-Neonatal) Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx torace pediatric (post-neonatal) profil (lateral)
 ---
-# Rx Torace Pediatric (Post-Neonatal) Profil (Lateral)
+# Rx torace pediatric (post-neonatal) profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -101,27 +110,30 @@ title: Rx Torace Pediatric (Post-Neonatal) Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - 397 14 Chest – post-neonatal Profil (lateral) This incidență suplimentară este undertaken la locate poziție de inhaled sau swallowed corp străin radiopac, la evaluate middle lobe pathology sau la localize opacities evidențiat pe Postero-anterior (PA)/Antero-posterior (AP) incidență. A 24  30-cm casetă este selected.
+        - 397 14 Torace – post-neonatal Profil (lateral) Această incidență suplimentară se efectuează pentru localizarea poziției unui corp străin radiopac inhalat sau înghițit, pentru evaluarea unei patologii a lobului mijlociu sau pentru localizarea opacităților evidențiate pe incidența postero-anterioară (PA)/antero-posterioară (AP). Se selectează o casetă de 24 × 30 cm.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Torace, pulmon, cord*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este întors la bring side under investigation spre caseta. planul mediosagital este ajustat paralel cu casetă.
-• outstretched brațe sunt raised above capul și sprijinit.
-• mid-axillary line este coincident cu middle de caseta, și caseta este ajustat pentru include Vârfuri Pulmonare (Apexuri) și inferior lobes.
-    - **Punct de Centrare Fascicul:** • Direct raza centrală verticală centrală la drept-angles la middle de caseta în mid-axillary line.
-• expunere este made pe peak inspiration.
+    - **Poziție Pacient:**
+        - Pacientul este întors pentru a aduce partea investigată spre casetă. Planul mediosagital este ajustat paralel cu caseta.
+        - Brațele întinse sunt ridicate deasupra capului și sprijinite.
+        - Linia medioaxilară coincide cu mijlocul casetei, iar caseta este ajustată pentru a include vârfurile pulmonare (apexurile) și lobii inferiori.
+    - **Punct de Centrare Fascicul:**
+        - Direcționați raza centrală verticală perpendicular pe mijlocul casetei, în linia medioaxilară.
+        - Expunerea se efectuează la inspir maxim.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made pe peak inspiration
+    - **Comandă Respiratorie:** Expunerea se efectuează la inspir maxim
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -130,25 +142,25 @@ title: Rx Torace Pediatric (Post-Neonatal) Profil (Lateral)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | 125-140 kV |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Peak inspiration (six anterior Coaste (Grilaj Costal) above cupole diafragmatice).
-    - Whole chest de la C7 la L1.
-    - Stern și coloană vertebrală la fie included și la fie true Profil (lateral).
-    - Visualization de whole trachea și major bronchi.
-    - Visually reproducere netă contururilor de whole de ambele domes de cupole diafragmatice.
-    - Reproduction de hilar vessels.
-    - Reproduction de Stern și thoracic coloană vertebrală. Cincinnati filter device use de this filter device este employed în cases de suspected inhaled corp străin radiopac when Antero-posterior (AP) imagine de toracele este acquired cu child culcat Decubit dorsal. Cincinnati filter este composed de 2mm de aluminium, 0.5mm de copper și 0.4mm de tin inserted into collimator box astfel încât copper layer este spre -X-ray tube. expuneri used sunt în range de 125–140kVp și 10–16mAs, using casetă și grilă system. pe exposed radiografie, bone detail este effaced la considerable grade, allowing părți moi și air interfaces în mediastinum și adjacent lung la fie seen. trachea și proximal bronchial anatomy sunt evidențiat well. CT scout scanogram poate fie considered ca alternative. Careful handling este always advisable în children suspected la have inhaled corp străin radiopac, ca dislodgement poate result în total airway obstruction. R L Child poziție pentru Profil (lateral) incidență de toracele Profil (lateral) chest radiografie evidențiind pulmonary abscess și nivele hidroaerice Cincinnati filter device Coned imagine de Antero-posterior (AP) chest cu Cincinnati filter la show trachea și proximal bronchi
+    - Inspir maxim (șase coaste anterioare deasupra cupolelor diafragmatice).
+    - Toracele în întregime, de la C7 la L1.
+    - Sternul și coloana vertebrală trebuie incluse și trebuie să fie în profil adevărat (lateral).
+    - Vizualizarea întregii trahee și a bronhiilor principale.
+    - Reproducerea vizuală clară a contururilor ambelor cupole diafragmatice în întregime.
+    - Reproducerea vaselor hilare.
+    - Reproducerea sternului și a coloanei vertebrale toracice. Dispozitivul cu filtru Cincinnati. Utilizarea acestui dispozitiv cu filtru se face în cazurile de suspiciune de corp străin radiopac inhalat, când imaginea antero-posterioară (AP) a toracelui este obținută cu copilul în decubit dorsal. Filtrul Cincinnati este alcătuit din 2 mm de aluminiu, 0,5 mm de cupru și 0,4 mm de staniu, introduse în cutia colimatorului astfel încât stratul de cupru să fie orientat spre tubul de raze X. Expunerile utilizate sunt în intervalul 125–140 kVp și 10–16 mAs, folosind un sistem cu casetă și grilă. Pe radiografia expusă, detaliul osos este estompat într-o măsură considerabilă, permițând vizualizarea părților moi și a interfețelor aerice din mediastin și din plămânul adiacent. Traheea și anatomia bronșică proximală sunt bine evidențiate. Scanograma de recunoaștere CT poate fi considerată o alternativă. Manipularea atentă este întotdeauna recomandată la copiii suspectați că au inhalat un corp străin radiopac, deoarece dislocarea acestuia poate duce la obstrucția totală a căilor respiratorii. R L Poziția copilului pentru incidența de profil (lateral) a toracelui. Radiografie toracică de profil (lateral) evidențiind abces pulmonar și niveluri hidroaerice. Dispozitiv cu filtru Cincinnati. Imagine conizată antero-posterioară (AP) a toracelui cu filtru Cincinnati, pentru evidențierea traheei și a bronhiilor proximale.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,6 +172,7 @@ title: Rx Torace Pediatric (Post-Neonatal) Profil (Lateral)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -170,17 +183,17 @@ title: Rx Torace Pediatric (Post-Neonatal) Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![pe exposed radiografie, bone detail este effaced la consid-](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark/fig_1.jpeg)
+![Pe radiografia expusă, detaliul osos este estompat într-o măsură considerabilă](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark/fig_1.jpeg)
 
-<figcaption><strong>pe exposed radiografie, bone detail este effaced la consid-</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Pe radiografia expusă, detaliul osos este estompat într-o măsură considerabilă</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) chest radiografie evidențiind pulmonary abscess și nivele hidroaerice](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark/fig_2.jpeg)
+![Radiografie toracică de profil (lateral) evidențiind abces pulmonar și niveluri hidroaerice](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-profil-lateral-p412-clark/fig_2.jpeg)
 
-<figcaption><strong>Profil (lateral) chest radiografie evidențiind pulmonary abscess și nivele hidroaerice</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie toracică de profil (lateral) evidențiind abces pulmonar și niveluri hidroaerice</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

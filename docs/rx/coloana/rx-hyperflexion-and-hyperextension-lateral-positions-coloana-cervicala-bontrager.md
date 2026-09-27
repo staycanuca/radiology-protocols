@@ -29,6 +29,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     5)
   url: assets/images/protocols/bontrager/rx-hyperflexion-and-hyperextension-lateral-positions-coloana-cervicala-bontrager/fig_5.png
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Acestea sunt inconfortabile pentru pacient; nu mențineți pacientul în aceste
@@ -104,11 +108,12 @@ title: Rx HIPERFLEXIE ȘI HIPEREXTENSIE, PROFIL Poziționare (- Coloană Cervica
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -153,6 +158,7 @@ title: Rx HIPERFLEXIE ȘI HIPEREXTENSIE, PROFIL Poziționare (- Coloană Cervica
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Acestea sunt inconfortabile pentru pacient; nu mențineți pacientul în aceste poziții mai mult decât este necesar. Coloană cervicală SPECIALĂ. Incidență de profil cervicotoracică (înotătorului), profil—hiperflexie și hiperextensie. Fig. 8.65 Hiperflexie. Fig. 8.66 Hiperextensie.

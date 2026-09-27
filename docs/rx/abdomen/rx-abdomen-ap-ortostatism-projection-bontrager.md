@@ -10,12 +10,12 @@ breathing: La sugari și copii mici, se monitorizează dinamica respiratorie; ex
   în decubit lateral și dorsal
 category: abdomen
 centering: La sugari și copii mici, centrați raza centrală și receptorul de imagine
-  la 1 inch (2.5 cm) deasupra ombilicului. La copiii mai mari și adolescenți, centrați
-  raza centrală la aproximativ 1 inch (2.5 cm) până la 2 inchi (5 cm) (în funcție
-  de înălțimea copilului) deasupra nivelului crestei iliace (corespunzător L4-L5),
-  astfel încât marginea superioară a câmpului colimat și marginea superioară a filmului
-  radiologic să fie la nivelul axilei, pentru a include cupolele diafragmatice pe
-  receptorul de imagine.
+  la 1 țol (2.5 cm) deasupra ombilicului. La copiii mai mari și adolescenți, centrați
+  raza centrală la aproximativ 1 țol (2.5 cm) până la 2 inchi (5 cm) (în funcție de
+  înălțimea copilului) deasupra nivelului crestei iliace (corespunzător L4-L5), astfel
+  încât marginea superioară a câmpului colimat și marginea superioară a filmului radiologic
+  să fie la nivelul axilei, pentru a include cupolele diafragmatice pe receptorul
+  de imagine.
 clinical_indications:
 - Patologie abdominală, inclusiv posibilă ocluzie intestinală (niveluri hidroaerice),
   prin evidențierea nivelurilor hidroaerice sau a aerului liber intraabdominal. În
@@ -36,6 +36,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.63
     Abdomen AP în ortostatism (evidențiază niveluri hidroaerice și)
   url: assets/images/protocols/bontrager/rx-abdomen-ap-ortostatism-projection-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -104,17 +108,18 @@ title: Rx Abdomen AP în Ortostatism
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** La sugari și copii mici, centrați raza centrală și receptorul de imagine la 1 inch (2.5 cm) deasupra ombilicului. La copiii mai mari și adolescenți, centrați raza centrală la aproximativ 1 inch (2.5 cm) până la 2 inchi (5 cm) (în funcție de înălțimea copilului) deasupra nivelului crestei iliace (corespunzător L4-L5), astfel încât marginea superioară a câmpului colimat și marginea superioară a filmului radiologic să fie la nivelul axilei, pentru a include cupolele diafragmatice pe receptorul de imagine.
+    - **Punct de Centrare Fascicul:** La sugari și copii mici, centrați raza centrală și receptorul de imagine la 1 țol (2.5 cm) deasupra ombilicului. La copiii mai mari și adolescenți, centrați raza centrală la aproximativ 1 țol (2.5 cm) până la 2 inchi (5 cm) (în funcție de înălțimea copilului) deasupra nivelului crestei iliace (corespunzător L4-L5), astfel încât marginea superioară a câmpului colimat și marginea superioară a filmului radiologic să fie la nivelul axilei, pentru a include cupolele diafragmatice pe receptorul de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** La sugari și copii mici, se monitorizează dinamica respiratorie; expunerea se efectuează când toracele/abdomenul este imobil. Când abdomenul este imobil, se declanșează expunerea. Dacă pacientul plânge, expunerea se efectuează în momentul în care copilul inspiră adânc înainte de a plânge. Copiii cu vârsta peste 5 ani pot menține de regulă apneea după o scurtă simulare/exersare prealabilă. Fig. 16.61 Abdomen AP în ortostatism. (Părintele care susține copilul trebuie să poarte șorț și mănuși de protecție cu plumb.) Abdomen DE RUTINĂ AP (KUB) SPECIALE AP în ortostatism, în decubit lateral și dorsal
 

@@ -2,33 +2,38 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: angle cu ulnar deviation, alternate modified Incidență Scafoid (Metoda
-  Stecher) Radial deviation Carpal canal Carpal bridge Fig. 4.115 Carpal bridge—tangențial
-  incidență; raza centrală 45° la Antebraț.
+centering: unghi cu deviație ulnară, incidență modificată alternativă pentru scafoid
+  (metoda Stecher) deviație radială canal carpian punte carpiană Fig. 4.115 Punte
+  carpiană—incidență tangențială; raza centrală la 45° față de antebraț.
 clinical_indications:
-- Calcification sau other pathology de dorsal (posterior) aspect de oase carpiene
+- Calcificare sau altă patologie a aspectului dorsal (posterior) al oaselor carpiene
 images:
-- caption: Fig. 4.115 Carpal bridge—tangențial incidență; raza centrală 45° la Antebraț.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.115 Carpal bridge—tangențial
-    incidență; raza centrală 45° la forearm.)
+- caption: Fig. 4.115 Punte carpiană—incidență tangențială; raza centrală la 45° față
+    de antebraț.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.115 Punte
+    carpiană—incidență tangențială; raza centrală la 45° față de antebraț.)
   url: assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_1.jpeg
-- caption: Fig. 4.116 Carpal bridge tangențial incidență de drept Pumn (Articulație
-    Radiocarpiană).
+- caption: Fig. 4.116 Punte carpiană, incidență tangențială a pumnului drept.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.116
-    Carpal bridge tangențial incidență de drept wrist.)
+    Punte carpiană, incidență tangențială a pumnului drept.)
   url: assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_2.jpeg
-- caption: Fig. 4.117 Carpal bridge.
+- caption: Fig. 4.117 Punte carpiană.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.117
-    Carpal bridge.)
+    Punte carpiană.)
   url: assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Have pacient stand sau sit la end de masa de examinare și then
-  lean over și place dorsal surface de Mână, palm upward, pe receptorul de imagine.;
-  Regiune anatomică: Center dorsal aspect de oase carpiene la receptorul de imagine.
-  Gently flex Pumn (Articulație Radiocarpiană) ca far ca pacient poate tolerate, sau
-  until Mână și Antebraț form ca near a 90° (drept) angle ca possible (Fig. 4.115).'
+position: 'Pacient: Pacientul să stea sau să șadă la capătul mesei de examinare, apoi
+  să se aplece și să așeze suprafața dorsală a mâinii, cu palma în sus, pe receptorul
+  de imagine.; Regiune anatomică: Centrați aspectul dorsal al oaselor carpiene la
+  receptorul de imagine. Flectați ușor pumnul atât cât poate tolera pacientul sau
+  până când mâna și antebrațul formează un unghi cât mai apropiat de 90° (drept) posibil
+  (Fig. 4.115).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -36,21 +41,22 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- tangențial incidență de dorsal aspect de scaphoid, lunate, și triquetrum este vizibil.
-- 'Outline de capitate și trapezium superimposed este vizibil (Figs. 4.116 și 4.117).
-  poziție:'
-- dorsal aspect de oase carpiene trebuie să fie visualized clear de superimposition
-  și centrat pe receptorul de imagine.
-- 'raza centrală și center de collimation field size trebuie să fie la area de dorsal
-  oase carpiene. expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să evidențiază
-  dorsal aspect de oase carpiene, cu net margini și clear, Contururi osoase și travee
-  trabeculare nete, fără artefacte de mișcare.
-- Outlines de proximal oase metacarpiene trebuie să fie visualized through superimposed
-  structures fără overexposure de dorsal aspects de oase carpiene seen în profile.
-  R Fig. 4.116 Carpal bridge tangențial incidență de drept Pumn (Articulație Radiocarpiană).
-  Capitate 5th metacarpal Triquetrum Trapezium și trapezoid Police Scaphoid Lunate
-  R Fig. 4.117 Carpal bridge.
+- În incidența tangențială este vizibil aspectul dorsal al scafoidului, semilunarului
+  și piramidalului.
+- 'Conturul suprapus al osului capitat și al trapezului este vizibil (Fig. 4.116 și
+  4.117). Poziție:'
+- Aspectul dorsal al oaselor carpiene trebuie vizualizat clar, fără suprapuneri, și
+  centrat pe receptorul de imagine.
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul oaselor
+  carpiene dorsale. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie
+  să evidențieze aspectul dorsal al oaselor carpiene, cu margini nete și contururi
+  osoase și travee trabeculare clare, fără artefacte de mișcare.
+- Contururile porțiunilor proximale ale metacarpienelor trebuie vizualizate prin structurile
+  suprapuse, fără supraexpunerea fețelor dorsale ale oaselor carpiene văzute din profil.
+  R Fig. 4.116 Incidență tangențială a punții carpiene a pumnului (articulației radiocarpiene)
+  drept. Capitat; metacarpianul 5; piramidal; trapez și trapezoid; police; scafoid;
+  semilunar. R Fig. 4.117 Punte carpiană.
 sid_dff: 100 cm
 slug: rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager
 sources:
@@ -58,16 +64,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'Field Size Collimate pe four sides la anatomy de interest. Pumn (Articulație
-    Radiocarpiană) SPECIAL Scaphoid incidențe:'
+  collimation: 'Dimensiunea câmpului: colimați pe patru laturi la nivelul anatomiei
+    de interes. Pumn—incidențe SPECIALE pentru scafoid:'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx TANGENTIAL Incidență CARPAL BRIDGE (Pumn (Articulație Radiocarpiană))
+title: Rx incidență tangențială PUNTE CARPIANĂ (Pumn (Articulație radiocarpiană))
 ---
-# Rx TANGENTIAL Incidență CARPAL BRIDGE (Pumn (Articulație Radiocarpiană))
+# Rx incidență tangențială PUNTE CARPIANĂ (Pumn (Articulație radiocarpiană))
 
 
 <div class="rx-meta-bar">
@@ -86,22 +92,23 @@ title: Rx TANGENTIAL Incidență CARPAL BRIDGE (Pumn (Articulație Radiocarpian�
 
     === "Indicații Clinice"
 
-        - Calcification sau other pathology de dorsal (posterior) aspect de oase carpiene
+        - Calcificare sau altă patologie a aspectului dorsal (posterior) al oaselor carpiene
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Have pacient stand sau sit la end de masa de examinare și then lean over și place dorsal surface de Mână, palm upward, pe receptorul de imagine.; Regiune anatomică: Center dorsal aspect de oase carpiene la receptorul de imagine. Gently flex Pumn (Articulație Radiocarpiană) ca far ca pacient poate tolerate, sau until Mână și Antebraț form ca near a 90° (drept) angle ca possible (Fig. 4.115).
-    - **Punct de Centrare Fascicul:** angle cu ulnar deviation, alternate modified Incidență Scafoid (Metoda Stecher) Radial deviation Carpal canal Carpal bridge Fig. 4.115 Carpal bridge—tangențial incidență; raza centrală 45° la Antebraț.
+    - **Poziție Pacient:** Pacient: Pacientul să stea sau să șadă la capătul mesei de examinare, apoi să se aplece și să așeze suprafața dorsală a mâinii, cu palma în sus, pe receptorul de imagine.; Regiune anatomică: Centrați aspectul dorsal al oaselor carpiene la receptorul de imagine. Flectați ușor pumnul atât cât poate tolera pacientul sau până când mâna și antebrațul formează un unghi cât mai apropiat de 90° (drept) posibil (Fig. 4.115).
+    - **Punct de Centrare Fascicul:** unghi cu deviație ulnară, incidență modificată alternativă pentru scafoid (metoda Stecher) deviație radială canal carpian punte carpiană Fig. 4.115 Punte carpiană—incidență tangențială; raza centrală la 45° față de antebraț.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -117,19 +124,19 @@ title: Rx TANGENTIAL Incidență CARPAL BRIDGE (Pumn (Articulație Radiocarpian�
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. Pumn (Articulație Radiocarpiană) SPECIAL Scaphoid incidențe: |
+    | **Colimare Fascicul** | Dimensiunea câmpului: colimați pe patru laturi la nivelul anatomiei de interes. Pumn—incidențe SPECIALE pentru scafoid: |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - tangențial incidență de dorsal aspect de scaphoid, lunate, și triquetrum este vizibil.
-    - Outline de capitate și trapezium superimposed este vizibil (Figs. 4.116 și 4.117). poziție:
-    - dorsal aspect de oase carpiene trebuie să fie visualized clear de superimposition și centrat pe receptorul de imagine.
-    - raza centrală și center de collimation field size trebuie să fie la area de dorsal oase carpiene. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să evidențiază dorsal aspect de oase carpiene, cu net margini și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
-    - Outlines de proximal oase metacarpiene trebuie să fie visualized through superimposed structures fără overexposure de dorsal aspects de oase carpiene seen în profile. R Fig. 4.116 Carpal bridge tangențial incidență de drept Pumn (Articulație Radiocarpiană). Capitate 5th metacarpal Triquetrum Trapezium și trapezoid Police Scaphoid Lunate R Fig. 4.117 Carpal bridge.
+    - În incidența tangențială este vizibil aspectul dorsal al scafoidului, semilunarului și piramidalului.
+    - Conturul suprapus al osului capitat și al trapezului este vizibil (Fig. 4.116 și 4.117). Poziție:
+    - Aspectul dorsal al oaselor carpiene trebuie vizualizat clar, fără suprapuneri, și centrat pe receptorul de imagine.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul oaselor carpiene dorsale. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie să evidențieze aspectul dorsal al oaselor carpiene, cu margini nete și contururi osoase și travee trabeculare clare, fără artefacte de mișcare.
+    - Contururile porțiunilor proximale ale metacarpienelor trebuie vizualizate prin structurile suprapuse, fără supraexpunerea fețelor dorsale ale oaselor carpiene văzute din profil. R Fig. 4.116 Incidență tangențială a punții carpiene a pumnului (articulației radiocarpiene) drept. Capitat; metacarpianul 5; piramidal; trapez și trapezoid; police; scafoid; semilunar. R Fig. 4.117 Punte carpiană.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -149,25 +156,25 @@ title: Rx TANGENTIAL Incidență CARPAL BRIDGE (Pumn (Articulație Radiocarpian�
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.115 Carpal bridge—tangențial incidență; raza centrală 45° la Antebraț.](../../assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_1.jpeg)
+![Fig. 4.115 Punte carpiană—incidență tangențială; raza centrală la 45° față de antebraț.](../../assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.115 Carpal bridge—tangențial incidență; raza centrală 45° la Antebraț.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.115 Carpal bridge—tangențial incidență; raza centrală 45° la forearm.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.116 Carpal bridge tangențial incidență de drept Pumn (Articulație Radiocarpiană).](../../assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.116 Carpal bridge tangențial incidență de drept Pumn (Articulație Radiocarpiană).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.116 Carpal bridge tangențial incidență de drept wrist.)</span></figcaption>
+<figcaption><strong>Fig. 4.115 Punte carpiană—incidență tangențială; raza centrală la 45° față de antebraț.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.115 Punte carpiană—incidență tangențială; raza centrală la 45° față de antebraț.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.117 Carpal bridge.](../../assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_3.jpeg)
+![Fig. 4.116 Punte carpiană, incidență tangențială a pumnului drept.](../../assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.117 Carpal bridge.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.117 Carpal bridge.)</span></figcaption>
+<figcaption><strong>Fig. 4.116 Punte carpiană, incidență tangențială a pumnului drept.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.116 Punte carpiană, incidență tangențială a pumnului drept.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.117 Punte carpiană.](../../assets/images/protocols/bontrager/rx-tangential-projection-carpal-bridge-pumn-articulatie-radiocarpiana-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 4.117 Punte carpiană.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.117 Punte carpiană.)</span></figcaption>
 
 </figure>
 

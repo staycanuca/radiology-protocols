@@ -16,6 +16,10 @@ images:
 - caption: Merrill — pagina 1485, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-b-upright-or-decubit-dorsal-p1483-merrill/p1485_fig2.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pentru a asigura unghiul corect dintre tubul de raze X și receptorul de imagine,
@@ -148,11 +152,12 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism sau 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -198,6 +203,7 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism sau 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pentru a asigura unghiul corect dintre tubul de raze X și receptorul de imagine, tehnicianul radiolog poate verifica suplimentar umbra umerilor produsă de câmpul luminos proiectat pe receptorul de imagine. Dacă umbra umerilor este proiectată mult deasupra marginii superioare a receptorului de imagine, trebuie corectat unghiul tubului.
 
@@ -236,53 +242,3 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) b — Ortostatism sau 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 20. Mobile Radiography, pagini 1483–1485](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Această incidență evidențiază anatomia toracelui, inclusiv cordul, traheea, cupolele diafragmatice și, mai ales, câmpurile pulmonare în întregime (inclusiv desenul vascular) (Fig. 20.11).
-
-### colimare
-
-• Se reglează colimatorul la cel puțin 14 × 17 inci (35 × 43 cm), mai puțin pentru pacienții de talie mică.
-
-### raza centrală
-
-• Perpendicular pe axa longitudinală a sternului și centrat pe receptorul de imagine; raza centrală trebuie să pătrundă la aproximativ 3 inci (7.6 cm) sub incizura jugulară (furculița sternală), la nivelul T7.
-
-### criterii
-
-Următoarele trebuie să fie clar vizualizate:
-• Colimare corectă vizibilă
-• Absența mișcării și cupole diafragmatice și câmpuri pulmonare bine definite (neestompate)
-• Câmpurile pulmonare în întregime, inclusiv sinusurile costodiafragmatice
-• Desenul pleural
-• Coastele și spațiile discale intervertebrale toracice slab vizibile prin umbra cordului
-• Absența rotației anatomice (simetrie bilaterală perfectă), cu porțiunile mediale ale claviculelor și marginile laterale ale coastelor echidistante față de coloana vertebrală
-• Markeri radiografici adecvați (marker R sau L și orice marker care indică poziția pacientului: decubit dorsal, șezut cu trunchiul vertical etc.).
-
-### note
-
-Pentru a asigura unghiul corect dintre tubul de raze X și receptorul de imagine, tehnicianul radiolog poate verifica suplimentar umbra umerilor produsă de câmpul luminos proiectat pe receptorul de imagine. Dacă umbra umerilor este proiectată mult deasupra marginii superioare a receptorului de imagine, trebuie corectat unghiul tubului.
-
-### part_pos
-
-• Se centrează planul mediosagital pe receptorul de imagine.
-• Pentru a include întregul torace, se poziționează receptorul de imagine sub pacient, cu marginea superioară la aproximativ 2 inci (5 cm) deasupra umerilor relaxați. Distanța exactă depinde de dimensiunile pacientului. Când pacientul este în decubit dorsal, umerii se pot deplasa într-o poziție mai înaltă față de plămâni. Se ajustează corespunzător.
-• Se verifică dacă umerii pacientului sunt relaxați, apoi se rotesc intern brațele pentru a preveni suprapunerea scapulelor peste câmpurile pulmonare, dacă nu există contraindicații.
-• Se verifică dacă partea superioară a trunchiului pacientului nu este rotită sau înclinată într-o parte (Fig. 20.10).
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-În funcție de starea pacientului, incidența trebuie efectuată cu pacientul în ortostatism sau la cel mai mare unghi pe care îl poate tolera (dacă este posibil). Se utilizează decubitul dorsal la pacienții în stare critică sau traumatizați.
-
-### respirație
-
-Inspir, dacă nu se solicită altfel. Dacă pacientul beneficiază de asistență respiratorie, se urmărește atent toracele pacientului pentru a identifica faza inspiratorie în vederea expunerii.
-
-### tehnică
-
-Receptorul de imagine trebuie să aibă 14 × 17 inci (35 × 43 cm), orientat longitudinal sau transversal, în funcție de constituția corporală.
-

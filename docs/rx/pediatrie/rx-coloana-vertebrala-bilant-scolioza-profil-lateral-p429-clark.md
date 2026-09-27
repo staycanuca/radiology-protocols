@@ -3,56 +3,61 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: pediatrie
-centering: '• orizontal raza centrală este employed, și fascicul este collimated și
-  centred la caseta pentru include whole spinal column.
+centering: '• Se utilizează o rază centrală orizontală, iar fasciculul este colimat
+  și centrat pe casetă pentru a include întreaga coloană vertebrală.
 
-  • lower collimation margine este poziționat la nivelul anterior superior iliac spines,
-  thus ensuring inclusion de first sacral segment.
+  • Marginea inferioară a colimării este poziționată la nivelul spinelor iliace anterosuperioare,
+  asigurând astfel includerea primului segment sacral.
 
-  • upper margine trebuie să fie la nivelul spinous process de C7.
+  • Marginea superioară trebuie să fie la nivelul procesului spinos al C7.
 
-  • increased FFD este used la ensure correct, whole anatomical area este covered
-  (180–200 cm).'
+  • Se utilizează o DFF mărită pentru a asigura acoperirea corectă a întregii arii
+  anatomice (180–200 cm).'
 clinical_indications:
-- most common referral pentru scoliosis este now idiopathic scoliosis. Affected children
-  sunt otherwise completely normal, cu normal life expectancy. Multiple radiografii
-  pentru monitoring sunt required, și therefore dose-saving measures sunt important.
-- Scoliosis este described ca being de early onset (before five years) și late onset.
-  Those who develop large curves early have higher risk de developing cardiovascular
-  complications.
-- 'Secondary spinal scoliosis este now less common în most centres. main causes being:
-  congenital (including hemivertebrae), neuromuscular disorders și neurofibromatosis.
-  Tuberculosis este uncommon și polio este now rare. However, it este still extremely
-  important la exclude underlying disease și MRI sau scintigraphy este advised în
-  toate pacienți cu atypical ‘idiopathic’ scoliosis sau painful scoliosis (latter
-  typically being due la osteoid osteoma). MRI trebuie să also fie considered preoperatively
-  la exclude lesions such ca syringomyelia.'
-- When secondary scoliosis este suspected due la abnormalities seen pe first thoraco-lumbar
-  coloană vertebrală imagine, coned incidențe, cervical coloană vertebrală și pelvic
-  radiografii poate fie considered pentru additional assessment.
-- Profil (lateral) curvature de idiopathic scoliosis este usually convex la drept
-  giving drept-sided hump și este accompanied prin rotație de vertebre pe vertical
-  axis. This thrusts Coaste (Grilaj Costal) backwards în thoracic area și increases
-  ugliness de deformity. rotary component makes disease more complex than cosmetic
-  deformity și rotație de Torace poate lead la compression de Cord și Siluetă Cardiovasculară
-  și Torace (Câmpuri Pulmonare), whereas lumbar curves poate predispose la later degenerative
-  changes.
-- goal de therapy este la keep primary curve less than 40 grade la end de growth;
-  small curves de less than 15 grade sunt usually nu treated. Curves de 20–40 grade
-  sunt managed în corp brace, și curves de more than 40 grade usually have spinal
-  fusion (e.g. metal Harrington rod). Follow-up imagini de pacienți cu Harrington
-  rod will need la show orice breakage de rods sau surrounding Luque wiring.
-- assessment de skeletal age este required so that appropriate treatment poate fie
-  planned. development de iliac apophyses (Risser’s sign) correlates well cu skeletal
-  maturity, ca determined prin assessing bone age la Mână și Pumn (Articulație Radiocarpiană)
-  (Dhar et al. 1993). iliac apophyses first appear laterally și anteriorly pe crest
-  de ilium. Growth develops posteriorly și medially, followed prin fusion la crestele
-  iliace. Increasing ossification correlates cu decreased progression. Postero-anterior
-  (PA) Ortostatism imagine evidențiind Harrington rod Profil (lateral) Ortostatism
-  imagine evidențiind Harrington rod
+- Cea mai frecventă indicație pentru scolioză este în prezent scolioza idiopatică.
+  Copiii afectați sunt altfel complet normali, cu o speranță de viață normală. Sunt
+  necesare radiografii multiple pentru monitorizare și, prin urmare, măsurile de reducere
+  a dozei sunt importante.
+- Scolioza este descrisă ca având debut precoce (înainte de cinci ani) și debut tardiv.
+  Cei la care se dezvoltă precoce curburi mari prezintă un risc mai mare de apariție
+  a complicațiilor cardiovasculare.
+- 'Scolioza spinală secundară este în prezent mai puțin frecventă în majoritatea centrelor.
+  Principalele cauze sunt: congenitale (inclusiv hemivertebre), afecțiuni neuromusculare
+  și neurofibromatoză. Tuberculoza este neobișnuită, iar poliomielita este în prezent
+  rară. Totuși, este în continuare extrem de important să se excludă o boală subiacentă,
+  iar RMN-ul sau scintigrafia sunt recomandate la toți pacienții cu scolioză „idiopatică”
+  atipică sau scolioză dureroasă (aceasta din urmă fiind de obicei cauzată de osteom
+  osteoid). RMN-ul trebuie, de asemenea, luat în considerare preoperator pentru a
+  exclude leziuni precum siringomielia.'
+- Când se suspectează o scolioză secundară din cauza anomaliilor observate pe prima
+  imagine a coloanei vertebrale toracolombare, pot fi luate în considerare incidențe
+  conate, radiografii ale coloanei cervicale și radiografii pelvine pentru evaluare
+  suplimentară.
+- Curbura de profil a scoliozei idiopatice este de obicei convexă spre dreapta, determinând
+  o gibozitate pe partea dreaptă, și este însoțită de rotația vertebrelor în jurul
+  axului vertical. Aceasta deplasează coastele posterior în regiunea toracică și accentuează
+  aspectul inestetic al deformării. Componenta rotatorie face ca afecțiunea să fie
+  mai complexă decât o deformare cosmetică, iar rotația toracelui poate duce la compresia
+  cordului și a siluetei cardiovasculare și a toracelui (câmpurilor pulmonare), în
+  timp ce curburile lombare pot predispune la modificări degenerative ulterioare.
+- Scopul tratamentului este menținerea curburii primare sub 40 de grade la sfârșitul
+  creșterii; curburile mici, sub 15 grade, nu sunt de obicei tratate. Curburile de
+  20–40 de grade sunt tratate cu corset pentru trunchi, iar curburile de peste 40
+  de grade necesită de obicei fuziune vertebrală (de exemplu, tijă metalică Harrington).
+  Imaginile de urmărire ale pacienților cu tijă Harrington trebuie să evidențieze
+  orice rupere a tijelor sau a firelor Luque din jur.
+- Este necesară evaluarea vârstei osoase, astfel încât tratamentul adecvat să poată
+  fi planificat. Dezvoltarea apofizelor iliace (semnul Risser) se corelează bine cu
+  maturitatea scheletică, determinată prin evaluarea vârstei osoase la mână și pumn
+  (articulația radiocarpiană) (Dhar et al. 1993). Apofizele iliace apar mai întâi
+  lateral și anterior pe creasta iliacă. Creșterea se dezvoltă posterior și medial,
+  urmată de fuziunea la nivelul crestelor iliace. Osificarea progresivă se corelează
+  cu scăderea progresiei. Imagine postero-anterioară (PA) în ortostatism, evidențiind
+  tija Harrington. Imagine de profil în ortostatism, evidențiind tija Harrington.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -62,43 +67,47 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_3.jpeg
-- caption: scoliosis. Affected children sunt otherwise completely normal,
+- caption: Scolioză. Copiii afectați sunt altfel complet normali,
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_4.jpeg
-- caption: cu normal life expectancy. Multiple radiografii pentru moni-
+- caption: cu speranță de viață normală. Radiografii multiple pentru moni-
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_5.jpeg
+iris_reference:
+  chapter: Pediatrie — Aparat locomotor
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Care trebuie să fie taken la ensure that fascicul este well collimated la
-  exclude Sân (Mamografie) tissues, especially în follow-up radiografii.
+notes: '• Trebuie avut grijă ca fasciculul să fie bine colimat, pentru a exclude țesuturile
+  mamare, în special la radiografiile de control.
 
-  • Additional incidențe, fluoroscopy, CT sau MRI poate fie required la reveal complete
-  extent de 3-dimensional nature de some severe deformities.
+  • Pot fi necesare incidențe suplimentare, fluoroscopie, CT sau MRI pentru a evidenția
+  amploarea completă a caracterului 3-dimensional al unor deformări severe.
 
-  414 pacient poziționat pentru Profil (lateral) incidență de coloană vertebrală imagine
-  de Profil (lateral) whole coloană vertebrală using grilă și cones collimated la
-  coloană vertebrală L imagine de Postero-anterior (PA) whole coloană vertebrală scoliosis
-  și uncorrected pelvic tilt using long casetă'
-position: '• pacientul stă în ortostatism cu their bare picioare slightly apart, cu
-  side de convexity de primary curve pe / sprijinit de stativ vertical Bucky.
+  414 Pacient poziționat pentru incidența de profil a coloanei vertebrale. Imagine
+  de profil a întregii coloane vertebrale, utilizând grilă și conuri colimate la nivelul
+  coloanei vertebrale. L Imagine postero-anterioară (PA) a întregii coloane vertebrale,
+  cu scolioză și înclinare pelviană necorectată, utilizând o casetă lungă.'
+position: '• Pacientul stă în ortostatism, cu picioarele goale ușor depărtate, cu
+  partea convexă a curburii primare sprijinită de stativul vertical Bucky.
 
-  • Care este taken la ensure that pacientul does nu lean spre caseta.
+  • Trebuie avut grijă ca pacientul să nu se aplece spre casetă.
 
-  • lower edge de caseta este plasat 1.5 cm below crestele iliace.
+  • Marginea inferioară a casetei este plasată la 1.5 cm sub crestele iliace.
 
-  • mid-axillary line este centred la caseta. plan coronal trebuie să fie la drept-angles
-  la caseta.
+  • Linia medioaxilară este centrată pe casetă. Planul coronal trebuie să fie perpendicular
+  pe casetă.
 
-  • latter poate fie assessed prin palpating anterior iliac spines și rotating pacientul
-  so that line joining two sides este la drept-angles la caseta.
+  • Acesta poate fi evaluat prin palparea spinelor iliace anterioare și rotirea pacientului
+  astfel încât linia care unește cele două părți să fie perpendiculară pe casetă.
 
-  • Similarly, line joining Profil (lateral) end de clavicles trebuie să fie la drept-angles
-  la caseta.
+  • În mod similar, linia care unește extremitățile de profil ale claviculelor trebuie
+  să fie perpendiculară pe casetă.
 
-  • brațele sunt folded over capul.'
+  • Brațele sunt îndoite peste cap.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -107,7 +116,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Coloană Vertebrală (Bilanț Scolioză)).
+- Vizualizarea clară a întregii arii anatomice (coloana vertebrală (bilanț scolioză)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -117,16 +126,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 429
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 35 x 43 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx coloană vertebrală (bilanț scolioză) profil (lateral)
 ---
-# Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
+# Rx coloană vertebrală (bilanț scolioză) profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -145,37 +154,40 @@ title: Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - most common referral pentru scoliosis este now idiopathic scoliosis. Affected children sunt otherwise completely normal, cu normal life expectancy. Multiple radiografii pentru monitoring sunt required, și therefore dose-saving measures sunt important.
-        - Scoliosis este described ca being de early onset (before five years) și late onset. Those who develop large curves early have higher risk de developing cardiovascular complications.
-        - Secondary spinal scoliosis este now less common în most centres. main causes being: congenital (including hemivertebrae), neuromuscular disorders și neurofibromatosis. Tuberculosis este uncommon și polio este now rare. However, it este still extremely important la exclude underlying disease și MRI sau scintigraphy este advised în toate pacienți cu atypical ‘idiopathic’ scoliosis sau painful scoliosis (latter typically being due la osteoid osteoma). MRI trebuie să also fie considered preoperatively la exclude lesions such ca syringomyelia.
-        - When secondary scoliosis este suspected due la abnormalities seen pe first thoraco-lumbar coloană vertebrală imagine, coned incidențe, cervical coloană vertebrală și pelvic radiografii poate fie considered pentru additional assessment.
-        - Profil (lateral) curvature de idiopathic scoliosis este usually convex la drept giving drept-sided hump și este accompanied prin rotație de vertebre pe vertical axis. This thrusts Coaste (Grilaj Costal) backwards în thoracic area și increases ugliness de deformity. rotary component makes disease more complex than cosmetic deformity și rotație de Torace poate lead la compression de Cord și Siluetă Cardiovasculară și Torace (Câmpuri Pulmonare), whereas lumbar curves poate predispose la later degenerative changes.
-        - goal de therapy este la keep primary curve less than 40 grade la end de growth; small curves de less than 15 grade sunt usually nu treated. Curves de 20–40 grade sunt managed în corp brace, și curves de more than 40 grade usually have spinal fusion (e.g. metal Harrington rod). Follow-up imagini de pacienți cu Harrington rod will need la show orice breakage de rods sau surrounding Luque wiring.
-        - assessment de skeletal age este required so that appropriate treatment poate fie planned. development de iliac apophyses (Risser’s sign) correlates well cu skeletal maturity, ca determined prin assessing bone age la Mână și Pumn (Articulație Radiocarpiană) (Dhar et al. 1993). iliac apophyses first appear laterally și anteriorly pe crest de ilium. Growth develops posteriorly și medially, followed prin fusion la crestele iliace. Increasing ossification correlates cu decreased progression. Postero-anterior (PA) Ortostatism imagine evidențiind Harrington rod Profil (lateral) Ortostatism imagine evidențiind Harrington rod
+        - Cea mai frecventă indicație pentru scolioză este în prezent scolioza idiopatică. Copiii afectați sunt altfel complet normali, cu o speranță de viață normală. Sunt necesare radiografii multiple pentru monitorizare și, prin urmare, măsurile de reducere a dozei sunt importante.
+        - Scolioza este descrisă ca având debut precoce (înainte de cinci ani) și debut tardiv. Cei la care se dezvoltă precoce curburi mari prezintă un risc mai mare de apariție a complicațiilor cardiovasculare.
+        - Scolioza spinală secundară este în prezent mai puțin frecventă în majoritatea centrelor. Principalele cauze sunt: congenitale (inclusiv hemivertebre), afecțiuni neuromusculare și neurofibromatoză. Tuberculoza este neobișnuită, iar poliomielita este în prezent rară. Totuși, este în continuare extrem de important să se excludă o boală subiacentă, iar RMN-ul sau scintigrafia sunt recomandate la toți pacienții cu scolioză „idiopatică” atipică sau scolioză dureroasă (aceasta din urmă fiind de obicei cauzată de osteom osteoid). RMN-ul trebuie, de asemenea, luat în considerare preoperator pentru a exclude leziuni precum siringomielia.
+        - Când se suspectează o scolioză secundară din cauza anomaliilor observate pe prima imagine a coloanei vertebrale toracolombare, pot fi luate în considerare incidențe conate, radiografii ale coloanei cervicale și radiografii pelvine pentru evaluare suplimentară.
+        - Curbura de profil a scoliozei idiopatice este de obicei convexă spre dreapta, determinând o gibozitate pe partea dreaptă, și este însoțită de rotația vertebrelor în jurul axului vertical. Aceasta deplasează coastele posterior în regiunea toracică și accentuează aspectul inestetic al deformării. Componenta rotatorie face ca afecțiunea să fie mai complexă decât o deformare cosmetică, iar rotația toracelui poate duce la compresia cordului și a siluetei cardiovasculare și a toracelui (câmpurilor pulmonare), în timp ce curburile lombare pot predispune la modificări degenerative ulterioare.
+        - Scopul tratamentului este menținerea curburii primare sub 40 de grade la sfârșitul creșterii; curburile mici, sub 15 grade, nu sunt de obicei tratate. Curburile de 20–40 de grade sunt tratate cu corset pentru trunchi, iar curburile de peste 40 de grade necesită de obicei fuziune vertebrală (de exemplu, tijă metalică Harrington). Imaginile de urmărire ale pacienților cu tijă Harrington trebuie să evidențieze orice rupere a tijelor sau a firelor Luque din jur.
+        - Este necesară evaluarea vârstei osoase, astfel încât tratamentul adecvat să poată fi planificat. Dezvoltarea apofizelor iliace (semnul Risser) se corelează bine cu maturitatea scheletică, determinată prin evaluarea vârstei osoase la mână și pumn (articulația radiocarpiană) (Dhar et al. 1993). Apofizele iliace apar mai întâi lateral și anterior pe creasta iliacă. Creșterea se dezvoltă posterior și medial, urmată de fuziunea la nivelul crestelor iliace. Osificarea progresivă se corelează cu scăderea progresiei. Imagine postero-anterioară (PA) în ortostatism, evidențiind tija Harrington. Imagine de profil în ortostatism, evidențiind tija Harrington.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Aparat locomotor*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism cu their bare picioare slightly apart, cu side de convexity de primary curve pe / sprijinit de stativ vertical Bucky.
-• Care este taken la ensure that pacientul does nu lean spre caseta.
-• lower edge de caseta este plasat 1.5 cm below crestele iliace.
-• mid-axillary line este centred la caseta. plan coronal trebuie să fie la drept-angles la caseta.
-• latter poate fie assessed prin palpating anterior iliac spines și rotating pacientul so that line joining two sides este la drept-angles la caseta.
-• Similarly, line joining Profil (lateral) end de clavicles trebuie să fie la drept-angles la caseta.
-• brațele sunt folded over capul.
-    - **Punct de Centrare Fascicul:** • orizontal raza centrală este employed, și fascicul este collimated și centred la caseta pentru include whole spinal column.
-• lower collimation margine este poziționat la nivelul anterior superior iliac spines, thus ensuring inclusion de first sacral segment.
-• upper margine trebuie să fie la nivelul spinous process de C7.
-• increased FFD este used la ensure correct, whole anatomical area este covered (180–200 cm).
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism, cu picioarele goale ușor depărtate, cu partea convexă a curburii primare sprijinită de stativul vertical Bucky.
+        - Trebuie avut grijă ca pacientul să nu se aplece spre casetă.
+        - Marginea inferioară a casetei este plasată la 1.5 cm sub crestele iliace.
+        - Linia medioaxilară este centrată pe casetă. Planul coronal trebuie să fie perpendicular pe casetă.
+        - Acesta poate fi evaluat prin palparea spinelor iliace anterioare și rotirea pacientului astfel încât linia care unește cele două părți să fie perpendiculară pe casetă.
+        - În mod similar, linia care unește extremitățile de profil ale claviculelor trebuie să fie perpendiculară pe casetă.
+        - Brațele sunt îndoite peste cap.
+    - **Punct de Centrare Fascicul:**
+        - Se utilizează o rază centrală orizontală, iar fasciculul este colimat și centrat pe casetă pentru a include întreaga coloană vertebrală.
+        - Marginea inferioară a colimării este poziționată la nivelul spinelor iliace anterosuperioare, asigurând astfel includerea primului segment sacral.
+        - Marginea superioară trebuie să fie la nivelul procesului spinos al C7.
+        - Se utilizează o DFF mărită pentru a asigura acoperirea corectă a întregii arii anatomice (180–200 cm).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -186,19 +198,19 @@ title: Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 35 x 43 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Coloană Vertebrală (Bilanț Scolioză)).
+    - Vizualizarea clară a întregii arii anatomice (coloana vertebrală (bilanț scolioză)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -212,10 +224,10 @@ title: Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Care trebuie să fie taken la ensure that fascicul este well collimated la exclude Sân (Mamografie) tissues, especially în follow-up radiografii.
-• Additional incidențe, fluoroscopy, CT sau MRI poate fie required la reveal complete extent de 3-dimensional nature de some severe deformities.
-414 pacient poziționat pentru Profil (lateral) incidență de coloană vertebrală imagine de Profil (lateral) whole coloană vertebrală using grilă și cones collimated la coloană vertebrală L imagine de Postero-anterior (PA) whole coloană vertebrală scoliosis și uncorrected pelvic tilt using long casetă
+    - Trebuie avut grijă ca fasciculul să fie bine colimat, pentru a exclude țesuturile mamare, în special la radiografiile de control.
+    - Pot fi necesare incidențe suplimentare, fluoroscopie, CT sau MRI pentru a evidenția amploarea completă a caracterului 3-dimensional al unor deformări severe. 414 Pacient poziționat pentru incidența de profil a coloanei vertebrale. Imagine de profil a întregii coloane vertebrale, utilizând grilă și conuri colimate la nivelul coloanei vertebrale. L Imagine postero-anterioară (PA) a întregii coloane vertebrale, cu scolioză și înclinare pelviană necorectată, utilizând o casetă lungă.
 
 
 ### 🖼️ Imagini
@@ -226,7 +238,7 @@ title: Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -248,17 +260,17 @@ title: Rx Coloană Vertebrală (Bilanț Scolioză) Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![scoliosis. Affected children sunt otherwise completely normal,](../../assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_4.jpeg)
+![Scolioză. Copiii afectați sunt altfel complet normali,](../../assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_4.jpeg)
 
-<figcaption><strong>scoliosis. Affected children sunt otherwise completely normal,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Scolioză. Copiii afectați sunt altfel complet normali,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![cu normal life expectancy. Multiple radiografii pentru moni-](../../assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_5.jpeg)
+![cu speranță de viață normală. Radiografii multiple pentru moni-](../../assets/images/protocols/clark/rx-coloana-vertebrala-bilant-scolioza-profil-lateral-p429-clark/fig_5.jpeg)
 
-<figcaption><strong>cu normal life expectancy. Multiple radiografii pentru moni-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>cu speranță de viață normală. Radiografii multiple pentru moni-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

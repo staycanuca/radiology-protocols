@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: coloana
-centering: perpendicular pe centrul receptorului de imagine, cu intrarea la 1 inch
+centering: perpendicular pe centrul receptorului de imagine, cu intrarea la 1 țol
   (2.5 cm) medial față de SIAS elevată
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
@@ -19,14 +19,18 @@ images:
 - caption: Merrill — pagina 748, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sacroiliac-joints-ap-incidenta-oblica-rpo-and-lpo-positions-p745-merrill/p748_fig4.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Incidența AP axială oblică poate fi obținută prin poziționarea pacientului
   conform descrierii. Pentru incidența AP axială oblică, raza centrală este orientată
-  la un unghi de 20 la 25 grade cranial, cu intrarea la 1 inch (2.5 cm) medial și
-  1½ inches (3.8 cm) distal față de SIAS elevată (Fig. 9.113). Brower și Kransdorf
-  25 au rezumat dificultățile în explorarea imagistică a articulațiilor sacroiliace
-  din cauza poziționării pacientului și a variabilității.
+  la un unghi de 20 la 25 grade cranial, cu intrarea la 1 țol (2.5 cm) medial și 1½
+  țoli (3.8 cm) distal față de SIAS elevată (Fig. 9.113). Brower și Kransdorf 25 au
+  rezumat dificultățile în explorarea imagistică a articulațiilor sacroiliace din
+  cauza poziționării pacientului și a variabilității.
 position: Se așază pacientul în decubit dorsal și se ridică capul pe o pernă fermă.
   Se ridică partea de interes aproximativ 25 la 30 grade și se susțin umărul, toracele
   inferior și coapsa superioară (Fig. 9.110 și 9.111). Partea examinată este cea mai
@@ -35,7 +39,7 @@ position: Se așază pacientul în decubit dorsal și se ridică capul pe o pern
   dreaptă (OPD / RPO) pentru evidențierea articulației stângi. Se ajustează corpul
   pacientului astfel încât axa longitudinală să fie paralelă cu axa longitudinală
   a mesei radiologice. Se aliniază corpul astfel încât planul sagital care trece la
-  1 inch (2.5 cm) medial față de SIAS a părții ridicate să fie centrat pe linia mediană
+  1 țol (2.5 cm) medial față de SIAS a părții ridicate să fie centrat pe linia mediană
   a grilei. Se verifică rotația în mai multe puncte de-a lungul spatelui. Se centrează
   receptorul de imagine la nivelul SIAS. Se efectuează ecranarea gonadelor cu șorț
   plumbat. Colimarea strânsă la nivelul articulației poate proteja gonadele la pacienții
@@ -66,7 +70,7 @@ source_sections:
     (Vezi Rezumatul incidențelor oblice, p. 440.)'
   collimation: • Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator.
     Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-  cr: • perpendicular pe centrul receptorului de imagine, cu intrarea la 1 inch (2.5
+  cr: • perpendicular pe centrul receptorului de imagine, cu intrarea la 1 țol (2.5
     cm) medial față de SIAS elevată
   criteria: 'Criterii radiologice de calitate a imaginii:
 
@@ -81,8 +85,8 @@ source_sections:
     • Detalii osoase trabeculare și țesuturile moi din jur'
   notes: 'Incidența AP axială oblică poate fi obținută prin poziționarea pacientului
     conform descrierii. Pentru incidența AP axială oblică, raza centrală este orientată
-    la un unghi de 20 la 25 grade cranial, cu intrarea la 1 inch (2.5 cm) medial și
-    1½ inches (3.8 cm) distal față de SIAS elevată (Fig. 9.113).
+    la un unghi de 20 la 25 grade cranial, cu intrarea la 1 țol (2.5 cm) medial și
+    1½ țoli (3.8 cm) distal față de SIAS elevată (Fig. 9.113).
 
     Brower și Kransdorf 25 au rezumat dificultățile în explorarea imagistică a articulațiilor
     sacroiliace din cauza poziționării pacientului și a variabilității.'
@@ -99,7 +103,7 @@ source_sections:
     • Se ajustează corpul pacientului astfel încât axa longitudinală să fie paralelă
     cu axa longitudinală a mesei radiologice.
 
-    • Se aliniază corpul astfel încât planul sagital care trece la 1 inch (2.5 cm)
+    • Se aliniază corpul astfel încât planul sagital care trece la 1 țol (2.5 cm)
     medial față de SIAS a părții ridicate să fie centrat pe linia mediană a grilei.
 
     • Se verifică rotația în mai multe puncte de-a lungul spatelui.
@@ -113,8 +117,8 @@ source_sections:
     fermă.
   respiration: apnee (oprirea respirației).
   tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
-    afișarea corectă a orientării anatomice; receptorul de imagine: 10 × 12 inches
-    (24 ×
+    afișarea corectă a orientării anatomice; receptorul de imagine: 10 × 12 țoli (24
+    ×
 
     30 cm), longitudinal. Ambele incidențe oblice sunt de obicei obținute pentru comparație.'
 sources:
@@ -151,17 +155,18 @@ title: Articulațiile sacroiliace — incidențe oblice antero-posterioare (AP) 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se așază pacientul în decubit dorsal și se ridică capul pe o pernă fermă. Se ridică partea de interes aproximativ 25 la 30 grade și se susțin umărul, toracele inferior și coapsa superioară (Fig. 9.110 și 9.111). Partea examinată este cea mai îndepărtată de receptorul de imagine. Se utilizează poziția oblică posterioară stângă (OPS / LPO) pentru evidențierea articulației drepte și poziția oblică posterioară dreaptă (OPD / RPO) pentru evidențierea articulației stângi. Se ajustează corpul pacientului astfel încât axa longitudinală să fie paralelă cu axa longitudinală a mesei radiologice. Se aliniază corpul astfel încât planul sagital care trece la 1 inch (2.5 cm) medial față de SIAS a părții ridicate să fie centrat pe linia mediană a grilei. Se verifică rotația în mai multe puncte de-a lungul spatelui. Se centrează receptorul de imagine la nivelul SIAS. Se efectuează ecranarea gonadelor cu șorț plumbat. Colimarea strânsă la nivelul articulației poate proteja gonadele la pacienții de sex masculin. Poate fi dificilă utilizarea ecranării de contact la pacienții de sex feminin.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine, cu intrarea la 1 inch (2.5 cm) medial față de SIAS elevată
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal și se ridică capul pe o pernă fermă. Se ridică partea de interes aproximativ 25 la 30 grade și se susțin umărul, toracele inferior și coapsa superioară (Fig. 9.110 și 9.111). Partea examinată este cea mai îndepărtată de receptorul de imagine. Se utilizează poziția oblică posterioară stângă (OPS / LPO) pentru evidențierea articulației drepte și poziția oblică posterioară dreaptă (OPD / RPO) pentru evidențierea articulației stângi. Se ajustează corpul pacientului astfel încât axa longitudinală să fie paralelă cu axa longitudinală a mesei radiologice. Se aliniază corpul astfel încât planul sagital care trece la 1 țol (2.5 cm) medial față de SIAS a părții ridicate să fie centrat pe linia mediană a grilei. Se verifică rotația în mai multe puncte de-a lungul spatelui. Se centrează receptorul de imagine la nivelul SIAS. Se efectuează ecranarea gonadelor cu șorț plumbat. Colimarea strânsă la nivelul articulației poate proteja gonadele la pacienții de sex masculin. Poate fi dificilă utilizarea ecranării de contact la pacienții de sex feminin.
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine, cu intrarea la 1 țol (2.5 cm) medial față de SIAS elevată
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -198,8 +203,9 @@ title: Articulațiile sacroiliace — incidențe oblice antero-posterioare (AP) 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Incidența AP axială oblică poate fi obținută prin poziționarea pacientului conform descrierii. Pentru incidența AP axială oblică, raza centrală este orientată la un unghi de 20 la 25 grade cranial, cu intrarea la 1 inch (2.5 cm) medial și 1½ inches (3.8 cm) distal față de SIAS elevată (Fig. 9.113). Brower și Kransdorf 25 au rezumat dificultățile în explorarea imagistică a articulațiilor sacroiliace din cauza poziționării pacientului și a variabilității.
+    Incidența AP axială oblică poate fi obținută prin poziționarea pacientului conform descrierii. Pentru incidența AP axială oblică, raza centrală este orientată la un unghi de 20 la 25 grade cranial, cu intrarea la 1 țol (2.5 cm) medial și 1½ țoli (3.8 cm) distal față de SIAS elevată (Fig. 9.113). Brower și Kransdorf 25 au rezumat dificultățile în explorarea imagistică a articulațiilor sacroiliace din cauza poziționării pacientului și a variabilității.
 
 
 ### 🖼️ Imagini
@@ -252,56 +258,3 @@ title: Articulațiile sacroiliace — incidențe oblice antero-posterioare (AP) 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 745–748](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-articulația sacroiliacă cea mai îndepărtată de receptorul de imagine și incidența oblică a structurilor adiacente. Ambele părți (bilateral) sunt examinate pentru comparație (Fig. 9.112).
-(Vezi Rezumatul incidențelor oblice, p. 440.)
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 15 × 24 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe centrul receptorului de imagine, cu intrarea la 1 inch (2.5 cm) medial față de SIAS elevată
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-• Spații articulare sacroiliace deschise, cele mai îndepărtate de receptorul de imagine, cu suprapunere minimă a ilionului și sacrului
-• articulația centrată pe radiografie
-• Detalii osoase trabeculare și țesuturile moi din jur
-
-### note
-
-Incidența AP axială oblică poate fi obținută prin poziționarea pacientului conform descrierii. Pentru incidența AP axială oblică, raza centrală este orientată la un unghi de 20 la 25 grade cranial, cu intrarea la 1 inch (2.5 cm) medial și 1½ inches (3.8 cm) distal față de SIAS elevată (Fig. 9.113).
-Brower și Kransdorf 25 au rezumat dificultățile în explorarea imagistică a articulațiilor sacroiliace din cauza poziționării pacientului și a variabilității.
-
-### part_pos
-
-• Se ridică partea de interes aproximativ 25 la 30 grade și se susțin umărul, toracele inferior și coapsa superioară (Fig. 9.110 și
-9.111).
-• Partea examinată este cea mai îndepărtată de receptorul de imagine. Se utilizează poziția oblică posterioară stângă (OPS / LPO) pentru evidențierea articulației drepte și poziția oblică posterioară dreaptă (OPD / RPO) pentru evidențierea articulației stângi.
-• Se ajustează corpul pacientului astfel încât axa longitudinală să fie paralelă cu axa longitudinală a mesei radiologice.
-• Se aliniază corpul astfel încât planul sagital care trece la 1 inch (2.5 cm) medial față de SIAS a părții ridicate să fie centrat pe linia mediană a grilei.
-• Se verifică rotația în mai multe puncte de-a lungul spatelui.
-• Se centrează receptorul de imagine la nivelul SIAS.
-• Se efectuează ecranarea gonadelor cu șorț plumbat. Colimarea strânsă la nivelul articulației poate proteja gonadele la pacienții de sex masculin. Poate fi dificilă utilizarea ecranării de contact la pacienții de sex feminin.
-
-### patient_pos
-
-• Se așază pacientul în decubit dorsal și se ridică capul pe o pernă fermă.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform protocolului producătorului sau al departamentului pentru afișarea corectă a orientării anatomice; receptorul de imagine: 10 × 12 inches (24 ×
-30 cm), longitudinal. Ambele incidențe oblice sunt de obicei obținute pentru comparație.
-

@@ -3,16 +3,17 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • raza centrală orizontală centrală este orientat spre axilla cu minimum
-  angulation spre trunk.
+centering: • raza centrală orizontală este orientată spre axilă, cu angulație minimă
+  spre trunchi.
 clinical_indications:
-- Evaluare radiografică regiunii Umăr - Luxație Recurentă Umăr (Antero - posterior
-  (modified)).
+- Evaluarea radiografică a regiunii umărului — luxație recurentă a umărului (anteroposterioră
+  (AP) modificată).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Normal Infero-Superioară (Axială) radiografie de Umăr
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie normală inferosuperioară (axială) a umărului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-modified-p105-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -26,19 +27,23 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-modified-p105-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• Pacientul este așezat în decubit dorsal pe masa radiologică, cu braț
-  de partea afectată în abducție fără causing discomfort la pacientul.
+position: '• Pacientul este așezat în decubit dorsal pe masa radiologică, cu brațul
+  de partea afectată în abducție, fără a provoca disconfort pacientului.
 
-  • palm de Mână este turned la face upwards, cu medical și Profil (lateral) epicondyles
-  de Humerus echidistant față de tabletop.
+  • Palma mâinii este orientată în sus, epicondilii medial și lateral ai humerusului
+  fiind echidistanți față de masa radiologică.
 
-  • casetă este sprijinit vertically pe / sprijinit de Umăr și este pressed pe / sprijinit
-  de neck la include ca much ca possible de Omoplat (Scapulă) pe film radiologic.
+  • Caseta este sprijinită vertical pe/de umăr și apăsată pe/sprijinită de gât pentru
+  a include cât mai mult posibil din omoplat (scapulă) pe filmul radiologic.
 
-  • Umăr și braț sunt raised slightly pe non-opaque pads.'
+  • Umărul și brațul sunt ridicate ușor pe suporturi radiotransparente.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -47,11 +52,11 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază capul de Humerus, acromion, Proces Coracoid și cavitate
-  glenoidă de Omoplat (Scapulă).
-- mică tuberozitate humerală (trohin) will fie în profile, și acromion și superior
-  aspect de glenoid will fie seen superimposed pe capul de Humerus. 90 Normal Infero-Superioară
-  (Axială) radiografie de Umăr Metoda Stryker incidență
+- Imaginea trebuie să evidențieze capul humerusului, acromionul, procesul coracoid
+  și cavitatea glenoidă a scapulei.
+- Mica tuberozitate humerală (trohinul) va fi în profil, iar acromionul și aspectul
+  superior al glenei vor fi vizibile suprapuse peste capul humerusului. 90 Radiografie
+  normală inferosuperioară (axială) a umărului — incidența prin metoda Stryker
 sid_dff: 100 cm
 slug: rx-umar-luxatie-recurenta-umar-antero-posterior-modified-p105-clark
 sources:
@@ -60,14 +65,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (modified)
+  mas: Conform AEC / grosimii anatomice
+title: Rx umăr — luxație recurentă a umărului, anteroposterioară (AP) modificată
 ---
-# Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (modified)
+# Rx umăr — luxație recurentă a umărului, anteroposterioară (AP) modificată
 
 
 <div class="rx-meta-bar">
@@ -86,27 +91,29 @@ title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (modified)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Umăr - Luxație Recurentă Umăr (Antero - posterior (modified)).
+        - Evaluarea radiografică a regiunii umărului — luxație recurentă a umărului (anteroposterioră (AP) modificată).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică, cu braț de partea afectată în abducție fără causing discomfort la pacientul.
-• palm de Mână este turned la face upwards, cu medical și Profil (lateral) epicondyles de Humerus echidistant față de tabletop.
-• casetă este sprijinit vertically pe / sprijinit de Umăr și este pressed pe / sprijinit de neck la include ca much ca possible de Omoplat (Scapulă) pe film radiologic.
-• Umăr și braț sunt raised slightly pe non-opaque pads.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat spre axilla cu minimum angulation spre trunk.
+    - **Poziție Pacient:**
+        - Pacientul este așezat în decubit dorsal pe masa radiologică, cu brațul de partea afectată în abducție, fără a provoca disconfort pacientului.
+        - Palma mâinii este orientată în sus, epicondilii medial și lateral ai humerusului fiind echidistanți față de masa radiologică.
+        - Caseta este sprijinită vertical pe/de umăr și apăsată pe/sprijinită de gât pentru a include cât mai mult posibil din omoplat (scapulă) pe filmul radiologic.
+        - Umărul și brațul sunt ridicate ușor pe suporturi radiotransparente.
+    - **Punct de Centrare Fascicul:** • raza centrală orizontală este orientată spre axilă, cu angulație minimă spre trunchi.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -117,20 +124,20 @@ title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (modified)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază capul de Humerus, acromion, Proces Coracoid și cavitate glenoidă de Omoplat (Scapulă).
-    - mică tuberozitate humerală (trohin) will fie în profile, și acromion și superior aspect de glenoid will fie seen superimposed pe capul de Humerus. 90 Normal Infero-Superioară (Axială) radiografie de Umăr Metoda Stryker incidență
+    - Imaginea trebuie să evidențieze capul humerusului, acromionul, procesul coracoid și cavitatea glenoidă a scapulei.
+    - Mica tuberozitate humerală (trohinul) va fi în profil, iar acromionul și aspectul superior al glenei vor fi vizibile suprapuse peste capul humerusului. 90 Radiografie normală inferosuperioară (axială) a umărului — incidența prin metoda Stryker
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,6 +149,7 @@ title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (modified)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -152,9 +160,9 @@ title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (modified)
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Infero-Superioară (Axială) radiografie de Umăr](../../assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-modified-p105-clark/fig_1.jpeg)
+![Radiografie normală inferosuperioară (axială) a umărului](../../assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-modified-p105-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Infero-Superioară (Axială) radiografie de Umăr</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală inferosuperioară (axială) a umărului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.115
     PA axială—15° caudal (metoda Caldwell).)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-15-cr-incidenta-occipito-frontala-metoda-caldwell-or-25-to-30-cr-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Reducerea angulației caudale a razei centrale la 15° și/sau creșterea flexiei
@@ -124,11 +128,12 @@ title: Rx Craniu SERIE PA axială (15° CR (incidență occipito-frontală (meto
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -178,6 +183,7 @@ title: Rx Craniu SERIE PA axială (15° CR (incidență occipito-frontală (meto
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Reducerea angulației caudale a razei centrale la 15° și/sau creșterea flexiei gâtului (bărbia în jos) va avea ca rezultat proiectarea stâncilor temporale (piramidelor pietroase) în treimea inferioară a orbitelor. Incidență AP axială alternativă pentru pacienții care nu pot fi poziționați pentru incidența postero-anterioară (PA) (de exemplu, pacienți cu traumatism acut / în regim de urgență); incidența AP axială poate fi obținută utilizând un unghi cefalic de 15°, cu linia orbitomeatală (LOM) poziționată perpendicular pe receptorul de imagine (vezi Capitolul 15). Fig. 11.114 PA axială alternativă—30° caudal. Fig. 11.113 PA axială—raza centrală 15° caudal, linia orbitomeatală (LOM) perpendiculară; inserție (săgeată continuă) și raza centrală alternativă 30° caudal (săgeată punctată). Craniu SERIE DE RUTINĂ AP axială (incidență AP axială (metoda Towne)) laterală PA axială 15° (incidență occipito-frontală (metoda Caldwell)) sau PA axială 25° la 30° PA

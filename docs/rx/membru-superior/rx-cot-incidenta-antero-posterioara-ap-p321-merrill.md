@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe Cot articulație
+centering: Perpendicular pe articulația cotului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,78 +12,85 @@ images:
 - caption: Merrill — pagina 322, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cot-incidenta-antero-posterioara-ap-p321-merrill/p322_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun near masa radiologică și low enough la place
-  Umăr articulație, Humerus, și Cot articulație în same plane.; se extinde Cot, supinate
-  Mână, și se centrează receptorul de imagine la Cot articulație. se ajustează receptorul
-  de imagine la make it paralel cu axa longitudinală de part (see Fig. 5.110). Se
-  instruiește pacientul să lean laterally until humeral epicondyles și anterior surface
-  de Cot sunt paralel cu plane de receptorul de imagine. Supinate Mână la prevent
-  rotație de bones de Antebraț. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: se așază pacientul pe scaun lângă masa radiologică și suficient de jos pentru
+  a poziționa articulația umărului, humerusul și articulația cotului în același plan.;
+  se extinde cotul, se supinează mâna și se centrează receptorul de imagine la articulația
+  cotului. se ajustează receptorul de imagine pentru a-l face paralel cu axa longitudinală
+  a părții (vezi Fig. 5.110). Se instruiește pacientul să se încline lateral până
+  când epicondilii humerali și suprafața anterioară a cotului sunt paralele cu planul
+  receptorului de imagine. Se supinează mâna pentru a preveni rotația oaselor antebrațului.
+  se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- cap radial, neck, și tuberosity slightly superimposed over proximal ulna
-- Cot articulație centrat pe expunere field
-- Open humeroradial articulație
-- Absența rotației anatomice (simetrie bilaterală perfectă) de humeral epicondyles
-  (coronoid și olecran fossae approximately echidistant față de epicondyles)
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- capul radial, colul și tuberozitatea ușor suprapuse peste ulna proximală
+- Articulația cotului centrată pe câmpul de expunere
+- Articulație humeroradială deschisă
+- Absența rotației anatomice (simetrie bilaterală perfectă) a epicondililor humerali
+  (fosetele coronoidă și olecraniană aproximativ echidistante față de epicondili)
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-cot-incidenta-antero-posterioara-ap-p321-merrill
 source_pages:
 - 321
 - 322
 source_sections:
-  anatomy: AP incidență de cot articulație, distal braț, și proximal forearm (Fig.
-    5.111).
-  collimation: • Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la
-    cot articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S)
-    în collimated expunere field.
-  cr: • perpendicular pe cot articulație
+  anatomy: Incidență AP a articulației cotului, brațului distal și antebrațului proximal
+    (Fig. 5.111).
+  collimation: • Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față
+    de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe articulația cotului
   criteria: 'Criterii radiologice de calitate imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar în afara anatomiei de interes
 
-    • cap radial, neck, și tuberosity slightly superimposed over proximal ulna
+    • capul radial, colul și tuberozitatea ușor suprapuse peste ulna proximală
 
-    • cot articulație centrat pe expunere field
+    • articulația cotului centrată pe câmpul de expunere
 
-    • Open humeroradial articulație
+    • articulație humeroradială deschisă
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de humeral epicondyles
-    (coronoid și olecran fossae approximately echidistant față de epicondyles)
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a epicondililor humerali
+    (fosetele coronoidă și olecraniană aproximativ echidistante față de epicondili)
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se extinde cot, supinate mână, și se centrează receptorul de imagine
-    la cot articulație.
+    • detalii osoase trabeculare și țesuturile moi din jur'
+  part_pos: '• se extinde cotul, se supinează mâna și se centrează receptorul de imagine
+    la articulația cotului.
 
-    • se ajustează receptorul de imagine la make it paralel cu axa longitudinală de
-    part (see Fig. 5.110).
+    • se ajustează receptorul de imagine pentru a-l face paralel cu axa longitudinală
+    a părții (vezi Fig. 5.110).
 
-    • Se instruiește pacientul să lean laterally until humeral epicondyles și anterior
-    surface de cot sunt paralel cu plane de receptorul de imagine.
+    • Se instruiește pacientul să se încline lateral până când epicondilii humerali
+    și suprafața anterioară a cotului sunt paralele cu planul receptorului de imagine.
 
-    • Supinate mână la prevent rotație de bones de forearm.
+    • Se supinează mâna pentru a preveni rotația oaselor antebrațului.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun near masa radiologică și low enough la
-    place umăr articulație, humerus, și cot articulație în same plane.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • se așază pacientul pe scaun lângă masa radiologică și suficient de
+    jos pentru a poziționa articulația umărului, humerusul și articulația cotului
+    în același plan.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 321–322
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot
-    articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate
+  collimation: Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față
+    de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate
     în câmpul colimat.
 title: Rx Cot — Incidență Antero-Posterioară (AP) (Merrill)
 ---
@@ -111,17 +118,18 @@ title: Rx Cot — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun near masa radiologică și low enough la place Umăr articulație, Humerus, și Cot articulație în same plane.; se extinde Cot, supinate Mână, și se centrează receptorul de imagine la Cot articulație. se ajustează receptorul de imagine la make it paralel cu axa longitudinală de part (see Fig. 5.110). Se instruiește pacientul să lean laterally until humeral epicondyles și anterior surface de Cot sunt paralel cu plane de receptorul de imagine. Supinate Mână la prevent rotație de bones de Antebraț. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Cot articulație
+    - **Poziție Pacient:** se așază pacientul pe scaun lângă masa radiologică și suficient de jos pentru a poziționa articulația umărului, humerusul și articulația cotului în același plan.; se extinde cotul, se supinează mâna și se centrează receptorul de imagine la articulația cotului. se ajustează receptorul de imagine pentru a-l face paralel cu axa longitudinală a părții (vezi Fig. 5.110). Se instruiește pacientul să se încline lateral până când epicondilii humerali și suprafața anterioară a cotului sunt paralele cu planul receptorului de imagine. Se supinează mâna pentru a preveni rotația oaselor antebrațului. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe articulația cotului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -137,20 +145,20 @@ title: Rx Cot — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - cap radial, neck, și tuberosity slightly superimposed over proximal ulna
-    - Cot articulație centrat pe expunere field
-    - Open humeroradial articulație
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de humeral epicondyles (coronoid și olecran fossae approximately echidistant față de epicondyles)
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - capul radial, colul și tuberozitatea ușor suprapuse peste ulna proximală
+    - Articulația cotului centrată pe câmpul de expunere
+    - Articulație humeroradială deschisă
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a epicondililor humerali (fosetele coronoidă și olecraniană aproximativ echidistante față de epicondili)
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,6 +167,7 @@ title: Rx Cot — Incidență Antero-Posterioară (AP) (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -198,44 +207,3 @@ title: Rx Cot — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 321–322](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP incidență de cot articulație, distal braț, și proximal forearm (Fig. 5.111).
-
-### collimation
-
-• Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la cot articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe cot articulație
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cap radial, neck, și tuberosity slightly superimposed over proximal ulna
-• cot articulație centrat pe expunere field
-• Open humeroradial articulație
-• Absența rotației anatomice (simetrie bilaterală perfectă) de humeral epicondyles (coronoid și olecran fossae approximately echidistant față de epicondyles)
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se extinde cot, supinate mână, și se centrează receptorul de imagine la cot articulație.
-• se ajustează receptorul de imagine la make it paralel cu axa longitudinală de part (see Fig. 5.110).
-• Se instruiește pacientul să lean laterally until humeral epicondyles și anterior surface de cot sunt paralel cu plane de receptorul de imagine.
-• Supinate mână la prevent rotație de bones de forearm.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun near masa radiologică și low enough la place umăr articulație, humerus, și cot articulație în same plane.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

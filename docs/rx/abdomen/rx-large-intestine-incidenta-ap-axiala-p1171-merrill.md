@@ -18,6 +18,10 @@ images:
 - caption: Merrill — pagina 1174, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-ap-axiala-p1171-merrill/p1174_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Această incidență axială se efectuează uneori cu pacientul în poziție oblică
@@ -123,11 +127,12 @@ title: Rx intestin gros — Incidență AP Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -170,6 +175,7 @@ title: Rx intestin gros — Incidență AP Axială (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Această incidență axială se efectuează uneori cu pacientul în poziție oblică posterioară stângă (OPS / LPO), pentru a reduce suplimentar suprapunerea în regiunea rectosigmoidiană.
@@ -217,51 +223,3 @@ title: Rx intestin gros — Incidență AP Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1171–1174](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Regiunea rectosigmoidiană a intestinului gros (colon) (Fig. 15.128 și 15.129). O imagine similară se obține când pacientul este în decubit ventral (vezi Fig. 15.113 și 15.114).
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm) sau 10 × 12 țoli (24 × 30 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Orientată cranial la 30 la 40 grade, pentru a pătrunde pe linia mediană a corpului, la aproximativ 2 țoli (5 cm) sub nivelul spinei iliace antero-superioare (SIAS).
-• Orientată pentru a pătrunde la marginea inferioară a simfizei pubiene, când se dorește o imagine colimată care să evidențieze regiunea rectosigmoidiană.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
-• Regiunea rectosigmoidiană centrată când se utilizează un receptor de imagine de 10 × 12 țoli (24 × 30 cm)
-• Regiunea rectosigmoidiană cu mai puține suprapuneri decât în incidența AP, datorită angulării razei centrale
-• Colonul transvers și flexurile nu sunt incluse
-• Penetrarea substanței de contrast
-
-### note
-
-Această incidență axială se efectuează uneori cu pacientul în poziție oblică posterioară stângă (OPS / LPO), pentru a reduce suplimentar suprapunerea în regiunea rectosigmoidiană.
-
-### part_pos
-
-• Se centrează MSP la grilă.
-• Se ajustează centrul receptorului de imagine la aproximativ 2 țoli (5 cm) deasupra nivelului crestelor iliace (Fig. 15.127).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
-

@@ -3,52 +3,58 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• casetă de suitable size este plasat horizontally în stativ vertical
+centering: '• O casetă de dimensiune adecvată este plasată orizontal în stativul vertical
   Bucky.
 
-  • raza centrală este Orientat orizontal la depression immediately superior la mare
-  trohanter și collimated pentru include simfiză pubiană, ischium și crestele iliace.
+  • Raza centrală este orientată orizontal spre depresiunea imediat superioară trohanterului
+  mare și colimată pentru a include simfiza pubiană, ischionul și crestele iliace.
 
-  Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term
-  de pregnancy (pelvimetry)'
+  Radiografie de bazin în ortostatism, de profil, la termenul complet al sarcinii
+  (pelvimetrie)'
 clinical_indications:
-- 157 5 Bazin (bazin (pelvis)) Profil (lateral) pacientul poate fie examined în Ortostatism,
-  Profil (lateral) decubit sau Decubit dorsal poziție. incidență este uncommon pentru
-  general imaging, ca it will deliver high radiation dose pentru limited diagnostic
-  value. It poate fie used ca part de specific pelvimetry series pentru assessing
-  pelvic inlet și outlet during pregnancy, but this este now rarely practiced. pentru
-  assessment de major pelvic trauma, CT este usually preferred option. Ortostatism
-  incidență only este described.
+- '157 5 Bazin (pelvis), profil: pacientul poate fi examinat în ortostatism, în decubit
+  lateral sau în decubit dorsal. Incidența este neobișnuită pentru imagistica generală,
+  deoarece furnizează o doză mare de radiații pentru o valoare diagnostică limitată.
+  Poate fi utilizată ca parte a unei serii specifice de pelvimetrie pentru evaluarea
+  strâmtorii superioare și a strâmtorii inferioare pelvine în timpul sarcinii, dar
+  aceasta este practicată în prezent rareori. Pentru evaluarea traumatismelor pelvine
+  majore, CT este de obicei opțiunea preferată. Este descrisă numai incidența în ortostatism.'
 images:
-- caption: Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full
-    term de pregnancy (pelvimetry)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie de bazin în ortostatism, de profil, la termenul complet al
+    sarcinii (pelvimetrie)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-bazin-pelvis-profil-lateral-p172-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-bazin-pelvis-profil-lateral-p172-clark/fig_2.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: 'poziție)
+position: 'Poziție)
 
-  • pacientul stă în ortostatism cu either side în contact cu stativ vertical Bucky,
-  which este ajustat vertically la pelvic level.
+  • Pacientul stă în ortostatism, cu oricare parte în contact cu stativul vertical
+  Bucky, care este ajustat vertical la nivelul bazinului.
 
-  • la ensure that pacientul’s stance este firm, picioarele sunt separated.
+  • Pentru a asigura stabilitatea poziției pacientului, picioarele sunt depărtate.
 
-  • planul mediosagital este paralel și plan coronal este perpendicular pe receptorul
+  • Planul mediosagital este paralel, iar planul coronal este perpendicular pe receptorul
   de imagine.
 
-  • careful check trebuie să fie made la ensure that Coloană Vertebrală este paralel
-  cu receptorul de imagine și that plan coronal este în unghi drept față de receptorul
-  de imagine. latter poate fie assessed prin palpating either anterior sau posterior
-  superior iliac spines și rotating pacientul ca necessary so that imaginary line
-  joining two sides este în unghi drept față de receptorul de imagine.
+  • Trebuie efectuată o verificare atentă pentru a asigura că coloana vertebrală este
+  paralelă cu receptorul de imagine și că planul coronal este în unghi drept față
+  de receptorul de imagine. Acesta din urmă poate fi evaluat prin palparea oricăror
+  spine iliace antero-superioare sau postero-superioare și prin rotirea pacientului
+  după cum este necesar, astfel încât linia imaginară care unește cele două părți
+  să fie în unghi drept față de receptorul de imagine.
 
-  • brațele sunt folded across toracele și braț nearest Bucky poate rest pe top de
-  Bucky pentru support.'
+  • Brațele sunt încrucișate peste torace, iar brațul cel mai apropiat de Bucky se
+  poate sprijini pe partea superioară a acestuia pentru susținere.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -57,7 +63,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Bazin (bazin (pelvis))).
+- Vizualizarea clară a întregii arii anatomice (bazin (pelvis)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -67,16 +73,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 172
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Bazin (Pelvis) Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx bazin (pelvis) — profil (lateral)
 ---
-# Rx Bazin (Pelvis) Profil (Lateral)
+# Rx bazin (pelvis) — profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -95,29 +101,32 @@ title: Rx Bazin (Pelvis) Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - 157 5 Bazin (bazin (pelvis)) Profil (lateral) pacientul poate fie examined în Ortostatism, Profil (lateral) decubit sau Decubit dorsal poziție. incidență este uncommon pentru general imaging, ca it will deliver high radiation dose pentru limited diagnostic value. It poate fie used ca part de specific pelvimetry series pentru assessing pelvic inlet și outlet during pregnancy, but this este now rarely practiced. pentru assessment de major pelvic trauma, CT este usually preferred option. Ortostatism incidență only este described.
+        - 157 5 Bazin (pelvis), profil: pacientul poate fi examinat în ortostatism, în decubit lateral sau în decubit dorsal. Incidența este neobișnuită pentru imagistica generală, deoarece furnizează o doză mare de radiații pentru o valoare diagnostică limitată. Poate fi utilizată ca parte a unei serii specifice de pelvimetrie pentru evaluarea strâmtorii superioare și a strâmtorii inferioare pelvine în timpul sarcinii, dar aceasta este practicată în prezent rareori. Pentru evaluarea traumatismelor pelvine majore, CT este de obicei opțiunea preferată. Este descrisă numai incidența în ortostatism.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** poziție)
-• pacientul stă în ortostatism cu either side în contact cu stativ vertical Bucky, which este ajustat vertically la pelvic level.
-• la ensure that pacientul’s stance este firm, picioarele sunt separated.
-• planul mediosagital este paralel și plan coronal este perpendicular pe receptorul de imagine.
-• careful check trebuie să fie made la ensure that Coloană Vertebrală este paralel cu receptorul de imagine și that plan coronal este în unghi drept față de receptorul de imagine. latter poate fie assessed prin palpating either anterior sau posterior superior iliac spines și rotating pacientul ca necessary so that imaginary line joining two sides este în unghi drept față de receptorul de imagine.
-• brațele sunt folded across toracele și braț nearest Bucky poate rest pe top de Bucky pentru support.
-    - **Punct de Centrare Fascicul:** • casetă de suitable size este plasat horizontally în stativ vertical Bucky.
-• raza centrală este Orientat orizontal la depression immediately superior la mare trohanter și collimated pentru include simfiză pubiană, ischium și crestele iliace.
-Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term de pregnancy (pelvimetry)
+    - **Poziție Pacient:**
+        Poziție)
+
+        - Pacientul stă în ortostatism, cu oricare parte în contact cu stativul vertical Bucky, care este ajustat vertical la nivelul bazinului.
+        - Pentru a asigura stabilitatea poziției pacientului, picioarele sunt depărtate.
+        - Planul mediosagital este paralel, iar planul coronal este perpendicular pe receptorul de imagine.
+        - Trebuie efectuată o verificare atentă pentru a asigura că coloana vertebrală este paralelă cu receptorul de imagine și că planul coronal este în unghi drept față de receptorul de imagine. Acesta din urmă poate fi evaluat prin palparea oricăror spine iliace antero-superioare sau postero-superioare și prin rotirea pacientului după cum este necesar, astfel încât linia imaginară care unește cele două părți să fie în unghi drept față de receptorul de imagine.
+        - Brațele sunt încrucișate peste torace, iar brațul cel mai apropiat de Bucky se poate sprijini pe partea superioară a acestuia pentru susținere.
+    - **Punct de Centrare Fascicul:**
+        - O casetă de dimensiune adecvată este plasată orizontal în stativul vertical Bucky.
+        - Raza centrală este orientată orizontal spre depresiunea imediat superioară trohanterului mare și colimată pentru a include simfiza pubiană, ischionul și crestele iliace. Radiografie de bazin în ortostatism, de profil, la termenul complet al sarcinii (pelvimetrie)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -128,19 +137,19 @@ Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term 
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Bazin (bazin (pelvis))).
+    - Vizualizarea clară a întregii arii anatomice (bazin (pelvis)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -154,6 +163,7 @@ Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -164,9 +174,9 @@ Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term 
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term de pregnancy (pelvimetry)](../../assets/images/protocols/clark/rx-bazin-pelvis-profil-lateral-p172-clark/fig_1.jpeg)
+![Radiografie de bazin în ortostatism, de profil, la termenul complet al sarcinii (pelvimetrie)](../../assets/images/protocols/clark/rx-bazin-pelvis-profil-lateral-p172-clark/fig_1.jpeg)
 
-<figcaption><strong>Profil (lateral) Ortostatism radiografie de Bazin (bazin (pelvis)) la full term de pregnancy (pelvimetry)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de bazin în ortostatism, de profil, la termenul complet al sarcinii (pelvimetrie)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -2,99 +2,101 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: orientat la dual angle de 25 grade anteriorly de la orizontal și 25 grade
-  medially. raza centrală enters approximately 5 inches (13 cm) inferior și 1½ inches
-  (3.8 cm) medial la acromial edge și exits cavitate glenoidă.
+centering: Orientat la un unghi dublu de 25 grade anterior față de orizontală și de
+  25 grade medial. Raza centrală intră la aproximativ 5 țoli (13 cm) inferior și 1½
+  țoli (3.8 cm) medial față de marginea acromială și iese prin cavitatea glenoidă.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 397, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-west-point-method-p396-merrill/p397_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se ajustează pacient în Decubit ventral poziție cu approximately a 3-inch
-  (7.6-cm) pad under Umăr being examined. Turn pacientul’s cap away de la side being
-  examined.; Abduct braț de afected side prin 90 grade și rotate it astfel încât Antebraț
-  rests over edge de masa de examinare sau tăvița Bucky, which poate fie used pentru
-  support (Figs. 6.31 și 6.32). Place vertically sprijinit receptorul de imagine pe
-  / sprijinit de superior aspect de Umăr cu edge de receptorul de imagine în contact
-  cu gâtul. Support receptorul de imagine cu săculeți cu nisip sau vertical receptorul
-  de imagine holder. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se ajustează pacientul în poziție de decubit ventral, cu un suport de aproximativ
+  3 țol (7.6-cm) sub umărul examinat. Pacientul își întoarce capul în partea opusă
+  celei examinate. Se abduce brațul de partea afectată la 90 grade și se rotește astfel
+  încât antebrațul să se sprijine peste marginea mesei de examinare sau a tăviței
+  Bucky, care poate fi utilizată pentru susținere (Fig. 6.31 și 6.32). Se plasează
+  vertical, sprijinit, receptorul de imagine pe/lipit de aspectul superior al umărului,
+  cu marginea receptorului de imagine în contact cu gâtul. Se susține receptorul de
+  imagine cu saci cu nisip sau cu un suport vertical pentru receptorul de imagine.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Scapulohumeral articulație cu slight overlap
-- cap humeral projected liber de proces coracoid
-- acromion superimposed over posterior portion de cap humeral
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația scapulohumerală cu ușoară suprapunere
+- Capul humeral proiectat liber de procesul coracoid
+- Acromionul suprapus peste porțiunea posterioară a capului humeral
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-umar-joint-inferosuperior-axial-projection-west-point-method-p396-merrill
 source_pages:
 - 396
 - 397
 source_sections:
-  anatomy: 'Bony abnormalities de anterior inferior rim de glenoid și Hill-Sachs defects
-    de posterolateral cap humeral în pacienți cu chronic
-
-    instability de umăr (Fig. 6.33).'
-  collimation: '• Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator
-    și la 1 inch (2.5 cm) above posterior shadow de umăr.
+  anatomy: Anomalii osoase ale marginii anteroinferioare a glenei și defecte Hill-Sachs
+    ale părții posterolaterale a capului humeral la pacienți cu instabilitate cronică
+    a umărului (Fig. 6.33).
+  collimation: '• Se ajustează câmpul de iradiere la 12 țoli (30 cm) în lățime pe
+    colimator și la 1 țol (2.5 cm) deasupra umbrei posterioare a umărului.
 
     Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: '• orientat la dual angle de 25 grade anteriorly de la orizontal și 25 grade
-    medially. raza centrală enters approximately 5 inches (13
+  cr: • Orientat la un unghi dublu de 25 grade anterior față de orizontală și de 25
+    grade medial. Raza centrală intră la aproximativ 5 țoli (13 cm) inferior și 1½
+    țoli (3.8 cm) medial față de marginea acromială și iese prin cavitatea glenoidă.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    cm) inferior și 1½ inches (3.8 cm) medial la acromial edge și exits cavitate glenoidă.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulația scapulohumerală cu ușoară suprapunere
 
-    • Scapulohumeral articulație cu slight overlap
+    • Capul humeral proiectat liber de procesul coracoid
 
-    • cap humeral projected liber de proces coracoid
+    • Acromionul suprapus peste porțiunea posterioară a capului humeral
 
-    • acromion superimposed over posterior portion de cap humeral
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se abduce brațul de partea afectată la 90 grade și se rotește astfel
+    încât antebrațul să se sprijine peste marginea mesei de examinare sau a tăviței
+    Bucky, care poate fi utilizată pentru susținere (Fig. 6.31 și 6.32).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Abduct braț de afected side prin 90 grade și rotate it astfel încât
-    forearm rests over edge de masa de examinare sau tăvița Bucky, which
+    • Se plasează vertical, sprijinit, receptorul de imagine pe/lipit de aspectul
+    superior al umărului, cu marginea receptorului de imagine în contact cu gâtul.
 
-    poate fie used pentru support (Figs. 6.31 și 6.32).
+    • Se susține receptorul de imagine cu saci cu nisip sau cu un suport vertical
+    pentru receptorul de imagine.
 
-    • Place vertically sprijinit receptorul de imagine pe / sprijinit de superior
-    aspect de umăr cu edge de receptorul de imagine în contact cu gâtul.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se ajustează pacientul în decubit ventral, cu un suport de aproximativ
+    3 țol (7.6-cm) sub umărul examinat.
 
-    • Support receptorul de imagine cu săculeți cu nisip sau vertical receptorul de
-    imagine holder.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se ajustează pacient în decubit ventral cu approximately a 3-inch
-    (7.6-cm) pad under umăr being examined.
-
-    • Turn pacientul’s cap away de la side being examined.'
+    • Pacientul își întoarce capul în partea opusă celei examinate.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
-
-    × 30 cm) transversal, plasat în vertical orientation în contact cu superior surface
-    de umăr.'
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; receptor de imagine: 10 × 12 țoli (24
+    × 30 cm), transversal, plasat în orientare verticală, în contact cu suprafața
+    superioară a umărului.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 396–397
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator
-    și la 1 inch (2.5 cm) above posterior shadow de Umăr. Se plasează markerul de
-    lateralitate în câmpul colimat.
-title: Rx Umăr Joint — Inferosuperior Axial Incidență — West Point Method (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 12 țoli (30 cm) în lățime pe colimator
+    și la 1 țol (2.5 cm) deasupra umbrei posterioare a umărului. Se plasează markerul
+    de lateralitate în câmpul colimat.
+title: Rx articulația umărului — incidență axială inferosuperioară — metoda West Point
+  (Merrill)
 ---
-# Rx Umăr Joint — Inferosuperior Axial Incidență — West Point Method (Merrill)
+# Rx articulația umărului — incidență axială inferosuperioară — metoda West Point (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -118,17 +120,18 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — West Point Method
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se ajustează pacient în Decubit ventral poziție cu approximately a 3-inch (7.6-cm) pad under Umăr being examined. Turn pacientul’s cap away de la side being examined.; Abduct braț de afected side prin 90 grade și rotate it astfel încât Antebraț rests over edge de masa de examinare sau tăvița Bucky, which poate fie used pentru support (Figs. 6.31 și 6.32). Place vertically sprijinit receptorul de imagine pe / sprijinit de superior aspect de Umăr cu edge de receptorul de imagine în contact cu gâtul. Support receptorul de imagine cu săculeți cu nisip sau vertical receptorul de imagine holder. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la dual angle de 25 grade anteriorly de la orizontal și 25 grade medially. raza centrală enters approximately 5 inches (13 cm) inferior și 1½ inches (3.8 cm) medial la acromial edge și exits cavitate glenoidă.
+    - **Poziție Pacient:** Se ajustează pacientul în poziție de decubit ventral, cu un suport de aproximativ 3 țol (7.6-cm) sub umărul examinat. Pacientul își întoarce capul în partea opusă celei examinate. Se abduce brațul de partea afectată la 90 grade și se rotește astfel încât antebrațul să se sprijine peste marginea mesei de examinare sau a tăviței Bucky, care poate fi utilizată pentru susținere (Fig. 6.31 și 6.32). Se plasează vertical, sprijinit, receptorul de imagine pe/lipit de aspectul superior al umărului, cu marginea receptorului de imagine în contact cu gâtul. Se susține receptorul de imagine cu saci cu nisip sau cu un suport vertical pentru receptorul de imagine. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientat la un unghi dublu de 25 grade anterior față de orizontală și de 25 grade medial. Raza centrală intră la aproximativ 5 țoli (13 cm) inferior și 1½ țoli (3.8 cm) medial față de marginea acromială și iese prin cavitatea glenoidă.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -144,19 +147,19 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — West Point Method
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator și la 1 inch (2.5 cm) above posterior shadow de Umăr. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 12 țoli (30 cm) în lățime pe colimator și la 1 țol (2.5 cm) deasupra umbrei posterioare a umărului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Scapulohumeral articulație cu slight overlap
-    - cap humeral projected liber de proces coracoid
-    - acromion superimposed over posterior portion de cap humeral
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația scapulohumerală cu ușoară suprapunere
+    - Capul humeral proiectat liber de procesul coracoid
+    - Acromionul suprapus peste porțiunea posterioară a capului humeral
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -165,6 +168,7 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — West Point Method
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -196,52 +200,3 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — West Point Method
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 396–397](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-Bony abnormalities de anterior inferior rim de glenoid și Hill-Sachs defects de posterolateral cap humeral în pacienți cu chronic
-instability de umăr (Fig. 6.33).
-
-### collimation
-
-• Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator și la 1 inch (2.5 cm) above posterior shadow de umăr.
-Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• orientat la dual angle de 25 grade anteriorly de la orizontal și 25 grade medially. raza centrală enters approximately 5 inches (13
-cm) inferior și 1½ inches (3.8 cm) medial la acromial edge și exits cavitate glenoidă.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Scapulohumeral articulație cu slight overlap
-• cap humeral projected liber de proces coracoid
-• acromion superimposed over posterior portion de cap humeral
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Abduct braț de afected side prin 90 grade și rotate it astfel încât forearm rests over edge de masa de examinare sau tăvița Bucky, which
-poate fie used pentru support (Figs. 6.31 și 6.32).
-• Place vertically sprijinit receptorul de imagine pe / sprijinit de superior aspect de umăr cu edge de receptorul de imagine în contact cu gâtul.
-• Support receptorul de imagine cu săculeți cu nisip sau vertical receptorul de imagine holder.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se ajustează pacient în decubit ventral cu approximately a 3-inch (7.6-cm) pad under umăr being examined.
-• Turn pacientul’s cap away de la side being examined.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) transversal, plasat în vertical orientation în contact cu superior surface de umăr.
-

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: torace
-centering: perpendicular pe centrul receptorului de imagine și entering T3
+centering: Perpendicular pe centrul receptorului de imagine, cu intrare la T3
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,32 +15,37 @@ images:
 - caption: Merrill — pagina 807, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill/p807_fig3.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: This poziție poate fie dificult la perform pe Traumatism / Regim Urgență pacienți.
-  Use ortostatism if pacientul este able.
-position: se așază pacientul în Decubit ventral (sau în ortostatism) poziție. se centrează
-  MSP de pacientul’s corp la linia mediană grilă. Adapt same procedure pentru use
-  cu pacient who este în ortostatism sau Poziție Șezândă în ortostatism.; se centrează
-  receptorul de imagine la nivelul spinous process de third thoracic vertebra, which
-  lies posterior la incizură jugulară (furculiță sternală). se poziționează pacientul’s
-  brațe along sides de corp cu palms facing upward. se ajustează umeri la lie în same
-  plan transversal. pentru bilateral examination, se sprijină pacientul’s cap pe bărbia
-  și adjust it astfel încât MSP este vertical. pentru unilateral incidență, Se instruiește
-  pacientul să turn capul la face afected side și rest cheek pe masa de examinare
-  (Fig. 10.22). Turning capul rotates coloană vertebrală slightly away de la side
-  being examined și provides better visualization de lateral portion de manubriu sternal.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Această poziție poate fi dificil de realizat la pacienții cu traumatisme /
+  în regim de urgență. Utilizați ortostatismul dacă pacientul poate adopta această
+  poziție.
+position: Așezați pacientul în decubit ventral (sau în ortostatism). Centrați MSP
+  al corpului pacientului la linia mediană a grilei. Adaptați aceeași procedură pentru
+  pacientul în ortostatism sau în șezut cu trunchiul vertical. Centrați receptorul
+  de imagine la nivelul apofizei spinoase a celei de-a treia vertebre toracice, situată
+  posterior de incizura jugulară (furculița sternală). Poziționați brațele de-a lungul
+  corpului, cu palmele în sus. Aliniați umerii în același plan transversal. Pentru
+  examinarea bilaterală, sprijiniți capul pacientului pe bărbie și ajustați-l astfel
+  încât MSP să fie vertical. Pentru incidența unilaterală, cereți pacientului să întoarcă
+  fața spre partea afectată și să sprijine obrazul pe masa de examinare (Fig. 10.22).
+  Întoarcerea capului rotește ușor coloana vertebrală în sens opus părții examinate
+  și permite o mai bună vizualizare a porțiunii laterale a manubriului sternal. Efectuați
+  ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- ambele articulații sternoclaviculare și medial ends de clavicles
-- Absența rotației anatomice (simetrie bilaterală perfectă) present pe bilateral examination;
-  slight rotație present pe unilateral examination
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Ambele articulații sternoclaviculare și extremitățile mediale ale claviculelor
+- Absența rotației anatomice (simetrie bilaterală perfectă) la examinarea bilaterală;
+  ușoară rotație la examinarea unilaterală
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sternoclavicular-articulations-incidenta-postero-anterioara-pa-p805-merrill
 source_pages:
@@ -48,52 +53,53 @@ source_pages:
 - 806
 - 807
 source_sections:
-  anatomy: articulații sternoclaviculare și medial portions de clavicles (Figs. 10.23
-    și 10.24).
+  anatomy: Articulațiile sternoclaviculare și porțiunile mediale ale claviculelor
+    (Fig. 10.23 și 10.24).
   collimation: • Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • perpendicular pe centrul receptorului de imagine și entering T3
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • Perpendicular pe centrul receptorului de imagine, cu intrare la T3
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    în afara anatomiei de interes
 
-    • ambele articulații sternoclaviculare și medial ends de clavicles
+    • Ambele articulații sternoclaviculare și extremitățile mediale ale claviculelor
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) present pe bilateral
-    examination; slight rotație present pe unilateral examination
+    • Absența rotației anatomice (simetrie bilaterală perfectă) la examinarea bilaterală;
+    ușoară rotație la examinarea unilaterală
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: This poziție poate fie dificult la perform pe trauma pacienți. Use ortostatism
-    if pacientul este able.
-  part_pos: '• se centrează receptorul de imagine la nivelul spinous process de third
-    thoracic vertebra, which lies posterior la incizură jugulară (furculiță sternală).
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  notes: Această poziție poate fi dificil de realizat la pacienții cu traumatisme.
+    Utilizați ortostatismul dacă pacientul poate adopta această poziție.
+  part_pos: '• Centrați receptorul de imagine la nivelul apofizei spinoase a celei
+    de-a treia vertebre toracice, situată posterior de incizura jugulară (furculița
+    sternală).
 
-    • se poziționează pacientul’s brațe along sides de corp cu palms facing upward.
+    • Poziționați brațele pacientului de-a lungul corpului, cu palmele în sus.
 
-    • se ajustează umeri la lie în same plan transversal.
+    • Aliniați umerii în același plan transversal.
 
-    • pentru bilateral examination, se sprijină pacientul’s cap pe bărbia și adjust
-    it astfel încât MSP este vertical.
+    • Pentru examinarea bilaterală, sprijiniți capul pacientului pe bărbie și ajustați-l
+    astfel încât MSP să fie vertical.
 
-    • pentru unilateral incidență, Se instruiește pacientul să turn capul la face
-    afected side și rest cheek pe masa de examinare (Fig. 10.22). Turning
+    • Pentru incidența unilaterală, cereți pacientului să întoarcă fața spre partea
+    afectată și să sprijine obrazul pe masa de examinare (Fig. 10.22). Întoarcerea
+    capului rotește ușor coloana vertebrală în sens opus părții examinate și permite
+    o mai bună vizualizare a porțiunii laterale a manubriului sternal.
 
-    capul rotates coloană vertebrală slightly away de la side being examined și provides
-    better visualization de lateral portion de manubriu sternal.
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Așezați pacientul în decubit ventral (sau în ortostatism).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit ventral (sau în ortostatism) poziție.
+    • Centrați MSP al corpului pacientului la linia mediană a grilei.
 
-    • se centrează MSP de pacientul’s corp la linia mediană grilă.
-
-    • Adapt same procedure pentru use cu pacient who este în ortostatism sau așezat
-    pe scaun în ortostatism.'
+    • Adaptați aceeași procedură pentru pacientul în ortostatism sau așezat pe scaun
+    cu trunchiul vertical.'
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 10. Bony Thorax, pagini 805–807
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -101,9 +107,9 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA) (Merrill)
+title: Rx articulații sternoclaviculare — Incidență postero-anterioară (PA) (Merrill)
 ---
-# Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA) (Merrill)
+# Rx articulații sternoclaviculare — Incidență postero-anterioară (PA) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -127,17 +133,18 @@ title: Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral (sau în ortostatism) poziție. se centrează MSP de pacientul’s corp la linia mediană grilă. Adapt same procedure pentru use cu pacient who este în ortostatism sau Poziție Șezândă în ortostatism.; se centrează receptorul de imagine la nivelul spinous process de third thoracic vertebra, which lies posterior la incizură jugulară (furculiță sternală). se poziționează pacientul’s brațe along sides de corp cu palms facing upward. se ajustează umeri la lie în same plan transversal. pentru bilateral examination, se sprijină pacientul’s cap pe bărbia și adjust it astfel încât MSP este vertical. pentru unilateral incidență, Se instruiește pacientul să turn capul la face afected side și rest cheek pe masa de examinare (Fig. 10.22). Turning capul rotates coloană vertebrală slightly away de la side being examined și provides better visualization de lateral portion de manubriu sternal. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine și entering T3
+    - **Poziție Pacient:** Așezați pacientul în decubit ventral (sau în ortostatism). Centrați MSP al corpului pacientului la linia mediană a grilei. Adaptați aceeași procedură pentru pacientul în ortostatism sau în șezut cu trunchiul vertical. Centrați receptorul de imagine la nivelul apofizei spinoase a celei de-a treia vertebre toracice, situată posterior de incizura jugulară (furculița sternală). Poziționați brațele de-a lungul corpului, cu palmele în sus. Aliniați umerii în același plan transversal. Pentru examinarea bilaterală, sprijiniți capul pacientului pe bărbie și ajustați-l astfel încât MSP să fie vertical. Pentru incidența unilaterală, cereți pacientului să întoarcă fața spre partea afectată și să sprijine obrazul pe masa de examinare (Fig. 10.22). Întoarcerea capului rotește ușor coloana vertebrală în sens opus părții examinate și permite o mai bună vizualizare a porțiunii laterale a manubriului sternal. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine, cu intrare la T3
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -160,11 +167,11 @@ title: Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - ambele articulații sternoclaviculare și medial ends de clavicles
-    - Absența rotației anatomice (simetrie bilaterală perfectă) present pe bilateral examination; slight rotație present pe unilateral examination
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Ambele articulații sternoclaviculare și extremitățile mediale ale claviculelor
+    - Absența rotației anatomice (simetrie bilaterală perfectă) la examinarea bilaterală; ușoară rotație la examinarea unilaterală
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -174,8 +181,9 @@ title: Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    This poziție poate fie dificult la perform pe Traumatism / Regim Urgență pacienți. Use ortostatism if pacientul este able.
+    Această poziție poate fi dificil de realizat la pacienții cu traumatisme / în regim de urgență. Utilizați ortostatismul dacă pacientul poate adopta această poziție.
 
 
 ### 🖼️ Imagini
@@ -220,55 +228,3 @@ title: Rx Articulații Sternoclaviculare — Incidență Postero-Anterioară (PA
 ## Surse de documentare
 
 - [Merrill’s Atlas, 10. Bony Thorax, pagini 805–807](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-articulații sternoclaviculare și medial portions de clavicles (Figs. 10.23 și 10.24).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe centrul receptorului de imagine și entering T3
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• ambele articulații sternoclaviculare și medial ends de clavicles
-• Absența rotației anatomice (simetrie bilaterală perfectă) present pe bilateral examination; slight rotație present pe unilateral examination
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-This poziție poate fie dificult la perform pe trauma pacienți. Use ortostatism if pacientul este able.
-
-### part_pos
-
-• se centrează receptorul de imagine la nivelul spinous process de third thoracic vertebra, which lies posterior la incizură jugulară (furculiță sternală).
-• se poziționează pacientul’s brațe along sides de corp cu palms facing upward.
-• se ajustează umeri la lie în same plan transversal.
-• pentru bilateral examination, se sprijină pacientul’s cap pe bărbia și adjust it astfel încât MSP este vertical.
-• pentru unilateral incidență, Se instruiește pacientul să turn capul la face afected side și rest cheek pe masa de examinare (Fig. 10.22). Turning
-capul rotates coloană vertebrală slightly away de la side being examined și provides better visualization de lateral portion de manubriu sternal.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral (sau în ortostatism) poziție.
-• se centrează MSP de pacientul’s corp la linia mediană grilă.
-• Adapt same procedure pentru use cu pacient who este în ortostatism sau așezat pe scaun în ortostatism.
-
-### respiration
-
-Apnee la sfârșitul expirului complet.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

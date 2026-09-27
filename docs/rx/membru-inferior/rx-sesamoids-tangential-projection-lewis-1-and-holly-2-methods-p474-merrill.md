@@ -2,7 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular și tangențial pe first articulații metatarsofalangiene (MTF).
+centering: perpendicular și tangențial pe primele articulații metatarsofalangiene
+  (MTF).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,30 +16,34 @@ images:
 - caption: Merrill — pagina 477, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sesamoids-tangential-projection-lewis-1-and-holly-2-methods-p474-merrill/p477_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Holly 2 described poziție that he believed was more comfortable pentru pacientul.
-  cu pacientul Poziție Șezândă pe masa de examinare, Picior este ajustat astfel încât
-  medial margine este vertical, și plantar surface este la un unghi de 75 grade cu
-  plane de receptorul de imagine. pacientul holds Degete Picior în flectat poziție
-  cu strip de gauze bandage. raza centrală este orientat perpendicular pe cap de first
-  oase metatarsiene (Figs. 7.36 through 7.38).
-position: se așază pacientul în Decubit ventral poziție pentru Lewis method și în
-  așezat poziție pentru Holly method. Elevate Gleznă (Articulație Talocrurală) de
-  afected side pe săculeți cu nisip pentru stability, if needed. folded towel poate
-  fie plasat under Genunchi pentru comfort.; Rest great toe pe masa de examinare în
-  poziție de dorsiflexion și adjust it la place ball de Picior perpendicular pe plan
-  orizontal. se centrează receptorul de imagine la second metatarsal (Fig. 7.34).
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Holly 2 a descris o poziție pe care o considera mai confortabilă pentru pacient.
+  Cu pacientul în poziție șezândă pe masa de examinare, piciorul este ajustat astfel
+  încât marginea medială să fie verticală, iar suprafața plantară să formeze un unghi
+  de 75 grade cu planul receptorului de imagine. Pacientul menține degetele piciorului
+  în poziție flectată cu o bandă de tifon. Raza centrală este orientată perpendicular
+  pe capetele primelor oase metatarsiene (Fig. 7.36 până la 7.38).
+position: pacientul este așezat în decubit ventral pentru metoda Lewis și în poziție
+  șezândă pentru metoda Holly. Se ridică glezna de pe partea afectată pe săculeți
+  cu nisip pentru stabilitate, dacă este necesar. Un prosop împăturit poate fi plasat
+  sub genunchi pentru confort.; Se sprijină degetul mare pe masa de examinare în poziție
+  de dorsiflexie și se ajustează pentru a plasa antepiciorul perpendicular pe planul
+  orizontal. Receptorul de imagine se centrează la nivelul celui de-al doilea metatarsian
+  (Fig. 7.34). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Sesamoids liber de orice portion de first metatarsal
-- Metatarsal heads
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Sesamoizii liberi de orice porțiune a primului metatarsian
+- Capetele metatarsienelor
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sesamoids-tangential-projection-lewis-1-and-holly-2-methods-p474-merrill
 source_pages:
@@ -47,55 +52,58 @@ source_pages:
 - 476
 - 477
 source_sections:
-  anatomy: tangențial incidență de metatarsal cap în profile și sesamoids (Fig. 7.35).
-  collimation: • se ajustează câmp de iradiere la 3 × 3 inches (7.6 × 7.6 cm). Se
+  anatomy: incidență tangențială a capetelor metatarsienelor în profil și a sesamoizilor
+    (Fig. 7.35).
+  collimation: • se ajustează câmpul de iradiere la 3 × 3 țoli (7.6 × 7.6 cm). Se
     plasează markerul de lateralitate în câmpul colimat.
-  cr: • perpendicular și tangențial pe first articulații metatarsofalangiene (MTF).
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • perpendicular și tangențial pe primele articulații metatarsofalangiene (MTF).
+  criteria: 'Criterii radiologice pentru calitatea imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Sesamoids liber de orice portion de first metatarsal
+    • Sesamoizii liberi de orice porțiune a primului metatarsian
 
-    • Metatarsal heads
+    • Capetele metatarsienelor
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'Holly 2 described poziție that he believed was more comfortable pentru pacientul.
-    cu pacientul așezat pe scaun pe masa de examinare, picior este
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: 'Holly 2 a descris o poziție pe care o considera mai confortabilă pentru
+    pacient. Cu pacientul așezat pe un scaun pe masa de examinare, piciorul este
 
-    ajustat astfel încât medial margine este vertical, și plantar surface este la
-    un unghi de 75 grade cu plane de receptorul de imagine. pacientul holds
+    ajustat astfel încât marginea medială să fie verticală, iar suprafața plantară
+    să formeze un unghi de 75 grade cu planul receptorului de imagine. Pacientul menține
 
-    toes în flectat poziție cu strip de gauze bandage. raza centrală este orientat
-    perpendicular pe cap de first oase metatarsiene
+    degetele în poziție flectată cu o bandă de tifon. Raza centrală este orientată
+    perpendicular pe capetele primelor oase metatarsiene
 
-    (Figs. 7.36 through 7.38).'
-  part_pos: '• Rest great toe pe masa de examinare în poziție de dorsiflexion și adjust
-    it la place ball de picior perpendicular pe orizontal
+    (Fig. 7.36 până la 7.38).'
+  part_pos: '• Se sprijină degetul mare pe masa de examinare în poziție de dorsiflexie
+    și se ajustează pentru a plasa antepiciorul perpendicular pe planul
 
-    plane.
+    orizontal.
 
-    • se centrează receptorul de imagine la second metatarsal (Fig. 7.34).
+    • receptorul de imagine se centrează la nivelul celui de-al doilea metatarsian
+    (Fig. 7.34).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit ventral pentru Lewis method și în
-    așezat poziție pentru Holly method.
+  patient_pos: '• pacientul este așezat în decubit ventral pentru metoda Lewis și
+    în poziție șezândă pentru metoda Holly.
 
-    • Elevate ankle de afected side pe săculeți cu nisip pentru stability, if needed.
-    folded towel poate fie plasat under genunchi pentru comfort.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se ridică glezna de pe partea afectată pe săculeți cu nisip pentru stabilitate,
+    dacă este necesar. Un prosop împăturit poate fi plasat sub genunchi pentru confort.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 474–477
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 3 × 3 inches (7.6 × 7.6 cm). Se plasează
+  collimation: se ajustează câmpul de iradiere la 3 × 3 țoli (7.6 × 7.6 cm). Se plasează
     markerul de lateralitate în câmpul colimat.
-title: Rx Sesamoids — Tangential Incidență — Lewis 1 and Holly 2 Methods (Merrill)
+title: Rx Sesamoizi — incidență tangențială — metodele Lewis 1 și Holly 2 (Merrill)
 ---
-# Rx Sesamoids — Tangential Incidență — Lewis 1 and Holly 2 Methods (Merrill)
+# Rx Sesamoizi — incidență tangențială — metodele Lewis 1 și Holly 2 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -119,17 +127,18 @@ title: Rx Sesamoids — Tangential Incidență — Lewis 1 and Holly 2 Methods (
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție pentru Lewis method și în așezat poziție pentru Holly method. Elevate Gleznă (Articulație Talocrurală) de afected side pe săculeți cu nisip pentru stability, if needed. folded towel poate fie plasat under Genunchi pentru comfort.; Rest great toe pe masa de examinare în poziție de dorsiflexion și adjust it la place ball de Picior perpendicular pe plan orizontal. se centrează receptorul de imagine la second metatarsal (Fig. 7.34). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular și tangențial pe first articulații metatarsofalangiene (MTF).
+    - **Poziție Pacient:** pacientul este așezat în decubit ventral pentru metoda Lewis și în poziție șezândă pentru metoda Holly. Se ridică glezna de pe partea afectată pe săculeți cu nisip pentru stabilitate, dacă este necesar. Un prosop împăturit poate fi plasat sub genunchi pentru confort.; Se sprijină degetul mare pe masa de examinare în poziție de dorsiflexie și se ajustează pentru a plasa antepiciorul perpendicular pe planul orizontal. Receptorul de imagine se centrează la nivelul celui de-al doilea metatarsian (Fig. 7.34). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular și tangențial pe primele articulații metatarsofalangiene (MTF).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -145,18 +154,18 @@ title: Rx Sesamoids — Tangential Incidență — Lewis 1 and Holly 2 Methods (
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 3 × 3 inches (7.6 × 7.6 cm). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 3 × 3 țoli (7.6 × 7.6 cm). Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Sesamoids liber de orice portion de first metatarsal
-    - Metatarsal heads
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Sesamoizii liberi de orice porțiune a primului metatarsian
+    - Capetele metatarsienelor
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,8 +175,9 @@ title: Rx Sesamoids — Tangential Incidență — Lewis 1 and Holly 2 Methods (
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Holly 2 described poziție that he believed was more comfortable pentru pacientul. cu pacientul Poziție Șezândă pe masa de examinare, Picior este ajustat astfel încât medial margine este vertical, și plantar surface este la un unghi de 75 grade cu plane de receptorul de imagine. pacientul holds Degete Picior în flectat poziție cu strip de gauze bandage. raza centrală este orientat perpendicular pe cap de first oase metatarsiene (Figs. 7.36 through 7.38).
+    Holly 2 a descris o poziție pe care o considera mai confortabilă pentru pacient. Cu pacientul în poziție șezândă pe masa de examinare, piciorul este ajustat astfel încât marginea medială să fie verticală, iar suprafața plantară să formeze un unghi de 75 grade cu planul receptorului de imagine. Pacientul menține degetele piciorului în poziție flectată cu o bandă de tifon. Raza centrală este orientată perpendicular pe capetele primelor oase metatarsiene (Fig. 7.36 până la 7.38).
 
 
 ### 🖼️ Imagini
@@ -212,49 +222,3 @@ title: Rx Sesamoids — Tangential Incidență — Lewis 1 and Holly 2 Methods (
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 474–477](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-tangențial incidență de metatarsal cap în profile și sesamoids (Fig. 7.35).
-
-### collimation
-
-• se ajustează câmp de iradiere la 3 × 3 inches (7.6 × 7.6 cm). Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular și tangențial pe first articulații metatarsofalangiene (MTF).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Sesamoids liber de orice portion de first metatarsal
-• Metatarsal heads
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Holly 2 described poziție that he believed was more comfortable pentru pacientul. cu pacientul așezat pe scaun pe masa de examinare, picior este
-ajustat astfel încât medial margine este vertical, și plantar surface este la un unghi de 75 grade cu plane de receptorul de imagine. pacientul holds
-toes în flectat poziție cu strip de gauze bandage. raza centrală este orientat perpendicular pe cap de first oase metatarsiene
-(Figs. 7.36 through 7.38).
-
-### part_pos
-
-• Rest great toe pe masa de examinare în poziție de dorsiflexion și adjust it la place ball de picior perpendicular pe orizontal
-plane.
-• se centrează receptorul de imagine la second metatarsal (Fig. 7.34).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral pentru Lewis method și în așezat poziție pentru Holly method.
-• Elevate ankle de afected side pe săculeți cu nisip pentru stability, if needed. folded towel poate fie plasat under genunchi pentru comfort.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

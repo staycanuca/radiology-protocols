@@ -35,6 +35,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-antero-posterior-first-and-p187-clark/fig_5.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Se poate obține o reducere a dozei administrate pacientului prin neutilizarea
@@ -129,22 +133,24 @@ title: Rx Coloană Cervicală Antero-Posterior (AP) - prima și
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe masa radiologică sau, dacă se preferă poziționarea verticală, stă așezat ori în ortostatism, cu partea posterioară a capului și a umerilor sprijinită de stativul vertical Bucky.
-• Planul mediosagital este ajustat astfel încât să fie în unghi drept față de casetă și să coincidă cu linia mediană a mesei sau a sistemului Bucky.
-• Gâtul este extins (dacă starea pacientului permite), astfel încât partea inferioară a mandibulei să nu se mai suprapună peste vertebra cervicală superioară.
-• Caseta este poziționată în sistemul Bucky pentru a coincide cu raza centrală. Tăvița Bucky va necesita o anumită deplasare cranială dacă tubul este înclinat.
-    - **Punct de Centrare Fascicul:** • Se utilizează o angulație cranială de 5–15 grade, astfel încât marginea inferioară a simfizei mentoniere să se suprapună peste osul occipital.
-• Fasciculul este centrat pe linia mediană spre un punct situat imediat sub proeminența cartilajului tiroid (mărul lui Adam), trecând prin a cincea vertebră cervicală.
-172
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal pe masa radiologică sau, dacă se preferă poziționarea verticală, stă așezat ori în ortostatism, cu partea posterioară a capului și a umerilor sprijinită de stativul vertical Bucky.
+        - Planul mediosagital este ajustat astfel încât să fie în unghi drept față de casetă și să coincidă cu linia mediană a mesei sau a sistemului Bucky.
+        - Gâtul este extins (dacă starea pacientului permite), astfel încât partea inferioară a mandibulei să nu se mai suprapună peste vertebra cervicală superioară.
+        - Caseta este poziționată în sistemul Bucky pentru a coincide cu raza centrală. Tăvița Bucky va necesita o anumită deplasare cranială dacă tubul este înclinat.
+    - **Punct de Centrare Fascicul:**
+        - Se utilizează o angulație cranială de 5–15 grade, astfel încât marginea inferioară a simfizei mentoniere să se suprapună peste osul occipital.
+        - Fasciculul este centrat pe linia mediană spre un punct situat imediat sub proeminența cartilajului tiroid (mărul lui Adam), trecând prin a cincea vertebră cervicală. 172
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -180,14 +186,15 @@ title: Rx Coloană Cervicală Antero-Posterior (AP) - prima și
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Se poate obține o reducere a dozei administrate pacientului prin neutilizarea grilei.
-Aceasta va produce o imagine cu un contrast mai scăzut, din cauza cantității crescute de radiație împrăștiată incidentă pe filmul radiologic, dar imaginea trebuie să aibă în continuare o calitate diagnostică. Alegerea de a utiliza sau nu grila va varia în funcție de necesitățile și preferințele locale.
 
-• În prezent se desfășoară cercetări pentru investigarea avantajelor realizării acestei incidențe în sens postero-anterior. Poziționarea este similară celei pentru incidența antero-posterioară (AP), cu excepția faptului că pacientul stă cu fața spre casetă, iar tubului i se aplică o angulație caudală de 15 grade. Datele sugerează că această incidență are avantajul de a evidenția mai clar spațiile discale și de a reduce substanțial doza la nivelul tiroidei.
-• Tehnica mandibulei în mișcare utilizează autotomografia liniară convențională pentru a estompa imaginea mandibulei, evidențiind astfel mai clar vertebra superioară. Capul pacientului trebuie să fie bine imobilizat și trebuie utilizat un timp de expunere suficient de lung pentru a permite deschiderea și închiderea mandibulei de mai multe ori.
-• Tomografia liniară convențională a fost utilizată și pentru evidențierea vertebrei cervicale mascate de mandibulă și de masivul facial (oasele feței).
-C3 C4 C5 C6 C7 Tv1 Procesul spinos al C7 Coasta 1 Procese articulare suprapuse Trahee plină cu aer Os occipital Imagine de calitate slabă, cu mandibula mascând coloana cervicală superioară Tehnica mandibulei în mișcare Tomogramă
+    Aceasta va produce o imagine cu un contrast mai scăzut, din cauza cantității crescute de radiație împrăștiată incidentă pe filmul radiologic, dar imaginea trebuie să aibă în continuare o calitate diagnostică. Alegerea de a utiliza sau nu grila va varia în funcție de necesitățile și preferințele locale.
+
+    - În prezent se desfășoară cercetări pentru investigarea avantajelor realizării acestei incidențe în sens postero-anterior. Poziționarea este similară celei pentru incidența antero-posterioară (AP), cu excepția faptului că pacientul stă cu fața spre casetă, iar tubului i se aplică o angulație caudală de 15 grade. Datele sugerează că această incidență are avantajul de a evidenția mai clar spațiile discale și de a reduce substanțial doza la nivelul tiroidei.
+    - Tehnica mandibulei în mișcare utilizează autotomografia liniară convențională pentru a estompa imaginea mandibulei, evidențiind astfel mai clar vertebra superioară. Capul pacientului trebuie să fie bine imobilizat și trebuie utilizat un timp de expunere suficient de lung pentru a permite deschiderea și închiderea mandibulei de mai multe ori.
+    - Tomografia liniară convențională a fost utilizată și pentru evidențierea vertebrei cervicale mascate de mandibulă și de masivul facial (oasele feței). C3 C4 C5 C6 C7 Tv1 Procesul spinos al C7 Coasta 1 Procese articulare suprapuse Trahee plină cu aer Os occipital Imagine de calitate slabă, cu mandibula mascând coloana cervicală superioară Tehnica mandibulei în mișcare Tomogramă
 
 
 ### 🖼️ Imagini

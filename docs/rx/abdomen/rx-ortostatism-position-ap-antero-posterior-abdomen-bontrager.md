@@ -22,6 +22,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.41
     AP în ortostatism.)
   url: assets/images/protocols/bontrager/rx-ortostatism-position-ap-antero-posterior-abdomen-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Pacientul trebuie să stea în ortostatism minimum 5 minute, dar este de dorit
@@ -110,11 +114,12 @@ title: Rx Ortostatism Poziționare AP (Antero-Posterior) (Abdomen)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -160,6 +165,7 @@ title: Rx Ortostatism Poziționare AP (Antero-Posterior) (Abdomen)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pacientul trebuie să stea în ortostatism minimum 5 minute, dar este de dorit să stea 10 până la 20 minute, dacă este posibil, înainte de expunere, pentru vizualizarea unor cantități mici de aer intraperitoneal. Dacă pacientul este prea slăbit pentru a menține poziția în ortostatism, examinarea trebuie efectuată în decubit lateral. Ortostatism. Fig. 3.39 AP în ortostatism—pentru a include cupolele diafragmatice. Fig. 3.40 AP în ortostatism—pentru a include cupolele diafragmatice. Este prezentă ocluzia intestinală (nivele hidroaerice) (observați nivelul hidroaeric). Nivele hidroaerice. Bulă gastrică. Hemidiafragm stâng. Creasta iliacă stângă (corespunzător L4-L5). Hemidiafragm drept. Intestin plin cu aer. T-12. Ficat. Fig. 3.41 AP în ortostatism. Pentru pacienții hiperstenici, pot fi necesare două IR în format orizontal pentru a include întregul abdomen.

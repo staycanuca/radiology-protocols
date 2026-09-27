@@ -3,24 +3,26 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală verticală centrală este centred între pisiform și hook
-  de hamate medially și tubercle de Scafoid Carpian și ridge de trapezium laterally.
+centering: '• raza centrală verticală este centrată între pisiform și cârligul osului
+  hamat, medial, și tuberculul scafoidului carpian și creasta trapezului, lateral.
 
   54'
 clinical_indications:
-- "median nerve along cu flexor tendons pass through tunnel, și orice tumefiere here\
-  \ poate cause compression de median nerve, giving rise la Canal Carpian syndrome.\
-  \ examinare radiografică de bony part de tunnel este prin Axială incidență la evidențiază\
-  \ medial și Profil (lateral) prominences și concavity. This examination este requested\
-  \ less often nowadays due la improved electrophysiological techniques și advent\
-  \ de MRI, which gives far better anatomical information. Two alternative poziții\
-  \ using an 18 \x02 24-cm casetă sunt described, depending pe condition de pacientul.\
-  \ Axială – method 1"
+- Nervul median și tendoanele flexoare trec prin tunel, iar orice tumefiere aici poate
+  cauza compresia nervului median, determinând sindrom de tunel carpian. Examinarea
+  radiografică a componentei osoase a tunelului se realizează printr-o incidență axială
+  pentru a evidenția proeminențele medială și laterală și concavitatea. Această examinare
+  este solicitată mai rar în prezent datorită tehnicilor electrofiziologice îmbunătățite
+  și apariției RMN-ului, care oferă informații anatomice mult mai bune. Sunt descrise
+  două poziții alternative, folosind o casetă de 18 × 24 cm, în funcție de starea
+  pacientului. Axială – metoda 1
 images:
-- caption: examinare radiografică de bony part de tunnel este prin
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: examinarea radiografică a componentei osoase a tunelului se realizează
+    prin
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-canal-carpian-axiala-method-1-p69-clark/fig_1.jpeg
-- caption: Normal Canal Carpian radiografie
+- caption: Radiografie normală a tunelului carpian
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-canal-carpian-axiala-method-1-p69-clark/fig_2.jpeg
@@ -28,18 +30,22 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-canal-carpian-axiala-method-1-p69-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 position: '• Pacientul este așezat pe scaun lângă masa de examinare.
 
-  • caseta este plasat pe top de plastic block approximately 8 cm high.
+  • caseta este plasată pe un bloc de plastic cu înălțimea de aproximativ 8 cm.
 
-  • lower end de Antebraț (Radius și Ulna) rests pe / sprijinit de edge de block,
-  cu Pumn (Articulație Radiocarpiană) în adducție și dorsiflexed la 135 grade.
+  • extremitatea distală a antebrațului (radiusul și ulna) se sprijină pe marginea
+  blocului, cu pumnul în adducție și dorsiflectat la 135 grade.
 
-  • This poziție este assisted using traction bandage held prin pacientul’s other
-  Mână.'
+  • Această poziție este menținută folosind un bandaj de tracțiune ținut de cealaltă
+  mână a pacientului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -48,11 +54,11 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază clearly pisiform și hook de hamate medially și tubercle
-  de Scafoid Carpian și tubercle de trapezium laterally. Normal Canal Carpian radiografie
-  1 2 3 4 5 oase metacarpiene 1–5 Triquetral Pisiform Hook de hamate Capitate Lunate
-  Crest de trapezium Tubercle de Scafoid Carpian Scafoid Carpian Trapezium Trapezoid
-  Radius Ulna
+- Imaginea trebuie să evidențieze clar pisiformul și cârligul osului hamat, medial,
+  precum și tuberculul scafoidului carpian și tuberculul trapezului, lateral. Radiografie
+  normală a tunelului carpian 1 2 3 4 5 oase metacarpiene 1–5 triquetrum pisiform
+  cârligul osului hamat capitat semilunar creasta trapezului tuberculul scafoidului
+  carpian scafoid carpian trapez trapezoid radius ulna
 sid_dff: 100 cm
 slug: rx-canal-carpian-axiala-method-1-p69-clark
 sources:
@@ -61,14 +67,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Canal Carpian Axială - method 1
+  mas: Conform AEC / grosimii anatomice
+title: Rx tunel carpian axială – metoda 1
 ---
-# Rx Canal Carpian Axială - method 1
+# Rx tunel carpian axială – metoda 1
 
 
 <div class="rx-meta-bar">
@@ -87,26 +93,28 @@ title: Rx Canal Carpian Axială - method 1
 
     === "Indicații Clinice"
 
-        - median nerve along cu flexor tendons pass through tunnel, și orice tumefiere here poate cause compression de median nerve, giving rise la Canal Carpian syndrome. examinare radiografică de bony part de tunnel este prin Axială incidență la evidențiază medial și Profil (lateral) prominences și concavity. This examination este requested less often nowadays due la improved electrophysiological techniques și advent de MRI, which gives far better anatomical information. Two alternative poziții using an 18  24-cm casetă sunt described, depending pe condition de pacientul. Axială – method 1
+        - Nervul median și tendoanele flexoare trec prin tunel, iar orice tumefiere aici poate cauza compresia nervului median, determinând sindrom de tunel carpian. Examinarea radiografică a componentei osoase a tunelului se realizează printr-o incidență axială pentru a evidenția proeminențele medială și laterală și concavitatea. Această examinare este solicitată mai rar în prezent datorită tehnicilor electrofiziologice îmbunătățite și apariției RMN-ului, care oferă informații anatomice mult mai bune. Sunt descrise două poziții alternative, folosind o casetă de 18 × 24 cm, în funcție de starea pacientului. Axială – metoda 1
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat pe scaun lângă masa de examinare.
-• caseta este plasat pe top de plastic block approximately 8 cm high.
-• lower end de Antebraț (Radius și Ulna) rests pe / sprijinit de edge de block, cu Pumn (Articulație Radiocarpiană) în adducție și dorsiflexed la 135 grade.
-• This poziție este assisted using traction bandage held prin pacientul’s other Mână.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este centred între pisiform și hook de hamate medially și tubercle de Scafoid Carpian și ridge de trapezium laterally.
-54
+    - **Poziție Pacient:**
+        - Pacientul este așezat pe scaun lângă masa de examinare.
+        - caseta este plasată pe un bloc de plastic cu înălțimea de aproximativ 8 cm.
+        - extremitatea distală a antebrațului (radiusul și ulna) se sprijină pe marginea blocului, cu pumnul în adducție și dorsiflectat la 135 grade.
+        - Această poziție este menținută folosind un bandaj de tracțiune ținut de cealaltă mână a pacientului.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală verticală este centrată între pisiform și cârligul osului hamat, medial, și tuberculul scafoidului carpian și creasta trapezului, lateral. 54
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -117,19 +125,19 @@ title: Rx Canal Carpian Axială - method 1
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază clearly pisiform și hook de hamate medially și tubercle de Scafoid Carpian și tubercle de trapezium laterally. Normal Canal Carpian radiografie 1 2 3 4 5 oase metacarpiene 1–5 Triquetral Pisiform Hook de hamate Capitate Lunate Crest de trapezium Tubercle de Scafoid Carpian Scafoid Carpian Trapezium Trapezoid Radius Ulna
+    - Imaginea trebuie să evidențieze clar pisiformul și cârligul osului hamat, medial, precum și tuberculul scafoidului carpian și tuberculul trapezului, lateral. Radiografie normală a tunelului carpian 1 2 3 4 5 oase metacarpiene 1–5 triquetrum pisiform cârligul osului hamat capitat semilunar creasta trapezului tuberculul scafoidului carpian scafoid carpian trapez trapezoid radius ulna
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -141,6 +149,7 @@ title: Rx Canal Carpian Axială - method 1
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -151,17 +160,17 @@ title: Rx Canal Carpian Axială - method 1
 
 <figure class="protocol-image-card" markdown>
 
-![examinare radiografică de bony part de tunnel este prin](../../assets/images/protocols/clark/rx-canal-carpian-axiala-method-1-p69-clark/fig_1.jpeg)
+![examinarea radiografică a componentei osoase a tunelului se realizează prin](../../assets/images/protocols/clark/rx-canal-carpian-axiala-method-1-p69-clark/fig_1.jpeg)
 
-<figcaption><strong>examinare radiografică de bony part de tunnel este prin</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>examinarea radiografică a componentei osoase a tunelului se realizează prin</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Canal Carpian radiografie](../../assets/images/protocols/clark/rx-canal-carpian-axiala-method-1-p69-clark/fig_2.jpeg)
+![Radiografie normală a tunelului carpian](../../assets/images/protocols/clark/rx-canal-carpian-axiala-method-1-p69-clark/fig_2.jpeg)
 
-<figcaption><strong>Normal Canal Carpian radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală a tunelului carpian</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

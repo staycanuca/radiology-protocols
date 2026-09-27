@@ -2,90 +2,92 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: orientat 40 grade caudal, entering linia mediană la nivelul spină iliacă
-  antero-superioară (SIAS)
+centering: orientată la 40 de grade caudal, pătrunzând pe linia mediană la nivelul
+  spinelor iliace anterosuperioare (SIAS)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 641, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-anterior-pelvic-bones-superoinferior-axial-inlet-projection-bridgman-method-12-p640-merrill/p641_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul pe masa radiologică în Decubit dorsal poziție.;
-  se centrează MSP de pacientul’s corp la linia mediană grilă. se flectează genunchi
-  slightly și support them la relieve strain. se ajustează Bazin (bazin (pelvis))
-  astfel încât ASISs sunt echidistant față de masa de examinare. cu receptorul de
-  imagine în tăvița Bucky, center it la nivelul greater trochanters (Fig. 8.48).
+position: se poziționează pacientul pe masa radiologică în decubit dorsal.; se centrează
+  MSP al corpului pacientului la linia mediană a grilei. Se flectează ușor genunchii
+  și se susțin pentru a reduce tensiunea. Se ajustează bazinul astfel încât SIAS să
+  fie echidistante față de masa de examinare. Cu receptorul de imagine în tăvița Bucky,
+  se centrează la nivelul marilor trohanteri (Fig. 8.48).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Medially superimposed superior și inferior rami de pubic bones
-- Nearly superimposed lateral two-thirds de pubic și ischial bones
-- simetric pubes și coloană vertebrală ischiatice
-- Șold articulații
-- anterior pelvic bones
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Ramurile superioare și inferioare ale oaselor pubiene suprapuse medial
+- Cele două treimi laterale ale oaselor pubiene și ischiatice aproape suprapuse
+- pubiene și spine ischiatice simetrice
+- Articulațiile șoldului
+- oasele pelvine anterioare
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-anterior-pelvic-bones-superoinferior-axial-inlet-projection-bridgman-method-12-p640-merrill
 source_pages:
 - 640
 - 641
 source_sections:
-  anatomy: axial incidență de pelvic ring, sau inlet, în its entirety (Fig. 8.49).
-  collimation: '• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin
+  anatomy: incidența axială a inelului pelvin, sau inlet, în întregime (Fig. 8.49).
+  collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
+    Pentru pacienții mai mici, se colimează la 1 țol (2.5 cm) dincolo de umbra cutanată
+    pe părți. Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • orientat la 40 grade caudal, intrând pe linia mediană la nivelul spinei iliace
+    anterosuperioare (SIAS)
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    shadow pe sides. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • orientat 40 grade caudal, entering linia mediană la nivelul spină iliacă antero-superioară
-    (SIAS)
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în raport cu anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Ramurile superioare și inferioare ale oaselor pubiene suprapuse medial
 
-    • Medially superimposed superior și inferior rami de pubic bones
+    • Cele două treimi laterale ale oaselor pubiene și ischiatice aproape suprapuse
 
-    • Nearly superimposed lateral two-thirds de pubic și ischial bones
+    • Oasele pubiene și spinele ischiatice simetrice
 
-    • simetric pubes și coloană vertebrală ischiatice
+    • Articulațiile coxofemurale
 
-    • Hip articulații
+    • Oasele pelvine anterioare
 
-    • anterior pelvic bones
+    • Detalii osoase trabeculare și țesuturile moi înconjurătoare'
+  part_pos: '• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează MSP de pacientul’s corp la linia mediană grilă.
+    • Se flectează ușor genunchii și se sprijină pentru a reduce solicitarea.
 
-    • se flectează genunchi slightly și support them la relieve strain.
+    • Se ajustează bazinul (pelvisul) astfel încât ASIS-urile să fie echidistante
+    față de masa de examinare.
 
-    • se ajustează bazin (pelvis) astfel încât ASISs sunt echidistant față de masa
-    de examinare.
-
-    • cu receptorul de imagine în tăvița Bucky, center it la nivelul greater trochanters
-    (Fig. 8.48).'
-  patient_pos: • se poziționează pacientul pe masa radiologică în decubit dorsal.
+    • Cu receptorul de imagine în tăvița Bucky, se centrează la nivelul trohanterilor
+    mari (Fig. 8.48).'
+  patient_pos: • Se poziționează pacientul pe masa radiologică în decubit dorsal.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) transversal.'
+  tech: 'poziționat de producător sau prin protocolul departamentului pentru orientarea
+    corectă a afișării anatomiei; placa pentru raza centrală: 14 × 17 țoli (35 × 43
+    cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 640–641
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin shadow pe sides.
-    Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Anterior Pelvic Bones — Superoinferior Axial Inlet Incidență — BRIDGMAN
-  Method 12 (Merrill)
+    Pentru pacienții mai mici, se colimează la 1 țol (2.5 cm) dincolo de umbra cutanată
+    pe părți. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx oasele pelvine anterioare — incidență axială superoinferioară inlet — Metoda
+  BRIDGMAN 12 (Merrill)
 ---
-# Rx Anterior Pelvic Bones — Superoinferior Axial Inlet Incidență — BRIDGMAN Method 12 (Merrill)
+# Rx oasele pelvine anterioare — incidență axială superoinferioară inlet — Metoda BRIDGMAN 12 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -109,17 +111,18 @@ title: Rx Anterior Pelvic Bones — Superoinferior Axial Inlet Incidență — B
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul pe masa radiologică în Decubit dorsal poziție.; se centrează MSP de pacientul’s corp la linia mediană grilă. se flectează genunchi slightly și support them la relieve strain. se ajustează Bazin (bazin (pelvis)) astfel încât ASISs sunt echidistant față de masa de examinare. cu receptorul de imagine în tăvița Bucky, center it la nivelul greater trochanters (Fig. 8.48).
-    - **Punct de Centrare Fascicul:** orientat 40 grade caudal, entering linia mediană la nivelul spină iliacă antero-superioară (SIAS)
+    - **Poziție Pacient:** se poziționează pacientul pe masa radiologică în decubit dorsal.; se centrează MSP al corpului pacientului la linia mediană a grilei. Se flectează ușor genunchii și se susțin pentru a reduce tensiunea. Se ajustează bazinul astfel încât SIAS să fie echidistante față de masa de examinare. Cu receptorul de imagine în tăvița Bucky, se centrează la nivelul marilor trohanteri (Fig. 8.48).
+    - **Punct de Centrare Fascicul:** orientată la 40 de grade caudal, pătrunzând pe linia mediană la nivelul spinelor iliace anterosuperioare (SIAS)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -135,21 +138,21 @@ title: Rx Anterior Pelvic Bones — Superoinferior Axial Inlet Incidență — B
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin shadow pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții mai mici, se colimează la 1 țol (2.5 cm) dincolo de umbra cutanată pe părți. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Medially superimposed superior și inferior rami de pubic bones
-    - Nearly superimposed lateral two-thirds de pubic și ischial bones
-    - simetric pubes și coloană vertebrală ischiatice
-    - Șold articulații
-    - anterior pelvic bones
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Ramurile superioare și inferioare ale oaselor pubiene suprapuse medial
+    - Cele două treimi laterale ale oaselor pubiene și ischiatice aproape suprapuse
+    - pubiene și spine ischiatice simetrice
+    - Articulațiile șoldului
+    - oasele pelvine anterioare
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -158,6 +161,7 @@ title: Rx Anterior Pelvic Bones — Superoinferior Axial Inlet Incidență — B
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -189,50 +193,3 @@ title: Rx Anterior Pelvic Bones — Superoinferior Axial Inlet Incidență — B
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 640–641](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-axial incidență de pelvic ring, sau inlet, în its entirety (Fig. 8.49).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin
-shadow pe sides. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• orientat 40 grade caudal, entering linia mediană la nivelul spină iliacă antero-superioară (SIAS)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Medially superimposed superior și inferior rami de pubic bones
-• Nearly superimposed lateral two-thirds de pubic și ischial bones
-• simetric pubes și coloană vertebrală ischiatice
-• Hip articulații
-• anterior pelvic bones
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează MSP de pacientul’s corp la linia mediană grilă.
-• se flectează genunchi slightly și support them la relieve strain.
-• se ajustează bazin (pelvis) astfel încât ASISs sunt echidistant față de masa de examinare.
-• cu receptorul de imagine în tăvița Bucky, center it la nivelul greater trochanters (Fig. 8.48).
-
-### patient_pos
-
-• se poziționează pacientul pe masa radiologică în decubit dorsal.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) transversal.
-

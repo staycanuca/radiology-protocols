@@ -8,6 +8,10 @@ clinical_indications:
   ortopedică.
 clinical_status: draft_not_for_clinical_use
 images: []
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Distanța, calibrarea, metoda de asamblare și suporturile trebuie validate pe
@@ -86,13 +90,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx RX telemetrie membre inferioare — axe și lungimi
+title: Rx telemetrie membre inferioare — axe și lungimi
 workbench_transfer:
   draft_id: e4efeafb3bc65232af6514a9b1ea0e16
   purpose: review_in_main_application
   transferred_at: '2026-09-15T08:50:31.294515+00:00'
 ---
-# Rx RX telemetrie membre inferioare — axe și lungimi
+# Rx telemetrie membre inferioare — axe și lungimi
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -119,11 +123,12 @@ workbench_transfer:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -163,6 +168,7 @@ workbench_transfer:
     - Ecranarea pacientului conform politicii locale actualizate; protecția însoțitorilor se stabilește separat.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Distanța, calibrarea, metoda de asamblare și suporturile trebuie validate pe aparatul local. O imagine necalibrată nu este etalon pentru planificare.

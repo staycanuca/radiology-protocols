@@ -46,6 +46,10 @@ images:
 - caption: Merrill — pagina 1140, imaginea 13
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-small-intestine-pa-or-incidenta-antero-posterioara-ap-p1129-merrill/p1140_fig13.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -174,11 +178,12 @@ title: Rx Intestin Subțire (Tranzit Intestinal) — PA sau Incidență Antero-P
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -224,6 +229,7 @@ title: Rx Intestin Subțire (Tranzit Intestinal) — PA sau Incidență Antero-P
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -351,54 +357,3 @@ title: Rx Intestin Subțire (Tranzit Intestinal) — PA sau Incidență Antero-P
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1129–1140](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Intestinul subțire se umple progresiv până când bariul ajunge la valva ileocecală (Fig. 15.83–15.86). Când bariul a ajuns în regiunea ileocecală,
-se poate efectua fluoroscopie și se pot obține imagini radiografice cu compresie (Fig. 15.87). Examinarea se încheie de obicei când
-bariul este vizualizat în cec, de regulă în aproximativ 2 ore la pacientul cu motilitate intestinală normală.
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• perpendicular pe centrul receptorului de imagine (L2) pentru imaginile precoce sau la nivelul crestelor iliace pentru expunerile din secvența tardivă.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara regiunii anatomice de interes
-• Întregul intestin subțire pe fiecare imagine
-• Stomacul pe imaginile inițiale
-• Marker de timp
-• Coloana vertebrală centrată pe imagine
-• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
-• Penetrarea substanței de contrast
-• Finalizați examinarea când bariul ajunge în cec
-
-### part_pos
-
-• Se ajustează poziția pacientului astfel încât MSP să fie centrat pe grilă.
-• Pentru pacientul normostenic, se centrează receptorul de imagine la nivelul L2 pentru imaginile obținute în decurs de 30 minute după administrarea substanței de contrast
-(Fig. 15.82).
-• Pentru imaginile tardive, se centrează receptorul de imagine la nivelul crestelor iliace.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral sau decubit dorsal.
-
-### respirație
-
-Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
-43 cm), longitudinal.
-

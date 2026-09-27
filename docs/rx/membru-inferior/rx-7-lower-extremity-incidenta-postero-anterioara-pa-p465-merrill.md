@@ -2,10 +2,11 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe midpoint de receptorul de imagine entering third articulații
-  metatarsofalangiene (MTF) (see Fig. 7.20). articulații interfalangiene (IF) spaces
-  sunt vizualizat well because natural divergence de x-ray fascicul coincides closely
-  cu poziție de Degete Picior (Fig. 7.21).
+centering: perpendicular pe punctul median al receptorului de imagine și incident
+  pe a treia articulație metatarsofalangiană (MTF) (consultați Fig. 7.20). Spațiile
+  articulațiilor interfalangiene (IF) sunt vizualizate bine deoarece divergența naturală
+  a fasciculului de raze X coincide îndeaproape cu poziția degetelor de la picior
+  (Fig. 7.21).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,85 +16,90 @@ images:
 - caption: Merrill — pagina 466, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-7-lower-extremity-incidenta-postero-anterioara-pa-p465-merrill/p466_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să lie Decubit ventral pe masa radiologică because
-  this poziție naturally turns Picior over astfel încât dorsal aspect este în contact
-  cu receptorul de imagine.; Place Degete Picior în appropriate poziție prin elevating
-  them pe one sau two small săculeți cu nisip și adjusting support la place Degete
-  Picior horizontally. Place receptorul de imagine under Degete Picior cu linia mediană
-  paralel cu axa longitudinală de Picior, și centrat pe third articulații metatarsofalangiene
-  (MTF) (Fig. 7.20).
+position: Instruiți pacientul să stea în decubit ventral pe masa radiologică, deoarece
+  această poziție întoarce în mod natural piciorul astfel încât aspectul dorsal să
+  fie în contact cu receptorul de imagine.; Plasați degetele de la picior în poziția
+  adecvată, ridicându-le pe unul sau doi săculeți mici cu nisip și ajustând suportul
+  pentru a poziționa degetele de la picior orizontal. Plasați receptorul de imagine
+  sub degetele de la picior, cu linia mediană paralelă cu axa longitudinală a piciorului
+  și centrat pe a treia articulație metatarsofalangiană (MTF) (Fig. 7.20).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire Degete Picior, including distal ends de oase metatarsiene
-- Degete Picior separated de la fiecare other
-- Absența rotației anatomice (simetrie bilaterală perfectă) de falange; părți moi
-  width și midshaft concavity equal pe ambele părți (bilateral)
-- Open interphalangeal și articulații metatarsofalangiene (MTF) spaces
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Toate degetele de la picior, inclusiv extremitățile distale ale oaselor metatarsiene
+- Degetele de la picior separate unele de altele
+- Absența rotației anatomice (simetrie bilaterală perfectă) a falangelor; lățimea
+  părților moi și concavitatea diafizei egale pe ambele părți (bilateral)
+- Spații interfalangiene și spațiile articulațiilor metatarsofalangiene (MTF) deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-7-lower-extremity-incidenta-postero-anterioara-pa-p465-merrill
 source_pages:
 - 465
 - 466
 source_sections:
-  anatomy: 14 falange de toes, articulații interfalangiene (IF), și distal portions
-    de oase metatarsiene.
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    de toes, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene
-    (MTF). Place side
+  anatomy: 14 falange ale degetelor de la picior, articulațiile interfalangiene (IF)
+    și porțiunile distale ale oaselor metatarsiene.
+  collimation: • ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor
+    de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene
+    (MTF). Plasați markerul de lateralitate în câmpul de expunere colimat.
+  cr: • perpendicular pe punctul median al receptorului de imagine și incident pe
+    a treia articulație metatarsofalangiană (MTF) (consultați Fig. 7.20). Spațiile
+    articulațiilor interfalangiene (IF) sunt vizualizate bine deoarece divergența
+    naturală a fasciculului de raze X coincide îndeaproape cu poziția degetelor de
+    la picior (Fig. 7.21).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker în collimated expunere field.'
-  cr: • perpendicular pe midpoint de receptorul de imagine entering third articulații
-    metatarsofalangiene (MTF) (see Fig. 7.20). articulații interfalangiene (IF) spaces
-    sunt vizualizat well because natural divergence de x-ray fascicul coincides closely
-    cu poziție de toes (Fig. 7.21).
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Toate degetele de la picior, inclusiv extremitățile distale ale oaselor metatarsiene
 
-    • Entire toes, including distal ends de oase metatarsiene
+    • Degetele de la picior separate unele de altele
 
-    • Toes separated de la fiecare other
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a falangelor; lățimea
+    părților moi și concavitatea diafizei egale pe ambele părți (bilateral)
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de falange; părți
-    moi width și midshaft concavity equal pe ambele părți (bilateral)
+    • Spații interfalangiene și spațiile articulațiilor metatarsofalangiene (MTF)
+    deschise
 
-    • Open interphalangeal și articulații metatarsofalangiene (MTF) spaces
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  part_pos: '• Plasați degetele de la picior în poziția adecvată, ridicându-le pe
+    unul sau doi săculeți mici cu nisip și ajustând suportul pentru a poziționa degetele
+    de la picior
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place toes în appropriate poziție prin elevating them pe one sau two
-    small săculeți cu nisip și adjusting support la place toes
+    orizontal.
 
-    horizontally.
-
-    Place receptorul de imagine under toes cu linia mediană paralel cu axa longitudinală
-    de picior, și centrat pe third articulații metatarsofalangiene (MTF) (Fig. 7.20).'
-  patient_pos: '• Se instruiește pacientul să lie în decubit ventral pe masa radiologică
-    because this poziție naturally turns picior over astfel încât dorsal aspect este
-    în
-
-    contact cu receptorul de imagine.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    Plasați receptorul de imagine sub degetele de la picior, cu linia mediană paralelă
+    cu axa longitudinală a piciorului și centrat pe a treia articulație metatarsofalangiană
+    (MTF) (Fig. 7.20).'
+  patient_pos: • Se instruiește pacientul să stea în decubit ventral pe masa radiologică,
+    deoarece această poziție rotește în mod natural piciorul astfel încât fața dorsală
+    să fie în contact cu receptorul de imagine.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 465–466
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de
-    Degete Picior, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene
-    (MTF). Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Membru Inferior — Incidență Postero-Anterioară (PA) (Merrill)
+  collimation: ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor
+    de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene
+    (MTF). Plasați markerul de lateralitate în câmpul colimat.
+title: Rx membru inferior — incidență postero-anterioară (PA) (Merrill)
 ---
-# Rx Membru Inferior — Incidență Postero-Anterioară (PA) (Merrill)
+# Rx membru inferior — incidență postero-anterioară (PA) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -117,17 +123,18 @@ title: Rx Membru Inferior — Incidență Postero-Anterioară (PA) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să lie Decubit ventral pe masa radiologică because this poziție naturally turns Picior over astfel încât dorsal aspect este în contact cu receptorul de imagine.; Place Degete Picior în appropriate poziție prin elevating them pe one sau two small săculeți cu nisip și adjusting support la place Degete Picior horizontally. Place receptorul de imagine under Degete Picior cu linia mediană paralel cu axa longitudinală de Picior, și centrat pe third articulații metatarsofalangiene (MTF) (Fig. 7.20).
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de receptorul de imagine entering third articulații metatarsofalangiene (MTF) (see Fig. 7.20). articulații interfalangiene (IF) spaces sunt vizualizat well because natural divergence de x-ray fascicul coincides closely cu poziție de Degete Picior (Fig. 7.21).
+    - **Poziție Pacient:** Instruiți pacientul să stea în decubit ventral pe masa radiologică, deoarece această poziție întoarce în mod natural piciorul astfel încât aspectul dorsal să fie în contact cu receptorul de imagine.; Plasați degetele de la picior în poziția adecvată, ridicându-le pe unul sau doi săculeți mici cu nisip și ajustând suportul pentru a poziționa degetele de la picior orizontal. Plasați receptorul de imagine sub degetele de la picior, cu linia mediană paralelă cu axa longitudinală a piciorului și centrat pe a treia articulație metatarsofalangiană (MTF) (Fig. 7.20).
+    - **Punct de Centrare Fascicul:** perpendicular pe punctul median al receptorului de imagine și incident pe a treia articulație metatarsofalangiană (MTF) (consultați Fig. 7.20). Spațiile articulațiilor interfalangiene (IF) sunt vizualizate bine deoarece divergența naturală a fasciculului de raze X coincide îndeaproape cu poziția degetelor de la picior (Fig. 7.21).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -143,20 +150,20 @@ title: Rx Membru Inferior — Incidență Postero-Anterioară (PA) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Degete Picior, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene (MTF). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene (MTF). Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Degete Picior, including distal ends de oase metatarsiene
-    - Degete Picior separated de la fiecare other
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de falange; părți moi width și midshaft concavity equal pe ambele părți (bilateral)
-    - Open interphalangeal și articulații metatarsofalangiene (MTF) spaces
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Toate degetele de la picior, inclusiv extremitățile distale ale oaselor metatarsiene
+    - Degetele de la picior separate unele de altele
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a falangelor; lățimea părților moi și concavitatea diafizei egale pe ambele părți (bilateral)
+    - Spații interfalangiene și spațiile articulațiilor metatarsofalangiene (MTF) deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -165,6 +172,7 @@ title: Rx Membru Inferior — Incidență Postero-Anterioară (PA) (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -204,44 +212,3 @@ title: Rx Membru Inferior — Incidență Postero-Anterioară (PA) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 465–466](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-14 falange de toes, articulații interfalangiene (IF), și distal portions de oase metatarsiene.
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de toes, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene (MTF). Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular pe midpoint de receptorul de imagine entering third articulații metatarsofalangiene (MTF) (see Fig. 7.20). articulații interfalangiene (IF) spaces sunt vizualizat well because natural divergence de x-ray fascicul coincides closely cu poziție de toes (Fig. 7.21).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire toes, including distal ends de oase metatarsiene
-• Toes separated de la fiecare other
-• Absența rotației anatomice (simetrie bilaterală perfectă) de falange; părți moi width și midshaft concavity equal pe ambele părți (bilateral)
-• Open interphalangeal și articulații metatarsofalangiene (MTF) spaces
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Place toes în appropriate poziție prin elevating them pe one sau two small săculeți cu nisip și adjusting support la place toes
-horizontally.
-Place receptorul de imagine under toes cu linia mediană paralel cu axa longitudinală de picior, și centrat pe third articulații metatarsofalangiene (MTF) (Fig. 7.20).
-
-### patient_pos
-
-• Se instruiește pacientul să lie în decubit ventral pe masa radiologică because this poziție naturally turns picior over astfel încât dorsal aspect este în
-contact cu receptorul de imagine.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

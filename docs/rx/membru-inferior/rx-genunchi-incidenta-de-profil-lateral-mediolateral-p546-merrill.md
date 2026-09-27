@@ -2,12 +2,12 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: orientat la Genunchi articulație 1 inch (2.5 cm) distal la epicondil medial
-  (epitrohlee) la un unghi de 5 la 7 grade cranial. This slight angulation de raza
-  centrală prevents spații articulare de la being obscured prin magnified imagine
-  de medial femoral condyle. în addition, în lateral Decubit poziție, medial condyle
-  este slightly inferior la lateral condyle. Se centrează receptorul de imagine pe
-  raza centrală.
+centering: Orientată către articulația genunchiului, la 1 țol (2.5 cm) distal față
+  de epicondilul medial (epitrohlee), la un unghi de 5 până la 7 grade cranial. Această
+  ușoară angulație a razei centrale împiedică obscurarea spațiilor articulare de către
+  imaginea mărită a condilului femural medial. În plus, în poziție de decubit lateral,
+  condilul medial este ușor inferior față de condilul lateral. Centrați receptorul
+  de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -17,21 +17,25 @@ images:
 - caption: Merrill — pagina 547, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-genunchi-incidenta-de-profil-lateral-mediolateral-p546-merrill/p547_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să turn onto afected side. Ensure that Bazin (bazin
-  (pelvis)) este nu rotit. pentru standard Incidență de Profil (lateral), Se instruiește
-  pacientul să bring afected Genunchi forward și se extinde other extremity behind
-  it (Fig. 7.124). other extremity poate also fie plasat în front de afected Genunchi
-  pe support block.; Flexion de 20 la 30 grade este usually preferred because this
-  poziție relaxes muscles și shows maximum volume de articulație cavity. 19 la prevent
-  fragment separation în new sau unhealed patellar suspiciune de fractură, Genunchi
-  trebuie să nu fie flectat more than 10 grade. Place support under Gleznă (Articulație
-  Talocrurală). Grasp epicondyles și adjust them so that they sunt perpendicular pe
-  receptorul de imagine (RI) (condyles superimposed). Rotulă (Patelă) este perpendicular
-  pe plane de receptorul de imagine (Fig. 7.125). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+position: Instruiți pacientul să se întoarcă pe partea afectată. Asigurați-vă că bazinul
+  nu este rotit. Pentru incidența laterală standard, instruiți pacientul să aducă
+  genunchiul afectat înainte și să extindă cealaltă extremitate în spatele acestuia
+  (Fig. 7.124). Cealaltă extremitate poate fi, de asemenea, plasată în fața genunchiului
+  afectat, pe un bloc de sprijin. Flexia de 20 până la 30 de grade este de obicei
+  preferată, deoarece această poziție relaxează mușchii și evidențiază volumul maxim
+  al cavității articulare. 19 Pentru a preveni separarea fragmentelor într-o fractură
+  patelară nouă sau nevindecată suspectată, genunchiul nu trebuie flectat mai mult
+  de 10 grade. Plasați un suport sub gleznă. Prindeți epicondilii și ajustați-i astfel
+  încât să fie perpendiculari pe receptorul de imagine (RI) (condili suprapuși). Rotula
+  este perpendiculară pe planul receptorului de imagine (Fig. 7.125). Efectuați ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -42,49 +46,47 @@ source_pages:
 - 546
 - 547
 source_sections:
-  cr: '• orientat la genunchi articulație 1 inch (2.5 cm) distal la epicondil medial
-    (epitrohlee) la un unghi de 5 la 7 grade cranial. This slight angulation de
+  cr: '• Orientată către articulația genunchiului, la 1 țol (2.5 cm) distal față de
+    epicondilul medial (epitrohlee), la un unghi de 5 până la 7 grade cranial. Această
+    ușoară angulație a razei centrale împiedică obscurarea spațiilor articulare de
+    către imaginea mărită a condilului femural medial. În plus, în poziție de decubit
+    lateral, condilul medial este ușor inferior față de condilul lateral.
 
-    raza centrală prevents spații articulare de la being obscured prin magnified imagine
-    de medial femoral condyle. în addition, în lateral recumbent poziție, medial condyle
-    este slightly inferior la lateral condyle.
+    • Centrați receptorul de imagine pe raza centrală.'
+  part_pos: '• Flexia de 20 până la 30 de grade este de obicei preferată, deoarece
+    această poziție relaxează mușchii și evidențiază volumul maxim al cavității articulare.
+    19
 
-    • Se centrează receptorul de imagine pe raza centrală.'
-  part_pos: '• Flexion de 20 la 30 grade este usually preferred because this poziție
-    relaxes muscles și shows maximum volume de articulație
+    • Pentru a preveni separarea fragmentelor într-o fractură patelară nouă sau nevindecată
+    suspectată, genunchiul nu trebuie flectat mai mult de 10 grade.
 
-    cavity. 19
+    • Plasați un suport sub gleznă.
 
-    • la prevent fragment separation în new sau unhealed patellar suspiciune de fractură,
-    genunchi trebuie să nu fie flectat more than 10 grade.
+    • Prindeți epicondilii și ajustați-i astfel încât să fie perpendiculari pe receptorul
+    de imagine (RI) (condili suprapuși). Rotula este perpendiculară pe planul receptorului
+    de imagine (Fig. 7.125).
 
-    • Place support under ankle.
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Instruiți pacientul să se întoarcă pe partea afectată. Asigurați-vă
+    că bazinul nu este rotit.
 
-    • Grasp epicondyles și adjust them so that they sunt perpendicular pe receptorul
-    de imagine (RI) (condyles superimposed). rotulă (patelă) este perpendicular
+    • Pentru incidența laterală standard, instruiți pacientul să aducă genunchiul
+    afectat înainte și să extindă cealaltă extremitate în spatele acestuia (Fig. 7.124).
 
-    la plane de receptorul de imagine (Fig. 7.125).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Se instruiește pacientul să turn onto afected side. Ensure that
-    bazinul este nu rotit.
-
-    • pentru standard lateral incidență, Se instruiește pacientul să bring afected
-    genunchi forward și se extinde other extremity behind it (Fig. 7.124).
-
-    other extremity poate also fie plasat în front de afected genunchi pe support
-    block.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    Cealaltă extremitate poate fi, de asemenea, plasată în fața genunchiului afectat,
+    pe un bloc de sprijin.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 546–547
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Genunchi — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+title: Rx genunchi — incidență de profil (lateral) — medio-lateral (Merrill)
 ---
-# Rx Genunchi — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+# Rx genunchi — incidență de profil (lateral) — medio-lateral (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -108,17 +110,18 @@ title: Rx Genunchi — Incidență de Profil (Lateral) — Medio-Lateral (Merril
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să turn onto afected side. Ensure that Bazin (bazin (pelvis)) este nu rotit. pentru standard Incidență de Profil (lateral), Se instruiește pacientul să bring afected Genunchi forward și se extinde other extremity behind it (Fig. 7.124). other extremity poate also fie plasat în front de afected Genunchi pe support block.; Flexion de 20 la 30 grade este usually preferred because this poziție relaxes muscles și shows maximum volume de articulație cavity. 19 la prevent fragment separation în new sau unhealed patellar suspiciune de fractură, Genunchi trebuie să nu fie flectat more than 10 grade. Place support under Gleznă (Articulație Talocrurală). Grasp epicondyles și adjust them so that they sunt perpendicular pe receptorul de imagine (RI) (condyles superimposed). Rotulă (Patelă) este perpendicular pe plane de receptorul de imagine (Fig. 7.125). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la Genunchi articulație 1 inch (2.5 cm) distal la epicondil medial (epitrohlee) la un unghi de 5 la 7 grade cranial. This slight angulation de raza centrală prevents spații articulare de la being obscured prin magnified imagine de medial femoral condyle. în addition, în lateral Decubit poziție, medial condyle este slightly inferior la lateral condyle. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Instruiți pacientul să se întoarcă pe partea afectată. Asigurați-vă că bazinul nu este rotit. Pentru incidența laterală standard, instruiți pacientul să aducă genunchiul afectat înainte și să extindă cealaltă extremitate în spatele acestuia (Fig. 7.124). Cealaltă extremitate poate fi, de asemenea, plasată în fața genunchiului afectat, pe un bloc de sprijin. Flexia de 20 până la 30 de grade este de obicei preferată, deoarece această poziție relaxează mușchii și evidențiază volumul maxim al cavității articulare. 19 Pentru a preveni separarea fragmentelor într-o fractură patelară nouă sau nevindecată suspectată, genunchiul nu trebuie flectat mai mult de 10 grade. Plasați un suport sub gleznă. Prindeți epicondilii și ajustați-i astfel încât să fie perpendiculari pe receptorul de imagine (RI) (condili suprapuși). Rotula este perpendiculară pe planul receptorului de imagine (Fig. 7.125). Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată către articulația genunchiului, la 1 țol (2.5 cm) distal față de epicondilul medial (epitrohlee), la un unghi de 5 până la 7 grade cranial. Această ușoară angulație a razei centrale împiedică obscurarea spațiilor articulare de către imaginea mărită a condilului femural medial. În plus, în poziție de decubit lateral, condilul medial este ușor inferior față de condilul lateral. Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -150,6 +153,7 @@ title: Rx Genunchi — Incidență de Profil (Lateral) — Medio-Lateral (Merril
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -189,32 +193,3 @@ title: Rx Genunchi — Incidență de Profil (Lateral) — Medio-Lateral (Merril
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 546–547](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### cr
-
-• orientat la genunchi articulație 1 inch (2.5 cm) distal la epicondil medial (epitrohlee) la un unghi de 5 la 7 grade cranial. This slight angulation de
-raza centrală prevents spații articulare de la being obscured prin magnified imagine de medial femoral condyle. în addition, în lateral recumbent poziție, medial condyle este slightly inferior la lateral condyle.
-• Se centrează receptorul de imagine pe raza centrală.
-
-### part_pos
-
-• Flexion de 20 la 30 grade este usually preferred because this poziție relaxes muscles și shows maximum volume de articulație
-cavity. 19
-• la prevent fragment separation în new sau unhealed patellar suspiciune de fractură, genunchi trebuie să nu fie flectat more than 10 grade.
-• Place support under ankle.
-• Grasp epicondyles și adjust them so that they sunt perpendicular pe receptorul de imagine (RI) (condyles superimposed). rotulă (patelă) este perpendicular
-la plane de receptorul de imagine (Fig. 7.125).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se instruiește pacientul să turn onto afected side. Ensure that bazinul este nu rotit.
-• pentru standard lateral incidență, Se instruiește pacientul să bring afected genunchi forward și se extinde other extremity behind it (Fig. 7.124).
-other extremity poate also fie plasat în front de afected genunchi pe support block.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

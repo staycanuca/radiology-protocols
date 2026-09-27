@@ -41,6 +41,12 @@ asocierile valoare–unitate, semnele și fracțiile și URL-urile. El nu înloc
 revizia sensului clinic. Fragmentele ambigue/trunchiate sunt evidențiate în raport,
 fără completarea arbitrară a sursei.
 
+Denumirile `inch/inches` după valori numerice sau fracții sunt localizate ca
+`țol/țoli`, fără conversia valorilor. Separatorul OCR deteriorat dintre două
+dimensiuni de casetă este redat prin `×`. Alte caractere de control rămase în
+traducere sunt respinse. Validatorul verifică și fracțiile tipografice (`½`, `⅓`
+etc.) și distinge ordinalul din `Fig. 6.39 Second ...` de o durată în secunde.
+
 La aplicare sunt produse `reports/catalog-translation.json` și dicționarul
 `scripts/radiology_translations_catalog_ro.json`, reutilizat de traducătorul local.
 

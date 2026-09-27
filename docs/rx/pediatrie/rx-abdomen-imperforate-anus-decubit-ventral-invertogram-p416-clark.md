@@ -5,86 +5,94 @@ breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pent
 category: pediatrie
 centering: • Raza centrală orizontală este orientată perpendicular pe centrul casetei.
 clinical_indications:
-- ca Craniu X-rays involve moderately high dose în terms de plain radiografii, often
-  including series de radiografii, justification este essential. Good clinico-radiological
-  cooperation, agreed referral criteria și audit sunt essential în keeping number
-  de unnecessary radiografii la minimum (Cook et al. 1998). Some studies suggest that
-  over third de requests following trauma sunt unnecessary (Boulis et al. 1978), și
-  many have reported that absence de suspiciune de fractură does nu alter management
-  (Garniak et al. 1986, Lloyd et al. 1997, Masters et al. 1987).
+- Deoarece radiografiile craniene implică o doză moderat de mare în comparație cu
+  radiografiile simple, incluzând adesea serii de radiografii, justificarea este esențială.
+  O bună colaborare clinico-radiologică, criterii de trimitere convenite și auditul
+  sunt esențiale pentru menținerea la minimum a numărului de radiografii inutile (Cook
+  et al. 1998). Unele studii sugerează că peste o treime dintre solicitările efectuate
+  după traumatisme sunt inutile (Boulis et al. 1978), iar multe au raportat că absența
+  suspiciunii de fractură nu modifică tratamentul (Garniak et al. 1986, Lloyd et al.
+  1997, Masters et al. 1987).
 images:
-- caption: • Antero-posterior (AP) Decubit dorsal abdominal radiografie este
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: • Radiografia abdominală anteroposterioară (AP) în decubit dorsal este
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_1.jpeg
-- caption: that described pentru neonatal chest radiografie în non-
+- caption: cea descrisă pentru radiografia toracică neonatală în non-
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_2.jpeg
-- caption: • abdomenul este normally distended în these cases. Care trebuie să
+- caption: • abdomenul este de obicei destins în aceste cazuri. Copilul trebuie să
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_3.jpeg
-- caption: this poziție pentru few minutes before radiografie este taken
+- caption: rămână în această poziție câteva minute înainte de efectuarea radiografiei
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_4.jpeg
-- caption: combined Antero-posterior (AP) chest și Abdomen radiografie este
+- caption: radiografia combinată anteroposterioară (AP) a toracelui și abdomenului
+    este
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_5.jpeg
-- caption: distal bowel la assess level de atresia. radiografie trebuie să
+- caption: intestinul distal pentru a evalua nivelul atreziei. Radiografia trebuie
+    să
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_6.jpeg
+iris_reference:
+  chapter: Pediatrie — Aparat digestiv
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
-notes: 'lead marker este taped la skin în anatomical area where anus would normally
-  fie sited. distance între this și most distal air-filled bowel poate then fie measured.
+notes: 'Un marker radioopac este fixat cu bandă adezivă pe piele, în regiunea anatomică
+  în care s-ar afla în mod normal anusul. Distanța dintre acesta și cea mai distală
+  ansă intestinală umplută cu aer poate fi apoi măsurată.
 
-  Photograph de neonate în stâng Profil (lateral) decubit poziție. pentru minimal
-  handling, dorsal decubit este alternative imagine de Antero-posterior (AP) Abdomen,
-  stâng Profil (lateral) decubit cu aer liber around ficat și dorsal decubit cu aer
-  liber anteriorly Photograph de poziție de baby pentru Profil (lateral) Abdomen ventral
-  decubit imagini de Profil (lateral) Abdomen, ventral decubit în imperforate anus.
-  Lower limit de air-filled bowel este evidențiat în relation la pubococcygeal line.
-  stâng:
+  Fotografie a unui nou-născut în decubit lateral stâng. Pentru manipulare minimă,
+  decubitul dorsal reprezintă alternativa; imagine AP a abdomenului, decubit lateral
+  stâng cu aer liber în jurul ficatului și decubit dorsal cu aer liber anterior. Fotografie
+  a poziționării copilului pentru imaginile de profil ale abdomenului în decubit ventral,
+  în cazul anusului imperforat. Limita inferioară a intestinului umplut cu aer este
+  evidențiată în raport cu linia pubococcigiană. Stânga: obstrucție înaltă, cu granule
+  radioopace la nivelul poziției anatomice a anusului; dreapta: obstrucție joasă,
+  cu vârful tubului umplut cu bariu la nivelul anusului.'
+position: '• sugarul trebuie plasat în decubit ventral, cu bazinul și fesele ridicate
+  pe o pernă triunghiulară din spumă, acoperită, sau pe un scutec rulat.
 
-  high obstruction cu lead pellets la anatomical poziție de anus; drept: low obstruction
-  cu barium-filled tube tip la level de anus'
-position: '• infant trebuie să fie plasat în Decubit ventral poziție, cu Bazin (bazin
-  (pelvis)) și buttocks raised pe triangular covered foam pad sau rolled-up nappy.
+  • sugarul trebuie menținut în această poziție aproximativ 10–15 minute.
 
-  • infant trebuie să fie kept în this poziție pentru approximately 10–15 minutes.
-
-  • caseta este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de
-  infant’s Bazin (bazin (pelvis)), și ajustat paralel cu plan mediosagital.'
+  • caseta este sprijinită vertical pe aspectul de profil al bazinului sugarului și
+  ajustată paralel cu planul mediosagital.'
 protection:
-- Justification, optimization and careful technique are the best ways of conforming
-  to radiation protection guidelines.
-- Avoidance of the use of a grid in children under the age of one year is an important
-  dose-saving measure.
-- A short exposure time is particularly important in performing Craniu radiography
-  to avoid movement unsharpness. The maximum exposure time should be less than 40ms.
-- Children’s skulls are almost fully grown by the age of seven years; therefore, children
-  over this age need almost as much exposure as an adult.
-- The hands of the person holding the child should not be visible on the radiograph.
-- Tight collimation with circular cones of variable size is best suited for the shape
-  of the Craniu. In this way, unnecessary thyroid radiation can also be avoided in
-  non-trauma cases. The collimation can be inserted above the diamentor chamber (see
-  p. 388).
-- Occipito-frontal projections, where possible, will reduce the dose to the eyes (Rosenbaum
-  and Arnold 1978). Basic
-- Occipito-frontal
-- Fronto-occipital – 30 degrees caudad
-- Profil (Lateral) Alternative
-- Fronto-occipital Condition Projections If not knocked
-- Occipito-frontal/ unconscious and fronto-occipital specific frontal injury
-- Profil (Lateral) of affected side If not knocked
-- Fronto-occipital – unconscious and 30 degrees caudad specific occipital injury
-- Profil (Lateral) of affected side If knocked unconscious
-- Occipito-frontal/ or showing signs of fronto-occipital suspiciune de fractură
-- Fronto-occipital – 30 degrees caudad
-- Profil (Lateral) of affected side
+- Justificarea, optimizarea și tehnica atentă reprezintă cele mai bune modalități
+  de respectare a ghidurilor de radioprotecție.
+- Evitarea utilizării unei grile la copiii cu vârsta sub un an este o măsură importantă
+  pentru reducerea dozei.
+- Un timp scurt de expunere este deosebit de important la efectuarea radiografiei
+  craniene, pentru a evita neclaritatea datorată mișcării. Timpul maxim de expunere
+  trebuie să fie mai mic de 40ms.
+- Craniile copiilor sunt aproape complet dezvoltate până la vârsta de șapte ani; prin
+  urmare, copiii cu vârsta peste aceasta necesită aproape aceeași expunere ca un adult.
+- Mâinile persoanei care ține copilul nu trebuie să fie vizibile pe radiografie.
+- Colimarea strânsă cu conuri circulare de dimensiuni variabile este cea mai potrivită
+  pentru forma craniului. În acest fel, poate fi evitată și iradierea inutilă a tiroidei
+  în cazurile fără traumatism. Colimarea poate fi introdusă deasupra camerei diamentor
+  (vezi p. 388).
+- Incidențele occipitofrontale, atunci când este posibil, vor reduce doza la nivelul
+  ochilor (Rosenbaum și Arnold 1978). De bază
+- Occipitofrontală
+- Frontoccipitală – 30 de grade caudal
+- Profil – alternativă
+- Incidențe frontoccipitale, dacă nu este inconștient
+- Occipitofrontală/frontoccipitală – inconștient și traumatism frontal specific
+- Profil pe partea afectată, dacă nu este inconștient
+- Frontoccipitală – inconștient și 30 de grade caudal, traumatism occipital specific
+- Profil pe partea afectată, dacă este inconștient
+- Occipitofrontală sau frontoccipitală, dacă prezintă semne de suspiciune de fractură
+- Frontoccipitală – 30 de grade caudal
+- Profil pe partea afectată
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -92,7 +100,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Abdomen).
+- Vizualizarea clară a întregii arii anatomice (Abdomen).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -104,14 +112,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Abdomen Imperforate anus (Decubit Ventral invertogram)
+  mas: Conform AEC / grosimii anatomice
+title: Rx abdomen — anus imperforat (invertogramă în decubit ventral)
 ---
-# Rx Abdomen Imperforate anus (Decubit Ventral invertogram)
+# Rx abdomen — anus imperforat (invertogramă în decubit ventral)
 
 
 <div class="rx-meta-bar">
@@ -130,23 +138,25 @@ title: Rx Abdomen Imperforate anus (Decubit Ventral invertogram)
 
     === "Indicații Clinice"
 
-        - ca Craniu X-rays involve moderately high dose în terms de plain radiografii, often including series de radiografii, justification este essential. Good clinico-radiological cooperation, agreed referral criteria și audit sunt essential în keeping number de unnecessary radiografii la minimum (Cook et al. 1998). Some studies suggest that over third de requests following trauma sunt unnecessary (Boulis et al. 1978), și many have reported that absence de suspiciune de fractură does nu alter management (Garniak et al. 1986, Lloyd et al. 1997, Masters et al. 1987).
+        - Deoarece radiografiile craniene implică o doză moderat de mare în comparație cu radiografiile simple, incluzând adesea serii de radiografii, justificarea este esențială. O bună colaborare clinico-radiologică, criterii de trimitere convenite și auditul sunt esențiale pentru menținerea la minimum a numărului de radiografii inutile (Cook et al. 1998). Unele studii sugerează că peste o treime dintre solicitările efectuate după traumatisme sunt inutile (Boulis et al. 1978), iar multe au raportat că absența suspiciunii de fractură nu modifică tratamentul (Garniak et al. 1986, Lloyd et al. 1997, Masters et al. 1987).
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Aparat digestiv*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • infant trebuie să fie plasat în Decubit ventral poziție, cu Bazin (bazin (pelvis)) și buttocks raised pe triangular covered foam pad sau rolled-up nappy.
-• infant trebuie să fie kept în this poziție pentru approximately 10–15 minutes.
-• caseta este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de infant’s Bazin (bazin (pelvis)), și ajustat paralel cu plan mediosagital.
+    - **Poziție Pacient:**
+        - sugarul trebuie plasat în decubit ventral, cu bazinul și fesele ridicate pe o pernă triunghiulară din spumă, acoperită, sau pe un scutec rulat.
+        - sugarul trebuie menținut în această poziție aproximativ 10–15 minute.
+        - caseta este sprijinită vertical pe aspectul de profil al bazinului sugarului și ajustată paralel cu planul mediosagital.
     - **Punct de Centrare Fascicul:** • Raza centrală orizontală este orientată perpendicular pe centrul casetei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -158,19 +168,19 @@ title: Rx Abdomen Imperforate anus (Decubit Ventral invertogram)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Abdomen).
+    - Vizualizarea clară a întregii arii anatomice (Abdomen).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -178,34 +188,33 @@ title: Rx Abdomen Imperforate anus (Decubit Ventral invertogram)
 
     ---
 
-    - Justification, optimization and careful technique are the best ways of conforming to radiation protection guidelines.
-    - Avoidance of the use of a grid in children under the age of one year is an important dose-saving measure.
-    - A short exposure time is particularly important in performing Craniu radiography to avoid movement unsharpness. The maximum exposure time should be less than 40ms.
-    - Children’s skulls are almost fully grown by the age of seven years; therefore, children over this age need almost as much exposure as an adult.
-    - The hands of the person holding the child should not be visible on the radiograph.
-    - Tight collimation with circular cones of variable size is best suited for the shape of the Craniu. In this way, unnecessary thyroid radiation can also be avoided in non-trauma cases. The collimation can be inserted above the diamentor chamber (see p. 388).
-    - Occipito-frontal projections, where possible, will reduce the dose to the eyes (Rosenbaum and Arnold 1978). Basic
-    - Occipito-frontal
-    - Fronto-occipital – 30 degrees caudad
-    - Profil (Lateral) Alternative
-    - Fronto-occipital Condition Projections If not knocked
-    - Occipito-frontal/ unconscious and fronto-occipital specific frontal injury
-    - Profil (Lateral) of affected side If not knocked
-    - Fronto-occipital – unconscious and 30 degrees caudad specific occipital injury
-    - Profil (Lateral) of affected side If knocked unconscious
-    - Occipito-frontal/ or showing signs of fronto-occipital suspiciune de fractură
-    - Fronto-occipital – 30 degrees caudad
-    - Profil (Lateral) of affected side
+    - Justificarea, optimizarea și tehnica atentă reprezintă cele mai bune modalități de respectare a ghidurilor de radioprotecție.
+    - Evitarea utilizării unei grile la copiii cu vârsta sub un an este o măsură importantă pentru reducerea dozei.
+    - Un timp scurt de expunere este deosebit de important la efectuarea radiografiei craniene, pentru a evita neclaritatea datorată mișcării. Timpul maxim de expunere trebuie să fie mai mic de 40ms.
+    - Craniile copiilor sunt aproape complet dezvoltate până la vârsta de șapte ani; prin urmare, copiii cu vârsta peste aceasta necesită aproape aceeași expunere ca un adult.
+    - Mâinile persoanei care ține copilul nu trebuie să fie vizibile pe radiografie.
+    - Colimarea strânsă cu conuri circulare de dimensiuni variabile este cea mai potrivită pentru forma craniului. În acest fel, poate fi evitată și iradierea inutilă a tiroidei în cazurile fără traumatism. Colimarea poate fi introdusă deasupra camerei diamentor (vezi p. 388).
+    - Incidențele occipitofrontale, atunci când este posibil, vor reduce doza la nivelul ochilor (Rosenbaum și Arnold 1978). De bază
+    - Occipitofrontală
+    - Frontoccipitală – 30 de grade caudal
+    - Profil – alternativă
+    - Incidențe frontoccipitale, dacă nu este inconștient
+    - Occipitofrontală/frontoccipitală – inconștient și traumatism frontal specific
+    - Profil pe partea afectată, dacă nu este inconștient
+    - Frontoccipitală – inconștient și 30 de grade caudal, traumatism occipital specific
+    - Profil pe partea afectată, dacă este inconștient
+    - Occipitofrontală sau frontoccipitală, dacă prezintă semne de suspiciune de fractură
+    - Frontoccipitală – 30 de grade caudal
+    - Profil pe partea afectată
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    lead marker este taped la skin în anatomical area where anus would normally fie sited. distance între this și most distal air-filled bowel poate then fie measured.
-Photograph de neonate în stâng Profil (lateral) decubit poziție. pentru minimal handling, dorsal decubit este alternative imagine de Antero-posterior (AP) Abdomen, stâng Profil (lateral) decubit cu aer liber around ficat și dorsal decubit cu aer liber anteriorly Photograph de poziție de baby pentru Profil (lateral) Abdomen ventral decubit imagini de Profil (lateral) Abdomen, ventral decubit în imperforate anus. Lower limit de air-filled bowel este evidențiat în relation la pubococcygeal line. stâng:
-high obstruction cu lead pellets la anatomical poziție de anus; drept: low obstruction cu barium-filled tube tip la level de anus
+    Un marker radioopac este fixat cu bandă adezivă pe piele, în regiunea anatomică în care s-ar afla în mod normal anusul. Distanța dintre acesta și cea mai distală ansă intestinală umplută cu aer poate fi apoi măsurată. Fotografie a unui nou-născut în decubit lateral stâng. Pentru manipulare minimă, decubitul dorsal reprezintă alternativa; imagine AP a abdomenului, decubit lateral stâng cu aer liber în jurul ficatului și decubit dorsal cu aer liber anterior. Fotografie a poziționării copilului pentru imaginile de profil ale abdomenului în decubit ventral, în cazul anusului imperforat. Limita inferioară a intestinului umplut cu aer este evidențiată în raport cu linia pubococcigiană. Stânga: obstrucție înaltă, cu granule radioopace la nivelul poziției anatomice a anusului; dreapta: obstrucție joasă, cu vârful tubului umplut cu bariu la nivelul anusului.
 
 
 ### 🖼️ Imagini
@@ -214,49 +223,49 @@ high obstruction cu lead pellets la anatomical poziție de anus; drept: low obst
 
 <figure class="protocol-image-card" markdown>
 
-![• Antero-posterior (AP) Decubit dorsal abdominal radiografie este](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_1.jpeg)
+![• Radiografia abdominală anteroposterioară (AP) în decubit dorsal este](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_1.jpeg)
 
-<figcaption><strong>• Antero-posterior (AP) Decubit dorsal abdominal radiografie este</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![that described pentru neonatal chest radiografie în non-](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_2.jpeg)
-
-<figcaption><strong>that described pentru neonatal chest radiografie în non-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Radiografia abdominală anteroposterioară (AP) în decubit dorsal este</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• abdomenul este normally distended în these cases. Care trebuie să](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_3.jpeg)
+![cea descrisă pentru radiografia toracică neonatală în non-](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_2.jpeg)
 
-<figcaption><strong>• abdomenul este normally distended în these cases. Care trebuie să</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![this poziție pentru few minutes before radiografie este taken](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_4.jpeg)
-
-<figcaption><strong>this poziție pentru few minutes before radiografie este taken</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>cea descrisă pentru radiografia toracică neonatală în non-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![combined Antero-posterior (AP) chest și Abdomen radiografie este](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_5.jpeg)
+![• abdomenul este de obicei destins în aceste cazuri. Copilul trebuie să](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_3.jpeg)
 
-<figcaption><strong>combined Antero-posterior (AP) chest și Abdomen radiografie este</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• abdomenul este de obicei destins în aceste cazuri. Copilul trebuie să</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![distal bowel la assess level de atresia. radiografie trebuie să](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_6.jpeg)
+![rămână în această poziție câteva minute înainte de efectuarea radiografiei](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_4.jpeg)
 
-<figcaption><strong>distal bowel la assess level de atresia. radiografie trebuie să</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>rămână în această poziție câteva minute înainte de efectuarea radiografiei</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![radiografia combinată anteroposterioară (AP) a toracelui și abdomenului este](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_5.jpeg)
+
+<figcaption><strong>radiografia combinată anteroposterioară (AP) a toracelui și abdomenului este</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![intestinul distal pentru a evalua nivelul atreziei. Radiografia trebuie să](../../assets/images/protocols/clark/rx-abdomen-imperforate-anus-decubit-ventral-invertogram-p416-clark/fig_6.jpeg)
+
+<figcaption><strong>intestinul distal pentru a evalua nivelul atreziei. Radiografia trebuie să</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

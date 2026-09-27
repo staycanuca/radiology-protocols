@@ -2,8 +2,9 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: înclinat 5 la 15 grade through Umăr articulație și spre Cot; greater angle
-  este required when pacientul cannot se extinde Umăr over receptorul de imagine.
+centering: Înclinat cu 5 la 15 grade prin articulația umărului și spre cot; este necesar
+  un unghi mai mare atunci când pacientul nu își poate extinde umărul peste receptorul
+  de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,30 +14,35 @@ images:
 - caption: Merrill — pagina 399, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-superoinferior-axial-projection-p397-merrill/p399_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa de examinare pe stool sau chair
-  high enough la enable extension de Umăr under examination well over receptorul de
-  imagine.; Place receptorul de imagine near end de masa de examinare și paralel cu
-  its axa longitudinală. Se instruiește pacientul să lean laterally over receptorul
-  de imagine until Umăr articulație este over midpoint de receptorul de imagine. Bring
-  Cot la rest pe masa de examinare. se flectează pacient’s Cot 90 grade și place Mână
-  în Decubit ventral poziție (Fig. 6.34). Se instruiește pacientul să tilt capul spre
-  unafected Umăr. la obtain direct lateral positioning de capul de Humerus, adjust
-  orice anterior sau posterior leaning de corp la place humeral epicondyles în vertical
-  poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul pe un scaun la capătul mesei de examinare, pe un taburet
+  sau scaun suficient de înalt pentru a permite extensia umărului examinat mult peste
+  receptorul de imagine. Se plasează receptorul de imagine aproape de capătul mesei
+  de examinare și paralel cu axa sa longitudinală. Pacientul este instruit să se aplece
+  lateral peste receptorul de imagine până când articulația umărului se află deasupra
+  mijlocului receptorului de imagine. Se aduce cotul în repaus pe masa de examinare.
+  Se flectează cotul pacientului la 90 grade și se plasează mâna în poziție de decubit
+  ventral (Fig. 6.34). Pacientul este instruit să încline capul spre umărul neafectat.
+  Pentru obținerea unei poziționări laterale directe a capului humerusului, se ajustează
+  orice aplecare anterioară sau posterioară a corpului pentru a plasa epicondilii
+  humerali în poziție verticală. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Scapulohumeral articulație (nu open pe pacienți cu limited flexibility)
-- proces coracoid projected above Claviculă
-- mică tuberozitate humerală (trohin) în profile
-- articulații acromioclaviculare through cap humeral
-- Bony detalii trabeculare osoase și surrounding soft tissues Scapular Y
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația scapulohumerală (nu este deschisă la pacienții cu flexibilitate limitată)
+- Procesul coracoid proiectat deasupra claviculei
+- Tuberozitatea mică humerală (trohinul) în profil.
+- Articulația acromioclaviculară proiectată prin capul humeral
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare; Scapular Y
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-umar-joint-superoinferior-axial-projection-p397-merrill
 source_pages:
@@ -44,73 +50,70 @@ source_pages:
 - 398
 - 399
 source_sections:
-  anatomy: 'superoinferior axial imagine shows articulație relationship de extremitatea
-    proximală humerus și cavitate glenoidă (Fig. 6.35). AC
+  anatomy: Imaginea axială superoinferioară evidențiază relația dintre articulația
+    extremității proximale a humerusului și cavitatea glenoidă (Fig. 6.35). Sunt vizualizate
+    articulația AC, porțiunea externă a procesului coracoid și punctele de inserție
+    ale mușchiului subscapular (la nivelul corpului scapulei) și ale mușchiului teres
+    minor (la nivelul marginii axilare inferioare).
+  collimation: • Se ajustează câmpul de iradiere la 10 țoli (24 cm) în lățime pe colimator
+    și la 1 țol (2.5 cm) dincolo de umbrele anterioară și posterioară ale umărului.
+    Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • Înclinat cu 5 la 15 grade prin articulația umărului și spre cot; este necesar
+    un unghi mai mare atunci când pacientul nu își poate extinde umărul peste receptorul
+    de imagine.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    articulation, outer portion de proces coracoid, și points de insertion de subscapularis
-    muscle (la corp de scapula) și teres
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    minor muscle (la inferior axillary margine) sunt vizualizat.'
-  collimation: '• Adjust câmp de iradiere la 10 inches (24 cm) în width pe collimator
-    și la 1 inch (2.5 cm) beyond anterior și posterior shadows
+    • Articulația scapulohumerală (nu este deschisă la pacienții cu flexibilitate
+    limitată)
 
-    de umăr. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: '• înclinat 5 la 15 grade through umăr articulație și spre cot; greater angle
-    este required when pacientul cannot se extinde
+    • Procesul coracoid proiectat deasupra claviculei
 
-    umăr over receptorul de imagine.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Mica tuberozitate humerală (trohinul) în profil
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulația acromioclaviculară proiectată prin capul humeral
 
-    • Scapulohumeral articulație (nu open pe pacienți cu limited flexibility)
-
-    • proces coracoid projected above clavicle
-
-    • mică tuberozitate humerală (trohin) în profile
-
-    • articulații acromioclaviculare through cap humeral
-
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
     Scapular Y'
-  part_pos: '• Place receptorul de imagine near end de masa de examinare și paralel
-    cu its axa longitudinală.
+  part_pos: '• Se plasează receptorul de imagine aproape de capătul mesei de examinare
+    și paralel cu axa sa longitudinală.
 
-    • Se instruiește pacientul să lean laterally over receptorul de imagine until
-    umăr articulație este over midpoint de receptorul de imagine.
+    • Pacientul este instruit să se aplece lateral peste receptorul de imagine până
+    când articulația umărului se află deasupra mijlocului receptorului de imagine.
 
-    • Bring cot la rest pe masa de examinare.
+    • Se aduce cotul în repaus pe masa de examinare.
 
-    • se flectează pacient’s cot 90 grade și place mână în decubit ventral (Fig. 6.34).
+    • Se flectează cotul pacientului la 90 grade și se plasează mâna în decubit ventral
+    (Fig. 6.34).
 
-    • Se instruiește pacientul să tilt capul spre unafected umăr.
+    • Pacientul este instruit să încline capul spre umărul neafectat.
 
-    • la obtain direct lateral positioning de capul de humerus, adjust orice anterior
-    sau posterior leaning de corp la place humeral epicondyles în vertical poziție.
+    • Pentru obținerea unei poziționări laterale directe a capului humerusului, se
+    ajustează orice aplecare anterioară sau posterioară a corpului pentru a plasa
+    epicondilii humerali în poziție verticală.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa de examinare pe stool
-    sau chair high enough la enable extension de umăr under examination well over
-
-    receptorul de imagine.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • se așază pacientul pe scaun la capătul mesei de examinare, pe un
+    scaun sau pe un scaun suficient de înalt pentru a permite extensia umărului examinat
+    mult peste receptorul de imagine.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm), plasat longitudinal pentru precis centering la umăr articulație.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru afișarea corectă a orientării anatomice; receptor de imagine: 10 × 12 țoli
+    (24 × 30 cm), plasat longitudinal pentru centrarea precisă la articulația umărului.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 397–399
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 10 inches (24 cm) în width pe collimator
-    și la 1 inch (2.5 cm) beyond anterior și posterior shadows de Umăr. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 10 țoli (24 cm) în lățime pe colimator
+    și la 1 țol (2.5 cm) dincolo de umbrele anterioară și posterioară ale umărului.
+    Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx articulația umărului — incidență axială superoinferioară (Merrill)
 ---
-# Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
+# Rx articulația umărului — incidență axială superoinferioară (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -134,17 +137,18 @@ title: Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa de examinare pe stool sau chair high enough la enable extension de Umăr under examination well over receptorul de imagine.; Place receptorul de imagine near end de masa de examinare și paralel cu its axa longitudinală. Se instruiește pacientul să lean laterally over receptorul de imagine until Umăr articulație este over midpoint de receptorul de imagine. Bring Cot la rest pe masa de examinare. se flectează pacient’s Cot 90 grade și place Mână în Decubit ventral poziție (Fig. 6.34). Se instruiește pacientul să tilt capul spre unafected Umăr. la obtain direct lateral positioning de capul de Humerus, adjust orice anterior sau posterior leaning de corp la place humeral epicondyles în vertical poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** înclinat 5 la 15 grade through Umăr articulație și spre Cot; greater angle este required when pacientul cannot se extinde Umăr over receptorul de imagine.
+    - **Poziție Pacient:** Se așază pacientul pe un scaun la capătul mesei de examinare, pe un taburet sau scaun suficient de înalt pentru a permite extensia umărului examinat mult peste receptorul de imagine. Se plasează receptorul de imagine aproape de capătul mesei de examinare și paralel cu axa sa longitudinală. Pacientul este instruit să se aplece lateral peste receptorul de imagine până când articulația umărului se află deasupra mijlocului receptorului de imagine. Se aduce cotul în repaus pe masa de examinare. Se flectează cotul pacientului la 90 grade și se plasează mâna în poziție de decubit ventral (Fig. 6.34). Pacientul este instruit să încline capul spre umărul neafectat. Pentru obținerea unei poziționări laterale directe a capului humerusului, se ajustează orice aplecare anterioară sau posterioară a corpului pentru a plasa epicondilii humerali în poziție verticală. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Înclinat cu 5 la 15 grade prin articulația umărului și spre cot; este necesar un unghi mai mare atunci când pacientul nu își poate extinde umărul peste receptorul de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -160,20 +164,20 @@ title: Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 10 inches (24 cm) în width pe collimator și la 1 inch (2.5 cm) beyond anterior și posterior shadows de Umăr. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 10 țoli (24 cm) în lățime pe colimator și la 1 țol (2.5 cm) dincolo de umbrele anterioară și posterioară ale umărului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Scapulohumeral articulație (nu open pe pacienți cu limited flexibility)
-    - proces coracoid projected above Claviculă
-    - mică tuberozitate humerală (trohin) în profile
-    - articulații acromioclaviculare through cap humeral
-    - Bony detalii trabeculare osoase și surrounding soft tissues Scapular Y
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația scapulohumerală (nu este deschisă la pacienții cu flexibilitate limitată)
+    - Procesul coracoid proiectat deasupra claviculei
+    - Tuberozitatea mică humerală (trohinul) în profil.
+    - Articulația acromioclaviculară proiectată prin capul humeral
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare; Scapular Y
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -182,6 +186,7 @@ title: Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -221,57 +226,3 @@ title: Rx Umăr Joint — Superoinferior Axial Incidență (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 397–399](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-superoinferior axial imagine shows articulație relationship de extremitatea proximală humerus și cavitate glenoidă (Fig. 6.35). AC
-articulation, outer portion de proces coracoid, și points de insertion de subscapularis muscle (la corp de scapula) și teres
-minor muscle (la inferior axillary margine) sunt vizualizat.
-
-### collimation
-
-• Adjust câmp de iradiere la 10 inches (24 cm) în width pe collimator și la 1 inch (2.5 cm) beyond anterior și posterior shadows
-de umăr. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• înclinat 5 la 15 grade through umăr articulație și spre cot; greater angle este required when pacientul cannot se extinde
-umăr over receptorul de imagine.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Scapulohumeral articulație (nu open pe pacienți cu limited flexibility)
-• proces coracoid projected above clavicle
-• mică tuberozitate humerală (trohin) în profile
-• articulații acromioclaviculare through cap humeral
-• Bony detalii trabeculare osoase și surrounding soft tissues
-Scapular Y
-
-### part_pos
-
-• Place receptorul de imagine near end de masa de examinare și paralel cu its axa longitudinală.
-• Se instruiește pacientul să lean laterally over receptorul de imagine until umăr articulație este over midpoint de receptorul de imagine.
-• Bring cot la rest pe masa de examinare.
-• se flectează pacient’s cot 90 grade și place mână în decubit ventral (Fig. 6.34).
-• Se instruiește pacientul să tilt capul spre unafected umăr.
-• la obtain direct lateral positioning de capul de humerus, adjust orice anterior sau posterior leaning de corp la place humeral epicondyles în vertical poziție.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa de examinare pe stool sau chair high enough la enable extension de umăr under examination well over
-receptorul de imagine.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm), plasat longitudinal pentru precis centering la umăr articulație.
-

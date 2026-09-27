@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe midfemur și center de receptorul de imagine.
+centering: perpendicular pe mijlocul femurului și pe centrul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,36 +18,41 @@ images:
 - caption: Merrill — pagina 580, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-femur-incidenta-antero-posterioara-ap-p576-merrill/p580_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție. Check Bazin (bazin (pelvis))
-  la ensure it este nu rotit.; se centrează afected thigh la linia mediană receptorul
-  de imagine. When pacientul este too tall pentru include entire Femur, include pe
-  single imagine articulație cel mai apropiat de aria de interes diagnostic. cu Genunchi
-  included pentru incidență de dis̍ al Femur, se rotește pacient’s extremity internally
-  la place it în true anatomic poziție. extremity este naturally turned externally
-  when pacientul este culcat pe masa de examinare. Ensure that epicondyles sunt paralel
-  cu receptorul de imagine. Place bottom de receptorul de imagine 2 inches (5 cm)
-  below Genunchi articulație (Fig. 7.164). cu Șold included pentru incidență de proximal
-  Femur, which trebuie să include Șold articulație, place top de receptorul de imagine
-  la nivelul spină iliacă antero-superioară (SIAS) (Fig. 7.165). se rotește extremity
-  internally 10 la 15 grade la place col femural în profile. se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Așezați pacientul în decubit dorsal. Verificați bazinul pentru a vă asigura
+  că nu este rotit. Centrați coapsa afectată pe linia mediană a receptorului de imagine.
+  Când pacientul este prea înalt pentru a include întregul femur, includeți într-o
+  singură imagine articulația cea mai apropiată de regiunea de interes diagnostic.
+  Cu genunchiul inclus pentru incidența femurului distal, rotiți extremitatea pacientului
+  intern pentru a o plasa în poziție anatomică adevărată. Extremitatea este rotată
+  natural extern când pacientul este culcat pe masa de examinare. Asigurați-vă că
+  epicondilii sunt paraleli cu receptorul de imagine. Plasați partea inferioară a
+  receptorului de imagine la 2 țoli (5 cm) sub articulația genunchiului (Fig. 7.164).
+  Cu șoldul inclus pentru incidența femurului proximal, care trebuie să includă articulația
+  șoldului, plasați partea superioară a receptorului de imagine la nivelul spinei
+  iliace antero-superioare (SIAS) (Fig. 7.165). Rotiți extremitatea intern cu 10 la
+  15 grade pentru a plasa colul femural în profil. Efectuați ecranarea gonadelor cu
+  șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Most de Femur și articulație cel mai apropiat de pathologic condition sau site de
-  injury (second incidență de other articulație este recommended)
-- col femural nu foreshortened pe proximal Femur
-- mic trohanter nu seen beyond medial margine de Femur sau only very small portion
-  seen pe proximal Femur
-- fără Genunchi rotație pe distal Femur
-- orice orthopedic appliance în its entirety
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Cea mai mare parte a femurului și articulația cea mai apropiată de afecțiunea patologică
+  sau de locul leziunii (se recomandă o a doua incidență a celeilalte articulații)
+- colul femural nu este scurtat pe femurul proximal
+- micul trohanter nu este vizibil dincolo de marginea medială a femurului sau este
+  vizibilă doar o porțiune foarte mică pe femurul proximal
+- fără rotația genunchiului pe femurul distal
+- orice dispozitiv ortopedic în întregime
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-femur-incidenta-antero-posterioara-ap-p576-merrill
 source_pages:
@@ -57,74 +62,72 @@ source_pages:
 - 579
 - 580
 source_sections:
-  anatomy: AP incidență de femur, including genunchi articulație sau hip sau ambele
-    (Figs. 7.166 și 7.167).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de shadow
-    de thigh și 17 inches (43 cm) în length. Place marker de lateralitate (D/S)
+  anatomy: Incidența AP a femurului, incluzând articulația genunchiului sau șoldul,
+    ori ambele (Fig. 7.166 și 7.167).
+  collimation: • Ajustați câmpul de iradiere la 1 țol (2.5 cm) de fiecare parte a
+    umbrei coapsei și 17 țoli (43 cm) în lungime. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe mijlocul femurului și pe centrul receptorului de imagine.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    în collimated expunere field.'
-  cr: • perpendicular pe midfemur și center de receptorul de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Cea mai mare parte a femurului și articulația cea mai apropiată de afecțiunea
+    patologică sau de locul leziunii (se recomandă o a doua incidență a celeilalte
+    articulații)
 
-    • Most de femur și articulație cel mai apropiat de pathologic condition sau site
-    de injury (second incidență de other articulație este
+    • colul femural nu este scurtat pe femurul proximal
 
-    recommended)
+    • micul trohanter nu este vizibil dincolo de marginea medială a femurului sau
+    este vizibilă doar o porțiune foarte mică pe femurul proximal
 
-    • col femural nu foreshortened pe proximal femur
+    • fără rotația genunchiului pe femurul distal
 
-    • mic trohanter nu seen beyond medial margine de femur sau only very small portion
-    seen pe proximal femur
+    • orice dispozitiv ortopedic în întregime
 
-    • fără genunchi rotație pe distal femur
+    • detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Centrați coapsa afectată pe linia mediană a receptorului de imagine.
+    Când pacientul este prea înalt pentru a include întregul femur, includeți într-o
+    singură imagine articulația cea mai apropiată de regiunea de interes diagnostic.
 
-    • orice orthopedic appliance în its entirety
+    Cu genunchiul inclus
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează afected thigh la linia mediană receptorul de imagine.
-    When pacientul este too tall pentru include entire femur, include pe single imagine
+    • Pentru incidența femurului distal, rotiți extremitatea pacientului intern pentru
+    a o plasa în poziție anatomică adevărată. Extremitatea este rotată natural extern
+    când pacientul este culcat pe masa de examinare. Asigurați-vă că epicondilii sunt
+    paraleli cu receptorul de imagine.
 
-    articulație cel mai apropiat de aria de interes diagnostic.
+    • Plasați partea inferioară a receptorului de imagine la 2 țoli (5 cm) sub articulația
+    genunchiului (Fig. 7.164).
 
-    cu genunchi included
+    Cu șoldul inclus
 
-    • pentru incidență de dis̍ al femur, se rotește pacient’s extremity internally
-    la place it în true anatomic poziție. extremity este
+    • Pentru incidența femurului proximal, care trebuie să includă articulația șoldului,
+    plasați partea superioară a receptorului de imagine la nivelul spinei iliace antero-superioare
+    (SIAS) (Fig. 7.165).
 
-    naturally turned externally when pacientul este culcat pe masa de examinare. Ensure
-    that epicondyles sunt paralel cu receptorul de imagine.
+    • Rotiți extremitatea intern cu 10 la 15 grade pentru a plasa colul femural în
+    profil.
 
-    • Place bottom de receptorul de imagine 2 inches (5 cm) below genunchi articulație
-    (Fig. 7.164).
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Așezați pacientul în decubit dorsal.
 
-    cu hip included
-
-    • pentru incidență de proximal femur, which trebuie să include hip articulație,
-    place top de receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS)
-    (Fig. 7.165).
-
-    • se rotește extremity internally 10 la 15 grade la place col femural în profile.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal.
-
-    • Check bazinul la ensure it este nu rotit.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+    • Verificați bazinul pentru a vă asigura că nu este rotit.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 576–580
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de shadow
-    de thigh și 17 inches (43 cm) în length. Place marker de lateralitate (D/S) în
-    collimated expunere field.
-title: Rx Femur — Incidență Antero-Posterioară (AP) (Merrill)
+  collimation: Ajustați câmpul de iradiere la 1 țol (2.5 cm) de fiecare parte a umbrei
+    coapsei și 17 țoli (43 cm) în lungime. Plasați markerul de lateralitate (D/S)
+    în câmpul de expunere colimat.
+title: Rx femur — Incidență antero-posterioară (AP) (Merrill)
 ---
-# Rx Femur — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx femur — Incidență antero-posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -148,17 +151,18 @@ title: Rx Femur — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție. Check Bazin (bazin (pelvis)) la ensure it este nu rotit.; se centrează afected thigh la linia mediană receptorul de imagine. When pacientul este too tall pentru include entire Femur, include pe single imagine articulație cel mai apropiat de aria de interes diagnostic. cu Genunchi included pentru incidență de dis̍ al Femur, se rotește pacient’s extremity internally la place it în true anatomic poziție. extremity este naturally turned externally when pacientul este culcat pe masa de examinare. Ensure that epicondyles sunt paralel cu receptorul de imagine. Place bottom de receptorul de imagine 2 inches (5 cm) below Genunchi articulație (Fig. 7.164). cu Șold included pentru incidență de proximal Femur, which trebuie să include Șold articulație, place top de receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS) (Fig. 7.165). se rotește extremity internally 10 la 15 grade la place col femural în profile. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midfemur și center de receptorul de imagine.
+    - **Poziție Pacient:** Așezați pacientul în decubit dorsal. Verificați bazinul pentru a vă asigura că nu este rotit. Centrați coapsa afectată pe linia mediană a receptorului de imagine. Când pacientul este prea înalt pentru a include întregul femur, includeți într-o singură imagine articulația cea mai apropiată de regiunea de interes diagnostic. Cu genunchiul inclus pentru incidența femurului distal, rotiți extremitatea pacientului intern pentru a o plasa în poziție anatomică adevărată. Extremitatea este rotată natural extern când pacientul este culcat pe masa de examinare. Asigurați-vă că epicondilii sunt paraleli cu receptorul de imagine. Plasați partea inferioară a receptorului de imagine la 2 țoli (5 cm) sub articulația genunchiului (Fig. 7.164). Cu șoldul inclus pentru incidența femurului proximal, care trebuie să includă articulația șoldului, plasați partea superioară a receptorului de imagine la nivelul spinei iliace antero-superioare (SIAS) (Fig. 7.165). Rotiți extremitatea intern cu 10 la 15 grade pentru a plasa colul femural în profil. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe mijlocul femurului și pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -174,21 +178,21 @@ title: Rx Femur — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de shadow de thigh și 17 inches (43 cm) în length. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 1 țol (2.5 cm) de fiecare parte a umbrei coapsei și 17 țoli (43 cm) în lungime. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Most de Femur și articulație cel mai apropiat de pathologic condition sau site de injury (second incidență de other articulație este recommended)
-    - col femural nu foreshortened pe proximal Femur
-    - mic trohanter nu seen beyond medial margine de Femur sau only very small portion seen pe proximal Femur
-    - fără Genunchi rotație pe distal Femur
-    - orice orthopedic appliance în its entirety
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Cea mai mare parte a femurului și articulația cea mai apropiată de afecțiunea patologică sau de locul leziunii (se recomandă o a doua incidență a celeilalte articulații)
+    - colul femural nu este scurtat pe femurul proximal
+    - micul trohanter nu este vizibil dincolo de marginea medială a femurului sau este vizibilă doar o porțiune foarte mică pe femurul proximal
+    - fără rotația genunchiului pe femurul distal
+    - orice dispozitiv ortopedic în întregime
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,6 +201,7 @@ title: Rx Femur — Incidență Antero-Posterioară (AP) (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -252,53 +257,3 @@ title: Rx Femur — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 576–580](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP incidență de femur, including genunchi articulație sau hip sau ambele (Figs. 7.166 și 7.167).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides de shadow de thigh și 17 inches (43 cm) în length. Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-• perpendicular pe midfemur și center de receptorul de imagine.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Most de femur și articulație cel mai apropiat de pathologic condition sau site de injury (second incidență de other articulație este
-recommended)
-• col femural nu foreshortened pe proximal femur
-• mic trohanter nu seen beyond medial margine de femur sau only very small portion seen pe proximal femur
-• fără genunchi rotație pe distal femur
-• orice orthopedic appliance în its entirety
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează afected thigh la linia mediană receptorul de imagine. When pacientul este too tall pentru include entire femur, include pe single imagine
-articulație cel mai apropiat de aria de interes diagnostic.
-cu genunchi included
-• pentru incidență de dis̍ al femur, se rotește pacient’s extremity internally la place it în true anatomic poziție. extremity este
-naturally turned externally when pacientul este culcat pe masa de examinare. Ensure that epicondyles sunt paralel cu receptorul de imagine.
-• Place bottom de receptorul de imagine 2 inches (5 cm) below genunchi articulație (Fig. 7.164).
-cu hip included
-• pentru incidență de proximal femur, which trebuie să include hip articulație, place top de receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS) (Fig. 7.165).
-• se rotește extremity internally 10 la 15 grade la place col femural în profile.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-• Check bazinul la ensure it este nu rotit.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
-

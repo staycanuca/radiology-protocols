@@ -2,23 +2,25 @@
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee completă pe durata expunerii.
 category: membru-superior
-centering: '• raza centrală este orientat cranially along axa longitudinală de Humerus
-  și centred la anterior part de capul de Humerus. fascicul este collimated la cap
-  humeral.
+centering: '• Raza centrală este orientată cranial de-a lungul axei longitudinale
+  a humerusului și centrată la partea anterioară a capului humerusului. Fasciculul
+  este colimat la nivelul capului humeral.
 
-  radiografie de Culisa Bicipitală (Șanț Intertubercular) taken cu standard technique
-  radiografie de Culisa Bicipitală (Șanț Intertubercular) taken cu alternative technique
-  2 Humerus – intertuberous sulcus (Culisa Bicipitală (Șanț Intertubercular))'
+  Radiografie a culisei bicipitale (șanțului intertubercular) efectuată cu tehnica
+  standard; radiografie a culisei bicipitale (șanțului intertubercular) efectuată
+  cu tehnica alternativă 2 Humerus – șanț intertubercular (culisa bicipitală (șanț
+  intertubercular))'
 clinical_indications:
-- Evaluare radiografică regiunii Humerus - Culisa Bicipitală (Șanț Intertubercular)
-  (Axială).
+- Evaluarea radiografică a regiunii humerusului — culisa bicipitală (șanțul intertubercular)
+  (axială).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: radiografie de Culisa Bicipitală (Șanț Intertubercular)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie a culisei bicipitale (șanțului intertubercular)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark/fig_1.jpeg
-- caption: radiografie de Culisa Bicipitală (Șanț Intertubercular)
+- caption: Radiografie a culisei bicipitale (șanțului intertubercular)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark/fig_2.jpeg
@@ -30,19 +32,25 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• la reduce risk de pacient movement, expunere este made pe arrested respirație.
+notes: '• Pentru a reduce riscul de mișcare a pacientului, expunerea se efectuează
+  în apnee.
 
-  • expunere este ajustat la evidențiază părți moi structures within sulcus.
+  • Expunerea este ajustată pentru a evidenția structurile țesuturilor moi din șanț.
 
-  Alternative Axială incidență'
+  Incidență axială alternativă'
 position: '• Pacientul este așezat în decubit dorsal pe masa radiologică.
 
-  • caseta este sprijinit vertically above Umăr.
+  • Caseta este susținută vertical deasupra umărului.
 
-  • braț este rested pe tabletop cu palm de Mână facing pacientul’s side și line joining
-  epicondyles de Humerus la 45 grade la masa de examinare.'
+  • Brațul este sprijinit pe masa radiologică, cu palma mâinii orientată spre partea
+  laterală a pacientului, iar linia care unește epicondilii humerusului la 45 grade
+  față de masa de examinare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,8 +59,8 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- sulcus trebuie să fie seen în profile, și expunere este such ca la evidențiază lesions
-  within sau impingements pe sulcus.
+- Șanțul trebuie să fie vizibil în profil, iar expunerea trebuie efectuată astfel
+  încât să evidențieze leziunile din șanț sau conflictele din șanț.
 sid_dff: 100 cm
 slug: rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark
 sources:
@@ -61,14 +69,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Humerus - Culisa Bicipitală (Șanț Intertubercular) Axială
+  mas: Conform AEC / grosimii anatomice
+title: Rx humerus — culisa bicipitală (șanțul intertubercular) axială
 ---
-# Rx Humerus - Culisa Bicipitală (Șanț Intertubercular) Axială
+# Rx humerus — culisa bicipitală (șanțul intertubercular) axială
 
 
 <div class="rx-meta-bar">
@@ -87,27 +95,29 @@ title: Rx Humerus - Culisa Bicipitală (Șanț Intertubercular) Axială
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Humerus - Culisa Bicipitală (Șanț Intertubercular) (Axială).
+        - Evaluarea radiografică a regiunii humerusului — culisa bicipitală (șanțul intertubercular) (axială).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică.
-• caseta este sprijinit vertically above Umăr.
-• braț este rested pe tabletop cu palm de Mână facing pacientul’s side și line joining epicondyles de Humerus la 45 grade la masa de examinare.
-    - **Punct de Centrare Fascicul:** • raza centrală este orientat cranially along axa longitudinală de Humerus și centred la anterior part de capul de Humerus. fascicul este collimated la cap humeral.
-radiografie de Culisa Bicipitală (Șanț Intertubercular) taken cu standard technique radiografie de Culisa Bicipitală (Șanț Intertubercular) taken cu alternative technique 2 Humerus – intertuberous sulcus (Culisa Bicipitală (Șanț Intertubercular))
+    - **Poziție Pacient:**
+        - Pacientul este așezat în decubit dorsal pe masa radiologică.
+        - Caseta este susținută vertical deasupra umărului.
+        - Brațul este sprijinit pe masa radiologică, cu palma mâinii orientată spre partea laterală a pacientului, iar linia care unește epicondilii humerusului la 45 grade față de masa de examinare.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală este orientată cranial de-a lungul axei longitudinale a humerusului și centrată la partea anterioară a capului humerusului. Fasciculul este colimat la nivelul capului humeral. Radiografie a culisei bicipitale (șanțului intertubercular) efectuată cu tehnica standard; radiografie a culisei bicipitale (șanțului intertubercular) efectuată cu tehnica alternativă 2 Humerus – șanț intertubercular (culisa bicipitală (șanț intertubercular))
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee completă pe durata expunerii.
 
@@ -118,19 +128,19 @@ radiografie de Culisa Bicipitală (Șanț Intertubercular) taken cu standard tec
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - sulcus trebuie să fie seen în profile, și expunere este such ca la evidențiază lesions within sau impingements pe sulcus.
+    - Șanțul trebuie să fie vizibil în profil, iar expunerea trebuie efectuată astfel încât să evidențieze leziunile din șanț sau conflictele din șanț.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,10 +152,10 @@ radiografie de Culisa Bicipitală (Șanț Intertubercular) taken cu standard tec
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • la reduce risk de pacient movement, expunere este made pe arrested respirație.
-• expunere este ajustat la evidențiază părți moi structures within sulcus.
-Alternative Axială incidență
+    - Pentru a reduce riscul de mișcare a pacientului, expunerea se efectuează în apnee.
+    - Expunerea este ajustată pentru a evidenția structurile țesuturilor moi din șanț. Incidență axială alternativă
 
 
 ### 🖼️ Imagini
@@ -154,17 +164,17 @@ Alternative Axială incidență
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie de Culisa Bicipitală (Șanț Intertubercular)](../../assets/images/protocols/clark/rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark/fig_1.jpeg)
+![Radiografie a culisei bicipitale (șanțului intertubercular)](../../assets/images/protocols/clark/rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark/fig_1.jpeg)
 
-<figcaption><strong>radiografie de Culisa Bicipitală (Șanț Intertubercular)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie a culisei bicipitale (șanțului intertubercular)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie de Culisa Bicipitală (Șanț Intertubercular)](../../assets/images/protocols/clark/rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark/fig_2.jpeg)
+![Radiografie a culisei bicipitale (șanțului intertubercular)](../../assets/images/protocols/clark/rx-humerus-culisa-bicipitala-sant-intertubercular-axiala-p88-clark/fig_2.jpeg)
 
-<figcaption><strong>radiografie de Culisa Bicipitală (Șanț Intertubercular)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie a culisei bicipitale (șanțului intertubercular)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

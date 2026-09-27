@@ -13,6 +13,10 @@ contrast:
   timing: Bolus tracking / SureStart
   trigger: 120 - 180 HU
   volume: 150 mL
+iris_reference:
+  chapter: Aparat cardiovascular (Cord)
+  radiation_dose: Clasa 3 (Moderată 4 - 8 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 modality: ct
 notes:
@@ -105,10 +109,14 @@ title: CT Heart-CABG (Philips – 40-slice)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+            - **Capitol Ghid IRIS:** *Aparat cardiovascular (Cord)*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 4 - 8 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

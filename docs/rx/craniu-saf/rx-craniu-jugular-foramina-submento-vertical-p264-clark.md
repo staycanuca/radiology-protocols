@@ -25,6 +25,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-jugular-foramina-submento-vertical-p264-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• cu gâtul pacientului mai puțin extins, capul poate fi poziționat cu planul
@@ -84,11 +88,12 @@ title: 'Rx Craniu Foramine jugulare: submento-verticală'
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -131,9 +136,9 @@ title: 'Rx Craniu Foramine jugulare: submento-verticală'
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • cu gâtul pacientului mai puțin extins, capul poate fi poziționat cu planul orbito-meatal la un unghi de 20 grade față de Bucky, caz în care raza centrală orizontală va forma unghiul necesar de 70 grade față de planul bazei craniului (vezi fotografia).
-20° 20°
+    - cu gâtul pacientului mai puțin extins, capul poate fi poziționat cu planul orbito-meatal la un unghi de 20 grade față de Bucky, caz în care raza centrală orizontală va forma unghiul necesar de 70 grade față de planul bazei craniului (vezi fotografia). 20° 20°
 
 
 ### 🖼️ Imagini

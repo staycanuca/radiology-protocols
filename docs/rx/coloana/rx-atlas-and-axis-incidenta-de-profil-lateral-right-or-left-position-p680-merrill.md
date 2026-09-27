@@ -10,6 +10,10 @@ images:
 - caption: Merrill — pagina 681, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-atlas-and-axis-incidenta-de-profil-lateral-right-or-left-position-p680-merrill/p681_fig1.png
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -130,11 +134,12 @@ title: Rx Atlas și Axis (C1-C2) — Incidență de Profil (Lateral) — Profil 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -180,6 +185,7 @@ title: Rx Atlas și Axis (C1-C2) — Incidență de Profil (Lateral) — Profil 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -210,53 +216,3 @@ title: Rx Atlas și Axis (C1-C2) — Incidență de Profil (Lateral) — Profil 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 680–681](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-incidență de profil a atlasului și axisului. Articulațiile atlantooccipitale sunt, de asemenea, vizualizate (Fig. 9.38).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendiculară pe un punct situat la 1 țol (2.5 cm) distal de vârful mastoidian adiacent
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare corectă și prezența markerului de lateralitate (D/S), plasat în afara anatomiei de interes
-• Porțiunea superioară a coloanei cervicale
-• MSP al capului și gâtului paralel cu planul receptorului de imagine, fără înclinare sau rotație
-• Lamele axisului suprapuse și arcurile posterioare ale atlasului suprapuse
-• Ramurile mandibulei aproape suprapuse
-• Gâtul extins astfel încât ramurile mandibulare să nu se suprapună peste axis sau atlas
-• Detalii trabeculare osoase și țesuturile moi înconjurătoare
-
-### part_pos
-
-• cu receptorul de imagine în poziție verticală și în contact cu partea superioară a gâtului, se centrează acesta la nivelul articulației atlantoaxiale (1 țol [2.5
-cm] distal de vârful procesului mastoidian).
-• se ajustează receptorul de imagine astfel încât să fie paralel cu MSP al gâtului, apoi se fixează receptorul de imagine în poziție (Fig. 9.36 și 9.37).
-• se extinde ușor gâtul astfel încât umbra ramurilor mandibulare să nu se suprapună peste cea a coloanei vertebrale.
-• se ajustează capul astfel încât MSP să fie perpendicular pe masă.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-• Se așază brațele de-a lungul corpului și se ajustează umerii astfel încât să fie în același plan orizontal.
-• Se așază un burete sau o pernă sub capul pacientului, cu excepția cazului în care acesta a suferit un traumatism, situație în care gâtul nu trebuie mișcat.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24 ×
-30 cm).
-

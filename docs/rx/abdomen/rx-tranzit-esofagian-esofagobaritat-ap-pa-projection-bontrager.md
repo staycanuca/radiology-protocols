@@ -4,7 +4,7 @@ breathing: 'Apnee la sfârșitul expirului pe durata expunerii. Alternativă PA:
   imagine poate fi obținută și în incidență postero-anterioară (PA), cu poziționare,
   centrare și localizare a razei centrale similare.'
 category: abdomen
-centering: La MSP, la 1 inch (2.5 cm) inferior de unghiul sternal (T5–T6) sau la aproximativ
+centering: La MSP, la 1 țol (2.5 cm) inferior de unghiul sternal (T5–T6) sau la aproximativ
   3 inchi (8 cm) inferior de incizura jugulară (manubriul sternal)
 clinical_indications:
 - Stricturi, corp străin / corpuri străine radioopace, anomalii anatomice și procese
@@ -20,6 +20,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.89
     Incidență AP a esofagului.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-ap-pa-projection-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: se administrează două sau trei linguri de bariu gros, iar expunerea trebuie
@@ -90,17 +94,18 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Incidență AP (PA)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: se poziționează pacientul în decubit sau în ortostatism (de preferat în decubit) (Fig. 12.88).; Regiune anatomică: se aliniază MSp cu linia mediană a receptorului de imagine sau a mesei. Se asigură absența rotației umerilor și a șoldurilor. Se ridică brațul drept pentru a ține paharul cu bariu. Se poziționează marginea superioară a receptorului de imagine la aproximativ 2 inchi (5 cm) deasupra părții superioare a umărului, pentru a plasa raza centrală în centrul receptorului de imagine.
-    - **Punct de Centrare Fascicul:** La MSP, la 1 inch (2.5 cm) inferior de unghiul sternal (T5–T6) sau la aproximativ 3 inchi (8 cm) inferior de incizura jugulară (manubriul sternal)
+    - **Punct de Centrare Fascicul:** La MSP, la 1 țol (2.5 cm) inferior de unghiul sternal (T5–T6) sau la aproximativ 3 inchi (8 cm) inferior de incizura jugulară (manubriul sternal)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului pe durata expunerii. Alternativă PA: această imagine poate fi obținută și în incidență postero-anterioară (PA), cu poziționare, centrare și localizare a razei centrale similare.
 
@@ -138,6 +143,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Incidență AP (PA)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: se administrează două sau trei linguri de bariu gros, iar expunerea trebuie efectuată imediat după înghițirea ultimului bolus. (În general, pacientul nu respiră imediat după înghițire.) Pentru umplerea completă a esofagului cu bariu fluid, poate fi necesar ca pacientul să bea printr-un pai, înghițind continuu, iar expunerea să fie efectuată după trei sau patru înghițituri, fără apnee. Tranzit Esofagian (Esofagobaritat) DE RUTINĂ RAO (35° la 40°) profil AP (PA) Fig. 12.88 Incidență antero-posterioară (AP) în decubit. Fig. 12.89 Incidență AP a esofagului.

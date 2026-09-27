@@ -3,23 +3,25 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre la plantar aspect de heel la nivelul tubercle de fifth metatarsal.
+centering: '• Se centrează pe aspectul plantar al călcâiului, la nivelul tuberculului
+  celui de-al cincilea metatarsian.
 
-  • raza centrală este orientat cranially la un unghi de 40 grade la plantar aspect
-  de heel.'
+  • Raza centrală este orientată cranial la un unghi de 40 de grade față de aspectul
+  plantar al călcâiului.'
 clinical_indications:
-- Evaluare radiografică regiunii Calcaneu (Axială - basic).
+- Evaluarea radiografică a regiunii calcaneului (axială — de bază).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Normal Axială incidență de Calcaneu
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidență axială normală a calcaneului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_1.jpeg
-- caption: Axială incidență de Calcaneu evidențiind suspiciune de fractură
+- caption: Incidență axială a calcaneului evidențiind suspiciune de fractură
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_2.jpeg
-- caption: Axială incidență de Calcaneu evidențiind comminuted suspiciune de fractură
+- caption: Incidență axială a calcaneului evidențiind suspiciune de fractură cominutivă
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_3.jpeg
@@ -27,19 +29,24 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul stă așezat sau lies Decubit dorsal pe X-ray, table cu ambele
-  limbs extins.
+position: '• pacientul stă așezat sau în decubit dorsal pe masa de radiografie, cu
+  ambele membre extinse.
 
-  • membrul inferior afectat este rotit medially until ambele malleoli sunt echidistant
-  față de film radiologic.
+  • membrul inferior afectat este rotit medial până când ambele maleole sunt echidistante
+  față de filmul radiologic.
 
-  • Gleznă (Articulație Talocrurală) este dorsiflexed poziție este maintained prin
-  using bandage strapped around forefoot și held în poziție prin pacientul.
+  • Glezna (articulația talocrurală) este menținută în dorsiflexie prin utilizarea
+  unui bandaj înfășurat în jurul antepiciorului și ținut în poziție de pacient.
 
-  • caseta este poziționat cu its lower edge just distal la plantar aspect de heel.'
+  • caseta este poziționată cu marginea inferioară imediat distal față de aspectul
+  plantar al călcâiului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -48,9 +55,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- subtalar articulație trebuie să fie vizibil pe Axială incidență. Normal Axială incidență
-  de Calcaneu Axială incidență de Calcaneu evidențiind suspiciune de fractură Axială
-  incidență de Calcaneu evidențiind comminuted suspiciune de fractură
+- articulația subtalară trebuie să fie vizibilă pe incidența axială. Incidență axială
+  normală a calcaneului. Incidență axială a calcaneului evidențiind suspiciune de
+  fractură. Incidență axială a calcaneului evidențiind suspiciune de fractură cominutivă.
 sid_dff: 100 cm
 slug: rx-calcaneu-axiala-basic-p134-clark
 sources:
@@ -59,14 +66,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Calcaneu Axială - basic
+  mas: Conform AEC / grosimii anatomice
+title: Rx calcaneu — axială — de bază
 ---
-# Rx Calcaneu Axială - basic
+# Rx calcaneu — axială — de bază
 
 
 <div class="rx-meta-bar">
@@ -85,28 +92,31 @@ title: Rx Calcaneu Axială - basic
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Calcaneu (Axială - basic).
+        - Evaluarea radiografică a regiunii calcaneului (axială — de bază).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat sau lies Decubit dorsal pe X-ray, table cu ambele limbs extins.
-• membrul inferior afectat este rotit medially until ambele malleoli sunt echidistant față de film radiologic.
-• Gleznă (Articulație Talocrurală) este dorsiflexed poziție este maintained prin using bandage strapped around forefoot și held în poziție prin pacientul.
-• caseta este poziționat cu its lower edge just distal la plantar aspect de heel.
-    - **Punct de Centrare Fascicul:** • Centre la plantar aspect de heel la nivelul tubercle de fifth metatarsal.
-• raza centrală este orientat cranially la un unghi de 40 grade la plantar aspect de heel.
+    - **Poziție Pacient:**
+        - pacientul stă așezat sau în decubit dorsal pe masa de radiografie, cu ambele membre extinse.
+        - membrul inferior afectat este rotit medial până când ambele maleole sunt echidistante față de filmul radiologic.
+        - Glezna (articulația talocrurală) este menținută în dorsiflexie prin utilizarea unui bandaj înfășurat în jurul antepiciorului și ținut în poziție de pacient.
+        - caseta este poziționată cu marginea inferioară imediat distal față de aspectul plantar al călcâiului.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează pe aspectul plantar al călcâiului, la nivelul tuberculului celui de-al cincilea metatarsian.
+        - Raza centrală este orientată cranial la un unghi de 40 de grade față de aspectul plantar al călcâiului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -117,19 +127,19 @@ title: Rx Calcaneu Axială - basic
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - subtalar articulație trebuie să fie vizibil pe Axială incidență. Normal Axială incidență de Calcaneu Axială incidență de Calcaneu evidențiind suspiciune de fractură Axială incidență de Calcaneu evidențiind comminuted suspiciune de fractură
+    - articulația subtalară trebuie să fie vizibilă pe incidența axială. Incidență axială normală a calcaneului. Incidență axială a calcaneului evidențiind suspiciune de fractură. Incidență axială a calcaneului evidențiind suspiciune de fractură cominutivă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -141,6 +151,7 @@ title: Rx Calcaneu Axială - basic
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -151,25 +162,25 @@ title: Rx Calcaneu Axială - basic
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Axială incidență de Calcaneu](../../assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_1.jpeg)
+![Incidență axială normală a calcaneului](../../assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Axială incidență de Calcaneu</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Axială incidență de Calcaneu evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_2.jpeg)
-
-<figcaption><strong>Axială incidență de Calcaneu evidențiind suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență axială normală a calcaneului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Axială incidență de Calcaneu evidențiind comminuted suspiciune de fractură](../../assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_3.jpeg)
+![Incidență axială a calcaneului evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_2.jpeg)
 
-<figcaption><strong>Axială incidență de Calcaneu evidențiind comminuted suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență axială a calcaneului evidențiind suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Incidență axială a calcaneului evidențiind suspiciune de fractură cominutivă](../../assets/images/protocols/clark/rx-calcaneu-axiala-basic-p134-clark/fig_3.jpeg)
+
+<figcaption><strong>Incidență axială a calcaneului evidențiind suspiciune de fractură cominutivă</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

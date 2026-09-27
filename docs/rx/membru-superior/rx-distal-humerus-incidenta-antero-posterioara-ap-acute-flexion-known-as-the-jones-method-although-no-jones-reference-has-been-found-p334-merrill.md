@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe Humerus, approximately 2 inches (5 cm) superior la olecran
+centering: perpendicular pe humerus, aproximativ 2 țoli (5 cm) superior față de olecran
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,24 +15,28 @@ images:
 - caption: Merrill — pagina 336, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-distal-humerus-incidenta-antero-posterioara-ap-acute-flexion-known-as-the-jones-method-although-no-jones-reference-has-been-found-p334-merrill/p336_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică, cu Cot fully flectat
-  (unless contraindicated).; se centrează receptorul de imagine proximal la epicondylar
-  area de Humerus. axa longitudinală de braț și Antebraț trebuie să fie paralel cu
-  axa longitudinală de receptorul de imagine (Figs. 5.126 și 5.127). se ajustează
-  braț sau radiographic tube și receptorul de imagine la prevent rotație. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Pacientul se așază pe scaun la capătul mesei radiologice, cu cotul complet
+  flectat (cu excepția cazurilor contraindicate).; Centrați receptorul de imagine
+  proximal față de regiunea epicondilară a humerusului. Axa longitudinală a brațului
+  și antebrațului trebuie să fie paralelă cu axa longitudinală a receptorului de imagine
+  (Figs. 5.126 și 5.127). Ajustați brațul sau tubul radiografic și receptorul de imagine
+  pentru a preveni rotația. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Antebraț și Humerus superimposed, fără rotație
-- olecran și distal Humerus
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Antebrațul și humerusul suprapuse, fără rotație
+- Olecranul și humerusul distal
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-distal-humerus-incidenta-antero-posterioara-ap-acute-flexion-known-as-the-jones-method-although-no-jones-reference-has-been-found-p334-merrill
 source_pages:
@@ -40,47 +44,48 @@ source_pages:
 - 335
 - 336
 source_sections:
-  anatomy: This poziție superimposes proximal forearm și distal humerus. olecran trebuie
-    să fie clearly vizualizat (Fig. 5.128).
-  collimation: • Adjust câmp de iradiere pentru include proximal half de forearm și
-    1 inch (2.5 cm) beyond olecran și sides pe cot. Se plasează markerul de lateralitate
-    în câmpul colimat.
-  cr: • perpendicular pe humerus, approximately 2 inches (5 cm) superior la olecran
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Această poziție suprapune antebrațul proximal și humerusul distal. Olecranul
+    trebuie să fie vizualizat clar (Fig. 5.128).
+  collimation: • Ajustați câmpul de iradiere pentru a include jumătatea proximală
+    a antebrațului și 1 țol (2.5 cm) dincolo de olecran și de laturile cotului. Se
+    plasează markerul de lateralitate în câmpul colimat.
+  cr: • perpendicular pe humerus, aproximativ 2 țoli (5 cm) superior față de olecran
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    în afara anatomiei de interes
 
-    • Forearm și humerus superimposed, fără rotație
+    • Antebrațul și humerusul suprapuse, fără rotație
 
-    • olecran și distal humerus
+    • Olecranul și humerusul distal
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează receptorul de imagine proximal la epicondylar area de
-    humerus. axa longitudinală de braț și forearm trebuie să fie paralel cu long
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  part_pos: '• se centrează receptorul de imagine proximal de regiunea epicondiliană
+    a humerusului. Axele longitudinale ale brațului și antebrațului trebuie să fie
+    paralele cu axa longitudinală a receptorului de imagine (Figs. 5.126 și 5.127).
 
-    axis de receptorul de imagine (Figs. 5.126 și 5.127).
-
-    • se ajustează braț sau radiographic tube și receptorul de imagine la prevent
-    rotație.
+    • se ajustează brațul sau tubul radiografic și receptorul de imagine pentru a
+    preveni rotația.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică, cu cot fully
-    flectat (unless contraindicated).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • se așază pacientul pe scaun la capătul mesei radiologice, cu cotul
+    complet flectat (cu excepția cazurilor contraindicate).
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 334–336
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere pentru include proximal half de Antebraț și
-    1 inch (2.5 cm) beyond olecran și sides pe Cot. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Acute flexion known
-  as the Jones method, although no “Jones” reference has been found. (Merrill)
+  collimation: Se ajustează câmpul de iradiere pentru a include jumătatea proximală
+    a antebrațului și 1 țol (2.5 cm) dincolo de olecran și de părțile laterale ale
+    cotului. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx humerus distal — Incidență antero-posterioară (AP) — Flexia acută, cunoscută
+  sub denumirea de metoda Jones, deși nu a fost găsită nicio referință la „Jones”.
+  (Merrill)
 ---
-# Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Acute flexion known as the Jones method, although no “Jones” reference has been found. (Merrill)
+# Rx humerus distal — Incidență antero-posterioară (AP) — Flexia acută, cunoscută sub denumirea de metoda Jones, deși nu a fost găsită nicio referință la „Jones”. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -104,17 +109,18 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Acute flex
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică, cu Cot fully flectat (unless contraindicated).; se centrează receptorul de imagine proximal la epicondylar area de Humerus. axa longitudinală de braț și Antebraț trebuie să fie paralel cu axa longitudinală de receptorul de imagine (Figs. 5.126 și 5.127). se ajustează braț sau radiographic tube și receptorul de imagine la prevent rotație. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Humerus, approximately 2 inches (5 cm) superior la olecran
+    - **Poziție Pacient:** Pacientul se așază pe scaun la capătul mesei radiologice, cu cotul complet flectat (cu excepția cazurilor contraindicate).; Centrați receptorul de imagine proximal față de regiunea epicondilară a humerusului. Axa longitudinală a brațului și antebrațului trebuie să fie paralelă cu axa longitudinală a receptorului de imagine (Figs. 5.126 și 5.127). Ajustați brațul sau tubul radiografic și receptorul de imagine pentru a preveni rotația. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe humerus, aproximativ 2 țoli (5 cm) superior față de olecran
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -130,18 +136,18 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Acute flex
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere pentru include proximal half de Antebraț și 1 inch (2.5 cm) beyond olecran și sides pe Cot. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a include jumătatea proximală a antebrațului și 1 țol (2.5 cm) dincolo de olecran și de părțile laterale ale cotului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Antebraț și Humerus superimposed, fără rotație
-    - olecran și distal Humerus
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Antebrațul și humerusul suprapuse, fără rotație
+    - Olecranul și humerusul distal
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -150,6 +156,7 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Acute flex
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -197,41 +204,3 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Acute flex
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 334–336](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This poziție superimposes proximal forearm și distal humerus. olecran trebuie să fie clearly vizualizat (Fig. 5.128).
-
-### collimation
-
-• Adjust câmp de iradiere pentru include proximal half de forearm și 1 inch (2.5 cm) beyond olecran și sides pe cot. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe humerus, approximately 2 inches (5 cm) superior la olecran
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Forearm și humerus superimposed, fără rotație
-• olecran și distal humerus
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează receptorul de imagine proximal la epicondylar area de humerus. axa longitudinală de braț și forearm trebuie să fie paralel cu long
-axis de receptorul de imagine (Figs. 5.126 și 5.127).
-• se ajustează braț sau radiographic tube și receptorul de imagine la prevent rotație.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică, cu cot fully flectat (unless contraindicated).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

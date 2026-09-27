@@ -8,10 +8,14 @@ clinical_indications:
   de echipa neonatală.
 clinical_status: draft_not_for_clinical_use
 images: []
+iris_reference:
+  chapter: Pediatrie — Aparat digestiv
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
-notes: Reevaluarea nu sunt un interval universal. Se coordonează cu neonatologul și
-  se corelează cu ecografia când este indicată; suspiciunea de complicație se comunică
+notes: Reevaluările nu se efectuează la un interval universal. Se coordonează cu neonatologul
+  și se corelează cu ecografia când este indicată; suspiciunea de complicație se comunică
   rapid.
 population: Nou-născut / prematur
 position: Poziționare diferențiată pe incidențe; vezi lista de achiziții.
@@ -78,13 +82,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx RX abdomen neonatal — suspiciune de NEC / perforație
+title: Rx abdomen neonatal — suspiciune de NEC / perforație
 workbench_transfer:
   draft_id: 31cc239cc15e5233a78c06f9f17853e7
   purpose: review_in_main_application
   transferred_at: '2026-09-15T08:50:31.351364+00:00'
 ---
-# Rx RX abdomen neonatal — suspiciune de NEC / perforație
+# Rx abdomen neonatal — suspiciune de NEC / perforație
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -111,11 +115,12 @@ workbench_transfer:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Aparat digestiv*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -156,8 +161,9 @@ workbench_transfer:
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Reevaluarea nu sunt un interval universal. Se coordonează cu neonatologul și se corelează cu ecografia când este indicată; suspiciunea de complicație se comunică rapid.
+    Reevaluările nu se efectuează la un interval universal. Se coordonează cu neonatologul și se corelează cu ecografia când este indicată; suspiciunea de complicație se comunică rapid.
 
 ## Incidențe și criterii de acceptare
 

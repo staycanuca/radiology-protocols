@@ -2,37 +2,43 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: angle cu ulnar deviation, sau alternate modified Incidență Scafoid (Metoda
-  Stecher) Radial deviation Carpal canal Fig. 4.112 tangențial (GaynorHart method)
-  incidență. Fig. 4.111 tangențial incidență. raza centrală 25° la 30° la axa longitudinală
-  de Mână.
+centering: unghi cu deviație ulnară sau incidență scafoidă modificată alternativ (metoda
+  Stecher) Incidență tangențială a canalului carpian (metoda GaynorHart) Fig. 4.112
+  incidență tangențială. Fig. 4.111 incidență tangențială. Raza centrală la 25° până
+  la 30° față de axa longitudinală a mâinii.
 clinical_indications:
-- Rule out abnormal calcification și bony changes în carpal sulcus that poate impinge
-  pe median nerve, ca cu carpal tunnel syndrome
-- Possible suspiciune de fractură de hamulus process de hamate, pisiform, și trapezium
+- Excluderea calcificărilor anormale și a modificărilor osoase din șanțul carpian
+  care pot comprima nervul median, ca în sindromul de tunel carpian
+- Posibilă fractură suspectată a procesului hamulus al osului hamat, a pisiformului
+  și a trapezului
 images:
-- caption: Fig. 4.112 tangențial (Gaynor-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.112 tangențial
-    (Gaynor-)
+- caption: Fig. 4.112 tangențială (Gaynor-
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.112 incidență
+    tangențială (Gaynor-)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-projection-gaynor-bontrager/fig_1.jpeg
-- caption: Fig. 4.111 tangențial incidență. raza centrală 25° la 30° la axa longitudinală
-    de Mână.
+- caption: Fig. 4.111 incidență tangențială. Raza centrală la 25° până la 30° față
+    de axa longitudinală a mâinii.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.111
-    tangențial incidență. raza centrală 25° la 30° la axa longitudinală de mână.)
+    incidență tangențială. Raza centrală la 25° până la 30° față de axa longitudinală
+    a mâinii.)
   url: assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-projection-gaynor-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table, cu Pumn (Articulație Radiocarpiană)
-  și Mână pe receptorul de imagine și palm down (în pronație).; Regiune anatomică:
-  Align Mână și Pumn (Articulație Radiocarpiană) cu axa longitudinală de receptorul
-  de imagine. Ask pacient la hyperextend Pumn (Articulație Radiocarpiană) (dorsiflex)
-  ca far ca possible prin use de piece de tape sau band, gently but firmly hyperextending
-  Pumn (Articulație Radiocarpiană) until axa longitudinală de oase metacarpiene și
-  Degete Mână sunt ca near vertical (90° la Antebraț) ca possible (fără lifting Pumn
-  (Articulație Radiocarpiană) și Antebraț de la receptorul de imagine). Rotate entire
-  Mână și Pumn (Articulație Radiocarpiană) about 10° internally (spre radial side)
-  la prevent superimposition de pisiform și hamate (Fig. 4.111).'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu pumnul (articulația radiocarpiană)
+  și mâna pe receptorul de imagine, cu palma în jos (în pronație).; Regiune anatomică:
+  Aliniați mâna și pumnul (articulația radiocarpiană) cu axa longitudinală a receptorului
+  de imagine. Solicitați pacientului să hiperextindă pumnul (dorsiflexie) cât mai
+  mult posibil, folosind o bucată de bandă sau o fașă, hiperextinzând ușor, dar ferm,
+  pumnul până când axa longitudinală a oaselor metacarpiene și degetele mâinii sunt
+  cât mai aproape posibil de verticală (90° față de antebraț) fără ridicarea pumnului
+  și antebrațului de pe receptorul de imagine. Rotiți întreaga mână și pumnul (articulația
+  radiocarpiană) cu aproximativ 10° spre interior (spre partea radială) pentru a preveni
+  suprapunerea pisiformului și hamatului (Fig. 4.111).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,9 +46,10 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea completă regiunii anatomice explorate
-- Absența artefactelor de mișcare sau suprapunerilor neadecvate
-- Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
+- Vizualizarea completă a regiunii anatomice explorate
+- Absența artefactelor de mișcare sau a suprapunerilor neadecvate
+- Contrast și penetrare optime pentru decelarea structurilor osoase și a părților
+  moi
 sid_dff: 100 cm
 slug: rx-pumn-articulatie-radiocarpiana-projection-gaynor-bontrager
 sources:
@@ -50,20 +57,20 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'Field Size Collimate pe four sides la anatomy de interest. Alternative
-    Imaging Sonography pentru carpal tunnel: Highresolution ultrasonography allows
-    pentru noninvasive imaging de carpal tunnel și related anatomy. Fig. 4.112 evidențiază
-    “bowing” de flexor retinaculum (arrows) cu “flattening” de median nerve below
-    it, indicating compression.15 Pumn (Articulație Radiocarpiană) SPECIAL Scaphoid
-    incidențe:'
+  collimation: 'Dimensiunea câmpului Colimați pe patru laturi până la nivelul anatomiei
+    de interes. Imagistică alternativă Ecografia pentru tunelul carpian: Ultrasonografia
+    de înaltă rezoluție permite imagistica neinvazivă a tunelului carpian și a anatomiei
+    asociate. Fig. 4.112 evidențiază „bombarea” retinaculului flexorilor (săgeți),
+    cu „aplatizarea” nervului median dedesubt, indicând compresia.15 Pumn (articulație
+    radiocarpiană) SPECIAL Incidențe pentru scafoid:'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Pumn (Articulație Radiocarpiană) Incidență (GAYNOR)
+title: Rx pumn (articulație radiocarpiană) incidență (GAYNOR)
 ---
-# Rx Pumn (Articulație Radiocarpiană) Incidență (GAYNOR)
+# Rx pumn (articulație radiocarpiană) incidență (GAYNOR)
 
 
 <div class="rx-meta-bar">
@@ -82,23 +89,24 @@ title: Rx Pumn (Articulație Radiocarpiană) Incidență (GAYNOR)
 
     === "Indicații Clinice"
 
-        - Rule out abnormal calcification și bony changes în carpal sulcus that poate impinge pe median nerve, ca cu carpal tunnel syndrome
-        - Possible suspiciune de fractură de hamulus process de hamate, pisiform, și trapezium
+        - Excluderea calcificărilor anormale și a modificărilor osoase din șanțul carpian care pot comprima nervul median, ca în sindromul de tunel carpian
+        - Posibilă fractură suspectată a procesului hamulus al osului hamat, a pisiformului și a trapezului
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Pumn (Articulație Radiocarpiană) și Mână pe receptorul de imagine și palm down (în pronație).; Regiune anatomică: Align Mână și Pumn (Articulație Radiocarpiană) cu axa longitudinală de receptorul de imagine. Ask pacient la hyperextend Pumn (Articulație Radiocarpiană) (dorsiflex) ca far ca possible prin use de piece de tape sau band, gently but firmly hyperextending Pumn (Articulație Radiocarpiană) until axa longitudinală de oase metacarpiene și Degete Mână sunt ca near vertical (90° la Antebraț) ca possible (fără lifting Pumn (Articulație Radiocarpiană) și Antebraț de la receptorul de imagine). Rotate entire Mână și Pumn (Articulație Radiocarpiană) about 10° internally (spre radial side) la prevent superimposition de pisiform și hamate (Fig. 4.111).
-    - **Punct de Centrare Fascicul:** angle cu ulnar deviation, sau alternate modified Incidență Scafoid (Metoda Stecher) Radial deviation Carpal canal Fig. 4.112 tangențial (GaynorHart method) incidență. Fig. 4.111 tangențial incidență. raza centrală 25° la 30° la axa longitudinală de Mână.
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu pumnul (articulația radiocarpiană) și mâna pe receptorul de imagine, cu palma în jos (în pronație).; Regiune anatomică: Aliniați mâna și pumnul (articulația radiocarpiană) cu axa longitudinală a receptorului de imagine. Solicitați pacientului să hiperextindă pumnul (dorsiflexie) cât mai mult posibil, folosind o bucată de bandă sau o fașă, hiperextinzând ușor, dar ferm, pumnul până când axa longitudinală a oaselor metacarpiene și degetele mâinii sunt cât mai aproape posibil de verticală (90° față de antebraț) fără ridicarea pumnului și antebrațului de pe receptorul de imagine. Rotiți întreaga mână și pumnul (articulația radiocarpiană) cu aproximativ 10° spre interior (spre partea radială) pentru a preveni suprapunerea pisiformului și hamatului (Fig. 4.111).
+    - **Punct de Centrare Fascicul:** unghi cu deviație ulnară sau incidență scafoidă modificată alternativ (metoda Stecher) Incidență tangențială a canalului carpian (metoda GaynorHart) Fig. 4.112 incidență tangențială. Fig. 4.111 incidență tangențială. Raza centrală la 25° până la 30° față de axa longitudinală a mâinii.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -114,16 +122,16 @@ title: Rx Pumn (Articulație Radiocarpiană) Incidență (GAYNOR)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. Alternative Imaging Sonography pentru carpal tunnel: Highresolution ultrasonography allows pentru noninvasive imaging de carpal tunnel și related anatomy. Fig. 4.112 evidențiază “bowing” de flexor retinaculum (arrows) cu “flattening” de median nerve below it, indicating compression.15 Pumn (Articulație Radiocarpiană) SPECIAL Scaphoid incidențe: |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe patru laturi până la nivelul anatomiei de interes. Imagistică alternativă Ecografia pentru tunelul carpian: Ultrasonografia de înaltă rezoluție permite imagistica neinvazivă a tunelului carpian și a anatomiei asociate. Fig. 4.112 evidențiază „bombarea” retinaculului flexorilor (săgeți), cu „aplatizarea” nervului median dedesubt, indicând compresia.15 Pumn (articulație radiocarpiană) SPECIAL Incidențe pentru scafoid: |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă regiunii anatomice explorate
-    - Absența artefactelor de mișcare sau suprapunerilor neadecvate
-    - Contrast și penetrare optime pentru decelarea structurilor osoase și părților moi
+    - Vizualizarea completă a regiunii anatomice explorate
+    - Absența artefactelor de mișcare sau a suprapunerilor neadecvate
+    - Contrast și penetrare optime pentru decelarea structurilor osoase și a părților moi
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,17 +151,17 @@ title: Rx Pumn (Articulație Radiocarpiană) Incidență (GAYNOR)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.112 tangențial (Gaynor-](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-projection-gaynor-bontrager/fig_1.jpeg)
+![Fig. 4.112 tangențială (Gaynor-](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-projection-gaynor-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.112 tangențial (Gaynor-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.112 tangențial (Gaynor-)</span></figcaption>
+<figcaption><strong>Fig. 4.112 tangențială (Gaynor-</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.112 incidență tangențială (Gaynor-)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.111 tangențial incidență. raza centrală 25° la 30° la axa longitudinală de Mână.](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-projection-gaynor-bontrager/fig_2.jpeg)
+![Fig. 4.111 incidență tangențială. Raza centrală la 25° până la 30° față de axa longitudinală a mâinii.](../../assets/images/protocols/bontrager/rx-pumn-articulatie-radiocarpiana-projection-gaynor-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.111 tangențial incidență. raza centrală 25° la 30° la axa longitudinală de Mână.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.111 tangențial incidență. raza centrală 25° la 30° la axa longitudinală de mână.)</span></figcaption>
+<figcaption><strong>Fig. 4.111 incidență tangențială. Raza centrală la 25° până la 30° față de axa longitudinală a mâinii.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.111 incidență tangențială. Raza centrală la 25° până la 30° față de axa longitudinală a mâinii.)</span></figcaption>
 
 </figure>
 

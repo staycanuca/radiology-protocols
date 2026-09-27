@@ -1,11 +1,11 @@
 ---
 author: Referință Merrill
-breathing: Inspir profund complet. expunere este made after second Inspir profund
-  complet la ensure maximum expansion de plămânii.
+breathing: Inspir profund complet. Expunerea se efectuează după al doilea inspir profund
+  complet pentru a asigura expansiunea maximă a plămânilor.
 category: torace
-centering: Horizon̍ al și perpendicular pe centrul receptorului de imagine la level
-  3 inches (7.6 cm) below incizură jugulară (furculiță sternală) pentru AP și T7 pentru
-  PA.
+centering: Orizontal și perpendicular pe centrul receptorului de imagine la nivelul
+  de 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală) pentru AP și la T7
+  pentru PA.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -21,37 +21,44 @@ images:
 - caption: Merrill — pagina 201, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill/p201_fig4.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Incidență Decubit lateral, culcat pe either afected
-  sau unafected side, ca indicated prin existing condition. small amount de lichid
-  în pleural cavity, pleural eﬀusion, este usually best vizualizat cu pacientul culcat
-  pe aﬀected side. cu this positioning, mediastinal shadows și lichid do nu overlap.
-  small amount de aer liber în pleural cavity, Pneumotorax (colaps pulmonar), este
-  generally best vizualizat cu pacientul culcat pe unaﬀected side. Exercise care la
-  ensure that pacientul does nu fall de cart. If cart este used, lock toate wheels
-  securely în poziție. Achieve best visualization prin allowing pacientul la remain
-  în poziție pentru 5 minutes before expunere. This allows lichid la settle și air
-  la rise.; If pacientul este culcat pe afected side la evidențiază presence de pleural
-  efusion, elevate corp 2 la 3 inches (5 la 7.6 cm) pe suitable platform sau firm
-  pad. se extinde brațe well above capul și se ajustează thorax în true Incidență
-  de Profil (lateral) (Fig. 3.67). Place anterior sau posterior surface de Torace
-  against stativ vertical Bucky. se ajustează receptorul de imagine la place cephalic
-  edge it 1.5 la 2 inches (3.8 la 5 cm) above umerii. se efectuează ecranarea gonadelor
+position: Se așază pacientul în decubit lateral, culcat pe partea afectată sau neafectată,
+  după cum indică afecțiunea existentă. O cantitate mică de lichid în cavitatea pleurală,
+  revărsatul pleural, este de obicei cel mai bine vizualizată cu pacientul culcat
+  pe partea afectată. Cu această poziționare, umbrele mediastinale și lichidul nu
+  se suprapun. O cantitate mică de aer liber în cavitatea pleurală, pneumotoraxul
+  (colaps pulmonar), este în general cel mai bine vizualizată cu pacientul culcat
+  pe partea neafectată. Se acordă atenție pentru a se asigura că pacientul nu cade
+  de pe cărucior. Dacă se utilizează un cărucior, se blochează ferm toate roțile.
+  Cea mai bună vizualizare se obține permițând pacientului să rămână în poziție timp
+  de 5 minutes înainte de expunere. Aceasta permite lichidului să se așeze și aerului
+  să se ridice.; Dacă pacientul este culcat pe partea afectată pentru a evidenția
+  prezența revărsatului pleural, se ridică trunchiul cu 2 la 3 țoli (5 la 7.6 cm)
+  pe o platformă adecvată sau pe un suport ferm. Se extind brațele mult deasupra capului
+  și se ajustează toracele în adevărata incidență de profil (laterală) (Fig. 3.67).
+  Se plasează suprafața anterioară sau posterioară a toracelui pe stativul vertical
+  Bucky. Se ajustează receptorul de imagine astfel încât marginea sa cefalică să fie
+  la 1.5 la 2 țoli (3.8 la 5 cm) deasupra umerilor. Se efectuează ecranarea gonadelor
   cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) și decubit
-  marker plasat clear de anatomy de interest
-- Afected side în its entirety, de la apex la sinusuri costodiafragmatice
-- Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca evidențiat
-  prin sternal ends de clavicles echidistant față de coloană vertebrală
-- pacient’s brațe nu vizibil în field de interest
-- Faintly vizibil coloană vertebrală și pulmonary vascular markings de la hilar regions
-  la periphery de plămânii
+- 'Criterii radiologice de calitate a imaginii:'
+- Dovada colimării corecte și prezența markerului de lateralitate (D/S) și a markerului
+  de decubit, plasate clar față de anatomia de interes
+- Partea afectată în întregime, de la apex până la sinusurile costodiafragmatice
+- Absența rotației anatomice (simetrie bilaterală perfectă) a pacientului, evidențiată
+  prin poziționarea echidistantă a extremităților sternale ale claviculelor față de
+  coloana vertebrală
+- Brațele pacientului nu sunt vizibile în câmpul de interes
+- Coloana vertebrală abia vizibilă și desenul vascular pulmonar de la regiunile hilare
+  până la periferia plămânilor
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-torace-ap-or-incidenta-postero-anterioara-pa-a-r-or-l-lateral-decubitus-positions-p198-merrill
 source_pages:
@@ -60,80 +67,78 @@ source_pages:
 - 200
 - 201
 source_sections:
-  anatomy: 'AP sau PA incidență obtained using lateral decubit poziție shows change
-    în lichid poziție și reveals orice previously obscured
+  anatomy: Incidența AP sau PA obținută în decubit lateral evidențiază modificarea
+    poziției lichidului și arată regiunile pulmonare mascate anterior sau, în cazul
+    suspiciunii de pneumotorax (colaps pulmonar), prezența aerului liber (Fig. 3.68
+    până la 3.70).
+  collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
+    Se plasează markerul de lateralitate (D/S) și markerul de decubit în câmpul de
+    expunere colimat.
+  cr: • Fasciculul orizontal și perpendicular pe centrul receptorului de imagine la
+    nivelul de 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală) pentru AP
+    și T7 pentru PA.
+  criteria: 'Criterii radiologice pentru calitatea imaginii:
 
-    pulmonary areas sau, în case de suspected Pneumotorax (colaps pulmonar), presence
-    de orice aer liber (Figs. 3.68 through 3.70).'
-  collimation: '• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) și decubit marker în collimated
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S) și a markerului
+    de decubit, plasate clar în afara anatomiei de interes
 
-    expunere field.'
-  cr: • Horizon̍ al și perpendicular pe centrul receptorului de imagine la level 3
-    inches (7.6 cm) below incizură jugulară (furculiță sternală) pentru AP și T7 pentru
-    PA.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Partea afectată în întregime, de la apex până la sinusurile costodiafragmatice
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) și
-    decubit marker plasat clear de anatomy de interest
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a pacientului, evidențiată
+    prin poziționarea echidistantă a extremităților sternale ale claviculelor față
+    de coloana vertebrală
 
-    • Afected side în its entirety, de la apex la sinusuri costodiafragmatice
+    • Brațele pacientului nu sunt vizibile în câmpul de interes
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca evidențiat
-    prin sternal ends de clavicles echidistant față de coloană vertebrală
+    • Coloana vertebrală și desenul vascular pulmonar sunt slab vizibile de la regiunile
+    hilare până la periferia plămânilor'
+  part_pos: '• Dacă pacientul este culcat pe partea afectată pentru a evidenția prezența
+    revărsatului pleural, se ridică trunchiul cu 2 la 3 țoli (5 la 7.6 cm) pe o platformă
+    adecvată sau pe un suport ferm.
 
-    • pacient’s brațe nu vizibil în field de interest
+    • Se extind brațele mult deasupra capului și se ajustează toracele în adevărata
+    poziție de profil (laterală) (Fig. 3.67).
 
-    • Faintly vizibil coloană vertebrală și pulmonary vascular markings de la hilar
-    regions la periphery de plămânii'
-  part_pos: '• If pacientul este culcat pe afected side la evidențiază presence de
-    pleural efusion, elevate corp 2 la 3 inches (5 la 7.6 cm) pe suitable platform
-    sau firm pad.
+    • Se plasează suprafața anterioară sau posterioară a toracelui pe stativul vertical
+    Bucky.
 
-    • se extinde brațe well above capul și se ajustează thorax în true poziție de
-    profil (lateral) (Fig. 3.67).
+    • Se ajustează receptorul de imagine astfel încât marginea sa cefalică să fie
+    la 1.5 la 2 țoli (3.8 la 5 cm) deasupra umerilor.
 
-    • Place anterior sau posterior surface de toracele against stativ vertical Bucky.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit lateral, culcat pe partea afectată
+    sau neafectată, după cum indică afecțiunea existentă. O cantitate mică de lichid
+    în cavitatea pleurală, revărsatul pleural, este de obicei cel mai bine vizualizată
+    cu pacientul culcat pe partea afectată. Cu această poziționare, umbrele mediastinale
+    și lichidul nu se suprapun. O cantitate mică de aer liber în cavitatea pleurală,
+    pneumotoraxul (colaps pulmonar), este în general cel mai bine vizualizată cu pacientul
+    culcat pe partea neafectată.
 
-    • se ajustează receptorul de imagine la place cephalic edge it 1.5 la 2 inches
-    (3.8 la 5 cm) above umerii.
+    • Se acordă atenție pentru a se asigura că pacientul nu cade de pe cărucior. Dacă
+    se utilizează un cărucior, se blochează ferm toate roțile.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în lateral decubit poziție, culcat pe either
-    afected sau unafected side, ca indicated prin existing
+    • Cea mai bună vizualizare se obține permițând pacientului să rămână în poziție
+    timp de 5 minutes înainte de expunere. Aceasta permite lichidului să se așeze
+    și aerului să se ridice.'
+  respiration: Inspir profund complet. Expunerea se efectuează după al doilea inspir
+    profund complet pentru a asigura expansiunea maximă a plămânilor.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    condition. small amount de lichid în pleural cavity, pleural eﬀusion, este usually
-    best vizualizat cu pacientul culcat pe aﬀected
-
-    side. cu this positioning, mediastinal shadows și lichid do nu overlap. small
-    amount de aer liber în pleural cavity, Pneumotorax (colaps pulmonar), este generally
-    best vizualizat cu pacientul culcat pe unaﬀected side.
-
-    • Exercise care la ensure that pacientul does nu fall de cart. If cart este used,
-    lock toate wheels securely în poziție.
-
-    • Achieve best visualization prin allowing pacientul la remain în poziție pentru
-    5 minutes before expunere. This allows lichid la
-
-    settle și air la rise.'
-  respiration: Inspir profund complet. expunere este made after second Inspir profund
-    complet la ensure maximum expansion de plămânii.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    198–201'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 198–201'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) și decubit marker în collimated expunere field.
-title: Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Decubit Lateral
-  Poziționare (Merrill)
+    Se plasează markerul de lateralitate (D/S) și markerul de decubit în câmpul de
+    expunere colimat.
+title: Rx torace — incidență AP sau postero-anterioară (PA), varianta a — poziții
+  în decubit lateral drept (R) sau stâng (L) (Merrill)
 ---
-# Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Decubit Lateral Poziționare (Merrill)
+# Rx torace — incidență AP sau postero-anterioară (PA), varianta a — poziții în decubit lateral drept (R) sau stâng (L) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -157,19 +162,20 @@ title: Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Dec
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Incidență Decubit lateral, culcat pe either afected sau unafected side, ca indicated prin existing condition. small amount de lichid în pleural cavity, pleural eﬀusion, este usually best vizualizat cu pacientul culcat pe aﬀected side. cu this positioning, mediastinal shadows și lichid do nu overlap. small amount de aer liber în pleural cavity, Pneumotorax (colaps pulmonar), este generally best vizualizat cu pacientul culcat pe unaﬀected side. Exercise care la ensure that pacientul does nu fall de cart. If cart este used, lock toate wheels securely în poziție. Achieve best visualization prin allowing pacientul la remain în poziție pentru 5 minutes before expunere. This allows lichid la settle și air la rise.; If pacientul este culcat pe afected side la evidențiază presence de pleural efusion, elevate corp 2 la 3 inches (5 la 7.6 cm) pe suitable platform sau firm pad. se extinde brațe well above capul și se ajustează thorax în true Incidență de Profil (lateral) (Fig. 3.67). Place anterior sau posterior surface de Torace against stativ vertical Bucky. se ajustează receptorul de imagine la place cephalic edge it 1.5 la 2 inches (3.8 la 5 cm) above umerii. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Horizon̍ al și perpendicular pe centrul receptorului de imagine la level 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) pentru AP și T7 pentru PA.
+    - **Poziție Pacient:** Se așază pacientul în decubit lateral, culcat pe partea afectată sau neafectată, după cum indică afecțiunea existentă. O cantitate mică de lichid în cavitatea pleurală, revărsatul pleural, este de obicei cel mai bine vizualizată cu pacientul culcat pe partea afectată. Cu această poziționare, umbrele mediastinale și lichidul nu se suprapun. O cantitate mică de aer liber în cavitatea pleurală, pneumotoraxul (colaps pulmonar), este în general cel mai bine vizualizată cu pacientul culcat pe partea neafectată. Se acordă atenție pentru a se asigura că pacientul nu cade de pe cărucior. Dacă se utilizează un cărucior, se blochează ferm toate roțile. Cea mai bună vizualizare se obține permițând pacientului să rămână în poziție timp de 5 minutes înainte de expunere. Aceasta permite lichidului să se așeze și aerului să se ridice.; Dacă pacientul este culcat pe partea afectată pentru a evidenția prezența revărsatului pleural, se ridică trunchiul cu 2 la 3 țoli (5 la 7.6 cm) pe o platformă adecvată sau pe un suport ferm. Se extind brațele mult deasupra capului și se ajustează toracele în adevărata incidență de profil (laterală) (Fig. 3.67). Se plasează suprafața anterioară sau posterioară a toracelui pe stativul vertical Bucky. Se ajustează receptorul de imagine astfel încât marginea sa cefalică să fie la 1.5 la 2 țoli (3.8 la 5 cm) deasupra umerilor. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orizontal și perpendicular pe centrul receptorului de imagine la nivelul de 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală) pentru AP și la T7 pentru PA.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
+    - **Comandă Respiratorie:** Inspir profund complet. Expunerea se efectuează după al doilea inspir profund complet pentru a asigura expansiunea maximă a plămânilor.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -183,19 +189,19 @@ title: Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Dec
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Place marker de lateralitate (D/S) și decubit marker în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) și markerul de decubit în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) și decubit marker plasat clear de anatomy de interest
-    - Afected side în its entirety, de la apex la sinusuri costodiafragmatice
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca evidențiat prin sternal ends de clavicles echidistant față de coloană vertebrală
-    - pacient’s brațe nu vizibil în field de interest
-    - Faintly vizibil coloană vertebrală și pulmonary vascular markings de la hilar regions la periphery de plămânii
+    - Criterii radiologice de calitate a imaginii:
+    - Dovada colimării corecte și prezența markerului de lateralitate (D/S) și a markerului de decubit, plasate clar față de anatomia de interes
+    - Partea afectată în întregime, de la apex până la sinusurile costodiafragmatice
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a pacientului, evidențiată prin poziționarea echidistantă a extremităților sternale ale claviculelor față de coloana vertebrală
+    - Brațele pacientului nu sunt vizibile în câmpul de interes
+    - Coloana vertebrală abia vizibilă și desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -204,6 +210,7 @@ title: Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Dec
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -259,55 +266,3 @@ title: Rx Torace — AP or Incidență Postero-Anterioară (PA) a — R or L Dec
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 198–201](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP sau PA incidență obtained using lateral decubit poziție shows change în lichid poziție și reveals orice previously obscured
-pulmonary areas sau, în case de suspected Pneumotorax (colaps pulmonar), presence de orice aer liber (Figs. 3.68 through 3.70).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Place marker de lateralitate (D/S) și decubit marker în collimated
-expunere field.
-
-### cr
-
-• Horizon̍ al și perpendicular pe centrul receptorului de imagine la level 3 inches (7.6 cm) below incizură jugulară (furculiță sternală) pentru AP și T7 pentru PA.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) și decubit marker plasat clear de anatomy de interest
-• Afected side în its entirety, de la apex la sinusuri costodiafragmatice
-• Absența rotației anatomice (simetrie bilaterală perfectă) de pacientul, ca evidențiat prin sternal ends de clavicles echidistant față de coloană vertebrală
-• pacient’s brațe nu vizibil în field de interest
-• Faintly vizibil coloană vertebrală și pulmonary vascular markings de la hilar regions la periphery de plămânii
-
-### part_pos
-
-• If pacientul este culcat pe afected side la evidențiază presence de pleural efusion, elevate corp 2 la 3 inches (5 la 7.6 cm) pe suitable platform sau firm pad.
-• se extinde brațe well above capul și se ajustează thorax în true poziție de profil (lateral) (Fig. 3.67).
-• Place anterior sau posterior surface de toracele against stativ vertical Bucky.
-• se ajustează receptorul de imagine la place cephalic edge it 1.5 la 2 inches (3.8 la 5 cm) above umerii.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în lateral decubit poziție, culcat pe either afected sau unafected side, ca indicated prin existing
-condition. small amount de lichid în pleural cavity, pleural eﬀusion, este usually best vizualizat cu pacientul culcat pe aﬀected
-side. cu this positioning, mediastinal shadows și lichid do nu overlap. small amount de aer liber în pleural cavity, Pneumotorax (colaps pulmonar), este generally best vizualizat cu pacientul culcat pe unaﬀected side.
-• Exercise care la ensure that pacientul does nu fall de cart. If cart este used, lock toate wheels securely în poziție.
-• Achieve best visualization prin allowing pacientul la remain în poziție pentru 5 minutes before expunere. This allows lichid la
-settle și air la rise.
-
-### respiration
-
-Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
-

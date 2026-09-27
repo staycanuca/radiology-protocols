@@ -2,39 +2,44 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la first articulații metacarpofalangiene
-  (MCF)
+centering: Perpendicular pe receptorul de imagine, orientat către prima articulație
+  metacarpofalangiană (MCF)
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de distal și proximal
-  falange, distal metacarpal, și associated articulații
-- Pathologic processes, such ca osteoporosis și artroză / modificări degenerative
-  articulare
+- Suspiciune de fractură și luxație / subluxație articulară a falangelor distală și
+  proximală, a metacarpianului distal și a articulațiilor asociate
+- Procese patologice, precum osteoporoza și artroza / modificările degenerative articulare
 images:
-- caption: Fig. 4.59 lateral Police.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.59 lateral thumb.)
+- caption: Fig. 4.59 Police în incidență laterală.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.59 police
+    în incidență laterală.)
   url: assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 4.60 lateral Police.
+- caption: Fig. 4.60 Police în incidență laterală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.60
-    lateral thumb.)
+    police în incidență laterală.)
   url: assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 4.58 Part poziție—lateral Police; raza centrală la first articulații
-    metacarpofalangiene (MCF).
+- caption: Fig. 4.58 Poziția părții—police în incidență laterală; raza centrală la
+    prima articulație metacarpofalangiană (MCF).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.58
-    Part poziție—lateral thumb; raza centrală la first articulații metacarpofalangiene
-    (MCF).)
+    Poziția părții—police în incidență laterală; raza centrală la prima articulație
+    metacarpofalangiană (MCF).)
   url: assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table, cu Cot flectat about 90° cu Mână
-  resting pe receptorul de imagine, palm down.; Regiune anatomică: Start cu Mână în
-  pronație și Police în abducție, cu Degete Mână și Mână slightly arched; then rotate
-  Mână slightly medial until Police este în true Incidență de Profil (lateral). (You
-  poate need la provide sponge sau other support under lateral portion de Mână). Align
-  axa longitudinală de Police cu axa longitudinală de receptorul de imagine. Center
-  first articulații metacarpofalangiene (MCF) la raza centrală și la center de receptorul
-  de imagine. Ensure that entire lateral aspect de Police este în direct contact cu
-  receptorul de imagine (Fig. 4.58).'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu cotul flectat la aproximativ
+  90°, cu mâna sprijinită pe receptorul de imagine, cu palma în jos.; Regiune anatomică:
+  Începeți cu mâna în pronație și policele în abducție, cu degetele mâinii și mâna
+  ușor arcuite; apoi rotiți mâna ușor medial până când policele este în adevărata
+  incidență de profil (lateral). (Este posibil să fie necesar să plasați un burete
+  sau un alt suport sub porțiunea laterală a mâinii.) Aliniați axa longitudinală a
+  policelui cu axa longitudinală a receptorului de imagine. Centrați prima articulație
+  metacarpofalangiană (MCF) pe raza centrală și în centrul receptorului de imagine.
+  Asigurați-vă că întregul aspect lateral al policelui este în contact direct cu receptorul
+  de imagine (Fig. 4.58).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,18 +47,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'distal și proximal falange, first metacarpal, trapezium (superimposed), și associated
-  articulații sunt visualized în Incidență de Profil (lateral) (Figs. 4.59 și 4.60).
-  poziție:'
-- axa longitudinală de Police trebuie să fie aliniat cu side margine de receptorul
+- 'Falangele distală și proximală, primul metacarpian, trapezul (suprapus) și articulațiile
+  asociate sunt vizualizate în incidență de profil (lateral) (Fig. 4.59 și 4.60).
+  Poziție:'
+- Axa longitudinală a policelui trebuie să fie aliniată cu marginea laterală a receptorului
   de imagine.
-- Police trebuie să fie în true Incidență de Profil (lateral), evidenced prin concaveshaped
-  anterior surface de proximal phalanx și first metacarpal și relatively straight
-  posterior surfaces.
-- Interphalangeal și articulații metacarpofalangiene (MCF) trebuie să appear open
-  if falange sunt paralel cu receptorul de imagine (RI) și if raza centrală location
-  este correct.
-- raza centrală și center de
+- Policele trebuie să fie în adevărata incidență de profil (lateral), evidențiată
+  prin suprafața anterioară concavă a falangei proximale și a primului metacarpian
+  și prin suprafețele posterioare relativ drepte.
+- Articulațiile interfalangiene și metacarpofalangiene (MCF) trebuie să apară deschise
+  dacă falangele sunt paralele cu receptorul de imagine (RI) și dacă localizarea razei
+  centrale este corectă.
+- Raza centrală și centrul
 sid_dff: 100 cm
 slug: rx-police-profil-lateral-bontrager
 sources:
@@ -61,18 +66,18 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'field size trebuie să fie la first articulații metacarpofalangiene
-    (MCF). expunere: optim receptorul de imagine expunere și contrast cu fără mișcare
-    evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare
-    nete, fără artefacte de mișcare.'
+  collimation: 'Dimensiunea câmpului trebuie să fie la nivelul primei articulații
+    metacarpofalangiene (MCF). Expunere: expunere și contrast optime ale receptorului
+    de imagine, fără mișcare, evidențiază marginile părților moi și contururi osoase
+    și travee trabeculare clare și nete, fără artefacte de mișcare.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Police Profil (Lateral)
+title: Rx police, incidență de profil (lateral)
 ---
-# Rx Police Profil (Lateral)
+# Rx police, incidență de profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -91,23 +96,24 @@ title: Rx Police Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de distal și proximal falange, distal metacarpal, și associated articulații
-        - Pathologic processes, such ca osteoporosis și artroză / modificări degenerative articulare
+        - Suspiciune de fractură și luxație / subluxație articulară a falangelor distală și proximală, a metacarpianului distal și a articulațiilor asociate
+        - Procese patologice, precum osteoporoza și artroza / modificările degenerative articulare
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot flectat about 90° cu Mână resting pe receptorul de imagine, palm down.; Regiune anatomică: Start cu Mână în pronație și Police în abducție, cu Degete Mână și Mână slightly arched; then rotate Mână slightly medial until Police este în true Incidență de Profil (lateral). (You poate need la provide sponge sau other support under lateral portion de Mână). Align axa longitudinală de Police cu axa longitudinală de receptorul de imagine. Center first articulații metacarpofalangiene (MCF) la raza centrală și la center de receptorul de imagine. Ensure that entire lateral aspect de Police este în direct contact cu receptorul de imagine (Fig. 4.58).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la first articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu cotul flectat la aproximativ 90°, cu mâna sprijinită pe receptorul de imagine, cu palma în jos.; Regiune anatomică: Începeți cu mâna în pronație și policele în abducție, cu degetele mâinii și mâna ușor arcuite; apoi rotiți mâna ușor medial până când policele este în adevărata incidență de profil (lateral). (Este posibil să fie necesar să plasați un burete sau un alt suport sub porțiunea laterală a mâinii.) Aliniați axa longitudinală a policelui cu axa longitudinală a receptorului de imagine. Centrați prima articulație metacarpofalangiană (MCF) pe raza centrală și în centrul receptorului de imagine. Asigurați-vă că întregul aspect lateral al policelui este în contact direct cu receptorul de imagine (Fig. 4.58).
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, orientat către prima articulație metacarpofalangiană (MCF)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -123,18 +129,18 @@ title: Rx Police Profil (Lateral)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | field size trebuie să fie la first articulații metacarpofalangiene (MCF). expunere: optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. |
+    | **Colimare Fascicul** | Dimensiunea câmpului trebuie să fie la nivelul primei articulații metacarpofalangiene (MCF). Expunere: expunere și contrast optime ale receptorului de imagine, fără mișcare, evidențiază marginile părților moi și contururi osoase și travee trabeculare clare și nete, fără artefacte de mișcare. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal și proximal falange, first metacarpal, trapezium (superimposed), și associated articulații sunt visualized în Incidență de Profil (lateral) (Figs. 4.59 și 4.60). poziție:
-    - axa longitudinală de Police trebuie să fie aliniat cu side margine de receptorul de imagine.
-    - Police trebuie să fie în true Incidență de Profil (lateral), evidenced prin concaveshaped anterior surface de proximal phalanx și first metacarpal și relatively straight posterior surfaces.
-    - Interphalangeal și articulații metacarpofalangiene (MCF) trebuie să appear open if falange sunt paralel cu receptorul de imagine (RI) și if raza centrală location este correct.
-    - raza centrală și center de
+    - Falangele distală și proximală, primul metacarpian, trapezul (suprapus) și articulațiile asociate sunt vizualizate în incidență de profil (lateral) (Fig. 4.59 și 4.60). Poziție:
+    - Axa longitudinală a policelui trebuie să fie aliniată cu marginea laterală a receptorului de imagine.
+    - Policele trebuie să fie în adevărata incidență de profil (lateral), evidențiată prin suprafața anterioară concavă a falangei proximale și a primului metacarpian și prin suprafețele posterioare relativ drepte.
+    - Articulațiile interfalangiene și metacarpofalangiene (MCF) trebuie să apară deschise dacă falangele sunt paralele cu receptorul de imagine (RI) și dacă localizarea razei centrale este corectă.
+    - Raza centrală și centrul
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,25 +160,25 @@ title: Rx Police Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.59 lateral Police.](../../assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 4.59 Police în incidență laterală.](../../assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.59 lateral Police.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.59 lateral thumb.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.60 lateral Police.](../../assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.60 lateral Police.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.60 lateral thumb.)</span></figcaption>
+<figcaption><strong>Fig. 4.59 Police în incidență laterală.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.59 police în incidență laterală.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.58 Part poziție—lateral Police; raza centrală la first articulații metacarpofalangiene (MCF).](../../assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 4.60 Police în incidență laterală.](../../assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.58 Part poziție—lateral Police; raza centrală la first articulații metacarpofalangiene (MCF).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.58 Part poziție—lateral thumb; raza centrală la first articulații metacarpofalangiene (MCF).)</span></figcaption>
+<figcaption><strong>Fig. 4.60 Police în incidență laterală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.60 police în incidență laterală.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.58 Poziția părții—police în incidență laterală; raza centrală la prima articulație metacarpofalangiană (MCF).](../../assets/images/protocols/bontrager/rx-police-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 4.58 Poziția părții—police în incidență laterală; raza centrală la prima articulație metacarpofalangiană (MCF).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.58 Poziția părții—police în incidență laterală; raza centrală la prima articulație metacarpofalangiană (MCF).)</span></figcaption>
 
 </figure>
 

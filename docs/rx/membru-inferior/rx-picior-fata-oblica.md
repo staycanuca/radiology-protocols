@@ -4,11 +4,11 @@ breathing: Nemodificată
 category: membru-inferior
 centering: Baza celui de-al treilea metatarsian
 clinical_indications:
-- Traumatisme ale piciorului, fracturi de metatarsiene (inclusiv fractura de marș
-  / stres)
-- Fractură de bază metatarsian V (fractura Jones)
-- Suspiciune leziune articulației Lisfranc sau Chopart
-- Deformații ale piciorului (hallux valgus, picior plat - evaluat în sprijin)
+- Traumatisme ale piciorului, fracturi ale metatarsienelor (inclusiv fractura de marș
+  / de stres)
+- Fractura bazei metatarsianului V (fractura Jones)
+- Suspiciune de leziune a articulației Lisfranc sau Chopart
+- Deformații ale piciorului (hallux valgus, picior plat — evaluat în sprijin)
 iris_reference:
   chapter: Aparat locomotor & Membru inferior
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
@@ -16,19 +16,19 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: Pentru evaluarea piciorului plat sau scobit, radiografiile trebuie efectuate
-  obligatoriu în sarcină (sprijin bipodal).
-position: '1) AP (Dorso-plantar): talpa piciorului așezată plan pe casetă, tubul angulat
-  10° posterior către călcâi; 2) Oblică medială: piciorul rotit intern la 30-45° față
-  de suprafața mesei'
+  obligatoriu în încărcare (sprijin bipodal).
+position: '1) AP (dorso-plantară): talpa piciorului așezată plan pe casetă, tubul
+  angulat 10° posterior către călcâi; 2) incidență oblică medială: piciorul rotit
+  intern la 30-45° față de suprafața mesei'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare strictă
 quality_criteria:
-- Fantele metatarso-falangiene și tarso-metatarsiene clar vizibile
-- 'Pe oblică: articulațiile cuboidului cu metatarsienele IV-V și navicularul sunt
-  eliberate de suprapuneri'
-- Baza metatarsianului V clar decelabilă fără fractură
+- Spațiile metatarsofalangiene și tarsometatarsiene clar vizibile
+- 'Pe incidența oblică: articulațiile cuboidului cu metatarsienele IV-V și osul navicular
+  sunt eliberate de suprapuneri'
+- Baza metatarsianului V clar decelabilă, fără fractură
 sid_dff: 100 cm
 slug: rx-picior-fata-oblica
 sources:
@@ -61,9 +61,9 @@ tech_params:
   grid: Fără grilă antidifuzoare
   kv: 52 - 58
   mas: 2.5 - 4
-title: Rx Picior (Față & Oblică)
+title: Rx picior (față și oblică)
 ---
-# Rx Picior (Față & Oblică)
+# Rx picior (față și oblică)
 
 
 <div class="rx-meta-bar">
@@ -82,10 +82,10 @@ title: Rx Picior (Față & Oblică)
 
     === "Indicații Clinice"
 
-        - Traumatisme ale piciorului, fracturi de metatarsiene (inclusiv fractura de marș / stres)
-        - Fractură de bază metatarsian V (fractura Jones)
-        - Suspiciune leziune articulației Lisfranc sau Chopart
-        - Deformații ale piciorului (hallux valgus, picior plat - evaluat în sprijin)
+        - Traumatisme ale piciorului, fracturi ale metatarsienelor (inclusiv fractura de marș / de stres)
+        - Fractura bazei metatarsianului V (fractura Jones)
+        - Suspiciune de leziune a articulației Lisfranc sau Chopart
+        - Deformații ale piciorului (hallux valgus, picior plat — evaluat în sprijin)
 
     === "Ghid Național IRIS"
 
@@ -95,11 +95,12 @@ title: Rx Picior (Față & Oblică)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** 1) AP (Dorso-plantar): talpa piciorului așezată plan pe casetă, tubul angulat 10° posterior către călcâi; 2) Oblică medială: piciorul rotit intern la 30-45° față de suprafața mesei
+    - **Poziție Pacient:** 1) AP (dorso-plantară): talpa piciorului așezată plan pe casetă, tubul angulat 10° posterior către călcâi; 2) incidență oblică medială: piciorul rotit intern la 30-45° față de suprafața mesei
     - **Punct de Centrare Fascicul:** Baza celui de-al treilea metatarsian
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Nemodificată
@@ -123,21 +124,22 @@ title: Rx Picior (Față & Oblică)
 
     ---
 
-    - Fantele metatarso-falangiene și tarso-metatarsiene clar vizibile
-    - Pe oblică: articulațiile cuboidului cu metatarsienele IV-V și navicularul sunt eliberate de suprapuneri
-    - Baza metatarsianului V clar decelabilă fără fractură
+    - Spațiile metatarsofalangiene și tarsometatarsiene clar vizibile
+    - Pe incidența oblică: articulațiile cuboidului cu metatarsienele IV-V și osul navicular sunt eliberate de suprapuneri
+    - Baza metatarsianului V clar decelabilă, fără fractură
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare strictă
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Pentru evaluarea piciorului plat sau scobit, radiografiile trebuie efectuate obligatoriu în sarcină (sprijin bipodal).
+    Pentru evaluarea piciorului plat sau scobit, radiografiile trebuie efectuate obligatoriu în încărcare (sprijin bipodal).
 
 === "Ghid Rapid de Execuție"
 

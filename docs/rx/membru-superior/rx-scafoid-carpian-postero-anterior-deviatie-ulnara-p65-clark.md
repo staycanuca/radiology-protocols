@@ -3,49 +3,56 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • raza centrală verticală centrală este centred midway între radial și
-  ulnar styloid processes.
+centering: • Raza centrală verticală este centrată la jumătatea distanței dintre procesele
+  stiloide radial și ulnar.
 clinical_indications:
-- "Four incidențe poate fie taken la evidențiază toate oase carpiene using a 24 \x02\
-  \ 30-cm casetă, fiecare quarter being used în turn, cu other three-quarters masked\
-  \ off using lead rubber. pentru Scafoid Carpian suspiciune de fractură, three incidențe\
-  \ sunt normally taken: Postero-anterior (PA), Oblică Anterioară și Profil (lateral)."
+- 'Patru incidențe pot fi efectuate pentru a evidenția toate oasele carpiene folosind
+  o casetă de 24 × 30 cm, fiecare sfert fiind utilizat pe rând, iar celelalte trei
+  sferturi fiind ecranate cu cauciuc plumbat. Pentru suspiciunea de fractură a scafoidului
+  carpian, se efectuează de obicei trei incidențe: postero-anterioară (PA), oblică
+  anterioară și de profil (laterală).'
 images:
-- caption: 'pentru Scafoid Carpian suspiciune de fractură, three incidențe sunt normally
-    taken:'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: 'Pentru suspiciunea de fractură a scafoidului carpian, se efectuează de
+    obicei trei incidențe:'
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_1.jpeg
-- caption: • spații articulare around Scafoid Carpian trebuie să fie evidențiat
+- caption: • Spațiile articulare din jurul scafoidului carpian trebuie să fie evidențiate
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_2.jpeg
-- caption: Antero-posterior (AP) radiografie de Pumn (Articulație Radiocarpiană)
+- caption: Radiografie anteroposterioară (AP) a pumnului (articulației radiocarpiene)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_3.jpeg
-- caption: Normal Postero-anterior (PA) radiografie de Scafoid Carpian în Deviație
-    Ulnară
+- caption: Radiografie postero-anterioară (PA) normală a scafoidului carpian în deviație
+    ulnară
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• Pacientul este așezat pe scaun lângă masa de examinare cu partea afectată
-  nearest masa de examinare.
+position: '• Pacientul este așezat pe scaun lângă masa de examinare, cu partea afectată
+  cea mai apropiată de masa de examinare.
 
-  • braț este extins across masa de examinare cu Cot flectat și Antebraț (Radius și
-  Ulna) în pronație.
+  • Brațul este extins peste masa de examinare, cu cotul flectat și antebrațul (radiusul
+  și ulna) în pronație.
 
-  • If possible, Umăr, Cot și Pumn (Articulație Radiocarpiană) trebuie să fie la nivelul
-  tabletop.
+  • Dacă este posibil, umărul, cotul și pumnul (articulația radiocarpiană) trebuie
+  să fie la nivelul mesei.
 
-  • Pumn (Articulație Radiocarpiană) este poziționat over one-quarter de caseta și
-  Mână este în adducție (Deviație Ulnară).
+  • Pumnul (articulația radiocarpiană) este poziționat peste un sfert al casetei,
+  iar mâna este în adducție (deviație ulnară).
 
-  • Ensure that radial și ulnar styloid processes sunt echidistant față de caseta.
+  • Asigurați-vă că procesele stiloide radial și ulnar sunt echidistante față de casetă.
 
-  • Mână și lower Antebraț (Radius și Ulna) sunt imobilizat using săculeți cu nisip.'
+  • Mâna și partea distală a antebrațului (radiusul și ulna) sunt imobilizate folosind
+  săculeți cu nisip.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -54,14 +61,14 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală
-  oase metacarpiene.
-- spații articulare around Scafoid Carpian trebuie să fie clar evidențiat(e). 50 articulații
-  carpometacarpiene (CMC) Trapezium Trapezoid Capitate Scafoid Carpian Styloid process
-  de radius Radio-carpal articulație Hook de hamate Hamate Triquetral Pisiform Lunate
-  Styloid process de ulna Radio-ulnar articulație 1 2 3 4 5 Antero-posterior (AP)
-  radiografie de Pumn (Articulație Radiocarpiană) Normal Postero-anterior (PA) radiografie
-  de Scafoid Carpian în Deviație Ulnară
+- Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea
+  proximală a oaselor metacarpiene.
+- Spațiile articulare din jurul scafoidului carpian trebuie să fie evidențiate clar.
+  50 Articulații carpometacarpiene (CMC) Trapez Trapezoid Capitat Scafoid carpian
+  Proces stiloid al radiusului Articulație radiocarpiană Cârligul hamatului Hamatus
+  Triquetrum Pisiform Semilunar Proces stiloid al ulnei Articulație radioulnară 1
+  2 3 4 5 Radiografie anteroposterioară (AP) a pumnului (articulației radiocarpiene)
+  Normal Radiografie postero-anterioară (PA) a scafoidului carpian în deviație ulnară
 sid_dff: 100 cm
 slug: rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark
 sources:
@@ -70,14 +77,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Scafoid Carpian Postero-Anterior (PA) - Deviație Ulnară
+  mas: Conform AEC / grosimii anatomice
+title: Rx scafoid carpian, incidență postero-anterioară (PA) – deviație ulnară
 ---
-# Rx Scafoid Carpian Postero-Anterior (PA) - Deviație Ulnară
+# Rx scafoid carpian, incidență postero-anterioară (PA) – deviație ulnară
 
 
 <div class="rx-meta-bar">
@@ -96,27 +103,29 @@ title: Rx Scafoid Carpian Postero-Anterior (PA) - Deviație Ulnară
 
     === "Indicații Clinice"
 
-        - Four incidențe poate fie taken la evidențiază toate oase carpiene using a 24  30-cm casetă, fiecare quarter being used în turn, cu other three-quarters masked off using lead rubber. pentru Scafoid Carpian suspiciune de fractură, three incidențe sunt normally taken: Postero-anterior (PA), Oblică Anterioară și Profil (lateral).
+        - Patru incidențe pot fi efectuate pentru a evidenția toate oasele carpiene folosind o casetă de 24 × 30 cm, fiecare sfert fiind utilizat pe rând, iar celelalte trei sferturi fiind ecranate cu cauciuc plumbat. Pentru suspiciunea de fractură a scafoidului carpian, se efectuează de obicei trei incidențe: postero-anterioară (PA), oblică anterioară și de profil (laterală).
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat pe scaun lângă masa de examinare cu partea afectată nearest masa de examinare.
-• braț este extins across masa de examinare cu Cot flectat și Antebraț (Radius și Ulna) în pronație.
-• If possible, Umăr, Cot și Pumn (Articulație Radiocarpiană) trebuie să fie la nivelul tabletop.
-• Pumn (Articulație Radiocarpiană) este poziționat over one-quarter de caseta și Mână este în adducție (Deviație Ulnară).
-• Ensure that radial și ulnar styloid processes sunt echidistant față de caseta.
-• Mână și lower Antebraț (Radius și Ulna) sunt imobilizat using săculeți cu nisip.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este centred midway între radial și ulnar styloid processes.
+    - **Poziție Pacient:**
+        - Pacientul este așezat pe scaun lângă masa de examinare, cu partea afectată cea mai apropiată de masa de examinare.
+        - Brațul este extins peste masa de examinare, cu cotul flectat și antebrațul (radiusul și ulna) în pronație.
+        - Dacă este posibil, umărul, cotul și pumnul (articulația radiocarpiană) trebuie să fie la nivelul mesei.
+        - Pumnul (articulația radiocarpiană) este poziționat peste un sfert al casetei, iar mâna este în adducție (deviație ulnară).
+        - Asigurați-vă că procesele stiloide radial și ulnar sunt echidistante față de casetă.
+        - Mâna și partea distală a antebrațului (radiusul și ulna) sunt imobilizate folosind săculeți cu nisip.
+    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată la jumătatea distanței dintre procesele stiloide radial și ulnar.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -127,20 +136,20 @@ title: Rx Scafoid Carpian Postero-Anterior (PA) - Deviație Ulnară
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală oase metacarpiene.
-    - spații articulare around Scafoid Carpian trebuie să fie clar evidențiat(e). 50 articulații carpometacarpiene (CMC) Trapezium Trapezoid Capitate Scafoid Carpian Styloid process de radius Radio-carpal articulație Hook de hamate Hamate Triquetral Pisiform Lunate Styloid process de ulna Radio-ulnar articulație 1 2 3 4 5 Antero-posterior (AP) radiografie de Pumn (Articulație Radiocarpiană) Normal Postero-anterior (PA) radiografie de Scafoid Carpian în Deviație Ulnară
+    - Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea proximală a oaselor metacarpiene.
+    - Spațiile articulare din jurul scafoidului carpian trebuie să fie evidențiate clar. 50 Articulații carpometacarpiene (CMC) Trapez Trapezoid Capitat Scafoid carpian Proces stiloid al radiusului Articulație radiocarpiană Cârligul hamatului Hamatus Triquetrum Pisiform Semilunar Proces stiloid al ulnei Articulație radioulnară 1 2 3 4 5 Radiografie anteroposterioară (AP) a pumnului (articulației radiocarpiene) Normal Radiografie postero-anterioară (PA) a scafoidului carpian în deviație ulnară
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -152,6 +161,7 @@ title: Rx Scafoid Carpian Postero-Anterior (PA) - Deviație Ulnară
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -162,33 +172,33 @@ title: Rx Scafoid Carpian Postero-Anterior (PA) - Deviație Ulnară
 
 <figure class="protocol-image-card" markdown>
 
-![pentru Scafoid Carpian suspiciune de fractură, three incidențe sunt normally taken:](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_1.jpeg)
+![Pentru suspiciunea de fractură a scafoidului carpian, se efectuează de obicei trei incidențe:](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_1.jpeg)
 
-<figcaption><strong>pentru Scafoid Carpian suspiciune de fractură, three incidențe sunt normally taken:</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• spații articulare around Scafoid Carpian trebuie să fie evidențiat](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_2.jpeg)
-
-<figcaption><strong>• spații articulare around Scafoid Carpian trebuie să fie evidențiat</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Pentru suspiciunea de fractură a scafoidului carpian, se efectuează de obicei trei incidențe:</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie de Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_3.jpeg)
+![• Spațiile articulare din jurul scafoidului carpian trebuie să fie evidențiate](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie de Pumn (Articulație Radiocarpiană)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Spațiile articulare din jurul scafoidului carpian trebuie să fie evidențiate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Postero-anterior (PA) radiografie de Scafoid Carpian în Deviație Ulnară](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_4.jpeg)
+![Radiografie anteroposterioară (AP) a pumnului (articulației radiocarpiene)](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_3.jpeg)
 
-<figcaption><strong>Normal Postero-anterior (PA) radiografie de Scafoid Carpian în Deviație Ulnară</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) a pumnului (articulației radiocarpiene)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie postero-anterioară (PA) normală a scafoidului carpian în deviație ulnară](../../assets/images/protocols/clark/rx-scafoid-carpian-postero-anterior-deviatie-ulnara-p65-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie postero-anterioară (PA) normală a scafoidului carpian în deviație ulnară</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -2,37 +2,42 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular pe receptorul de imagine, orientat la point 1 inch (2.5 cm)
-  inferior la maleolă medială (tibială)
+centering: perpendicular pe receptorul de imagine, orientat spre un punct situat la
+  1 țol (2.5 cm) inferior de maleola medială (tibială)
 clinical_indications:
-- Bony lesions involving Calcaneu, astragal (talus), și talocalcaneal articulație
-- evidențiază extent și alignment de suspiciune de fractură
+- Leziuni osoase care implică calcaneul, talusul și articulația talocalcaneală
+- evidențiază extinderea și alinierea fracturii suspectate
 images:
-- caption: Fig. 6.75 Mediolateral Calcaneu.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.75 Mediolateral
-    calcaneu.)
+- caption: Fig. 6.75 Calcaneu în incidență mediolaterală.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.75 Calcaneu
+    în incidență mediolaterală.)
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_1.jpeg
-- caption: Fig. 6.76 Mediolateral Calcaneu.
+- caption: Fig. 6.76 Calcaneu în incidență mediolaterală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.76
-    Mediolateral calcaneu.)
+    Calcaneu în incidență mediolaterală.)
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_2.jpeg
-- caption: Fig. 6.77 Mediolateral Calcaneu.
+- caption: Fig. 6.77 Calcaneu în incidență mediolaterală.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.77
-    Mediolateral calcaneu.)
+    Calcaneu în incidență mediolaterală.)
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place pacient în lateral Decubit poziție, affected side down.
-  Provide pillow pentru pacient’s cap. Flex Genunchi de affected limb about 45°; place
-  opposite membru inferior behind injured limb.; Regiune anatomică: Center Calcaneu
-  la raza centrală și la unmasked portion de receptorul de imagine, cu axa longitudinală
-  de Picior paralel la plane de receptorul de imagine (Fig. 6.75). Place support under
-  Genunchi și membru inferior ca needed la place plantar surface perpendicular pe
-  receptorul de imagine. poziție Gleznă (Articulație Talocrurală) și Picior pentru
-  true lateral, which places maleolă laterală (fibulară) approximately {⅜} inch (1
-  cm) posterior la maleolă medială (tibială). Dorsiflex Picior so that plantar surface
-  este la drept angle la membru inferior.'
+position: 'Pacient: Așezați pacientul în decubit lateral, cu partea afectată în jos.
+  Asigurați o pernă pentru capul pacientului. Flectați genunchiul membrului afectat
+  la aproximativ 45°; așezați membrul inferior opus în spatele membrului lezat.; Regiune
+  anatomică: Centrați calcaneul la raza centrală și la porțiunea neacoperită a receptorului
+  de imagine, cu axa longitudinală a piciorului paralelă cu planul receptorului de
+  imagine (Fig. 6.75). Așezați un suport sub genunchi și membrul inferior, după cum
+  este necesar, pentru a poziționa suprafața plantară perpendicular pe receptorul
+  de imagine. Poziționați glezna (articulația talocrurală) și piciorul pentru profil
+  adevărat, ceea ce plasează maleola laterală (fibulară) la aproximativ {⅜} inch (1
+  cm) posterior de maleola medială (tibială). Dorsiflectați piciorul astfel încât
+  suprafața plantară să fie în unghi drept față de membrul inferior.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,25 +45,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Calcaneu este evidențiat în profile cu astragal (talus) și distal tibiafibula evidențiat
-  superiorly și navicular și open spații articulare de Calcaneu și cuboid evidențiat
-  distally (Figs. 6.76 și 6.77). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  ca evidenced prin superimposed superior portions de astragal (talus), open talocalcaneal
-  articulație, și maleolă laterală (fibulară) superimposed over posterior half de
-  tibia și astragal (talus).'
-- Tarsal sinus și calcaneocuboid spații articulare trebuie să appear open.
-- 'Foursided collimation trebuie să include Gleznă (Articulație Talocrurală) articulație
-  proximally și talonavicular articulație și base de fifth metatarsal anteriorly.
-  expunere:'
-- optim receptorul de imagine expunere și contrast la visualize părți moi și more
-  dense portions de Calcaneu și astragal (talus).
-- Outline de distal fibula trebuie să fie faintly vizibil through astragal (talus).
-- Trabecular markings appear clear și net, indicating fără mișcare. Fig. 6.76 Mediolateral
-  Calcaneu. Tarsal sinus (sinus tarsi) Talocalcaneal (subtalar) articulație Base de
-  5th metatarsal Cuboid Calcaneocuboid articulație Calcaneu Tuberosity astragal (talus)
-  Talonavicular articulație Tibiotalar articulație maleolă laterală (fibulară) R Navicular
-  Fig. 6.77 Mediolateral Calcaneu.
+- 'Calcaneul este evidențiat în profil, cu talusul și tibia-fibula distală evidențiate
+  superior, iar navicularul și spațiile articulare deschise dintre calcaneu și cuboid
+  evidențiate distal (Fig. 6.76 și 6.77). Poziție:'
+- 'Absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor
+  spinoase, evidențiată prin suprapunerea porțiunilor superioare ale talusului, articulația
+  talocalcaneală deschisă și maleola laterală (fibulară) suprapusă peste jumătatea
+  posterioară a tibiei și talusului.'
+- Sinusul tarsian și spațiile articulare calcaneocuboidiene trebuie să apară deschise.
+- 'Colimarea pe patru laturi trebuie să includă proximal articulația gleznei (articulația
+  talocrurală), iar anterior articulația talonaviculară și baza celui de-al cincilea
+  metatarsian. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine pentru vizualizarea părților
+  moi și a porțiunilor mai dense ale calcaneului și talusului.
+- Conturul fibulei distale trebuie să fie vizibil discret prin talus.
+- Marcajele trabeculare apar clare și nete, indicând absența mișcării. Fig. 6.76 Calcaneu
+  în incidență mediolaterală. Sinus tarsian (sinus tarsi), articulație talocalcaneală
+  (subtalară), baza celui de-al 5-lea metatarsian, cuboid, articulație calcaneocuboidiană,
+  calcaneu, tuberozitate, talus, articulație talonaviculară, articulație tibiotalară,
+  maleolă laterală (fibulară), R, navicular. Fig. 6.77 Calcaneu în incidență mediolaterală.
 sid_dff: 100 cm
 slug: rx-mediolateral-projection-lateral-calcaneu-bontrager
 sources:
@@ -66,17 +71,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate la outer skin margins la include Gleznă (Articulație Talocrurală)
-    articulație proximally și entire Calcaneu. Calcaneu ROUTINE plantar dorsal lateral
-    Fig. 6.75 Mediolateral Calcaneu.
+  collimation: Colimați la marginile cutanate externe pentru a include proximal articulația
+    gleznei (articulația talocrurală) și întregul calcaneu. Calcaneu — DE RUTINĂ,
+    plantar-dorsal, profil. Fig. 6.75 Calcaneu în incidență mediolaterală.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-75
   mas: DE CONFIGURAT PE APARAT
-title: Rx Medio-Lateral Incidență LATERAL (Calcaneu)
+title: Rx mediolateral — incidență PROFIL (calcaneu)
 ---
-# Rx Medio-Lateral Incidență LATERAL (Calcaneu)
+# Rx mediolateral — incidență PROFIL (calcaneu)
 
 
 <div class="rx-meta-bar">
@@ -95,23 +100,24 @@ title: Rx Medio-Lateral Incidență LATERAL (Calcaneu)
 
     === "Indicații Clinice"
 
-        - Bony lesions involving Calcaneu, astragal (talus), și talocalcaneal articulație
-        - evidențiază extent și alignment de suspiciune de fractură
+        - Leziuni osoase care implică calcaneul, talusul și articulația talocalcaneală
+        - evidențiază extinderea și alinierea fracturii suspectate
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție, affected side down. Provide pillow pentru pacient’s cap. Flex Genunchi de affected limb about 45°; place opposite membru inferior behind injured limb.; Regiune anatomică: Center Calcaneu la raza centrală și la unmasked portion de receptorul de imagine, cu axa longitudinală de Picior paralel la plane de receptorul de imagine (Fig. 6.75). Place support under Genunchi și membru inferior ca needed la place plantar surface perpendicular pe receptorul de imagine. poziție Gleznă (Articulație Talocrurală) și Picior pentru true lateral, which places maleolă laterală (fibulară) approximately {⅜} inch (1 cm) posterior la maleolă medială (tibială). Dorsiflex Picior so that plantar surface este la drept angle la membru inferior.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la point 1 inch (2.5 cm) inferior la maleolă medială (tibială)
+    - **Poziție Pacient:** Pacient: Așezați pacientul în decubit lateral, cu partea afectată în jos. Asigurați o pernă pentru capul pacientului. Flectați genunchiul membrului afectat la aproximativ 45°; așezați membrul inferior opus în spatele membrului lezat.; Regiune anatomică: Centrați calcaneul la raza centrală și la porțiunea neacoperită a receptorului de imagine, cu axa longitudinală a piciorului paralelă cu planul receptorului de imagine (Fig. 6.75). Așezați un suport sub genunchi și membrul inferior, după cum este necesar, pentru a poziționa suprafața plantară perpendicular pe receptorul de imagine. Poziționați glezna (articulația talocrurală) și piciorul pentru profil adevărat, ceea ce plasează maleola laterală (fibulară) la aproximativ {⅜} inch (1 cm) posterior de maleola medială (tibială). Dorsiflectați piciorul astfel încât suprafața plantară să fie în unghi drept față de membrul inferior.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat spre un punct situat la 1 țol (2.5 cm) inferior de maleola medială (tibială)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -127,20 +133,20 @@ title: Rx Medio-Lateral Incidență LATERAL (Calcaneu)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate la outer skin margins la include Gleznă (Articulație Talocrurală) articulație proximally și entire Calcaneu. Calcaneu ROUTINE plantar dorsal lateral Fig. 6.75 Mediolateral Calcaneu. |
+    | **Colimare Fascicul** | Colimați la marginile cutanate externe pentru a include proximal articulația gleznei (articulația talocrurală) și întregul calcaneu. Calcaneu — DE RUTINĂ, plantar-dorsal, profil. Fig. 6.75 Calcaneu în incidență mediolaterală. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Calcaneu este evidențiat în profile cu astragal (talus) și distal tibiafibula evidențiat superiorly și navicular și open spații articulare de Calcaneu și cuboid evidențiat distally (Figs. 6.76 și 6.77). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase ca evidenced prin superimposed superior portions de astragal (talus), open talocalcaneal articulație, și maleolă laterală (fibulară) superimposed over posterior half de tibia și astragal (talus).
-    - Tarsal sinus și calcaneocuboid spații articulare trebuie să appear open.
-    - Foursided collimation trebuie să include Gleznă (Articulație Talocrurală) articulație proximally și talonavicular articulație și base de fifth metatarsal anteriorly. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize părți moi și more dense portions de Calcaneu și astragal (talus).
-    - Outline de distal fibula trebuie să fie faintly vizibil through astragal (talus).
-    - Trabecular markings appear clear și net, indicating fără mișcare. Fig. 6.76 Mediolateral Calcaneu. Tarsal sinus (sinus tarsi) Talocalcaneal (subtalar) articulație Base de 5th metatarsal Cuboid Calcaneocuboid articulație Calcaneu Tuberosity astragal (talus) Talonavicular articulație Tibiotalar articulație maleolă laterală (fibulară) R Navicular Fig. 6.77 Mediolateral Calcaneu.
+    - Calcaneul este evidențiat în profil, cu talusul și tibia-fibula distală evidențiate superior, iar navicularul și spațiile articulare deschise dintre calcaneu și cuboid evidențiate distal (Fig. 6.76 și 6.77). Poziție:
+    - Absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase, evidențiată prin suprapunerea porțiunilor superioare ale talusului, articulația talocalcaneală deschisă și maleola laterală (fibulară) suprapusă peste jumătatea posterioară a tibiei și talusului.
+    - Sinusul tarsian și spațiile articulare calcaneocuboidiene trebuie să apară deschise.
+    - Colimarea pe patru laturi trebuie să includă proximal articulația gleznei (articulația talocrurală), iar anterior articulația talonaviculară și baza celui de-al cincilea metatarsian. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine pentru vizualizarea părților moi și a porțiunilor mai dense ale calcaneului și talusului.
+    - Conturul fibulei distale trebuie să fie vizibil discret prin talus.
+    - Marcajele trabeculare apar clare și nete, indicând absența mișcării. Fig. 6.76 Calcaneu în incidență mediolaterală. Sinus tarsian (sinus tarsi), articulație talocalcaneală (subtalară), baza celui de-al 5-lea metatarsian, cuboid, articulație calcaneocuboidiană, calcaneu, tuberozitate, talus, articulație talonaviculară, articulație tibiotalară, maleolă laterală (fibulară), R, navicular. Fig. 6.77 Calcaneu în incidență mediolaterală.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,25 +166,25 @@ title: Rx Medio-Lateral Incidență LATERAL (Calcaneu)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.75 Mediolateral Calcaneu.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_1.jpeg)
+![Fig. 6.75 Calcaneu în incidență mediolaterală.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.75 Mediolateral Calcaneu.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.75 Mediolateral calcaneu.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.76 Mediolateral Calcaneu.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.76 Mediolateral Calcaneu.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.76 Mediolateral calcaneu.)</span></figcaption>
+<figcaption><strong>Fig. 6.75 Calcaneu în incidență mediolaterală.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.75 Calcaneu în incidență mediolaterală.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.77 Mediolateral Calcaneu.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_3.jpeg)
+![Fig. 6.76 Calcaneu în incidență mediolaterală.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.77 Mediolateral Calcaneu.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.77 Mediolateral calcaneu.)</span></figcaption>
+<figcaption><strong>Fig. 6.76 Calcaneu în incidență mediolaterală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.76 Calcaneu în incidență mediolaterală.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.77 Calcaneu în incidență mediolaterală.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-calcaneu-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.77 Calcaneu în incidență mediolaterală.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.77 Calcaneu în incidență mediolaterală.)</span></figcaption>
 
 </figure>
 

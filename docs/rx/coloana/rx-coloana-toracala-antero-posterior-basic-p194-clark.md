@@ -46,6 +46,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-toracala-antero-posterior-basic-p194-clark/fig_6.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Această regiune prezintă un contrast de subiect extrem de mare. Acest lucru
@@ -156,29 +160,30 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - de bază
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este poziționat în Decubit dorsal pe masa radiologică, cu planul mediosagital perpendicular pe masa radiologică și coincident cu linia mediană a Bucky.
-• marginea superioară a casetei, care trebuie să aibă o lungime de cel puțin 40 cm pentru adult, trebuie să fie la nivelul situat imediat sub proeminența cartilajului tiroid (mărul lui Adam), pentru a asigura includerea Coloanei Toracale superioare.
-• Se efectuează expunerea în apnee după inspirație. Aceasta va determina coborârea cupolelor diafragmatice peste vertebrele lombare superioare, reducând astfel posibilitatea apariției unei diferențe mari de densitate optică pe imagine, din cauza suprapunerii Toracelui (Câmpurilor Pulmonare).
-
-• De obicei se efectuează cu pacientul în poziție de Decubit lateral (profil) pe masa radiologică, deși această incidență poate fi realizată și în Ortostatism.
-• planul mediosagital trebuie să fie paralel cu caseta, iar linia mediană axilară coincidentă cu linia mediană a mesei sau a Bucky.
-• brațele trebuie să fie ridicate bine deasupra capului.
-• capul poate fi sprijinit pe o pernă, iar între genunchi pot fi plasate suporturi pentru confortul pacientului.
-• marginea superioară a casetei trebuie să aibă o lungime de cel puțin 40 cm și trebuie poziționată la 3–4 cm deasupra apofizei spinoase a C7.
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală la unghi drept față de casetă și spre un punct situat la 2.5 cm sub unghiul sternal.
-• Se colimează strâns la nivelul coloanei vertebrale.
-
-• raza centrală trebuie să fie perpendiculară pe axa longitudinală a Coloanei Toracale. Acest lucru poate necesita angulație caudală.
-• Se centrează la 5 cm anterior de apofiza spinoasă a T6/7. Aceasta se găsește de obicei chiar sub unghiul inferior al Omoplatului (Scapulei) (presupunând că brațele sunt ridicate), care este ușor palpabil.
+    - **Poziție Pacient:**
+        - pacientul este poziționat în Decubit dorsal pe masa radiologică, cu planul mediosagital perpendicular pe masa radiologică și coincident cu linia mediană a Bucky.
+        - marginea superioară a casetei, care trebuie să aibă o lungime de cel puțin 40 cm pentru adult, trebuie să fie la nivelul situat imediat sub proeminența cartilajului tiroid (mărul lui Adam), pentru a asigura includerea Coloanei Toracale superioare.
+        - Se efectuează expunerea în apnee după inspirație. Aceasta va determina coborârea cupolelor diafragmatice peste vertebrele lombare superioare, reducând astfel posibilitatea apariției unei diferențe mari de densitate optică pe imagine, din cauza suprapunerii Toracelui (Câmpurilor Pulmonare).
+        - De obicei se efectuează cu pacientul în poziție de Decubit lateral (profil) pe masa radiologică, deși această incidență poate fi realizată și în Ortostatism.
+        - planul mediosagital trebuie să fie paralel cu caseta, iar linia mediană axilară coincidentă cu linia mediană a mesei sau a Bucky.
+        - brațele trebuie să fie ridicate bine deasupra capului.
+        - capul poate fi sprijinit pe o pernă, iar între genunchi pot fi plasate suporturi pentru confortul pacientului.
+        - marginea superioară a casetei trebuie să aibă o lungime de cel puțin 40 cm și trebuie poziționată la 3–4 cm deasupra apofizei spinoase a C7.
+    - **Punct de Centrare Fascicul:**
+        - se orientează raza centrală la unghi drept față de casetă și spre un punct situat la 2.5 cm sub unghiul sternal.
+        - Se colimează strâns la nivelul coloanei vertebrale.
+        - raza centrală trebuie să fie perpendiculară pe axa longitudinală a Coloanei Toracale. Acest lucru poate necesita angulație caudală.
+        - Se centrează la 5 cm anterior de apofiza spinoasă a T6/7. Aceasta se găsește de obicei chiar sub unghiul inferior al Omoplatului (Scapulei) (presupunând că brațele sunt ridicate), care este ușor palpabil.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -222,9 +227,9 @@ title: Rx Coloană Toracală Antero-Posterior (AP) - de bază
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Această regiune prezintă un contrast de subiect extrem de mare. Acest lucru se datorează suprapunerii traheei pline cu aer peste porțiunea superioară a Coloanei Toracale. Aceasta produce o zonă relativ radiotransparentă și o densitate optică ridicată pe radiografie. Cordul și Silueta Cardiovasculară, precum și ficatul, suprapuse peste porțiunea inferioară a Coloanei Toracale, vor atenua mai multe raze X și vor produce o densitate optică mult mai scăzută pe imaginea radiologică.
-(continuare) TV 1–4 suprapuse prin traheea plină cu aer TV 5 și 12 suprapuse prin opacitățile dense ale Cordului și Siluetei Cardiovasculare și ale vaselor mari, precum și prin etajul abdominal superior Trahee Cord și Siluetă Cardiovasculară cupole diafragmatice LV 1 Contrast radiografic prea mare Contrast mai redus, care produce o densitate optică acceptabilă pentru vertebrele superioare și inferioare
+    - Această regiune prezintă un contrast de subiect extrem de mare. Acest lucru se datorează suprapunerii traheei pline cu aer peste porțiunea superioară a Coloanei Toracale. Aceasta produce o zonă relativ radiotransparentă și o densitate optică ridicată pe radiografie. Cordul și Silueta Cardiovasculară, precum și ficatul, suprapuse peste porțiunea inferioară a Coloanei Toracale, vor atenua mai multe raze X și vor produce o densitate optică mult mai scăzută pe imaginea radiologică. (continuare) TV 1–4 suprapuse prin traheea plină cu aer TV 5 și 12 suprapuse prin opacitățile dense ale Cordului și Siluetei Cardiovasculare și ale vaselor mari, precum și prin etajul abdominal superior Trahee Cord și Siluetă Cardiovasculară cupole diafragmatice LV 1 Contrast radiografic prea mare Contrast mai redus, care produce o densitate optică acceptabilă pentru vertebrele superioare și inferioare
 
 
 ### 🖼️ Imagini

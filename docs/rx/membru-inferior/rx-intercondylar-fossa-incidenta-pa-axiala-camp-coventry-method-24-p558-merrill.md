@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe axa longitudinală de Gambă, entering popliteal fossa și
-  exiting la patellar apex. înclinat 40 grade when Genunchi este flectat 40 grade
-  și 50 grade when Genunchi este flectat 50 grade.
+centering: perpendiculară pe axa longitudinală a gambei, intrând în fosa poplitee
+  și ieșind la apexul rotulei. Înclinată la 40 grade când genunchiul este flectat
+  la 40 grade și la 50 grade când genunchiul este flectat la 50 grade.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -20,36 +20,40 @@ images:
 - caption: Merrill — pagina 561, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-intercondylar-fossa-incidenta-pa-axiala-camp-coventry-method-24-p558-merrill/p561_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: în examinations de Genunchi articulație, intercondylar fossa incidență poate
-  fie included la detect loose corpuri (“articulație mice”). This incidență este also
-  used în evaluating split și displaced cartilage în osteochondritis dissecans și
-  flattening, sau underdevelopment, de lateral femoral condyle în congenital slipped
-  Rotulă (Patelă).
-position: se așază pacientul în Decubit ventral poziție, și se ajustează corp so that
-  it este nu rotit.; se flectează pacient’s Genunchi la a 40- sau 50-grade angle,
-  place femoral portion de Genunchi pe receptorul de imagine, și rest Picior pe suitable
-  support. se centrează upper half de receptorul de imagine la Genunchi articulație;
-  raza centrală angulation projects articulație la center de receptorul de imagine
-  (Figs. 7.140 și 7.141). protractor poate fie used beside membru inferior la determine
-  correct membru inferior angle. se ajustează membru inferior astfel încât Genunchi
-  has fără medial sau rotație externă (laterală). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+notes: În examinările articulației genunchiului, incidența fosei intercondiliene poate
+  fi inclusă pentru detectarea corpurilor libere („șoareci articulari”). Această incidență
+  este utilizată și pentru evaluarea fragmentării și deplasării cartilajului în osteocondrita
+  disecantă și a aplatizării sau hipodezvoltării condilului femural lateral în luxația
+  congenitală a rotulei (patela).
+position: Se așază pacientul în decubit ventral și se ajustează corpul astfel încât
+  să nu fie rotit.; se flectează genunchiul pacientului la un unghi de 40- sau 50-grade,
+  se plasează porțiunea femurală a genunchiului pe receptorul de imagine, iar restul
+  piciorului pe un suport adecvat. Se centrează jumătatea superioară a receptorului
+  de imagine la articulația genunchiului; angulația razei centrale proiectează articulația
+  în centrul receptorului de imagine (Fig. 7.140 și 7.141). Goniometrul poate fi utilizat
+  lângă membrul inferior pentru a determina unghiul corect al membrului inferior.
+  Se ajustează membrul inferior astfel încât genunchiul să nu prezinte rotație medială
+  sau externă (laterală). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Open intercondylar fossa
-- Posteroinferior surface de femoral condyles
-- Genunchi spații articulare open, cu one sau ambele tibial plateaus în profile (superimposed
-  anterior și posterior surfaces)
-- Apex de Rotulă (Patelă) nu superimposing fossa
-- Absența rotației anatomice (simetrie bilaterală perfectă), evidențiat prin slight
-  tibiofibular overlap și centrat intercondylar eminence
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Fosa intercondiliană deschisă
+- Suprafața postero-inferioară a condililor femurali
+- Spațiile articulare ale genunchiului deschise, cu una sau ambele platouri tibiale
+  în profil (suprafețele anterioară și posterioară suprapuse)
+- Apexul rotulei (patela) nu se suprapune peste fosă
+- Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată printr-o
+  ușoară suprapunere tibiofibulară și eminența intercondiliană centrată
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-intercondylar-fossa-incidenta-pa-axiala-camp-coventry-method-24-p558-merrill
 source_pages:
@@ -58,77 +62,71 @@ source_pages:
 - 560
 - 561
 source_sections:
-  anatomy: 'intercondylar fossa și posteroinferior articular surfaces de condyles
-    de femur, ca well ca medial și lateral intercondylar
+  anatomy: fosa intercondiliană și suprafețele articulare posteroinferioare ale condililor
+    femurali, precum și tuberculii intercondilieni medial și lateral ai eminenței
+    intercondiliene și platourile tibiale în profil (Fig. 7.142 și 7.143).
+  collimation: • Ajustați câmpul de iradiere la 8 × 10 inci (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de laturi. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• perpendiculară pe axa longitudinală a membrului inferior, intrând în fosa
+    poplitee și ieșind la apexul rotulei.
 
-    tubercles de intercondylar eminence și tibial plateaus în profile (Figs. 7.142
-    și 7.143).'
-  collimation: '• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S)
+    • Înclinată la 40 grade când genunchiul este flectat la 40 grade și la 50 grade
+    când genunchiul este flectat la 50 grade.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    în collimated expunere field.'
-  cr: '• perpendicular pe axa longitudinală de lower membru inferior, entering popliteal
-    fossa și exiting la patellar apex.
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • înclinat 40 grade when genunchi este flectat 40 grade și 50 grade when genunchi
-    este flectat 50 grade.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Fosa intercondiliană deschisă
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Suprafața posteroinferioară a condililor femurali
 
-    • Open intercondylar fossa
+    • Spațiile articulare ale genunchiului deschise, cu unul sau ambele platouri tibiale
+    în profil (suprafețele anterioară și posterioară suprapuse)
 
-    • Posteroinferior surface de femoral condyles
+    • Apexul rotulei (patela) nu se suprapune peste fosă
 
-    • genunchi spații articulare open, cu one sau ambele tibial plateaus în profile
-    (superimposed anterior și posterior surfaces)
+    • Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată printr-o
+    ușoară suprapunere tibiofibulară și eminența intercondiliană centrată
 
-    • Apex de rotulă (patelă) nu superimposing fossa
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  notes: În examinările articulației genunchiului, incidența fosei intercondiliene
+    poate fi inclusă pentru detectarea corpurilor libere („șoareci articulari”). Această
+    incidență este utilizată și pentru evaluarea fragmentării și deplasării cartilajului
+    în osteocondrita disecantă și a aplatizării sau hipodezvoltării condilului femural
+    lateral în luxația congenitală a rotulei (patela).
+  part_pos: '• se flectează genunchiul pacientului la un unghi de 40- sau 50-grade,
+    se plasează porțiunea femurală a genunchiului pe receptorul de imagine, iar restul
+    piciorului pe un suport adecvat.
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă), evidențiat prin slight
-    tibiofibular overlap și centrat intercondylar eminence
+    • Se centrează jumătatea superioară a receptorului de imagine la articulația genunchiului;
+    angulația razei centrale proiectează articulația în centrul receptorului de imagine
+    (Fig. 7.140 și 7.141).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'în examinations de genunchi articulație, intercondylar fossa incidență poate
-    fie included la detect loose corpuri (“articulație mice”). This
+    • Goniometrul poate fi utilizat lângă membrul inferior pentru a determina unghiul
+    corect al membrului inferior.
 
-    incidență este also used în evaluating split și displaced cartilage în osteochondritis
-    dissecans și flattening, sau underdevelopment, de lateral femoral condyle în congenital
-    slipped rotulă (patelă).'
-  part_pos: '• se flectează pacient’s genunchi la a 40- sau 50-grade angle, place
-    femoral portion de genunchi pe receptorul de imagine, și rest picior pe suitable
+    • Se ajustează membrul inferior astfel încât genunchiul să nu prezinte rotație
+    medială sau externă (laterală).
 
-    support.
-
-    • se centrează upper half de receptorul de imagine la genunchi articulație; raza
-    centrală angulation projects articulație la center de receptorul de imagine (Figs.
-    7.140 și
-
-    7.141).
-
-    • protractor poate fie used beside membru inferior la determine correct membru
-    inferior angle.
-
-    • se ajustează membru inferior astfel încât genunchi has fără medial sau rotație
-    externă (laterală).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit ventral, și se ajustează corp so that
-    it este nu rotit.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • se așază pacientul în decubit ventral și se ajustează corpul astfel
+    încât să nu fie rotit.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 558–561
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în
-    collimated expunere field.
-title: Rx Intercondylar Fossa — Incidență PA Axială — Camp-Coventry Method 24 (Merrill)
+  collimation: Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: Rx fosa intercondiliană — incidență AP axială — metoda Camp-Coventry 24 (Merrill)
 ---
-# Rx Intercondylar Fossa — Incidență PA Axială — Camp-Coventry Method 24 (Merrill)
+# Rx fosa intercondiliană — incidență AP axială — metoda Camp-Coventry 24 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -152,17 +150,18 @@ title: Rx Intercondylar Fossa — Incidență PA Axială — Camp-Coventry Metho
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție, și se ajustează corp so that it este nu rotit.; se flectează pacient’s Genunchi la a 40- sau 50-grade angle, place femoral portion de Genunchi pe receptorul de imagine, și rest Picior pe suitable support. se centrează upper half de receptorul de imagine la Genunchi articulație; raza centrală angulation projects articulație la center de receptorul de imagine (Figs. 7.140 și 7.141). protractor poate fie used beside membru inferior la determine correct membru inferior angle. se ajustează membru inferior astfel încât Genunchi has fără medial sau rotație externă (laterală). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală de Gambă, entering popliteal fossa și exiting la patellar apex. înclinat 40 grade when Genunchi este flectat 40 grade și 50 grade when Genunchi este flectat 50 grade.
+    - **Poziție Pacient:** Se așază pacientul în decubit ventral și se ajustează corpul astfel încât să nu fie rotit.; se flectează genunchiul pacientului la un unghi de 40- sau 50-grade, se plasează porțiunea femurală a genunchiului pe receptorul de imagine, iar restul piciorului pe un suport adecvat. Se centrează jumătatea superioară a receptorului de imagine la articulația genunchiului; angulația razei centrale proiectează articulația în centrul receptorului de imagine (Fig. 7.140 și 7.141). Goniometrul poate fi utilizat lângă membrul inferior pentru a determina unghiul corect al membrului inferior. Se ajustează membrul inferior astfel încât genunchiul să nu prezinte rotație medială sau externă (laterală). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendiculară pe axa longitudinală a gambei, intrând în fosa poplitee și ieșind la apexul rotulei. Înclinată la 40 grade când genunchiul este flectat la 40 grade și la 50 grade când genunchiul este flectat la 50 grade.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -178,21 +177,21 @@ title: Rx Intercondylar Fossa — Incidență PA Axială — Camp-Coventry Metho
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator. Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Open intercondylar fossa
-    - Posteroinferior surface de femoral condyles
-    - Genunchi spații articulare open, cu one sau ambele tibial plateaus în profile (superimposed anterior și posterior surfaces)
-    - Apex de Rotulă (Patelă) nu superimposing fossa
-    - Absența rotației anatomice (simetrie bilaterală perfectă), evidențiat prin slight tibiofibular overlap și centrat intercondylar eminence
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Fosa intercondiliană deschisă
+    - Suprafața postero-inferioară a condililor femurali
+    - Spațiile articulare ale genunchiului deschise, cu una sau ambele platouri tibiale în profil (suprafețele anterioară și posterioară suprapuse)
+    - Apexul rotulei (patela) nu se suprapune peste fosă
+    - Absența rotației anatomice (simetrie bilaterală perfectă), evidențiată printr-o ușoară suprapunere tibiofibulară și eminența intercondiliană centrată
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -202,8 +201,9 @@ title: Rx Intercondylar Fossa — Incidență PA Axială — Camp-Coventry Metho
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    în examinations de Genunchi articulație, intercondylar fossa incidență poate fie included la detect loose corpuri (“articulație mice”). This incidență este also used în evaluating split și displaced cartilage în osteochondritis dissecans și flattening, sau underdevelopment, de lateral femoral condyle în congenital slipped Rotulă (Patelă).
+    În examinările articulației genunchiului, incidența fosei intercondiliene poate fi inclusă pentru detectarea corpurilor libere („șoareci articulari”). Această incidență este utilizată și pentru evaluarea fragmentării și deplasării cartilajului în osteocondrita disecantă și a aplatizării sau hipodezvoltării condilului femural lateral în luxația congenitală a rotulei (patela).
 
 
 ### 🖼️ Imagini
@@ -256,55 +256,3 @@ title: Rx Intercondylar Fossa — Incidență PA Axială — Camp-Coventry Metho
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 558–561](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-intercondylar fossa și posteroinferior articular surfaces de condyles de femur, ca well ca medial și lateral intercondylar
-tubercles de intercondylar eminence și tibial plateaus în profile (Figs. 7.142 și 7.143).
-
-### collimation
-
-• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-• perpendicular pe axa longitudinală de lower membru inferior, entering popliteal fossa și exiting la patellar apex.
-• înclinat 40 grade when genunchi este flectat 40 grade și 50 grade when genunchi este flectat 50 grade.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Open intercondylar fossa
-• Posteroinferior surface de femoral condyles
-• genunchi spații articulare open, cu one sau ambele tibial plateaus în profile (superimposed anterior și posterior surfaces)
-• Apex de rotulă (patelă) nu superimposing fossa
-• Absența rotației anatomice (simetrie bilaterală perfectă), evidențiat prin slight tibiofibular overlap și centrat intercondylar eminence
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-în examinations de genunchi articulație, intercondylar fossa incidență poate fie included la detect loose corpuri (“articulație mice”). This
-incidență este also used în evaluating split și displaced cartilage în osteochondritis dissecans și flattening, sau underdevelopment, de lateral femoral condyle în congenital slipped rotulă (patelă).
-
-### part_pos
-
-• se flectează pacient’s genunchi la a 40- sau 50-grade angle, place femoral portion de genunchi pe receptorul de imagine, și rest picior pe suitable
-support.
-• se centrează upper half de receptorul de imagine la genunchi articulație; raza centrală angulation projects articulație la center de receptorul de imagine (Figs. 7.140 și
-7.141).
-• protractor poate fie used beside membru inferior la determine correct membru inferior angle.
-• se ajustează membru inferior astfel încât genunchi has fără medial sau rotație externă (laterală).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral, și se ajustează corp so that it este nu rotit.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

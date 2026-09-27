@@ -7,6 +7,10 @@ clinical_indications:
 - Evaluarea unei deformări suspectate clinic; urmărire ortopedică justificată.
 clinical_status: draft_not_for_clinical_use
 images: []
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Înregistrarea poziției, suporturilor și utilizării corsetului permite comparații.
@@ -108,11 +112,12 @@ workbench_transfer:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -152,6 +157,7 @@ workbench_transfer:
     - Ecranarea pacientului conform politicii locale actualizate; protecția însoțitorilor se stabilește separat.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Înregistrarea poziției, suporturilor și utilizării corsetului permite comparații. Se validează tehnica de îmbinare a imaginilor/stitching/EOS înainte de utilizare.

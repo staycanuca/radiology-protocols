@@ -2,9 +2,9 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee în inspir profund complet (după a doua inspirație).
 category: torace
-centering: Perpendicular, orientat la nivelul T7 (3 la 4 inches [8 la 10 cm] sub nivelul
+centering: Perpendicular, orientat la nivelul T7 (3 la 4 țoli [8 la 10 cm] sub nivelul
   incizurii jugulare a manubriului sternal). Marginea superioară a receptorului de
-  imagine la aproximativ 1 inch (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă
+  imagine la aproximativ 1 țol (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă
   C7)
 clinical_indications:
 - O perspectivă la 90 de grade față de PA poate evidenția patologia situată posterior
@@ -24,6 +24,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.61
     Poziție de profil stâng a toracelui pe targă.)
   url: assets/images/protocols/bontrager/rx-torace-alternative-lateral-positions-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'Încercați întotdeauna să așezați pacientul cu trunchiul complet vertical în
@@ -96,17 +100,18 @@ title: Rx torace — Variante de poziționare pentru incidența de profil (later
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: în scaun rulant. Scoateți cotierele, dacă este posibil, sau așezați o pernă ori alt suport sub pacienții de talie mică, astfel încât cotierele scaunului rulant să nu se suprapună peste porțiunea inferioară a plămânilor (Fig. 2.62). Rotiți pacientul în scaunul rulant în poziție de profil (lateral), cât mai aproape de receptorul de imagine. Cereți pacientului să se aplece înainte și așezați blocuri de sprijin în spatele său; ridicați-i brațele deasupra capului și cereți-i să se țină de bara de sprijin, menținând brațele sus. Regiune anatomică: centrați pacientul la raza centrală și la receptorul de imagine, verificând fețele anterioară și posterioară ale toracelui; ajustați raza centrală și receptorul de imagine la nivelul T7. Asigurați absența rotației anatomice, cu claviculele echidistante față de linia apofizelor spinoase, privind pacientul din poziția tubului.
-    - **Punct de Centrare Fascicul:** Perpendicular, orientat la nivelul T7 (3 la 4 inches [8 la 10 cm] sub nivelul incizurii jugulare a manubriului sternal). Marginea superioară a receptorului de imagine la aproximativ 1 inch (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă C7)
+    - **Punct de Centrare Fascicul:** Perpendicular, orientat la nivelul T7 (3 la 4 țoli [8 la 10 cm] sub nivelul incizurii jugulare a manubriului sternal). Marginea superioară a receptorului de imagine la aproximativ 1 țol (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă C7)
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație).
 
@@ -140,6 +145,7 @@ title: Rx torace — Variante de poziționare pentru incidența de profil (later
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Încercați întotdeauna să așezați pacientul cu trunchiul complet vertical în scaunul rulant sau pe targă, dacă este posibil. Totuși, dacă starea pacientului nu permite acest lucru, capătul tărgii dinspre cap poate fi ridicat cât mai aproape de verticală, cu un suport radiotransparent în spatele pacientului (Fig. 2.63). Trebuie depuse toate eforturile pentru a poziționa pacientul cât mai aproape de verticală. Torace, incidențe de RUTINĂ: PA; profil. Fig. 2.63 Profil stâng (lateral), în poziție verticală, cu sprijin. Fig. 2.62 Profil stâng (lateral) în scaun rulant (brațele ridicate, suport în spatele pacientului). Fig. 2.61 Poziție de profil stâng a toracelui pe targă.

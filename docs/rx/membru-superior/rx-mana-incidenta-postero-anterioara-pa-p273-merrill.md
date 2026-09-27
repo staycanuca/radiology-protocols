@@ -2,7 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe third articulații metacarpofalangiene (MCF)
+centering: perpendicular pe articulațiile metacarpofalangiene (MCF) ale celui de-al
+  treilea metacarpian
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,43 +13,48 @@ images:
 - caption: Merrill — pagina 276, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mana-incidenta-postero-anterioara-pa-p273-merrill/p276_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'When articulații metacarpofalangiene (MCF) sunt under examination și pacientul
-  cannot se extinde Mână enough la place its palmar surface în contact cu receptorul
-  de imagine, poziție de Mână poate fie reversed pentru Incidență Antero-Posterioară
-  (AP). This poziție este also used pentru oase metacarpiene when Mână cannot fie
-  extins because de injury, pathologic condition, sau use de dressings. SPECIAL TECHNIļUES:
-  Clements și Nakayama 9 described special expunere technique pentru imaging early
-  Poliartrită reumatoidă / artropatie inflamatorie. Lewis 10 described positioning
-  variation la place second through fifth oase metacarpiene paralel cu receptorul
-  de imagine (RI), resulting în true Incidență Postero-Anterioară (PA).'
-position: se așază pacientul pe scaun la end de masa radiologică. se ajustează pacient’s
-  height astfel încât Antebraț este resting pe masa de examinare (Fig. 5.53A).; se
-  sprijină pacientul’s Antebraț pe masa de examinare, și place Mână cu palmar surface
-  down pe receptorul de imagine. se centrează receptorul de imagine la articulații
-  metacarpofalangiene (MCF), then se ajustează axa longitudinală de receptorul de
-  imagine paralel cu axa longitudinală de Mână și Antebraț. Spread Degete Mână slightly
-  (see Fig. 5.53B). Se instruiește pacientul să relax Mână la avoid mișcare. Prevent
-  involuntary movement cu use de adhesive tape sau positioning sponges. săculeți cu
-  nisip poate fie plasat over distal Antebraț. se efectuează ecranarea gonadelor cu
-  șorț plumbat.
+notes: 'Când articulațiile metacarpofalangiene (MCF) sunt examinate și pacientul nu
+  poate extinde suficient mâna pentru a așeza suprafața palmară în contact cu receptorul
+  de imagine, poziția mâinii poate fi inversată pentru incidența Antero-Posterioară
+  (AP). Această poziție este utilizată și pentru oasele metacarpiene când mâna nu
+  poate fi extinsă din cauza unei leziuni, a unei afecțiuni patologice sau a utilizării
+  pansamentelor. TEHNICI SPECIALE: Clements și Nakayama 9 au descris o tehnică specială
+  de expunere pentru imagistica precoce a poliartritei reumatoide / artropatiei inflamatorii.
+  Lewis 10 a descris o variantă de poziționare pentru a așeza oasele metacarpiene
+  de la al doilea până la al cincilea paralel cu receptorul de imagine (RI), rezultând
+  o incidență Postero-Anterioară (PA) adevărată.'
+position: Se așază pacientul pe scaun la capătul mesei radiologice. Se ajustează înălțimea
+  pacientului astfel încât antebrațul să se sprijine pe masa de examinare (Fig. 5.53A).;
+  Se sprijină antebrațul pacientului pe masa de examinare și se așază mâna cu suprafața
+  palmară în jos pe receptorul de imagine. Se centrează receptorul de imagine la articulațiile
+  metacarpofalangiene (MCF), apoi se ajustează axa longitudinală a receptorului de
+  imagine paralel cu axa longitudinală a mâinii și antebrațului. Se depărtează ușor
+  degetele mâinii (vezi Fig. 5.53B). Se instruiește pacientul să relaxeze mâna pentru
+  a evita mișcarea. Se previne mișcarea involuntară prin utilizarea benzii adezive
+  sau a bureților de poziționare. Săculeți cu nisip pot fi plasați peste antebrațul
+  distal. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Anatomy de la fingertips la distal radius și ulna
-- Slightly separate falange cu fără părți moi overlap
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Mână
-- Equal concavity de metacarpal și phalangeal corpuri pe ambele părți (bilateral)
-- Equal amount de părți moi pe ambele părți (bilateral) de falange
-- Fingernails, if visualized, în center de fiecare distal phalanx
-- Equal distance între metacarpal heads
-- Open MCP și articulații interfalangiene (IF), indicating that Mână este plasat flat
-  pe receptorul de imagine
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Anatomie de la vârfurile degetelor până la radiusul și ulna distale
+- Falange ușor separate, fără suprapunerea părților moi
+- Absența rotației anatomice a mâinii (simetrie bilaterală perfectă)
+- Concavitate egală a corpurilor metacarpiene și falangiene pe ambele părți (bilateral)
+- Cantitate egală de părți moi de ambele părți ale falangei
+- Unghiile, dacă sunt vizualizate, în centrul fiecărei falange distale
+- Distanță egală între capetele metacarpienelor
+- Articulații MCP și interfalangiene (IF) deschise, indicând faptul că mâna este așezată
+  plat pe receptorul de imagine
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mana-incidenta-postero-anterioara-pa-p273-merrill
 source_pages:
@@ -57,79 +63,79 @@ source_pages:
 - 275
 - 276
 source_sections:
-  anatomy: PA incidențe de oase carpiene, oase metacarpiene, falange (except policele),
-    interarticulations de mână, și distal radius și ulna sunt vizualizat în
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de mână,
-    including 1 inch (2.5 cm) proximal la ulnar styloid. Place side
+  anatomy: Incidențele PA ale oaselor carpiene, oaselor metacarpiene, falangelor (cu
+    excepția policelui), articulațiilor interfalangiene ale mâinii și radiusului și
+    ulnei distale sunt vizualizate în
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile
+    mâinii, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Se plasează
+    markerul de lateralitate în câmpul de expunere colimat.
+  cr: • perpendicular pe articulațiile metacarpofalangiene (MCF) ale celui de-al treilea
+    metacarpian
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker în collimated expunere field.'
-  cr: • perpendicular pe third articulații metacarpofalangiene (MCF)
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Anatomia de la vârfurile degetelor până la radiusul și ulna distale
 
-    • Anatomy de la fingertips la distal radius și ulna
+    • Falange ușor separate, fără suprapunerea părților moi
 
-    • Slightly separate falange cu fără părți moi overlap
+    • Absența rotației anatomice a mâinii (simetrie bilaterală perfectă)
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de mână
+    • Concavitate egală a corpurilor metacarpiene și falangiene pe ambele părți (bilateral)
 
-    • Equal concavity de metacarpal și phalangeal corpuri pe ambele părți (bilateral)
+    • Cantitate egală de părți moi pe ambele părți (bilateral) ale falangelor
 
-    • Equal amount de părți moi pe ambele părți (bilateral) de falange
+    • Unghiile, dacă sunt vizualizate, în centrul fiecărei falange distale
 
-    • Fingernails, if visualized, în center de fiecare distal phalanx
+    • Distanță egală între capetele metacarpienelor
 
-    • Equal distance între metacarpal heads
+    • Articulații MCP și interfalangiene (IF) deschise, indicând faptul că mâna este
+    așezată plat pe receptorul de imagine
 
-    • Open MCP și articulații interfalangiene (IF), indicating that mână este plasat
-    flat pe receptorul de imagine
+    • Detalii trabeculare osoase și țesuturile moi adiacente'
+  notes: 'Când articulațiile metacarpofalangiene (MCF) sunt examinate și pacientul
+    nu poate extinde suficient mâna pentru a așeza suprafața palmară în contact cu
+    receptorul de imagine, poziția mâinii poate fi inversată pentru incidența AP.
+    Această poziție este utilizată și pentru oasele metacarpiene când mâna nu poate
+    fi extinsă din cauza unei leziuni, a unei afecțiuni patologice sau a utilizării
+    pansamentelor.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'When articulații metacarpofalangiene (MCF) sunt under examination și pacientul
-    cannot se extinde mână enough la place its palmar surface în contact cu receptorul
-    de imagine, poziție de mână poate fie reversed pentru AP incidență. This poziție
-    este also used pentru oase metacarpiene when mână cannot fie extins because de
-    injury, pathologic condition, sau
+    TEHNICI SPECIALE: Clements și Nakayama 9 au descris o tehnică specială de expunere
+    pentru imagistica precoce a poliartritei reumatoide / artropatiei inflamatorii.
+    Lewis 10 a descris o variantă de poziționare pentru a așeza oasele metacarpiene
+    de la al doilea până la al cincilea paralel cu receptorul de imagine (RI), rezultând
+    o incidență PA adevărată.'
+  part_pos: '• Se sprijină antebrațul pacientului pe masa de examinare și se așază
+    mâna cu suprafața palmară în jos pe receptorul de imagine.
 
-    use de dressings.
+    • Se centrează receptorul de imagine la articulațiile metacarpofalangiene (MCF),
+    apoi se ajustează axa longitudinală a receptorului de imagine paralel cu axa longitudinală
+    a mâinii și antebrațului.
 
-    SPECIAL TECHNIļUES: Clements și Nakayama 9 described special expunere technique
-    pentru imaging early Poliartrită reumatoidă / artropatie inflamatorie. Lewis 10
-    described positioning
+    • Se depărtează ușor degetele (vezi Fig. 5.53B).
 
-    variation la place second through fifth oase metacarpiene paralel cu receptorul
-    de imagine (RI), resulting în true PA incidență.'
-  part_pos: '• se sprijină pacientul’s forearm pe masa de examinare, și place mână
-    cu palmar surface down pe receptorul de imagine.
+    • Se instruiește pacientul să relaxeze mâna pentru a evita mișcarea. Se previne
+    mișcarea involuntară prin utilizarea benzii adezive sau a bureților de poziționare.
 
-    • se centrează receptorul de imagine la articulații metacarpofalangiene (MCF),
-    then se ajustează axa longitudinală de receptorul de imagine paralel cu axa longitudinală
-    de mână și forearm.
+    Săculeți cu nisip pot fi plasați peste antebrațul distal.
 
-    • Spread degetele slightly (see Fig. 5.53B).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul pe scaun la capătul mesei radiologice.
 
-    • Se instruiește pacientul să relax mână la avoid mișcare. Prevent involuntary
-    movement cu use de adhesive tape sau positioning sponges.
-
-    săculeți cu nisip poate fie plasat over distal forearm.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică.
-
-    • se ajustează pacient’s height astfel încât forearm este resting pe masa de examinare
-    (Fig. 5.53A).'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se ajustează înălțimea pacientului astfel încât antebrațul să se sprijine pe
+    masa de examinare (Fig. 5.53A).'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 273–276
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Mână,
-    including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate
-    în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile
+    mâinii, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Se plasează
+    markerul de lateralitate în câmpul colimat.
 title: Rx Mână — Incidență Postero-Anterioară (PA) (Merrill)
 ---
 # Rx Mână — Incidență Postero-Anterioară (PA) (Merrill)
@@ -156,17 +162,18 @@ title: Rx Mână — Incidență Postero-Anterioară (PA) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică. se ajustează pacient’s height astfel încât Antebraț este resting pe masa de examinare (Fig. 5.53A).; se sprijină pacientul’s Antebraț pe masa de examinare, și place Mână cu palmar surface down pe receptorul de imagine. se centrează receptorul de imagine la articulații metacarpofalangiene (MCF), then se ajustează axa longitudinală de receptorul de imagine paralel cu axa longitudinală de Mână și Antebraț. Spread Degete Mână slightly (see Fig. 5.53B). Se instruiește pacientul să relax Mână la avoid mișcare. Prevent involuntary movement cu use de adhesive tape sau positioning sponges. săculeți cu nisip poate fie plasat over distal Antebraț. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe third articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** Se așază pacientul pe scaun la capătul mesei radiologice. Se ajustează înălțimea pacientului astfel încât antebrațul să se sprijine pe masa de examinare (Fig. 5.53A).; Se sprijină antebrațul pacientului pe masa de examinare și se așază mâna cu suprafața palmară în jos pe receptorul de imagine. Se centrează receptorul de imagine la articulațiile metacarpofalangiene (MCF), apoi se ajustează axa longitudinală a receptorului de imagine paralel cu axa longitudinală a mâinii și antebrațului. Se depărtează ușor degetele mâinii (vezi Fig. 5.53B). Se instruiește pacientul să relaxeze mâna pentru a evita mișcarea. Se previne mișcarea involuntară prin utilizarea benzii adezive sau a bureților de poziționare. Săculeți cu nisip pot fi plasați peste antebrațul distal. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulațiile metacarpofalangiene (MCF) ale celui de-al treilea metacarpian
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -182,24 +189,24 @@ title: Rx Mână — Incidență Postero-Anterioară (PA) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Mână, including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile mâinii, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Anatomy de la fingertips la distal radius și ulna
-    - Slightly separate falange cu fără părți moi overlap
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Mână
-    - Equal concavity de metacarpal și phalangeal corpuri pe ambele părți (bilateral)
-    - Equal amount de părți moi pe ambele părți (bilateral) de falange
-    - Fingernails, if visualized, în center de fiecare distal phalanx
-    - Equal distance între metacarpal heads
-    - Open MCP și articulații interfalangiene (IF), indicating that Mână este plasat flat pe receptorul de imagine
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Anatomie de la vârfurile degetelor până la radiusul și ulna distale
+    - Falange ușor separate, fără suprapunerea părților moi
+    - Absența rotației anatomice a mâinii (simetrie bilaterală perfectă)
+    - Concavitate egală a corpurilor metacarpiene și falangiene pe ambele părți (bilateral)
+    - Cantitate egală de părți moi de ambele părți ale falangei
+    - Unghiile, dacă sunt vizualizate, în centrul fiecărei falange distale
+    - Distanță egală între capetele metacarpienelor
+    - Articulații MCP și interfalangiene (IF) deschise, indicând faptul că mâna este așezată plat pe receptorul de imagine
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -209,8 +216,9 @@ title: Rx Mână — Incidență Postero-Anterioară (PA) (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    When articulații metacarpofalangiene (MCF) sunt under examination și pacientul cannot se extinde Mână enough la place its palmar surface în contact cu receptorul de imagine, poziție de Mână poate fie reversed pentru Incidență Antero-Posterioară (AP). This poziție este also used pentru oase metacarpiene when Mână cannot fie extins because de injury, pathologic condition, sau use de dressings. SPECIAL TECHNIļUES: Clements și Nakayama 9 described special expunere technique pentru imaging early Poliartrită reumatoidă / artropatie inflamatorie. Lewis 10 described positioning variation la place second through fifth oase metacarpiene paralel cu receptorul de imagine (RI), resulting în true Incidență Postero-Anterioară (PA).
+    Când articulațiile metacarpofalangiene (MCF) sunt examinate și pacientul nu poate extinde suficient mâna pentru a așeza suprafața palmară în contact cu receptorul de imagine, poziția mâinii poate fi inversată pentru incidența Antero-Posterioară (AP). Această poziție este utilizată și pentru oasele metacarpiene când mâna nu poate fi extinsă din cauza unei leziuni, a unei afecțiuni patologice sau a utilizării pansamentelor. TEHNICI SPECIALE: Clements și Nakayama 9 au descris o tehnică specială de expunere pentru imagistica precoce a poliartritei reumatoide / artropatiei inflamatorii. Lewis 10 a descris o variantă de poziționare pentru a așeza oasele metacarpiene de la al doilea până la al cincilea paralel cu receptorul de imagine (RI), rezultând o incidență Postero-Anterioară (PA) adevărată.
 
 
 ### 🖼️ Imagini
@@ -247,58 +255,3 @@ title: Rx Mână — Incidență Postero-Anterioară (PA) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 273–276](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-PA incidențe de oase carpiene, oase metacarpiene, falange (except policele), interarticulations de mână, și distal radius și ulna sunt vizualizat în
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de mână, including 1 inch (2.5 cm) proximal la ulnar styloid. Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular pe third articulații metacarpofalangiene (MCF)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Anatomy de la fingertips la distal radius și ulna
-• Slightly separate falange cu fără părți moi overlap
-• Absența rotației anatomice (simetrie bilaterală perfectă) de mână
-• Equal concavity de metacarpal și phalangeal corpuri pe ambele părți (bilateral)
-• Equal amount de părți moi pe ambele părți (bilateral) de falange
-• Fingernails, if visualized, în center de fiecare distal phalanx
-• Equal distance între metacarpal heads
-• Open MCP și articulații interfalangiene (IF), indicating that mână este plasat flat pe receptorul de imagine
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-When articulații metacarpofalangiene (MCF) sunt under examination și pacientul cannot se extinde mână enough la place its palmar surface în contact cu receptorul de imagine, poziție de mână poate fie reversed pentru AP incidență. This poziție este also used pentru oase metacarpiene when mână cannot fie extins because de injury, pathologic condition, sau
-use de dressings.
-SPECIAL TECHNIļUES: Clements și Nakayama 9 described special expunere technique pentru imaging early Poliartrită reumatoidă / artropatie inflamatorie. Lewis 10 described positioning
-variation la place second through fifth oase metacarpiene paralel cu receptorul de imagine (RI), resulting în true PA incidență.
-
-### part_pos
-
-• se sprijină pacientul’s forearm pe masa de examinare, și place mână cu palmar surface down pe receptorul de imagine.
-• se centrează receptorul de imagine la articulații metacarpofalangiene (MCF), then se ajustează axa longitudinală de receptorul de imagine paralel cu axa longitudinală de mână și forearm.
-• Spread degetele slightly (see Fig. 5.53B).
-• Se instruiește pacientul să relax mână la avoid mișcare. Prevent involuntary movement cu use de adhesive tape sau positioning sponges.
-săculeți cu nisip poate fie plasat over distal forearm.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-• se ajustează pacient’s height astfel încât forearm este resting pe masa de examinare (Fig. 5.53A).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

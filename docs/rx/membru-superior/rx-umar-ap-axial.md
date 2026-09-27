@@ -4,10 +4,10 @@ breathing: Apnee în expir liniștit
 category: membru-superior
 centering: La 2-3 cm sub procesul coracoid pe AP; pe spina scapulei pe incidența Y
 clinical_indications:
-- Traumatisme ale umărului, suspiciune de luxație gleno-humerală anterioară/posterioară
+- Traumatisme ale umărului, suspiciune de luxație glenohumerală anterioară/posterioară
 - Fracturi de col humeral anatomic/chirurgical sau trohiter
-- Omalgie cronică, periartrită scapulo-humerală (calcificări tendinoase)
-- Evaluare artroză gleno-humerală sau acromio-claviculară
+- Omalgie cronică, periartrită scapulohumerală (calcificări tendinoase)
+- Evaluare artroză glenohumerală sau acromioclaviculară
 iris_reference:
   chapter: Aparat locomotor & Membru superior
   radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
@@ -15,17 +15,17 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: În caz de suspiciune de luxație, NU se forțează mișcări de rotație externă
-  sau abducție brațului!
+  sau abducție a brațului!
 position: '1) AP: ortostatism cu spatele la stativ, umărul ușor rotit posterior 30-45°
-  (incidență Grashey pentru deschiderea fantei articulare); 2) Incidență Y Scapular
-  (Profil de scapulă): pacientul rotit anterior 45-60° cu umărul afectat lipit de
+  (incidență Grashey pentru deschiderea fantei articulare); 2) Incidență Y scapulară
+  (profil de scapulă): pacientul rotit anterior 45-60° cu umărul afectat lipit de
   detector'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare strictă la articulația umărului
 quality_criteria:
-- 'Pe AP Grashey: fanta articulară gleno-humerală este liberă fără suprapunere marginii
+- 'Pe AP Grashey: fanta articulară glenohumerală este liberă, fără suprapunerea marginii
   glenei peste capul humeral'
 - 'Pe incidența Y: corpul scapulei, acromionul și coracoidul formează litera Y, cu
   capul humeral centrat perfect în intersecția Y (excluderea luxației)'
@@ -56,16 +56,16 @@ sources:
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Camera centrală
-  collimation: Inclusiv treimea externă claviculei, acromionul și treimea proximală
-    humerusului
+  collimation: Inclusiv treimea externă a claviculei, acromionul și treimea proximală
+    a humerusului
   filtration: Totală ≥ 2.5 mm Al
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare
   kv: 65 - 75
   mas: 8 - 15 (cu grilă Bucky)
-title: Rx Umăr (AP Neutru & Incidență Y Scapular)
+title: Rx umăr (AP neutru și incidență Y scapulară)
 ---
-# Rx Umăr (AP Neutru & Incidență Y Scapular)
+# Rx umăr (AP neutru și incidență Y scapulară)
 
 
 <div class="rx-meta-bar">
@@ -84,10 +84,10 @@ title: Rx Umăr (AP Neutru & Incidență Y Scapular)
 
     === "Indicații Clinice"
 
-        - Traumatisme ale umărului, suspiciune de luxație gleno-humerală anterioară/posterioară
+        - Traumatisme ale umărului, suspiciune de luxație glenohumerală anterioară/posterioară
         - Fracturi de col humeral anatomic/chirurgical sau trohiter
-        - Omalgie cronică, periartrită scapulo-humerală (calcificări tendinoase)
-        - Evaluare artroză gleno-humerală sau acromio-claviculară
+        - Omalgie cronică, periartrită scapulohumerală (calcificări tendinoase)
+        - Evaluare artroză glenohumerală sau acromioclaviculară
 
     === "Ghid Național IRIS"
 
@@ -97,11 +97,12 @@ title: Rx Umăr (AP Neutru & Incidență Y Scapular)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** 1) AP: ortostatism cu spatele la stativ, umărul ușor rotit posterior 30-45° (incidență Grashey pentru deschiderea fantei articulare); 2) Incidență Y Scapular (Profil de scapulă): pacientul rotit anterior 45-60° cu umărul afectat lipit de detector
+    - **Poziție Pacient:** 1) AP: ortostatism cu spatele la stativ, umărul ușor rotit posterior 30-45° (incidență Grashey pentru deschiderea fantei articulare); 2) Incidență Y scapulară (profil de scapulă): pacientul rotit anterior 45-60° cu umărul afectat lipit de detector
     - **Punct de Centrare Fascicul:** La 2-3 cm sub procesul coracoid pe AP; pe spina scapulei pe incidența Y
     - **Distanță Focar-Film (DFF / SID):** 100 - 115 cm
     - **Comandă Respiratorie:** Apnee în expir liniștit
@@ -118,14 +119,14 @@ title: Rx Umăr (AP Neutru & Incidență Y Scapular)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camera centrală |
-    | **Colimare Fascicul** | Inclusiv treimea externă claviculei, acromionul și treimea proximală humerusului |
+    | **Colimare Fascicul** | Inclusiv treimea externă a claviculei, acromionul și treimea proximală a humerusului |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Pe AP Grashey: fanta articulară gleno-humerală este liberă fără suprapunere marginii glenei peste capul humeral
+    - Pe AP Grashey: fanta articulară glenohumerală este liberă, fără suprapunerea marginii glenei peste capul humeral
     - Pe incidența Y: corpul scapulei, acromionul și coracoidul formează litera Y, cu capul humeral centrat perfect în intersecția Y (excluderea luxației)
     - Detalii trabeculare clare ale trohiterului și trohinului
 
@@ -133,13 +134,14 @@ title: Rx Umăr (AP Neutru & Incidență Y Scapular)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare strictă la articulația umărului
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    În caz de suspiciune de luxație, NU se forțează mișcări de rotație externă sau abducție brațului!
+    În caz de suspiciune de luxație, NU se forțează mișcări de rotație externă sau abducție a brațului!
 
 === "Ghid Rapid de Execuție"
 

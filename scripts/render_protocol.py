@@ -83,18 +83,35 @@ _IRIS_CATEGORY_MAP = {
 }
 
 
-def _iris_guide_tab(category: str) -> str:
+def _iris_guide_tab(category: str, iris_ref: dict | None = None) -> str:
     cat_info = _IRIS_CATEGORY_MAP.get(str(category).strip().lower(), ('Ghidul Național IRIS', 'https://radiologie-pediatrica.ro/iris/'))
-    chapter_name = cat_info[0]
-    lines = [
-        '    === "Ghid Național IRIS"\n',
-        '\n',
-        '        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"\n',
-        f'            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *{chapter_name}*).\n',
-        '\n',
-        '            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }\n',
-    ]
+    ir = iris_ref or {}
+    chapter_name = ir.get('chapter') or cat_info[0]
+    grade = ir.get('recommendation_grade')
+    dose = ir.get('radiation_dose')
+
+    if grade and dose:
+        lines = [
+            '    === "Ghid Național IRIS"\n',
+            '\n',
+            '        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"\n',
+            f'            - **Capitol Ghid IRIS:** *{chapter_name}*\n',
+            f'            - **Grad de Recomandare:** **{grade}**\n',
+            f'            - **Nivel de Iradiere Estimată:** `{dose}`\n',
+            '\n',
+            '            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }\n',
+        ]
+    else:
+        lines = [
+            '    === "Ghid Național IRIS"\n',
+            '\n',
+            '        !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"\n',
+            f'            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *{chapter_name}*).\n',
+            '\n',
+            '            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }\n',
+        ]
     return ''.join(lines)
+
 
 
 def _series_acquisition_summary(series: list) -> str:
@@ -346,7 +363,9 @@ def render_document(fm: dict) -> str:
     === "Indicații Clinice"
 
 {_indications_bullets(clinical_indications)}
-{_iris_guide_tab(category)}-   __2. Pregătire Pacient__
+{_iris_guide_tab(category, fm.get('iris_reference'))}
+-   __2. Pregătire Pacient__
+
 
     ---
 
@@ -401,4 +420,21 @@ def render_document(fm: dict) -> str:
     |:------|:------------|:----|:--------------------|:-------|:------------|:------|
 {_recons_table(recons)}"""
 
+    if fm.get('sources'):
+        source_lines = []
+        for source in fm['sources']:
+            if isinstance(source, dict) and source.get('url'):
+                extra = []
+                if source.get('institution'):
+                    extra.append(f"*{source['institution']}*")
+                if source.get('source_region'):
+                    extra.append(f"({source['source_region']})")
+                extra_str = f" — {' '.join(extra)}" if extra else ""
+                source_lines.append(f"- [{source.get('title', 'Sursă')}]({source['url']}){extra_str}")
+            elif isinstance(source, str):
+                source_lines.append(f"- {source}")
+        if source_lines:
+            body += '\n\n## Surse și revizuire\n\n' + '\n'.join(source_lines) + '\n'
+
     return _yaml_block(fm) + body
+

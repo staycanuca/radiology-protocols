@@ -1,0 +1,454 @@
+---
+title: CT — Torace cu doză redusă (MCB)
+modality: ct
+category: chest
+slug: ct-torace-cu-doza-redusa-mcb
+author: MCB Radiology (portalul sursă)
+last_updated: '2026-09-27'
+document_kind: protocol
+mcb_import: modalities-2026-09-27
+tags:
+- MCB Radiology
+- CT
+- Protocol
+synonyms:
+- 2 Low-Dose
+- Low-Dose
+sources:
+- title: MCB Radiology — 2 Low-Dose
+  url: https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/2%20Low-Dose.pdf
+  pages: 1–2
+  consulted_on: '2026-09-27'
+  relationship: Document original importat integral; atribuirea autorilor rămâne cea
+    din PDF.
+provenance:
+  version: mcb-4f3983efbba7
+  processing:
+  - Titlu și navigare în română; documentul sursă în engleză.
+  - PDF original integral, previzualizare și text extras automat; fără completarea
+    parametrilor clinici lipsă.
+---
+
+# CT — Torace cu doză redusă (MCB)
+
+## Documentul original MCB — Torace cu doză redusă
+
+**Protocol · 2 pagini · consultat la 2026-09-27.**
+
+[Descarcă PDF-ul integral](../../assets/mcb-modalities/ct-torace-cu-doza-redusa-mcb/document.pdf) · [Sursa MCB](https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/2%20Low-Dose.pdf) · [Catalogul MCB pentru această modalitate](../mcb/index.md)
+
+Instrucțiunile, valorile și ilustrațiile din documentul original sunt păstrate în **engleză**. Titlul și navigarea sunt în română.
+
+### Pagina 1
+
+![Torace cu doză redusă — pagina 1](../../assets/mcb-modalities/ct-torace-cu-doza-redusa-mcb/pagina-1.png){ loading=lazy }
+
+### Pagina 2
+
+![Torace cu doză redusă — pagina 2](../../assets/mcb-modalities/ct-torace-cu-doza-redusa-mcb/pagina-2.png){ loading=lazy }
+
+## Textul documentului original
+
+??? abstract "Pagina 1 — text în engleză"
+
+    <div lang="en" style="white-space: pre-wrap">Updated
+    05/01/24
+    CT Chest Low-Dose
+    Reviewed
+    05/14/25
+    Use this protocol when ordered/protocoled as low-dose, when recommended on a prior CT report or when a
+    screening CT patient doesn&#x27;t meet screening criteria.
+    This protocol&#x27;s dose is intermediate between a screening chest dose and a routine chest dose.
+    Use regular CT chest charges. Do not use CT Lung RADS Screening / Follow-up charge.
+    GENERAL SCAN NOTES
+    Move the patient&#x27;s arms over his/her head if possible. Remove any metal from the imaging field of view.
+    Have the patient cough a few times to clear secretions. This reduces incidence of small lung nodules.
+    Topogram - lung apices through diaphragm (obtained during end inspiration). 
+    Craniocaudal scan coverage - lung apices through adrenal glands (obtained during end inspiration).
+    Adjust FOV (field of view) on topogram to smallest without cropping anatomy.
+    Recons are the same as routine chest protocol.
+    IV Contrast: 100 mL Omnipaque-300, inject at 2 mL/sec, 30 secs scan delay.
+    For GE scanners, it is essential for the 1st recon thickness on the scanner to match the 1st recon thickness in this
+    protocol book for the prescribed Noise Index to be valid. The 1st recon should generally be the thickest recon in 
+    the protocol.
+    SIEMENS PARAMETERS &amp; RECONS
+    Scan                           
+    Care                                          
+    Rot 
+    Scan                 
+    Coll
+    Mode
+    kV
+    mAs
+    Care                            
+    Dose
+    kV &amp; Lvl
+    Pitch
+    Acq
+    Time
+    Time
+    NA
+    1.15
+    16
+    0.75
+    0.5
+    10.9
+    Sensation 16
+    spiral
+    120
+    60
+    on
+    on 80
+    1.50
+    32
+    0.7
+    0.8
+    7.1
+    Go Up 32
+    spiral
+    130
+    31
+    on
+    NA
+    1.40
+    64
+    0.6
+    0.5
+    5.6
+    60
+    on
+    Sensation 64
+    spiral
+    120
+    Definition 64
+    spiral
+    on
+    on
+    1.20
+    64
+    0.6
+    0.5
+    6.5
+    120
+    66
+    0.6
+    0.33
+    2.1
+    on 80
+    1.20
+    64
+    Go Top 64
+    spiral
+    120
+    37
+    on
+    Drive 128
+    120
+    on
+    1.20
+    128
+    0.6
+    0.5
+    3.3
+    40
+    on
+    spiral
+    on
+    1.20
+    192
+    0.5
+    0.5
+    2.6
+    Force 192
+    spiral
+    110
+    31
+    on
+    Recon                     
+    Name of Series
+    Thick
+    Interval
+    Kernel
+    Window
+    IR                       
+    Lvl
+    Direction
+    AX LUNG
+    3.0
+    3.0
+    Bl57 / B70f
+    lung
+    3
+    head/feet
+    AX SOFT
+    3.0
+    3.0
+    Br40 / B41f
+    mediastinum
+    3
+    head/feet
+    COR SOFT
+    3.0
+    3.0
+    Br40 / B41f
+    mediastinum
+    3
+    front/back
+    SAG SOFT
+    3.0
+    3.0
+    Br40 / B41f
+    mediastinum
+    3
+    left/right
+    AX THINS
+    1.0
+    0.8
+    Br40 / B41f
+    mediastinum
+    3
+    head/feet
+    AX MIPS
+    8.0
+    3.0
+    Br40 / B41f
+    lung
+    3
+    head/feet
+    Send the above recons on the pre contrast scan (if without only) or on the post contrast scan (if IV given).
+    Send only the following recon on the pre contrast scan (if without and with).
+    AX SOFT PRE
+    3.0
+    3.0
+    Br40 / B41f
+    mediastinum
+    3
+    head/feet
+    </div>
+
+??? abstract "Pagina 2 — text în engleză"
+
+    <div lang="en" style="white-space: pre-wrap">CT Chest Low-Dose
+    GE PARAMETERS &amp; RECONS
+    Scan               
+    Smart             
+    Scan                 
+    Slice                       
+    Beam                                 
+    Dose                                               
+    kV
+    mA                           
+    Speed
+    Rot                                
+    Thick
+    Pitch
+    Coll
+    Time
+    ASIR
+    Red
+    Type
+    SFOV
+    Range
+    Noise                    
+    Index
+    mA
+    Time
+    LS 16
+    helical
+    large
+    120
+    on
+    NA
+    5.5
+    100-300
+    25.46
+    NA
+    20
+    2.5
+    1.375 27.50
+    0.5
+    27.50
+    0.5
+    NA
+    NA
+    5.5
+    Opt 540
+    helical
+    large
+    120
+    100-300
+    25.46
+    on
+    2.5
+    20
+    1.375
+    on
+    30
+    40
+    2.5
+    0.984 39.375
+    0.5
+    70
+    3.8
+     LS VCT 64
+    helical
+    large body
+    120
+    50-300
+    25.46
+    39.375
+    0.5
+    NA
+    NA
+    on
+    40
+    2.5
+    3.8
+    0.984
+    Disc VCT 64
+    helical
+    large body
+    120
+    50-300
+    25.46
+    Window                                   
+    Recon                    
+    Name of Series
+    Thickness
+    Interval
+    Recon                                     
+    Algorithm
+    Width/Level
+    Direction
+    AX LUNG
+    2.5
+    2.5
+    lung
+    1600/-600
+    head/feet
+    Must be first recon.
+    AX SOFT
+    2.5
+    2.5
+    std full
+    400/40
+    head/feet
+    COR SOFT
+    2.5
+    2.5
+    std full
+    400/40
+    front/back
+    SAG SOFT
+    2.5
+    2.5
+    std full
+    400/40
+    left/right
+    AX THINS
+    1.25
+    1.0
+    std full
+    400/40
+    head/feet
+    AX MIPS
+    8.0
+    3.0
+    std full
+    1600/-600
+    head/feet
+    Send the above recons on the pre contrast scan (if without only) or on the post contrast scan (if IV given).
+    Send only the following recon on the pre contrast scan (if without and with).
+    AX SOFT PRE
+    2.5
+    2.5
+    std full
+    400/40
+    head/feet
+    PHILIPS PARAMETERS &amp; RECONS
+    Scan                           
+    Dose                                          
+    3D            
+    Rot 
+    Scan                 
+    Mode
+    kV
+    Avg                      
+    mAs
+    Index
+    Dose
+    Pitch Detect Colli
+    Time
+    Time
+    5.6
+    Incisive 128
+    helical
+    120
+    55
+    19
+    on
+    1.00
+    64
+    0.625
+    0.75
+    Recon                     
+    Name of Series
+    Thick
+    Interval
+    Filter
+    Window
+    iDose
+    Direction
+    AX LUNG
+    3.0
+    3.0
+    YA
+    lung
+    3
+    head/feet
+    AX SOFT
+    3.0
+    3.0
+    B
+    mediastinum
+    3
+    head/feet
+    COR SOFT
+    3.0
+    3.0
+    B
+    mediastinum
+    3
+    front/back
+    SAG SOFT
+    3.0
+    3.0
+    B
+    mediastinum
+    3
+    left/right
+    AX THINS
+    1.0
+    0.75
+    B
+    mediastinum
+    3
+    head/feet
+    AX MIPS
+    8.0
+    2.0
+    B
+    lung
+    3
+    head/feet
+    Send the above recons on the pre contrast scan (if without only) or on the post contrast scan (if IV given).
+    Send only the following recon on the pre contrast scan (if without and with).
+    AX SOFT PRE
+    3.0
+    3.0
+    B
+    mediastinum
+    3
+    head/feet
+    </div>
+

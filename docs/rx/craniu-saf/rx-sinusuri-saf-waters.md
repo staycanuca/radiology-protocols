@@ -95,6 +95,7 @@ title: Rx Sinusuri Anterioare ale Feței (SAF / Waters)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.08 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -136,6 +137,7 @@ title: Rx Sinusuri Anterioare ale Feței (SAF / Waters)
     - Colimare riguroasă pe masivul facial
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Ortostatismul este obligatoriu pentru evidențierea nivelurilor hidroaerice (puroi/lichid în sinuzita acută sau hemosinus în traumatisme).

@@ -12,6 +12,10 @@ images:
 - caption: Merrill — pagina 1246, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-antero-posterioara-ap-p1244-merrill/p1246_fig2.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Poziția de decubit ventral poate fi recomandată pentru evidențierea regiunii
@@ -154,11 +158,12 @@ title: Rx Aparat Urinar — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -198,6 +203,7 @@ title: Rx Aparat Urinar — Incidență Antero-Posterioară (AP) (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Poziția de decubit ventral poate fi recomandată pentru evidențierea regiunii pieloureterale și pentru umplerea ureterului obstruat în prezența hidronefrozei. Ureterele se umplu mai bine în decubit ventral, poziție care inversează curbura traiectului lor inferior. Rinichii sunt situați oblic, înclinați anterior în plan transversal, astfel încât urina opacifiată tinde să se acumuleze în porțiunea declivă a sistemului pielocaliceal și să o destindă. Poziția de decubit dorsal permite umplerea mai ușoară a calicelor superioare situate mai posterior, iar porțiunile anterioare și inferioare ale sistemului pielocaliceal se umplu mai ușor în decubit ventral.
 
@@ -236,52 +242,3 @@ title: Rx Aparat Urinar — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1244–1246](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidența AP a aparatului urinar evidențiază rinichii, ureterele și vezica urinară umplute cu substanță de contrast (Fig. 16.42 până la 16.44).
-
-### colimare
-
-• se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), orientat longitudinal, sau 10 × 12 țoli (24 × 30 cm), orientat transversal, pentru imaginea suplimentară a vezicii urinare (dacă este necesară). pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de conturul flancurilor abdominale.
-se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe receptorul de imagine (RI) la nivelul crestelor iliace
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
-
-### note
-
-decubitul ventral poate fi recomandat pentru evidențierea regiunii pieloureterale și pentru umplerea ureterului obstruat în prezența hidronefrozei. Ureterele se umplu mai bine în decubit ventral, poziție care inversează curbura traiectului lor inferior. Rinichii sunt situați oblic, înclinați anterior în plan transversal, astfel încât urina opacifiată tinde să se acumuleze în porțiunea declivă a sistemului pielocaliceal și să o destindă. decubitul dorsal permite umplerea mai ușoară a calicelor superioare situate mai posterior, iar porțiunile anterioare și inferioare ale sistemului pielocaliceal se umplu mai ușor în decubit ventral.
-
-### part_pos
-
-• se centrează MSP al corpului pacientului pe linia mediană a dispozitivului cu grilă.
-• se poziționează brațele pacientului în afara câmpului colimat.
-• se centrează receptorul de imagine la nivelul crestelor iliace. Dacă pacientul este prea înalt pentru a include întregul aparat urinar, se efectuează o a doua expunere cu un câmp de iradiere de 10 × 12 țoli (24 × 30 cm) (placă pentru raza centrală), centrat pe vezica urinară. Câmpul de expunere de 10 × 12 țoli (24 × 30 cm) sau placa pentru raza centrală se orientează transversal și se centrează la 2 la 3 țoli (5 la 7.6 cm) deasupra marginii superioare a simfizei pubiene.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidența AP a aparatului urinar. Imaginile preliminare (de orientare) și cele după injectare se obțin cel mai frecvent cu pacientul în decubit dorsal (Fig. 16.40).
-• se așază un suport sub genunchii pacientului pentru a reduce solicitarea spatelui.
-• se așază pacientul în ortostatism sau în poziție semiverticală pentru incidența AP, pentru a evidenția vezica urinară opacifiată și mobilitatea rinichilor (Fig. 16.41).
-• pentru evidențierea extremităților inferioare ale ureterelor, poate fi utilă folosirea poziției Trendelenburg și a incidenței AP, cu capătul mesei dinspre cap coborât cu 15 la 20 grade și raza centrală orientată perpendicular pe receptorul de imagine (RI). în această poziție înclinată, greutatea lichidului conținut destinde fundul vezicii urinare în direcție superioară, oferind o imagine neobstrucționată a porțiunilor inferioare ale ureterelor și a regiunilor orificiilor vezicoureterale.
-• Dacă este necesar, se aplică compresie ureterală (vezi Fig. 16.32).
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
-43 cm), longitudinal.
-

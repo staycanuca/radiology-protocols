@@ -17,6 +17,10 @@ contrast:
     la 70 secunde
   trigger: 150 HU (+ 25 sec delay pentru faza pancreatică)
   volume: 125-150 mL
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 4 (Ridicată > 10 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 notes:
   additional_recons: Reconstrucții 3D MIP și angiografice pentru ramurile trunchiului
@@ -115,10 +119,14 @@ title: CT Pancreas Multifazic (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 4 (Ridicată > 10 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

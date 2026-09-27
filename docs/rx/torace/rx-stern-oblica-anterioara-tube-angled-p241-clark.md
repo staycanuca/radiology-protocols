@@ -2,47 +2,54 @@
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee completă pe durata expunerii.
 category: torace
-centering: '• perpendicular raza centrală este centred initially la axilla de either
-  side la nivelul fifth thoracic vertebra.
+centering: '• Raza centrală perpendiculară este centrată inițial la axila de pe oricare
+  parte, la nivelul celei de-a cincea vertebre toracice.
 
-  • raza centrală este then înclinat transversely astfel încât raza centrală este
-  orientat la point 7.5 cm Profil (lateral) la linia mediană pe same side.'
+  • Raza centrală este apoi înclinată transversal, astfel încât să fie orientată către
+  un punct situat la 7.5 cm lateral de linia mediană, pe aceeași parte.'
 clinical_indications:
-- "A 24 \x02 30-cm casetă cu grilă antidifuzoare fitted cu standard-speed screens\
-  \ este selected."
+- Se selectează o casetă de 24 × 30 cm cu grilă antidifuzoare și ecrane de sensibilitate
+  standard.
 images:
-- caption: Postero-anterior (PA) Oblică radiografie de Stern taken
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie oblică postero-anterioară (PA) a sternului efectuată
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-tube-angled-p241-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-tube-angled-p241-clark/fig_2.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• pacientul este allowed la breathe gently during expunere time de several
-  seconds using low mA.
+notes: '• Pacientului i se permite să respire superficial în timpul expunerii de câteva
+  secunde, utilizând un mA redus.
 
-  • This technique diffuses lung și rib shadows, which otherwise tend la obscure Stern.
+  • Această tehnică estompează umbrele pulmonare și costale, care altfel tind să acopere
+  sternul.
 
-  226 stâng Oblică Anterioară Cord și Siluetă Cardiovasculară X-ray tube vertical
-  line de la tube stâng lung drept lung Omoplat (Scapulă) Omoplat (Scapulă) Coaste
-  (Grilaj Costal) Stern 5th 6th 4th 3rd cc casetă 6th TV Postero-anterior (PA) Oblică
-  radiografie de Stern taken during gentle respirație'
-position: '• pacientul stă în ortostatism sau sits facing stativ vertical Bucky sau
-  lies Decubit ventral pe masa de examinare.
+  226 Oblică anterioară stângă. Cord și siluetă cardiovasculară. Tub de raze X. Linie
+  verticală de la tub. Plămân stâng. Plămân drept. Omoplat (scapulă). Omoplat (scapulă).
+  Coaste (grilaj costal). Stern. A 5-a, a 6-a, a 4-a, a 3-a cc. Casetă. A 6-a TV.
+  Radiografie oblică postero-anterioară (PA) a sternului, efectuată în timpul respirației
+  superficiale.'
+position: '• Pacientul stă în ortostatism sau în șezut cu fața spre stativul vertical
+  Bucky, ori în decubit ventral pe masa de examinare.
 
-  • medial plan sagital trebuie să fie la drept-angles la, și centred la, caseta.
+  • Planul mediosagital trebuie să fie perpendicular pe casetă și centrat la aceasta.
 
-  • ca raza centrală este la fie înclinat across masa de examinare, caseta este plasat
-  transversely la avoid grilă cut-off.
+  • Deoarece raza centrală va fi înclinată transversal față de masa de examinare,
+  caseta se așază transversal pentru a evita tăierea fasciculului de către grilă.
 
-  • If Bucky este la fie used pe masa de examinare, pacientul trebuie să lie pe trolley
-  poziționat la drept-angles la masa de examinare, cu Torace resting pe masa radiologică.
+  • Dacă se utilizează Bucky-ul mesei de examinare, pacientul trebuie să stea culcat
+  pe un cărucior poziționat perpendicular pe masă, cu toracele sprijinit pe masa radiologică.
 
-  • caseta este centred la nivelul fifth thoracic vertebra.
+  • Caseta este centrată la nivelul celei de-a cincea vertebre toracice.
 
-  • imobilizare will fie assisted if it este possible la use imobilizare band.'
+  • Utilizarea unei benzi de imobilizare, dacă este posibilă, facilitează imobilizarea.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,7 +58,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Stern).
+- Vizualizarea clară a întregii arii anatomice (stern).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -61,16 +68,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 241
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Stern Oblică Anterioară - tube angled
+  mas: Conform AEC / grosimii anatomice
+title: Rx stern oblică anterioară – tubul înclinat
 ---
-# Rx Stern Oblică Anterioară - tube angled
+# Rx stern oblică anterioară – tubul înclinat
 
 
 <div class="rx-meta-bar">
@@ -89,28 +96,31 @@ title: Rx Stern Oblică Anterioară - tube angled
 
     === "Indicații Clinice"
 
-        - A 24  30-cm casetă cu grilă antidifuzoare fitted cu standard-speed screens este selected.
+        - Se selectează o casetă de 24 × 30 cm cu grilă antidifuzoare și ecrane de sensibilitate standard.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism sau sits facing stativ vertical Bucky sau lies Decubit ventral pe masa de examinare.
-• medial plan sagital trebuie să fie la drept-angles la, și centred la, caseta.
-• ca raza centrală este la fie înclinat across masa de examinare, caseta este plasat transversely la avoid grilă cut-off.
-• If Bucky este la fie used pe masa de examinare, pacientul trebuie să lie pe trolley poziționat la drept-angles la masa de examinare, cu Torace resting pe masa radiologică.
-• caseta este centred la nivelul fifth thoracic vertebra.
-• imobilizare will fie assisted if it este possible la use imobilizare band.
-    - **Punct de Centrare Fascicul:** • perpendicular raza centrală este centred initially la axilla de either side la nivelul fifth thoracic vertebra.
-• raza centrală este then înclinat transversely astfel încât raza centrală este orientat la point 7.5 cm Profil (lateral) la linia mediană pe same side.
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism sau în șezut cu fața spre stativul vertical Bucky, ori în decubit ventral pe masa de examinare.
+        - Planul mediosagital trebuie să fie perpendicular pe casetă și centrat la aceasta.
+        - Deoarece raza centrală va fi înclinată transversal față de masa de examinare, caseta se așază transversal pentru a evita tăierea fasciculului de către grilă.
+        - Dacă se utilizează Bucky-ul mesei de examinare, pacientul trebuie să stea culcat pe un cărucior poziționat perpendicular pe masă, cu toracele sprijinit pe masa radiologică.
+        - Caseta este centrată la nivelul celei de-a cincea vertebre toracice.
+        - Utilizarea unei benzi de imobilizare, dacă este posibilă, facilitează imobilizarea.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală perpendiculară este centrată inițial la axila de pe oricare parte, la nivelul celei de-a cincea vertebre toracice.
+        - Raza centrală este apoi înclinată transversal, astfel încât să fie orientată către un punct situat la 7.5 cm lateral de linia mediană, pe aceeași parte.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee completă pe durata expunerii.
 
@@ -121,19 +131,19 @@ title: Rx Stern Oblică Anterioară - tube angled
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Stern).
+    - Vizualizarea clară a întregii arii anatomice (stern).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -147,10 +157,10 @@ title: Rx Stern Oblică Anterioară - tube angled
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • pacientul este allowed la breathe gently during expunere time de several seconds using low mA.
-• This technique diffuses lung și rib shadows, which otherwise tend la obscure Stern.
-226 stâng Oblică Anterioară Cord și Siluetă Cardiovasculară X-ray tube vertical line de la tube stâng lung drept lung Omoplat (Scapulă) Omoplat (Scapulă) Coaste (Grilaj Costal) Stern 5th 6th 4th 3rd cc casetă 6th TV Postero-anterior (PA) Oblică radiografie de Stern taken during gentle respirație
+    - Pacientului i se permite să respire superficial în timpul expunerii de câteva secunde, utilizând un mA redus.
+    - Această tehnică estompează umbrele pulmonare și costale, care altfel tind să acopere sternul. 226 Oblică anterioară stângă. Cord și siluetă cardiovasculară. Tub de raze X. Linie verticală de la tub. Plămân stâng. Plămân drept. Omoplat (scapulă). Omoplat (scapulă). Coaste (grilaj costal). Stern. A 5-a, a 6-a, a 4-a, a 3-a cc. Casetă. A 6-a TV. Radiografie oblică postero-anterioară (PA) a sternului, efectuată în timpul respirației superficiale.
 
 
 ### 🖼️ Imagini
@@ -159,9 +169,9 @@ title: Rx Stern Oblică Anterioară - tube angled
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) Oblică radiografie de Stern taken](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-tube-angled-p241-clark/fig_1.jpeg)
+![Radiografie oblică postero-anterioară (PA) a sternului efectuată](../../assets/images/protocols/clark/rx-stern-oblica-anterioara-tube-angled-p241-clark/fig_1.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) Oblică radiografie de Stern taken</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică postero-anterioară (PA) a sternului efectuată</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

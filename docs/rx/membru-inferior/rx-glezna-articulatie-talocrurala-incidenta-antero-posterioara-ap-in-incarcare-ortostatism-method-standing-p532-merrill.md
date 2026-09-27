@@ -2,95 +2,102 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: 'perpendicular pe centrul receptorului de imagine. TECHNICAL NOTE: If needed,
-  use mobile unit la allow x-ray tube la reach floor level.'
+centering: 'perpendicular pe centrul receptorului de imagine. NOTĂ TEHNICĂ: Dacă este
+  necesar, se utilizează o unitate mobilă pentru a permite tubului radiologic să ajungă
+  la nivelul podelei.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 533, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glezna-articulatie-talocrurala-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p532-merrill/p533_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în ortostatism, preferably pe low platform that has receptorul
-  de imagine groove. If such platform este unavailable, use blocks la elevate picioarele
-  la level de x-ray tube (Fig. 7.109). Ensure that pacientul has corect support. Never
-  stand pacientul pe masa radiologică.; Place receptorul de imagine în groove de platform
-  sau între blocks. Se instruiește pacientul să stand cu heels pushed back pe / sprijinit
-  de receptorul de imagine și Degete Picior pointing straight ahead spre x-ray tube.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+position: se așază pacientul în ortostatism, de preferință pe o platformă joasă prevăzută
+  cu un canal pentru receptorul de imagine. Dacă o astfel de platformă nu este disponibilă,
+  se utilizează blocuri pentru a ridica picioarele la nivelul tubului radiologic (Fig.
+  7.109). Se asigură sprijinul corect al pacientului. Pacientul nu trebuie așezat
+  niciodată pe masa radiologică. Se plasează receptorul de imagine în canalul platformei
+  sau între blocuri. Se instruiește pacientul să stea cu călcâiele împinse în spate
+  pe / sprijinite de receptorul de imagine și cu degetele picioarelor îndreptate drept
+  înainte, spre tubul radiologic. se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- ambele ankles centrat pe imagine
-- medial mortise open
-- distal tibia și astragal (talus) partially superimpose distal fibula
-- lateral mortise closed
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- ambele glezne centrate pe imagine
+- mortaise-ul medial deschis
+- tibia distală și astragalul (talusul) se suprapun parțial peste fibula distală
+- mortaise-ul lateral închis
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-glezna-articulatie-talocrurala-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p532-merrill
 source_pages:
 - 532
 - 533
 source_sections:
-  anatomy: 'AP incidență de ambele ankle articulații și relationship de distal tibia
-    și fibula cu weight bearing. It also shows side-la-side
-
-    comparison de articulație (Fig. 7.110).'
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) outside shadows
-    de picioarele but nu beyond receptorul de imagine margini, și 8 inches (18 cm)
-
-    vertically pentru include heel. Place marker de lateralitate (D/S) în collimated
-    expunere field.'
+  anatomy: Incidență AP a ambelor articulații ale gleznelor și relația dintre tibia
+    și fibula distale în încărcare. De asemenea, evidențiază comparația articulațiilor
+    una lângă alta (Fig. 7.110).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) în afara umbrelor
+    picioarelor, dar nu dincolo de marginile receptorului de imagine, și la 8 țoli
+    (18 cm) pe verticală, pentru a include călcâiul. Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
   cr: '• perpendicular pe centrul receptorului de imagine.
 
-    TECHNICAL NOTE: If needed, use mobile unit la allow x-ray tube la reach floor
-    level.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    NOTĂ TEHNICĂ: Dacă este necesar, se utilizează o unitate mobilă pentru a permite
+    tubului radiologic să ajungă la nivelul podelei.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • ambele ankles centrat pe imagine
+    • ambele glezne centrate pe imagine
 
-    • medial mortise open
+    • mortaise-ul medial deschis
 
-    • distal tibia și astragal (talus) partially superimpose distal fibula
+    • tibia distală și astragalul (talusul) se suprapun parțial peste fibula distală
 
-    • lateral mortise closed
+    • mortaise-ul lateral închis
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place receptorul de imagine în groove de platform sau între blocks.
+    • detalii osoase trabeculare și țesuturile moi înconjurătoare'
+  part_pos: '• Se plasează receptorul de imagine în canalul platformei sau între blocuri.
 
-    • Se instruiește pacientul să stand cu heels pushed back pe / sprijinit de receptorul
-    de imagine și toes pointing straight ahead spre x-ray tube.
+    • Se instruiește pacientul să stea cu călcâiele împinse în spate pe / sprijinite
+    de receptorul de imagine și cu degetele picioarelor îndreptate drept înainte,
+    spre tubul radiologic.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în ortostatism, preferably pe low platform that
-    has receptorul de imagine groove. If such platform este unavailable, use
+  patient_pos: '• se așază pacientul în ortostatism, de preferință pe o platformă
+    joasă prevăzută cu șanț pentru receptorul de imagine. Dacă o astfel de platformă
+    nu este disponibilă, se folosesc blocuri pentru a ridica picioarele la nivelul
+    tubului radiogen (Fig. 7.109).
 
-    blocks la elevate picioarele la level de x-ray tube (Fig. 7.109).
-
-    • Ensure that pacientul has corect support. Never stand pacientul pe masa radiologică.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) transversal.'
+    • Se asigură sprijinul corect al pacientului. Pacientul nu se așază niciodată
+    pe masa radiologică.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru afișarea corectă a anatomiei; placă pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 532–533
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) outside shadows de
-    picioarele but nu beyond receptorul de imagine margini, și 8 inches (18 cm) vertically
-    pentru include heel. Place marker de lateralitate (D/S) în collimated expunere
-    field.
-title: Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioară (AP) — În
-  Încărcare (Ortostatism) Method Standing (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) în afara umbrelor
+    picioarelor, dar nu dincolo de marginile receptorului de imagine, și la 8 țoli
+    (18 cm) pe verticală pentru a include călcâiul. Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: Rx gleznă (articulație talocrurală) — incidență antero-posterioară (AP) — în
+  încărcare (ortostatism), metoda în ortostatism (Merrill)
 ---
-# Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioară (AP) — În Încărcare (Ortostatism) Method Standing (Merrill)
+# Rx gleznă (articulație talocrurală) — incidență antero-posterioară (AP) — în încărcare (ortostatism), metoda în ortostatism (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -114,17 +121,18 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioar�
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism, preferably pe low platform that has receptorul de imagine groove. If such platform este unavailable, use blocks la elevate picioarele la level de x-ray tube (Fig. 7.109). Ensure that pacientul has corect support. Never stand pacientul pe masa radiologică.; Place receptorul de imagine în groove de platform sau între blocks. Se instruiește pacientul să stand cu heels pushed back pe / sprijinit de receptorul de imagine și Degete Picior pointing straight ahead spre x-ray tube. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine. TECHNICAL NOTE: If needed, use mobile unit la allow x-ray tube la reach floor level.
+    - **Poziție Pacient:** se așază pacientul în ortostatism, de preferință pe o platformă joasă prevăzută cu un canal pentru receptorul de imagine. Dacă o astfel de platformă nu este disponibilă, se utilizează blocuri pentru a ridica picioarele la nivelul tubului radiologic (Fig. 7.109). Se asigură sprijinul corect al pacientului. Pacientul nu trebuie așezat niciodată pe masa radiologică. Se plasează receptorul de imagine în canalul platformei sau între blocuri. Se instruiește pacientul să stea cu călcâiele împinse în spate pe / sprijinite de receptorul de imagine și cu degetele picioarelor îndreptate drept înainte, spre tubul radiologic. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine. NOTĂ TEHNICĂ: Dacă este necesar, se utilizează o unitate mobilă pentru a permite tubului radiologic să ajungă la nivelul podelei.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -140,20 +148,20 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioar�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) outside shadows de picioarele but nu beyond receptorul de imagine margini, și 8 inches (18 cm) vertically pentru include heel. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) în afara umbrelor picioarelor, dar nu dincolo de marginile receptorului de imagine, și la 8 țoli (18 cm) pe verticală pentru a include călcâiul. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - ambele ankles centrat pe imagine
-    - medial mortise open
-    - distal tibia și astragal (talus) partially superimpose distal fibula
-    - lateral mortise closed
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - ambele glezne centrate pe imagine
+    - mortaise-ul medial deschis
+    - tibia distală și astragalul (talusul) se suprapun parțial peste fibula distală
+    - mortaise-ul lateral închis
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -162,6 +170,7 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioar�
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -193,47 +202,3 @@ title: Rx Gleznă (Articulație Talocrurală) — Incidență Antero-Posterioar�
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 532–533](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP incidență de ambele ankle articulații și relationship de distal tibia și fibula cu weight bearing. It also shows side-la-side
-comparison de articulație (Fig. 7.110).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) outside shadows de picioarele but nu beyond receptorul de imagine margini, și 8 inches (18 cm)
-vertically pentru include heel. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe centrul receptorului de imagine.
-TECHNICAL NOTE: If needed, use mobile unit la allow x-ray tube la reach floor level.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• ambele ankles centrat pe imagine
-• medial mortise open
-• distal tibia și astragal (talus) partially superimpose distal fibula
-• lateral mortise closed
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Place receptorul de imagine în groove de platform sau între blocks.
-• Se instruiește pacientul să stand cu heels pushed back pe / sprijinit de receptorul de imagine și toes pointing straight ahead spre x-ray tube.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în ortostatism, preferably pe low platform that has receptorul de imagine groove. If such platform este unavailable, use
-blocks la elevate picioarele la level de x-ray tube (Fig. 7.109).
-• Ensure that pacientul has corect support. Never stand pacientul pe masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) transversal.
-

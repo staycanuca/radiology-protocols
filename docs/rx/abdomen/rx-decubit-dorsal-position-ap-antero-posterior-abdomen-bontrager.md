@@ -26,6 +26,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.30
     Abdomen superior AP—orientare orizontală. (Din Abdulhassan Al)
   url: assets/images/protocols/bontrager/rx-decubit-dorsal-position-ap-antero-posterior-abdomen-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Un pacient înalt, hipostenic sau astenic, poate necesita două imagini cu
@@ -96,11 +100,12 @@ title: Rx abdomen în decubit dorsal, poziționare AP (antero-posterioară)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -142,6 +147,7 @@ title: Rx abdomen în decubit dorsal, poziționare AP (antero-posterioară)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Un pacient înalt, hipostenic sau astenic, poate necesita două imagini cu orientare verticală (Fig. 3.29)—una centrată mai jos pentru a include simfiza pubiană (marginea inferioară a primului receptor de imagine la nivelul simfizei) și a doua centrată mai sus pentru a include etajul abdominal superior și cupolele diafragmatice (marginea superioară a celui de-al doilea receptor de imagine la nivelul apendicelui xifoid). Un pacient hiperstenic, lat, poate necesita două IR de 14 × 17 țoli (35 × 43 cm), cu orientare orizontală, unul centrat mai jos pentru a include simfiza pubiană și al doilea pentru etajul abdominal superior, cu o suprapunere de minimum 1 la 2 țoli (3 la 5 cm) (Fig. 3.30).

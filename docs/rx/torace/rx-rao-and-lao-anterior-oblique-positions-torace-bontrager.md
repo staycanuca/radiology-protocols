@@ -20,6 +20,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.75
     Poziție oblică anterioară dreaptă (OAD / RAO) la 45°.)
   url: assets/images/protocols/bontrager/rx-rao-and-lao-anterior-oblique-positions-torace-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Pentru incidențele oblice anterioare, partea de interes este în general
@@ -43,7 +47,7 @@ position: 'Pacient: în ortostatism, rotit la 45 de grade, cu fața anterioară 
   sau pe stativul toracic, menținând brațul cât mai sus. Pacientul privește drept
   înainte, cu bărbia ridicată. Regiune anatomică: privind dinspre tubul de raze X,
   centrați pacientul la raza centrală și la receptorul de imagine, cu marginea superioară
-  a receptorului la aproximativ 1 inch (2.5 cm) deasupra vertebrei proeminente (apofiza
+  a receptorului la aproximativ 1 țol (2.5 cm) deasupra vertebrei proeminente (apofiza
   spinoasă C7).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
@@ -108,16 +112,17 @@ title: Rx oblică anterioară (OAD și OAS) (torace)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: în ortostatism, rotit la 45 de grade, cu fața anterioară a umărului drept sprijinită de receptorul de imagine pentru RAO (Fig. 2.73), respectiv la 45 de grade, cu fața anterioară a umărului stâng sprijinită de receptor pentru LAO (Fig. 2.74) (vezi NOTELE pentru LAO la 60 de grade). Brațul cel mai apropiat de receptor este flectat, cu mâna pe șold și palma orientată în afară. Brațul opus este ridicat pentru a degaja câmpurile pulmonare, iar mâna este sprijinită pe cap sau pe stativul toracic, menținând brațul cât mai sus. Pacientul privește drept înainte, cu bărbia ridicată. Regiune anatomică: privind dinspre tubul de raze X, centrați pacientul la raza centrală și la receptorul de imagine, cu marginea superioară a receptorului la aproximativ 1 inch (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă C7).
+    - **Poziție Pacient:** Pacient: în ortostatism, rotit la 45 de grade, cu fața anterioară a umărului drept sprijinită de receptorul de imagine pentru RAO (Fig. 2.73), respectiv la 45 de grade, cu fața anterioară a umărului stâng sprijinită de receptor pentru LAO (Fig. 2.74) (vezi NOTELE pentru LAO la 60 de grade). Brațul cel mai apropiat de receptor este flectat, cu mâna pe șold și palma orientată în afară. Brațul opus este ridicat pentru a degaja câmpurile pulmonare, iar mâna este sprijinită pe cap sau pe stativul toracic, menținând brațul cât mai sus. Pacientul privește drept înainte, cu bărbia ridicată. Regiune anatomică: privind dinspre tubul de raze X, centrați pacientul la raza centrală și la receptorul de imagine, cu marginea superioară a receptorului la aproximativ 1 țol (2.5 cm) deasupra vertebrei proeminente (apofiza spinoasă C7).
     - **Punct de Centrare Fascicul:** La jumătatea distanței dintre planul mediosagital și marginea laterală a toracelui
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație).
@@ -157,6 +162,7 @@ title: Rx oblică anterioară (OAD și OAS) (torace)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Pentru incidențele oblice anterioare, partea de interes este în general cea mai îndepărtată de receptorul de imagine. Astfel, RAO oferă cea mai bună vizualizare a plămânului stâng. Anumite poziții pentru examinarea cordului și vaselor mari necesită poziții oblice cu creșterea rotației de la 45 la 60 de grade (vezi Fig. 2.75 și 2.76). O rotație mai mică (15 la 20 de grade) poate fi utilă pentru o mai bună vizualizare a diferitelor regiuni pulmonare în cazul unei posibile boli pulmonare (Fig. 2.77). Excepție: se pot efectua incidențe oblice posterioare, fie în ortostatism, fie în decubit, dacă pacientul nu poate adopta poziția în ortostatism pentru incidențele oblice anterioare sau dacă sunt necesare incidențe suplimentare. Torace, incidențe SPECIALE: AP în ortostatism sau semierect; decubit lateral (AP); AP lordotică; oblică anterioară. Fig. 2.74 Poziție oblică anterioară stângă (OAS / LAO) la 45°. Fig. 2.73 Poziție oblică anterioară dreaptă (OAD / RAO) la 45°. LAO RAO

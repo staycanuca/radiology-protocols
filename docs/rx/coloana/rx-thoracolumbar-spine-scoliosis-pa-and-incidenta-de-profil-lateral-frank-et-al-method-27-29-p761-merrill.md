@@ -35,6 +35,10 @@ images:
 - caption: Merrill — pagina 767, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracolumbar-spine-scoliosis-pa-and-incidenta-de-profil-lateral-frank-et-al-method-27-29-p761-merrill/p767_fig6.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -172,11 +176,12 @@ title: 'Radiografia coloanei toracolombare: scolioză — PA și incidență de 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -218,6 +223,7 @@ title: 'Radiografia coloanei toracolombare: scolioză — PA și incidență de 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -289,57 +295,3 @@ title: 'Radiografia coloanei toracolombare: scolioză — PA și incidență de 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 761–767](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-întreaga coloană vertebrală, de la baza craniului până la vârful coccisului (Fig. 9.134).
-
-### colimare
-
-• amploarea colimării depinde de tipul sistemului de imagistică utilizat, precum și de extinderea scoliozei pacientului. trebuie acordată atenție includerii exclusiv a anatomiei de interes. dacă este posibil, lățimea câmpului colimat trebuie să fie mai mică decât lățimea receptorului de imagine. se verifică întotdeauna imaginile examinării anterioare pentru a determina amploarea curburii.
-
-### raza centrală
-
-• perpendicular pe centrul receptorului de imagine. punctele de centrare pentru fiecare radiografie din serie vor fi dictate de sistemul utilizat.
-• se efectuează o serie de două (sau trei) imagini atât pentru incidențele PA, cât și pentru cele de profil (Fig. 9.132 și 9.133).
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• dovada colimării corecte, prezența reperului special, dacă a fost utilizat, și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-• întreaga coloană cervicală, toracală și lombosacrală
-• coloana vertebrală aliniată pe centrul imaginii
-• detalii osoase trabeculare și țesuturile moi înconjurătoare
-
-### part_pos
-
-PA (sau AP)
-• pacientul este orientat cu fața spre stativul vertical Bucky pentru PA sau cu spatele sprijinit de dispozitiv pentru AP.
-• se ajustează bazinul pacientului pentru rotație, asigurându-se că spinele iliace antero-superioare (SIAS) sunt echidistante față de receptorul de imagine.
-• se centrează MSP al corpului pacientului pe linia mediană a stativului vertical Bucky (Fig. 9.131A).
-• Se lasă brațele pacientului să atârne pe lângă corp.
-• se poziționează rigla specială adiacent coloanei vertebrale, dacă este necesar.
-• se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz.
-
-### patient_pos
-
-• Această procedură se efectuează de obicei cu pacientul în ortostatism.
-
-### respirație
-
-apnee (oprirea respirației).
-profil
-• se poziționează pacientul cu partea laterală sprijinită de stativul vertical Bucky.
-• se ajustează poziția pacientului astfel încât MSP al corpului să fie paralel cu receptorul de imagine, iar umărul adiacent să atingă dispozitivul grilei.
-• se centrează toracele pe grilă; MCP trebuie să fie perpendicular și centrat pe linia mediană a grilei (vezi Fig. 9.131B).
-• se poziționează rigla specială adiacent coloanei vertebrale, dacă este necesar.
-• Se instruiește pacientul să ridice brațele în sus pentru a preveni suprapunerea peste coloana vertebrală.
-• se efectuează ecranarea gonadelor cu șorț plumbat și a sânilor, după caz.
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat de producător sau prin protocolul departamentului pentru orientarea corectă a afișării anatomiei. au fost dezvoltate diverse dispozitive și suporturi pentru receptoare de imagine, atât pentru sistemele cu rază centrală, cât și pentru sistemele DR. toate sistemele permit captarea mai multor imagini care cuprind întreaga coloană vertebrală, fără a fi necesară repoziționarea pacientului. imaginile obținute sunt combinate sau „asamblate” de sistemul informatic într-o imagine compozită care evidențiază întreaga coloană vertebrală într-o singură imagine.
-

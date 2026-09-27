@@ -2,35 +2,37 @@
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee completă pe durata expunerii.
 category: membru-superior
-centering: '• orizontal X-ray fascicul este orientat la medial margine de Omoplat
-  (Scapulă) și centred la capul de Humerus.
+centering: '• Fasciculul radiologic orizontal este orientat spre marginea medială
+  a scapulei și centrat pe capul humerusului.
 
   76'
 clinical_indications:
-- 78 RECOMMENDED incidențe 79 Incidențe Standard de Bază 80 Antero-posterior (AP)
-  (15 grade) Ortostatism – survey imagine 81 Supero-Inferioară (Axială) 81 Infero-Superioară
-  (Axială) (alternate) 82 Incidență Outlet (Subacromială Neer) 83 Antero-posterior
-  (AP) (Incidență Outlet (Subacromială Neer)) 83 Profil (lateral) (Incidență Outlet
-  (Subacromială Neer)) 84 GLENOHUMERAL articulație 85 Antero-posterior (AP) – Ortostatism
-  85 Antero-posterior (AP) – Decubit dorsal (trauma) 86 Profil (lateral) Oblică ‘Y’
-  incidență (alternate) luxație articulară/suspiciune de fractură proximal Humerus
-  86 MODIFICATIONS în TECHNIQUE (POST-MANIPULATION) 87 Antero-posterior (AP) – 25
-  grade caudal 87 Luxație Recurentă Umăr 88 Antero-posterior (AP) (Profil (lateral)
-  Humerus) 88 Antero-posterior (AP) (Oblică Humerus) 89 Antero-posterior (AP) (modified)
-  – Metoda Stryker 90 Infero-Superioară (Axială) 90 CALCIFIED TENDONS 91 Antero-posterior
-  (AP) 92 Antero-posterior (AP) – 25 grade caudal 93 Infero-Superioară (Axială) 93
-  Articulații Acromioclaviculare 94 Antero-posterior (AP) 94 Claviculă 95 Postero-anterior
-  (PA) – Ortostatism (basic) 95 Antero-posterior (AP) – Decubit dorsal (alternate)
-  96 Infero-Superioară (Axială) 97 Infero-Superioară (Axială) – Decubit dorsal 98
-  Articulații Sternoclaviculare 99 Postero-anterior (PA) Oblică (basic) 99 Semi-Decubit
-  ventral (alternate) 99 Postero-anterior (PA) 100 Profil (lateral) 100 Omoplat (Scapulă)
-  101 Antero-posterior (AP) (basic) – Ortostatism 101 Profil (lateral) (basic) 102
-  Profil (lateral) (alternate) 102 Proces Coracoid 103 Antero-posterior (AP) (braț
-  în abducție) 103 CONTENTS
+- 78 INCIDENȚE RECOMANDATE 79 Incidențe standard de bază 80 Anteroposterioară (AP)
+  (15 grade) în ortostatism – imagine de examinare 81 Superoinferioară (axială) 81
+  Inferosuperioară (axială) (alternativă) 82 Incidență de evacuare (subacromială Neer)
+  83 Anteroposterioară (AP) (incidență de evacuare (subacromială Neer)) 83 Profil
+  (lateral) (incidență de evacuare (subacromială Neer)) 84 ARTICULAȚIA GLENOHUMERALĂ
+  85 Anteroposterioară (AP) – în ortostatism 85 Anteroposterioară (AP) – în decubit
+  dorsal (traumatism) 86 Incidență oblică de profil (lateral) „Y” (alternativă) –
+  luxație articulară/suspiciune de fractură a humerusului proximal 86 MODIFICĂRI ALE
+  TEHNICII (DUPĂ MANIPULARE) 87 Anteroposterioară (AP) – 25 grade caudal 87 Luxație
+  recurentă a umărului 88 Anteroposterioară (AP) (profil lateral al humerusului) 88
+  Anteroposterioară (AP) (oblică a humerusului) 89 Anteroposterioară (AP) modificată
+  – metoda Stryker 90 Inferosuperioară (axială) 90 TENDOANE CALCIFICATE 91 Anteroposterioară
+  (AP) 92 Anteroposterioară (AP) – 25 grade caudal 93 Inferosuperioară (axială) 93
+  Articulații acromioclaviculare 94 Anteroposterioară (AP) 94 Claviculă 95 Posteroanterioară
+  (PA) – în ortostatism (de bază) 95 Anteroposterioară (AP) – în decubit dorsal (alternativă)
+  96 Inferosuperioară (axială) 97 Inferosuperioară (axială) – în decubit dorsal 98
+  Articulații sternoclaviculare 99 Posteroanterioară (PA) oblică (de bază) 99 Semidecubit
+  ventral (alternativă) 99 Posteroanterioară (PA) 100 Profil (lateral) 100 Scapulă
+  101 Anteroposterioară (AP) (de bază) – în ortostatism 101 Profil (lateral) (de bază)
+  102 Profil (lateral) (alternativă) 102 Proces coracoid 103 Anteroposterioară (AP)
+  (braț în abducție) 103 CUPRINS
 images:
-- caption: Profil (lateral) Oblică incidență de neck de Humerus, evidențiind suspiciune
-    de fractură
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidență oblică de profil (lateral) a colului humerusului, evidențiind
+    suspiciunea de fractură
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-profil-lateral-infero-superior-p91-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -40,23 +42,27 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-profil-lateral-infero-superior-p91-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• expunere trebuie să fie made pe arrested respirație.
+notes: '• Expunerea trebuie efectuată în apnee.
 
-  • It este important that fără attempt este made la increase amount de movement that
-  pacientul este able sau willing la make.
+  • Este important să nu se încerce creșterea amplitudinii mișcării pe care pacientul
+  o poate sau dorește să o efectueze.
 
-  Profil (lateral) Oblică This incidență este used when braț este imobilizat și fără
-  abduction de braț este possible. stativ vertical Bucky technique poate fie necessary
-  la improve imagine quality.'
-position: '• pacientul stă în ortostatism sau sits cu Profil (lateral) aspect de injured
-  braț sprijinit pe casetă sau stativ vertical Bucky.
+  Incidență oblică de profil (lateral). Această incidență se utilizează când brațul
+  este imobilizat și abducția brațului nu este posibilă. Poate fi necesară tehnica
+  cu stativ vertical Bucky pentru îmbunătățirea calității imaginii.'
+position: '• Pacientul stă în ortostatism sau șade, cu aspectul lateral al brațului
+  lezat sprijinit pe casetă sau pe stativul vertical Bucky.
 
-  • pacientul este rotit forwards until line joining medial și Profil (lateral) margini
-  de Omoplat (Scapulă) este la drept-angles la caseta.
+  • Pacientul este rotit înainte până când linia care unește marginile medială și
+  laterală ale scapulei este perpendiculară pe casetă.
 
-  • caseta este poziționat pentru include cap de Humerus și whole Omoplat (Scapulă).'
+  • Caseta este poziționată pentru a include capul humerusului și întreaga scapulă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -65,25 +71,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Omoplat (Scapulă) și upper end de Humerus trebuie să fie evidențiat clear de thoracic
-  cage. Profil (lateral) Oblică incidență de neck de Humerus, evidențiind suspiciune
-  de fractură
+- Scapula și extremitatea superioară a humerusului trebuie evidențiate clar, separat
+  de cutia toracică. Incidență oblică de profil (lateral) a colului humerusului, evidențiind
+  suspiciunea de fractură
 sid_dff: 100 cm
 slug: rx-humerus-proximal-col-chirurgical-profil-lateral-infero-superior-p91-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 91
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Humerus Proximal (Col Chirurgical) Profil (Lateral) - infero - superior
+  mas: Conform AEC / grosimii anatomice
+title: Rx humerus proximal (col chirurgical) – profil (lateral) – inferosuperior
 ---
-# Rx Humerus Proximal (Col Chirurgical) Profil (Lateral) - infero - superior
+# Rx humerus proximal (col chirurgical) – profil (lateral) – inferosuperior
 
 
 <div class="rx-meta-bar">
@@ -102,25 +108,27 @@ title: Rx Humerus Proximal (Col Chirurgical) Profil (Lateral) - infero - superio
 
     === "Indicații Clinice"
 
-        - 78 RECOMMENDED incidențe 79 Incidențe Standard de Bază 80 Antero-posterior (AP) (15 grade) Ortostatism – survey imagine 81 Supero-Inferioară (Axială) 81 Infero-Superioară (Axială) (alternate) 82 Incidență Outlet (Subacromială Neer) 83 Antero-posterior (AP) (Incidență Outlet (Subacromială Neer)) 83 Profil (lateral) (Incidență Outlet (Subacromială Neer)) 84 GLENOHUMERAL articulație 85 Antero-posterior (AP) – Ortostatism 85 Antero-posterior (AP) – Decubit dorsal (trauma) 86 Profil (lateral) Oblică ‘Y’ incidență (alternate) luxație articulară/suspiciune de fractură proximal Humerus 86 MODIFICATIONS în TECHNIQUE (POST-MANIPULATION) 87 Antero-posterior (AP) – 25 grade caudal 87 Luxație Recurentă Umăr 88 Antero-posterior (AP) (Profil (lateral) Humerus) 88 Antero-posterior (AP) (Oblică Humerus) 89 Antero-posterior (AP) (modified) – Metoda Stryker 90 Infero-Superioară (Axială) 90 CALCIFIED TENDONS 91 Antero-posterior (AP) 92 Antero-posterior (AP) – 25 grade caudal 93 Infero-Superioară (Axială) 93 Articulații Acromioclaviculare 94 Antero-posterior (AP) 94 Claviculă 95 Postero-anterior (PA) – Ortostatism (basic) 95 Antero-posterior (AP) – Decubit dorsal (alternate) 96 Infero-Superioară (Axială) 97 Infero-Superioară (Axială) – Decubit dorsal 98 Articulații Sternoclaviculare 99 Postero-anterior (PA) Oblică (basic) 99 Semi-Decubit ventral (alternate) 99 Postero-anterior (PA) 100 Profil (lateral) 100 Omoplat (Scapulă) 101 Antero-posterior (AP) (basic) – Ortostatism 101 Profil (lateral) (basic) 102 Profil (lateral) (alternate) 102 Proces Coracoid 103 Antero-posterior (AP) (braț în abducție) 103 CONTENTS
+        - 78 INCIDENȚE RECOMANDATE 79 Incidențe standard de bază 80 Anteroposterioară (AP) (15 grade) în ortostatism – imagine de examinare 81 Superoinferioară (axială) 81 Inferosuperioară (axială) (alternativă) 82 Incidență de evacuare (subacromială Neer) 83 Anteroposterioară (AP) (incidență de evacuare (subacromială Neer)) 83 Profil (lateral) (incidență de evacuare (subacromială Neer)) 84 ARTICULAȚIA GLENOHUMERALĂ 85 Anteroposterioară (AP) – în ortostatism 85 Anteroposterioară (AP) – în decubit dorsal (traumatism) 86 Incidență oblică de profil (lateral) „Y” (alternativă) – luxație articulară/suspiciune de fractură a humerusului proximal 86 MODIFICĂRI ALE TEHNICII (DUPĂ MANIPULARE) 87 Anteroposterioară (AP) – 25 grade caudal 87 Luxație recurentă a umărului 88 Anteroposterioară (AP) (profil lateral al humerusului) 88 Anteroposterioară (AP) (oblică a humerusului) 89 Anteroposterioară (AP) modificată – metoda Stryker 90 Inferosuperioară (axială) 90 TENDOANE CALCIFICATE 91 Anteroposterioară (AP) 92 Anteroposterioară (AP) – 25 grade caudal 93 Inferosuperioară (axială) 93 Articulații acromioclaviculare 94 Anteroposterioară (AP) 94 Claviculă 95 Posteroanterioară (PA) – în ortostatism (de bază) 95 Anteroposterioară (AP) – în decubit dorsal (alternativă) 96 Inferosuperioară (axială) 97 Inferosuperioară (axială) – în decubit dorsal 98 Articulații sternoclaviculare 99 Posteroanterioară (PA) oblică (de bază) 99 Semidecubit ventral (alternativă) 99 Posteroanterioară (PA) 100 Profil (lateral) 100 Scapulă 101 Anteroposterioară (AP) (de bază) – în ortostatism 101 Profil (lateral) (de bază) 102 Profil (lateral) (alternativă) 102 Proces coracoid 103 Anteroposterioară (AP) (braț în abducție) 103 CUPRINS
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism sau sits cu Profil (lateral) aspect de injured braț sprijinit pe casetă sau stativ vertical Bucky.
-• pacientul este rotit forwards until line joining medial și Profil (lateral) margini de Omoplat (Scapulă) este la drept-angles la caseta.
-• caseta este poziționat pentru include cap de Humerus și whole Omoplat (Scapulă).
-    - **Punct de Centrare Fascicul:** • orizontal X-ray fascicul este orientat la medial margine de Omoplat (Scapulă) și centred la capul de Humerus.
-76
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism sau șade, cu aspectul lateral al brațului lezat sprijinit pe casetă sau pe stativul vertical Bucky.
+        - Pacientul este rotit înainte până când linia care unește marginile medială și laterală ale scapulei este perpendiculară pe casetă.
+        - Caseta este poziționată pentru a include capul humerusului și întreaga scapulă.
+    - **Punct de Centrare Fascicul:**
+        - Fasciculul radiologic orizontal este orientat spre marginea medială a scapulei și centrat pe capul humerusului. 76
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee completă pe durata expunerii.
 
@@ -131,19 +139,19 @@ title: Rx Humerus Proximal (Col Chirurgical) Profil (Lateral) - infero - superio
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Omoplat (Scapulă) și upper end de Humerus trebuie să fie evidențiat clear de thoracic cage. Profil (lateral) Oblică incidență de neck de Humerus, evidențiind suspiciune de fractură
+    - Scapula și extremitatea superioară a humerusului trebuie evidențiate clar, separat de cutia toracică. Incidență oblică de profil (lateral) a colului humerusului, evidențiind suspiciunea de fractură
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,10 +163,10 @@ title: Rx Humerus Proximal (Col Chirurgical) Profil (Lateral) - infero - superio
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • expunere trebuie să fie made pe arrested respirație.
-• It este important that fără attempt este made la increase amount de movement that pacientul este able sau willing la make.
-Profil (lateral) Oblică This incidență este used when braț este imobilizat și fără abduction de braț este possible. stativ vertical Bucky technique poate fie necessary la improve imagine quality.
+    - Expunerea trebuie efectuată în apnee.
+    - Este important să nu se încerce creșterea amplitudinii mișcării pe care pacientul o poate sau dorește să o efectueze. Incidență oblică de profil (lateral). Această incidență se utilizează când brațul este imobilizat și abducția brațului nu este posibilă. Poate fi necesară tehnica cu stativ vertical Bucky pentru îmbunătățirea calității imaginii.
 
 
 ### 🖼️ Imagini
@@ -167,9 +175,9 @@ Profil (lateral) Oblică This incidență este used when braț este imobilizat �
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) Oblică incidență de neck de Humerus, evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-profil-lateral-infero-superior-p91-clark/fig_1.jpeg)
+![Incidență oblică de profil (lateral) a colului humerusului, evidențiind suspiciunea de fractură](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-profil-lateral-infero-superior-p91-clark/fig_1.jpeg)
 
-<figcaption><strong>Profil (lateral) Oblică incidență de neck de Humerus, evidențiind suspiciune de fractură</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență oblică de profil (lateral) a colului humerusului, evidențiind suspiciunea de fractură</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe Cot articulație, regardless de its location pe receptorul
+centering: perpendicular pe articulația cotului, indiferent de poziția sa pe receptorul
   de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
@@ -19,37 +19,42 @@ images:
 - caption: Merrill — pagina 325, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cot-incidenta-de-profil-lateral-lateromedial-pathology-p322-merrill/p325_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: When injury la părți moi around Cot este suspected, articulație trebuie să
-  fie flectat only 30 sau 35 grade (Fig. 5.115). This partial flexion does nu compress
-  sau stretch soft structures ca does full 90-grade lateral flexion. posterior fat
-  pad poate become vizibil în this poziție.
-position: se așază pacientul pe scaun la end de masa radiologică, low enough la place
-  Humerus și Cot articulație în same plane.; de la Decubit dorsal poziție, se flectează
-  Cot 90 grade, și place Humerus și Antebraț în contact cu masa de examinare. se centrează
-  receptorul de imagine la Cot articulație. se ajustează Cot articulație so that its
-  axa longitudinală este paralel cu axa longitudinală de Antebraț (Fig. 5.112). pe
-  pacienți cu muscular forearms, elevate Pumn (Articulație Radiocarpiană) la place
-  Antebraț paralel cu receptorul de imagine. la obtain Incidență de Profil (lateral)
-  de Cot, se ajustează Mână și Pumn (Articulație Radiocarpiană) în Incidență de Profil
-  (lateral) și ensure that humeral epicondyles sunt perpendicular pe plane de receptorul
-  de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Când se suspectează o leziune a părților moi din jurul cotului, articulația
+  trebuie flectată doar la 30 sau 35 grade (Fig. 5.115). Această flexie parțială nu
+  comprimă și nu întinde structurile moi, așa cum se întâmplă în flexia laterală completă
+  la 90 grade. Pernuța adipoasă posterioară poate deveni vizibilă în această poziție.
+position: se așază pacientul pe scaun la capătul mesei radiologice, suficient de jos
+  pentru a poziționa humerusul și articulația cotului în același plan.; din poziție
+  de decubit dorsal, se flectează cotul la 90 grade și se plasează humerusul și antebrațul
+  în contact cu masa de examinare. se centrează receptorul de imagine la articulația
+  cotului. se ajustează articulația cotului astfel încât axa sa longitudinală să fie
+  paralelă cu axa longitudinală a antebrațului (Fig. 5.112). La pacienții cu antebrațe
+  musculare, se ridică pumnul pentru a poziționa antebrațul paralel cu receptorul
+  de imagine. pentru a obține incidența de profil (laterală) a cotului, se ajustează
+  mâna și pumnul în incidență de profil (laterală) și se asigură perpendicularitatea
+  epicondililor humerali pe planul receptorului de imagine. se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Cot articulație centrat pe expunere field
-- 'Cot în true Incidență de Profil (lateral):'
-- Superimposed humeral epicondyles
-- tuberozitate radială bicipitală facing anteriorly
-- cap radial partially superimposing proces coronoid
-- olecran în profile
-- Cot flectat 90 grade
-- Bony detalii trabeculare osoase și orice ridicat fat pads în părți moi la anterior
-  și posterior distal Humerus și anterior proximal Antebraț
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația cotului centrată pe câmpul de expunere
+- 'Cot în incidență de profil (laterală) adevărată:'
+- Epicondili humerali suprapuși
+- tuberozitatea radială bicipitală orientată anterior
+- capul radial suprapunând parțial procesul coronoid
+- olecran în profil
+- Cot flectat la 90 grade
+- Detalii osoase trabeculare și orice pernuțe adipoase proeminente în părțile moi
+  anterior și posterior de humerusul distal și anterior de antebrațul proximal
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-cot-incidenta-de-profil-lateral-lateromedial-pathology-p322-merrill
 source_pages:
@@ -58,72 +63,66 @@ source_pages:
 - 324
 - 325
 source_sections:
-  anatomy: lateral incidență shows cot articulație, distal braț, și proximal forearm
-    (see Figs. 5.113 și 5.114).
-  collimation: • Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la
-    cot articulație. Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • perpendicular pe cot articulație, regardless de its location pe receptorul
+  anatomy: incidența laterală evidențiază articulația cotului, brațul distal și antebrațul
+    proximal (vezi Fig. 5.113 și 5.114).
+  collimation: • Se ajustează câmpul de iradiere la 3 țoli (8 cm) proximal și distal
+    față de articulația cotului. Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • perpendicular pe articulația cotului, indiferent de poziția sa pe receptorul
     de imagine
   criteria: 'Criterii radiologice de calitate imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar în afara anatomiei de interes
 
-    • cot articulație centrat pe expunere field
+    • articulația cotului centrată pe câmpul de expunere
 
-    • cot în true poziție de profil (lateral):
+    • cotul în poziție de profil (laterală) adevărată:
 
-    • Superimposed humeral epicondyles
+    • epicondilii humerali suprapuși
 
-    • tuberozitate radială bicipitală facing anteriorly
+    • tuberozitatea radială bicipitală orientată anterior
 
-    • cap radial partially superimposing proces coronoid
+    • capul radial suprapunând parțial procesul coronoid
 
-    • olecran în profile
+    • olecranul în profil
 
-    • cot flectat 90 grade
+    • cotul flectat la 90 grade
 
-    • Bony detalii trabeculare osoase și orice ridicat fat pads în părți moi la anterior
-    și posterior distal humerus și anterior
+    • detalii osoase trabeculare și orice pernuțe adipoase proeminente în părțile
+    moi anterior și posterior de humerusul distal și anterior de antebrațul proximal'
+  notes: Când se suspectează o leziune a părților moi din jurul cotului, articulația
+    trebuie flectată doar la 30 sau 35 grade (Fig. 5.115). Această flexie parțială
+    nu comprimă și nu întinde structurile moi, așa cum se întâmplă în flexia laterală
+    completă la 90 grade. Pernuța adipoasă posterioară poate deveni vizibilă în această
+    poziție.
+  part_pos: '• din decubit dorsal, se flectează cotul la 90 grade și se plasează humerusul
+    și antebrațul în contact cu masa de examinare.
 
-    proximal forearm'
-  notes: 'When injury la părți moi around cot este suspected, articulație trebuie
-    să fie flectat only 30 sau 35 grade (Fig. 5.115). This partial
+    • se centrează receptorul de imagine la articulația cotului. se ajustează articulația
+    cotului astfel încât axa sa longitudinală să fie paralelă cu axa longitudinală
+    a antebrațului (Fig. 5.112). La pacienții cu antebrațe musculare, se ridică pumnul
+    pentru a poziționa antebrațul paralel cu receptorul de imagine.
 
-    flexion does nu compress sau stretch soft structures ca does full 90-grade lateral
-    flexion. posterior fat pad poate become vizibil în
-
-    this poziție.'
-  part_pos: '• de la decubit dorsal, se flectează cot 90 grade, și place humerus și
-    forearm în contact cu masa de examinare.
-
-    • se centrează receptorul de imagine la cot articulație. se ajustează cot articulație
-    so that its axa longitudinală este paralel cu axa longitudinală de forearm (Fig.
-    5.112). pe
-
-    pacienți cu muscular forearms, elevate wrist la place forearm paralel cu receptorul
-    de imagine.
-
-    • la obtain lateral incidență de cot, se ajustează mână și wrist în poziție de
-    profil (lateral) și ensure that humeral epicondyles
-
-    sunt perpendicular pe plane de receptorul de imagine.
+    • pentru a obține incidența laterală a cotului, se ajustează mâna și pumnul în
+    poziție de profil (laterală) și se asigură perpendicularitatea epicondililor humerali
+    pe planul receptorului de imagine.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică, low enough
-    la place humerus și cot articulație în same plane.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • se așază pacientul pe scaun la capătul mesei radiologice, suficient
+    de jos pentru a poziționa humerusul și articulația cotului în același plan.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 322–325
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot
-    articulație. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Cot — Incidență de Profil (Lateral) — Latero-Medial pathology. (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 3 țoli (8 cm) proximal și distal
+    față de articulația cotului. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx Cot — Incidență de Profil (Lateral) — Latero-Medială pentru patologie. (Merrill)
 ---
-# Rx Cot — Incidență de Profil (Lateral) — Latero-Medial pathology. (Merrill)
+# Rx Cot — Incidență de Profil (Lateral) — Latero-Medială pentru patologie. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -147,17 +146,18 @@ title: Rx Cot — Incidență de Profil (Lateral) — Latero-Medial pathology. (
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică, low enough la place Humerus și Cot articulație în same plane.; de la Decubit dorsal poziție, se flectează Cot 90 grade, și place Humerus și Antebraț în contact cu masa de examinare. se centrează receptorul de imagine la Cot articulație. se ajustează Cot articulație so that its axa longitudinală este paralel cu axa longitudinală de Antebraț (Fig. 5.112). pe pacienți cu muscular forearms, elevate Pumn (Articulație Radiocarpiană) la place Antebraț paralel cu receptorul de imagine. la obtain Incidență de Profil (lateral) de Cot, se ajustează Mână și Pumn (Articulație Radiocarpiană) în Incidență de Profil (lateral) și ensure that humeral epicondyles sunt perpendicular pe plane de receptorul de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Cot articulație, regardless de its location pe receptorul de imagine
+    - **Poziție Pacient:** se așază pacientul pe scaun la capătul mesei radiologice, suficient de jos pentru a poziționa humerusul și articulația cotului în același plan.; din poziție de decubit dorsal, se flectează cotul la 90 grade și se plasează humerusul și antebrațul în contact cu masa de examinare. se centrează receptorul de imagine la articulația cotului. se ajustează articulația cotului astfel încât axa sa longitudinală să fie paralelă cu axa longitudinală a antebrațului (Fig. 5.112). La pacienții cu antebrațe musculare, se ridică pumnul pentru a poziționa antebrațul paralel cu receptorul de imagine. pentru a obține incidența de profil (laterală) a cotului, se ajustează mâna și pumnul în incidență de profil (laterală) și se asigură perpendicularitatea epicondililor humerali pe planul receptorului de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulația cotului, indiferent de poziția sa pe receptorul de imagine
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -173,23 +173,23 @@ title: Rx Cot — Incidență de Profil (Lateral) — Latero-Medial pathology. (
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot articulație. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 3 țoli (8 cm) proximal și distal față de articulația cotului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Cot articulație centrat pe expunere field
-    - Cot în true Incidență de Profil (lateral):
-    - Superimposed humeral epicondyles
-    - tuberozitate radială bicipitală facing anteriorly
-    - cap radial partially superimposing proces coronoid
-    - olecran în profile
-    - Cot flectat 90 grade
-    - Bony detalii trabeculare osoase și orice ridicat fat pads în părți moi la anterior și posterior distal Humerus și anterior proximal Antebraț
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația cotului centrată pe câmpul de expunere
+    - Cot în incidență de profil (laterală) adevărată:
+    - Epicondili humerali suprapuși
+    - tuberozitatea radială bicipitală orientată anterior
+    - capul radial suprapunând parțial procesul coronoid
+    - olecran în profil
+    - Cot flectat la 90 grade
+    - Detalii osoase trabeculare și orice pernuțe adipoase proeminente în părțile moi anterior și posterior de humerusul distal și anterior de antebrațul proximal
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -199,8 +199,9 @@ title: Rx Cot — Incidență de Profil (Lateral) — Latero-Medial pathology. (
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    When injury la părți moi around Cot este suspected, articulație trebuie să fie flectat only 30 sau 35 grade (Fig. 5.115). This partial flexion does nu compress sau stretch soft structures ca does full 90-grade lateral flexion. posterior fat pad poate become vizibil în this poziție.
+    Când se suspectează o leziune a părților moi din jurul cotului, articulația trebuie flectată doar la 30 sau 35 grade (Fig. 5.115). Această flexie parțială nu comprimă și nu întinde structurile moi, așa cum se întâmplă în flexia laterală completă la 90 grade. Pernuța adipoasă posterioară poate deveni vizibilă în această poziție.
 
 
 ### 🖼️ Imagini
@@ -253,55 +254,3 @@ title: Rx Cot — Incidență de Profil (Lateral) — Latero-Medial pathology. (
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 322–325](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență shows cot articulație, distal braț, și proximal forearm (see Figs. 5.113 și 5.114).
-
-### collimation
-
-• Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la cot articulație. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe cot articulație, regardless de its location pe receptorul de imagine
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cot articulație centrat pe expunere field
-• cot în true poziție de profil (lateral):
-• Superimposed humeral epicondyles
-• tuberozitate radială bicipitală facing anteriorly
-• cap radial partially superimposing proces coronoid
-• olecran în profile
-• cot flectat 90 grade
-• Bony detalii trabeculare osoase și orice ridicat fat pads în părți moi la anterior și posterior distal humerus și anterior
-proximal forearm
-
-### notes
-
-When injury la părți moi around cot este suspected, articulație trebuie să fie flectat only 30 sau 35 grade (Fig. 5.115). This partial
-flexion does nu compress sau stretch soft structures ca does full 90-grade lateral flexion. posterior fat pad poate become vizibil în
-this poziție.
-
-### part_pos
-
-• de la decubit dorsal, se flectează cot 90 grade, și place humerus și forearm în contact cu masa de examinare.
-• se centrează receptorul de imagine la cot articulație. se ajustează cot articulație so that its axa longitudinală este paralel cu axa longitudinală de forearm (Fig. 5.112). pe
-pacienți cu muscular forearms, elevate wrist la place forearm paralel cu receptorul de imagine.
-• la obtain lateral incidență de cot, se ajustează mână și wrist în poziție de profil (lateral) și ensure that humeral epicondyles
-sunt perpendicular pe plane de receptorul de imagine.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică, low enough la place humerus și cot articulație în same plane.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

@@ -2,92 +2,94 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe receptorul de imagine (RI), entering Genunchi la midpatellofemoral
-  articulație.
+centering: Perpendicular pe receptorul de imagine (RI), pătrunzând la nivelul articulației
+  patelofemurale medii.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 566, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-rotula-patela-incidenta-de-profil-lateral-mediolateral-p565-merrill/p566_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în lateral Decubit poziție.; Se instruiește pacientul
-  să turn onto afected Șold. săculeți cu nisip poate fie plasat under Gleznă (Articulație
-  Talocrurală) pentru support. Se instruiește pacientul să se flectează unafected
-  Genunchi și Șold și place unafected Picior în front de afected extremity pentru
-  stability. se flectează afected Genunchi approximately 5 la 10 grade. Increasing
-  flexion reduces patellofemoral spații articulare. se ajustează Genunchi în Incidență
-  de Profil (lateral) astfel încât femoral epicondyles sunt superimposed, și Rotulă
-  (Patelă) este perpendicular pe receptorul de imagine (RI) (Fig. 7.149). se centrează
-  receptorul de imagine la Rotulă (Patelă). se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+position: Se așază pacientul în decubit lateral. Se instruiește pacientul să se întoarcă
+  pe șoldul afectat. Se pot plasa săculeți cu nisip sub gleznă pentru susținere. Se
+  instruiește pacientul să flecteze genunchiul și șoldul neafectate și să plaseze
+  piciorul neafectat în fața extremității afectate pentru stabilitate. Se flectează
+  genunchiul afectat aproximativ 5 la 10 grade. Creșterea flexiei reduce spațiile
+  articulare patelofemurale. Se ajustează genunchiul în incidență de profil astfel
+  încât epicondilii femurali să fie suprapuși, iar rotula să fie perpendiculară pe
+  receptorul de imagine (RI) (Fig. 7.149). Se centrează receptorul de imagine la nivelul
+  rotulei. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
 - Genunchi flectat 5 la 10 grade
-- Rotulă (Patelă) în lateral profile
-- Open patellofemoral spații articulare
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- Rotula în profil lateral
+- Spații articulare patelofemurale deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-rotula-patela-incidenta-de-profil-lateral-mediolateral-p565-merrill
 source_pages:
 - 565
 - 566
 source_sections:
-  anatomy: lateral incidență de rotulă (patelă) și patellofemoral spații articulare
-    (Figs. 7.150 și 7.151).
-  collimation: • se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • perpendicular pe receptorul de imagine (RI), entering genunchi la midpatellofemoral
-    articulație.
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Incidență laterală a rotulei și a spațiilor articulare patelofemurale (Fig.
+    7.150 și 7.151).
+  collimation: • ajustați câmpul de iradiere la 4 × 4 țoli (10 × 10 cm) pe colimator.
+    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe receptorul de imagine (RI), pătrunzând la nivelul articulației
+    patelofemurale medii.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • genunchi flectat 5 la 10 grade
+    • Genunchi flectat 5 la 10 grade
 
-    • rotulă (patelă) în lateral profile
+    • Rotula în profil lateral
 
-    • Open patellofemoral spații articulare
+    • Spații articulare patelofemurale deschise
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Se instruiește pacientul să turn onto afected hip. săculeți cu nisip
-    poate fie plasat under ankle pentru support.
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Se instruiește pacientul să se întoarcă pe șoldul afectat. Se pot plasa
+    săculeți cu nisip sub gleznă pentru susținere.
 
-    • Se instruiește pacientul să se flectează unafected genunchi și hip și place
-    unafected picior în front de afected extremity pentru stability.
+    • Se instruiește pacientul să flecteze genunchiul și șoldul neafectate și să plaseze
+    piciorul neafectat în fața extremității afectate pentru stabilitate.
 
-    • se flectează afected genunchi approximately 5 la 10 grade. Increasing flexion
-    reduces patellofemoral spații articulare.
+    • Se flectează genunchiul afectat aproximativ 5 la 10 grade. Creșterea flexiei
+    reduce spațiile articulare patelofemurale.
 
-    • se ajustează genunchi în poziție de profil (lateral) astfel încât femoral epicondyles
-    sunt superimposed, și rotulă (patelă) este perpendicular pe receptorul de imagine
-    (RI) (Fig.
+    • Se ajustează genunchiul în poziție de profil astfel încât epicondilii femurali
+    să fie suprapuși, iar rotula să fie perpendiculară pe receptorul de imagine (RI)
+    (Fig. 7.149).
 
-    7.149).
+    • Se centrează receptorul de imagine la nivelul rotulei.
 
-    • se centrează receptorul de imagine la rotulă (patelă).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în lateral recumbent poziție.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în decubit lateral.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 565–566
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Rotulă (Patelă) — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+  collimation: Ajustați câmpul de iradiere la 4 × 4 țoli (10 × 10 cm) pe colimator.
+    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx rotulă — incidență de profil — mediolaterală (Merrill)
 ---
-# Rx Rotulă (Patelă) — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+# Rx rotulă — incidență de profil — mediolaterală (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -111,17 +113,18 @@ title: Rx Rotulă (Patelă) — Incidență de Profil (Lateral) — Medio-Latera
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în lateral Decubit poziție.; Se instruiește pacientul să turn onto afected Șold. săculeți cu nisip poate fie plasat under Gleznă (Articulație Talocrurală) pentru support. Se instruiește pacientul să se flectează unafected Genunchi și Șold și place unafected Picior în front de afected extremity pentru stability. se flectează afected Genunchi approximately 5 la 10 grade. Increasing flexion reduces patellofemoral spații articulare. se ajustează Genunchi în Incidență de Profil (lateral) astfel încât femoral epicondyles sunt superimposed, și Rotulă (Patelă) este perpendicular pe receptorul de imagine (RI) (Fig. 7.149). se centrează receptorul de imagine la Rotulă (Patelă). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI), entering Genunchi la midpatellofemoral articulație.
+    - **Poziție Pacient:** Se așază pacientul în decubit lateral. Se instruiește pacientul să se întoarcă pe șoldul afectat. Se pot plasa săculeți cu nisip sub gleznă pentru susținere. Se instruiește pacientul să flecteze genunchiul și șoldul neafectate și să plaseze piciorul neafectat în fața extremității afectate pentru stabilitate. Se flectează genunchiul afectat aproximativ 5 la 10 grade. Creșterea flexiei reduce spațiile articulare patelofemurale. Se ajustează genunchiul în incidență de profil astfel încât epicondilii femurali să fie suprapuși, iar rotula să fie perpendiculară pe receptorul de imagine (RI) (Fig. 7.149). Se centrează receptorul de imagine la nivelul rotulei. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine (RI), pătrunzând la nivelul articulației patelofemurale medii.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -137,19 +140,19 @@ title: Rx Rotulă (Patelă) — Incidență de Profil (Lateral) — Medio-Latera
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 4 × 4 țoli (10 × 10 cm) pe colimator. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
     - Genunchi flectat 5 la 10 grade
-    - Rotulă (Patelă) în lateral profile
-    - Open patellofemoral spații articulare
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Rotula în profil lateral
+    - Spații articulare patelofemurale deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -158,6 +161,7 @@ title: Rx Rotulă (Patelă) — Incidență de Profil (Lateral) — Medio-Latera
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -189,45 +193,3 @@ title: Rx Rotulă (Patelă) — Incidență de Profil (Lateral) — Medio-Latera
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 565–566](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență de rotulă (patelă) și patellofemoral spații articulare (Figs. 7.150 și 7.151).
-
-### collimation
-
-• se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe receptorul de imagine (RI), entering genunchi la midpatellofemoral articulație.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• genunchi flectat 5 la 10 grade
-• rotulă (patelă) în lateral profile
-• Open patellofemoral spații articulare
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Se instruiește pacientul să turn onto afected hip. săculeți cu nisip poate fie plasat under ankle pentru support.
-• Se instruiește pacientul să se flectează unafected genunchi și hip și place unafected picior în front de afected extremity pentru stability.
-• se flectează afected genunchi approximately 5 la 10 grade. Increasing flexion reduces patellofemoral spații articulare.
-• se ajustează genunchi în poziție de profil (lateral) astfel încât femoral epicondyles sunt superimposed, și rotulă (patelă) este perpendicular pe receptorul de imagine (RI) (Fig.
-7.149).
-• se centrează receptorul de imagine la rotulă (patelă).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în lateral recumbent poziție.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

@@ -2,10 +2,10 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe spații articulare între Rotulă (Patelă) și femoral condyles
-  when articulație este perpendicular. When articulație este nu perpendicular, grade
-  de raza centrală angulation depends pe grade de flexion de Genunchi. angulation
-  typically este 15 la 20
+centering: Perpendicular pe spațiile articulare dintre rotulă și condilii femurali
+  când articulația este perpendiculară. Când articulația nu este perpendiculară, gradul
+  de angulație a razei centrale depinde de gradul de flexie a genunchiului. Angulația
+  este de obicei între 15 și 20 [fragment deteriorat în sursă]
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -21,26 +21,31 @@ images:
 - caption: Merrill — pagina 575, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-settegast-p573-merrill/p575_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: When raza centrală este orientat spre pacientul’s upper corp (Figs. 7.159 și
-  7.160), thorax și thyroid trebuie să fie ecranat.
-position: se așază pacientul în Decubit dorsal sau Decubit ventral poziție. latter
-  este preferable because Genunchi poate usually fie flectat la greater grade, și
-  imobilizare este easier (Figs. 7.157 și 7.158). If pacientul este Poziție Șezândă
-  pe masa radiologică, hold receptorul de imagine securely în place (Fig. 7.159).
-  Alternative poziții sunt vizualizat în Figs. 7.160 și 7.161.; se flectează pacient’s
-  Genunchi slowly ca much ca possible sau until Rotulă (Patelă) este perpendicular
-  pe receptorul de imagine (RI) if pacientul’s condition permits. cu slow, even flexion,
-  pacientul trebuie să fie able la tolerate poziție, whereas quick, uneven flexion
-  poate cause too much pain. If desired, loop long strip de bandage around pacientul’s
-  Gleznă (Articulație Talocrurală) sau Picior. Se instruiește pacientul să grasp ends
-  over Umăr la hold membru inferior în poziție. Gently se ajustează membru inferior
-  so that its axa longitudinală este vertical. Place receptorul de imagine transversely
-  under Genunchi, și center it la spații articulare între Rotulă (Patelă) și femoral
-  condyles. se efectuează ecranarea gonadelor cu șorț plumbat. prin maintaining same
-  OID și SID relationships, this poziție poate fie obtained cu pacientul în lateral
-  sau Poziție Șezândă poziție (Figs. 7.160 și 7.161).
+notes: Când raza centrală este orientată spre partea superioară a corpului pacientului
+  (Fig. 7.159 și 7.160), toracele și tiroida trebuie ecranate.
+position: Se așază pacientul în decubit dorsal sau în decubit ventral. Aceasta din
+  urmă este preferabilă deoarece genunchiul poate fi de obicei flectat într-un grad
+  mai mare, iar imobilizarea este mai ușoară (Fig. 7.157 și 7.158). Dacă pacientul
+  este așezat pe masa radiologică, se ține receptorul de imagine fix în poziție (Fig.
+  7.159). Pozițiile alternative sunt prezentate în Fig. 7.160 și 7.161.; se flectează
+  lent genunchiul pacientului cât mai mult posibil sau până când rotula este perpendiculară
+  pe receptorul de imagine (RI), dacă starea pacientului permite. Cu o flexie lentă
+  și uniformă, pacientul trebuie să poată tolera poziția, în timp ce flexia rapidă
+  și neuniformă poate provoca durere prea mare. Dacă se dorește, se înfășoară o fâșie
+  lungă de bandaj în jurul gleznei sau piciorului pacientului. Se instruiește pacientul
+  să prindă capetele peste umăr pentru a menține membrul inferior în poziție. Se ajustează
+  ușor membrul inferior astfel încât axa sa longitudinală să fie verticală. Se plasează
+  receptorul de imagine transversal sub genunchi și se centrează la nivelul spațiilor
+  articulare dintre rotulă și condilii femurali. Se efectuează ecranarea gonadelor
+  cu șorț plumbat. Prin menținerea acelorași relații OID și SID, această poziție poate
+  fi obținută cu pacientul în decubit lateral sau în poziție șezândă (Fig. 7.160 și
+  7.161).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -52,54 +57,49 @@ source_pages:
 - 574
 - 575
 source_sections:
-  cr: '• perpendicular pe spații articulare între rotulă (patelă) și femoral condyles
-    when articulație este perpendicular. When articulație este nu
+  cr: • Perpendicular pe spațiile articulare dintre rotulă și condilii femurali când
+    articulația este perpendiculară. Când articulația nu este perpendiculară, gradul
+    de angulație a razei centrale depinde de gradul de flexie a genunchiului. Angulația
+    este de obicei între 15 și 20 [fragment deteriorat în sursă]
+  notes: Când raza centrală este orientată spre partea superioară a corpului pacientului
+    (Fig. 7.159 și 7.160), toracele și tiroida trebuie ecranate.
+  part_pos: '• Se flectează lent genunchiul pacientului cât mai mult posibil sau până
+    când rotula este perpendiculară pe receptorul de imagine (RI), dacă starea pacientului
+    permite. Cu o flexie lentă și uniformă, pacientul trebuie să poată tolera poziția,
+    în timp ce flexia rapidă și neuniformă poate provoca durere prea mare.
 
-    perpendicular, grade de raza centrală angulation depends pe grade de flexion de
-    genunchi. angulation typically este 15 la 20'
-  notes: When raza centrală este orientat spre pacientul’s upper corp (Figs. 7.159
-    și 7.160), thorax și thyroid trebuie să fie ecranat.
-  part_pos: '• se flectează pacient’s genunchi slowly ca much ca possible sau until
-    rotulă (patelă) este perpendicular pe receptorul de imagine (RI) if pacientul’s
-    condition permits. cu
+    • Dacă se dorește, se înfășoară o fâșie lungă de bandaj în jurul gleznei sau piciorului
+    pacientului. Se instruiește pacientul să prindă capetele peste umăr pentru a menține
+    membrul inferior în poziție. Se ajustează ușor membrul inferior astfel încât axa
+    sa longitudinală să fie verticală.
 
-    slow, even flexion, pacientul trebuie să fie able la tolerate poziție, whereas
-    quick, uneven flexion poate cause too much pain.
+    • Se plasează receptorul de imagine transversal sub genunchi și se centrează la
+    nivelul spațiilor articulare dintre rotulă și condilii femurali.
 
-    • If desired, loop long strip de bandage around pacientul’s ankle sau picior.
-    Se instruiește pacientul să grasp ends over umăr la hold membru inferior în poziție.
-    Gently se ajustează membru inferior so that its axa longitudinală este vertical.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.
 
-    • Place receptorul de imagine transversely under genunchi, și center it la spații
-    articulare între rotulă (patelă) și femoral condyles.
+    • Prin menținerea acelorași relații OID și SID, această poziție poate fi obținută
+    cu pacientul în decubit lateral sau în poziție șezândă (Fig. 7.160 și 7.161).'
+  patient_pos: '• Se așază pacientul în decubit dorsal sau în decubit ventral. Aceasta
+    din urmă este preferabilă deoarece genunchiul poate fi de obicei flectat într-un
+    grad mai mare, iar imobilizarea este mai ușoară (Fig. 7.157 și 7.158).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.
-
-    • prin maintaining same OID și SID relationships, this poziție poate fie obtained
-    cu pacientul în lateral sau așezat pe scaun poziție (Figs.
-
-    7.160 și 7.161).'
-  patient_pos: '• se așază pacientul în decubit dorsal sau decubit ventral. latter
-    este preferable because genunchi poate usually fie flectat la greater grade, și
-
-    imobilizare este easier (Figs. 7.157 și 7.158).
-
-    • If pacientul este așezat pe scaun pe masa radiologică, hold receptorul de imagine
-    securely în place (Fig. 7.159). Alternative poziții sunt vizualizat în Figs. 7.160
-
-    și 7.161.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Dacă pacientul este așezat pe scaun pe masa radiologică, se ține receptorul
+    de imagine fix în poziție (Fig. 7.159). Pozițiile alternative sunt prezentate
+    în Fig. 7.160 și 7.161.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 573–575
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență — Metoda
-  Settegast (Merrill)
+title: Rx rotulă și articulație patelofemurală — incidență tangențială — metoda Settegast
+  (Merrill)
 ---
-# Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență — Metoda Settegast (Merrill)
+# Rx rotulă și articulație patelofemurală — incidență tangențială — metoda Settegast (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -123,17 +123,18 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau Decubit ventral poziție. latter este preferable because Genunchi poate usually fie flectat la greater grade, și imobilizare este easier (Figs. 7.157 și 7.158). If pacientul este Poziție Șezândă pe masa radiologică, hold receptorul de imagine securely în place (Fig. 7.159). Alternative poziții sunt vizualizat în Figs. 7.160 și 7.161.; se flectează pacient’s Genunchi slowly ca much ca possible sau until Rotulă (Patelă) este perpendicular pe receptorul de imagine (RI) if pacientul’s condition permits. cu slow, even flexion, pacientul trebuie să fie able la tolerate poziție, whereas quick, uneven flexion poate cause too much pain. If desired, loop long strip de bandage around pacientul’s Gleznă (Articulație Talocrurală) sau Picior. Se instruiește pacientul să grasp ends over Umăr la hold membru inferior în poziție. Gently se ajustează membru inferior so that its axa longitudinală este vertical. Place receptorul de imagine transversely under Genunchi, și center it la spații articulare între Rotulă (Patelă) și femoral condyles. se efectuează ecranarea gonadelor cu șorț plumbat. prin maintaining same OID și SID relationships, this poziție poate fie obtained cu pacientul în lateral sau Poziție Șezândă poziție (Figs. 7.160 și 7.161).
-    - **Punct de Centrare Fascicul:** perpendicular pe spații articulare între Rotulă (Patelă) și femoral condyles when articulație este perpendicular. When articulație este nu perpendicular, grade de raza centrală angulation depends pe grade de flexion de Genunchi. angulation typically este 15 la 20
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în decubit ventral. Aceasta din urmă este preferabilă deoarece genunchiul poate fi de obicei flectat într-un grad mai mare, iar imobilizarea este mai ușoară (Fig. 7.157 și 7.158). Dacă pacientul este așezat pe masa radiologică, se ține receptorul de imagine fix în poziție (Fig. 7.159). Pozițiile alternative sunt prezentate în Fig. 7.160 și 7.161.; se flectează lent genunchiul pacientului cât mai mult posibil sau până când rotula este perpendiculară pe receptorul de imagine (RI), dacă starea pacientului permite. Cu o flexie lentă și uniformă, pacientul trebuie să poată tolera poziția, în timp ce flexia rapidă și neuniformă poate provoca durere prea mare. Dacă se dorește, se înfășoară o fâșie lungă de bandaj în jurul gleznei sau piciorului pacientului. Se instruiește pacientul să prindă capetele peste umăr pentru a menține membrul inferior în poziție. Se ajustează ușor membrul inferior astfel încât axa sa longitudinală să fie verticală. Se plasează receptorul de imagine transversal sub genunchi și se centrează la nivelul spațiilor articulare dintre rotulă și condilii femurali. Se efectuează ecranarea gonadelor cu șorț plumbat. Prin menținerea acelorași relații OID și SID, această poziție poate fi obținută cu pacientul în decubit lateral sau în poziție șezândă (Fig. 7.160 și 7.161).
+    - **Punct de Centrare Fascicul:** Perpendicular pe spațiile articulare dintre rotulă și condilii femurali când articulația este perpendiculară. Când articulația nu este perpendiculară, gradul de angulație a razei centrale depinde de gradul de flexie a genunchiului. Angulația este de obicei între 15 și 20 [fragment deteriorat în sursă]
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -166,8 +167,9 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    When raza centrală este orientat spre pacientul’s upper corp (Figs. 7.159 și 7.160), thorax și thyroid trebuie să fie ecranat.
+    Când raza centrală este orientată spre partea superioară a corpului pacientului (Fig. 7.159 și 7.160), toracele și tiroida trebuie ecranate.
 
 
 ### 🖼️ Imagini
@@ -220,36 +222,3 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 573–575](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### cr
-
-• perpendicular pe spații articulare între rotulă (patelă) și femoral condyles when articulație este perpendicular. When articulație este nu
-perpendicular, grade de raza centrală angulation depends pe grade de flexion de genunchi. angulation typically este 15 la 20
-
-### notes
-
-When raza centrală este orientat spre pacientul’s upper corp (Figs. 7.159 și 7.160), thorax și thyroid trebuie să fie ecranat.
-
-### part_pos
-
-• se flectează pacient’s genunchi slowly ca much ca possible sau until rotulă (patelă) este perpendicular pe receptorul de imagine (RI) if pacientul’s condition permits. cu
-slow, even flexion, pacientul trebuie să fie able la tolerate poziție, whereas quick, uneven flexion poate cause too much pain.
-• If desired, loop long strip de bandage around pacientul’s ankle sau picior. Se instruiește pacientul să grasp ends over umăr la hold membru inferior în poziție. Gently se ajustează membru inferior so that its axa longitudinală este vertical.
-• Place receptorul de imagine transversely under genunchi, și center it la spații articulare între rotulă (patelă) și femoral condyles.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-• prin maintaining same OID și SID relationships, this poziție poate fie obtained cu pacientul în lateral sau așezat pe scaun poziție (Figs.
-7.160 și 7.161).
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau decubit ventral. latter este preferable because genunchi poate usually fie flectat la greater grade, și
-imobilizare este easier (Figs. 7.157 și 7.158).
-• If pacientul este așezat pe scaun pe masa radiologică, hold receptorul de imagine securely în place (Fig. 7.159). Alternative poziții sunt vizualizat în Figs. 7.160
-și 7.161.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

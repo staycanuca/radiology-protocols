@@ -2,47 +2,53 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: membru-superior
-centering: Humerus Omoplat (Scapulă) 35°-45° Fig. 5.58 superior incidență de AP oblic.
-  Fig. 5.60 AP Incidență Oblică (Grashey method).
+centering: Humerus Omoplat (Scapulă) 35°-45° Fig. 5.58 incidență AP oblică superioară.
+  Fig. 5.60 Incidență AP oblică (metoda Grashey).
 clinical_indications:
-- suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus
-- suspiciune de fractură de glenoid labrum sau brim
-- Bankart lesion, erosion de glenoid rim, integrity de scapulohumeral articulație,
-  și other degenerative conditions
+- Suspiciune de fractură sau luxație / subluxație articulară a humerusului proximal
+- Suspiciune de fractură a labrumului glenoid sau a marginii glenoide
+- Leziune Bankart, eroziunea marginii glenoide, integritatea articulației scapulohumerale
+  și alte afecțiuni degenerative
 images:
-- caption: Fig. 5.58 superior incidență de AP oblic.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.58 superior
-    incidență de AP oblic.)
+- caption: Fig. 5.58 incidență AP oblică superioară.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 5.58 incidență
+    AP oblică superioară.)
   url: assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_1.jpeg
-- caption: Fig. 5.60 AP Incidență Oblică (Grashey method).
+- caption: Fig. 5.60 Incidență AP oblică (metoda Grashey).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.60
-    AP oblic incidență (Grashey method).)
+    incidență AP oblică (metoda Grashey).)
   url: assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_2.jpeg
-- caption: Fig. 5.59 AP Incidență Oblică—drept posterior oblic (RPO)
+- caption: Fig. 5.59 Incidență AP oblică — oblică posterioară dreaptă (RPO)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.59
-    AP oblic incidență—drept posterior oblic (RPO))
+    incidență AP oblică — oblică posterioară dreaptă (RPO))
   url: assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_3.jpeg
-- caption: Fig. 5.61 AP Incidență Oblică (Grashey method).
+- caption: Fig. 5.61 Incidență AP oblică (metoda Grashey).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.61
-    AP oblic incidență (Grashey method).)
+    incidență AP oblică (metoda Grashey).)
   url: assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: grade de rotație varies, depending pe how flat sau round pacientul’s umeri
-  sunt sau if poziție este performed Decubit rather than Ortostatism. Having rounded
-  sau curved Umăr sau using Decubit poziție requires more rotație la place corp de
-  Omoplat (Scapulă) paralel cu receptorul de imagine (RI). Umăr (Nontraumatism acut)
-  SPECIAL AP Incidență Oblică (Grashey method) Apical Incidență AP Axială 2 inches
-position: 'Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal
-  poziție. (Ortostatism poziție este usually less painful pentru pacient, if condition
-  allows.); Regiune anatomică: Rotate corp 35° la 45° spre affected side (see NOTE)
-  (Fig. 5.58). If poziție este performed cu pacientul în Decubit poziție, place supports
-  under ridicat Umăr și Șold la maintain this poziție. Center midscapulohumeral articulație
-  la raza centrală și center de receptorul de imagine. Adjust receptorul de imagine
-  so that top de receptorul de imagine este approximately 2 inches (5 cm) above Umăr
-  și side de receptorul de imagine este approximately 2 inches (5 cm) de la lateral
-  margine de Humerus (Fig. 5.59). Abduct braț slightly cu braț flectat și în neutral
-  rotație.'
+notes: Gradul de rotație variază în funcție de cât de plați sau rotunjiți sunt umerii
+  pacientului sau dacă poziționarea se efectuează în decubit în loc de ortostatism.
+  Umerii rotunjiți sau curbați ori utilizarea poziției în decubit necesită o rotație
+  mai mare pentru a plasa corpul omoplatului (scapulei) paralel cu receptorul de imagine
+  (RI). Umăr (nontraumatism acut) incidență AP oblică specială Incidență AP axială
+  apicală 2 țoli
+position: 'Pacient: Se efectuează radiografia cu pacientul în ortostatism sau în decubit
+  dorsal. (Poziția în ortostatism este de obicei mai puțin dureroasă pentru pacient,
+  dacă starea permite.); Regiune anatomică: Se rotește corpul cu 35° la 45° spre partea
+  afectată (vezi NOTA) (Fig. 5.58). Dacă poziționarea se efectuează cu pacientul în
+  decubit, se plasează suporturi sub umărul și șoldul ridicate pentru a menține această
+  poziție. Se centrează articulația midscapulohumerală la raza centrală și la centrul
+  receptorului de imagine. Se ajustează receptorul de imagine astfel încât partea
+  superioară a receptorului de imagine să fie la aproximativ 2 țoli (5 cm) deasupra
+  umărului, iar partea laterală a receptorului de imagine să fie la aproximativ 2
+  țoli (5 cm) față de marginea laterală a humerusului (Fig. 5.59). Se abduce ușor
+  brațul, cu cotul flectat și în rotație neutră.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,35 +56,36 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'cavitate glenoidă trebuie să fie seen în profile fără superimposition de cap humeral
-  (Figs. 5.60 și 5.61). poziție:'
-- Scapulohumeral spații articulare trebuie să fie open.
-- anterior și posterior rims de cavitate glenoidă sunt superimposed.
-- 'Collimation field size la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare visualize părți
-  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
-  de mișcare.
-- părți moi detail de spații articulare și axilla trebuie să fie visualized. Fig.
-  5.59 AP Incidență Oblică—drept posterior oblic (RPO) poziție. R acromion cavitate
-  glenoidă cap de Humerus Scapulohumeral articulație proces coracoid Fig. 5.61 AP
-  Incidență Oblică (Grashey method).
+- 'Cavitatea glenoidă trebuie să fie vizibilă în profil, fără suprapunerea capului
+  humeral (Figs. 5.60 și 5.61). Poziție:'
+- Spațiile articulare scapulohumerale trebuie să fie deschise.
+- Marginile anterioară și posterioară ale cavității glenoide sunt suprapuse.
+- 'Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:'
+- Expunere și contrast optime ale receptorului de imagine, fără mișcare; vizualizare
+  a marginilor țesuturilor moi și a contururilor osoase clare, precum și a traveelor
+  trabeculare nete, fără artefacte de mișcare.
+- Detaliile țesuturilor moi ale spațiilor articulare și axilei trebuie să fie vizualizate.
+  Fig. 5.59 Incidență AP oblică — poziție oblică posterioară dreaptă (RPO). R acromion
+  cavitate glenoidă capul humerusului articulație scapulohumerală proces coracoid
+  Fig. 5.61 Incidență AP oblică (metoda Grashey).
 sid_dff: 100 cm
 slug: rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 209
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Field Size Collimate so that upper și lateral margini de field sunt
-    la părți moi margins.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: 'Dimensiunea câmpului: Se colimează astfel încât marginile superioară
+    și laterală ale câmpului să fie la nivelul marginilor țesuturilor moi.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx GLENOID CAVITY AP Oblică (Umăr (NONtraumatism acut) - GRASHEY METHOD)
+title: Rx cavitate glenoidă — incidență AP oblică (umăr (nontraumatism acut) — metoda
+  Grashey)
 ---
-# Rx GLENOID CAVITY AP Oblică (Umăr (NONtraumatism acut) - GRASHEY METHOD)
+# Rx cavitate glenoidă — incidență AP oblică (umăr (nontraumatism acut) — metoda Grashey)
 
 
 <div class="rx-meta-bar">
@@ -97,24 +104,25 @@ title: Rx GLENOID CAVITY AP Oblică (Umăr (NONtraumatism acut) - GRASHEY METHOD
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură sau luxație / subluxație articulară de proximal Humerus
-        - suspiciune de fractură de glenoid labrum sau brim
-        - Bankart lesion, erosion de glenoid rim, integrity de scapulohumeral articulație, și other degenerative conditions
+        - Suspiciune de fractură sau luxație / subluxație articulară a humerusului proximal
+        - Suspiciune de fractură a labrumului glenoid sau a marginii glenoide
+        - Leziune Bankart, eroziunea marginii glenoide, integritatea articulației scapulohumerale și alte afecțiuni degenerative
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Perform radiografie cu pacient în Ortostatism sau Decubit dorsal poziție. (Ortostatism poziție este usually less painful pentru pacient, if condition allows.); Regiune anatomică: Rotate corp 35° la 45° spre affected side (see NOTE) (Fig. 5.58). If poziție este performed cu pacientul în Decubit poziție, place supports under ridicat Umăr și Șold la maintain this poziție. Center midscapulohumeral articulație la raza centrală și center de receptorul de imagine. Adjust receptorul de imagine so that top de receptorul de imagine este approximately 2 inches (5 cm) above Umăr și side de receptorul de imagine este approximately 2 inches (5 cm) de la lateral margine de Humerus (Fig. 5.59). Abduct braț slightly cu braț flectat și în neutral rotație.
-    - **Punct de Centrare Fascicul:** Humerus Omoplat (Scapulă) 35°-45° Fig. 5.58 superior incidență de AP oblic. Fig. 5.60 AP Incidență Oblică (Grashey method).
+    - **Poziție Pacient:** Pacient: Se efectuează radiografia cu pacientul în ortostatism sau în decubit dorsal. (Poziția în ortostatism este de obicei mai puțin dureroasă pentru pacient, dacă starea permite.); Regiune anatomică: Se rotește corpul cu 35° la 45° spre partea afectată (vezi NOTA) (Fig. 5.58). Dacă poziționarea se efectuează cu pacientul în decubit, se plasează suporturi sub umărul și șoldul ridicate pentru a menține această poziție. Se centrează articulația midscapulohumerală la raza centrală și la centrul receptorului de imagine. Se ajustează receptorul de imagine astfel încât partea superioară a receptorului de imagine să fie la aproximativ 2 țoli (5 cm) deasupra umărului, iar partea laterală a receptorului de imagine să fie la aproximativ 2 țoli (5 cm) față de marginea laterală a humerusului (Fig. 5.59). Se abduce ușor brațul, cu cotul flectat și în rotație neutră.
+    - **Punct de Centrare Fascicul:** Humerus Omoplat (Scapulă) 35°-45° Fig. 5.58 incidență AP oblică superioară. Fig. 5.60 Incidență AP oblică (metoda Grashey).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -129,20 +137,20 @@ title: Rx GLENOID CAVITY AP Oblică (Umăr (NONtraumatism acut) - GRASHEY METHOD
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Field Size Collimate so that upper și lateral margini de field sunt la părți moi margins. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Se colimează astfel încât marginile superioară și laterală ale câmpului să fie la nivelul marginilor țesuturilor moi. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - cavitate glenoidă trebuie să fie seen în profile fără superimposition de cap humeral (Figs. 5.60 și 5.61). poziție:
-    - Scapulohumeral spații articulare trebuie să fie open.
-    - anterior și posterior rims de cavitate glenoidă sunt superimposed.
-    - Collimation field size la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare visualize părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
-    - părți moi detail de spații articulare și axilla trebuie să fie visualized. Fig. 5.59 AP Incidență Oblică—drept posterior oblic (RPO) poziție. R acromion cavitate glenoidă cap de Humerus Scapulohumeral articulație proces coracoid Fig. 5.61 AP Incidență Oblică (Grashey method).
+    - Cavitatea glenoidă trebuie să fie vizibilă în profil, fără suprapunerea capului humeral (Figs. 5.60 și 5.61). Poziție:
+    - Spațiile articulare scapulohumerale trebuie să fie deschise.
+    - Marginile anterioară și posterioară ale cavității glenoide sunt suprapuse.
+    - Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:
+    - Expunere și contrast optime ale receptorului de imagine, fără mișcare; vizualizare a marginilor țesuturilor moi și a contururilor osoase clare, precum și a traveelor trabeculare nete, fără artefacte de mișcare.
+    - Detaliile țesuturilor moi ale spațiilor articulare și axilei trebuie să fie vizualizate. Fig. 5.59 Incidență AP oblică — poziție oblică posterioară dreaptă (RPO). R acromion cavitate glenoidă capul humerusului articulație scapulohumerală proces coracoid Fig. 5.61 Incidență AP oblică (metoda Grashey).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,8 +162,9 @@ title: Rx GLENOID CAVITY AP Oblică (Umăr (NONtraumatism acut) - GRASHEY METHOD
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    grade de rotație varies, depending pe how flat sau round pacientul’s umeri sunt sau if poziție este performed Decubit rather than Ortostatism. Having rounded sau curved Umăr sau using Decubit poziție requires more rotație la place corp de Omoplat (Scapulă) paralel cu receptorul de imagine (RI). Umăr (Nontraumatism acut) SPECIAL AP Incidență Oblică (Grashey method) Apical Incidență AP Axială 2 inches
+    Gradul de rotație variază în funcție de cât de plați sau rotunjiți sunt umerii pacientului sau dacă poziționarea se efectuează în decubit în loc de ortostatism. Umerii rotunjiți sau curbați ori utilizarea poziției în decubit necesită o rotație mai mare pentru a plasa corpul omoplatului (scapulei) paralel cu receptorul de imagine (RI). Umăr (nontraumatism acut) incidență AP oblică specială Incidență AP axială apicală 2 țoli
 
 
 ### 🖼️ Imagini
@@ -164,33 +173,33 @@ title: Rx GLENOID CAVITY AP Oblică (Umăr (NONtraumatism acut) - GRASHEY METHOD
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.58 superior incidență de AP oblic.](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_1.jpeg)
+![Fig. 5.58 incidență AP oblică superioară.](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.58 superior incidență de AP oblic.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.58 superior incidență de AP oblic.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.60 AP Incidență Oblică (Grashey method).](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 5.60 AP Incidență Oblică (Grashey method).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.60 AP oblic incidență (Grashey method).)</span></figcaption>
+<figcaption><strong>Fig. 5.58 incidență AP oblică superioară.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 5.58 incidență AP oblică superioară.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.59 AP Incidență Oblică—drept posterior oblic (RPO)](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_3.jpeg)
+![Fig. 5.60 Incidență AP oblică (metoda Grashey).](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.59 AP Incidență Oblică—drept posterior oblic (RPO)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.59 AP oblic incidență—drept posterior oblic (RPO))</span></figcaption>
+<figcaption><strong>Fig. 5.60 Incidență AP oblică (metoda Grashey).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.60 incidență AP oblică (metoda Grashey).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.61 AP Incidență Oblică (Grashey method).](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_4.jpeg)
+![Fig. 5.59 Incidență AP oblică — oblică posterioară dreaptă (RPO)](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 5.61 AP Incidență Oblică (Grashey method).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.61 AP oblic incidență (Grashey method).)</span></figcaption>
+<figcaption><strong>Fig. 5.59 Incidență AP oblică — oblică posterioară dreaptă (RPO)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.59 incidență AP oblică — oblică posterioară dreaptă (RPO))</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.61 Incidență AP oblică (metoda Grashey).](../../assets/images/protocols/bontrager/rx-glenoid-cavity-ap-oblica-umar-nontraumatism-acut-grashey-method-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 5.61 Incidență AP oblică (metoda Grashey).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.61 incidență AP oblică (metoda Grashey).)</span></figcaption>
 
 </figure>
 

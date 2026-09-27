@@ -5,88 +5,94 @@ breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pent
 category: mamografie
 centering: Raza centrală perpendiculară pe centrul receptorului de imagine.
 clinical_indications:
-- ca toate lesions trebuie să fie evidențiat pe two incidențe, this extins cranio-caudal
-  incidență este useful pentru evidențiind outer quadrant, axillary tail și axilla.
-  453 15 extins cranio-caudal – medially rotit This este useful pentru evidențiind
-  lesions în medial portion de Sân (Mamografie).
+- Deoarece toate leziunile trebuie evidențiate în două incidențe, această incidență
+  cranio-caudală extinsă este utilă pentru evidențierea cadranului extern, cozii axilare
+  și axilei. 453 15 cranio-caudală extinsă – rotită medial. Aceasta este utilă pentru
+  evidențierea leziunilor din porțiunea medială a sânului (mamografie).
 images:
-- caption: • Sân (Mamografie) este ridicat în radiographer’s Mână la form a
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: • Sânul este ridicat cu mâna radiografului până formează un
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_1.jpeg
-- caption: • radiographer stands behind woman și lifts up the
+- caption: • Radiograful stă în spatele femeii și ridică
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_2.jpeg
-- caption: detail, e.g. micro-calcificări patologice, great care trebuie să fie taken
-    la
+- caption: detaliu, de exemplu microcalcificări patologice; trebuie acordată o mare
+    atenție
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_3.jpeg
-- caption: radiographer’s Mână este removed so final compression poate
+- caption: Mâna radiografului este retrasă, astfel încât compresia finală să poată
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_4.jpeg
-- caption: e.g. micro-calcificări patologice, great care trebuie să fie taken la ensure
+- caption: de exemplu microcalcificări patologice; trebuie acordată o mare atenție
+    pentru a asigura
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_5.jpeg
+iris_reference:
+  chapter: Sân
+  radiation_dose: Clasa 1 (Minimă < 0.4 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• woman faces equipment și side under examination este rotit about 45 grade
-  la equipment.
+position: '• Femeia stă cu fața spre echipament, iar partea examinată este rotită
+  aproximativ 45 de grade către echipament.
 
-  • Sân (Mamografie) este ridicat în radiographer’s Mână la form drept-angle cu corp
-  și la poziție nipple în profile.
+  • Sânul este ridicat cu mâna radiografului până formează un unghi drept cu corpul,
+  iar mamelonul este poziționat de profil.
 
-  Sân (Mamografie)-support table este raised la contact inferior part de Sân (Mamografie)
-  cel mai apropiat de chest perete.
+  Masa de susținere a sânului este ridicată până atinge partea inferioară a sânului,
+  cea mai apropiată de peretele toracic.
 
-  • Mână este removed gently, leaving Sân (Mamografie) cu nipple area pe extreme medial
-  edge de Sân (Mamografie)-support table.
+  • Mâna este retrasă ușor, lăsând sânul cu regiunea mamelonară pe marginea medială
+  extremă a mesei de susținere a sânului.
 
-  • woman’s braț este plasat pe side de Sân (Mamografie)-support table menținerea
-  equipment.
+  • Brațul femeii este așezat pe partea mesei de susținere a sânului, menținând echipamentul.
 
-  • radiographer stands behind woman și lifts up Sân (Mamografie), extending it ca
-  far ca possible la show ca much Sân (Mamografie) tissue ca possible.
+  • Radiograful stă în spatele femeii și ridică sânul, extinzându-l cât mai mult posibil
+  pentru a evidenția cât mai mult țesut mamar.
 
-  • woman leans back about 45 grade if possible, depressing her Umăr la enable outer
-  quadrant și axilla la contact Sân (Mamografie)-support table.
+  • Femeia se apleacă posterior aproximativ 45 de grade, dacă este posibil, coborând
+  umărul pentru a permite cadranului extern și axilei să atingă masa de susținere
+  a sânului.
 
-  • woman’s braț este extins. She holds pe la equipment cu her other Mână pentru stability
-  și la maintain her poziție.
+  • Brațul femeii este extins. Ea se ține de echipament cu cealaltă mână pentru stabilitate
+  și pentru a-și menține poziția.
 
-  • Whilst Sân (Mamografie) este held în poziție pe Sân (Mamografie)-support table,
-  woman este asked la lean spre equipment și este gently pushed în. If she cannot
-  lean ca far back ca 45 grade, then satisfactory incidență de upper outer quadrant
-  will still fie possible provided that she este rotit adequately.
+  • În timp ce sânul este menținut în poziție pe masa de susținere a sânului, femeii
+  i se cere să se aplece spre echipament și este împinsă ușor în acesta. Dacă nu se
+  poate apleca posterior până la 45 de grade, incidența satisfăcătoare a cadranului
+  superoextern va fi totuși posibilă, cu condiția să fie rotită adecvat.
 
   452
 
-  • nipple trebuie să fie kept în profile. nu toate de medial aspect de Sân (Mamografie)
-  will fie evidențiat.
+  • Mamelonul trebuie menținut de profil. Nu va fi evidențiat întregul aspect medial
+  al sânului.
 
-  • Sân (Mamografie) este sprijinit manually while compression este initiated. Mână
-  este removed forwards but nu until compression este almost complete, astfel încât
-  Sân (Mamografie) does nu move.
+  • Sânul este susținut manual în timp ce se inițiază compresia. Mâna este retrasă
+  anterior, dar nu înainte ca o compresie aproape completă să fie obținută, astfel
+  încât sânul să nu se deplaseze.
 
-  • compression plate fits into angle între cap humeral și rib cage.
+  • Placa de compresie se potrivește în unghiul dintre capul humeral și cutia toracică.
 
 
-  • woman faces equipment. Her Stern este about 8 cm de la medial edge de Sân (Mamografie)-support
-  table.
+  • Femeia stă cu fața spre echipament. Sternul ei se află la aproximativ 8 cm de
+  marginea medială a mesei de susținere a sânului.
 
-  • ambele breasts sunt lifted pe la Sân (Mamografie)-support table, which este lowered
-  pentru this purpose. It este then raised la correct height, enabling nipple pe side
-  under examination la fie în profile.
+  • Ambii sâni sunt ridicați pe masa de susținere a sânului, care este coborâtă în
+  acest scop. Apoi este ridicată la înălțimea corectă, permițând mamelonului de pe
+  partea examinată să fie de profil.
 
-  • woman este pushed gently spre equipment.
+  • Femeia este împinsă ușor spre echipament.
 
-  • Sân (Mamografie) la fie evidențiat este stretched în și rotit la enable medial
-  posterior area la fie visualized. Sân (Mamografie) este held while initial compression
-  este applied. Then radiographer’s Mână este removed so final compression poate fie
-  achieved.'
+  • Sânul care urmează să fie evidențiat este întins și rotit pentru a permite vizualizarea
+  regiunii posteromediale. Sânul este menținut în poziție în timpul aplicării compresiei
+  inițiale. Apoi mâna radiografului este retrasă, pentru a putea fi realizată compresia
+  finală.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -95,16 +101,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Sân (Mamografie) trebuie să fie poziționat astfel încât axillary tail este present
-  pe film radiologic, cu ca much de Sân (Mamografie) tissue ca possible vizualizat.
-- maximum inclusion de medio-posterior part de Sân (Mamografie) este evidențiat.
-- 'Erori de evitat / remedii: If Sân (Mamografie) imagine shows insufficient axillary
-  tail și axilla, then nipple was nu la far medial edge de film radiologic support
-  before woman leant back.'
-- 'Erori de evitat / remedii: If nipple was nu în profile, then woman did nu lean
-  în enough la allow medial part de Sân (Mamografie) la fie rotit inwards.'
-- 'Erori de evitat / remedii: If compression este inadequate, then Sân (Mamografie)
-  was nu checked pentru firmness și compression poate have been too close la cap humeral.'
+- Sânul trebuie poziționat astfel încât coada axilară să fie prezentă pe filmul radiologic,
+  vizualizându-se cât mai mult țesut mamar posibil.
+- Este evidențiată includerea maximă a porțiunii medioposterioare a sânului.
+- 'Erori de evitat / remedii: Dacă imaginea sânului prezintă o coadă axilară și o
+  axilă insuficient evidențiate, mamelonul nu a fost poziționat suficient de aproape
+  de marginea medială a suportului filmului radiologic înainte ca femeia să se aplece
+  posterior.'
+- 'Erori de evitat / remedii: Dacă mamelonul nu a fost de profil, femeia nu s-a aplecat
+  suficient pentru a permite rotirea spre interior a porțiunii mediale a sânului.'
+- 'Erori de evitat / remedii: Dacă compresia este inadecvată, sânul nu a fost verificat
+  pentru fermitate, iar compresia este posibil să fi fost prea apropiată de capul
+  humeral.'
 sid_dff: 100 cm
 slug: rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark
 sources:
@@ -113,14 +121,15 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cranio-Caudală Extinsă (Mamografie) Rotație Externă (Laterală)
+  mas: Conform AEC / grosimii anatomice
+title: Rx INCIDENȚĂ CRANIO-CAUDALĂ EXTINSĂ A SÂNULUI (MAMOGRAFIE), ROTAȚIE EXTERNĂ
+  (LATERALĂ)
 ---
-# Rx Cranio-Caudală Extinsă (Mamografie) Rotație Externă (Laterală)
+# Rx INCIDENȚĂ CRANIO-CAUDALĂ EXTINSĂ A SÂNULUI (MAMOGRAFIE), ROTAȚIE EXTERNĂ (LATERALĂ)
 
 
 <div class="rx-meta-bar">
@@ -139,38 +148,37 @@ title: Rx Cranio-Caudală Extinsă (Mamografie) Rotație Externă (Laterală)
 
     === "Indicații Clinice"
 
-        - ca toate lesions trebuie să fie evidențiat pe two incidențe, this extins cranio-caudal incidență este useful pentru evidențiind outer quadrant, axillary tail și axilla. 453 15 extins cranio-caudal – medially rotit This este useful pentru evidențiind lesions în medial portion de Sân (Mamografie).
+        - Deoarece toate leziunile trebuie evidențiate în două incidențe, această incidență cranio-caudală extinsă este utilă pentru evidențierea cadranului extern, cozii axilare și axilei. 453 15 cranio-caudală extinsă – rotită medial. Aceasta este utilă pentru evidențierea leziunilor din porțiunea medială a sânului (mamografie).
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Sân*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.4 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • woman faces equipment și side under examination este rotit about 45 grade la equipment.
-• Sân (Mamografie) este ridicat în radiographer’s Mână la form drept-angle cu corp și la poziție nipple în profile.
-Sân (Mamografie)-support table este raised la contact inferior part de Sân (Mamografie) cel mai apropiat de chest perete.
-• Mână este removed gently, leaving Sân (Mamografie) cu nipple area pe extreme medial edge de Sân (Mamografie)-support table.
-• woman’s braț este plasat pe side de Sân (Mamografie)-support table menținerea equipment.
-• radiographer stands behind woman și lifts up Sân (Mamografie), extending it ca far ca possible la show ca much Sân (Mamografie) tissue ca possible.
-• woman leans back about 45 grade if possible, depressing her Umăr la enable outer quadrant și axilla la contact Sân (Mamografie)-support table.
-• woman’s braț este extins. She holds pe la equipment cu her other Mână pentru stability și la maintain her poziție.
-• Whilst Sân (Mamografie) este held în poziție pe Sân (Mamografie)-support table, woman este asked la lean spre equipment și este gently pushed în. If she cannot lean ca far back ca 45 grade, then satisfactory incidență de upper outer quadrant will still fie possible provided that she este rotit adequately.
-452
-• nipple trebuie să fie kept în profile. nu toate de medial aspect de Sân (Mamografie) will fie evidențiat.
-• Sân (Mamografie) este sprijinit manually while compression este initiated. Mână este removed forwards but nu until compression este almost complete, astfel încât Sân (Mamografie) does nu move.
-• compression plate fits into angle între cap humeral și rib cage.
-
-• woman faces equipment. Her Stern este about 8 cm de la medial edge de Sân (Mamografie)-support table.
-• ambele breasts sunt lifted pe la Sân (Mamografie)-support table, which este lowered pentru this purpose. It este then raised la correct height, enabling nipple pe side under examination la fie în profile.
-• woman este pushed gently spre equipment.
-• Sân (Mamografie) la fie evidențiat este stretched în și rotit la enable medial posterior area la fie visualized. Sân (Mamografie) este held while initial compression este applied. Then radiographer’s Mână este removed so final compression poate fie achieved.
+    - **Poziție Pacient:**
+        - Femeia stă cu fața spre echipament, iar partea examinată este rotită aproximativ 45 de grade către echipament.
+        - Sânul este ridicat cu mâna radiografului până formează un unghi drept cu corpul, iar mamelonul este poziționat de profil. Masa de susținere a sânului este ridicată până atinge partea inferioară a sânului, cea mai apropiată de peretele toracic.
+        - Mâna este retrasă ușor, lăsând sânul cu regiunea mamelonară pe marginea medială extremă a mesei de susținere a sânului.
+        - Brațul femeii este așezat pe partea mesei de susținere a sânului, menținând echipamentul.
+        - Radiograful stă în spatele femeii și ridică sânul, extinzându-l cât mai mult posibil pentru a evidenția cât mai mult țesut mamar.
+        - Femeia se apleacă posterior aproximativ 45 de grade, dacă este posibil, coborând umărul pentru a permite cadranului extern și axilei să atingă masa de susținere a sânului.
+        - Brațul femeii este extins. Ea se ține de echipament cu cealaltă mână pentru stabilitate și pentru a-și menține poziția.
+        - În timp ce sânul este menținut în poziție pe masa de susținere a sânului, femeii i se cere să se aplece spre echipament și este împinsă ușor în acesta. Dacă nu se poate apleca posterior până la 45 de grade, incidența satisfăcătoare a cadranului superoextern va fi totuși posibilă, cu condiția să fie rotită adecvat. 452
+        - Mamelonul trebuie menținut de profil. Nu va fi evidențiat întregul aspect medial al sânului.
+        - Sânul este susținut manual în timp ce se inițiază compresia. Mâna este retrasă anterior, dar nu înainte ca o compresie aproape completă să fie obținută, astfel încât sânul să nu se deplaseze.
+        - Placa de compresie se potrivește în unghiul dintre capul humeral și cutia toracică.
+        - Femeia stă cu fața spre echipament. Sternul ei se află la aproximativ 8 cm de marginea medială a mesei de susținere a sânului.
+        - Ambii sâni sunt ridicați pe masa de susținere a sânului, care este coborâtă în acest scop. Apoi este ridicată la înălțimea corectă, permițând mamelonului de pe partea examinată să fie de profil.
+        - Femeia este împinsă ușor spre echipament.
+        - Sânul care urmează să fie evidențiat este întins și rotit pentru a permite vizualizarea regiunii posteromediale. Sânul este menținut în poziție în timpul aplicării compresiei inițiale. Apoi mâna radiografului este retrasă, pentru a putea fi realizată compresia finală.
     - **Punct de Centrare Fascicul:** Raza centrală perpendiculară pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -182,23 +190,23 @@ Sân (Mamografie)-support table este raised la contact inferior part de Sân (Ma
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Sân (Mamografie) trebuie să fie poziționat astfel încât axillary tail este present pe film radiologic, cu ca much de Sân (Mamografie) tissue ca possible vizualizat.
-    - maximum inclusion de medio-posterior part de Sân (Mamografie) este evidențiat.
-    - Erori de evitat / remedii: If Sân (Mamografie) imagine shows insufficient axillary tail și axilla, then nipple was nu la far medial edge de film radiologic support before woman leant back.
-    - Erori de evitat / remedii: If nipple was nu în profile, then woman did nu lean în enough la allow medial part de Sân (Mamografie) la fie rotit inwards.
-    - Erori de evitat / remedii: If compression este inadequate, then Sân (Mamografie) was nu checked pentru firmness și compression poate have been too close la cap humeral.
+    - Sânul trebuie poziționat astfel încât coada axilară să fie prezentă pe filmul radiologic, vizualizându-se cât mai mult țesut mamar posibil.
+    - Este evidențiată includerea maximă a porțiunii medioposterioare a sânului.
+    - Erori de evitat / remedii: Dacă imaginea sânului prezintă o coadă axilară și o axilă insuficient evidențiate, mamelonul nu a fost poziționat suficient de aproape de marginea medială a suportului filmului radiologic înainte ca femeia să se aplece posterior.
+    - Erori de evitat / remedii: Dacă mamelonul nu a fost de profil, femeia nu s-a aplecat suficient pentru a permite rotirea spre interior a porțiunii mediale a sânului.
+    - Erori de evitat / remedii: Dacă compresia este inadecvată, sânul nu a fost verificat pentru fermitate, iar compresia este posibil să fi fost prea apropiată de capul humeral.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -210,6 +218,7 @@ Sân (Mamografie)-support table este raised la contact inferior part de Sân (Ma
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -220,41 +229,41 @@ Sân (Mamografie)-support table este raised la contact inferior part de Sân (Ma
 
 <figure class="protocol-image-card" markdown>
 
-![• Sân (Mamografie) este ridicat în radiographer’s Mână la form a](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_1.jpeg)
+![• Sânul este ridicat cu mâna radiografului până formează un](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_1.jpeg)
 
-<figcaption><strong>• Sân (Mamografie) este ridicat în radiographer’s Mână la form a</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• radiographer stands behind woman și lifts up the](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_2.jpeg)
-
-<figcaption><strong>• radiographer stands behind woman și lifts up the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Sânul este ridicat cu mâna radiografului până formează un</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![detail, e.g. micro-calcificări patologice, great care trebuie să fie taken la](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_3.jpeg)
+![• Radiograful stă în spatele femeii și ridică](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_2.jpeg)
 
-<figcaption><strong>detail, e.g. micro-calcificări patologice, great care trebuie să fie taken la</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![radiographer’s Mână este removed so final compression poate](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_4.jpeg)
-
-<figcaption><strong>radiographer’s Mână este removed so final compression poate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Radiograful stă în spatele femeii și ridică</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![e.g. micro-calcificări patologice, great care trebuie să fie taken la ensure](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_5.jpeg)
+![detaliu, de exemplu microcalcificări patologice; trebuie acordată o mare atenție](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_3.jpeg)
 
-<figcaption><strong>e.g. micro-calcificări patologice, great care trebuie să fie taken la ensure</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>detaliu, de exemplu microcalcificări patologice; trebuie acordată o mare atenție</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Mâna radiografului este retrasă, astfel încât compresia finală să poată](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_4.jpeg)
+
+<figcaption><strong>Mâna radiografului este retrasă, astfel încât compresia finală să poată</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![de exemplu microcalcificări patologice; trebuie acordată o mare atenție pentru a asigura](../../assets/images/protocols/clark/rx-cranio-caudala-extinsa-mamografie-rotatie-externa-laterala-p467-clark/fig_5.jpeg)
+
+<figcaption><strong>de exemplu microcalcificări patologice; trebuie acordată o mare atenție pentru a asigura</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -5,7 +5,7 @@ category: craniu-saf
 centering: Se aliniază raza centrală (RC) perpendicular pe receptorul de imagine sau
   pe linia infraorbitomeatală (LIOM) (a se vedea NOTA). Se centrează raza centrală
   la punctul situat la jumătatea distanței dintre unghiurile mandibulei sau la nivelul
-  de 1½ inches (4 cm) inferior față de simfiza mandibulară. Se centrează receptorul
+  de 1½ țoli (4 cm) inferior față de simfiza mandibulară. Se centrează receptorul
   de imagine pe proiecția razei centrale.
 clinical_indications:
 - suspiciune de fractură și proces neoplazic sau inflamator al mandibulei
@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.167
     SMV—mandibulă.)
   url: assets/images/protocols/bontrager/rx-mandibula-submentovertical-smv-projection-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Dacă pacientul nu poate extinde gâtul suficient, se angulează tubul pentru
@@ -97,17 +101,18 @@ title: Rx Mandibulă Incidență SUBMENTOVERTICALĂ (SMV)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Poziția pacientului este ortostatism sau decubit dorsal (se preferă ortostatismul, dacă starea pacientului permite). Ortostatismul poate fi realizat cu un dispozitiv de radiografie în ortostatism (Fig. 11.166).; Regiune anatomică: Se hiperextinde gâtul până când linia infraorbitomeatală (LIOM) este paralelă cu receptorul de imagine. Se sprijină capul pe vertexul craniului. Se aliniază MSP perpendicular pe linia mediană a grilei sau pe suprafața mesei/dispozitivului de radiografie în ortostatism pentru a preveni rotația sau înclinarea capului.
-    - **Punct de Centrare Fascicul:** Se aliniază raza centrală (RC) perpendicular pe receptorul de imagine sau pe linia infraorbitomeatală (LIOM) (a se vedea NOTA). Se centrează raza centrală la punctul situat la jumătatea distanței dintre unghiurile mandibulei sau la nivelul de 1½ inches (4 cm) inferior față de simfiza mandibulară. Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Punct de Centrare Fascicul:** Se aliniază raza centrală (RC) perpendicular pe receptorul de imagine sau pe linia infraorbitomeatală (LIOM) (a se vedea NOTA). Se centrează raza centrală la punctul situat la jumătatea distanței dintre unghiurile mandibulei sau la nivelul de 1½ țoli (4 cm) inferior față de simfiza mandibulară. Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -146,6 +151,7 @@ title: Rx Mandibulă Incidență SUBMENTOVERTICALĂ (SMV)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Dacă pacientul nu poate extinde gâtul suficient, se angulează tubul pentru a alinia raza centrală perpendicular pe linia infraorbitomeatală (LIOM). Această poziție este foarte incomodă pentru pacient; se efectuează incidența cât mai rapid posibil. Mandibulă SPECIAL SMV Ortopantomografie (mandibulă sau ATM-uri sau ambele)

@@ -20,6 +20,10 @@ images:
 - caption: Merrill — pagina 904, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-masiv-facial-oase-ale-fetei-incidenta-de-profil-lateral-right-or-left-position-p901-merrill/p904_fig4.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -52,11 +56,11 @@ source_pages:
 source_sections:
   anatomy: imagine laterală a oaselor feței, cu părțile dreaptă și stângă suprapuse
     (Fig. 11.103).
-  collimation: • Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch
-    (2.5 cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra
-    marginilor supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior
-    până la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel
-    încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate
+  collimation: • Ajustați câmpul de iradiere astfel încât să se extindă cu 1 țol (2.5
+    cm) dincolo de umbra vârfului nasului, superior cu 1 țol (2.5 cm) deasupra marginilor
+    supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până
+    la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel
+    încât să nu fie mai mare de 6 × 10 țoli (15 × 24 cm). Plasați markerul de lateralitate
     (D/S) în câmpul de expunere colimat.
   cr: '• perpendiculară și intrând pe suprafața laterală a osului zigomatic, la jumătatea
     distanței dintre unghiul extern al ochiului și conductul auditiv extern (CAE).
@@ -102,11 +106,11 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5
-    cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra marginilor
+  collimation: Ajustați câmpul de iradiere astfel încât să se extindă cu 1 țol (2.5
+    cm) dincolo de umbra vârfului nasului, superior cu 1 țol (2.5 cm) deasupra marginilor
     supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până
     la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel
-    încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate
+    încât să nu fie mai mare de 6 × 10 țoli (15 × 24 cm). Plasați markerul de lateralitate
     (D/S) în câmpul de expunere colimat.
 title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) — Profil (Drept
   sau Stâng) (Merrill)
@@ -135,11 +139,12 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -161,7 +166,7 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra marginilor supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă cu 1 țol (2.5 cm) dincolo de umbra vârfului nasului, superior cu 1 țol (2.5 cm) deasupra marginilor supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel încât să nu fie mai mare de 6 × 10 țoli (15 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -180,6 +185,7 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -235,49 +241,3 @@ title: Rx Masiv Facial (Oase ale Feței) — Incidență de Profil (Lateral) —
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 901–905](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-imagine laterală a oaselor feței, cu părțile dreaptă și stângă suprapuse (Fig. 11.103).
-
-### colimare
-
-• Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de umbra vârfului nasului, superior cu 1 inch (2.5 cm) deasupra marginilor supraorbitare, inferior până la gonion (unghiul mandibulei) și posterior până la conductul auditiv extern (CAE). Câmpul de expunere trebuie stabilit astfel încât să nu fie mai mare de 6 × 10 inches (15 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendiculară și intrând pe suprafața laterală a osului zigomatic, la jumătatea distanței dintre unghiul extern al ochiului și conductul auditiv extern (CAE).
-• Centrați receptorul de imagine pe raza centrală.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-n Dovezi de colimare corectă și prezența unui marker de lateralitate (D/S) plasat clar în afara anatomiei de interes
-n Toate oasele feței în întregime, cu osul zigomatic în centru
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării oaselor feței, evidențiată prin:
-• ramuri mandibulare aproape perfect suprapuse
-• acoperișuri orbitare suprapuse
-• șa turcească de profil
-n părți moi și detalii trabeculare osoase
-
-### part_pos
-
-• Se ajustează capul pacientului astfel încât MSP să fie paralel cu receptorul de imagine, iar linia interpupilară (LIP) să fie perpendiculară pe receptorul de imagine (RI).
-• Se ajustează flexia gâtului pacientului astfel încât linia infraorbitomeatală (LIOM) să fie perpendiculară pe marginea anterioară a receptorului de imagine (Fig. 11.100–11.102).
-• Se imobilizează capul pacientului.
-
-### patient_pos
-
-• Pacientul se așază în poziție oblică anterioară, în decubit sau șezând, înaintea stativului vertical Bucky. Aceasta este aceeași poziție de bază utilizată pentru poziția laterală a craniului.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

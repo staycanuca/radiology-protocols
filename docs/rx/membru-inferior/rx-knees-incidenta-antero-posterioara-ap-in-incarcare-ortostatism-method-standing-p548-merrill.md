@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: orizontal și perpendicular pe centrul receptorului de imagine, entering
-  la point ½ inch (1.3 cm) below apexuri (vârfuri pulmonare) de patellae.
+centering: orizontală și perpendiculară pe centrul receptorului de imagine, intrând
+  într-un punct situat la ½ țol (1.3 cm) sub apexurile rotulelor.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,25 +13,29 @@ images:
 - caption: Merrill — pagina 550, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill/p550_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în ortostatism cu back spre stativ vertical Bucky.; se
-  ajustează pacient’s poziție la se centrează genunchi la receptorul de imagine. Place
-  Degete Picior straight ahead, cu picioarele separated enough pentru good balance.
-  Se instruiește pacientul să stand straight cu genunchi fully extins și weight equally
-  distributed pe picioarele. se centrează receptorul de imagine ½ inch (1.3 cm) below
-  apexuri (vârfuri pulmonare) de patellae (Fig. 7.127). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+position: Se așază pacientul în ortostatism, cu spatele spre stativul vertical Bucky.;
+  se ajustează poziția pacientului pentru a centra genunchii la receptorul de imagine.
+  Se plasează degetele picioarelor drept înainte, cu picioarele suficient de depărtate
+  pentru un echilibru bun. Se instruiește pacientul să stea drept, cu genunchii complet
+  extinși și greutatea distribuită egal pe picioare. Se centrează receptorul de imagine
+  la ½ țol (1.3 cm) sub apexurile rotulelor (Fig. 7.127). Se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
 - ambele genunchi fără rotație
-- Genunchi spații articulare centrat pe expunere area
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- Spațiile articulare ale genunchilor centrate pe zona de expunere
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-knees-incidenta-antero-posterioara-ap-in-incarcare-ortostatism-method-standing-p548-merrill
 source_pages:
@@ -39,55 +43,53 @@ source_pages:
 - 549
 - 550
 source_sections:
-  anatomy: spații articulare de genunchii. Varus și valgus deformities poate also
-    fie evaluated cu this procedure (Fig. 7.128).
-  collimation: '• se ajustează câmp de iradiere la 14 × 17 inches (35 × 43 cm) pe
-    collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate
-    (D/S)
+  anatomy: spațiile articulare ale genunchilor. Deformările în varus și valgus pot
+    fi, de asemenea, evaluate prin această procedură (Fig. 7.128).
+  collimation: • se ajustează câmpul de iradiere la 14 × 17 țoli (35 × 43 cm) pe colimator.
+    Se ajustează la 1 țol (2.5 cm) dincolo de laturi. Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: • orizontală și perpendiculară pe centrul receptorului de imagine, intrând într-un
+    punct situat la ½ țol (1.3 cm) sub apexurile rotulelor.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    în collimated expunere field.'
-  cr: • orizontal și perpendicular pe centrul receptorului de imagine, entering la
-    point ½ inch (1.3 cm) below apexuri (vârfuri pulmonare) de patellae.
-  criteria: 'Criterii radiologice de calitate imaginii:
-
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
     • ambele genunchi fără rotație
 
-    • genunchi spații articulare centrat pe expunere area
+    • spațiile articulare ale genunchilor centrate pe zona de expunere
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează pacient’s poziție la se centrează genunchi la receptorul
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• se ajustează poziția pacientului pentru a centra genunchiul la receptorul
     de imagine.
 
-    • Place toes straight ahead, cu picioarele separated enough pentru good balance.
+    • Se așază degetele de la picioare drept înainte, cu picioarele suficient de depărtate
+    pentru un echilibru bun.
 
-    • Se instruiește pacientul să stand straight cu genunchi fully extins și weight
-    equally distributed pe picioarele.
+    • Se instruiește pacientul să stea drept, cu genunchii complet extinși și greutatea
+    distribuită egal pe picioare.
 
-    • se centrează receptorul de imagine ½ inch (1.3 cm) below apexuri (vârfuri pulmonare)
-    de patellae (Fig. 7.127).
+    • se centrează receptorul de imagine la ½ țol (1.3 cm) sub vârfurile rotulelor
+    (Fig. 7.127).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în ortostatism cu back spre stativ vertical Bucky.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) transversal
-    pentru
-
-    bilateral imagine.'
+  patient_pos: • se așază pacientul în ortostatism, cu spatele spre stativul vertical
+    Bucky.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 țoli (35
+    × 43 cm), transversal, pentru imagine bilaterală.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 548–550
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 14 × 17 inches (35 × 43 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în
-    collimated expunere field.
-title: Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Ortostatism) Method
-  Standing (Merrill)
+  collimation: se ajustează câmpul de iradiere la 14 × 17 țoli (35 × 43 cm) pe colimator.
+    Se ajustează la 1 țol (2.5 cm) dincolo de părți. Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: Rx genunchi — Incidență antero-posterioară (AP) — În încărcare (ortostatism)
+  — Metoda în ortostatism (Merrill)
 ---
-# Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Ortostatism) Method Standing (Merrill)
+# Rx genunchi — Incidență antero-posterioară (AP) — În încărcare (ortostatism) — Metoda în ortostatism (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -111,17 +113,18 @@ title: Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Or
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism cu back spre stativ vertical Bucky.; se ajustează pacient’s poziție la se centrează genunchi la receptorul de imagine. Place Degete Picior straight ahead, cu picioarele separated enough pentru good balance. Se instruiește pacientul să stand straight cu genunchi fully extins și weight equally distributed pe picioarele. se centrează receptorul de imagine ½ inch (1.3 cm) below apexuri (vârfuri pulmonare) de patellae (Fig. 7.127). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orizontal și perpendicular pe centrul receptorului de imagine, entering la point ½ inch (1.3 cm) below apexuri (vârfuri pulmonare) de patellae.
+    - **Poziție Pacient:** Se așază pacientul în ortostatism, cu spatele spre stativul vertical Bucky.; se ajustează poziția pacientului pentru a centra genunchii la receptorul de imagine. Se plasează degetele picioarelor drept înainte, cu picioarele suficient de depărtate pentru un echilibru bun. Se instruiește pacientul să stea drept, cu genunchii complet extinși și greutatea distribuită egal pe picioare. Se centrează receptorul de imagine la ½ țol (1.3 cm) sub apexurile rotulelor (Fig. 7.127). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** orizontală și perpendiculară pe centrul receptorului de imagine, intrând într-un punct situat la ½ țol (1.3 cm) sub apexurile rotulelor.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -137,18 +140,18 @@ title: Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Or
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 14 × 17 inches (35 × 43 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 14 × 17 țoli (35 × 43 cm) pe colimator. Se ajustează la 1 țol (2.5 cm) dincolo de părți. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
     - ambele genunchi fără rotație
-    - Genunchi spații articulare centrat pe expunere area
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Spațiile articulare ale genunchilor centrate pe zona de expunere
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,6 +160,7 @@ title: Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Or
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -196,44 +200,3 @@ title: Rx Knees — Incidență Antero-Posterioară (AP) — În Încărcare (Or
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 548–550](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-spații articulare de genunchii. Varus și valgus deformities poate also fie evaluated cu this procedure (Fig. 7.128).
-
-### collimation
-
-• se ajustează câmp de iradiere la 14 × 17 inches (35 × 43 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-• orizontal și perpendicular pe centrul receptorului de imagine, entering la point ½ inch (1.3 cm) below apexuri (vârfuri pulmonare) de patellae.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• ambele genunchi fără rotație
-• genunchi spații articulare centrat pe expunere area
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează pacient’s poziție la se centrează genunchi la receptorul de imagine.
-• Place toes straight ahead, cu picioarele separated enough pentru good balance.
-• Se instruiește pacientul să stand straight cu genunchi fully extins și weight equally distributed pe picioarele.
-• se centrează receptorul de imagine ½ inch (1.3 cm) below apexuri (vârfuri pulmonare) de patellae (Fig. 7.127).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în ortostatism cu back spre stativ vertical Bucky.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) transversal pentru
-bilateral imagine.
-

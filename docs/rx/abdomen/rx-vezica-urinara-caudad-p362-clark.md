@@ -37,6 +37,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-vezica-urinara-caudad-p362-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Incidența oblică posterioară dreaptă, adică având partea stângă ridicată,
@@ -110,21 +114,24 @@ title: Rx Vezică Urinară cu angulație caudală
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Din poziția de decubit dorsal, se ridică o parte a corpului astfel încât planul mediosagital să fie rotit cu 35 grade.
-• Pentru a asigura stabilitatea, genunchiul în contact cu masa de examinare este flectat, iar partea ridicată este sprijinită cu o pernă radiotransparentă.
-• Poziția pacientului este ajustată astfel încât punctul de la jumătatea distanței dintre simfiza pubiană și spina iliacă antero-superioară (SIAS) de pe partea ridicată să se afle deasupra liniei mediane a mesei.
-• O casetă de 30 × 24 cm este plasată longitudinal în tăviță, cu marginea superioară la nivelul spinelor iliace antero-superioare.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre un punct situat la 2.5 cm deasupra simfizei pubiene.
-• Alternativ, se poate utiliza o angulație caudală de 15 grade, cu un punct de centrare mai înalt și caseta deplasată în jos pentru a compensa angulația.
+    - **Poziție Pacient:**
+        - Din poziția de decubit dorsal, se ridică o parte a corpului astfel încât planul mediosagital să fie rotit cu 35 grade.
+        - Pentru a asigura stabilitatea, genunchiul în contact cu masa de examinare este flectat, iar partea ridicată este sprijinită cu o pernă radiotransparentă.
+        - Poziția pacientului este ajustată astfel încât punctul de la jumătatea distanței dintre simfiza pubiană și spina iliacă antero-superioară (SIAS) de pe partea ridicată să se afle deasupra liniei mediane a mesei.
+        - O casetă de 30 × 24 cm este plasată longitudinal în tăviță, cu marginea superioară la nivelul spinelor iliace antero-superioare.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată spre un punct situat la 2.5 cm deasupra simfizei pubiene.
+        - Alternativ, se poate utiliza o angulație caudală de 15 grade, cu un punct de centrare mai înalt și caseta deplasată în jos pentru a compensa angulația.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -161,9 +168,9 @@ title: Rx Vezică Urinară cu angulație caudală
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Incidența oblică posterioară dreaptă, adică având partea stângă ridicată, va evidenția joncțiunea vezico-ureterală dreaptă, un loc frecvent de blocare a calculilor ureterali radiopaci mici.
-Imagine antero-posterioară (AP) cu angulație caudală de 15 grade a etajului abdominal inferior, evidențiind un calcul vezical (vârf de săgeată mare) și mici fleboliți pelvini cu centre radiotransparente (săgeți) Imagine în incidență oblică posterioară dreaptă a etajului abdominal inferior, evidențiind calculi radiopaci mari în vezică
+    Incidența oblică posterioară dreaptă, adică având partea stângă ridicată, va evidenția joncțiunea vezico-ureterală dreaptă, un loc frecvent de blocare a calculilor ureterali radiopaci mici. Imagine antero-posterioară (AP) cu angulație caudală de 15 grade a etajului abdominal inferior, evidențiind un calcul vezical (vârf de săgeată mare) și mici fleboliți pelvini cu centre radiotransparente (săgeți) Imagine în incidență oblică posterioară dreaptă a etajului abdominal inferior, evidențiind calculi radiopaci mari în vezică
 
 
 ### 🖼️ Imagini

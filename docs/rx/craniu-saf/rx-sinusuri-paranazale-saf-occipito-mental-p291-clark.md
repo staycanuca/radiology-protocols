@@ -35,6 +35,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-mental-p291-clark/fig_3.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Pentru a diferenția nivelurile hidroaerice de îngroșarea mucoasei, se poate
@@ -122,24 +126,27 @@ title: Rx Sinusuri paranazale (SAF) — Incidență occipitomentonieră
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Incidența se realizează optim cu pacientul așezat cu fața spre suportul pentru casetă al unității pentru craniu sau spre stativul vertical Bucky.
-• Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală la un unghi de 45 grade față de suportul pentru casetă.
-• Linia centrală orizontală a Bucky sau a suportului pentru casetă trebuie să fie la nivelul marginilor orbitare inferioare.
-• Asigurați-vă că planul mediosagital este perpendicular pe Bucky sau pe suportul pentru casetă, verificând dacă canthusurile externe ale ochilor și conductele auditive externe sunt echidistante.
-• Pacientul trebuie să deschidă gura cât mai larg posibil înainte de expunere. Aceasta va permite proiectarea porțiunii posterioare a sinusului sfenoidal prin cavitatea bucală.
-    - **Punct de Centrare Fascicul:** • Raza centrală a unității pentru craniu trebuie să fie perpendiculară pe suportul pentru casetă și, prin construcție, va fi centrată în mijlocul receptorului de imagine. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect, fasciculul va fi deja centrat.
-• Dacă se utilizează Bucky, tubul trebuie centrat pe Bucky utilizând fasciculul orizontal înainte de efectuarea poziționării. Dacă poziționarea de mai sus este efectuată corect și înălțimea Bucky nu este modificată, fasciculul va fi deja centrat.
-• Pentru a verifica dacă fasciculul este centrat corect, liniile de reper de pe Bucky sau suportul pentru casetă trebuie să coincidă cu coloana nazală anterioară a pacientului.
-• Colimați pentru a include toate sinusurile paranazale (SAF).
+    - **Poziție Pacient:**
+        - Incidența se realizează optim cu pacientul așezat cu fața spre suportul pentru casetă al unității pentru craniu sau spre stativul vertical Bucky.
+        - Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală la un unghi de 45 grade față de suportul pentru casetă.
+        - Linia centrală orizontală a Bucky sau a suportului pentru casetă trebuie să fie la nivelul marginilor orbitare inferioare.
+        - Asigurați-vă că planul mediosagital este perpendicular pe Bucky sau pe suportul pentru casetă, verificând dacă canthusurile externe ale ochilor și conductele auditive externe sunt echidistante.
+        - Pacientul trebuie să deschidă gura cât mai larg posibil înainte de expunere. Aceasta va permite proiectarea porțiunii posterioare a sinusului sfenoidal prin cavitatea bucală.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală a unității pentru craniu trebuie să fie perpendiculară pe suportul pentru casetă și, prin construcție, va fi centrată în mijlocul receptorului de imagine. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect, fasciculul va fi deja centrat.
+        - Dacă se utilizează Bucky, tubul trebuie centrat pe Bucky utilizând fasciculul orizontal înainte de efectuarea poziționării. Dacă poziționarea de mai sus este efectuată corect și înălțimea Bucky nu este modificată, fasciculul va fi deja centrat.
+        - Pentru a verifica dacă fasciculul este centrat corect, liniile de reper de pe Bucky sau suportul pentru casetă trebuie să coincidă cu coloana nazală anterioară a pacientului.
+        - Colimați pentru a include toate sinusurile paranazale (SAF).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -176,9 +183,9 @@ title: Rx Sinusuri paranazale (SAF) — Incidență occipitomentonieră
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Pentru a diferenția nivelurile hidroaerice de îngroșarea mucoasei, se poate efectua o incidență suplimentară cu capul înclinat, astfel încât planul transversal să formeze un unghi de aproximativ 20 grade cu planșeul.
-45° 45° Radiografie OM pentru sinusurile paranazale (SAF), evidențiind un polip în sinusul maxilar drept
+    Pentru a diferenția nivelurile hidroaerice de îngroșarea mucoasei, se poate efectua o incidență suplimentară cu capul înclinat, astfel încât planul transversal să formeze un unghi de aproximativ 20 grade cu planșeul. 45° 45° Radiografie OM pentru sinusurile paranazale (SAF), evidențiind un polip în sinusul maxilar drept
 
 
 ### 🖼️ Imagini

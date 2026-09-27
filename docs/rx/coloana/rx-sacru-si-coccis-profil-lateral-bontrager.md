@@ -4,7 +4,7 @@ breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare 
   pacientului.
 category: coloana
 centering: Perpendicular pe receptorul de imagine. Se direcționează raza centrală
-  3 la 4 inches (8 la 10 cm) posterior față de spina iliacă antero-superioară (SIAS)
+  3 la 4 țoli (8 la 10 cm) posterior față de spina iliacă antero-superioară (SIAS)
   (centrare pentru sacru). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Patologia sacrului și coccisului, inclusiv suspiciunea de fractură
@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.70
     sacru și coccis lateral.)
   url: assets/images/protocols/bontrager/rx-sacru-si-coccis-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Se generează cantități mari de radiație secundară și împrăștiată. Colimarea
@@ -88,17 +92,18 @@ title: Rx sacru și coccis profil (lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Incidență de profil (lateral). Se plasează pacientul în decubit lateral, cu capul pe pernă și genunchii flectați.; Regiune anatomică: Se aliniază axa longitudinală a sacrului și coccisului cu raza centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.69 și 9.70). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă bazinul există.
-    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se direcționează raza centrală 3 la 4 inches (8 la 10 cm) posterior față de spina iliacă antero-superioară (SIAS) (centrare pentru sacru). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se direcționează raza centrală 3 la 4 țoli (8 la 10 cm) posterior față de spina iliacă antero-superioară (SIAS) (centrare pentru sacru). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
@@ -136,6 +141,7 @@ title: Rx sacru și coccis profil (lateral)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Se generează cantități mari de radiație secundară și împrăștiată. Colimarea strânsă este esențială pentru a reduce doza administrată pacientului și a obține o imagine de înaltă calitate. Fig. 9.71 sacru și coccis lateral. Sacru și coccis INCIDENȚĂ AP axială Sacru AP axial Coccis Sacru și coccis lateral Fig. 9.69 sacru și coccis lateral. Fig. 9.70 sacru și coccis lateral.

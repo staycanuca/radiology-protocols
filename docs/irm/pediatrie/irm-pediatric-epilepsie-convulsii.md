@@ -143,6 +143,7 @@ title: RM Pediatric — Protocol Convulsii & Epilepsie (Seizure Brain)
             - **Nivel de Iradiere Estimată:** `Clasa 0 (Fără Iradiere / Câmp Magnetic Non-Ionant)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient & Securitate Feromagnetică__
 
     ---

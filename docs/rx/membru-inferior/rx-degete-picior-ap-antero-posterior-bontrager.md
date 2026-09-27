@@ -2,44 +2,49 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Angle raza centrală 10° la 15° spre Calcaneu (Raza centrală perpendiculară
-  la falange) (Fig. 6.39). If a 15° wedge este plasat under Picior pentru paralel
-  partfilm alignment, raza centrală este perpendicular pe receptorul de imagine (RI)
-  (Fig. 6.40). Center raza centrală la articulații metatarsofalangiene (MTF) în question.
+centering: Înclinați raza centrală cu 10° la 15° spre calcaneu (raza centrală perpendiculară
+  pe falange) (Fig. 6.39). Dacă o pană de 15° este plasată sub picior pentru alinierea
+  paralelă cu filmul, raza centrală este perpendiculară pe receptorul de imagine (RI)
+  (Fig. 6.40). Centrați raza centrală la nivelul articulațiilor metatarsofalangiene
+  (MTF) în cauză.
 clinical_indications:
-- suspiciune de fractură sau luxație / subluxație articulară de falange de falange
-  în question
-- Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis
-  (gout), especially în first falange
+- suspiciune de fractură sau luxație / subluxație articulară a falangei în cauză
+- Patologii precum artroza / modificările degenerative articulare și artrita gutoasă
+  (gută), în special la nivelul primei falange
 images:
-- caption: Fig. 6.39 Second falange (raza centrală, 10° la 15°).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.39 Second falange
-    (raza centrală, 10° la 15°).)
+- caption: Fig. 6.39 A doua falangă (raza centrală, 10° la 15°).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.39 A doua
+    falangă (raza centrală, 10° la 15°).)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).
+- caption: Fig. 6.40 AP falanga a doua cu pană (raza centrală perpendiculară).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.40
-    AP second falange cu wedge (raza centrală perpendicular).)
+    AP a celei de-a doua falange cu pană (raza centrală perpendiculară).)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_2.jpeg
-- caption: Fig. 6.41 AP second
+- caption: Fig. 6.41 AP a celei de-a doua
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.41
-    AP second)
+    AP a celei de-a doua)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_3.jpeg
-- caption: Fig. 6.42 AP second falange.
+- caption: Fig. 6.42 AP a celei de-a doua falange.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.42
-    AP second falange.)
+    AP a celei de-a doua falange.)
   url: assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Some departmental routines include centering și collimation pentru AP Degete
-  Picior la include toate Degete Picior și distal oase metatarsiene. Most routines
-  involve centering la toe de interest cu closer collimation la include only one falange
-  pe fiecare side de injury.
-position: 'Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table; Genunchi
-  trebuie să fie flectat cu plantar surface de Picior resting pe receptorul de imagine.;
-  Regiune anatomică: Center și align axa longitudinală de falange la raza centrală
-  și axa longitudinală de portion de receptorul de imagine being exposed. Ensure that
-  articulații metatarsofalangiene (MTF) de falange în question este centrat pe raza
-  centrală.'
+notes: Unele protocoale departamentale includ centrarea și colimarea pentru incidența
+  AP a degetelor piciorului, astfel încât să includă toate degetele piciorului și
+  oasele metatarsiene distale. Majoritatea protocoalelor presupun centrarea pe degetul
+  de interes, cu colimare strânsă pentru a include o singură falangă de fiecare parte
+  a leziunii.
+position: 'Pacient: Se așază pacientul în decubit dorsal sau în poziție șezândă pe
+  masă; genunchiul trebuie flectat, cu suprafața plantară a piciorului sprijinită
+  pe receptorul de imagine.; Regiune anatomică: Se centrează și se aliniază axa longitudinală
+  a falangei față de raza centrală și față de axa longitudinală a porțiunii receptorului
+  de imagine care urmează să fie expusă. Se asigură centrarea articulației metatarsofalangiene
+  (MTF) a falangei în cauză pe raza centrală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -47,26 +52,28 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'falange de interest și minimum de distal half de oase metatarsiene trebuie să fie
-  included (Figs. 6.41 și 6.42). poziție:'
-- Individual falange trebuie să fie separated cu fără overlapping de soft tissues.
-- axa longitudinală de Picior este aliniat la axa longitudinală de portion de receptorul
-  de imagine being exposed.
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  este present if shafts de falange și distal oase metatarsiene appear equally concave
-  pe ambele părți (bilateral).'
-- rotație appears ca one side being more concave than other.
-- Side cu increased concavity has been rolled away de la receptorul de imagine.4
-- IP și articulații metatarsofalangiene (MTF) spaces sunt open. Incorrect raza centrală
-  angulation sau insufficient elevation de forefoot poate distort sau close spații
+- 'Falanga de interes și cel puțin jumătatea distală a oaselor metatarsiene trebuie
+  incluse (Fig. 6.41 și 6.42). poziție:'
+- Falangele individuale trebuie separate, fără suprapunerea țesuturilor moi.
+- Axa longitudinală a piciorului este aliniată cu axa longitudinală a porțiunii receptorului
+  de imagine care urmează să fie expusă.
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase
+  este prezentă dacă diafizele falangelor și oasele metatarsiene distale apar la fel
+  de concave pe ambele părți (bilateral).'
+- Rotația apare ca o parte mai concavă decât cealaltă.
+- Partea cu concavitatea crescută a fost rulată în sens opus față de receptorul de
+  imagine.4
+- Spațiile IP și metatarsofalangiene (MTF) sunt deschise. Angulația incorectă a razei
+  centrale sau ridicarea insuficientă a antepiciorului pot deforma sau închide spațiile
   articulare.4
-- 'Collimation la aria de interes diagnostic. expunere:'
-- fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed
-  bony trabeculae.
-- optim receptorul de imagine expunere și contrast will allow visualization de bony
-  cortical margins și trabeculae și părți moi structures. Fig. 6.41 AP second falange.
-  distal phalanx Middle phalanx 2nd articulații metatarsofalangiene (MTF) (raza centrală)
-  distal 2nd metatarsal proximal phalanx Fig. 6.42 AP second falange.
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- fără mișcare, evidențiată prin marginile corticale bine definite ale osului și trabeculele
+  osoase detaliate.
+- Expunerea optimă a receptorului de imagine și contrastul vor permite vizualizarea
+  marginilor corticale osoase și a trabeculelor, precum și a structurilor țesuturilor
+  moi. Fig. 6.41 AP falanga a doua. Falanga distală, falanga mijlocie, a 2-a articulație
+  metatarsofalangiană (MTF) (raza centrală), metatarsianul 2 distal, falanga proximală.
+  Fig. 6.42 AP falanga a doua.
 sid_dff: 100 cm
 slug: rx-degete-picior-ap-antero-posterior-bontrager
 sources:
@@ -74,18 +81,19 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate pe four sides la aria de interes diagnostic. pe side margins,
-    include minimum de la least part de one falange pe fiecare side de falange în
-    question. Degete Picior ROUTINE AP oblic lateral Fig. 6.39 Second falange (raza
-    centrală, 10° la 15°). Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).
+  collimation: 'Se colimează pe toate cele patru laturi la aria de interes diagnostic.
+    La marginile laterale, se include cel puțin o parte a unei falange de fiecare
+    parte a falangei examinate. Degetele piciorului — INCIDENȚE DE RUTINĂ: AP, oblică,
+    profil. Fig. 6.39 A doua falangă (raza centrală, 10° la 15°). Fig. 6.40 AP a celei
+    de-a doua falange cu suport în formă de pană (raza centrală perpendiculară).'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 50-65
   mas: DE CONFIGURAT PE APARAT
-title: Rx Degete Picior AP (Antero-Posterior)
+title: Rx degete picior AP (anteroposterioară)
 ---
-# Rx Degete Picior AP (Antero-Posterior)
+# Rx degete picior AP (anteroposterioară)
 
 
 <div class="rx-meta-bar">
@@ -104,23 +112,24 @@ title: Rx Degete Picior AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură sau luxație / subluxație articulară de falange de falange în question
-        - Pathologies such ca artroză / modificări degenerative articulare și gouty arthritis (gout), especially în first falange
+        - suspiciune de fractură sau luxație / subluxație articulară a falangei în cauză
+        - Patologii precum artroza / modificările degenerative articulare și artrita gutoasă (gută), în special la nivelul primei falange
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient Decubit dorsal sau Poziție Șezândă pe table; Genunchi trebuie să fie flectat cu plantar surface de Picior resting pe receptorul de imagine.; Regiune anatomică: Center și align axa longitudinală de falange la raza centrală și axa longitudinală de portion de receptorul de imagine being exposed. Ensure that articulații metatarsofalangiene (MTF) de falange în question este centrat pe raza centrală.
-    - **Punct de Centrare Fascicul:** Angle raza centrală 10° la 15° spre Calcaneu (Raza centrală perpendiculară la falange) (Fig. 6.39). If a 15° wedge este plasat under Picior pentru paralel partfilm alignment, raza centrală este perpendicular pe receptorul de imagine (RI) (Fig. 6.40). Center raza centrală la articulații metatarsofalangiene (MTF) în question.
+    - **Poziție Pacient:** Pacient: Se așază pacientul în decubit dorsal sau în poziție șezândă pe masă; genunchiul trebuie flectat, cu suprafața plantară a piciorului sprijinită pe receptorul de imagine.; Regiune anatomică: Se centrează și se aliniază axa longitudinală a falangei față de raza centrală și față de axa longitudinală a porțiunii receptorului de imagine care urmează să fie expusă. Se asigură centrarea articulației metatarsofalangiene (MTF) a falangei în cauză pe raza centrală.
+    - **Punct de Centrare Fascicul:** Înclinați raza centrală cu 10° la 15° spre calcaneu (raza centrală perpendiculară pe falange) (Fig. 6.39). Dacă o pană de 15° este plasată sub picior pentru alinierea paralelă cu filmul, raza centrală este perpendiculară pe receptorul de imagine (RI) (Fig. 6.40). Centrați raza centrală la nivelul articulațiilor metatarsofalangiene (MTF) în cauză.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -136,23 +145,23 @@ title: Rx Degete Picior AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate pe four sides la aria de interes diagnostic. pe side margins, include minimum de la least part de one falange pe fiecare side de falange în question. Degete Picior ROUTINE AP oblic lateral Fig. 6.39 Second falange (raza centrală, 10° la 15°). Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară). |
+    | **Colimare Fascicul** | Se colimează pe toate cele patru laturi la aria de interes diagnostic. La marginile laterale, se include cel puțin o parte a unei falange de fiecare parte a falangei examinate. Degetele piciorului — INCIDENȚE DE RUTINĂ: AP, oblică, profil. Fig. 6.39 A doua falangă (raza centrală, 10° la 15°). Fig. 6.40 AP a celei de-a doua falange cu suport în formă de pană (raza centrală perpendiculară). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - falange de interest și minimum de distal half de oase metatarsiene trebuie să fie included (Figs. 6.41 și 6.42). poziție:
-    - Individual falange trebuie să fie separated cu fără overlapping de soft tissues.
-    - axa longitudinală de Picior este aliniat la axa longitudinală de portion de receptorul de imagine being exposed.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este present if shafts de falange și distal oase metatarsiene appear equally concave pe ambele părți (bilateral).
-    - rotație appears ca one side being more concave than other.
-    - Side cu increased concavity has been rolled away de la receptorul de imagine.4
-    - IP și articulații metatarsofalangiene (MTF) spaces sunt open. Incorrect raza centrală angulation sau insufficient elevation de forefoot poate distort sau close spații articulare.4
-    - Collimation la aria de interes diagnostic. expunere:
-    - fără mișcare ca evidenced prin sharply defined cortical margins de bone și detailed bony trabeculae.
-    - optim receptorul de imagine expunere și contrast will allow visualization de bony cortical margins și trabeculae și părți moi structures. Fig. 6.41 AP second falange. distal phalanx Middle phalanx 2nd articulații metatarsofalangiene (MTF) (raza centrală) distal 2nd metatarsal proximal phalanx Fig. 6.42 AP second falange.
+    - Falanga de interes și cel puțin jumătatea distală a oaselor metatarsiene trebuie incluse (Fig. 6.41 și 6.42). poziție:
+    - Falangele individuale trebuie separate, fără suprapunerea țesuturilor moi.
+    - Axa longitudinală a piciorului este aliniată cu axa longitudinală a porțiunii receptorului de imagine care urmează să fie expusă.
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase este prezentă dacă diafizele falangelor și oasele metatarsiene distale apar la fel de concave pe ambele părți (bilateral).
+    - Rotația apare ca o parte mai concavă decât cealaltă.
+    - Partea cu concavitatea crescută a fost rulată în sens opus față de receptorul de imagine.4
+    - Spațiile IP și metatarsofalangiene (MTF) sunt deschise. Angulația incorectă a razei centrale sau ridicarea insuficientă a antepiciorului pot deforma sau închide spațiile articulare.4
+    - Colimare la aria de interes diagnostic. Expunere:
+    - fără mișcare, evidențiată prin marginile corticale bine definite ale osului și trabeculele osoase detaliate.
+    - Expunerea optimă a receptorului de imagine și contrastul vor permite vizualizarea marginilor corticale osoase și a trabeculelor, precum și a structurilor țesuturilor moi. Fig. 6.41 AP falanga a doua. Falanga distală, falanga mijlocie, a 2-a articulație metatarsofalangiană (MTF) (raza centrală), metatarsianul 2 distal, falanga proximală. Fig. 6.42 AP falanga a doua.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -164,8 +173,9 @@ title: Rx Degete Picior AP (Antero-Posterior)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Some departmental routines include centering și collimation pentru AP Degete Picior la include toate Degete Picior și distal oase metatarsiene. Most routines involve centering la toe de interest cu closer collimation la include only one falange pe fiecare side de injury.
+    Unele protocoale departamentale includ centrarea și colimarea pentru incidența AP a degetelor piciorului, astfel încât să includă toate degetele piciorului și oasele metatarsiene distale. Majoritatea protocoalelor presupun centrarea pe degetul de interes, cu colimare strânsă pentru a include o singură falangă de fiecare parte a leziunii.
 
 
 ### 🖼️ Imagini
@@ -174,33 +184,33 @@ title: Rx Degete Picior AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.39 Second falange (raza centrală, 10° la 15°).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 6.39 A doua falangă (raza centrală, 10° la 15°).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.39 Second falange (raza centrală, 10° la 15°).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.39 Second falange (raza centrală, 10° la 15°).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.40 AP second falange cu wedge (Raza centrală perpendiculară).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.40 AP second falange cu wedge (raza centrală perpendicular).)</span></figcaption>
+<figcaption><strong>Fig. 6.39 A doua falangă (raza centrală, 10° la 15°).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.39 A doua falangă (raza centrală, 10° la 15°).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.41 AP second](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_3.jpeg)
+![Fig. 6.40 AP falanga a doua cu pană (raza centrală perpendiculară).](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.41 AP second</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.41 AP second)</span></figcaption>
+<figcaption><strong>Fig. 6.40 AP falanga a doua cu pană (raza centrală perpendiculară).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.40 AP a celei de-a doua falange cu pană (raza centrală perpendiculară).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.42 AP second falange.](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_4.jpeg)
+![Fig. 6.41 AP a celei de-a doua](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 6.42 AP second falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.42 AP second falange.)</span></figcaption>
+<figcaption><strong>Fig. 6.41 AP a celei de-a doua</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.41 AP a celei de-a doua)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.42 AP a celei de-a doua falange.](../../assets/images/protocols/bontrager/rx-degete-picior-ap-antero-posterior-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 6.42 AP a celei de-a doua falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.42 AP a celei de-a doua falange.)</span></figcaption>
 
 </figure>
 

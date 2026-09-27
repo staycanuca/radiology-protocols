@@ -47,6 +47,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-profil-lateral-p282-clark/fig_6.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Această incidență este adesea rezervată traumatismelor severe, deoarece
@@ -158,31 +162,32 @@ title: Rx Masiv facial (oasele feței) profil (lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Ortostatism
-• Pacientul stă așezat cu fața spre stativul vertical Bucky sau spre suportul de casetă al unității craniene. Capul este rotit astfel încât partea examinată să fie în contact cu Bucky sau cu suportul de casetă.
-• Brațul de aceeași parte este extins confortabil pe lângă trunchi, în timp ce celălalt braț poate fi folosit pentru prinderea stativului Bucky, pentru stabilitate. Înălțimea stativului Bucky este modificată astfel încât centrul acestuia să fie la 2,5 cm inferior față de cantusul extern al ochiului.
-Decubit dorsal
-• Pacientul este culcat pe targa mobilă, cu brațele întinse pe lângă corp și planul mediosagital vertical față de suprafața tărgii.
-• Caseta cu grilă este sprijinită vertical pe/lângă partea examinată, astfel încât centrul casetei să fie la 2,5 cm inferior față de cantusul extern al ochiului.
+    - **Poziție Pacient:**
+        Ortostatism
 
-• Pacientul este culcat în decubit dorsal, cu una sau două perne sub umeri pentru a permite extensia completă a gâtului.
-• O casetă de 18 × 24 cm este plasată pe/sprijinită de vertexul craniului, astfel încât axa sa longitudinală să fie paralelă cu planul axial al corpului. Aceasta trebuie susținută în această poziție cu tampoane de spumă și săculeți cu nisip.
-• Flexia gâtului este apoi ajustată pentru a aduce axa longitudinală a arcului zigomatic paralelă cu caseta.
-• Capul este apoi înclinat cu cinci până la zece grade în direcția opusă părții examinate. Aceasta permite proiectarea arcului zigomatic examinat pe filmul radiologic fără suprapunerea bolții craniene sau a masivului facial (oaselor feței).
-    - **Punct de Centrare Fascicul:** • Se centrează raza centrală orizontală la 2,5 cm inferior față de cantusul extern al ochiului.
-
-• Raza centrală trebuie să fie perpendiculară pe casetă și pe axa longitudinală a arcului zigomatic.
-• Punctul de centrare trebuie să fie localizat astfel încât raza centrală să treacă prin spațiul dintre punctul de mijloc al arcului zigomatic și marginea laterală a masivului facial (oaselor feței).
-• Se poate aplica o colimare strictă pentru a reduce radiația difuzată și pentru a evita iradierea ochilor.
+        - Pacientul stă așezat cu fața spre stativul vertical Bucky sau spre suportul de casetă al unității craniene. Capul este rotit astfel încât partea examinată să fie în contact cu Bucky sau cu suportul de casetă.
+        - Brațul de aceeași parte este extins confortabil pe lângă trunchi, în timp ce celălalt braț poate fi folosit pentru prinderea stativului Bucky, pentru stabilitate. Înălțimea stativului Bucky este modificată astfel încât centrul acestuia să fie la 2,5 cm inferior față de cantusul extern al ochiului. Decubit dorsal
+        - Pacientul este culcat pe targa mobilă, cu brațele întinse pe lângă corp și planul mediosagital vertical față de suprafața tărgii.
+        - Caseta cu grilă este sprijinită vertical pe/lângă partea examinată, astfel încât centrul casetei să fie la 2,5 cm inferior față de cantusul extern al ochiului.
+        - Pacientul este culcat în decubit dorsal, cu una sau două perne sub umeri pentru a permite extensia completă a gâtului.
+        - O casetă de 18 × 24 cm este plasată pe/sprijinită de vertexul craniului, astfel încât axa sa longitudinală să fie paralelă cu planul axial al corpului. Aceasta trebuie susținută în această poziție cu tampoane de spumă și săculeți cu nisip.
+        - Flexia gâtului este apoi ajustată pentru a aduce axa longitudinală a arcului zigomatic paralelă cu caseta.
+        - Capul este apoi înclinat cu cinci până la zece grade în direcția opusă părții examinate. Aceasta permite proiectarea arcului zigomatic examinat pe filmul radiologic fără suprapunerea bolții craniene sau a masivului facial (oaselor feței).
+    - **Punct de Centrare Fascicul:**
+        - Se centrează raza centrală orizontală la 2,5 cm inferior față de cantusul extern al ochiului.
+        - Raza centrală trebuie să fie perpendiculară pe casetă și pe axa longitudinală a arcului zigomatic.
+        - Punctul de centrare trebuie să fie localizat astfel încât raza centrală să treacă prin spațiul dintre punctul de mijloc al arcului zigomatic și marginea laterală a masivului facial (oaselor feței).
+        - Se poate aplica o colimare strictă pentru a reduce radiația difuzată și pentru a evita iradierea ochilor.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -219,15 +224,13 @@ Decubit dorsal
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • Această incidență este adesea rezervată traumatismelor severe, deoarece structurile faciale sunt suprapuse.
-• Dacă incidența de profil este efectuată pentru un corp străin radiopac în ochi, vor fi necesare colimarea suplimentară și modificarea punctului de centrare.
-Incidență de profil a masivului facial (oaselor feței), evidențiind un corp străin radiopac
 
-• Ambele părți pot fi examinate pe o singură casetă, utilizând două expuneri.
-• Este important ca tehnicianul radiolog să aibă o bună înțelegere a anatomiei pentru a localiza corect poziția arcului zigomatic și a permite astfel o poziționare și o colimare precise.
-• La unele persoane, variațiile anatomice pot să nu permită proiectarea clară a arcului față de craniu.
-268 Arc zigomatic evidențiind o suspiciune dublă de fractură
+!!! note "Observații Clinice & Tehnice"
+    - Această incidență este adesea rezervată traumatismelor severe, deoarece structurile faciale sunt suprapuse.
+    - Dacă incidența de profil este efectuată pentru un corp străin radiopac în ochi, vor fi necesare colimarea suplimentară și modificarea punctului de centrare. Incidență de profil a masivului facial (oaselor feței), evidențiind un corp străin radiopac
+    - Ambele părți pot fi examinate pe o singură casetă, utilizând două expuneri.
+    - Este important ca tehnicianul radiolog să aibă o bună înțelegere a anatomiei pentru a localiza corect poziția arcului zigomatic și a permite astfel o poziționare și o colimare precise.
+    - La unele persoane, variațiile anatomice pot să nu permită proiectarea clară a arcului față de craniu. 268 Arc zigomatic evidențiind o suspiciune dublă de fractură
 
 
 ### 🖼️ Imagini

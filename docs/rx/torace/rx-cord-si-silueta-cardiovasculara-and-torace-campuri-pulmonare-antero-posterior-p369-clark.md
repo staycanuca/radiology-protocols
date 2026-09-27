@@ -3,68 +3,79 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: torace
-centering: '• Assuming pacientul poate sit fully Ortostatism, raza centrală este orientat
-  first la drept-angles la caseta și spre sternal angle.
+centering: '• Presupunând că pacientul poate sta șezând cu trunchiul complet vertical,
+  raza centrală este orientată inițial perpendicular pe casetă și spre unghiul sternal.
 
-  • raza centrală este then înclinat until it este coincident cu middle de film radiologic,
-  thus avoiding unnecessary expunere la eyes.
+  • Raza centrală este apoi înclinată până când coincide cu mijlocul filmului radiologic,
+  evitând astfel expunerea inutilă a ochilor.
 
-  • use de orizontal raza centrală, however, este essential la evidențiază lichid,
-  e.g. revărsat pleural (pleurezie) sau orice air under cupole diafragmatice. If pacientul
-  este able la sit Ortostatism, se orientează raza centrală centrală la drept-angles
-  la middle de caseta. clavicles în resultant radiografie, however, will fie projected
-  above Vârfuri Pulmonare (Apexuri).
+  • Utilizarea unei raze centrale orizontale este însă esențială pentru a evidenția
+  lichidul, de exemplu revărsatul pleural (pleurezia), sau orice aer de sub cupolele
+  diafragmatice. Dacă pacientul poate sta șezând cu trunchiul vertical, orientați
+  raza centrală perpendicular pe mijlocul casetei. Totuși, pe radiografia rezultată,
+  claviculele se vor proiecta deasupra vârfurilor pulmonare (apexurilor).
 
-  • If pacientul este unable la sit Ortostatism, nivele hidroaerice sunt evidențiat
-  using orizontal ray cu pacientul culcat down în poziții (described pe p. 355 opposite).'
+  • Dacă pacientul nu poate sta șezând cu trunchiul vertical, nivelurile hidroaerice
+  sunt evidențiate cu o rază orizontală, cu pacientul culcat în pozițiile descrise
+  pe pagina alăturată, p. 355.'
 clinical_indications:
-- ca general rule, ward radiografie trebuie să fie performed only when it este nu
-  possible la move pacientul la X-ray department și when medical intervention este
-  dependent pe diagnosis confirmed pe radiografie. Antero-posterior (AP)
+- Ca regulă generală, radiografia în salon trebuie efectuată numai atunci când pacientul
+  nu poate fi transportat în serviciul de radiologie și când intervenția medicală
+  depinde de un diagnostic confirmat radiografic. Antero-posterior (AP)
 images:
-- caption: assessed pe ward. radiografii sunt requested la aid în diagno-
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: evaluat în salon. Radiografiile sunt solicitate pentru a ajuta la diagnostic-
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_1.jpeg
-- caption: monary embolus, pneumotorax și revărsat pleural (pleurezie) și pneu-
+- caption: embolie pulmonară, pneumotorax și revărsat pleural (pleurezie) și pneu-
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_2.jpeg
-- caption: monia. Postoperative chest radiografie este also often required.
+- caption: monie. Radiografia toracică postoperatorie este, de asemenea, frecvent
+    necesară.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Where possible, high-powered mobile este used la enable a 180-cm focus-la-film
-  radiologic distance (FFD) pentru Ortostatism positioning de pacientul.
+notes: '• Dacă este posibil, se utilizează un aparat mobil de putere mare, pentru
+  a permite o distanță focar–film radiologic (FFD) de 180 cm, cu pacientul poziționat
+  în ortostatism.
 
-  • pentru Decubit dorsal imagini, FFD poate fie restricted due la height de bed și
-  height limitations de X-ray tube column. FFD trebuie să fie higher than 120 cm,
-  otherwise imagine magnification will increase disproportionately.
+  • Pentru imaginile în decubit dorsal, FFD poate fi limitată de înălțimea patului
+  și de limitele de înălțime ale coloanei tubului de raze X. FFD trebuie să fie mai
+  mare de 120 cm; altfel, mărirea imaginii va crește disproporționat.
 
-  354 Antero-posterior (AP) Ortostatism radiografie evidențiind bilateral consolidation
-  cu drept revărsat pleural (pleurezie) (în this case due la tuberculosis) Antero-posterior
-  (AP) Decubit dorsal radiografie evidențiind extensive pulmonary oedema și haemorrhage
-  after trauma, cu multiple stâng-sided rib suspiciune de fractură. Sternal wires
-  indicate previous cardiac surgery. Note stâng jugular central line și tracheostomy.
-  It este nu possible la exclude revărsat pleural (pleurezie) sau pneumotorax pe Antero-posterior
-  (AP) Decubit dorsal imagine'
-position: '• Where possible, pacientul trebuie să fie X-rayed Poziție Șezândă Ortostatism
-  și facing X-ray tube. caseta este sprijinit pe / sprijinit de back, using pillows
-  sau large wedge-shaped foam pad, cu its upper edge above câmpuri pulmonare.
+  354 Radiografie antero-posterioară (AP) în ortostatism care evidențiază condensare
+  bilaterală cu revărsat pleural (pleurezie) drept (în acest caz, din cauza tuberculozei).
+  Radiografie antero-posterioară (AP) în decubit dorsal care evidențiază edem pulmonar
+  extins și hemoragie după traumatism, cu suspiciune de fracturi costale multiple
+  pe partea stângă. Firele sternale indică intervenție chirurgicală cardiacă anterioară.
+  Observați cateterul venos central jugular stâng și traheostomia. Nu este posibilă
+  excluderea revărsatului pleural (pleureziei) sau a pneumotoraxului pe imaginea antero-posterioară
+  (AP) în decubit dorsal.'
+position: '• Dacă este posibil, radiografia trebuie efectuată cu pacientul șezând,
+  cu trunchiul vertical și fața spre tubul de raze X. Caseta este sprijinită de spate,
+  folosind perne sau un suport mare din spumă, în formă de pană, cu marginea sa superioară
+  deasupra câmpurilor pulmonare.
 
-  • If this este nu possible, pacientul poate fie poziționat Decubit dorsal.
+  • Dacă acest lucru nu este posibil, pacientul poate fi poziționat în decubit dorsal.
 
-  Semi-Șezând poziție este nu favoured ca grade de recumbence este nu reproducible
-  across series de imagini.
+  Poziția semișezândă nu este preferată, deoarece gradul de înclinare nu este reproductibil
+  într-o serie de imagini.
 
-  • planul mediosagital este ajustat la drept-angles la, și în linia mediană de, caseta.
+  • Planul mediosagital este ajustat perpendicular pe casetă și pe linia mediană a
+  acesteia.
 
-  • rotație de pacientul este prevented prin use de foam pads.
+  • Rotația pacientului este prevenită prin utilizarea suporturilor din spumă.
 
-  rotație produces range de artefacts (see p. 205) și trebuie să fie avoided sau minimized.
-  If possible, brațele sunt rotit medially, cu umerii brought forward la bring scapulae
-  clear de câmpuri pulmonare.'
+  Rotația produce diverse artefacte (consultați p. 205) și trebuie evitată sau redusă
+  la minimum. Dacă este posibil, brațele sunt rotite medial, cu umerii aduși înainte
+  pentru a scoate scapulele din câmpurile pulmonare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -73,8 +84,8 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Cord și Siluetă Cardiovasculară și Torace
-  (Câmpuri Pulmonare)).
+- Vizualizarea clară a întregii arii anatomice (cord și siluetă cardiovasculară și
+  torace (câmpuri pulmonare)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -86,15 +97,15 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Antero-Posterior
+  mas: Conform AEC / grosimii anatomice
+title: Rx cord, siluetă cardiovasculară și torace (câmpuri pulmonare) antero-posterior
   (AP)
 ---
-# Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Antero-Posterior (AP)
+# Rx cord, siluetă cardiovasculară și torace (câmpuri pulmonare) antero-posterior (AP)
 
 
 <div class="rx-meta-bar">
@@ -113,30 +124,31 @@ title: Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Ant
 
     === "Indicații Clinice"
 
-        - ca general rule, ward radiografie trebuie să fie performed only when it este nu possible la move pacientul la X-ray department și when medical intervention este dependent pe diagnosis confirmed pe radiografie. Antero-posterior (AP)
+        - Ca regulă generală, radiografia în salon trebuie efectuată numai atunci când pacientul nu poate fi transportat în serviciul de radiologie și când intervenția medicală depinde de un diagnostic confirmat radiografic. Antero-posterior (AP)
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Where possible, pacientul trebuie să fie X-rayed Poziție Șezândă Ortostatism și facing X-ray tube. caseta este sprijinit pe / sprijinit de back, using pillows sau large wedge-shaped foam pad, cu its upper edge above câmpuri pulmonare.
-• If this este nu possible, pacientul poate fie poziționat Decubit dorsal.
-Semi-Șezând poziție este nu favoured ca grade de recumbence este nu reproducible across series de imagini.
-• planul mediosagital este ajustat la drept-angles la, și în linia mediană de, caseta.
-• rotație de pacientul este prevented prin use de foam pads.
-rotație produces range de artefacts (see p. 205) și trebuie să fie avoided sau minimized. If possible, brațele sunt rotit medially, cu umerii brought forward la bring scapulae clear de câmpuri pulmonare.
-    - **Punct de Centrare Fascicul:** • Assuming pacientul poate sit fully Ortostatism, raza centrală este orientat first la drept-angles la caseta și spre sternal angle.
-• raza centrală este then înclinat until it este coincident cu middle de film radiologic, thus avoiding unnecessary expunere la eyes.
-• use de orizontal raza centrală, however, este essential la evidențiază lichid, e.g. revărsat pleural (pleurezie) sau orice air under cupole diafragmatice. If pacientul este able la sit Ortostatism, se orientează raza centrală centrală la drept-angles la middle de caseta. clavicles în resultant radiografie, however, will fie projected above Vârfuri Pulmonare (Apexuri).
-• If pacientul este unable la sit Ortostatism, nivele hidroaerice sunt evidențiat using orizontal ray cu pacientul culcat down în poziții (described pe p. 355 opposite).
+    - **Poziție Pacient:**
+        - Dacă este posibil, radiografia trebuie efectuată cu pacientul șezând, cu trunchiul vertical și fața spre tubul de raze X. Caseta este sprijinită de spate, folosind perne sau un suport mare din spumă, în formă de pană, cu marginea sa superioară deasupra câmpurilor pulmonare.
+        - Dacă acest lucru nu este posibil, pacientul poate fi poziționat în decubit dorsal. Poziția semișezândă nu este preferată, deoarece gradul de înclinare nu este reproductibil într-o serie de imagini.
+        - Planul mediosagital este ajustat perpendicular pe casetă și pe linia mediană a acesteia.
+        - Rotația pacientului este prevenită prin utilizarea suporturilor din spumă. Rotația produce diverse artefacte (consultați p. 205) și trebuie evitată sau redusă la minimum. Dacă este posibil, brațele sunt rotite medial, cu umerii aduși înainte pentru a scoate scapulele din câmpurile pulmonare.
+    - **Punct de Centrare Fascicul:**
+        - Presupunând că pacientul poate sta șezând cu trunchiul complet vertical, raza centrală este orientată inițial perpendicular pe casetă și spre unghiul sternal.
+        - Raza centrală este apoi înclinată până când coincide cu mijlocul filmului radiologic, evitând astfel expunerea inutilă a ochilor.
+        - Utilizarea unei raze centrale orizontale este însă esențială pentru a evidenția lichidul, de exemplu revărsatul pleural (pleurezia), sau orice aer de sub cupolele diafragmatice. Dacă pacientul poate sta șezând cu trunchiul vertical, orientați raza centrală perpendicular pe mijlocul casetei. Totuși, pe radiografia rezultată, claviculele se vor proiecta deasupra vârfurilor pulmonare (apexurilor).
+        - Dacă pacientul nu poate sta șezând cu trunchiul vertical, nivelurile hidroaerice sunt evidențiate cu o rază orizontală, cu pacientul culcat în pozițiile descrise pe pagina alăturată, p. 355.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -147,19 +159,19 @@ rotație produces range de artefacts (see p. 205) și trebuie să fie avoided sa
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Cord și Siluetă Cardiovasculară și Torace (Câmpuri Pulmonare)).
+    - Vizualizarea clară a întregii arii anatomice (cord și siluetă cardiovasculară și torace (câmpuri pulmonare)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -173,10 +185,10 @@ rotație produces range de artefacts (see p. 205) și trebuie să fie avoided sa
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Where possible, high-powered mobile este used la enable a 180-cm focus-la-film radiologic distance (FFD) pentru Ortostatism positioning de pacientul.
-• pentru Decubit dorsal imagini, FFD poate fie restricted due la height de bed și height limitations de X-ray tube column. FFD trebuie să fie higher than 120 cm, otherwise imagine magnification will increase disproportionately.
-354 Antero-posterior (AP) Ortostatism radiografie evidențiind bilateral consolidation cu drept revărsat pleural (pleurezie) (în this case due la tuberculosis) Antero-posterior (AP) Decubit dorsal radiografie evidențiind extensive pulmonary oedema și haemorrhage after trauma, cu multiple stâng-sided rib suspiciune de fractură. Sternal wires indicate previous cardiac surgery. Note stâng jugular central line și tracheostomy. It este nu possible la exclude revărsat pleural (pleurezie) sau pneumotorax pe Antero-posterior (AP) Decubit dorsal imagine
+    - Dacă este posibil, se utilizează un aparat mobil de putere mare, pentru a permite o distanță focar–film radiologic (FFD) de 180 cm, cu pacientul poziționat în ortostatism.
+    - Pentru imaginile în decubit dorsal, FFD poate fi limitată de înălțimea patului și de limitele de înălțime ale coloanei tubului de raze X. FFD trebuie să fie mai mare de 120 cm; altfel, mărirea imaginii va crește disproporționat. 354 Radiografie antero-posterioară (AP) în ortostatism care evidențiază condensare bilaterală cu revărsat pleural (pleurezie) drept (în acest caz, din cauza tuberculozei). Radiografie antero-posterioară (AP) în decubit dorsal care evidențiază edem pulmonar extins și hemoragie după traumatism, cu suspiciune de fracturi costale multiple pe partea stângă. Firele sternale indică intervenție chirurgicală cardiacă anterioară. Observați cateterul venos central jugular stâng și traheostomia. Nu este posibilă excluderea revărsatului pleural (pleureziei) sau a pneumotoraxului pe imaginea antero-posterioară (AP) în decubit dorsal.
 
 
 ### 🖼️ Imagini
@@ -185,25 +197,25 @@ rotație produces range de artefacts (see p. 205) și trebuie să fie avoided sa
 
 <figure class="protocol-image-card" markdown>
 
-![assessed pe ward. radiografii sunt requested la aid în diagno-](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_1.jpeg)
+![evaluat în salon. Radiografiile sunt solicitate pentru a ajuta la diagnostic-](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_1.jpeg)
 
-<figcaption><strong>assessed pe ward. radiografii sunt requested la aid în diagno-</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![monary embolus, pneumotorax și revărsat pleural (pleurezie) și pneu-](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_2.jpeg)
-
-<figcaption><strong>monary embolus, pneumotorax și revărsat pleural (pleurezie) și pneu-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>evaluat în salon. Radiografiile sunt solicitate pentru a ajuta la diagnostic-</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![monia. Postoperative chest radiografie este also often required.](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_3.jpeg)
+![embolie pulmonară, pneumotorax și revărsat pleural (pleurezie) și pneu-](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_2.jpeg)
 
-<figcaption><strong>monia. Postoperative chest radiografie este also often required.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>embolie pulmonară, pneumotorax și revărsat pleural (pleurezie) și pneu-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![monie. Radiografia toracică postoperatorie este, de asemenea, frecvent necesară.](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-antero-posterior-p369-clark/fig_3.jpeg)
+
+<figcaption><strong>monie. Radiografia toracică postoperatorie este, de asemenea, frecvent necesară.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

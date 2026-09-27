@@ -2,46 +2,53 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Raza centrală se înclină 5°–7° cranial (spre cap) pentru lateral Decubit
-  incidență (see NOTES 2 și 3). Raza centrală se orientează spre point 1 inch (2.5
-  cm) distal la epicondil medial (epitrohlee).
+centering: Raza centrală se înclină cu 5°–7° cranial (spre cap) pentru incidența de
+  profil în decubit (vezi NOTELE 2 și 3). Raza centrală se orientează spre un punct
+  situat la 1 țol (2.5 cm) distal față de epicondilul medial (epitrohlee).
 clinical_indications:
-- suspiciune de fractură, lesions, și spații articulare abnormalities
+- Fractură suspectată, leziuni și anomalii ale spațiilor articulare.
 images:
-- caption: Fig. 6.112 Mediolateral Genunchi. Inset, Lateromedial—orizontal fascicul.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.112 Mediolateral
-    genunchi. Inset, Lateromedial—orizontal fascicul.)
+- caption: Fig. 6.112 Genunchi mediolateral. Imagine inserată, lateromedială — fascicul
+    orizontal.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.112 Genunchi
+    mediolateral. Imagine inserată, lateromedială — fascicul orizontal.)
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_1.jpeg
-- caption: Fig. 6.113 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 6.113 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.113
-    Mediolateral genunchi. (Courtesy Joss Wertz, DO.))
+    Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_2.jpeg
-- caption: Fig. 6.114 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 6.114 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.114
-    Mediolateral genunchi. (Courtesy Joss Wertz, DO.))
+    Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: If Gleznă (Articulație Talocrurală) și Gambă poate fie ridicat la same plane
-  ca axa longitudinală de Femur, perpendicular raza centrală poate fie used. (30)
-  18 (24) Genunchi ROUTINE AP oblic lateral Fig. 6.112 Mediolateral Genunchi. Inset,
-  Lateromedial—orizontal fascicul.
-position: 'Pacient: This poziție poate fie taken în lateral Decubit poziție sau ca
-  orizontal fascicul lateral. lateral Decubit poziție This incidență este designed
-  pentru pacienți who sunt able la se flectează Genunchi 20° la 30°. Take radiografie
-  cu pacient în lateral Decubit poziție, affected side down; provide pillow pentru
-  pacient’s cap; provide support pentru Genunchi de opposite limb plasat behind Genunchi
-  being examined la prevent overrotation (Fig. 6.112). orizontal fascicul incidență
-  This lateromedial fascicul incidență este ideal pentru pacient who este unable la
-  se flectează Genunchi because de pain sau traumatism acuttism / Regim Urgență. cu
-  pacientul în Decubit ventral poziție, use orizontal fascicul cu receptorul de imagine
-  plasat beside Genunchi. Place support under Genunchi la avoid obscuring posterior
-  părți moi structures (see Fig. 6.112, inset).; Regiune anatomică: Adjust rotație
-  de corp și membru inferior until Genunchi este în true Incidență de Profil (lateral)
-  (femoral epicondyles directly superimposed și plane de Rotulă (Patelă) perpendicular
-  la plane de receptorul de imagine). Flex Genunchi 20° la 30° pentru lateral Decubit
-  incidență (see NOTE 1). Align și center membru inferior și Genunchi la raza centrală
-  și la linia mediană mesei sau receptorul de imagine.'
+notes: Dacă glezna (articulația talocrurală) și gamba pot fi ridicate în același plan
+  cu axa longitudinală a femurului, se poate utiliza o rază centrală perpendiculară.
+  (30) 18 (24) GENUNCHI AP DE RUTINĂ oblic lateral. Fig. 6.112 Genunchi mediolateral.
+  Imagine inserată, lateromedială — fascicul orizontal.
+position: 'Pacient: Această poziție poate fi efectuată în decubit lateral sau ca incidență
+  cu fascicul orizontal. Decubit lateral: această incidență este destinată pacienților
+  care pot flecta genunchiul la 20° până la 30°. Efectuați radiografia cu pacientul
+  în decubit lateral, cu partea afectată în jos; asigurați o pernă pentru capul pacientului;
+  asigurați un suport pentru genunchiul membrului opus, plasat în spatele genunchiului
+  examinat, pentru a preveni rotația excesivă (Fig. 6.112). Incidență cu fascicul
+  orizontal: această incidență lateromedială cu fascicul orizontal este ideală pentru
+  pacientul care nu poate flecta genunchiul din cauza durerii sau a unui traumatism
+  acut / regim de urgență. Cu pacientul în decubit ventral, utilizați un fascicul
+  orizontal, cu receptorul de imagine plasat lângă genunchi. Așezați un suport sub
+  genunchi pentru a evita obscurarea structurilor posterioare ale părților moi (vezi
+  Fig. 6.112, imagine inserată).; Regiune anatomică: Ajustați rotația corpului și
+  a membrului inferior până când genunchiul este în adevărată incidență de profil
+  (laterală) (epicondilii femurali direct suprapuși, iar planul rotulei (patela) perpendicular
+  pe planul receptorului de imagine). Flectați genunchiul la 20° până la 30° pentru
+  incidența în decubit lateral (vezi NOTA 1). Aliniați și centrați membrul inferior
+  și genunchiul față de raza centrală și linia mediană a mesei sau a receptorului
+  de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,27 +56,28 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- distal Femur, proximal tibia și fibula, și Rotulă (Patelă) sunt vizualizat în lateral
-  profile.
-- 'Patellofemoral și Genunchi articulații trebuie să fie open (Figs. 6.113 și 6.114).
-  poziție:'
-- Overrotation sau underrotation poate fie determined prin identifying adductor tubercle
-  pe medial condyle, if vizibil (see Fig. 6.33), și prin amount de superimposition
-  de cap peronier (fibular) prin tibia (overrotation, less superimposition de cap
-  peronier (fibular); underrotation, more superimposition).
-- True Incidență de Profil (lateral) de Genunchi fără rotație evidențiază posterior
-  margini de femoral condyles directly superimposed.
-- Rotulă (Patelă) trebuie să fie seen în profile cu patellofemoral spații articulare
-  open.
-- 5° la 10° cranial angle de raza centrală trebuie să result în direct superimposition
-  de distal margini de condyles.
-- 'Genunchi articulație este în center de câmp colimat. expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare visualizes important
-  părți moi detail, including fat pad region anterior la Genunchi articulație și net
-  trabecular markings. Fig. 6.113 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)
-  Superimposed medial și lateral condyles cap peronier (fibular) Fibula Femur Tibia
-  Intercondylar eminence Patellofemoral articulație Fig. 6.114 Mediolateral Genunchi.
-  (Courtesy Joss Wertz, DO.)
+- Femurul distal, tibia și peroneul proximale, precum și rotula (patela) sunt vizualizate
+  în profil lateral.
+- 'Articulațiile patelofemurală și a genunchiului trebuie să fie deschise (Fig. 6.113
+  și 6.114). Poziție:'
+- 'Rotația excesivă sau insuficientă poate fi determinată prin identificarea tuberculului
+  adductor de pe condilul medial, dacă este vizibil (vezi Fig. 6.33), și prin gradul
+  de suprapunere a capului peronier prin tibie (rotație excesivă: mai puțină suprapunere
+  a capului peronier; rotație insuficientă: mai multă suprapunere).'
+- Adevărata incidență de profil lateral a genunchiului, fără rotație, evidențiază
+  marginile posterioare ale condililor femurali suprapuse direct.
+- Rotula (patela) trebuie să fie vizualizată în profil, cu spațiile articulare patelofemurale
+  deschise.
+- Un unghi cranial de 5° până la 10° al razei centrale trebuie să determine suprapunerea
+  directă a marginilor distale ale condililor.
+- 'Articulația genunchiului este în centrul câmpului colimat. Expunere:'
+- Expunerea și contrastul receptorului de imagine trebuie să fie optime; absența mișcării
+  evidențiază detaliile importante ale părților moi, inclusiv regiunea corpului adipos
+  anterior articulației genunchiului, precum și desenul trabecular fin. Fig. 6.113
+  Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.) Condili medial și lateral
+  suprapuși direct. Cap peronier (fibular). Peroneu. Femur. Tibie. Eminență intercondiliană.
+  Articulație patelofemurală. Fig. 6.114 Genunchi mediolateral. (Cu amabilitatea lui
+  Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-mediolateral-projection-lateral-genunchi-bontrager
 sources:
@@ -77,16 +85,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate pe ambele părți (bilateral) la skin margins, cu full collimation
-    la ends la receptorul de imagine margini la include maximum Femur, tibia, și fibula.
+  collimation: Colimați bilateral până la marginile cutanate, cu colimare completă
+    la capetele marginilor receptorului de imagine, pentru a include maximum din femur,
+    tibie și peroneu.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 65-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Medio-Lateral Incidență LATERAL (Genunchi)
+title: Rx genunchi — incidență mediolaterală, profil
 ---
-# Rx Medio-Lateral Incidență LATERAL (Genunchi)
+# Rx genunchi — incidență mediolaterală, profil
 
 
 <div class="rx-meta-bar">
@@ -105,22 +114,23 @@ title: Rx Medio-Lateral Incidență LATERAL (Genunchi)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură, lesions, și spații articulare abnormalities
+        - Fractură suspectată, leziuni și anomalii ale spațiilor articulare.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: This poziție poate fie taken în lateral Decubit poziție sau ca orizontal fascicul lateral. lateral Decubit poziție This incidență este designed pentru pacienți who sunt able la se flectează Genunchi 20° la 30°. Take radiografie cu pacient în lateral Decubit poziție, affected side down; provide pillow pentru pacient’s cap; provide support pentru Genunchi de opposite limb plasat behind Genunchi being examined la prevent overrotation (Fig. 6.112). orizontal fascicul incidență This lateromedial fascicul incidență este ideal pentru pacient who este unable la se flectează Genunchi because de pain sau traumatism acuttism / Regim Urgență. cu pacientul în Decubit ventral poziție, use orizontal fascicul cu receptorul de imagine plasat beside Genunchi. Place support under Genunchi la avoid obscuring posterior părți moi structures (see Fig. 6.112, inset).; Regiune anatomică: Adjust rotație de corp și membru inferior until Genunchi este în true Incidență de Profil (lateral) (femoral epicondyles directly superimposed și plane de Rotulă (Patelă) perpendicular la plane de receptorul de imagine). Flex Genunchi 20° la 30° pentru lateral Decubit incidență (see NOTE 1). Align și center membru inferior și Genunchi la raza centrală și la linia mediană mesei sau receptorul de imagine.
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină 5°–7° cranial (spre cap) pentru lateral Decubit incidență (see NOTES 2 și 3). Raza centrală se orientează spre point 1 inch (2.5 cm) distal la epicondil medial (epitrohlee).
+    - **Poziție Pacient:** Pacient: Această poziție poate fi efectuată în decubit lateral sau ca incidență cu fascicul orizontal. Decubit lateral: această incidență este destinată pacienților care pot flecta genunchiul la 20° până la 30°. Efectuați radiografia cu pacientul în decubit lateral, cu partea afectată în jos; asigurați o pernă pentru capul pacientului; asigurați un suport pentru genunchiul membrului opus, plasat în spatele genunchiului examinat, pentru a preveni rotația excesivă (Fig. 6.112). Incidență cu fascicul orizontal: această incidență lateromedială cu fascicul orizontal este ideală pentru pacientul care nu poate flecta genunchiul din cauza durerii sau a unui traumatism acut / regim de urgență. Cu pacientul în decubit ventral, utilizați un fascicul orizontal, cu receptorul de imagine plasat lângă genunchi. Așezați un suport sub genunchi pentru a evita obscurarea structurilor posterioare ale părților moi (vezi Fig. 6.112, imagine inserată).; Regiune anatomică: Ajustați rotația corpului și a membrului inferior până când genunchiul este în adevărată incidență de profil (laterală) (epicondilii femurali direct suprapuși, iar planul rotulei (patela) perpendicular pe planul receptorului de imagine). Flectați genunchiul la 20° până la 30° pentru incidența în decubit lateral (vezi NOTA 1). Aliniați și centrați membrul inferior și genunchiul față de raza centrală și linia mediană a mesei sau a receptorului de imagine.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 5°–7° cranial (spre cap) pentru incidența de profil în decubit (vezi NOTELE 2 și 3). Raza centrală se orientează spre un punct situat la 1 țol (2.5 cm) distal față de epicondilul medial (epitrohlee).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -136,21 +146,21 @@ title: Rx Medio-Lateral Incidență LATERAL (Genunchi)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate pe ambele părți (bilateral) la skin margins, cu full collimation la ends la receptorul de imagine margini la include maximum Femur, tibia, și fibula. |
+    | **Colimare Fascicul** | Colimați bilateral până la marginile cutanate, cu colimare completă la capetele marginilor receptorului de imagine, pentru a include maximum din femur, tibie și peroneu. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal Femur, proximal tibia și fibula, și Rotulă (Patelă) sunt vizualizat în lateral profile.
-    - Patellofemoral și Genunchi articulații trebuie să fie open (Figs. 6.113 și 6.114). poziție:
-    - Overrotation sau underrotation poate fie determined prin identifying adductor tubercle pe medial condyle, if vizibil (see Fig. 6.33), și prin amount de superimposition de cap peronier (fibular) prin tibia (overrotation, less superimposition de cap peronier (fibular); underrotation, more superimposition).
-    - True Incidență de Profil (lateral) de Genunchi fără rotație evidențiază posterior margini de femoral condyles directly superimposed.
-    - Rotulă (Patelă) trebuie să fie seen în profile cu patellofemoral spații articulare open.
-    - 5° la 10° cranial angle de raza centrală trebuie să result în direct superimposition de distal margini de condyles.
-    - Genunchi articulație este în center de câmp colimat. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare visualizes important părți moi detail, including fat pad region anterior la Genunchi articulație și net trabecular markings. Fig. 6.113 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.) Superimposed medial și lateral condyles cap peronier (fibular) Fibula Femur Tibia Intercondylar eminence Patellofemoral articulație Fig. 6.114 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)
+    - Femurul distal, tibia și peroneul proximale, precum și rotula (patela) sunt vizualizate în profil lateral.
+    - Articulațiile patelofemurală și a genunchiului trebuie să fie deschise (Fig. 6.113 și 6.114). Poziție:
+    - Rotația excesivă sau insuficientă poate fi determinată prin identificarea tuberculului adductor de pe condilul medial, dacă este vizibil (vezi Fig. 6.33), și prin gradul de suprapunere a capului peronier prin tibie (rotație excesivă: mai puțină suprapunere a capului peronier; rotație insuficientă: mai multă suprapunere).
+    - Adevărata incidență de profil lateral a genunchiului, fără rotație, evidențiază marginile posterioare ale condililor femurali suprapuse direct.
+    - Rotula (patela) trebuie să fie vizualizată în profil, cu spațiile articulare patelofemurale deschise.
+    - Un unghi cranial de 5° până la 10° al razei centrale trebuie să determine suprapunerea directă a marginilor distale ale condililor.
+    - Articulația genunchiului este în centrul câmpului colimat. Expunere:
+    - Expunerea și contrastul receptorului de imagine trebuie să fie optime; absența mișcării evidențiază detaliile importante ale părților moi, inclusiv regiunea corpului adipos anterior articulației genunchiului, precum și desenul trabecular fin. Fig. 6.113 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.) Condili medial și lateral suprapuși direct. Cap peronier (fibular). Peroneu. Femur. Tibie. Eminență intercondiliană. Articulație patelofemurală. Fig. 6.114 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -162,8 +172,9 @@ title: Rx Medio-Lateral Incidență LATERAL (Genunchi)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    If Gleznă (Articulație Talocrurală) și Gambă poate fie ridicat la same plane ca axa longitudinală de Femur, perpendicular raza centrală poate fie used. (30) 18 (24) Genunchi ROUTINE AP oblic lateral Fig. 6.112 Mediolateral Genunchi. Inset, Lateromedial—orizontal fascicul.
+    Dacă glezna (articulația talocrurală) și gamba pot fi ridicate în același plan cu axa longitudinală a femurului, se poate utiliza o rază centrală perpendiculară. (30) 18 (24) GENUNCHI AP DE RUTINĂ oblic lateral. Fig. 6.112 Genunchi mediolateral. Imagine inserată, lateromedială — fascicul orizontal.
 
 
 ### 🖼️ Imagini
@@ -172,25 +183,25 @@ title: Rx Medio-Lateral Incidență LATERAL (Genunchi)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.112 Mediolateral Genunchi. Inset, Lateromedial—orizontal fascicul.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_1.jpeg)
+![Fig. 6.112 Genunchi mediolateral. Imagine inserată, lateromedială — fascicul orizontal.](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.112 Mediolateral Genunchi. Inset, Lateromedial—orizontal fascicul.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.112 Mediolateral genunchi. Inset, Lateromedial—orizontal fascicul.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.113 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.113 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.113 Mediolateral genunchi. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 6.112 Genunchi mediolateral. Imagine inserată, lateromedială — fascicul orizontal.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.112 Genunchi mediolateral. Imagine inserată, lateromedială — fascicul orizontal.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.114 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_3.jpeg)
+![Fig. 6.113 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.114 Mediolateral Genunchi. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.114 Mediolateral genunchi. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 6.113 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.113 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.))</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.114 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-mediolateral-projection-lateral-genunchi-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.114 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.114 Genunchi mediolateral. (Cu amabilitatea lui Joss Wertz, DO.))</span></figcaption>
 
 </figure>
 

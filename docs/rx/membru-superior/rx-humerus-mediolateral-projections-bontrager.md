@@ -1,36 +1,42 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii. 35 (24) (30) Fig. 5.29 Ortostatism laterallateromedial
-  incidență, back la receptorul de imagine. Fig. 5.30 Decubit dorsal Incidență de
-  Profil (lateral). Fig. 5.31 Ortostatism lateralmediolateral incidență, facing receptorul
-  de imagine. Fig. 5.32 Ortostatism mediolateral Humerus incidență. (Courtesy Joss
-  Wertz, DO.)
+breathing: Apnee pe durata expunerii. 35 (24) (30) Fig. 5.29 Incidență latero-medială
+  în ortostatism, cu spatele la receptorul de imagine. Fig. 5.30 Incidență de profil
+  (lateral) în decubit dorsal. Fig. 5.31 Incidență latero-medială în ortostatism,
+  cu fața spre receptorul de imagine. Fig. 5.32 Incidență mediolaterală a humerusului
+  în ortostatism. (Cu amabilitatea lui Joss Wertz, DO.)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, centrat pe midpoint de Humerus
+centering: Perpendicular pe receptorul de imagine, centrat pe punctul median al humerusului.
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de Humerus
-- Pathologic processes including osteoporosis
+- Suspiciune de fractură și luxație/subluxație articulară a humerusului.
+- Procese patologice, inclusiv osteoporoza.
 images:
-- caption: Fig. 5.29 Ortostatism lateral-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.29 în ortostatism
-    lateral-)
+- caption: Fig. 5.29 Incidență latero-medială în ortostatism —
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 5.29 în ortostatism
+    latero-medial —)
   url: assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_1.jpeg
-- caption: Fig. 5.30 Decubit dorsal Incidență de Profil (lateral).
-  description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.30
-    în decubit dorsal lateral incidență.)
+- caption: Fig. 5.30 Incidență de profil (lateral) în decubit dorsal.
+  description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.30,
+    incidență laterală în decubit dorsal).
   url: assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_2.jpeg
-- caption: Fig. 5.31 Ortostatism lateral-
+- caption: Fig. 5.31 Incidență latero-medială în ortostatism —
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.31
-    în ortostatism lateral-)
+    în ortostatism latero-medial —)
   url: assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_3.jpeg
-- caption: Fig. 5.32 Ortostatism mediolateral Humerus incidență. (Courtesy Joss
+- caption: Fig. 5.32 Incidență mediolaterală a humerusului în ortostatism. (Cu amabilitatea
+    lui Joss
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.32
-    în ortostatism mediolateral humerus incidență. (Courtesy Joss)
+    în incidență mediolaterală a humerusului în ortostatism. (Cu amabilitatea lui
+    Joss)
   url: assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_4.jpeg
-- caption: Fig. 5.32 și also Fig. 5.33).
+- caption: Fig. 5.32 și, de asemenea, Fig. 5.33).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.32
-    și also Fig. 5.33).)
+    și, de asemenea, Fig. 5.33).)
   url: assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_5.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -42,18 +48,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Incidență de Profil (lateral) de entire Humerus, including Cot și Umăr articulații,
-  este vizibil (see Fig. 5.32 și also Fig. 5.33). poziție:'
-- 'True Incidență de Profil (lateral) este evidenced prin following: epicondyles sunt
-  directly superimposed; mică tuberozitate humerală (trohin) este vizualizat în profile
-  medially, partially superimposed prin lower portion de cavitate glenoidă.'
-- 'Collimation field size la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare visualize clear,
-  Contururi osoase și travee trabeculare nete, fără artefacte de mișcare de entire
-  Humerus. Humerus ROUTINE
+- 'Este vizibilă incidența de profil (lateral) a întregului humerus, inclusiv articulațiile
+  cotului și umărului (vezi Fig. 5.32 și, de asemenea, Fig. 5.33). Poziție:'
+- 'Incidența adevărată de profil (lateral) este demonstrată prin următoarele: epicondilii
+  sunt suprapuși direct; tuberozitatea mică humerală (trohinul) este vizualizată în
+  profil medial, suprapusă parțial peste porțiunea inferioară a cavității glenoide.'
+- 'Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:'
+- Expunere și contrast optime ale receptorului de imagine, fără mișcare, cu vizualizarea
+  clară a contururilor osoase și a traveelor trabeculare, fără artefacte de mișcare
+  ale întregului humerus. HUMERUS DE RUTINĂ
 - AP
-- Rotational lateral Shaft (corp) cap de Humerus medial și lateral epicondyles superimposed
-  Fig. 5.33 Mediolateral incidență. (Courtesy Joss Wertz, DO.)
+- Rotirea laterală a diafizei (corpului) humerusului; capul humerusului; epicondilii
+  medial și lateral suprapuși. Fig. 5.33 Incidență mediolaterală. (Cu amabilitatea
+  lui Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-humerus-mediolateral-projections-bontrager
 sources:
@@ -61,16 +68,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la părți moi margine de Humerus,
-    ensuring that toate de Umăr și Cot articulații sunt included (Fig. 5.32).
+  collimation: 'Dimensiunea câmpului: se colimează pe toate cele patru laturi până
+    la marginea țesuturilor moi ale humerusului, asigurând includerea tuturor articulațiilor
+    umărului și cotului (Fig. 5.32).'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Humerus Medio-Lateral Incidență
+title: Rx Humerus — Incidență mediolaterală
 ---
-# Rx Humerus Medio-Lateral Incidență
+# Rx Humerus — Incidență mediolaterală
 
 
 <div class="rx-meta-bar">
@@ -89,25 +97,26 @@ title: Rx Humerus Medio-Lateral Incidență
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de Humerus
-        - Pathologic processes including osteoporosis
+        - Suspiciune de fractură și luxație/subluxație articulară a humerusului.
+        - Procese patologice, inclusiv osteoporoza.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat pe midpoint de Humerus
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, centrat pe punctul median al humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii. 35 (24) (30) Fig. 5.29 Ortostatism laterallateromedial incidență, back la receptorul de imagine. Fig. 5.30 Decubit dorsal Incidență de Profil (lateral). Fig. 5.31 Ortostatism lateralmediolateral incidență, facing receptorul de imagine. Fig. 5.32 Ortostatism mediolateral Humerus incidență. (Courtesy Joss Wertz, DO.)
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. 35 (24) (30) Fig. 5.29 Incidență latero-medială în ortostatism, cu spatele la receptorul de imagine. Fig. 5.30 Incidență de profil (lateral) în decubit dorsal. Fig. 5.31 Incidență latero-medială în ortostatism, cu fața spre receptorul de imagine. Fig. 5.32 Incidență mediolaterală a humerusului în ortostatism. (Cu amabilitatea lui Joss Wertz, DO.)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -121,19 +130,19 @@ title: Rx Humerus Medio-Lateral Incidență
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la părți moi margine de Humerus, ensuring that toate de Umăr și Cot articulații sunt included (Fig. 5.32). |
+    | **Colimare Fascicul** | Dimensiunea câmpului: se colimează pe toate cele patru laturi până la marginea țesuturilor moi ale humerusului, asigurând includerea tuturor articulațiilor umărului și cotului (Fig. 5.32). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Incidență de Profil (lateral) de entire Humerus, including Cot și Umăr articulații, este vizibil (see Fig. 5.32 și also Fig. 5.33). poziție:
-    - True Incidență de Profil (lateral) este evidenced prin following: epicondyles sunt directly superimposed; mică tuberozitate humerală (trohin) este vizualizat în profile medially, partially superimposed prin lower portion de cavitate glenoidă.
-    - Collimation field size la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare visualize clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare de entire Humerus. Humerus ROUTINE
+    - Este vizibilă incidența de profil (lateral) a întregului humerus, inclusiv articulațiile cotului și umărului (vezi Fig. 5.32 și, de asemenea, Fig. 5.33). Poziție:
+    - Incidența adevărată de profil (lateral) este demonstrată prin următoarele: epicondilii sunt suprapuși direct; tuberozitatea mică humerală (trohinul) este vizualizată în profil medial, suprapusă parțial peste porțiunea inferioară a cavității glenoide.
+    - Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:
+    - Expunere și contrast optime ale receptorului de imagine, fără mișcare, cu vizualizarea clară a contururilor osoase și a traveelor trabeculare, fără artefacte de mișcare ale întregului humerus. HUMERUS DE RUTINĂ
     - AP
-    - Rotational lateral Shaft (corp) cap de Humerus medial și lateral epicondyles superimposed Fig. 5.33 Mediolateral incidență. (Courtesy Joss Wertz, DO.)
+    - Rotirea laterală a diafizei (corpului) humerusului; capul humerusului; epicondilii medial și lateral suprapuși. Fig. 5.33 Incidență mediolaterală. (Cu amabilitatea lui Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -153,41 +162,41 @@ title: Rx Humerus Medio-Lateral Incidență
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.29 Ortostatism lateral-](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_1.jpeg)
+![Fig. 5.29 Incidență latero-medială în ortostatism —](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.29 Ortostatism lateral-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.29 în ortostatism lateral-)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.30 Decubit dorsal Incidență de Profil (lateral).](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 5.30 Decubit dorsal Incidență de Profil (lateral).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.30 în decubit dorsal lateral incidență.)</span></figcaption>
+<figcaption><strong>Fig. 5.29 Incidență latero-medială în ortostatism —</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 5.29 în ortostatism latero-medial —)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.31 Ortostatism lateral-](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_3.jpeg)
+![Fig. 5.30 Incidență de profil (lateral) în decubit dorsal.](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.31 Ortostatism lateral-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.31 în ortostatism lateral-)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.32 Ortostatism mediolateral Humerus incidență. (Courtesy Joss](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 5.32 Ortostatism mediolateral Humerus incidență. (Courtesy Joss</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.32 în ortostatism mediolateral humerus incidență. (Courtesy Joss)</span></figcaption>
+<figcaption><strong>Fig. 5.30 Incidență de profil (lateral) în decubit dorsal.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.30, incidență laterală în decubit dorsal).</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.32 și also Fig. 5.33).](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_5.jpeg)
+![Fig. 5.31 Incidență latero-medială în ortostatism —](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 5.32 și also Fig. 5.33).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.32 și also Fig. 5.33).)</span></figcaption>
+<figcaption><strong>Fig. 5.31 Incidență latero-medială în ortostatism —</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.31 în ortostatism latero-medial —)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.32 Incidență mediolaterală a humerusului în ortostatism. (Cu amabilitatea lui Joss](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 5.32 Incidență mediolaterală a humerusului în ortostatism. (Cu amabilitatea lui Joss</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.32 în incidență mediolaterală a humerusului în ortostatism. (Cu amabilitatea lui Joss)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.32 și, de asemenea, Fig. 5.33).](../../assets/images/protocols/bontrager/rx-humerus-mediolateral-projections-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 5.32 și, de asemenea, Fig. 5.33).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.32 și, de asemenea, Fig. 5.33).)</span></figcaption>
 
 </figure>
 

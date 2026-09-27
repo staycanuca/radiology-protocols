@@ -7,6 +7,10 @@ centering: perpendicular pe centrul receptorului de imagine; pătrunde în gât 
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -108,11 +112,12 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Me
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -155,6 +160,7 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Me
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -170,49 +176,3 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Me
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 675–676](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidență AP a procesului odontoid situat în interiorul găurii occipitale mari (foramen magnum), de formă circulară (Fig. 9.30).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe centrul receptorului de imagine; pătrunde în gât pe MSP, imediat distal de vârful bărbiei
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
-• Întregul proces odontoid în interiorul găurii occipitale mari (foramen magnum)
-• Absența rotației anatomice (simetrie bilaterală perfectă) a capului sau gâtului, evidențiată prin simetria mandibulei, craniului și vertebrelor
-• Detalii trabeculare osoase și țesuturile moi înconjurătoare
-
-### part_pos
-
-• Se așază receptorul de imagine în tăvița Bucky, apoi se centrează la nivelul vârfurilor proceselor mastoidiene.
-• Se ridică bărbia prin extensie până când vârful bărbiei și vârfurile proceselor mastoidiene sunt aliniate pe verticală (Fig. 9.29).
-• Se ajustează poziția capului astfel încât MSP să fie perpendicular pe planul grilei.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-• Se centrează MSP al corpului pe linia mediană a grilei.
-• Se așază brațele de-a lungul corpului.
-• Se așază un suport sub genunchii pacientului pentru confort.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului, pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
-× 30 cm), transversal.
-

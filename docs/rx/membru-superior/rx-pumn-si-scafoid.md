@@ -5,30 +5,30 @@ category: membru-superior
 centering: Mijlocul rândului proximal carpian (la nivelul scafoidului)
 clinical_indications:
 - Cădere pe mâna întinsă (FOOSH) cu durere în tabachera anatomică
-- Suspiciune fractură de scafoid carpiam
-- Fracturi ale extremității distale de radius (Pouteau-Colles, Goyrand-Smith)
-- Instabilitate carpiană, artroză radio-carpiană
+- Suspiciune de fractură a scafoidului carpian
+- Fracturi ale extremității distale a radiusului (Pouteau-Colles, Goyrand-Smith)
+- Instabilitate carpiană, artroză radiocarpiană
 iris_reference:
   chapter: Aparat locomotor & Traumatisme
   radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
   recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Dacă radiografia inițială de scafoid este normală dar durerea în tabachera
-  anatomică persistă, se imobilizează pumnul și se repetă radiografia la 10-14 zile,
+notes: Dacă radiografia inițială a scafoidului este normală, dar durerea în tabachera
+  anatomică persistă, se imobilizează pumnul și se repetă radiografia la 10-14 zile
   sau se efectuează direct RMN / CT.
 position: '1) Față (PA): pumn în pronație, degete ușor flectate; 2) Profil strict:
-  cot la 90°, pumn și antebraț pe cant; 3) Incidență Scafoid: deviație ulnară cu angulație
-  tub 15-20° cranial; 4) Oblică la 45°'
+  cot la 90°, pumn și antebraț pe cant; 3) Incidență scafoid: deviație ulnară cu angulația
+  tubului de 15-20° cranial; 4) Oblică la 45°'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare precisă pe aria carpiană
 quality_criteria:
-- 'Pe profil: axul radiusului, semilunarului, capitatului și metacarpianului III sunt
-  strict aliniate'
-- 'Pe incidența scafoid: alungirea completă corpului și polilor scafoidului fără scurtare
-  perspectivă'
+- 'Pe profil: axele radiusului, semilunarului, capitatului și metacarpianului III
+  sunt strict aliniate'
+- 'Pe incidența pentru scafoid: alungirea completă a corpului și polilor scafoidului,
+  fără scurtare de perspectivă'
 - Liniile carpiene ale lui Gilula sunt continue și netede
 sid_dff: 100 cm
 slug: rx-pumn-si-scafoid
@@ -56,15 +56,15 @@ sources:
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Manual
-  collimation: De la metafiza radială distală la baza metacarpienelor
+  collimation: De la metafiza distală a radiusului până la baza metacarpienelor
   filtration: Totală ≥ 2.5 mm Al
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă antidifuzoare
   kv: 52 - 58
   mas: 2.5 - 4 (fără grilă)
-title: Rx Pumn & Incidențe Scafoid
+title: Rx pumn și incidențe pentru scafoid
 ---
-# Rx Pumn & Incidențe Scafoid
+# Rx pumn și incidențe pentru scafoid
 
 
 <div class="rx-meta-bar">
@@ -84,9 +84,9 @@ title: Rx Pumn & Incidențe Scafoid
     === "Indicații Clinice"
 
         - Cădere pe mâna întinsă (FOOSH) cu durere în tabachera anatomică
-        - Suspiciune fractură de scafoid carpiam
-        - Fracturi ale extremității distale de radius (Pouteau-Colles, Goyrand-Smith)
-        - Instabilitate carpiană, artroză radio-carpiană
+        - Suspiciune de fractură a scafoidului carpian
+        - Fracturi ale extremității distale a radiusului (Pouteau-Colles, Goyrand-Smith)
+        - Instabilitate carpiană, artroză radiocarpiană
 
     === "Ghid Național IRIS"
 
@@ -96,11 +96,12 @@ title: Rx Pumn & Incidențe Scafoid
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** 1) Față (PA): pumn în pronație, degete ușor flectate; 2) Profil strict: cot la 90°, pumn și antebraț pe cant; 3) Incidență Scafoid: deviație ulnară cu angulație tub 15-20° cranial; 4) Oblică la 45°
+    - **Poziție Pacient:** 1) Față (PA): pumn în pronație, degete ușor flectate; 2) Profil strict: cot la 90°, pumn și antebraț pe cant; 3) Incidență scafoid: deviație ulnară cu angulația tubului de 15-20° cranial; 4) Oblică la 45°
     - **Punct de Centrare Fascicul:** Mijlocul rândului proximal carpian (la nivelul scafoidului)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Nemodificată
@@ -117,28 +118,29 @@ title: Rx Pumn & Incidențe Scafoid
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă antidifuzoare |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Manual |
-    | **Colimare Fascicul** | De la metafiza radială distală la baza metacarpienelor |
+    | **Colimare Fascicul** | De la metafiza distală a radiusului până la baza metacarpienelor |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Pe profil: axul radiusului, semilunarului, capitatului și metacarpianului III sunt strict aliniate
-    - Pe incidența scafoid: alungirea completă corpului și polilor scafoidului fără scurtare perspectivă
+    - Pe profil: axele radiusului, semilunarului, capitatului și metacarpianului III sunt strict aliniate
+    - Pe incidența pentru scafoid: alungirea completă a corpului și polilor scafoidului, fără scurtare de perspectivă
     - Liniile carpiene ale lui Gilula sunt continue și netede
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare precisă pe aria carpiană
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Dacă radiografia inițială de scafoid este normală dar durerea în tabachera anatomică persistă, se imobilizează pumnul și se repetă radiografia la 10-14 zile, sau se efectuează direct RMN / CT.
+    Dacă radiografia inițială a scafoidului este normală, dar durerea în tabachera anatomică persistă, se imobilizează pumnul și se repetă radiografia la 10-14 zile sau se efectuează direct RMN / CT.
 
 === "Ghid Rapid de Execuție"
 

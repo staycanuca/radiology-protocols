@@ -3,48 +3,56 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• vertical fascicul este orientat la posterior aspect de proximal margine
-  de Rotulă (Patelă). raza centrală trebuie să fie paralel cu axa longitudinală de
-  Rotulă (Patelă).
+centering: '• Fasciculul vertical este orientat către aspectul posterior al marginii
+  proximale a rotulei. Raza centrală trebuie să fie paralelă cu axa longitudinală
+  a rotulei.
 
-  • fascicul este collimated la Rotulă (Patelă) și femoral condyles.'
+  • Fasciculul este colimat la rotulă și condilii femurali.'
 clinical_indications:
-- Evaluare radiografică regiunii Genunchi (Supero - inferior).
+- Evaluarea radiografică a regiunii genunchiului (superoinferioară).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Supero-Inferioară imagine evidențiind some degenerative changes și loose
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Imagine superoinferioară care evidențiază unele modificări degenerative
+    și un fragment liber
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_1.jpeg
-- caption: Supero-Inferioară incidențe evidențiind advanced degenerative changes but
+- caption: Incidențe superoinferioare care evidențiază modificări degenerative avansate,
+    dar
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_2.jpeg
-- caption: genunchii have been flectat too much, giving appearance de Profil (lateral)
+- caption: genunchii au fost flectați excesiv, dând aspectul unei subluxații de profil
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• nu enough flexion will cause tuberozitate tibială anterioară (TTA) la overshadow
-  retro-patellar articulație.
+notes: '• Flexia insuficientă va determina suprapunerea tuberozității tibiale anterioare
+  (TTA) peste articulația retropatelară.
 
-  • Too much flexion will cause Rotulă (Patelă) la track over Profil (lateral) femoral
-  condyle.'
-position: '• pacientul stă așezat pe masa radiologică, cu affected Genunchi flectat
-  over side.
+  • Flexia excesivă va determina deplasarea rotulei peste condilul femural de profil.'
+position: '• Pacientul stă așezat pe masa radiologică, cu genunchiul afectat flectat
+  peste margine.
 
-  • Ideally, membru inferior trebuie să fie flectat la 45 grade la reflect similar
-  Genunchi poziție la conventional skyline incidență. Too much flexion reduces retro-patellar
-  spacing. Poziție Șezândă pacientul pe cushion helps la achieve optimum poziție.
+  • Ideal, membrul inferior trebuie flectat la 45 grade pentru a reproduce o poziție
+  a genunchiului similară celei din incidența skyline convențională. Flexia excesivă
+  reduce spațierea retropatelară. Poziția șezândă a pacientului pe o pernă ajută la
+  obținerea poziției optime.
 
-  • caseta este sprijinit horizontally pe stool la nivelul inferior tuberozitate tibială
-  anterioară (TTA) margine.'
+  • Caseta este sprijinită orizontal pe un scaun, la nivelul marginii inferioare a
+  tuberozității tibiale anterioare (TTA).'
 protection:
-- patient should lean backwards, away from the primary beam. 132 Supero-Inferioară
-  image showing some degenerative changes and a loose bone fragment Supero-Inferioară
-  projections showing advanced degenerative changes but the knees have been flexed
-  too much, giving the appearance of Profil (Lateral) subluxation of the Rotulă (Patelă)
+- Pacientul trebuie să se încline posterior, îndepărtându-se de fasciculul primar.
+  132 Imagine superoinferioară care evidențiază unele modificări degenerative și un
+  fragment osos liber. Incidențe superoinferioare care evidențiază modificări degenerative
+  avansate, dar genunchii au fost flectați excesiv, dând aspectul unei subluxații
+  de profil a rotulei.
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -52,7 +60,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Genunchi).
+- Vizualizarea clară a întregii arii anatomice (genunchi).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -64,14 +72,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Genunchi Supero - inferior
+  mas: Conform AEC / grosimii anatomice
+title: Rx genunchi superoinferior
 ---
-# Rx Genunchi Supero - inferior
+# Rx genunchi superoinferior
 
 
 <div class="rx-meta-bar">
@@ -90,27 +98,30 @@ title: Rx Genunchi Supero - inferior
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Genunchi (Supero - inferior).
+        - Evaluarea radiografică a regiunii genunchiului (superoinferioară).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat pe masa radiologică, cu affected Genunchi flectat over side.
-• Ideally, membru inferior trebuie să fie flectat la 45 grade la reflect similar Genunchi poziție la conventional skyline incidență. Too much flexion reduces retro-patellar spacing. Poziție Șezândă pacientul pe cushion helps la achieve optimum poziție.
-• caseta este sprijinit horizontally pe stool la nivelul inferior tuberozitate tibială anterioară (TTA) margine.
-    - **Punct de Centrare Fascicul:** • vertical fascicul este orientat la posterior aspect de proximal margine de Rotulă (Patelă). raza centrală trebuie să fie paralel cu axa longitudinală de Rotulă (Patelă).
-• fascicul este collimated la Rotulă (Patelă) și femoral condyles.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat pe masa radiologică, cu genunchiul afectat flectat peste margine.
+        - Ideal, membrul inferior trebuie flectat la 45 grade pentru a reproduce o poziție a genunchiului similară celei din incidența skyline convențională. Flexia excesivă reduce spațierea retropatelară. Poziția șezândă a pacientului pe o pernă ajută la obținerea poziției optime.
+        - Caseta este sprijinită orizontal pe un scaun, la nivelul marginii inferioare a tuberozității tibiale anterioare (TTA).
+    - **Punct de Centrare Fascicul:**
+        - Fasciculul vertical este orientat către aspectul posterior al marginii proximale a rotulei. Raza centrală trebuie să fie paralelă cu axa longitudinală a rotulei.
+        - Fasciculul este colimat la rotulă și condilii femurali.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -121,19 +132,19 @@ title: Rx Genunchi Supero - inferior
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Genunchi).
+    - Vizualizarea clară a întregii arii anatomice (genunchi).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -141,16 +152,17 @@ title: Rx Genunchi Supero - inferior
 
     ---
 
-    - patient should lean backwards, away from the primary beam. 132 Supero-Inferioară image showing some degenerative changes and a loose bone fragment Supero-Inferioară projections showing advanced degenerative changes but the knees have been flexed too much, giving the appearance of Profil (Lateral) subluxation of the Rotulă (Patelă)
+    - Pacientul trebuie să se încline posterior, îndepărtându-se de fasciculul primar. 132 Imagine superoinferioară care evidențiază unele modificări degenerative și un fragment osos liber. Incidențe superoinferioare care evidențiază modificări degenerative avansate, dar genunchii au fost flectați excesiv, dând aspectul unei subluxații de profil a rotulei.
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • nu enough flexion will cause tuberozitate tibială anterioară (TTA) la overshadow retro-patellar articulație.
-• Too much flexion will cause Rotulă (Patelă) la track over Profil (lateral) femoral condyle.
+    - Flexia insuficientă va determina suprapunerea tuberozității tibiale anterioare (TTA) peste articulația retropatelară.
+    - Flexia excesivă va determina deplasarea rotulei peste condilul femural de profil.
 
 
 ### 🖼️ Imagini
@@ -159,25 +171,25 @@ title: Rx Genunchi Supero - inferior
 
 <figure class="protocol-image-card" markdown>
 
-![Supero-Inferioară imagine evidențiind some degenerative changes și loose](../../assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_1.jpeg)
+![Imagine superoinferioară care evidențiază unele modificări degenerative și un fragment liber](../../assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_1.jpeg)
 
-<figcaption><strong>Supero-Inferioară imagine evidențiind some degenerative changes și loose</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Supero-Inferioară incidențe evidențiind advanced degenerative changes but](../../assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_2.jpeg)
-
-<figcaption><strong>Supero-Inferioară incidențe evidențiind advanced degenerative changes but</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Imagine superoinferioară care evidențiază unele modificări degenerative și un fragment liber</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![genunchii have been flectat too much, giving appearance de Profil (lateral)](../../assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_3.jpeg)
+![Incidențe superoinferioare care evidențiază modificări degenerative avansate, dar](../../assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_2.jpeg)
 
-<figcaption><strong>genunchii have been flectat too much, giving appearance de Profil (lateral)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidențe superoinferioare care evidențiază modificări degenerative avansate, dar</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![genunchii au fost flectați excesiv, dând aspectul unei subluxații de profil](../../assets/images/protocols/clark/rx-genunchi-supero-inferior-p147-clark/fig_3.jpeg)
+
+<figcaption><strong>genunchii au fost flectați excesiv, dând aspectul unei subluxații de profil</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

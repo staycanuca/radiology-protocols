@@ -3,8 +3,8 @@ author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: craniu-saf
 centering: Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați
-  la un punct situat la 2 inches (5 cm) superior de conductul auditiv extern (CAE)
-  sau la jumătatea distanței dintre glabelă și inion pentru alte tipuri de morfologii
+  la un punct situat la 2 țoli (5 cm) superior de conductul auditiv extern (CAE) sau
+  la jumătatea distanței dintre glabelă și inion pentru alte tipuri de morfologii
   craniene. Centrați receptorul de imagine pe raza centrală.
 clinical_indications:
 - Suspiciune de fractură craniană, procese neoplazice și boala Paget; traumatism acut
@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.112
     profil.)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-craniu-series-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Pentru pacienții aflați în decubit, un suport radiotransparent plasat sub bărbie
@@ -114,17 +118,18 @@ title: Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (SERIA CRANIU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Îndepărtați toate obiectele metalice, din plastic sau alte obiecte detașabile de pe capul pacientului. Efectuați radiografia cu pacientul în ortostatism sau în decubit semipron.; Regiune anatomică: Poziționați capul în incidență de profil adevărată, cu partea de interes cât mai aproape de receptorul de imagine și cu corpul pacientului în poziție semipronă sau în ortostatism, după cum este necesar pentru confort. Aliniați MSP paralel cu receptorul de imagine, asigurând absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase sau a înclinării. Aliniați linia interpupilară (LIP) perpendicular pe receptorul de imagine, asigurând absența înclinării capului (Fig. 11.110) (vezi NOTĂ). Ajustați flexia gâtului pentru a alinia linia infraorbitomeatală (LIOM) perpendicular pe marginea anterioară a receptorului de imagine. (GAL este paralelă cu marginea anterioară a receptorului de imagine.)
-    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați la un punct situat la 2 inches (5 cm) superior de conductul auditiv extern (CAE) sau la jumătatea distanței dintre glabelă și inion pentru alte tipuri de morfologii craniene. Centrați receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați la un punct situat la 2 țoli (5 cm) superior de conductul auditiv extern (CAE) sau la jumătatea distanței dintre glabelă și inion pentru alte tipuri de morfologii craniene. Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -170,6 +175,7 @@ title: Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (SERIA CRANIU)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pentru pacienții aflați în decubit, un suport radiotransparent plasat sub bărbie ajută la menținerea unei incidențe de profil adevărate. Pacientul cu torace lat poate necesita un burete radiotransparent sub întregul cap pentru a preveni înclinarea, iar pacientul slab poate necesita un suport sub toracele superior. Fig. 11.110 craniu de profil — ortostatism și decubit (inserție).

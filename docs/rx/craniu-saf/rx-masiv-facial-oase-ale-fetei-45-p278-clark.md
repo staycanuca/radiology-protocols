@@ -36,6 +36,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-45-p278-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -117,22 +121,25 @@ title: Rx Masiv Facial (Oase ale Feței) 45°
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei unității de Craniu sau spre stativul vertical Bucky.
-• Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia de bază orbito-meatală la un unghi de 45 de grade față de suportul casetei.
-• Linia centrală orizontală a Bucky/suportului casetei trebuie să fie la nivelul marginilor orbitare inferioare.
-• Asigurați-vă că planul mediosagital este perpendicular pe Bucky/suportul casetei, verificând dacă unghiurile externe ale ochilor și conductele auditive externe sunt echidistante.
-    - **Punct de Centrare Fascicul:** • Raza centrală a unității de Craniu trebuie să fie perpendiculară pe suportul casetei. Prin proiectare, va fi centrată la mijlocul suportului casetei. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect, atunci fasciculul va fi deja centrat.
-• Dacă se utilizează Bucky, tubul trebuie să fie centrat pe Bucky folosind Fasciculul Orizontal înainte de efectuarea poziționării. Din nou, dacă poziționarea de mai sus este efectuată corect și înălțimea Bucky nu este modificată, atunci fasciculul va fi deja centrat.
-• Pentru a verifica dacă fasciculul este centrat corect, liniile în cruce de pe Bucky sau de pe suportul casetei trebuie să coincidă cu coloana vertebrală nazală anterioară a pacientului.
+    - **Poziție Pacient:**
+        - Incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei unității de Craniu sau spre stativul vertical Bucky.
+        - Nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia de bază orbito-meatală la un unghi de 45 de grade față de suportul casetei.
+        - Linia centrală orizontală a Bucky/suportului casetei trebuie să fie la nivelul marginilor orbitare inferioare.
+        - Asigurați-vă că planul mediosagital este perpendicular pe Bucky/suportul casetei, verificând dacă unghiurile externe ale ochilor și conductele auditive externe sunt echidistante.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală a unității de Craniu trebuie să fie perpendiculară pe suportul casetei. Prin proiectare, va fi centrată la mijlocul suportului casetei. Dacă acesta este cazul și poziționarea de mai sus este efectuată corect, atunci fasciculul va fi deja centrat.
+        - Dacă se utilizează Bucky, tubul trebuie să fie centrat pe Bucky folosind Fasciculul Orizontal înainte de efectuarea poziționării. Din nou, dacă poziționarea de mai sus este efectuată corect și înălțimea Bucky nu este modificată, atunci fasciculul va fi deja centrat.
+        - Pentru a verifica dacă fasciculul este centrat corect, liniile în cruce de pe Bucky sau de pe suportul casetei trebuie să coincidă cu coloana vertebrală nazală anterioară a pacientului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -169,6 +176,7 @@ title: Rx Masiv Facial (Oase ale Feței) 45°
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

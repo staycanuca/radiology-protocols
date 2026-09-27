@@ -101,6 +101,7 @@ title: Rx Coloană Cervicală (Față & Profil)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -142,6 +143,7 @@ title: Rx Coloană Cervicală (Față & Profil)
     - Colimare precisă pe coloana cervicală
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Dacă C7-T1 nu se poate vizualiza pe profil din cauza umerilor masivi, se realizează incidența specială „Swimmer” (înotător) sau se efectuează CT cervical.

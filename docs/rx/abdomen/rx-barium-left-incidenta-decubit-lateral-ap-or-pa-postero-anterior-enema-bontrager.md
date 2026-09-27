@@ -25,6 +25,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.80
     Decubit lateral stâng.)
   url: assets/images/protocols/bontrager/rx-barium-left-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Deoarece majoritatea examinărilor de irigografie (clismă baritată) cu dublu
@@ -112,11 +116,12 @@ title: Rx CU BARIU ÎN DECUBIT LATERAL STÂNG (AP SAU PA (Postero-Anterior)) (CL
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -162,6 +167,7 @@ title: Rx CU BARIU ÎN DECUBIT LATERAL STÂNG (AP SAU PA (Postero-Anterior)) (CL
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Deoarece majoritatea examinărilor de irigografie (clismă baritată) cu dublu contrast includ ambele poziții de decubit lateral, drept și stâng, este în general mai ușor să se realizeze o incidență cu spatele sprijinit de masă sau de suportul casetei, apoi să se instruiască pacientul să se întoarcă pe cealaltă parte și să se rotească targa, astfel încât capul pacientului să ajungă la celălalt capăt al mesei de examinare. Această manevră poate fi mai ușoară decât ridicarea pacientului în șezut și întoarcerea acestuia cap la picioare pe targă sau pe masă. Pentru pacienții hiperstenici, utilizați două IR (fiecare de 14 × 17 inchi [35 × 43 cm]) orientate transversal, pentru a include întregul intestin gros (colon). Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO LPO sau RPO Rect în incidență de profil Decubit lateral R și L (examinare cu dublu contrast)

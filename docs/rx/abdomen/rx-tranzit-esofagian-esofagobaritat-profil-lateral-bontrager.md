@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.87
     Esofag în incidență de profil—brațele ridicate.)
   url: assets/images/protocols/bontrager/rx-tranzit-esofagian-esofagobaritat-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Consultați pagina precedentă pentru instrucțiunile privind înghițirea suspensiei
@@ -95,11 +99,12 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Profil (Lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -145,6 +150,7 @@ title: Rx Tranzit Esofagian (Esofagobaritat) Profil (Lateral)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Consultați pagina precedentă pentru instrucțiunile privind înghițirea suspensiei baritate. Incidență de profil în poziția înotătorului, opțională Această poziție (Fig. 12.86) permite o mai bună evidențiere a porțiunii superioare a esofagului, fără suprapunerea brațelor și a umerilor. Poziționați șoldurile și umerii în profil strict; îndepărtați umerii de regiunea esofagiană, așezând umărul de deasupra în jos și înapoi, cu brațul în spatele corpului. Așezați umărul și brațul de dedesubt în sus și în față, pentru a ține paharul cu suspensie baritată. Tranzit Esofagian (Esofagobaritat) DE RUTINĂ RAO (35° la 40°) profil AP (PA) Fig. 12.85 Profil drept—brațele ridicate. Fig. 12.86 Opțional—profil în poziția înotătorului pentru o mai bună vizualizare a porțiunii superioare a esofagului. Fig. 12.87 Esofag în incidență de profil—brațele ridicate.

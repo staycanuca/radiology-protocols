@@ -2,36 +2,41 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: membru-inferior
-centering: este perpendicular pe col femural (see p. 275 pentru cap femural și neck
-  localization methods). col femural poate also fie located about 1 la 2 inches (2.5
-  la 5 cm) medial și 3 la 4 inches (8 la 10 cm) distal la spină iliacă antero-superioară
-  (SIAS) (Fig. 7.68).
+centering: este perpendicular pe colul femural (vezi p. 275 pentru metodele de localizare
+  a capului și colului femural). Colul femural poate fi localizat și la aproximativ
+  1 la 2 țoli (2.5 la 5 cm) medial și 3 la 4 țoli (8 la 10 cm) distal față de spina
+  iliacă anterosuperioară (SIAS) (Fig. 7.68).
 clinical_indications:
-- Postoperative sau followup examination la evidențiază cotil (acetabul), cap femural,
-  neck, și marele trohanter
-- Evaluation de condition și placement de orice existing orthopedic appliance
+- Examinare postoperatorie sau de urmărire pentru evidențierea cotilului (acetabulului),
+  capului femural, colului și trohanterului mare
+- Evaluarea stării și poziționării oricărui dispozitiv ortopedic existent
 images:
-- caption: Fig. 7.68 AP drept Șold.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.68 AP drept
-    hip.)
+- caption: Fig. 7.68 AP șold drept.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 7.68 AP șold
+    drept.)
   url: assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_1.jpeg
-- caption: Fig. 7.69 AP Șold.
+- caption: Fig. 7.69 AP șold.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.69
-    AP hip.)
+    AP șold.)
   url: assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_2.jpeg
-- caption: Fig. 7.70 AP Șold. (Copyright Getty imagini/DieterMeyrl.)
+- caption: Fig. 7.70 AP șold. (Copyright Getty Images/DieterMeyrl.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.70
-    AP hip. (Copyright Getty imagini/DieterMeyrl.))
+    AP șold. (Copyright Getty Images/DieterMeyrl.))
   url: assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: cu pacient Decubit dorsal, place brațele pe lângă corp sau across
-  superior Torace.; Regiune anatomică: Locate col femural și align la raza centrală
-  și la linia mediană mesei și/sau receptorul de imagine. Ensure Absența rotației
-  anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin
-  (pelvis)) (equal distance de la spină iliacă antero-superioară (SIAS) la table).
-  Rotate affected membru inferior internally 15 la 20 grade (see WARNING).'
+position: 'Pacient: pacientul în decubit dorsal, cu brațele pe lângă corp sau peste
+  partea superioară a toracelui.; Regiune anatomică: se localizează colul femural
+  și se aliniază cu raza centrală și cu linia mediană a mesei și/sau a receptorului
+  de imagine. Se asigură absența rotației anatomice: claviculele sunt echidistante
+  față de linia apofizelor spinoase ale bazinului (pelvisului) (distanță egală de
+  la spina iliacă anterosuperioară (SIAS) la masă). Se rotește intern membrul inferior
+  afectat cu 15 la 20 grade (vezi AVERTISMENT).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,41 +44,43 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- proximal onethird de Femur trebuie să fie visualized, along cu cotil (acetabul)
-  și adjacent parts de pubis, ischium, și ilium (Fig. 7.69).
-- 'orice existing orthopedic appliance trebuie să fie vizibil în its entirety (Fig.
-  7.70). poziție:'
-- marele trohanter și cap femural și neck trebuie să fie în full profile fără foreshortening.
-- mic trohanter trebuie să nu project beyond medial margine de Femur; cu some pacienți,
-  only medial edge de it este seen cu sufficient intern rotație de membru inferior.
-  câmp colimat trebuie să evidențiază entire Șold articulație și orice orthopedic
-  appliance în its entirety.
-- 'Collimation field size la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast de margins de cap femural și cotil
-  (acetabul) through overlying pelvic structures fără overexposing other parts de
-  proximal Femur sau pelvic structures.
-- 'Trabecular markings de marele trohanter și neck area appear net, indicating fără
-  mișcare. R Fig. 7.69 AP Șold. R Fig. 7.70 AP Șold. (Copyright Getty imagini/DieterMeyrl.)
-  WARninG: Do nu attempt la rotate membre inferioare if suspiciune de fractură este
-  suspected. AP Bazin (bazin (pelvis)) incidență la include ambele hips pentru comparison
-  trebuie să fie completed before AP unilateral Șold este performed pentru possible
-  Șold sau Bazin (bazin (pelvis)) traumatism acuttism / Regim Urgență.'
+- treimea proximală a femurului trebuie să fie vizualizată, împreună cu cotilul (acetabulul)
+  și porțiunile adiacente ale pubisului, ischionului și iliumului (Fig. 7.69).
+- 'orice dispozitiv ortopedic existent trebuie să fie vizibil în întregime (Fig. 7.70).
+  Poziție:'
+- trohanterul mare, capul femural și colul femural trebuie să fie în profil complet,
+  fără scurtare proiectivă.
+- trohanterul mic nu trebuie să se proiecteze dincolo de marginea medială a femurului;
+  la unii pacienți, numai marginea medială a acestuia este vizibilă cu o rotație internă
+  suficientă a membrului inferior. Câmpul colimat trebuie să evidențieze întreaga
+  articulație a șoldului și orice dispozitiv ortopedic în întregime.
+- 'Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:'
+- expunerea și contrastul optime ale receptorului de imagine pentru marginile capului
+  femural și cotilului (acetabulului), prin structurile pelvine suprapuse, fără supraexpunerea
+  altor porțiuni ale femurului proximal sau ale structurilor pelvine.
+- 'Marcajele trabeculare ale trohanterului mare și ale regiunii colului apar clare,
+  indicând absența mișcării. R Fig. 7.69 AP șold. R Fig. 7.70 AP șold. (Copyright
+  Getty Images/DieterMeyrl.) AVERTISMENT: Nu încercați să rotiți membrele inferioare
+  dacă există suspiciune de fractură. Incidența AP a bazinului (pelvisului), incluzând
+  ambele șolduri pentru comparație, trebuie efectuată înainte de efectuarea incidenței
+  AP unilaterale a șoldului pentru un posibil traumatism acut al șoldului sau bazinului
+  (pelvisului) / regim de urgență.'
 sid_dff: 100 cm
 slug: rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 305
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 80-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Șold AND PROXIMAL Femur AP UNILATERAL Incidență (Șold)
+title: Rx Șold și femur proximal — incidență AP unilaterală (șold)
 ---
-# Rx Șold AND PROXIMAL Femur AP UNILATERAL Incidență (Șold)
+# Rx Șold și femur proximal — incidență AP unilaterală (șold)
 
 
 <div class="rx-meta-bar">
@@ -92,23 +99,24 @@ title: Rx Șold AND PROXIMAL Femur AP UNILATERAL Incidență (Șold)
 
     === "Indicații Clinice"
 
-        - Postoperative sau followup examination la evidențiază cotil (acetabul), cap femural, neck, și marele trohanter
-        - Evaluation de condition și placement de orice existing orthopedic appliance
+        - Examinare postoperatorie sau de urmărire pentru evidențierea cotilului (acetabulului), capului femural, colului și trohanterului mare
+        - Evaluarea stării și poziționării oricărui dispozitiv ortopedic existent
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: cu pacient Decubit dorsal, place brațele pe lângă corp sau across superior Torace.; Regiune anatomică: Locate col femural și align la raza centrală și la linia mediană mesei și/sau receptorul de imagine. Ensure Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)) (equal distance de la spină iliacă antero-superioară (SIAS) la table). Rotate affected membru inferior internally 15 la 20 grade (see WARNING).
-    - **Punct de Centrare Fascicul:** este perpendicular pe col femural (see p. 275 pentru cap femural și neck localization methods). col femural poate also fie located about 1 la 2 inches (2.5 la 5 cm) medial și 3 la 4 inches (8 la 10 cm) distal la spină iliacă antero-superioară (SIAS) (Fig. 7.68).
+    - **Poziție Pacient:** Pacient: pacientul în decubit dorsal, cu brațele pe lângă corp sau peste partea superioară a toracelui.; Regiune anatomică: se localizează colul femural și se aliniază cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Se asigură absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase ale bazinului (pelvisului) (distanță egală de la spina iliacă anterosuperioară (SIAS) la masă). Se rotește intern membrul inferior afectat cu 15 la 20 grade (vezi AVERTISMENT).
+    - **Punct de Centrare Fascicul:** este perpendicular pe colul femural (vezi p. 275 pentru metodele de localizare a capului și colului femural). Colul femural poate fi localizat și la aproximativ 1 la 2 țoli (2.5 la 5 cm) medial și 3 la 4 țoli (8 la 10 cm) distal față de spina iliacă anterosuperioară (SIAS) (Fig. 7.68).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -123,21 +131,21 @@ title: Rx Șold AND PROXIMAL Femur AP UNILATERAL Incidență (Șold)
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - proximal onethird de Femur trebuie să fie visualized, along cu cotil (acetabul) și adjacent parts de pubis, ischium, și ilium (Fig. 7.69).
-    - orice existing orthopedic appliance trebuie să fie vizibil în its entirety (Fig. 7.70). poziție:
-    - marele trohanter și cap femural și neck trebuie să fie în full profile fără foreshortening.
-    - mic trohanter trebuie să nu project beyond medial margine de Femur; cu some pacienți, only medial edge de it este seen cu sufficient intern rotație de membru inferior. câmp colimat trebuie să evidențiază entire Șold articulație și orice orthopedic appliance în its entirety.
-    - Collimation field size la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast de margins de cap femural și cotil (acetabul) through overlying pelvic structures fără overexposing other parts de proximal Femur sau pelvic structures.
-    - Trabecular markings de marele trohanter și neck area appear net, indicating fără mișcare. R Fig. 7.69 AP Șold. R Fig. 7.70 AP Șold. (Copyright Getty imagini/DieterMeyrl.) WARninG: Do nu attempt la rotate membre inferioare if suspiciune de fractură este suspected. AP Bazin (bazin (pelvis)) incidență la include ambele hips pentru comparison trebuie să fie completed before AP unilateral Șold este performed pentru possible Șold sau Bazin (bazin (pelvis)) traumatism acuttism / Regim Urgență.
+    - treimea proximală a femurului trebuie să fie vizualizată, împreună cu cotilul (acetabulul) și porțiunile adiacente ale pubisului, ischionului și iliumului (Fig. 7.69).
+    - orice dispozitiv ortopedic existent trebuie să fie vizibil în întregime (Fig. 7.70). Poziție:
+    - trohanterul mare, capul femural și colul femural trebuie să fie în profil complet, fără scurtare proiectivă.
+    - trohanterul mic nu trebuie să se proiecteze dincolo de marginea medială a femurului; la unii pacienți, numai marginea medială a acestuia este vizibilă cu o rotație internă suficientă a membrului inferior. Câmpul colimat trebuie să evidențieze întreaga articulație a șoldului și orice dispozitiv ortopedic în întregime.
+    - Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:
+    - expunerea și contrastul optime ale receptorului de imagine pentru marginile capului femural și cotilului (acetabulului), prin structurile pelvine suprapuse, fără supraexpunerea altor porțiuni ale femurului proximal sau ale structurilor pelvine.
+    - Marcajele trabeculare ale trohanterului mare și ale regiunii colului apar clare, indicând absența mișcării. R Fig. 7.69 AP șold. R Fig. 7.70 AP șold. (Copyright Getty Images/DieterMeyrl.) AVERTISMENT: Nu încercați să rotiți membrele inferioare dacă există suspiciune de fractură. Incidența AP a bazinului (pelvisului), incluzând ambele șolduri pentru comparație, trebuie efectuată înainte de efectuarea incidenței AP unilaterale a șoldului pentru un posibil traumatism acut al șoldului sau bazinului (pelvisului) / regim de urgență.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,25 +165,25 @@ title: Rx Șold AND PROXIMAL Femur AP UNILATERAL Incidență (Șold)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.68 AP drept Șold.](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_1.jpeg)
+![Fig. 7.68 AP șold drept.](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.68 AP drept Șold.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.68 AP drept hip.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 7.69 AP Șold.](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 7.69 AP Șold.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.69 AP hip.)</span></figcaption>
+<figcaption><strong>Fig. 7.68 AP șold drept.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 7.68 AP șold drept.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.70 AP Șold. (Copyright Getty imagini/DieterMeyrl.)](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_3.jpeg)
+![Fig. 7.69 AP șold.](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.70 AP Șold. (Copyright Getty imagini/DieterMeyrl.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.70 AP hip. (Copyright Getty imagini/DieterMeyrl.))</span></figcaption>
+<figcaption><strong>Fig. 7.69 AP șold.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.69 AP șold.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 7.70 AP șold. (Copyright Getty Images/DieterMeyrl.)](../../assets/images/protocols/bontrager/rx-sold-and-proximal-femur-ap-unilateral-projection-sold-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 7.70 AP șold. (Copyright Getty Images/DieterMeyrl.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.70 AP șold. (Copyright Getty Images/DieterMeyrl.))</span></figcaption>
 
 </figure>
 

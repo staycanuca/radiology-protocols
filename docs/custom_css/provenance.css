@@ -1,0 +1,32 @@
+.md-typeset .protocol-provenance {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: .4rem;
+  background: var(--md-code-bg-color);
+  font-size: .72rem;
+}
+.md-typeset .protocol-provenance h2 { margin: 0 0 .75rem; font-size: .95rem; text-transform: none; letter-spacing: normal; border: 0; padding: 0; }
+.md-typeset .protocol-provenance h3 { margin: .8rem 0 .4rem; font-size: .78rem; overflow-wrap: anywhere; }
+.md-typeset .provenance-summary { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem; margin: 0 0 .8rem; }
+.md-typeset .provenance-summary div { padding: .6rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .25rem; }
+.md-typeset .protocol-provenance dt { font-weight: 600; }
+.md-typeset .protocol-provenance dd { margin: .25rem 0 0; overflow-wrap: anywhere; }
+.md-typeset .provenance-sources { margin: .5rem 0; padding-left: 1rem; }
+.md-typeset .provenance-sources li { margin: .2rem 0; overflow-wrap: anywhere; }
+.md-typeset .provenance-note { color: var(--md-default-fg-color--light); margin: .5rem 0; }
+.md-typeset .provenance-publication { font-weight: 700; border-bottom: 1px solid currentColor; padding-bottom: .4rem; }
+.md-typeset .provenance-details { margin: .75rem 0; font-size: inherit; box-shadow: none; border-color: var(--md-default-fg-color--lightest); }
+.md-typeset .provenance-details summary { cursor: pointer; }
+.md-typeset .provenance-fields { display: grid; grid-template-columns: minmax(7rem, 1fr) minmax(0, 2fr); gap: .4rem .8rem; }
+.md-typeset .provenance-fields dd { margin: 0; }
+.md-typeset .provenance-source-detail { border-bottom: 1px solid var(--md-default-fg-color--lightest); padding-bottom: .5rem; }
+.md-typeset .provenance-actions { display: flex; flex-wrap: wrap; gap: .5rem 1rem; margin-top: .75rem; }
+.provenance-site-footer { padding: 1rem; text-align: center; font-size: .7rem; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.provenance-site-footer a { color: var(--md-typeset-a-color); }
+@media (max-width: 600px) {
+  .md-typeset .provenance-summary { grid-template-columns: 1fr; gap: .4rem; }
+  .md-typeset .provenance-fields { grid-template-columns: 1fr; gap: .15rem; }
+  .md-typeset .provenance-fields dd { margin-bottom: .5rem; }
+}

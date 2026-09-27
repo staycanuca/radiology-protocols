@@ -14,6 +14,10 @@ contrast:
   timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
   volume: 'Injectare fracționată (duală): 1.2 mL/kg + 1.2 mL/kg'
+iris_reference:
+  chapter: Aparat cardiovascular & Sistem vascular
+  radiation_dose: Clasa 4 (Ridicată > 10 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-01-01'
 notes:
   additional_recons: Comparație în paralel poziție neutră vs. flexie plantară. Randare
@@ -78,6 +82,22 @@ series:
   start: Femur distal
   thickness: 0.625 mm
 slug: cta-popliteal-entrapment
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: ACR / NASCI / SIR
+  kind: Standard de practică angio-CT
+  sha256: bf7ff18eff996f000474c6a03d89a358f09f8af2ee90da1217121760ae1ae6f9
+  source_region: US
+  title: ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic
+    Angiography (CTA)
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — CTA & Vascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Activat (Modulare automată 3D conform topogramei / scout)
@@ -89,28 +109,12 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Angio-CT Sindrom de Încarcerare a Arterei Poplitee (Popliteal Entrapment)
-sources:
-- title: ACR-NASCI-SIR Practice Parameter for Performance of Body Computed Tomographic
-    Angiography (CTA)
-  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Body.pdf
-  institution: ACR / NASCI / SIR
-  source_region: US
-  kind: Standard de practică angio-CT
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: bf7ff18eff996f000474c6a03d89a358f09f8af2ee90da1217121760ae1ae6f9
-- title: UT Southwestern Radiology — CTA & Vascular CT Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Sindrom de Încarcerare a Arterei Poplitee (Popliteal Entrapment)
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -137,10 +141,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular & Sistem vascular*).
+            - **Capitol Ghid IRIS:** *Aparat cardiovascular & Sistem vascular*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 4 (Ridicată > 10 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -227,6 +235,7 @@ sources:
     | Axial | Angio-CT Flexie Plantară | Genunchi-Gambă | 1 mm/1 mm | Vascular |  | Aprecierea compresiunii arteriale în timpul flexiei plantare |
     | Coronal | Angio-CT Flexie Plantară | Genunchi-Gambă | 2 mm/2 mm | Vascular |  | MIP comparativ neutru vs. manevră activă |
     | Sagital | Angio-CT Flexie Plantară | Genunchi-Gambă | 2 mm/2 mm | Vascular |  | Vedere sagitală a fosei poplitee |
+
 
 ## Surse și revizuire
 

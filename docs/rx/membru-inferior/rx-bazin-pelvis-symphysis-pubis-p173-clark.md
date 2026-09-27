@@ -3,37 +3,50 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre la linia mediană la nivelul simfiză pubiană, cu raza centrală
-  orizontală centrală perpendicular pe receptorul de imagine.
+centering: '• Se centrează pe linia mediană, la nivelul simfizei pubiene, cu raza
+  centrală orizontală perpendiculară pe receptorul de imagine.
 
-  158 Antero-posterior (AP) incidență de simfiză pubiană evidențiind widening de simfiză'
+  158 Incidență antero-posterioară (AP) a simfizei pubiene, evidențiind lărgirea simfizei'
 clinical_indications:
-- Evaluare radiografică regiunii Bazin (bazin (pelvis)) (simfiză pubiană).
+- Evaluarea radiografică a regiunii bazinului (pelvisului) (simfiza pubiană).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Antero-posterior (AP) incidență de simfiză pubiană evidențiind widening
-    de the
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidență antero-posterioară (AP) a simfizei pubiene, evidențiind lărgirea
+    acesteia
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-bazin-pelvis-symphysis-pubis-p173-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-bazin-pelvis-symphysis-pubis-p173-clark/fig_2.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: "• pacientul stă în ortostatism cu posterior aspect de trunk pe / sprijinit\
-  \ de stativ vertical Bucky.\n• brațele sunt folded across toracele cu picioarele\
-  \ separated, astfel încât pacient poate comfortably adopt în ortostatism poziție\
-  \ pe one Picior, și then other.\n• anterior superior iliac spines trebuie să fie\
-  \ echidistant față de receptorul de imagine, cu planul mediosagital perpendicular\
-  \ pe vertical central line de Bucky.\n• stativ vertical Bucky este ajustat astfel\
-  \ încât orizontal central line este la same level ca simfiză pubiană.\n• pentru\
-  \ single incidență a 24 \x02 30-cm casetă este exposed cu weight equally distributed\
-  \ pe Ambele Picioare.\n• pentru În Încărcare (Ortostatism) incidență, a 24 \x02\
-  \ 30-cm casetă este exposed, cu full weight de corp pe one limb. second casetă este\
-  \ then exposed cu weight pe opposite limb."
+position: '• pacientul stă în ortostatism, cu partea posterioară a trunchiului pe
+  / sprijinită de stativul vertical Bucky.
+
+  • brațele sunt încrucișate peste torace, cu picioarele depărtate, astfel încât pacientul
+  să poată adopta confortabil poziția în ortostatism pe un picior și apoi pe celălalt.
+
+  • spinele iliace anterosuperioare trebuie să fie echidistante față de receptorul
+  de imagine, cu planul mediosagital perpendicular pe linia centrală verticală a stativului
+  Bucky.
+
+  • stativul vertical Bucky este ajustat astfel încât linia centrală orizontală să
+  fie la același nivel cu simfiza pubiană.
+
+  • pentru o singură incidență, o casetă de 24 × 30 cm este expusă cu greutatea distribuită
+  egal pe ambele picioare.
+
+  • pentru incidența în încărcare (ortostatism), o casetă de 24 × 30 cm este expusă
+  cu întreaga greutate a corpului pe un membru. A doua casetă este apoi expusă cu
+  greutatea pe membrul opus.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -42,7 +55,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Bazin (bazin (pelvis))).
+- Vizualizarea clară a întregii arii anatomice (bazin (pelvis)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -52,16 +65,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 173
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Bazin (Pelvis) Symphysis pubis
+  mas: Conform AEC / grosimii anatomice
+title: Rx bazin (pelvis) — simfiza pubiană
 ---
-# Rx Bazin (Pelvis) Symphysis pubis
+# Rx bazin (pelvis) — simfiza pubiană
 
 
 <div class="rx-meta-bar">
@@ -80,30 +93,32 @@ title: Rx Bazin (Pelvis) Symphysis pubis
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Bazin (bazin (pelvis)) (simfiză pubiană).
+        - Evaluarea radiografică a regiunii bazinului (pelvisului) (simfiza pubiană).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism cu posterior aspect de trunk pe / sprijinit de stativ vertical Bucky.
-• brațele sunt folded across toracele cu picioarele separated, astfel încât pacient poate comfortably adopt în ortostatism poziție pe one Picior, și then other.
-• anterior superior iliac spines trebuie să fie echidistant față de receptorul de imagine, cu planul mediosagital perpendicular pe vertical central line de Bucky.
-• stativ vertical Bucky este ajustat astfel încât orizontal central line este la same level ca simfiză pubiană.
-• pentru single incidență a 24  30-cm casetă este exposed cu weight equally distributed pe Ambele Picioare.
-• pentru În Încărcare (Ortostatism) incidență, a 24  30-cm casetă este exposed, cu full weight de corp pe one limb. second casetă este then exposed cu weight pe opposite limb.
-    - **Punct de Centrare Fascicul:** • Centre la linia mediană la nivelul simfiză pubiană, cu raza centrală orizontală centrală perpendicular pe receptorul de imagine.
-158 Antero-posterior (AP) incidență de simfiză pubiană evidențiind widening de simfiză
+    - **Poziție Pacient:**
+        - pacientul stă în ortostatism, cu partea posterioară a trunchiului pe / sprijinită de stativul vertical Bucky.
+        - brațele sunt încrucișate peste torace, cu picioarele depărtate, astfel încât pacientul să poată adopta confortabil poziția în ortostatism pe un picior și apoi pe celălalt.
+        - spinele iliace anterosuperioare trebuie să fie echidistante față de receptorul de imagine, cu planul mediosagital perpendicular pe linia centrală verticală a stativului Bucky.
+        - stativul vertical Bucky este ajustat astfel încât linia centrală orizontală să fie la același nivel cu simfiza pubiană.
+        - pentru o singură incidență, o casetă de 24 × 30 cm este expusă cu greutatea distribuită egal pe ambele picioare.
+        - pentru incidența în încărcare (ortostatism), o casetă de 24 × 30 cm este expusă cu întreaga greutate a corpului pe un membru. A doua casetă este apoi expusă cu greutatea pe membrul opus.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează pe linia mediană, la nivelul simfizei pubiene, cu raza centrală orizontală perpendiculară pe receptorul de imagine. 158 Incidență antero-posterioară (AP) a simfizei pubiene, evidențiind lărgirea simfizei
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -114,19 +129,19 @@ title: Rx Bazin (Pelvis) Symphysis pubis
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Bazin (bazin (pelvis))).
+    - Vizualizarea clară a întregii arii anatomice (bazin (pelvis)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -140,6 +155,7 @@ title: Rx Bazin (Pelvis) Symphysis pubis
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -150,9 +166,9 @@ title: Rx Bazin (Pelvis) Symphysis pubis
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) incidență de simfiză pubiană evidențiind widening de the](../../assets/images/protocols/clark/rx-bazin-pelvis-symphysis-pubis-p173-clark/fig_1.jpeg)
+![Incidență antero-posterioară (AP) a simfizei pubiene, evidențiind lărgirea acesteia](../../assets/images/protocols/clark/rx-bazin-pelvis-symphysis-pubis-p173-clark/fig_1.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) incidență de simfiză pubiană evidențiind widening de the</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență antero-posterioară (AP) a simfizei pubiene, evidențiind lărgirea acesteia</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

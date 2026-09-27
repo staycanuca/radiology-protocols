@@ -33,6 +33,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-left-profil-lateral-p357-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Utilizarea unui filtru în pană va permite vizualizarea atât a peretelui abdominal
@@ -99,21 +103,23 @@ title: Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal, cu brațele ridicate departe de abdomen și torace.
-• Caseta cu grilă antidifuzoare este sprijinită vertical pe partea laterală a pacientului, pentru a include toracele până la nivelul mijlocului sternului și cât mai mult din abdomen. Trebuie avut grijă ca peretele anterior al trunchiului să nu fie proiectat în afara filmului radiologic.
-• Alternativ, când se utilizează o targă, pacientul poate fi poziționat lângă stativul vertical Bucky, în contact cu acesta.
-    - **Punct de Centrare Fascicul:** • Raza centrală orizontală este orientată spre fața laterală a trunchiului, astfel încât să fie perpendiculară pe casetă și centrată pe aceasta.
-• Expunerea se efectuează în apnee la sfârșitul expirului complet.
-342 Imagine anteroposterioară (AP) a abdomenului în decubit lateral stâng care evidențiază aer liber în cavitatea abdominală. Imagine de profil a abdomenului în decubit dorsal (decubit dorsal)
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal, cu brațele ridicate departe de abdomen și torace.
+        - Caseta cu grilă antidifuzoare este sprijinită vertical pe partea laterală a pacientului, pentru a include toracele până la nivelul mijlocului sternului și cât mai mult din abdomen. Trebuie avut grijă ca peretele anterior al trunchiului să nu fie proiectat în afara filmului radiologic.
+        - Alternativ, când se utilizează o targă, pacientul poate fi poziționat lângă stativul vertical Bucky, în contact cu acesta.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală orizontală este orientată spre fața laterală a trunchiului, astfel încât să fie perpendiculară pe casetă și centrată pe aceasta.
+        - Expunerea se efectuează în apnee la sfârșitul expirului complet. 342 Imagine anteroposterioară (AP) a abdomenului în decubit lateral stâng care evidențiază aer liber în cavitatea abdominală. Imagine de profil a abdomenului în decubit dorsal (decubit dorsal)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în apnee la sfârșitul expirului complet
 
@@ -149,6 +155,7 @@ title: Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Utilizarea unui filtru în pană va permite vizualizarea atât a peretelui abdominal lateral, cât și a intestinului la aceeași expunere.

@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-09-21T19:32:37.473925+00:00",
+  "complete": true,
+  "catalog_scope": "RX",
+  "translated_unique_texts": 10068,
+  "total_unique_texts": 10068,
+  "translated_documents": 676,
+  "total_documents": 676,
+  "source_fragments_flagged": 792,
+  "numeric_unit_url_validation_errors": 0,
+  "integrity": {
+    "documents_checked": 676,
+    "metadata_changes": [],
+    "translation_mismatches": [],
+    "application_changes_since_snapshot": []
+  },
+  "tests": {
+    "passed": 84,
+    "suites": [
+      "test_translate_catalog",
+      "test_radiology_translator",
+      "test_cli_ai",
+      "test_render_rx_protocol"
+    ]
+  },
+  "heuristic_language_review": {
+    "flagged_documents": 37,
+    "unresolved_english_findings": 0,
+    "reviewed_false_positives": {
+      "axis": "Denumirea vertebrei cervicale",
+      "if": "Abrevierea articulațiilor interfalangiene (IF)",
+      "spine": "Spine ischiatice / tibiale",
+      "plane": "Suprafețe plane",
+      "demonstrate": "Participiu românesc",
+      "fluid": "Adjectiv românesc",
+      "centre": "Plural românesc",
+      "wall": "Numele autorului Wall",
+      "images": "Getty Images",
+      "and": "St. Joseph’s Hospital and Medical Center",
+      "joint": "Titlul revistei J Bone Joint Surg",
+      "notch": "Denumirea metodei Stryker Notch",
+      "technique": "Titlu bibliografic în franceză"
+    }
+  },
+  "note": "Traducere lingvistică integrală. Fragmentele sursă trunchiate sau deteriorate sunt semnalate în catalog-translation.json; completarea lor și verificarea clinică necesită consultarea sursei originale."
+}

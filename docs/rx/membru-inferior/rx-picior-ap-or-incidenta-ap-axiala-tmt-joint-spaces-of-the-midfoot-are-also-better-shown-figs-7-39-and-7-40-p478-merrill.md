@@ -2,11 +2,12 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: 'orientat one de two ways: (1) 10 grade spre heel entering base de third
-  metatarsal (see Fig. 7.39), sau (2) perpendicular pe receptorul de imagine (RI)
-  și entering base de third metatarsal (Fig. 7.41). Palpating prominent base de fifth
-  metatarsal assists în finding third metatarsal. third metatarsal base este în linia
-  mediană, approximately 1 inch anterior (spre Degete Picior) (Fig. 7.42).'
+centering: 'Orientată într-unul dintre cele două moduri: (1) 10 grade spre călcâi,
+  intrând la baza celui de-al treilea metatarsian (vezi Fig. 7.39), sau (2) perpendicular
+  pe receptorul de imagine (RI), intrând la baza celui de-al treilea metatarsian (Fig.
+  7.41). Palparea bazei proeminente a celui de-al cincilea metatarsian ajută la identificarea
+  celui de-al treilea metatarsian. Baza celui de-al treilea metatarsian se află pe
+  linia mediană, la aproximativ 1 țol anterior (spre degetele piciorului) (Fig. 7.42).'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -31,36 +32,40 @@ images:
 - caption: Merrill — pagina 484, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill/p484_fig7.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție. se flectează
-  Genunchi de afected side enough la rest sole de Picior firmly pe masa radiologică.;
-  poziție receptorul de imagine under pacientul’s Picior, center it la base de third
-  metatarsal, și se aliniază receptorul de imagine axa longitudinală paralel cu axa
-  longitudinală de Picior. Hold membru inferior în vertical poziție prin having pacientul
-  se flectează opposite Genunchi și lean it pe / sprijinit de Genunchi de afected
-  side. în this Picior poziție, entire plantar surface rests pe receptorul de imagine;
-  it poate fie necessary la take precautions pe / sprijinit de receptorul de imagine
-  slipping prin placing săculeți cu nisip pe masa de examinare pe / sprijinit de receptorul
-  de imagine adjacent la Degete Picior. Ensure that Absența rotației anatomice (simetrie
-  bilaterală perfectă) de Picior occurs. se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+position: Se așază pacientul în decubit dorsal sau în poziție șezândă. Se flectează
+  genunchiul de partea afectată suficient pentru ca talpa piciorului să se sprijine
+  ferm pe masa radiologică. Se plasează receptorul de imagine sub piciorul pacientului,
+  se centrează la baza celui de-al treilea metatarsian și se aliniază axa longitudinală
+  a receptorului de imagine paralel cu axa longitudinală a piciorului. Se menține
+  membrul inferior în poziție verticală, pacientul flectând genunchiul opus și sprijinindu-l
+  pe genunchiul de partea afectată. În această poziție a piciorului, întreaga suprafață
+  plantară se sprijină pe receptorul de imagine; poate fi necesar să se ia măsuri
+  pentru a preveni alunecarea receptorului de imagine, prin plasarea unor săculeți
+  cu nisip pe masa de examinare, adiacent receptorului de imagine, lângă degetele
+  piciorului. Se asigură absența rotației anatomice (simetrie bilaterală perfectă)
+  a piciorului. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Anatomy de la Degete Picior la oase tarsiene; poate include portions de astragal
-  (talus) și Calcaneu
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Picior, ca evidențiat
-  prin equal amounts de space între second through fourth oase metatarsiene
-- Overlap de second through fifth metatarsal bases
-- axial incidență resulting în improved demonstration de interphalangeal, metatarsophalangeal,
-  și tarsometatarsal spații articulare
-- Open spații articulare între medial și intermediate cuneiforms
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Anatomia de la degetele piciorului până la oasele tarsiene; poate include porțiuni
+  ale astragalului (talusului) și calcaneului
+- Absența rotației anatomice (simetrie bilaterală perfectă) a piciorului, evidențiată
+  prin distanțe egale între al doilea și al patrulea oase metatarsiene.
+- Suprapunerea bazelor celui de-al doilea până la al cincilea metatarsian.
+- Incidență axială, cu demonstrarea îmbunătățită a spațiilor articulare interfalangiene,
+  metatarsofalangiene și tarsometatarsiene.
+- Spații articulare deschise între cuneiformele medial și intermediar.
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-picior-ap-or-incidenta-ap-axiala-tmt-joint-spaces-of-the-midfoot-are-also-better-shown-figs-7-39-and-7-40-p478-merrill
 source_pages:
@@ -72,84 +77,76 @@ source_pages:
 - 483
 - 484
 source_sections:
-  anatomy: 'AP (dorsoplantar) incidență de oase tarsiene anterior la astragal (talus),
-    oase metatarsiene, și falange (Figs. 7.43 through 7.45). This incidență este used
-    pentru
+  anatomy: Incidență AP (dorsoplantară) a oaselor tarsiene anterior față de astragal
+    (talus), a oaselor metatarsiene și a falangelor (Figs. 7.43 până la 7.45). Această
+    incidență este utilizată pentru localizarea corpului străin/corpurilor străine
+    radio-opace, determinarea localizării fragmentelor în suspiciunea de fractură
+    a oaselor metatarsiene și a oaselor tarsiene anterioare și efectuarea evaluărilor
+    generale ale oaselor piciorului.
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturi și la
+    1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor. Se plasează
+    markerul de lateralitate în câmpul de expunere colimat.
+  cr: '• Orientată într-unul dintre cele două moduri: (1) 10 grade spre călcâi, intrând
+    la baza celui de-al treilea metatarsian (vezi Fig. 7.39), sau (2) perpendicular
+    pe receptorul de imagine și intrând la baza celui de-al treilea metatarsian (Fig.
+    7.41). Palparea bazei proeminente a celui de-al cincilea metatarsian ajută la
+    identificarea celui de-al treilea metatarsian. Baza celui de-al treilea metatarsian
+    se află pe linia mediană, la aproximativ 1 țol anterior (spre degetele piciorului)
+    (Fig. 7.42).'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    localizing Corp străin / corpuri străine radio-opace, determining locations de
-    fragments în suspiciune de fractură de oase metatarsiene și anterior oase tarsiene,
-    și performing general
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    surveys de bones de picior.'
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1 inch
-    (2.5 cm) beyond calcaneu și distal tip de toes. Place side
+    • Anatomie de la degete până la oasele tarsiene; poate include porțiuni ale astragalului
+    (talusului) și calcaneului
 
-    marker în collimated expunere field.'
-  cr: '• orientat one de two ways: (1) 10 grade spre heel entering base de third metatarsal
-    (see Fig. 7.39), sau (2) perpendicular la
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a piciorului, evidențiată
+    prin distanțe egale între al doilea și al patrulea oase metatarsiene
 
-    receptorul de imagine și entering base de third metatarsal (Fig. 7.41). Palpating
-    prominent base de fifth metatarsal assists în finding
+    • Suprapunerea bazelor celui de-al doilea până la al cincilea metatarsian
 
-    third metatarsal. third metatarsal base este în linia mediană, approximately 1
-    inch anterior (spre toes) (Fig. 7.42).'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Incidență axială, cu demonstrarea îmbunătățită a spațiilor articulare interfalangiene,
+    metatarsofalangiene și tarsometatarsiene
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Spații articulare deschise între cuneiformele medial și intermediar
 
-    • Anatomy de la toes la oase tarsiene; poate include portions de astragal (talus)
-    și calcaneu
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Se poziționează receptorul de imagine sub piciorul pacientului, se
+    centrează la baza celui de-al treilea metatarsian și se aliniază axa longitudinală
+    a receptorului de imagine paralel cu axa longitudinală a piciorului.
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de picior, ca evidențiat
-    prin equal amounts de space între second through fourth oase metatarsiene
+    • Se menține membrul inferior în poziție verticală, pacientul flectând genunchiul
+    opus și sprijinindu-l pe genunchiul de partea afectată.
 
-    • Overlap de second through fifth metatarsal bases
+    • În această poziție a piciorului, întreaga suprafață plantară se sprijină pe
+    receptorul de imagine; poate fi necesar să se ia măsuri pentru a preveni alunecarea
+    receptorului de imagine, prin plasarea unor săculeți cu nisip pe masa de examinare,
+    adiacent receptorului de imagine, lângă degete.
 
-    • axial incidență resulting în improved demonstration de interphalangeal, metatarsophalangeal,
-    și tarsometatarsal spații articulare
+    • Se asigură absența rotației anatomice (simetrie bilaterală perfectă) a piciorului.
 
-    • Open spații articulare între medial și intermediate cuneiforms
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit dorsal sau în poziție șezândă.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• poziție receptorul de imagine under pacientul’s picior, center it la
-    base de third metatarsal, și se aliniază receptorul de imagine axa longitudinală
-    paralel cu long
-
-    axis de picior.
-
-    • Hold membru inferior în vertical poziție prin having pacientul se flectează
-    opposite genunchi și lean it pe / sprijinit de genunchi de afected side.
-
-    • în this picior poziție, entire plantar surface rests pe receptorul de imagine;
-    it poate fie necessary la take precautions pe / sprijinit de receptorul de imagine
-    slipping prin
-
-    placing săculeți cu nisip pe masa de examinare pe / sprijinit de receptorul de
-    imagine adjacent la toes.
-
-    • Ensure that Absența rotației anatomice (simetrie bilaterală perfectă) de picior
-    occurs.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau așezat pe scaun poziție.
-
-    • se flectează genunchi de afected side enough la rest sole de picior firmly pe
-    masa radiologică.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se flectează genunchiul de partea afectată suficient pentru ca talpa piciorului
+    să se sprijine ferm pe masa radiologică.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 478–484
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1 inch
-    (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Se plasează markerul
-    de lateralitate în câmpul colimat.
-title: Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the midfoot are
-  also better shown (Figs. 7.39 and 7.40). (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturi și la 1
+    țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului.
+    Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx picior — incidență AP sau incidență AP axială — spațiile articulare tarsometatarsiene
+  ale mediopiciorului sunt, de asemenea, mai bine evidențiate (Fig. 7.39 și 7.40).
+  (Merrill)
 ---
-# Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the midfoot are also better shown (Figs. 7.39 and 7.40). (Merrill)
+# Rx picior — incidență AP sau incidență AP axială — spațiile articulare tarsometatarsiene ale mediopiciorului sunt, de asemenea, mai bine evidențiate (Fig. 7.39 și 7.40). (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -173,17 +170,18 @@ title: Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the mi
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție. se flectează Genunchi de afected side enough la rest sole de Picior firmly pe masa radiologică.; poziție receptorul de imagine under pacientul’s Picior, center it la base de third metatarsal, și se aliniază receptorul de imagine axa longitudinală paralel cu axa longitudinală de Picior. Hold membru inferior în vertical poziție prin having pacientul se flectează opposite Genunchi și lean it pe / sprijinit de Genunchi de afected side. în this Picior poziție, entire plantar surface rests pe receptorul de imagine; it poate fie necessary la take precautions pe / sprijinit de receptorul de imagine slipping prin placing săculeți cu nisip pe masa de examinare pe / sprijinit de receptorul de imagine adjacent la Degete Picior. Ensure that Absența rotației anatomice (simetrie bilaterală perfectă) de Picior occurs. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat one de two ways: (1) 10 grade spre heel entering base de third metatarsal (see Fig. 7.39), sau (2) perpendicular pe receptorul de imagine (RI) și entering base de third metatarsal (Fig. 7.41). Palpating prominent base de fifth metatarsal assists în finding third metatarsal. third metatarsal base este în linia mediană, approximately 1 inch anterior (spre Degete Picior) (Fig. 7.42).
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în poziție șezândă. Se flectează genunchiul de partea afectată suficient pentru ca talpa piciorului să se sprijine ferm pe masa radiologică. Se plasează receptorul de imagine sub piciorul pacientului, se centrează la baza celui de-al treilea metatarsian și se aliniază axa longitudinală a receptorului de imagine paralel cu axa longitudinală a piciorului. Se menține membrul inferior în poziție verticală, pacientul flectând genunchiul opus și sprijinindu-l pe genunchiul de partea afectată. În această poziție a piciorului, întreaga suprafață plantară se sprijină pe receptorul de imagine; poate fi necesar să se ia măsuri pentru a preveni alunecarea receptorului de imagine, prin plasarea unor săculeți cu nisip pe masa de examinare, adiacent receptorului de imagine, lângă degetele piciorului. Se asigură absența rotației anatomice (simetrie bilaterală perfectă) a piciorului. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată într-unul dintre cele două moduri: (1) 10 grade spre călcâi, intrând la baza celui de-al treilea metatarsian (vezi Fig. 7.39), sau (2) perpendicular pe receptorul de imagine (RI), intrând la baza celui de-al treilea metatarsian (Fig. 7.41). Palparea bazei proeminente a celui de-al cincilea metatarsian ajută la identificarea celui de-al treilea metatarsian. Baza celui de-al treilea metatarsian se află pe linia mediană, la aproximativ 1 țol anterior (spre degetele piciorului) (Fig. 7.42).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -199,21 +197,21 @@ title: Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the mi
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1 inch (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturi și la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Anatomy de la Degete Picior la oase tarsiene; poate include portions de astragal (talus) și Calcaneu
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Picior, ca evidențiat prin equal amounts de space între second through fourth oase metatarsiene
-    - Overlap de second through fifth metatarsal bases
-    - axial incidență resulting în improved demonstration de interphalangeal, metatarsophalangeal, și tarsometatarsal spații articulare
-    - Open spații articulare între medial și intermediate cuneiforms
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Anatomia de la degetele piciorului până la oasele tarsiene; poate include porțiuni ale astragalului (talusului) și calcaneului
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a piciorului, evidențiată prin distanțe egale între al doilea și al patrulea oase metatarsiene.
+    - Suprapunerea bazelor celui de-al doilea până la al cincilea metatarsian.
+    - Incidență axială, cu demonstrarea îmbunătățită a spațiilor articulare interfalangiene, metatarsofalangiene și tarsometatarsiene.
+    - Spații articulare deschise între cuneiformele medial și intermediar.
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -222,6 +220,7 @@ title: Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the mi
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -301,53 +300,3 @@ title: Rx Picior — AP or Incidență AP Axială — TMT joint spaces of the mi
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 478–484](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP (dorsoplantar) incidență de oase tarsiene anterior la astragal (talus), oase metatarsiene, și falange (Figs. 7.43 through 7.45). This incidență este used pentru
-localizing Corp străin / corpuri străine radio-opace, determining locations de fragments în suspiciune de fractură de oase metatarsiene și anterior oase tarsiene, și performing general
-surveys de bones de picior.
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1 inch (2.5 cm) beyond calcaneu și distal tip de toes. Place side
-marker în collimated expunere field.
-
-### cr
-
-• orientat one de two ways: (1) 10 grade spre heel entering base de third metatarsal (see Fig. 7.39), sau (2) perpendicular la
-receptorul de imagine și entering base de third metatarsal (Fig. 7.41). Palpating prominent base de fifth metatarsal assists în finding
-third metatarsal. third metatarsal base este în linia mediană, approximately 1 inch anterior (spre toes) (Fig. 7.42).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Anatomy de la toes la oase tarsiene; poate include portions de astragal (talus) și calcaneu
-• Absența rotației anatomice (simetrie bilaterală perfectă) de picior, ca evidențiat prin equal amounts de space între second through fourth oase metatarsiene
-• Overlap de second through fifth metatarsal bases
-• axial incidență resulting în improved demonstration de interphalangeal, metatarsophalangeal, și tarsometatarsal spații articulare
-• Open spații articulare între medial și intermediate cuneiforms
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• poziție receptorul de imagine under pacientul’s picior, center it la base de third metatarsal, și se aliniază receptorul de imagine axa longitudinală paralel cu long
-axis de picior.
-• Hold membru inferior în vertical poziție prin having pacientul se flectează opposite genunchi și lean it pe / sprijinit de genunchi de afected side.
-• în this picior poziție, entire plantar surface rests pe receptorul de imagine; it poate fie necessary la take precautions pe / sprijinit de receptorul de imagine slipping prin
-placing săculeți cu nisip pe masa de examinare pe / sprijinit de receptorul de imagine adjacent la toes.
-• Ensure that Absența rotației anatomice (simetrie bilaterală perfectă) de picior occurs.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau așezat pe scaun poziție.
-• se flectează genunchi de afected side enough la rest sole de picior firmly pe masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

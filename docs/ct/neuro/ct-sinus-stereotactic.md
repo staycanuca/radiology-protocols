@@ -8,6 +8,10 @@ clinical_indications:
 contrast:
   agent: Fără substanță de contrast
   type: non-contrast
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 2 (Redusă 1 - 3 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-01-01'
 notes:
   additional_recons: Export direct al setului de date DICOM cu grosime izotropă de
@@ -62,6 +66,21 @@ series:
   start: Sinusuri frontale
   thickness: 0.625 mm
 slug: ct-sinus-stereotactic
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: AAPM
+  kind: Protocol tehnic standardizat
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+  source_region: US
+  title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Activat (Modulare automată 3D conform topogramei / scout)
@@ -73,27 +92,12 @@ tech_params:
   scan_mode: Secvențial (Axial) sau Elicoidal fin
   slice_thickness: 0.625 mm
 title: CT Sinusuri Paranazale Stereotaxic (Neuronavigație ORL)
-sources:
-- title: AAPM CT Protocols — Adult Routine Head CT
-  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
-  institution: AAPM
-  source_region: US
-  kind: Protocol tehnic standardizat
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
-- title: UT Southwestern Radiology — CT Neuro / Head Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Sinusuri Paranazale Stereotaxic (Neuronavigație ORL)
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -118,10 +122,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Redusă 1 - 3 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -206,6 +214,7 @@ sources:
     | Coronal | CT Sinusuri Stereotaxic | Sinusuri | 0.625 mm/0.625 mm | Bone |  | Plan coronal izotrop osos |
     | Sagital | CT Sinusuri Stereotaxic | Sinusuri | 0.625 mm/0.625 mm | Bone |  | Plan sagital izotrop osos |
     | 3D surface | CT Sinusuri Stereotaxic | Sinusuri | 0.625 mm/0.625 mm | Bone |  | Randare de suprafață 3D pentru corelare intraoperatorie |
+
 
 ## Surse și revizuire
 

@@ -22,6 +22,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-bite-wing-interproximala-position-of-patient-and-film-using-a-p308-clark/fig_2.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -99,26 +103,29 @@ title: Radiografie dentară bitewing (interproximală) — poziționarea pacient
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Clapetă bitewing atașată la suport
-• Se alege dimensiunea corectă a filmului și se atașează clapeta bitewing.
-• Capul pacientului trebuie sprijinit corespunzător, cu planul mediosagital vertical și planul ocluzal orizontal.
-• Se ține clapeta între police și degetul arătător.
-• Se plasează filmul în șanțul lingual.
-• Marginea anterioară a filmului trebuie poziționată opus aspectului distal al caninului inferior.
-• Clapeta se sprijină pe suprafața ocluzală a dinților inferiori.
-• I se cere pacientului să muște ușor pe clapetă și, când dinții sunt aproape în contact, operatorul trage clapeta lateral pentru a se asigura că există un contact bun între film și dinți.
-• Operatorul eliberează clapeta și, concomitent, îi comunică pacientului să continue să muște pe clapetă.
-    - **Punct de Centrare Fascicul:** • Tubul este înclinat cu five la eight grade inferior (caudal), cu raza centrală la nivelul planului ocluzal și perpendiculară pe punctele de contact ale dinților.
-Diagramă care prezintă poziția corectă pentru o radiografie bitewing orizontală la adult. Poziția ideală pentru radiografia bitewing orizontală stângă la adult, utilizând o clapetă bitewing. Poziționarea pacientului și a tubului de raze X pentru radiografia bitewing dreaptă, utilizând o clapetă bitewing.
+    - **Poziție Pacient:**
+        Clapetă bitewing atașată la suport
+
+        - Se alege dimensiunea corectă a filmului și se atașează clapeta bitewing.
+        - Capul pacientului trebuie sprijinit corespunzător, cu planul mediosagital vertical și planul ocluzal orizontal.
+        - Se ține clapeta între police și degetul arătător.
+        - Se plasează filmul în șanțul lingual.
+        - Marginea anterioară a filmului trebuie poziționată opus aspectului distal al caninului inferior.
+        - Clapeta se sprijină pe suprafața ocluzală a dinților inferiori.
+        - I se cere pacientului să muște ușor pe clapetă și, când dinții sunt aproape în contact, operatorul trage clapeta lateral pentru a se asigura că există un contact bun între film și dinți.
+        - Operatorul eliberează clapeta și, concomitent, îi comunică pacientului să continue să muște pe clapetă.
+    - **Punct de Centrare Fascicul:**
+        - Tubul este înclinat cu five la eight grade inferior (caudal), cu raza centrală la nivelul planului ocluzal și perpendiculară pe punctele de contact ale dinților. Diagramă care prezintă poziția corectă pentru o radiografie bitewing orizontală la adult. Poziția ideală pentru radiografia bitewing orizontală stângă la adult, utilizând o clapetă bitewing. Poziționarea pacientului și a tubului de raze X pentru radiografia bitewing dreaptă, utilizând o clapetă bitewing.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -154,6 +161,7 @@ Diagramă care prezintă poziția corectă pentru o radiografie bitewing orizont
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

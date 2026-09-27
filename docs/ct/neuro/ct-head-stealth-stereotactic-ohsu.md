@@ -15,6 +15,10 @@ contrast:
   timing: Scanare nativă sau la 5 min post-contrast
   trigger: N/A
   volume: 0 - 100 mL
+iris_reference:
+  chapter: Cap, Gât & Coloană vertebrală
+  radiation_dose: Clasa 2 (Mică 1 - 3 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 notes:
   additional_recons: Reconstrucții 3D de suprafață (SSD/VR) pentru verificarea co-înregistrării
@@ -94,10 +98,14 @@ title: CT Craniu Stealth / Stereotaxic Ghidat (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+            - **Capitol Ghid IRIS:** *Cap, Gât & Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Mică 1 - 3 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: orientat la point approximately 1½ inches (3.8 cm) proximal la Pumn (Articulație
-  Radiocarpiană) articulație la caudal angle de 45 grade
+centering: orientată spre un punct situat la aproximativ 1½ țoli (3.8 cm) proximal
+  față de articulația pumnului, cu un unghi caudal de 45 grade
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -16,25 +16,30 @@ images:
 - caption: Merrill — pagina 312, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-carpal-bridge-tangential-projection-p310-merrill/p312_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Seat sau stand pacientul la side de masa radiologică la permit required
-  manipulation de braț sau x-ray tube.; originators 27 de this incidență recommended
-  that Mână lie palm upward pe receptorul de imagine cu Mână la drept angle la Antebraț
-  (Fig. 5.96). When Pumn (Articulație Radiocarpiană) este too painful la fie ajustat
-  în poziție just described, similar imagine poate fie obtained prin elevating Antebraț
-  pe săculeți cu nisip sau other suitable support. Then cu Pumn (Articulație Radiocarpiană)
-  flectat în drept-angle poziție, place receptorul de imagine în vertical poziție
-  (Fig. 5.97). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în poziție șezândă sau în ortostatism lângă masa radiologică,
+  pentru a permite manevrarea necesară a brațului sau a tubului radiogen. Autorii
+  acestei incidențe [27] au recomandat așezarea mâinii cu palma în sus pe receptorul
+  de imagine, cu mâna în unghi drept față de antebraț (Fig. 5.96). Când pumnul (articulația
+  radiocarpiană) este prea dureros pentru a fi adus în poziția descrisă, se poate
+  obține o imagine similară ridicând antebrațul pe săculeți cu nisip sau pe un alt
+  suport adecvat. Apoi, cu pumnul flectat în unghi drept, se plasează receptorul de
+  imagine în poziție verticală (Fig. 5.97). Se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- dorsal surface de oase carpiene liber de superimposition prin metacarpal bases
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- suprafața dorsală a oaselor carpiene, liberă de suprapunerea bazelor metacarpienelor
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-carpal-bridge-tangential-projection-p310-merrill
 source_pages:
@@ -42,53 +47,50 @@ source_pages:
 - 311
 - 312
 source_sections:
-  anatomy: 'carpal bridge este vizualizat pe imagine în Figs. 5.98 și 5.99. originators
-    recommended this procedure la show suspiciune de fractură de scaphoid,
+  anatomy: Arcul carpian este vizualizat în imaginile din Fig. 5.98 și 5.99. Autorii
+    au recomandat această procedură pentru evidențierea fracturii suspectate de scafoid,
+    a luxației semilunarului, a calcificărilor și a corpului străin/corpurilor străine
+    radioopace din partea dorsală a pumnului, precum și a fracturii suspectate a aspectului
+    dorsal al oaselor carpiene.
+  collimation: • Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Plasați markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • orientată spre un punct situat la aproximativ 1½ țoli (3.8 cm) proximal față
+    de articulația pumnului, cu un unghi caudal de 45 grade
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    lunate luxație articulară, calcifications, și Corp străin / corpuri străine radio-opace
-    în dorsum de wrist, și chip suspiciune de fractură de dorsal aspect de oase carpiene.'
-  collimation: '• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal
-    la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate
-    (D/S) în
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    collimated expunere field.'
-  cr: • orientat la point approximately 1½ inches (3.8 cm) proximal la wrist articulație
-    la caudal angle de 45 grade
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • suprafața dorsală a oaselor carpiene, liberă de suprapunerea bazelor metacarpienelor
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • detalii osoase trabeculare și țesuturile moi adiacente'
+  part_pos: '• Autorii acestei incidențe [27] au recomandat așezarea mâinii cu palma
+    în sus pe receptorul de imagine, cu mâna în unghi drept față de antebraț (Fig.
+    5.96).
 
-    • dorsal surface de oase carpiene liber de superimposition prin metacarpal bases
+    • Când pumnul (articulația radiocarpiană) este prea dureros pentru a fi adus în
+    poziția descrisă, se poate obține o imagine similară ridicând antebrațul pe săculeți
+    cu nisip sau pe un alt suport adecvat. Apoi, cu pumnul flectat în unghi drept,
+    se plasează receptorul de imagine în poziție verticală (Fig. 5.97).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• originators 27 de this incidență recommended that mână lie palm upward
-    pe receptorul de imagine cu mână la drept angle la forearm
-
-    (Fig. 5.96).
-
-    • When wrist este too painful la fie ajustat în poziție just described, similar
-    imagine poate fie obtained prin elevating forearm pe
-
-    săculeți cu nisip sau other suitable support. Then cu wrist flectat în drept-angle
-    poziție, place receptorul de imagine în vertical poziție (Fig. 5.97).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Seat sau stand pacientul la side de masa radiologică la permit required
-    manipulation de braț sau x-ray tube.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați sau ridicați pacientul în picioare lateral față de masa radiologică,
+    pentru a permite manipularea necesară a brațului sau a tubului de raze X.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 310–312
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
-    Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Carpal Bridge — Tangential Incidență (Merrill)
+  collimation: Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față
+    de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de
+    lateralitate în câmpul colimat.
+title: Rx punte carpiană — incidență tangențială (Merrill)
 ---
-# Rx Carpal Bridge — Tangential Incidență (Merrill)
+# Rx punte carpiană — incidență tangențială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -112,17 +114,18 @@ title: Rx Carpal Bridge — Tangential Incidență (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Seat sau stand pacientul la side de masa radiologică la permit required manipulation de braț sau x-ray tube.; originators 27 de this incidență recommended that Mână lie palm upward pe receptorul de imagine cu Mână la drept angle la Antebraț (Fig. 5.96). When Pumn (Articulație Radiocarpiană) este too painful la fie ajustat în poziție just described, similar imagine poate fie obtained prin elevating Antebraț pe săculeți cu nisip sau other suitable support. Then cu Pumn (Articulație Radiocarpiană) flectat în drept-angle poziție, place receptorul de imagine în vertical poziție (Fig. 5.97). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la point approximately 1½ inches (3.8 cm) proximal la Pumn (Articulație Radiocarpiană) articulație la caudal angle de 45 grade
+    - **Poziție Pacient:** Se așază pacientul în poziție șezândă sau în ortostatism lângă masa radiologică, pentru a permite manevrarea necesară a brațului sau a tubului radiogen. Autorii acestei incidențe [27] au recomandat așezarea mâinii cu palma în sus pe receptorul de imagine, cu mâna în unghi drept față de antebraț (Fig. 5.96). Când pumnul (articulația radiocarpiană) este prea dureros pentru a fi adus în poziția descrisă, se poate obține o imagine similară ridicând antebrațul pe săculeți cu nisip sau pe un alt suport adecvat. Apoi, cu pumnul flectat în unghi drept, se plasează receptorul de imagine în poziție verticală (Fig. 5.97). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** orientată spre un punct situat la aproximativ 1½ țoli (3.8 cm) proximal față de articulația pumnului, cu un unghi caudal de 45 grade
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -138,17 +141,17 @@ title: Rx Carpal Bridge — Tangential Incidență (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - dorsal surface de oase carpiene liber de superimposition prin metacarpal bases
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - suprafața dorsală a oaselor carpiene, liberă de suprapunerea bazelor metacarpienelor
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,6 +160,7 @@ title: Rx Carpal Bridge — Tangential Incidență (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -204,43 +208,3 @@ title: Rx Carpal Bridge — Tangential Incidență (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 310–312](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-carpal bridge este vizualizat pe imagine în Figs. 5.98 și 5.99. originators recommended this procedure la show suspiciune de fractură de scaphoid,
-lunate luxație articulară, calcifications, și Corp străin / corpuri străine radio-opace în dorsum de wrist, și chip suspiciune de fractură de dorsal aspect de oase carpiene.
-
-### collimation
-
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• orientat la point approximately 1½ inches (3.8 cm) proximal la wrist articulație la caudal angle de 45 grade
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• dorsal surface de oase carpiene liber de superimposition prin metacarpal bases
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• originators 27 de this incidență recommended that mână lie palm upward pe receptorul de imagine cu mână la drept angle la forearm
-(Fig. 5.96).
-• When wrist este too painful la fie ajustat în poziție just described, similar imagine poate fie obtained prin elevating forearm pe
-săculeți cu nisip sau other suitable support. Then cu wrist flectat în drept-angle poziție, place receptorul de imagine în vertical poziție (Fig. 5.97).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Seat sau stand pacientul la side de masa radiologică la permit required manipulation de braț sau x-ray tube.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

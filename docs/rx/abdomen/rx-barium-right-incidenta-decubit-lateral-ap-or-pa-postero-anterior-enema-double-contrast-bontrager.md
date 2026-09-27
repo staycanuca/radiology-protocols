@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.78
     Decubit lateral drept.)
   url: assets/images/protocols/bontrager/rx-barium-right-incidenta-decubit-lateral-ap-or-pa-postero-anterior-enema-double-contrast-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Procedați cât mai rapid posibil. Pentru pacienții hiperstenici, utilizați
@@ -102,11 +106,12 @@ title: Rx CU BARIU ÎN DECUBIT LATERAL DREPT (AP SAU PA (Postero-Anterior)) (CLI
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -152,6 +157,7 @@ title: Rx CU BARIU ÎN DECUBIT LATERAL DREPT (AP SAU PA (Postero-Anterior)) (CLI
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Procedați cât mai rapid posibil. Pentru pacienții hiperstenici, utilizați două IR de 14 × 17 inchi (35 × 43 cm), orientate transversal, pentru a include întregul intestin gros (colon). Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO LPO sau RPO Rect în incidență de profil Decubit lateral R și L (examinare cu dublu contrast) Fig. 13.76 Decubit lateral drept—AP (cu grilă portabilă).

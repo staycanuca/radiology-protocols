@@ -41,6 +41,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-profil-lateral-flexion-and-extension-p190-clark/fig_7.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• un OFD mare va crește neclaritatea geometrică. Aceasta se poate compensa
@@ -147,28 +151,29 @@ title: Rx Coloană Cervicală Profil (Lateral) - flexie și extensie
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este poziționat ca pentru incidențele de profil de bază sau de profil în decubit dorsal; totuși, poziționarea în ortostatism este mai convenabilă. Pacientului i se cere să flecteze gâtul și să își ducă bărbia spre torace cât mai mult posibil.
-• pentru a doua incidență, pacientului i se cere să extindă gâtul, ridicând bărbia cât mai mult posibil.
-• imobilizarea poate fi facilitată cerându-i pacientului să se țină de un obiect solid, cum ar fi spătarul unui scaun.
-• caseta este centrată la nivelul regiunii cervicale mijlocii și poate fi plasată transversal pentru profilul în flexie, în funcție de gradul de mișcare și de dimensiunea casetei utilizate.
-• dacă imaginea este efectuată în decubit dorsal, gâtul poate fi flectat prin plasarea unor suporturi sub gât. Extensia gâtului poate fi obținută prin plasarea unor perne sub umerii pacientului.
-
-• pacientul stă în ortostatism sau așezat, cu partea posterioară a capului și umerii pe / sprijiniți de stativul vertical Bucky (sau pe casetă, dacă se preferă fără grilă).
-• planul mediosagital al trunchiului este rotit cu 45 grade pentru partea dreaptă și partea stângă, pe rând.
-• capul poate fi rotit astfel încât planul mediosagital al capului să fie paralel cu caseta, evitând astfel suprapunerea mandibulei peste vertebre.
-• caseta este centrată la proeminența cartilajului tiroid (mărul lui Adam).
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală orizontal spre regiunea cervicală mijlocie (C4).
-
-• fasciculul este înclinat cu 15 grade cranial față de orizontală, iar raza centrală este orientată spre mijlocul gâtului, pe partea cea mai apropiată de tub.
+    - **Poziție Pacient:**
+        - pacientul este poziționat ca pentru incidențele de profil de bază sau de profil în decubit dorsal; totuși, poziționarea în ortostatism este mai convenabilă. Pacientului i se cere să flecteze gâtul și să își ducă bărbia spre torace cât mai mult posibil.
+        - pentru a doua incidență, pacientului i se cere să extindă gâtul, ridicând bărbia cât mai mult posibil.
+        - imobilizarea poate fi facilitată cerându-i pacientului să se țină de un obiect solid, cum ar fi spătarul unui scaun.
+        - caseta este centrată la nivelul regiunii cervicale mijlocii și poate fi plasată transversal pentru profilul în flexie, în funcție de gradul de mișcare și de dimensiunea casetei utilizate.
+        - dacă imaginea este efectuată în decubit dorsal, gâtul poate fi flectat prin plasarea unor suporturi sub gât. Extensia gâtului poate fi obținută prin plasarea unor perne sub umerii pacientului.
+        - pacientul stă în ortostatism sau așezat, cu partea posterioară a capului și umerii pe / sprijiniți de stativul vertical Bucky (sau pe casetă, dacă se preferă fără grilă).
+        - planul mediosagital al trunchiului este rotit cu 45 grade pentru partea dreaptă și partea stângă, pe rând.
+        - capul poate fi rotit astfel încât planul mediosagital al capului să fie paralel cu caseta, evitând astfel suprapunerea mandibulei peste vertebre.
+        - caseta este centrată la proeminența cartilajului tiroid (mărul lui Adam).
+    - **Punct de Centrare Fascicul:**
+        - se orientează raza centrală orizontal spre regiunea cervicală mijlocie (C4).
+        - fasciculul este înclinat cu 15 grade cranial față de orizontală, iar raza centrală este orientată spre mijlocul gâtului, pe partea cea mai apropiată de tub.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -206,15 +211,13 @@ title: Rx Coloană Cervicală Profil (Lateral) - flexie și extensie
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • un OFD mare va crește neclaritatea geometrică. Aceasta se poate compensa prin creșterea distanței focar–film radiologic la 150 cm.
-• spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării unei grile de radiație secundară pentru atenuarea radiației împrăștiate.
-• Consultați protocoalele locale pentru îndepărtarea gulerelor de imobilizare la efectuarea acestor examinări.
-Leziune de tip whiplash (coloana vertebrală în poziție neutră) Flexie Extensie
 
-• incidențele oblice anterioare se efectuează de obicei la pacienți mobili. Poziția utilizată este exact opusă incidenței oblice posterioare, adică pacientul este orientat cu fața spre casetă și se utilizează o angulație caudală de 15 grade. Utilizarea acestei incidențe reduce doza de radiații la nivelul tiroidei.
-• foramenele evidențiate pe incidența oblică posterioară sunt cele mai apropiate de tubul cu raze X.
-176
+!!! note "Observații Clinice & Tehnice"
+    - un OFD mare va crește neclaritatea geometrică. Aceasta se poate compensa prin creșterea distanței focar–film radiologic la 150 cm.
+    - spațiul de aer dintre gât și filmul radiologic elimină necesitatea utilizării unei grile de radiație secundară pentru atenuarea radiației împrăștiate.
+    - Consultați protocoalele locale pentru îndepărtarea gulerelor de imobilizare la efectuarea acestor examinări. Leziune de tip whiplash (coloana vertebrală în poziție neutră) Flexie Extensie
+    - incidențele oblice anterioare se efectuează de obicei la pacienți mobili. Poziția utilizată este exact opusă incidenței oblice posterioare, adică pacientul este orientat cu fața spre casetă și se utilizează o angulație caudală de 15 grade. Utilizarea acestei incidențe reduce doza de radiații la nivelul tiroidei.
+    - foramenele evidențiate pe incidența oblică posterioară sunt cele mai apropiate de tubul cu raze X. 176
 
 
 ### 🖼️ Imagini

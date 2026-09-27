@@ -18,6 +18,16 @@ def test_numbers_ranges_and_decimal_separator():
     assert validate('90 degrees twice: 90', '90 grade') == ['numeric mismatch']
 
 
+def test_localize_unit_names_preserves_values_fractions_and_urls():
+    source = '1 inch; 1½ inches; 10 × 12 inches (24 × 30 cm); https://example.org/12-inches'
+    target = catalog.localize_units(source)
+    assert target == '1 țol; 1½ țoli; 10 × 12 țoli (24 × 30 cm); https://example.org/12-inches'
+    assert not validate(source, target)
+    assert catalog.localize_units(target) == target
+    assert catalog.localize_units('Casetă 18\x02 24 cm') == 'Casetă 18 × 24 cm'
+    assert catalog.localize_units('⅓ inch; ¾ inch') == '⅓ țol; ¾ țol'
+
+
 def test_links_and_missing_prose_are_rejected():
     assert validate('See https://example.org/a', 'Vezi https://example.org/b') == ['URL mismatch']
     assert 'possible omission' in validate('word ' * 60, 'Cuvânt.')
@@ -29,12 +39,17 @@ def test_units_signs_and_fractions_cannot_change():
     assert 'number-unit mismatch' in validate('90 degrees', '90 cm')
     assert 'sign/fraction mismatch' in validate('-10 degrees', '10 grade')
     assert 'sign/fraction mismatch' in validate('1/2 inch', '1-2 inci')
+    assert not validate('Angle 20\x06', 'Unghi de 20°')
+    assert 'number-unit mismatch' in validate('Angle 20\x06', '20 cm')
+    assert 'sign/fraction mismatch' in validate('⅓ inch', '½ țol')
+    assert not validate('Fig. 6.39 Second toe', 'Fig. 6.39 Al doilea deget')
+    assert 'number-unit mismatch' in validate('2 second exposure', 'Expunere de 2 cm')
 
 
 def test_codex_batch_accepts_literal_newlines_but_rejects_ocr_controls(monkeypatch):
     import cli_ai
     response = ('{"items":[{"id":"0","text":"Prima linie\nA doua linie","incomplete":false},'
-                '{"id":"1","text":"Casetă 18 \u0002 24 cm","incomplete":false}]}')
+                '{"id":"1","text":"Casetă 18 \u0001 24 cm","incomplete":false}]}')
     monkeypatch.setattr(cli_ai, 'run_cli', lambda *a, **kw: (response, False, 'test'))
     batch = [{'id': catalog.digest(s), 'source': s, 'context': 'Rx'}
              for s in ('First line\nSecond line', 'Cassette 18 × 24 cm')]

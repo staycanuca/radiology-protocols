@@ -24,6 +24,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-axiala-upper-cervical-vertebra-p189-clark/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Angulația suplimentară a fasciculului poate fi utilizată dacă pacientul
@@ -91,18 +95,20 @@ title: Rx Coloană Cervicală Axială - vertebre cervicale superioare
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat în Decubit dorsal pe masa radiologică, cu planul mediosagital coincident cu linia mediană a mesei și perpendicular pe casetă.
-• gâtul este extins astfel încât linia orbito-meatală de bază să formeze 45 grade față de suprafața mesei. Capul este apoi imobilizat.
-• caseta este deplasată cranial astfel încât centrul ei să coincidă cu raza centrală.
+    - **Poziție Pacient:**
+        - pacientul este culcat în Decubit dorsal pe masa radiologică, cu planul mediosagital coincident cu linia mediană a mesei și perpendicular pe casetă.
+        - gâtul este extins astfel încât linia orbito-meatală de bază să formeze 45 grade față de suprafața mesei. Capul este apoi imobilizat.
+        - caseta este deplasată cranial astfel încât centrul ei să coincidă cu raza centrală.
     - **Punct de Centrare Fascicul:** • fasciculul este înclinat la 30 grade cranial față de verticală, iar raza centrală este orientată spre punctul de pe linia mediană dintre conductele auditive externe.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -138,10 +144,10 @@ title: Rx Coloană Cervicală Axială - vertebre cervicale superioare
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Angulația suplimentară a fasciculului poate fi utilizată dacă pacientul poartă un guler rigid.
-• Tomografia Liniară Convențională a fost, de asemenea, utilizată pentru a evidenția această regiune.
-174 30° Exemplu de tomogramă liniară
+    - Angulația suplimentară a fasciculului poate fi utilizată dacă pacientul poartă un guler rigid.
+    - Tomografia Liniară Convențională a fost, de asemenea, utilizată pentru a evidenția această regiune. 174 30° Exemplu de tomogramă liniară
 
 
 ### 🖼️ Imagini

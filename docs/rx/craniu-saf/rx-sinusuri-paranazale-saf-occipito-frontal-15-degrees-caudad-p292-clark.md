@@ -40,6 +40,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sinusuri-paranazale-saf-occipito-frontal-15-degrees-caudad-p292-clark/fig_5.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Gradul de angulație poate varia în funcție de preferințele locale. Unele
@@ -152,31 +156,32 @@ title: Rx Sinusuri paranazale (SAF) — Incidență occipitofrontală 15 grade c
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat pe scaun, cu fața spre stativul vertical Bucky sau suportul pentru casetă al unității pentru craniu, astfel încât planul mediosagital să coincidă cu linia mediană a Bucky și să fie, de asemenea, perpendicular pe aceasta.
-• Capul este poziționat astfel încât linia orbitomeatală să fie ridicată cu 15 grade față de orizontală.
-• Asigurați-vă că nazionul este poziționat în centrul Bucky.
-• Pacientul își poate așeza palmele de fiecare parte a capului, în afara fasciculului primar, pentru stabilitate.
-• O casetă de 18 × 24 cm este plasată longitudinal în tava Bucky. Dispozitivul plumbat de blocare a numelui nu trebuie să interfereze cu imaginea finală.
-
-• Pacientul stă așezat, cu fața spre stativul vertical Bucky sau suportul pentru casetă al unității pentru craniu. Capul este apoi rotit astfel încât planul mediosagital să fie paralel cu Bucky, iar linia interorbitară să fie perpendiculară pe Bucky.
-• Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
-• Înălțimile capului și ale Bucky sunt ajustate astfel încât centrul Bucky să fie la 2.5 cm de-a lungul liniei orbitomeatale (LOM), față de canthusul extern al ochiului.
-• Poziționați longitudinal o casetă de 18 × 24 cm în Bucky pentru ortostatism, astfel încât marginea sa inferioară să fie la 2.5 cm sub nivelul dinților superiori.
-• Un suport radiotransparent poate fi plasat sub bărbie pentru susținere.
-    - **Punct de Centrare Fascicul:** • Raza centrală este orientată perpendicular pe stativul vertical Bucky, de-a lungul planului mediosagital, astfel încât fasciculul să iasă la nivelul nazionului.
-• Câmpul de colimare sau conul de extensie trebuie reglat pentru a include sinusurile etmoidale și frontale. Dimensiunea sinusurilor frontale poate varia considerabil de la un individ la altul.
-
-• Raza centrală orizontală trebuie utilizată pentru evidențierea nivelurilor hidroaerice.
-• Tubul trebuie să fi fost centrat anterior pe Bucky, astfel încât raza centrală să fie acum centrată într-un punct situat la 2.5 cm posterior față de canthusul extern al ochiului.
+    - **Poziție Pacient:**
+        - Pacientul este așezat pe scaun, cu fața spre stativul vertical Bucky sau suportul pentru casetă al unității pentru craniu, astfel încât planul mediosagital să coincidă cu linia mediană a Bucky și să fie, de asemenea, perpendicular pe aceasta.
+        - Capul este poziționat astfel încât linia orbitomeatală să fie ridicată cu 15 grade față de orizontală.
+        - Asigurați-vă că nazionul este poziționat în centrul Bucky.
+        - Pacientul își poate așeza palmele de fiecare parte a capului, în afara fasciculului primar, pentru stabilitate.
+        - O casetă de 18 × 24 cm este plasată longitudinal în tava Bucky. Dispozitivul plumbat de blocare a numelui nu trebuie să interfereze cu imaginea finală.
+        - Pacientul stă așezat, cu fața spre stativul vertical Bucky sau suportul pentru casetă al unității pentru craniu. Capul este apoi rotit astfel încât planul mediosagital să fie paralel cu Bucky, iar linia interorbitară să fie perpendiculară pe Bucky.
+        - Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
+        - Înălțimile capului și ale Bucky sunt ajustate astfel încât centrul Bucky să fie la 2.5 cm de-a lungul liniei orbitomeatale (LOM), față de canthusul extern al ochiului.
+        - Poziționați longitudinal o casetă de 18 × 24 cm în Bucky pentru ortostatism, astfel încât marginea sa inferioară să fie la 2.5 cm sub nivelul dinților superiori.
+        - Un suport radiotransparent poate fi plasat sub bărbie pentru susținere.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală este orientată perpendicular pe stativul vertical Bucky, de-a lungul planului mediosagital, astfel încât fasciculul să iasă la nivelul nazionului.
+        - Câmpul de colimare sau conul de extensie trebuie reglat pentru a include sinusurile etmoidale și frontale. Dimensiunea sinusurilor frontale poate varia considerabil de la un individ la altul.
+        - Raza centrală orizontală trebuie utilizată pentru evidențierea nivelurilor hidroaerice.
+        - Tubul trebuie să fi fost centrat anterior pe Bucky, astfel încât raza centrală să fie acum centrată într-un punct situat la 2.5 cm posterior față de canthusul extern al ochiului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -215,14 +220,16 @@ title: Rx Sinusuri paranazale (SAF) — Incidență occipitofrontală 15 grade c
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • Gradul de angulație poate varia în funcție de preferințele locale. Unele departamente pot prefera utilizarea incidenței OF20°↓. În acest caz, linia orbitomeatală este ridicată la unghiul necesar prin incidență, adică 20 grade. Alternativ, se poate utiliza o angulație caudală de 20 grade, cu linia orbitomeatală perpendiculară pe receptorul de imagine.
-• Incidența OF10°↓ sau occipitofrontală nu ar fi adecvată pentru evidențierea sinusurilor etmoidale, deoarece stâncile temporale (piramidele pietroase) ar obstrua regiunea de interes.
-15° de 15°↓
 
-Această incidență poate fi efectuată și cu pacientul în decubit dorsal și caseta sprijinită vertical pe / sprijinită de partea feței. Din nou, se utilizează fasciculul orizontal pentru evidențierea nivelurilor hidroaerice.
-Referință: Clements R, Ponsford A (1991). Incidență modificată a masivului facial (oaselor feței) la pacienții cu leziuni grave. Radiography Today 57:10–12.
-278 Sinusuri frontale Sinusuri maxilare Sinusuri etmoidale Sinusuri sfenoidale
+!!! note "Observații Clinice & Tehnice"
+    - Gradul de angulație poate varia în funcție de preferințele locale. Unele departamente pot prefera utilizarea incidenței OF20°↓. În acest caz, linia orbitomeatală este ridicată la unghiul necesar prin incidență, adică 20 grade. Alternativ, se poate utiliza o angulație caudală de 20 grade, cu linia orbitomeatală perpendiculară pe receptorul de imagine.
+    - Incidența OF10°↓ sau occipitofrontală nu ar fi adecvată pentru evidențierea sinusurilor etmoidale, deoarece stâncile temporale (piramidele pietroase) ar obstrua regiunea de interes. 15° de 15°↓
+    Această incidență poate fi efectuată și cu pacientul în decubit dorsal și caseta sprijinită vertical pe / sprijinită de partea feței. Din nou, se utilizează fasciculul orizontal pentru evidențierea nivelurilor hidroaerice.
+
+    Referință: Clements R, Ponsford A (1991). Incidență modificată a masivului facial (oaselor feței) la pacienții cu leziuni grave. Radiography Today 57:10–12.
+
+    278 Sinusuri frontale Sinusuri maxilare Sinusuri etmoidale Sinusuri sfenoidale
+
 
 
 ### 🖼️ Imagini

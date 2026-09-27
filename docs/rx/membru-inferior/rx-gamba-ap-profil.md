@@ -5,9 +5,13 @@ category: membru-inferior
 centering: Conform incidenței și acoperirii anatomice documentate.
 clinical_indications:
 - Suspiciune de fractură tibială/fibulară; la copil, suspiciune clinică de fractură
-  ocultă gambei.
+  ocultă a gambei.
 clinical_status: draft_not_for_clinical_use
 images: []
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Un examen inițial fără leziuni vizibile nu exclude fractura copilului mic.
@@ -68,16 +72,16 @@ sources:
   url: https://www.aapm.org/org/policies/details.asp?id=2552
   verification_method: Web consultation; no downloaded content hash
 standard_views:
-- centering: Tibie și fibulă integral, genunchi și gleznă.
+- centering: Tibia și fibula integral, cu genunchiul și glezna incluse.
   condition: Parte a setului inițial justificat de radiolog
-  name: AP gambă
+  name: Gambă AP
   position: Membrul sprijinit, orientare AP în limita toleranței.
   quality: Ambele oase și articulațiile incluse, fără tăierea extremităților.
 - centering: Aceleași limite anatomice.
   condition: Parte a setului inițial justificat de radiolog
-  name: Profil gambă
-  position: Proiecție laterală adaptată imobilizării și durerii.
-  quality: Alinierea și corticalele evaluabile în proiecție complementară.
+  name: Gambă de profil
+  position: Incidență de profil adaptată imobilizării și durerii.
+  quality: Alinierea și corticalele evaluabile în incidența complementară.
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   filtration: DE CONFIGURAT PE APARAT
@@ -85,13 +89,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx RX gambă — tibie și fibulă
+title: Rx gambă — tibie și fibulă
 workbench_transfer:
   draft_id: 9fc1f246607751c18d175a8c3188f649
   purpose: review_in_main_application
   transferred_at: '2026-09-15T08:50:31.235463+00:00'
 ---
-# Rx RX gambă — tibie și fibulă
+# Rx gambă — tibie și fibulă
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -113,16 +117,17 @@ workbench_transfer:
 
     === "Indicații Clinice"
 
-        - Suspiciune de fractură tibială/fibulară; la copil, suspiciune clinică de fractură ocultă gambei.
+        - Suspiciune de fractură tibială/fibulară; la copil, suspiciune clinică de fractură ocultă a gambei.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -163,30 +168,31 @@ workbench_transfer:
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Un examen inițial fără leziuni vizibile nu exclude fractura copilului mic. Reexaminarea ori incidențele suplimentare se stabilesc clinic.
 
 ## Incidențe și criterii de acceptare
 
-### AP gambă
+### Gambă AP
 
 **Selecție:** Parte a setului inițial justificat de radiolog
 
 **Poziționare:** Membrul sprijinit, orientare AP în limita toleranței.
 
-**Centrare / acoperire:** Tibie și fibulă integral, genunchi și gleznă.
+**Centrare / acoperire:** Tibia și fibula integral, cu genunchiul și glezna incluse.
 
 **Criterii de acceptare:** Ambele oase și articulațiile incluse, fără tăierea extremităților.
 
-### Profil gambă
+### Gambă de profil
 
 **Selecție:** Parte a setului inițial justificat de radiolog
 
-**Poziționare:** Proiecție laterală adaptată imobilizării și durerii.
+**Poziționare:** Incidență de profil adaptată imobilizării și durerii.
 
 **Centrare / acoperire:** Aceleași limite anatomice.
 
-**Criterii de acceptare:** Alinierea și corticalele evaluabile în proiecție complementară.
+**Criterii de acceptare:** Alinierea și corticalele evaluabile în incidența complementară.
 
 ## De finalizat la revizuire
 

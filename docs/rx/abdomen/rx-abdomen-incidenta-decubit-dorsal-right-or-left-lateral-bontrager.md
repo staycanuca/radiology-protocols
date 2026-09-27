@@ -23,6 +23,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 3.44
     decubit dorsal—poziție de profil drept.)
   url: assets/images/protocols/bontrager/rx-abdomen-incidenta-decubit-dorsal-right-or-left-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Aceasta poate fi efectuată în incidență de profil drept sau stâng; trebuie
@@ -108,11 +112,12 @@ title: Rx Abdomen Incidență în Decubit Dorsal (PROFIL DREPT SAU STÂNG)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -158,6 +163,7 @@ title: Rx Abdomen Incidență în Decubit Dorsal (PROFIL DREPT SAU STÂNG)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Aceasta poate fi efectuată în incidență de profil drept sau stâng; trebuie utilizat markerul de lateralitate R sau L corespunzător, indicând partea cea mai apropiată de receptorul de imagine. Abdomen SPECIAL PA Decubit ventral decubit lateral (AP) AP Ortostatism decubit dorsal (profil) profil Fig. 3.42 decubit dorsal—incidență de profil drept. Fig. 3.43 decubit dorsal—incidență de profil drept. Regiunea prevertebrală Aripile iliace Gaze în intestine Fig. 3.44 decubit dorsal—incidență de profil drept.

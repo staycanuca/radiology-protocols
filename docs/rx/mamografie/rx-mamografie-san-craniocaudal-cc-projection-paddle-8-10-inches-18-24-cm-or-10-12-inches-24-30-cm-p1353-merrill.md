@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: mamografie
-centering: perpendicular pe base de Mamografie (Sân)
+centering: perpendicular pe baza sânului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,56 +15,64 @@ images:
 - caption: Merrill — pagina 1355, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mamografie-san-craniocaudal-cc-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1353-merrill/p1355_fig3.png
+iris_reference:
+  chapter: Sân
+  radiation_dose: Clasa 1 (Minimă < 0.4 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să stand facing receptorul de imagine, cu her picioare
-  pointing perpendicular pe Mamografie unit. If pacientul este unable la stand pentru
-  duration de exam, Se instruiește pacientul să Poziție Șezândă pe adjustable stool
-  facing unit.; While în ortostatism pe medial side de Mamografie (Sân) la fie imaged,
-  elevate inframammary fold la its maximal height. se ajustează height de C-braț la
-  level de inferior surface de pacientul’s Mamografie (Sân). Se instruiește pacientul
-  să lean slightly forward de la waist. Use ambele mâini la pull Mamografie (Sân)
-  gently onto receptorul de imagine surface, while instructing pacientul la press
-  thorax pe / sprijinit de receptorul de imagine. Drape opposite Mamografie (Sân)
-  over corner de receptorul de imagine. This maneuver improves demonstration de medial
-  tissue. Se instruiește pacientul să hold onto grab bar cu contralateral Mână; this
-  helps steady pacientul ca you continue positioning. Keep Mamografie (Sân) perpendicular
-  pe Torace perete. technologist trebuie să use his sau her fingertips la pull inferior
-  posterior tissue gently forward onto receptorul de imagine. se centrează Mamografie
-  (Sân) over AEC detector, cu nipple în profile if possible. se imobilizează Mamografie
-  (Sân) cu one Mână, while taking care nu la remove this Mână until compression begins.
-  While placing your braț pe / sprijinit de pacient’s back cu your Mână pe Umăr de
-  afected side, make certain pacientul’s Umăr este relaxat și în extern rotație. se
-  rotește pacient’s cap away de la afected side, și se sprijină pacientul’s cap pe
-  / sprijinit de face guard. Make certain that fără other objects such ca jewelry
-  sau hair obstruct path de fascicul. cu your Mână pe pacientul’s Umăr, gently slide
-  skin up over Claviculă. Using Mână that este anchoring pacientul’s Mamografie (Sân),
-  pull lateral tissue onto receptorul de imagine fără sacrificing medial tissue. While
-  menținerea Mamografie (Sân) în place, use that same Mână la smooth skin wrinkles
-  anteriorly spre nipple. Inform pacientul that compression de Mamografie (Sân) will
-  begin. Using Picior pedal compression controls, bring compression paddle into contact
-  cu Mamografie (Sân) while sliding Mână spre nipple. Slowly apply compression manually
-  until Mamografie (Sân) feels taut. Check medial și lateral aspects de Mamografie
-  (Sân) pentru adecvat compression. Se instruiește pacientul să indicate whether compression
-  becomes uncomfortable. After full compression este achieved și checked, Se instruiește
-  pacientul să stop respirație (Fig. 18.28). Se declanșează expunerea. Se decomprimă
-  sânul imediat după efectuarea expunerii.
+position: Se instruiește pacientul să stea cu fața către receptorul de imagine, cu
+  picioarele orientate perpendicular pe aparatul de mamografie. Dacă pacientul nu
+  poate sta în picioare pe durata examinării, se instruiește pacientul să stea pe
+  un taburet reglabil, cu fața către aparat. În ortostatism, pe partea medială a sânului
+  care urmează să fie examinat, se ridică pliul inframamar la înălțimea sa maximă.
+  se ajustează înălțimea brațului C la nivelul suprafeței inferioare a sânului pacientului.
+  Se instruiește pacientul să se aplece ușor înainte din talie. Se folosesc ambele
+  mâini pentru a trage ușor sânul pe suprafața receptorului de imagine, instruind
+  pacientul să apese toracele pe / să-l sprijine de receptorul de imagine. Se așază
+  sânul opus peste colțul receptorului de imagine. Această manevră îmbunătățește evidențierea
+  țesutului medial. Se instruiește pacientul să se țină de bara de sprijin cu mâna
+  contralaterală; acest lucru ajută la menținerea stabilității pacientului în timp
+  ce se continuă poziționarea. Se menține sânul perpendicular pe peretele toracic.
+  Tehnologul trebuie să folosească vârfurile degetelor pentru a trage ușor țesutul
+  inferior posterior înainte, pe receptorul de imagine. se centrează sânul deasupra
+  detectorului AEC, cu mamelonul de profil, dacă este posibil. se imobilizează sânul
+  cu o mână, având grijă să nu se îndepărteze această mână până la începerea compresiei.
+  În timp ce se așază brațul pe / se sprijină de spatele pacientului, cu mâna pe umărul
+  părții afectate, se verifică dacă umărul pacientului este relaxat și în rotație
+  externă. se rotește capul pacientului în partea opusă părții afectate și se sprijină
+  capul pacientului pe apărătoarea facială. Se verifică să nu existe alte obiecte,
+  precum bijuterii sau păr, care să obstrucționeze traiectul fasciculului. Cu mâna
+  pe umărul pacientului, se deplasează ușor pielea în sus, peste claviculă. Folosind
+  mâna care ancorează sânul pacientului, se trage țesutul lateral pe receptorul de
+  imagine fără a sacrifica țesutul medial. Menținând sânul în poziție, se folosește
+  aceeași mână pentru a netezi anterior pliurile cutanate, spre mamelon. Se informează
+  pacientul că va începe compresia sânului. Folosind comenzile de compresie acționate
+  cu pedala, se aduce paleta de compresie în contact cu sânul în timp ce se deplasează
+  mâna spre mamelon. Se aplică lent compresia manual până când sânul devine tensionat.
+  Se verifică aspectele medial și lateral ale sânului pentru o compresie adecvată.
+  Se instruiește pacientul să indice dacă compresia devine inconfortabilă. După obținerea
+  și verificarea compresiei complete, se instruiește pacientul să-și oprească respirația
+  (Fig. 18.28). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea
+  expunerii.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să fie clearly vizualizat:'
-- PNL extending posteriorly la edge de imagine și measuring within ⅓ inch (1 cm) de
-  depth de PNL pe MLO incidență (see Fig. 18.29)
-- toate medial tissue, ca vizualizat prin visualization de medial retroglandular fat
-  și absence de fibroglandular tissue extending la posteromedial edge de imagine
-- Nipple în profile (if possible) și la midline, indicating fără exaСeration de positioning
-- pentru emphasis de medial tissue, some lateral tissue poate fie excluded.
-- Pectoral muscle seen posterior la medial retroglandular fat în about 30% de properly
-  poziționat CC imagini
-- Slight medial skin reflection la cleavage, ensuring adecvat inclusion de posterior
-  medial tissue
-- Uniform tissue expunere if compression este adecvat
+- 'Următoarele trebuie să fie clar vizualizate:'
+- PNL extins posterior până la marginea imaginii și măsurând în limita a ⅓ țol (1
+  cm) din profunzimea PNL pe incidența MLO (vezi Fig. 18.29)
+- întregul țesut medial, evidențiat prin vizualizarea grăsimii retroglandulare mediale
+  și absența țesutului fibroglandular care se extinde până la marginea posteromedială
+  a imaginii
+- Mamelonul de profil (dacă este posibil) și pe linia mediană, indicând absența exagerării
+  poziționării
+- pentru evidențierea țesutului medial, o parte din țesutul lateral poate fi exclusă.
+- Mușchiul pectoral vizibil posterior față de grăsimea retroglandulară medială în
+  aproximativ 30% dintre imaginile CC poziționate corespunzător
+- Ușoară reflexie cutanată medială la nivelul decolteului, asigurând includerea adecvată
+  a țesutului posteromedial
+- Expunere tisulară uniformă dacă compresia este adecvată
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mamografie-san-craniocaudal-cc-projection-paddle-8-10-inches-18-24-cm-or-10-12-inches-24-30-cm-p1353-merrill
 source_pages:
@@ -72,109 +80,103 @@ source_pages:
 - 1354
 - 1355
 source_sections:
-  anatomy: 'CC incidență shows central, subareolar, și medial fibroglandular breast
-    tissue. pectoral muscle este vizualizat în approximately 30% de
+  anatomy: Incidența CC evidențiază țesutul mamar fibroglandular central, subareolar
+    și medial. Mușchiul pectoral este vizualizat în aproximativ 30% dintre toate imaginile
+    CC. 20, 21
+  cr: • perpendicular pe baza sânului
+  criteria: 'Următoarele trebuie să fie vizualizate clar:
 
-    toate CC imagini. 20, 21'
-  cr: • perpendicular pe base de breast
-  criteria: 'following trebuie să fie clearly vizualizat:
+    • PNL extins posterior până la marginea imaginii și măsurând în limita a ⅓ țol
+    (1 cm) din profunzimea PNL pe incidența MLO (vezi Fig. 18.29)
 
-    • PNL extending posteriorly la edge de imagine și measuring within ⅓ inch (1 cm)
-    de depth de PNL pe MLO
+    • întregul țesut medial, evidențiat prin vizualizarea grăsimii retroglandulare
+    mediale și absența țesutului fibroglandular care se extinde până la marginea posteromedială
+    a imaginii
 
-    incidență (see Fig. 18.29)
+    • Mamelonul de profil (dacă este posibil) și pe linia mediană, indicând absența
+    exagerării poziționării
 
-    • toate medial tissue, ca vizualizat prin visualization de medial retroglandular
-    fat și absence de fibroglandular tissue extending la posteromedial edge de imagine
+    • pentru evidențierea țesutului medial, o parte din țesutul lateral poate fi exclusă.
 
-    • Nipple în profile (if possible) și la midline, indicating fără exaСeration de
-    positioning
+    • Mușchiul pectoral vizibil posterior față de grăsimea retroglandulară medială
+    în aproximativ 30% dintre imaginile CC poziționate corespunzător
 
-    • pentru emphasis de medial tissue, some lateral tissue poate fie excluded.
+    • Ușoară reflexie cutanată medială la nivelul decolteului, asigurând includerea
+    adecvată a țesutului posteromedial
 
-    • Pectoral muscle seen posterior la medial retroglandular fat în about 30% de
-    properly poziționat CC imagini
+    • Expunerea uniformă a țesutului dacă compresia este adecvată'
+  part_pos: '• În ortostatism, pe partea medială a sânului care urmează să fie examinat,
+    se ridică pliul inframamar la înălțimea sa maximă.
 
-    • Slight medial skin reflection la cleavage, ensuring adecvat inclusion de posterior
-    medial tissue
+    • se ajustează înălțimea brațului C la nivelul suprafeței inferioare a sânului
+    pacientului.
 
-    • Uniform tissue expunere if compression este adecvat'
-  part_pos: '• While în ortostatism pe medial side de breast la fie imaged, elevate
-    inframammary fold la its maximal height.
+    • Se instruiește pacientul să se aplece ușor înainte din talie. Se folosesc ambele
+    mâini pentru a trage ușor sânul pe suprafața receptorului de imagine, instruind
+    pacientul să apese toracele pe / să-l sprijine de receptorul de imagine.
 
-    • se ajustează height de C-braț la level de inferior surface de pacientul’s breast.
+    • Se așază sânul opus peste colțul receptorului de imagine. Această manevră îmbunătățește
+    evidențierea țesutului medial.
 
-    • Se instruiește pacientul să lean slightly forward de la waist. Use ambele mâini
-    la pull breast gently onto receptorul de imagine surface, while instructing
+    • Se instruiește pacientul să se țină de bara de sprijin cu mâna contralaterală;
+    acest lucru ajută la menținerea stabilității pacientului în timp ce se continuă
+    poziționarea.
 
-    pacientul la press thorax pe / sprijinit de receptorul de imagine.
+    • Se menține sânul perpendicular pe peretele toracic. Tehnologul trebuie să folosească
+    vârfurile degetelor pentru a trage ușor țesutul inferior posterior înainte, pe
+    receptorul de imagine.
 
-    • Drape opposite breast over corner de receptorul de imagine. This maneuver improves
-    demonstration de medial tissue.
+    • se centrează sânul deasupra detectorului AEC, cu mamelonul de profil, dacă este
+    posibil.
 
-    • Se instruiește pacientul să hold onto grab bar cu contralateral mână; this helps
-    steady pacientul ca you continue positioning.
+    • se imobilizează sânul cu o mână, având grijă să nu se îndepărteze această mână
+    până la începerea compresiei.
 
-    • Keep breast perpendicular pe chest perete. technologist trebuie să use his sau
-    her fingertips la pull inferior posterior tissue
+    • În timp ce se așază brațul pe / se sprijină de spatele pacientului, cu mâna
+    pe umărul părții afectate, se verifică dacă umărul pacientului este relaxat și
+    în rotație externă.
 
-    gently forward onto receptorul de imagine.
+    • se rotește capul pacientului în partea opusă părții afectate și se sprijină
+    capul pacientului pe apărătoarea facială.
 
-    • se centrează breast over AEC detector, cu nipple în profile if possible.
+    • Se verifică să nu existe alte obiecte, precum bijuterii sau păr, care să obstrucționeze
+    traiectul fasciculului.
 
-    • se imobilizează breast cu one mână, while taking care nu la remove this mână
-    until compression begins.
+    • Cu mâna pe umărul pacientului, se deplasează ușor pielea în sus, peste claviculă.
 
-    • While placing your braț pe / sprijinit de pacient’s back cu your mână pe umăr
-    de afected side, make certain pacientul’s
+    • Folosind mâna care ancorează sânul pacientului, se trage țesutul lateral pe
+    receptorul de imagine fără a sacrifica țesutul medial. Menținând sânul în poziție,
+    se folosește aceeași mână pentru a netezi anterior pliurile cutanate, spre mamelon.
 
-    umăr este relaxat și în extern rotație.
+    • Se informează pacientul că va începe compresia sânului. Folosind comenzile de
+    compresie acționate cu pedala, se aduce paleta de compresie în contact cu sânul
+    în timp ce se deplasează mâna spre mamelon.
 
-    • se rotește pacient’s cap away de la afected side, și se sprijină pacientul’s
-    cap pe / sprijinit de face guard.
+    • Se aplică lent compresia manual până când sânul devine tensionat.
 
-    • Make certain that fără other objects such ca jewelry sau hair obstruct path
-    de fascicul.
+    • Se verifică aspectele medial și lateral ale sânului pentru o compresie adecvată.
 
-    • cu your mână pe pacientul’s umăr, gently slide skin up over clavicle.
+    • Se instruiește pacientul să indice dacă compresia devine inconfortabilă.
 
-    • Using mână that este anchoring pacientul’s breast, pull lateral tissue onto
-    receptorul de imagine fără sacrificing medial tissue. While menținerea
-
-    breast în place, use that same mână la smooth skin wrinkles anteriorly spre nipple.
-
-    • Inform pacientul that compression de breast will begin. Using picior pedal compression
-    controls, bring compression paddle into
-
-    contact cu breast while sliding mână spre nipple.
-
-    • Slowly apply compression manually until breast feels taut.
-
-    • Check medial și lateral aspects de breast pentru adecvat compression.
-
-    • Se instruiește pacientul să indicate whether compression becomes uncomfortable.
-
-    • After full compression este achieved și checked, Se instruiește pacientul să
-    stop respirație (Fig. 18.28).
+    • După obținerea și verificarea compresiei complete, se instruiește pacientul
+    să-și oprească respirația (Fig. 18.28).
 
     • Se declanșează expunerea.
 
     • Se decomprimă sânul imediat după efectuarea expunerii.'
-  patient_pos: '• Se instruiește pacientul să stand facing receptorul de imagine,
-    cu her picioare pointing perpendicular pe mammography unit. If pacientul este
-    unable la stand
-
-    pentru duration de exam, Se instruiește pacientul să așezat pe scaun pe adjustable
-    stool facing unit.'
+  patient_pos: • Se instruiește pacientul să stea cu fața către receptorul de imagine,
+    cu picioarele orientate perpendicular pe aparatul de mamografie. Dacă pacientul
+    nu poate sta în picioare pe durata examinării, se instruiește pacientul să stea
+    pe un taburet reglabil, cu fața către aparat.
 sources:
 - title: Merrill’s Atlas, 18. Mammography, pagini 1353–1355
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Mamografie — Cranio-Caudală (CC) or 10 × 12 inches (24 × 30 cm). (Merrill)
+title: Rx Mamografie — Cranio-Caudală (CC) sau 10 × 12 țoli (24 × 30 cm). (Merrill)
 ---
-# Rx Mamografie — Cranio-Caudală (CC) or 10 × 12 inches (24 × 30 cm). (Merrill)
+# Rx Mamografie — Cranio-Caudală (CC) sau 10 × 12 țoli (24 × 30 cm). (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -198,17 +200,18 @@ title: Rx Mamografie — Cranio-Caudală (CC) or 10 × 12 inches (24 × 30 cm). 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Sân*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.4 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să stand facing receptorul de imagine, cu her picioare pointing perpendicular pe Mamografie unit. If pacientul este unable la stand pentru duration de exam, Se instruiește pacientul să Poziție Șezândă pe adjustable stool facing unit.; While în ortostatism pe medial side de Mamografie (Sân) la fie imaged, elevate inframammary fold la its maximal height. se ajustează height de C-braț la level de inferior surface de pacientul’s Mamografie (Sân). Se instruiește pacientul să lean slightly forward de la waist. Use ambele mâini la pull Mamografie (Sân) gently onto receptorul de imagine surface, while instructing pacientul la press thorax pe / sprijinit de receptorul de imagine. Drape opposite Mamografie (Sân) over corner de receptorul de imagine. This maneuver improves demonstration de medial tissue. Se instruiește pacientul să hold onto grab bar cu contralateral Mână; this helps steady pacientul ca you continue positioning. Keep Mamografie (Sân) perpendicular pe Torace perete. technologist trebuie să use his sau her fingertips la pull inferior posterior tissue gently forward onto receptorul de imagine. se centrează Mamografie (Sân) over AEC detector, cu nipple în profile if possible. se imobilizează Mamografie (Sân) cu one Mână, while taking care nu la remove this Mână until compression begins. While placing your braț pe / sprijinit de pacient’s back cu your Mână pe Umăr de afected side, make certain pacientul’s Umăr este relaxat și în extern rotație. se rotește pacient’s cap away de la afected side, și se sprijină pacientul’s cap pe / sprijinit de face guard. Make certain that fără other objects such ca jewelry sau hair obstruct path de fascicul. cu your Mână pe pacientul’s Umăr, gently slide skin up over Claviculă. Using Mână that este anchoring pacientul’s Mamografie (Sân), pull lateral tissue onto receptorul de imagine fără sacrificing medial tissue. While menținerea Mamografie (Sân) în place, use that same Mână la smooth skin wrinkles anteriorly spre nipple. Inform pacientul that compression de Mamografie (Sân) will begin. Using Picior pedal compression controls, bring compression paddle into contact cu Mamografie (Sân) while sliding Mână spre nipple. Slowly apply compression manually until Mamografie (Sân) feels taut. Check medial și lateral aspects de Mamografie (Sân) pentru adecvat compression. Se instruiește pacientul să indicate whether compression becomes uncomfortable. After full compression este achieved și checked, Se instruiește pacientul să stop respirație (Fig. 18.28). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
-    - **Punct de Centrare Fascicul:** perpendicular pe base de Mamografie (Sân)
+    - **Poziție Pacient:** Se instruiește pacientul să stea cu fața către receptorul de imagine, cu picioarele orientate perpendicular pe aparatul de mamografie. Dacă pacientul nu poate sta în picioare pe durata examinării, se instruiește pacientul să stea pe un taburet reglabil, cu fața către aparat. În ortostatism, pe partea medială a sânului care urmează să fie examinat, se ridică pliul inframamar la înălțimea sa maximă. se ajustează înălțimea brațului C la nivelul suprafeței inferioare a sânului pacientului. Se instruiește pacientul să se aplece ușor înainte din talie. Se folosesc ambele mâini pentru a trage ușor sânul pe suprafața receptorului de imagine, instruind pacientul să apese toracele pe / să-l sprijine de receptorul de imagine. Se așază sânul opus peste colțul receptorului de imagine. Această manevră îmbunătățește evidențierea țesutului medial. Se instruiește pacientul să se țină de bara de sprijin cu mâna contralaterală; acest lucru ajută la menținerea stabilității pacientului în timp ce se continuă poziționarea. Se menține sânul perpendicular pe peretele toracic. Tehnologul trebuie să folosească vârfurile degetelor pentru a trage ușor țesutul inferior posterior înainte, pe receptorul de imagine. se centrează sânul deasupra detectorului AEC, cu mamelonul de profil, dacă este posibil. se imobilizează sânul cu o mână, având grijă să nu se îndepărteze această mână până la începerea compresiei. În timp ce se așază brațul pe / se sprijină de spatele pacientului, cu mâna pe umărul părții afectate, se verifică dacă umărul pacientului este relaxat și în rotație externă. se rotește capul pacientului în partea opusă părții afectate și se sprijină capul pacientului pe apărătoarea facială. Se verifică să nu existe alte obiecte, precum bijuterii sau păr, care să obstrucționeze traiectul fasciculului. Cu mâna pe umărul pacientului, se deplasează ușor pielea în sus, peste claviculă. Folosind mâna care ancorează sânul pacientului, se trage țesutul lateral pe receptorul de imagine fără a sacrifica țesutul medial. Menținând sânul în poziție, se folosește aceeași mână pentru a netezi anterior pliurile cutanate, spre mamelon. Se informează pacientul că va începe compresia sânului. Folosind comenzile de compresie acționate cu pedala, se aduce paleta de compresie în contact cu sânul în timp ce se deplasează mâna spre mamelon. Se aplică lent compresia manual până când sânul devine tensionat. Se verifică aspectele medial și lateral ale sânului pentru o compresie adecvată. Se instruiește pacientul să indice dacă compresia devine inconfortabilă. După obținerea și verificarea compresiei complete, se instruiește pacientul să-și oprească respirația (Fig. 18.28). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
+    - **Punct de Centrare Fascicul:** perpendicular pe baza sânului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -231,14 +234,14 @@ title: Rx Mamografie — Cranio-Caudală (CC) or 10 × 12 inches (24 × 30 cm). 
 
     ---
 
-    - following trebuie să fie clearly vizualizat:
-    - PNL extending posteriorly la edge de imagine și measuring within ⅓ inch (1 cm) de depth de PNL pe MLO incidență (see Fig. 18.29)
-    - toate medial tissue, ca vizualizat prin visualization de medial retroglandular fat și absence de fibroglandular tissue extending la posteromedial edge de imagine
-    - Nipple în profile (if possible) și la midline, indicating fără exaСeration de positioning
-    - pentru emphasis de medial tissue, some lateral tissue poate fie excluded.
-    - Pectoral muscle seen posterior la medial retroglandular fat în about 30% de properly poziționat CC imagini
-    - Slight medial skin reflection la cleavage, ensuring adecvat inclusion de posterior medial tissue
-    - Uniform tissue expunere if compression este adecvat
+    - Următoarele trebuie să fie clar vizualizate:
+    - PNL extins posterior până la marginea imaginii și măsurând în limita a ⅓ țol (1 cm) din profunzimea PNL pe incidența MLO (vezi Fig. 18.29)
+    - întregul țesut medial, evidențiat prin vizualizarea grăsimii retroglandulare mediale și absența țesutului fibroglandular care se extinde până la marginea posteromedială a imaginii
+    - Mamelonul de profil (dacă este posibil) și pe linia mediană, indicând absența exagerării poziționării
+    - pentru evidențierea țesutului medial, o parte din țesutul lateral poate fi exclusă.
+    - Mușchiul pectoral vizibil posterior față de grăsimea retroglandulară medială în aproximativ 30% dintre imaginile CC poziționate corespunzător
+    - Ușoară reflexie cutanată medială la nivelul decolteului, asigurând includerea adecvată a țesutului posteromedial
+    - Expunere tisulară uniformă dacă compresia este adecvată
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -247,6 +250,7 @@ title: Rx Mamografie — Cranio-Caudală (CC) or 10 × 12 inches (24 × 30 cm). 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -294,60 +298,3 @@ title: Rx Mamografie — Cranio-Caudală (CC) or 10 × 12 inches (24 × 30 cm). 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 18. Mammography, pagini 1353–1355](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-CC incidență shows central, subareolar, și medial fibroglandular breast tissue. pectoral muscle este vizualizat în approximately 30% de
-toate CC imagini. 20, 21
-
-### cr
-
-• perpendicular pe base de breast
-
-### criteria
-
-following trebuie să fie clearly vizualizat:
-• PNL extending posteriorly la edge de imagine și measuring within ⅓ inch (1 cm) de depth de PNL pe MLO
-incidență (see Fig. 18.29)
-• toate medial tissue, ca vizualizat prin visualization de medial retroglandular fat și absence de fibroglandular tissue extending la posteromedial edge de imagine
-• Nipple în profile (if possible) și la midline, indicating fără exaСeration de positioning
-• pentru emphasis de medial tissue, some lateral tissue poate fie excluded.
-• Pectoral muscle seen posterior la medial retroglandular fat în about 30% de properly poziționat CC imagini
-• Slight medial skin reflection la cleavage, ensuring adecvat inclusion de posterior medial tissue
-• Uniform tissue expunere if compression este adecvat
-
-### part_pos
-
-• While în ortostatism pe medial side de breast la fie imaged, elevate inframammary fold la its maximal height.
-• se ajustează height de C-braț la level de inferior surface de pacientul’s breast.
-• Se instruiește pacientul să lean slightly forward de la waist. Use ambele mâini la pull breast gently onto receptorul de imagine surface, while instructing
-pacientul la press thorax pe / sprijinit de receptorul de imagine.
-• Drape opposite breast over corner de receptorul de imagine. This maneuver improves demonstration de medial tissue.
-• Se instruiește pacientul să hold onto grab bar cu contralateral mână; this helps steady pacientul ca you continue positioning.
-• Keep breast perpendicular pe chest perete. technologist trebuie să use his sau her fingertips la pull inferior posterior tissue
-gently forward onto receptorul de imagine.
-• se centrează breast over AEC detector, cu nipple în profile if possible.
-• se imobilizează breast cu one mână, while taking care nu la remove this mână until compression begins.
-• While placing your braț pe / sprijinit de pacient’s back cu your mână pe umăr de afected side, make certain pacientul’s
-umăr este relaxat și în extern rotație.
-• se rotește pacient’s cap away de la afected side, și se sprijină pacientul’s cap pe / sprijinit de face guard.
-• Make certain that fără other objects such ca jewelry sau hair obstruct path de fascicul.
-• cu your mână pe pacientul’s umăr, gently slide skin up over clavicle.
-• Using mână that este anchoring pacientul’s breast, pull lateral tissue onto receptorul de imagine fără sacrificing medial tissue. While menținerea
-breast în place, use that same mână la smooth skin wrinkles anteriorly spre nipple.
-• Inform pacientul that compression de breast will begin. Using picior pedal compression controls, bring compression paddle into
-contact cu breast while sliding mână spre nipple.
-• Slowly apply compression manually until breast feels taut.
-• Check medial și lateral aspects de breast pentru adecvat compression.
-• Se instruiește pacientul să indicate whether compression becomes uncomfortable.
-• After full compression este achieved și checked, Se instruiește pacientul să stop respirație (Fig. 18.28).
-• Se declanșează expunerea.
-• Se decomprimă sânul imediat după efectuarea expunerii.
-
-### patient_pos
-
-• Se instruiește pacientul să stand facing receptorul de imagine, cu her picioare pointing perpendicular pe mammography unit. If pacientul este unable la stand
-pentru duration de exam, Se instruiește pacientul să așezat pe scaun pe adjustable stool facing unit.
-

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular și entering third articulații metatarsofalangiene (MTF).
+centering: perpendicular și incident pe a treia articulație metatarsofalangiană (MTF).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,34 +15,39 @@ images:
 - caption: Merrill — pagina 468, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-7-lower-extremity-ap-incidenta-oblica-medial-rotation-p466-merrill/p468_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: oblic incidențe de individual Degete Picior poate fie obtained prin centering
-  afected toe la portion de receptorul de imagine being used și collimating closely.
-  Picior poate fie plasat în medial Incidență Oblică pentru first și second Degete
-  Picior și în lateral Incidență Oblică pentru fourth și fifth Degete Picior. Either
-  Incidență Oblică este adecvat pentru third (middle) toe.
-position: se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție pe masa
-  radiologică. se flectează Genunchi de afected side enough la have sole de Picior
-  resting firmly pe masa de examinare.; poziție receptorul de imagine under Degete
-  Picior. Medially se rotește Gambă și Picior și se ajustează plantar surface de Picior
-  la form a 30- la 45-grade angle de la plane de receptorul de imagine (Fig. 7.22).
-  se centrează Degete Picior la receptorul de imagine. se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+notes: Incidențele oblice ale degetelor individuale de la picior pot fi obținute prin
+  centrarea degetului afectat pe porțiunea receptorului de imagine utilizată și prin
+  colimare strânsă. Piciorul poate fi plasat în incidență oblică medială pentru primul
+  și al doilea deget de la picior și în incidență oblică laterală pentru al patrulea
+  și al cincilea deget de la picior. Oricare dintre incidențele oblice este adecvată
+  pentru al treilea deget de la picior (degetul mijlociu).
+position: Se așază pacientul în decubit dorsal sau în poziție șezândă pe masa radiologică.
+  Se flectează suficient genunchiul de partea afectată, astfel încât talpa piciorului
+  să se sprijine ferm pe masa de examinare; Se poziționează receptorul de imagine
+  sub degetele piciorului. Se rotesc medial gamba și piciorul și se ajustează suprafața
+  plantară a piciorului pentru a forma un unghi de 30–45 grade față de planul receptorului
+  de imagine (Fig. 7.22). Se centrează degetele piciorului pe receptorul de imagine.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire Degete Picior, including distal ends de oase metatarsiene
-- Degete Picior separated de la fiecare other
-- corect rotație de Degete Picior, ca evidențiat prin more părți moi width și more
-  midshaft concavity pe ridicat side
-- Open interphalangeal și second through fifth articulații metatarsofalangiene (MTF)
-  spaces
-- First articulații metatarsofalangiene (MTF) (nu always opened)
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Toate degetele de la picior, inclusiv extremitățile distale ale oaselor metatarsiene
+- Degetele de la picior separate unele de altele
+- rotația corectă a degetelor de la picior, evidențiată prin lățimea mai mare a părților
+  moi și concavitatea mai mare a diafizei pe partea ridicată
+- Spații interfalangiene și spațiile articulațiilor metatarsofalangiene (MTF) de la
+  a doua până la a cincea, deschise
+- Prima articulație metatarsofalangiană (MTF) (nu este întotdeauna deschisă)
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-7-lower-extremity-ap-incidenta-oblica-medial-rotation-p466-merrill
 source_pages:
@@ -50,66 +55,65 @@ source_pages:
 - 467
 - 468
 source_sections:
-  anatomy: AP oblic incidență de falange shows toes și distal portion de oase metatarsiene
-    rotit medially (Fig. 7.23).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    de toes, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene
-    (MTF). Place side
+  anatomy: Incidența AP oblică a falangelor evidențiază degetele și porțiunea distală
+    a oaselor metatarsiene rotite medial (Fig. 7.23).
+  collimation: • ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor
+    de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene
+    (MTF). Plasați markerul de lateralitate în câmpul de expunere colimat.
+  cr: • perpendicular și incident pe a treia articulație metatarsofalangiană (MTF).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker în collimated expunere field.'
-  cr: • perpendicular și entering third articulații metatarsofalangiene (MTF).
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Toate degetele de la picior, inclusiv extremitățile distale ale oaselor metatarsiene
 
-    • Entire toes, including distal ends de oase metatarsiene
+    • Degetele de la picior separate unele de altele
 
-    • Toes separated de la fiecare other
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a falangelor; lățimea
+    părților moi și concavitatea diafizei egale pe ambele părți (bilateral)
 
-    • corect rotație de toes, ca evidențiat prin more părți moi width și more midshaft
-    concavity pe ridicat side
+    • Spații interfalangiene și spațiile articulațiilor metatarsofalangiene (MTF)
+    de la a doua până la a cincea, deschise
 
-    • Open interphalangeal și second through fifth articulații metatarsofalangiene
-    (MTF) spaces
+    • Prima articulație metatarsofalangiană (MTF) (nu este întotdeauna deschisă)
 
-    • First articulații metatarsofalangiene (MTF) (nu always opened)
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  notes: Incidențele oblice ale degetelor individuale de la picior pot fi obținute
+    prin centrarea degetului afectat pe porțiunea receptorului de imagine utilizată
+    și prin colimare strânsă. Piciorul poate fi plasat în poziție oblică medială pentru
+    primul și al doilea deget de la picior și în poziție oblică laterală pentru al
+    patrulea și al cincilea deget de la picior. Oricare dintre pozițiile oblice este
+    adecvată pentru al treilea deget de la picior (degetul mijlociu).
+  part_pos: '• Se poziționează receptorul de imagine sub degetele piciorului.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'oblic incidențe de individual toes poate fie obtained prin centering afected
-    toe la portion de receptorul de imagine being used și
+    • Se rotesc medial membrul inferior și piciorul și se ajustează suprafața plantară
+    a piciorului pentru a forma un unghi de 30–45 grade față de planul receptorului
+    de imagine (Fig. 7.22).
 
-    collimating closely. picior poate fie plasat în medial oblic poziție pentru first
-    și second toes și în lateral oblic poziție pentru fourth și fifth toes. Either
-    oblic poziție este adecvat pentru third (middle) toe.'
-  part_pos: '• poziție receptorul de imagine under toes.
+    • Se centrează degetele piciorului pe receptorul de imagine.
 
-    • Medially se rotește lower membru inferior și picior și se ajustează plantar
-    surface de picior la form a 30- la 45-grade angle de la plane de receptorul de
-    imagine (Fig. 7.22).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• așezați pacientul în decubit dorsal sau în poziție șezândă pe masa
+    radiologică.
 
-    • se centrează toes la receptorul de imagine.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau așezat pe scaun poziție
-    pe masa radiologică.
-
-    • se flectează genunchi de afected side enough la have sole de picior resting
-    firmly pe masa de examinare.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×30 cm) longitudinal.'
+    • flectați genunchiul de pe partea afectată suficient pentru ca talpa piciorului
+    să se sprijine ferm pe masa de examinare.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptor de imagine plat: 10 × 12 țoli
+    (24 ×30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 466–468
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de
-    Degete Picior, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene
-    (MTF). Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Membru Inferior — Oblică Antero-Posterioară (AP) — Rotație Internă (Medială)
-  (Merrill)
+  collimation: ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor
+    de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene
+    (MTF). Plasați markerul de lateralitate în câmpul colimat.
+title: Rx membru inferior — incidență anteroposterioară (AP) oblică — rotație internă
+  (medială) (Merrill)
 ---
-# Rx Membru Inferior — Oblică Antero-Posterioară (AP) — Rotație Internă (Medială) (Merrill)
+# Rx membru inferior — incidență anteroposterioară (AP) oblică — rotație internă (medială) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -133,17 +137,18 @@ title: Rx Membru Inferior — Oblică Antero-Posterioară (AP) — Rotație Inte
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție pe masa radiologică. se flectează Genunchi de afected side enough la have sole de Picior resting firmly pe masa de examinare.; poziție receptorul de imagine under Degete Picior. Medially se rotește Gambă și Picior și se ajustează plantar surface de Picior la form a 30- la 45-grade angle de la plane de receptorul de imagine (Fig. 7.22). se centrează Degete Picior la receptorul de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular și entering third articulații metatarsofalangiene (MTF).
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în poziție șezândă pe masa radiologică. Se flectează suficient genunchiul de partea afectată, astfel încât talpa piciorului să se sprijine ferm pe masa de examinare; Se poziționează receptorul de imagine sub degetele piciorului. Se rotesc medial gamba și piciorul și se ajustează suprafața plantară a piciorului pentru a forma un unghi de 30–45 grade față de planul receptorului de imagine (Fig. 7.22). Se centrează degetele piciorului pe receptorul de imagine. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular și incident pe a treia articulație metatarsofalangiană (MTF).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -159,21 +164,21 @@ title: Rx Membru Inferior — Oblică Antero-Posterioară (AP) — Rotație Inte
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Degete Picior, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene (MTF). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene (MTF). Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Degete Picior, including distal ends de oase metatarsiene
-    - Degete Picior separated de la fiecare other
-    - corect rotație de Degete Picior, ca evidențiat prin more părți moi width și more midshaft concavity pe ridicat side
-    - Open interphalangeal și second through fifth articulații metatarsofalangiene (MTF) spaces
-    - First articulații metatarsofalangiene (MTF) (nu always opened)
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Toate degetele de la picior, inclusiv extremitățile distale ale oaselor metatarsiene
+    - Degetele de la picior separate unele de altele
+    - rotația corectă a degetelor de la picior, evidențiată prin lățimea mai mare a părților moi și concavitatea mai mare a diafizei pe partea ridicată
+    - Spații interfalangiene și spațiile articulațiilor metatarsofalangiene (MTF) de la a doua până la a cincea, deschise
+    - Prima articulație metatarsofalangiană (MTF) (nu este întotdeauna deschisă)
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -183,8 +188,9 @@ title: Rx Membru Inferior — Oblică Antero-Posterioară (AP) — Rotație Inte
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    oblic incidențe de individual Degete Picior poate fie obtained prin centering afected toe la portion de receptorul de imagine being used și collimating closely. Picior poate fie plasat în medial Incidență Oblică pentru first și second Degete Picior și în lateral Incidență Oblică pentru fourth și fifth Degete Picior. Either Incidență Oblică este adecvat pentru third (middle) toe.
+    Incidențele oblice ale degetelor individuale de la picior pot fi obținute prin centrarea degetului afectat pe porțiunea receptorului de imagine utilizată și prin colimare strânsă. Piciorul poate fi plasat în incidență oblică medială pentru primul și al doilea deget de la picior și în incidență oblică laterală pentru al patrulea și al cincilea deget de la picior. Oricare dintre incidențele oblice este adecvată pentru al treilea deget de la picior (degetul mijlociu).
 
 
 ### 🖼️ Imagini
@@ -229,51 +235,3 @@ title: Rx Membru Inferior — Oblică Antero-Posterioară (AP) — Rotație Inte
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 466–468](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP oblic incidență de falange shows toes și distal portion de oase metatarsiene rotit medially (Fig. 7.23).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de toes, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene (MTF). Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular și entering third articulații metatarsofalangiene (MTF).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire toes, including distal ends de oase metatarsiene
-• Toes separated de la fiecare other
-• corect rotație de toes, ca evidențiat prin more părți moi width și more midshaft concavity pe ridicat side
-• Open interphalangeal și second through fifth articulații metatarsofalangiene (MTF) spaces
-• First articulații metatarsofalangiene (MTF) (nu always opened)
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-oblic incidențe de individual toes poate fie obtained prin centering afected toe la portion de receptorul de imagine being used și
-collimating closely. picior poate fie plasat în medial oblic poziție pentru first și second toes și în lateral oblic poziție pentru fourth și fifth toes. Either oblic poziție este adecvat pentru third (middle) toe.
-
-### part_pos
-
-• poziție receptorul de imagine under toes.
-• Medially se rotește lower membru inferior și picior și se ajustează plantar surface de picior la form a 30- la 45-grade angle de la plane de receptorul de imagine (Fig. 7.22).
-• se centrează toes la receptorul de imagine.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau așezat pe scaun poziție pe masa radiologică.
-• se flectează genunchi de afected side enough la have sole de picior resting firmly pe masa de examinare.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×30 cm) longitudinal.
-

@@ -14,7 +14,11 @@ from ai_service import generate_local_clinical_reply, search_clinical_context
 
 
 @pytest.fixture
-def client():
+def client(monkeypatch):
+    def offline(*args, **kwargs):
+        raise RuntimeError("Provider disabled in tests")
+    monkeypatch.setattr("ai_service.call_gemini", offline)
+    monkeypatch.setattr("ai_service.call_openai", offline)
     app.config["TESTING"] = True
     with app.test_client() as c:
         yield c
@@ -172,6 +176,5 @@ def test_chat_endpoint_eco_context(client):
     assert data["ok"] is True
     assert "eco_count" in data["context_matches"]
     assert data["context_matches"]["eco_count"] > 0
-
 
 

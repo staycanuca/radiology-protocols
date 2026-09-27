@@ -1,11 +1,11 @@
 ---
 author: Referință Merrill
-breathing: Inspir profund complet. expunere este made after second Inspir profund
-  complet la ensure maximum expansion de plămânii.
+breathing: Inspir profund complet. Expunerea se efectuează după al doilea inspir profund
+  complet pentru a asigura expansiunea maximă a plămânilor.
 category: torace
-centering: Horizon̍ al și centrat pe receptorul de imagine. raza centrală enters la
-  nivelul planul mediocoronal și 3 la 4 inches (7.6 la 10.2 cm) below incizură jugulară
-  (furculiță sternală) pentru dorsal decubit și la T7 pentru ventral decubit.
+centering: Orizontală și centrată pe receptorul de imagine. Raza centrală pătrunde
+  în planul mediocoronal, la 3 până la 4 inci (7.6 până la 10.2 cm) sub incizura jugulară
+  (furculița sternală) pentru decubitul dorsal și la T7 pentru decubitul ventral.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,29 +18,34 @@ images:
 - caption: Merrill — pagina 203, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill/p203_fig3.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: cu pacientul în Decubit ventral sau Decubit dorsal poziție, elevate thorax
-  2 la 3 inches (5 la 7.6 cm) pe folded sheets sau firm pad, centering thorax la grila.
-  Achieve best visualization prin allowing pacientul la remain în poziție pentru 5
-  minutes before expunere. This allows lichid la settle și air la rise.; se ajustează
-  corp în true Decubit ventral sau Decubit dorsal poziție și se extinde brațe well
-  above capul. Place afected side against stativ vertical Bucky, then place cephalic
-  edge de receptorul de imagine la nivelul cartilaj tiroid (mărul lui Adam) (Fig.
-  3.71). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Cu pacientul în decubit ventral sau dorsal, se ridică toracele cu 2 până
+  la 3 inci (5 până la 7.6 cm) pe cearșafuri împăturite sau pe un suport ferm, centrând
+  toracele pe grilă. Pentru o vizualizare optimă, pacientul rămâne în poziție timp
+  de 5 minute înainte de expunere. Aceasta permite lichidului să se depună și aerului
+  să se ridice. Se ajustează corpul în decubit ventral sau dorsal strict și se întind
+  brațele mult deasupra capului. Se așază partea afectată lângă stativul vertical
+  Bucky, apoi se poziționează marginea cefalică a receptorului de imagine la nivelul
+  cartilajului tiroid (mărul lui Adam) (Fig. 3.71). Se efectuează ecranarea gonadelor
+  cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de side și decubit markeri plasat clear
-  de anatomy de interest
-- Entire câmpuri pulmonare, including anterior și posterior surfaces
-- Upper câmpuri pulmonare nu obscured prin brațele
-- Absența rotației anatomice (simetrie bilaterală perfectă) de thorax de la true Incidență
-  de Profil (lateral)
-- T7 în center de receptorul de imagine
-- Pulmonary vascular markings de la hilar regions la periphery de plămânii
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare corectă vizibilă și prezența markerilor de lateralitate și de decubit,
+  plasați în afara anatomiei de interes
+- Câmpurile pulmonare în întregime, inclusiv suprafețele anterioare și posterioare
+- Câmpurile pulmonare superioare nu sunt mascate de brațe
+- Absența rotației anatomice (simetrie bilaterală perfectă) a toracelui față de profilul
+  strict
+- T7 în centrul receptorului de imagine
+- Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-torace-incidenta-de-profil-lateral-r-or-l-position-ventral-or-incidenta-decubit-dorsal-p201-merrill
 source_pages:
@@ -48,65 +53,61 @@ source_pages:
 - 202
 - 203
 source_sections:
-  anatomy: 'lateral incidență în decubit poziție shows change în poziție de lichid
-    și reveals pulmonary areas that sunt obscured prin lichid
-
-    în standard incidențe (Figs. 3.72 și 3.73).'
+  anatomy: Incidența de profil în decubit evidențiază modificarea poziției lichidului
+    și regiunile pulmonare mascate de lichid în incidențele standard (Fig. 3.72 și
+    3.73).
   collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: '• Horizon̍ al și centrat pe receptorul de imagine. raza centrală enters la
-    nivelul planul mediocoronal și 3 la 4 inches (7.6 la 10.2 cm) below jugular
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Orizontală și centrată pe receptorul de imagine. Raza centrală pătrunde în
+    planul mediocoronal, la 3 până la 4 inci (7.6 până la 10.2 cm) sub incizura jugulară
+    pentru decubitul dorsal și la T7 pentru decubitul ventral.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    notch pentru dorsal decubit și la T7 pentru ventral decubit.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare corectă vizibilă și prezența markerilor de lateralitate și de decubit,
+    plasați în afara anatomiei de interes
 
-    • Evidence de corect collimation și presence de side și decubit markeri plasat
-    clear de anatomy de interest
+    • Câmpurile pulmonare în întregime, inclusiv suprafețele anterioare și posterioare
 
-    • Entire câmpuri pulmonare, including anterior și posterior surfaces
+    • Câmpurile pulmonare superioare nu sunt mascate de brațe
 
-    • Upper câmpuri pulmonare nu obscured prin brațele
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a toracelui față de
+    profilul strict
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de thorax de la true
-    poziție de profil (lateral)
+    • T7 în centrul receptorului de imagine
 
-    • T7 în center de receptorul de imagine
+    • Desenul vascular pulmonar, de la regiunile hilare până la periferia plămânilor'
+  part_pos: '• Se ajustează corpul în decubit ventral sau dorsal strict și se întind
+    brațele mult deasupra capului.
 
-    • Pulmonary vascular markings de la hilar regions la periphery de plămânii'
-  part_pos: '• se ajustează corp în true în decubit ventral sau decubit dorsal și
-    se extinde brațe well above capul.
+    • Se așază partea afectată lângă stativul vertical Bucky, apoi se poziționează
+    marginea cefalică a receptorului de imagine la nivelul cartilajului tiroid (mărul
+    lui Adam) (Fig. 3.71).
 
-    • Place afected side against stativ vertical Bucky, then place cephalic edge de
-    receptorul de imagine la nivelul cartilaj tiroid (mărul lui Adam) (Fig. 3.71).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Cu pacientul în decubit ventral sau dorsal, se ridică toracele cu
+    2 până la 3 inci (5 până la 7.6 cm) pe cearșafuri împăturite sau pe un suport
+    ferm, centrând toracele pe grilă.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• cu pacientul în decubit ventral sau decubit dorsal, elevate thorax
-    2 la 3 inches (5 la 7.6 cm) pe folded sheets sau firm pad, centering
+    • Pentru o vizualizare optimă, pacientul rămâne în poziție timp de 5 minute înainte
+    de expunere. Aceasta permite lichidului să se depună și aerului să se ridice.'
+  respiration: Inspir profund complet. Expunerea se efectuează după al doilea inspir
+    profund complet pentru a asigura expansiunea maximă a plămânilor.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    thorax la grila.
-
-    • Achieve best visualization prin allowing pacientul la remain în poziție pentru
-    5 minutes before expunere. This allows lichid la
-
-    settle și air la rise.'
-  respiration: Inspir profund complet. expunere este made after second Inspir profund
-    complet la ensure maximum expansion de plămânii.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    201–203'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 201–203'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng Ventral
-  or Incidență Decubit Dorsal (Merrill)
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng în Decubit
+  Ventral sau Dorsal (Merrill)
 ---
-# Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng Ventral or Incidență Decubit Dorsal (Merrill)
+# Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng în Decubit Ventral sau Dorsal (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -130,19 +131,20 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** cu pacientul în Decubit ventral sau Decubit dorsal poziție, elevate thorax 2 la 3 inches (5 la 7.6 cm) pe folded sheets sau firm pad, centering thorax la grila. Achieve best visualization prin allowing pacientul la remain în poziție pentru 5 minutes before expunere. This allows lichid la settle și air la rise.; se ajustează corp în true Decubit ventral sau Decubit dorsal poziție și se extinde brațe well above capul. Place afected side against stativ vertical Bucky, then place cephalic edge de receptorul de imagine la nivelul cartilaj tiroid (mărul lui Adam) (Fig. 3.71). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Horizon̍ al și centrat pe receptorul de imagine. raza centrală enters la nivelul planul mediocoronal și 3 la 4 inches (7.6 la 10.2 cm) below incizură jugulară (furculiță sternală) pentru dorsal decubit și la T7 pentru ventral decubit.
+    - **Poziție Pacient:** Cu pacientul în decubit ventral sau dorsal, se ridică toracele cu 2 până la 3 inci (5 până la 7.6 cm) pe cearșafuri împăturite sau pe un suport ferm, centrând toracele pe grilă. Pentru o vizualizare optimă, pacientul rămâne în poziție timp de 5 minute înainte de expunere. Aceasta permite lichidului să se depună și aerului să se ridice. Se ajustează corpul în decubit ventral sau dorsal strict și se întind brațele mult deasupra capului. Se așază partea afectată lângă stativul vertical Bucky, apoi se poziționează marginea cefalică a receptorului de imagine la nivelul cartilajului tiroid (mărul lui Adam) (Fig. 3.71). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orizontală și centrată pe receptorul de imagine. Raza centrală pătrunde în planul mediocoronal, la 3 până la 4 inci (7.6 până la 10.2 cm) sub incizura jugulară (furculița sternală) pentru decubitul dorsal și la T7 pentru decubitul ventral.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
+    - **Comandă Respiratorie:** Inspir profund complet. Expunerea se efectuează după al doilea inspir profund complet pentru a asigura expansiunea maximă a plămânilor.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -156,20 +158,20 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de side și decubit markeri plasat clear de anatomy de interest
-    - Entire câmpuri pulmonare, including anterior și posterior surfaces
-    - Upper câmpuri pulmonare nu obscured prin brațele
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de thorax de la true Incidență de Profil (lateral)
-    - T7 în center de receptorul de imagine
-    - Pulmonary vascular markings de la hilar regions la periphery de plămânii
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare corectă vizibilă și prezența markerilor de lateralitate și de decubit, plasați în afara anatomiei de interes
+    - Câmpurile pulmonare în întregime, inclusiv suprafețele anterioare și posterioare
+    - Câmpurile pulmonare superioare nu sunt mascate de brațe
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a toracelui față de profilul strict
+    - T7 în centrul receptorului de imagine
+    - Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -178,6 +180,7 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -225,52 +228,3 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 201–203](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență în decubit poziție shows change în poziție de lichid și reveals pulmonary areas that sunt obscured prin lichid
-în standard incidențe (Figs. 3.72 și 3.73).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• Horizon̍ al și centrat pe receptorul de imagine. raza centrală enters la nivelul planul mediocoronal și 3 la 4 inches (7.6 la 10.2 cm) below jugular
-notch pentru dorsal decubit și la T7 pentru ventral decubit.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de side și decubit markeri plasat clear de anatomy de interest
-• Entire câmpuri pulmonare, including anterior și posterior surfaces
-• Upper câmpuri pulmonare nu obscured prin brațele
-• Absența rotației anatomice (simetrie bilaterală perfectă) de thorax de la true poziție de profil (lateral)
-• T7 în center de receptorul de imagine
-• Pulmonary vascular markings de la hilar regions la periphery de plămânii
-
-### part_pos
-
-• se ajustează corp în true în decubit ventral sau decubit dorsal și se extinde brațe well above capul.
-• Place afected side against stativ vertical Bucky, then place cephalic edge de receptorul de imagine la nivelul cartilaj tiroid (mărul lui Adam) (Fig. 3.71).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• cu pacientul în decubit ventral sau decubit dorsal, elevate thorax 2 la 3 inches (5 la 7.6 cm) pe folded sheets sau firm pad, centering
-thorax la grila.
-• Achieve best visualization prin allowing pacientul la remain în poziție pentru 5 minutes before expunere. This allows lichid la
-settle și air la rise.
-
-### respiration
-
-Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
-

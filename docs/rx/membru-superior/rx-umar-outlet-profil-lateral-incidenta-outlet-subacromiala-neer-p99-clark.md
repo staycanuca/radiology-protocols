@@ -3,37 +3,43 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: "• raza centrală orizontală centrală este înclinat 10 grade caudally și\
-  \ centred la capul de Humerus.\n• fascicul este collimated la an 18 \x02 24-cm casetă."
+centering: '• Raza centrală orizontală este înclinată la 10 grade caudal și centrată
+  pe capul humerusului.
+
+  • Fasciculul este colimat la dimensiunile unei casete de 18 × 24 cm.'
 clinical_indications:
-- Evaluare radiografică regiunii Umăr - Outlet (Profil (lateral) (Incidență Outlet
-  (Subacromială Neer))).
+- Evaluarea radiografică a regiunii umărului — incidență outlet (profil (lateral),
+  incidență outlet (subacromială Neer)).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Normal radiografie de Profil (lateral) Umăr outlet
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie normală de umăr, incidență outlet de profil (lateral)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-umar-outlet-profil-lateral-incidenta-outlet-subacromiala-neer-p99-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-umar-outlet-profil-lateral-incidenta-outlet-subacromiala-neer-p99-clark/fig_2.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul stă în ortostatism sau sits facing caseta, cu Profil (lateral)
-  aspect de brațul afectat în contact.
+position: '• Pacientul stă în ortostatism sau șade cu fața către casetă, cu aspectul
+  de profil (lateral) al brațului afectat în contact cu aceasta.
 
-  • brațul afectat este extins backwards, cu dorsum de Mână resting pe pacientul’s
-  waist.
+  • Brațul afectat este extins posterior, cu dosul mâinii sprijinit pe talia pacientului.
 
-  • pacientul este ajustat astfel încât cap de Humerus (Proces Coracoid) este în centre
-  de caseta.
+  • Pacientul este ajustat astfel încât capul humerusului (procesul coracoid) să fie
+  în centrul casetei.
 
-  • pacientul este now rotit forward until line joining medial și Profil (lateral)
-  margini de affected Omoplat (Scapulă) este la drept-angles la caseta. corp de Omoplat
-  (Scapulă) este now la drept-angles la caseta, și Omoplat (Scapulă) și extremitatea
-  proximală Humerus sunt clear de rib cage.'
+  • Pacientul este rotit anterior până când linia care unește marginile medială și
+  laterală ale omoplatului (scapulei) afectat este perpendiculară pe casetă. Corpul
+  omoplatului (scapulei) este acum perpendicular pe casetă, iar omoplatul (scapula)
+  și extremitatea proximală a humerusului sunt îndepărtate de cutia toracică.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -42,8 +48,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază extent de anterior incidență de acromion și subacromial
-  space. 84 Normal radiografie de Profil (lateral) Umăr outlet
+- Imaginea trebuie să evidențieze extinderea porțiunii anterioare a acromionului și
+  spațiul subacromial. 84 Radiografie normală de umăr, incidență outlet de profil
+  (lateral)
 sid_dff: 100 cm
 slug: rx-umar-outlet-profil-lateral-incidenta-outlet-subacromiala-neer-p99-clark
 sources:
@@ -52,14 +59,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Umăr - Outlet Profil (Lateral) (Incidență Outlet (Subacromială Neer))
+  mas: Conform AEC / grosimii anatomice
+title: Rx Umăr - Outlet profil (lateral) (Incidență outlet (subacromială Neer))
 ---
-# Rx Umăr - Outlet Profil (Lateral) (Incidență Outlet (Subacromială Neer))
+# Rx Umăr - Outlet profil (lateral) (Incidență outlet (subacromială Neer))
 
 
 <div class="rx-meta-bar">
@@ -78,28 +85,31 @@ title: Rx Umăr - Outlet Profil (Lateral) (Incidență Outlet (Subacromială Nee
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Umăr - Outlet (Profil (lateral) (Incidență Outlet (Subacromială Neer))).
+        - Evaluarea radiografică a regiunii umărului — incidență outlet (profil (lateral), incidență outlet (subacromială Neer)).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism sau sits facing caseta, cu Profil (lateral) aspect de brațul afectat în contact.
-• brațul afectat este extins backwards, cu dorsum de Mână resting pe pacientul’s waist.
-• pacientul este ajustat astfel încât cap de Humerus (Proces Coracoid) este în centre de caseta.
-• pacientul este now rotit forward until line joining medial și Profil (lateral) margini de affected Omoplat (Scapulă) este la drept-angles la caseta. corp de Omoplat (Scapulă) este now la drept-angles la caseta, și Omoplat (Scapulă) și extremitatea proximală Humerus sunt clear de rib cage.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este înclinat 10 grade caudally și centred la capul de Humerus.
-• fascicul este collimated la an 18  24-cm casetă.
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism sau șade cu fața către casetă, cu aspectul de profil (lateral) al brațului afectat în contact cu aceasta.
+        - Brațul afectat este extins posterior, cu dosul mâinii sprijinit pe talia pacientului.
+        - Pacientul este ajustat astfel încât capul humerusului (procesul coracoid) să fie în centrul casetei.
+        - Pacientul este rotit anterior până când linia care unește marginile medială și laterală ale omoplatului (scapulei) afectat este perpendiculară pe casetă. Corpul omoplatului (scapulei) este acum perpendicular pe casetă, iar omoplatul (scapula) și extremitatea proximală a humerusului sunt îndepărtate de cutia toracică.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală orizontală este înclinată la 10 grade caudal și centrată pe capul humerusului.
+        - Fasciculul este colimat la dimensiunile unei casete de 18 × 24 cm.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -110,19 +120,19 @@ title: Rx Umăr - Outlet Profil (Lateral) (Incidență Outlet (Subacromială Nee
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază extent de anterior incidență de acromion și subacromial space. 84 Normal radiografie de Profil (lateral) Umăr outlet
+    - Imaginea trebuie să evidențieze extinderea porțiunii anterioare a acromionului și spațiul subacromial. 84 Radiografie normală de umăr, incidență outlet de profil (lateral)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -134,6 +144,7 @@ title: Rx Umăr - Outlet Profil (Lateral) (Incidență Outlet (Subacromială Nee
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -144,9 +155,9 @@ title: Rx Umăr - Outlet Profil (Lateral) (Incidență Outlet (Subacromială Nee
 
 <figure class="protocol-image-card" markdown>
 
-![Normal radiografie de Profil (lateral) Umăr outlet](../../assets/images/protocols/clark/rx-umar-outlet-profil-lateral-incidenta-outlet-subacromiala-neer-p99-clark/fig_1.jpeg)
+![Radiografie normală de umăr, incidență outlet de profil (lateral)](../../assets/images/protocols/clark/rx-umar-outlet-profil-lateral-incidenta-outlet-subacromiala-neer-p99-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal radiografie de Profil (lateral) Umăr outlet</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală de umăr, incidență outlet de profil (lateral)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -2,10 +2,10 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: perpendicular pe linia mediană corp la nivelul Articulații Acromioclaviculare
-  pentru single incidență; orientat la fiecare respective articulații acromioclaviculare
-  when two separate expuneri sunt necessary pentru fiecare Umăr în broad-shouldered
-  pacienți
+centering: perpendicular pe linia mediană a corpului, la nivelul articulațiilor acromioclaviculare
+  pentru o singură incidență; orientat către fiecare articulație acromioclaviculară
+  respectivă atunci când sunt necesare două expuneri separate pentru fiecare umăr
+  la pacienții cu umeri lați
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -21,42 +21,47 @@ images:
 - caption: Merrill — pagina 417, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-acromioclavicular-articulations-incidenta-antero-posterioara-ap-pearson-method-bilateral-p414-merrill/p417_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: 'se așază pacientul în ortostatism corp poziție, either Poziție Șezândă
-  sau în ortostatism, because luxație articulară de articulații acromioclaviculare
-  tends la reduce itself în Decubit poziție. positioning este easily modified la obtain
-  Incidență Postero-Anterioară (PA).; se așază pacientul în ortostatism before stativ
-  vertical Bucky, then se ajustează height de receptorul de imagine astfel încât midpoint
-  de receptorul de imagine lies la same level ca Articulații Acromioclaviculare (Fig.
-  6.54). se centrează linia mediană corp la linia mediană grilă. Ensure that weight
-  de corp este equally distributed pe picioarele la avoid rotație. cu pacientul’s
-  brațe hanging prin sides, se ajustează umeri la lie în same plan orizontal. It este
-  important that brațele hang unsupported. Make two expuneri: one în which pacientul
-  este în ortostatism în ortostatism fără weights attached, și second în which pacientul
-  has equal weights (5 la 10 lb) afixed la fiecare Pumn (Articulație Radiocarpiană).
-  14, 15 After first expunere, slowly afix weights la pacientul’s Pumn (Articulație
-  Radiocarpiană), using band sau strap. Instruct pacientul nu la favor (tense up)
-  injured Umăr. Avoid having pacientul hold weights în fiecare Mână; this tends la
-  make Umăr muscles contract, reducing possibility de evidențiind small AC separation
-  (Fig. 6.55). se efectuează ecranarea gonadelor cu șorț plumbat. Also use thyroid
-  collar because thyroid gland este exposed la primary fascicul.'
+position: 'se așază pacientul în ortostatism, fie în poziție șezândă, fie în ortostatism,
+  deoarece luxația articulațiilor acromioclaviculare tinde să se reducă spontan în
+  decubit. Poziționarea se modifică ușor pentru obținerea unei incidențe PA.; se așază
+  pacientul în ortostatism în fața stativului vertical Bucky, apoi se ajustează înălțimea
+  receptorului de imagine astfel încât mijlocul receptorului de imagine să fie la
+  același nivel cu articulațiile acromioclaviculare (Fig. 6.54). Se centrează linia
+  mediană a corpului pe linia mediană a grilei. Se asigură distribuirea egală a greutății
+  corpului pe picioare pentru a evita rotația. Cu brațele pacientului atârnând pe
+  lângă corp, se ajustează umerii astfel încât să se afle în același plan orizontal.
+  Este important ca brațele să atârne nesusținute. Se efectuează două expuneri: una
+  în care pacientul este în ortostatism fără greutăți atașate și a doua în care pacientul
+  are greutăți egale (5 la 10 lb) atașate de fiecare pumn (articulație radiocarpiană).
+  14, 15 După prima expunere, se atașează lent greutățile de pumnul pacientului, folosind
+  o bandă sau o curea. Se instruiește pacientul să nu favorizeze (să nu încordeze)
+  umărul lezat. Se evită ca pacientul să țină greutățile în fiecare mână; aceasta
+  tinde să determine contracția mușchilor umărului, reducând posibilitatea evidențierii
+  unei separări AC mici (Fig. 6.55). Se efectuează ecranarea gonadelor cu șorț plumbat.
+  Se folosește și un guler tiroidian, deoarece glanda tiroidă este expusă fasciculului
+  primar.'
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S)s plasat
-  clear de anatomy de interest
-- ambele Articulații Acromioclaviculare, cu și fără weights, included pe one sau two
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clar
+  față de anatomia de interes
+- Ambele articulații acromioclaviculare, cu și fără greutăți, incluse pe una sau două
   radiografii
-- Absența rotației anatomice (simetrie bilaterală perfectă) sau leaning prin pacientul
-- articulații acromioclaviculare separation, if present, clar vizibil(e) pe imagini
-  cu weights
-- Bony detalii trabeculare osoase și surrounding soft tissues
-sid_dff: 72 inches (183 cm). A longer SID reduces magnification, which enables both
-  joints to be included on one image. The longer SID also reduces the distortion of
-  the joint space resulting from beam divergence.
+- Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării pacientului
+- Separarea articulațiilor acromioclaviculare, dacă este prezentă, clar vizibilă pe
+  imaginile cu greutăți
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
+sid_dff: 72 inci (183 cm). O SID mai mare reduce magnificarea, ceea ce permite includerea
+  ambelor articulații pe aceeași imagine. O SID mai mare reduce și distorsiunea spațiului
+  articular cauzată de divergența fasciculului.
 slug: rx-acromioclavicular-articulations-incidenta-antero-posterioara-ap-pearson-method-bilateral-p414-merrill
 source_pages:
 - 414
@@ -64,90 +69,84 @@ source_pages:
 - 416
 - 417
 source_sections:
-  anatomy: bilateral imagini de articulații acromioclaviculare (Figs. 6.56 și 6.57).
-    This incidență este used la show luxație articulară, separation, și function de
-    articulații.
+  anatomy: Imagini bilaterale ale articulațiilor acromioclaviculare (Fig. 6.56 și
+    6.57). Această incidență este utilizată pentru evidențierea luxației articulare,
+    a separării și a funcției articulațiilor.
   collimation: '• Se ajustează câmpul de iradiere la formatul 15 × 43 cm pe colimator
-    pentru ambele articulații cu single expunere
+    pentru ambele articulații, cu o singură expunere
 
-    • sau la 6 × 8 inches (15 × 20 cm) pentru separate expuneri de fiecare articulație
+    • sau la 6 × 8 țoli (15 × 20 cm) pentru expuneri separate ale fiecărei articulații
 
     • Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: '• perpendicular pe linia mediană corp la nivelul articulații acromioclaviculare
-    pentru single incidență; orientat la fiecare respective articulații acromioclaviculare
-    when
+  cr: • perpendicular pe linia mediană a corpului, la nivelul articulațiilor acromioclaviculare,
+    pentru o singură incidență; orientat către fiecare articulație acromioclaviculară
+    respectivă atunci când sunt necesare două expuneri separate pentru fiecare umăr
+    la pacienții cu umeri lați
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    two separate expuneri sunt necessary pentru fiecare umăr în broad-shouldered pacienți'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S)s plasat
-    clear de anatomy de interest
+    • ambele articulații acromioclaviculare, cu și fără greutăți, incluse pe una sau
+    două radiografii
 
-    • ambele articulații acromioclaviculare, cu și fără weights, included pe one sau
-    two radiografii
+    • Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării pacientului
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) sau leaning prin pacientul
+    • separarea articulațiilor acromioclaviculare, dacă este prezentă, clar vizibilă
+    pe imaginile cu greutăți
 
-    • articulații acromioclaviculare separation, if present, clar vizibil(e) pe imagini
-    cu weights
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• se așază pacientul în ortostatism în fața stativului vertical Bucky,
+    apoi se ajustează înălțimea receptorului de imagine astfel încât mijlocul receptorului
+    de imagine să fie la același nivel cu articulațiile acromioclaviculare (Fig. 6.54).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se așază pacientul în ortostatism before stativ vertical Bucky, then
-    se ajustează height de receptorul de imagine astfel încât midpoint de receptorul
-    de imagine
+    • se centrează linia mediană a corpului pe linia mediană a grilei.
 
-    lies la same level ca articulații acromioclaviculare (Fig. 6.54).
+    • Se asigură distribuirea egală a greutății corpului pe picioare pentru a evita
+    rotația.
 
-    • se centrează linia mediană corp la linia mediană grilă.
+    • Cu brațele pacientului atârnând pe lângă corp, se ajustează umerii astfel încât
+    să se afle în același plan orizontal. Este important ca brațele să atârne nesusținute.
 
-    • Ensure that weight de corp este equally distributed pe picioarele la avoid rotație.
+    • Se efectuează două expuneri: una în care pacientul este în ortostatism fără
+    greutăți atașate și a doua în care pacientul are greutăți egale (5 la 10 lb) atașate
+    de fiecare pumn. 14, 15
 
-    • cu pacientul’s brațe hanging prin sides, se ajustează umeri la lie în same plan
-    orizontal. It este important that brațele hang
+    • După prima expunere, se atașează lent greutățile de pumnul pacientului, folosind
+    o bandă sau o curea.
 
-    unsupported.
+    • Se instruiește pacientul să nu favorizeze (să nu încordeze) umărul lezat.
 
-    • Make two expuneri: one în which pacientul este în ortostatism în ortostatism
-    fără weights attached, și second în which pacientul has equal
+    • Se evită ca pacientul să țină greutățile în fiecare mână; aceasta tinde să determine
+    contracția mușchilor umărului, reducând posibilitatea evidențierii unei separări
+    AC mici (Fig. 6.55).
 
-    weights (5 la 10 lb) afixed la fiecare wrist. 14, 15
-
-    • After first expunere, slowly afix weights la pacientul’s wrist, using band sau
-    strap.
-
-    • Instruct pacientul nu la favor (tense up) injured umăr.
-
-    • Avoid having pacientul hold weights în fiecare mână; this tends la make umăr
-    muscles contract, reducing possibility de evidențiind small AC separation (Fig.
-    6.55).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat. Also use thyroid collar because
-    thyroid gland este exposed la primary fascicul.'
-  patient_pos: • se așază pacientul în ortostatism corp poziție, either așezat pe
-    scaun sau în ortostatism, because luxație articulară de articulații acromioclaviculare
-    tends la reduce itself în recumbent poziție. positioning este easily modified
-    la obtain PA incidență.
+    • se efectuează ecranarea gonadelor cu șorț plumbat. Se folosește și un guler
+    tiroidian, deoarece glanda tiroidă este expusă fasciculului primar.'
+  patient_pos: • se așază pacientul în ortostatism, fie așezat pe scaun, fie în ortostatism,
+    deoarece luxația articulațiilor acromioclaviculare tinde să se reducă spontan
+    în decubit. Poziționarea se modifică ușor pentru obținerea unei incidențe PA.
   respiration: apnee (oprirea respirației).
-  sid: 72 inches (183 cm). longer SID reduces magnification, which enables ambele
-    articulații la fie included pe one imagine. longer SID also reduces distortion
-    de spații articulare resulting de la fascicul divergence.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) sau two 10 × 12 inches (24 × 30 cm), ca needed la fit pacientul.'
+  sid: 72 țoli (183 cm). DFF mai mare reduce mărirea, ceea ce permite includerea ambelor
+    articulații pe o singură imagine. DFF mai mare reduce, de asemenea, distorsiunea
+    spațiilor articulare rezultată din divergența fasciculului.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; receptor de imagine plat: 14 × 17 țoli
+    (35 × 43 cm) sau două receptoare de 10 × 12 țoli (24 × 30 cm), după cum este necesar
+    pentru a se potrivi pacientului.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 414–417
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 15 × 43 cm pe colimator
-    pentru ambele articulații cu single expunere sau la 6 × 8 inches (15 × 20 cm)
-    pentru separate expuneri de fiecare articulație Se plasează markerul de lateralitate
+    pentru ambele articulații, cu o singură expunere, sau la 6 × 8 țoli (15 × 20 cm)
+    pentru expuneri separate ale fiecărei articulații. Se plasează markerul de lateralitate
     în câmpul colimat.
-title: Rx Articulații Acromioclaviculare — Incidență Antero-Posterioară (AP) — Metoda
-  Pearson Bilateral (Merrill)
+title: Rx articulații acromioclaviculare — incidență anteroposterioară (AP) — metoda
+  Pearson bilateral (Merrill)
 ---
-# Rx Articulații Acromioclaviculare — Incidență Antero-Posterioară (AP) — Metoda Pearson Bilateral (Merrill)
+# Rx articulații acromioclaviculare — incidență anteroposterioară (AP) — metoda Pearson bilateral (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -171,18 +170,19 @@ title: Rx Articulații Acromioclaviculare — Incidență Antero-Posterioară (A
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism corp poziție, either Poziție Șezândă sau în ortostatism, because luxație articulară de articulații acromioclaviculare tends la reduce itself în Decubit poziție. positioning este easily modified la obtain Incidență Postero-Anterioară (PA).; se așază pacientul în ortostatism before stativ vertical Bucky, then se ajustează height de receptorul de imagine astfel încât midpoint de receptorul de imagine lies la same level ca Articulații Acromioclaviculare (Fig. 6.54). se centrează linia mediană corp la linia mediană grilă. Ensure that weight de corp este equally distributed pe picioarele la avoid rotație. cu pacientul’s brațe hanging prin sides, se ajustează umeri la lie în same plan orizontal. It este important that brațele hang unsupported. Make two expuneri: one în which pacientul este în ortostatism în ortostatism fără weights attached, și second în which pacientul has equal weights (5 la 10 lb) afixed la fiecare Pumn (Articulație Radiocarpiană). 14, 15 After first expunere, slowly afix weights la pacientul’s Pumn (Articulație Radiocarpiană), using band sau strap. Instruct pacientul nu la favor (tense up) injured Umăr. Avoid having pacientul hold weights în fiecare Mână; this tends la make Umăr muscles contract, reducing possibility de evidențiind small AC separation (Fig. 6.55). se efectuează ecranarea gonadelor cu șorț plumbat. Also use thyroid collar because thyroid gland este exposed la primary fascicul.
-    - **Punct de Centrare Fascicul:** perpendicular pe linia mediană corp la nivelul Articulații Acromioclaviculare pentru single incidență; orientat la fiecare respective articulații acromioclaviculare when two separate expuneri sunt necessary pentru fiecare Umăr în broad-shouldered pacienți
-    - **Distanță Focar-Film (DFF / SID):** 72 inches (183 cm). A longer SID reduces magnification, which enables both joints to be included on one image. The longer SID also reduces the distortion of the joint space resulting from beam divergence.
+    - **Poziție Pacient:** se așază pacientul în ortostatism, fie în poziție șezândă, fie în ortostatism, deoarece luxația articulațiilor acromioclaviculare tinde să se reducă spontan în decubit. Poziționarea se modifică ușor pentru obținerea unei incidențe PA.; se așază pacientul în ortostatism în fața stativului vertical Bucky, apoi se ajustează înălțimea receptorului de imagine astfel încât mijlocul receptorului de imagine să fie la același nivel cu articulațiile acromioclaviculare (Fig. 6.54). Se centrează linia mediană a corpului pe linia mediană a grilei. Se asigură distribuirea egală a greutății corpului pe picioare pentru a evita rotația. Cu brațele pacientului atârnând pe lângă corp, se ajustează umerii astfel încât să se afle în același plan orizontal. Este important ca brațele să atârne nesusținute. Se efectuează două expuneri: una în care pacientul este în ortostatism fără greutăți atașate și a doua în care pacientul are greutăți egale (5 la 10 lb) atașate de fiecare pumn (articulație radiocarpiană). 14, 15 După prima expunere, se atașează lent greutățile de pumnul pacientului, folosind o bandă sau o curea. Se instruiește pacientul să nu favorizeze (să nu încordeze) umărul lezat. Se evită ca pacientul să țină greutățile în fiecare mână; aceasta tinde să determine contracția mușchilor umărului, reducând posibilitatea evidențierii unei separări AC mici (Fig. 6.55). Se efectuează ecranarea gonadelor cu șorț plumbat. Se folosește și un guler tiroidian, deoarece glanda tiroidă este expusă fasciculului primar.
+    - **Punct de Centrare Fascicul:** perpendicular pe linia mediană a corpului, la nivelul articulațiilor acromioclaviculare pentru o singură incidență; orientat către fiecare articulație acromioclaviculară respectivă atunci când sunt necesare două expuneri separate pentru fiecare umăr la pacienții cu umeri lați
+    - **Distanță Focar-Film (DFF / SID):** 72 inci (183 cm). O SID mai mare reduce magnificarea, ceea ce permite includerea ambelor articulații pe aceeași imagine. O SID mai mare reduce și distorsiunea spațiului articular cauzată de divergența fasciculului.
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
 -   __3. Parametri Tehnici Expunere__
@@ -193,23 +193,23 @@ title: Rx Articulații Acromioclaviculare — Incidență Antero-Posterioară (A
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | 72 inches (183 cm). A longer SID reduces magnification, which enables both joints to be included on one image. The longer SID also reduces the distortion of the joint space resulting from beam divergence. |
+    | **Distanță Focar-Film (DFF / SID)** | 72 inci (183 cm). O SID mai mare reduce magnificarea, ceea ce permite includerea ambelor articulații pe aceeași imagine. O SID mai mare reduce și distorsiunea spațiului articular cauzată de divergența fasciculului. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 15 × 43 cm pe colimator pentru ambele articulații cu single expunere sau la 6 × 8 inches (15 × 20 cm) pentru separate expuneri de fiecare articulație Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 15 × 43 cm pe colimator pentru ambele articulații, cu o singură expunere, sau la 6 × 8 țoli (15 × 20 cm) pentru expuneri separate ale fiecărei articulații. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S)s plasat clear de anatomy de interest
-    - ambele Articulații Acromioclaviculare, cu și fără weights, included pe one sau two radiografii
-    - Absența rotației anatomice (simetrie bilaterală perfectă) sau leaning prin pacientul
-    - articulații acromioclaviculare separation, if present, clar vizibil(e) pe imagini cu weights
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clar față de anatomia de interes
+    - Ambele articulații acromioclaviculare, cu și fără greutăți, incluse pe una sau două radiografii
+    - Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării pacientului
+    - Separarea articulațiilor acromioclaviculare, dacă este prezentă, clar vizibilă pe imaginile cu greutăți
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -218,6 +218,7 @@ title: Rx Articulații Acromioclaviculare — Incidență Antero-Posterioară (A
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -265,7 +266,7 @@ title: Rx Articulații Acromioclaviculare — Incidență Antero-Posterioară (A
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (72 inches (183 cm). A longer SID reduces magnification, which enables both joints to be included on one image. The longer SID also reduces the distortion of the joint space resulting from beam divergence.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (72 inci (183 cm). O SID mai mare reduce magnificarea, ceea ce permite includerea ambelor articulații pe aceeași imagine. O SID mai mare reduce și distorsiunea spațiului articular cauzată de divergența fasciculului.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -273,62 +274,3 @@ title: Rx Articulații Acromioclaviculare — Incidență Antero-Posterioară (A
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 414–417](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-bilateral imagini de articulații acromioclaviculare (Figs. 6.56 și 6.57). This incidență este used la show luxație articulară, separation, și function de articulații.
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 15 × 43 cm pe colimator pentru ambele articulații cu single expunere
-• sau la 6 × 8 inches (15 × 20 cm) pentru separate expuneri de fiecare articulație
-• Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe linia mediană corp la nivelul articulații acromioclaviculare pentru single incidență; orientat la fiecare respective articulații acromioclaviculare when
-two separate expuneri sunt necessary pentru fiecare umăr în broad-shouldered pacienți
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S)s plasat clear de anatomy de interest
-• ambele articulații acromioclaviculare, cu și fără weights, included pe one sau two radiografii
-• Absența rotației anatomice (simetrie bilaterală perfectă) sau leaning prin pacientul
-• articulații acromioclaviculare separation, if present, clar vizibil(e) pe imagini cu weights
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se așază pacientul în ortostatism before stativ vertical Bucky, then se ajustează height de receptorul de imagine astfel încât midpoint de receptorul de imagine
-lies la same level ca articulații acromioclaviculare (Fig. 6.54).
-• se centrează linia mediană corp la linia mediană grilă.
-• Ensure that weight de corp este equally distributed pe picioarele la avoid rotație.
-• cu pacientul’s brațe hanging prin sides, se ajustează umeri la lie în same plan orizontal. It este important that brațele hang
-unsupported.
-• Make two expuneri: one în which pacientul este în ortostatism în ortostatism fără weights attached, și second în which pacientul has equal
-weights (5 la 10 lb) afixed la fiecare wrist. 14, 15
-• After first expunere, slowly afix weights la pacientul’s wrist, using band sau strap.
-• Instruct pacientul nu la favor (tense up) injured umăr.
-• Avoid having pacientul hold weights în fiecare mână; this tends la make umăr muscles contract, reducing possibility de evidențiind small AC separation (Fig. 6.55).
-• se efectuează ecranarea gonadelor cu șorț plumbat. Also use thyroid collar because thyroid gland este exposed la primary fascicul.
-
-### patient_pos
-
-• se așază pacientul în ortostatism corp poziție, either așezat pe scaun sau în ortostatism, because luxație articulară de articulații acromioclaviculare tends la reduce itself în recumbent poziție. positioning este easily modified la obtain PA incidență.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### sid
-
-72 inches (183 cm). longer SID reduces magnification, which enables ambele articulații la fie included pe one imagine. longer SID also reduces distortion de spații articulare resulting de la fascicul divergence.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) sau two 10 × 12 inches (24 × 30 cm), ca needed la fit pacientul.
-

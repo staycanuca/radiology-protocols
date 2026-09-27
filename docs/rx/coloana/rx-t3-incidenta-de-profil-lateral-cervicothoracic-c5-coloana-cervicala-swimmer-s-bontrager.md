@@ -3,7 +3,7 @@ author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii, în expir complet.
 category: coloana
 centering: perpendicular pe receptorul de imagine (vezi NOTA). Raza centrală se orientează
-  spre T1, care se află la aproximativ 1 inch (2.5 cm) deasupra nivelului incizurii
+  spre T1, care se află la aproximativ 1 țol (2.5 cm) deasupra nivelului incizurii
   jugulare (manubriul sternal), anterior, și la nivelul vertebrei proeminente (apofiza
   spinoasă C7), posterior. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
@@ -26,6 +26,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.62
     Incidență laterală cervicotoracică (swimmer’s).)
   url: assets/images/protocols/bontrager/rx-t3-incidenta-de-profil-lateral-cervicothoracic-c5-coloana-cervicala-swimmer-s-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'O angulație caudală ușoară de 3° la 5° poate fi necesară pentru a ajuta la
@@ -107,17 +111,18 @@ title: Rx T3) Incidență de Profil (Lateral) CERVICOTHORACIC (C5 (Coloană Cerv
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Ortostatism sau decubit Poziție: Se plasează pacientul în poziția preferată de ortostatism (așezat sau în ortostatism). Radiografia poate fi efectuată în decubit dacă starea pacientului o impune.; Regiune anatomică: Se aliniază planul mediocoronal cu raza centrală și linia mediană a mesei și/sau a receptorului de imagine. Se ridică brațul și umărul pacientului cel mai apropiat de receptorul de imagine, flectând cotul și sprijinind antebrațul pe cap. Brațul și umărul cel mai îndepărtat de receptorul de imagine se coboară și se rotește ușor posterior, pentru a plasa capul humeral îndepărtat posterior față de vertebre (Fig. 8.62). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui, iar capetele există.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (vezi NOTA). Raza centrală se orientează spre T1, care se află la aproximativ 1 inch (2.5 cm) deasupra nivelului incizurii jugulare (manubriul sternal), anterior, și la nivelul vertebrei proeminente (apofiza spinoasă C7), posterior. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (vezi NOTA). Raza centrală se orientează spre T1, care se află la aproximativ 1 țol (2.5 cm) deasupra nivelului incizurii jugulare (manubriul sternal), anterior, și la nivelul vertebrei proeminente (apofiza spinoasă C7), posterior. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, în expir complet.
 
@@ -157,6 +162,7 @@ title: Rx T3) Incidență de Profil (Lateral) CERVICOTHORACIC (C5 (Coloană Cerv
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     O angulație caudală ușoară de 3° la 5° poate fi necesară pentru a ajuta la separarea umerilor cât mai mult pe imagine. Tehnica ortostatică (respirație): dacă pacientul poate coopera și rămâne imobilizat, se poate utiliza un mA mic și un timp de expunere de 3or 4secunde, pacientul respirând scurt, uniform în timpul expunerii, pentru a estompa structurile pulmonare suprapuse. Coloană Cervicală SPECIAL Incidență laterală cervicotoracică (Swimmer’s) Fig. 8.63 Incidență laterală cervicotoracică (swimmer’s). stâng Claviculă stângă Humerus T1 C7 Fig. 8.64 Incidență laterală cervicotoracică (swimmer’s).

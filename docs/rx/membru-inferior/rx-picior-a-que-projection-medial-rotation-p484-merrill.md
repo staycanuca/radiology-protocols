@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe base de third metatarsal.
+centering: Perpendicular pe baza celui de-al treilea metatarsian.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,37 +12,40 @@ images:
 - caption: Merrill — pagina 486, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-a-que-projection-medial-rotation-p484-merrill/p486_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: medial oblic este preferred over lateral oblic because plane through oase metatarsiene
-  este more paralel cu receptorul de imagine (RI), și it opens better lateral side
-  articulații de midfoot și hindfoot.
-position: se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție. se flectează
-  Genunchi de afected side enough la firmly rest plantar surface de Picior pe masa
-  radiologică.; Place receptorul de imagine under pacientul’s Picior, paralel cu its
-  axa longitudinală, și center it la linia mediană Picior la nivelul base de third
-  metatarsal. se rotește pacient’s membru inferior medially until plantar surface
-  de Picior forms angle de 30 grade la plane de receptorul de imagine (Fig. 7.46).
-  If angle de Picior este increased prin more than 30 grade, lateral cuneiform tends
-  la fie thrown over other cuneiforms. 3 se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+notes: Incidența oblică medială este preferată celei oblice laterale, deoarece planul
+  prin oasele metatarsiene este mai paralel cu receptorul de imagine (RI) și deschide
+  mai bine articulațiile de pe partea laterală a mediopiciorului și retropiciorului.
+position: Așezați pacientul în decubit dorsal sau în poziție șezândă. Flectați genunchiul
+  de pe partea afectată suficient pentru ca suprafața plantară a piciorului să se
+  sprijine ferm pe masa radiologică. Plasați receptorul de imagine sub piciorul pacientului,
+  paralel cu axa sa longitudinală, și centrați-l pe linia mediană a piciorului la
+  nivelul bazei celui de-al treilea metatarsian. Rotiți medial membrul inferior al
+  pacientului până când suprafața plantară a piciorului formează un unghi de 30 grade
+  cu planul receptorului de imagine (Fig. 7.46). Dacă unghiul piciorului este mărit
+  cu mai mult de 30 grade, cuneiformul lateral tinde să se suprapună peste celelalte
+  cuneiforme. 3 Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire Picior, de la Degete Picior la heel
-- corect rotație de Picior
-- Third through fifth oase metatarsiene liber de superimposition
-- Bases de first și second oase metatarsiene superimposed pe medial și intermediate
-  cuneiforms
-- Navicular, lateral cuneiform, și cuboid cu less superimposition than în Incidență
-  Antero-Posterioară (AP)
-- Tuberosity de fifth metatarsal
-- lateral tarsometatarsal și intertarsal articulații
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Întregul picior, de la degete până la călcâi
+- Rotația corectă a piciorului
+- Oasele metatarsiene al treilea până la al cincilea, fără suprapunere
+- Bazele primelor două oase metatarsiene suprapuse peste cuneiformele medial și intermediar
+- Navicularul, cuneiformul lateral și cuboidul cu mai puțină suprapunere decât în
+  incidența anteroposterioară (AP)
+- Tuberozitatea celui de-al cincilea metatarsian
+- Articulațiile tarsometatarsiene și intertarsiene laterale
 - Sinus tarsi
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-picior-a-que-projection-medial-rotation-p484-merrill
 source_pages:
@@ -50,80 +53,75 @@ source_pages:
 - 485
 - 486
 source_sections:
-  anatomy: 'spații articulare între following: cuboid și calcaneu; cuboid și fourth
-    și fifth oase metatarsiene; cuboid și lateral
+  anatomy: 'Spațiile articulare dintre următoarele: cuboid și calcaneu; cuboid și
+    oasele metatarsiene al patrulea și al cincilea; cuboid și cuneiformul lateral;
+    precum și astragal (talus) și os navicular. Cuboidul este vizualizat în profil.
+    Sinus tarsi este, de asemenea, bine vizualizat (Fig. 7.47A).'
+  collimation: • Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile și
+    la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor. Plasați
+    markerul de lateralitate în câmpul de expunere colimat. Filtru compensator. Această
+    incidență poate fi îmbunătățită prin utilizarea unui filtru compensator de tip
+    pană, din cauza diferenței de grosime dintre regiunea degetelor și regiunea tarsiană
+    mult mai groasă.
+  cr: • Perpendicular pe baza celui de-al treilea metatarsian.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    cuneiform; și astragal (talus) și navicular bone. cuboid este vizualizat în profile.
-    sinus tarsi este also well vizualizat (Fig. 7.47A).'
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    și 1 inch (2.5 cm) beyond calcaneu și distal tip de toes. Place side
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    marker în collimated expunere field.
+    • Întregul picior, de la degete până la călcâi
 
-    Compensating Filter
+    • Rotația corectă a piciorului
 
-    This incidență poate fie improved cu use de wedge-type compensating filter because
-    de diference în thickness între toe area și
+    • Oasele metatarsiene al treilea până la al cincilea, fără suprapunere
 
-    much thicker tarsal area.'
-  cr: • perpendicular pe base de third metatarsal.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Bazele primelor două oase metatarsiene suprapuse peste cuneiformele medial și
+    intermediar
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Navicularul, cuneiformul lateral și cuboidul cu mai puțină suprapunere decât
+    în incidența AP
 
-    • Entire picior, de la toes la heel
+    • Tuberozitatea celui de-al cincilea metatarsian
 
-    • corect rotație de picior
-
-    • Third through fifth oase metatarsiene liber de superimposition
-
-    • Bases de first și second oase metatarsiene superimposed pe medial și intermediate
-    cuneiforms
-
-    • Navicular, lateral cuneiform, și cuboid cu less superimposition than în AP incidență
-
-    • Tuberosity de fifth metatarsal
-
-    • lateral tarsometatarsal și intertarsal articulații
+    • Articulațiile tarsometatarsiene și intertarsiene laterale
 
     • Sinus tarsi
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'medial oblic este preferred over lateral oblic because plane through oase
-    metatarsiene este more paralel cu receptorul de imagine (RI), și it
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: Incidența oblică medială este preferată celei oblice laterale, deoarece planul
+    prin oasele metatarsiene este mai paralel cu receptorul de imagine (RI) și deschide
+    mai bine articulațiile de pe partea laterală a mediopiciorului și retropiciorului.
+  part_pos: '• Plasați receptorul de imagine sub piciorul pacientului, paralel cu
+    axa sa longitudinală, și centrați-l pe linia mediană a piciorului la nivelul bazei
+    celui de-al treilea metatarsian.
 
-    opens better lateral side articulații de midfoot și hindfoot.'
-  part_pos: '• Place receptorul de imagine under pacientul’s picior, paralel cu its
-    axa longitudinală, și center it la linia mediană picior la nivelul base de third
-    metatarsal.
+    • Rotiți medial membrul inferior al pacientului până când suprafața plantară a
+    piciorului formează un unghi de 30 grade cu planul receptorului de imagine (Fig.
+    7.46). Dacă unghiul piciorului este mărit cu mai mult de 30 grade, cuneiformul
+    lateral tinde să se suprapună peste celelalte cuneiforme. 3
 
-    • se rotește pacient’s membru inferior medially until plantar surface de picior
-    forms angle de 30 grade la plane de receptorul de imagine (Fig. 7.46). If
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Așezați pacientul în decubit dorsal sau în poziție șezândă.
 
-    angle de picior este increased prin more than 30 grade, lateral cuneiform tends
-    la fie thrown over other cuneiforms. 3
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau așezat pe scaun poziție.
-
-    • se flectează genunchi de afected side enough la firmly rest plantar surface
-    de picior pe masa radiologică.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Flectați genunchiul de pe partea afectată suficient pentru ca suprafața plantară
+    a piciorului să se sprijine ferm pe masa radiologică.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 484–486
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și
-    1 inch (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Se plasează markerul
-    de lateralitate în câmpul colimat. Compensating Filter This incidență poate fie
-    improved cu use de wedge-type compensating filter because de diference în thickness
-    între toe area și much thicker tarsal area.
-title: Rx Picior — A que Incidență — Rotație Internă (Medială) (Merrill)
+  collimation: 'Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    și la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului.
+    Se plasează markerul de lateralitate în câmpul colimat. Filtru compensator: această
+    incidență poate fi îmbunătățită prin utilizarea unui filtru compensator de tip
+    pană, din cauza diferenței de grosime dintre regiunea degetelor și regiunea tarsiană
+    mult mai groasă.'
+title: Rx picior — o incidență — rotație internă (medială) (Merrill)
 ---
-# Rx Picior — A que Incidență — Rotație Internă (Medială) (Merrill)
+# Rx picior — o incidență — rotație internă (medială) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -147,17 +145,18 @@ title: Rx Picior — A que Incidență — Rotație Internă (Medială) (Merrill
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau Poziție Șezândă poziție. se flectează Genunchi de afected side enough la firmly rest plantar surface de Picior pe masa radiologică.; Place receptorul de imagine under pacientul’s Picior, paralel cu its axa longitudinală, și center it la linia mediană Picior la nivelul base de third metatarsal. se rotește pacient’s membru inferior medially until plantar surface de Picior forms angle de 30 grade la plane de receptorul de imagine (Fig. 7.46). If angle de Picior este increased prin more than 30 grade, lateral cuneiform tends la fie thrown over other cuneiforms. 3 se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe base de third metatarsal.
+    - **Poziție Pacient:** Așezați pacientul în decubit dorsal sau în poziție șezândă. Flectați genunchiul de pe partea afectată suficient pentru ca suprafața plantară a piciorului să se sprijine ferm pe masa radiologică. Plasați receptorul de imagine sub piciorul pacientului, paralel cu axa sa longitudinală, și centrați-l pe linia mediană a piciorului la nivelul bazei celui de-al treilea metatarsian. Rotiți medial membrul inferior al pacientului până când suprafața plantară a piciorului formează un unghi de 30 grade cu planul receptorului de imagine (Fig. 7.46). Dacă unghiul piciorului este mărit cu mai mult de 30 grade, cuneiformul lateral tinde să se suprapună peste celelalte cuneiforme. 3 Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe baza celui de-al treilea metatarsian.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -173,24 +172,24 @@ title: Rx Picior — A que Incidență — Rotație Internă (Medială) (Merrill
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și 1 inch (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Se plasează markerul de lateralitate în câmpul colimat. Compensating Filter This incidență poate fie improved cu use de wedge-type compensating filter because de diference în thickness între toe area și much thicker tarsal area. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile și la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului. Se plasează markerul de lateralitate în câmpul colimat. Filtru compensator: această incidență poate fi îmbunătățită prin utilizarea unui filtru compensator de tip pană, din cauza diferenței de grosime dintre regiunea degetelor și regiunea tarsiană mult mai groasă. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Picior, de la Degete Picior la heel
-    - corect rotație de Picior
-    - Third through fifth oase metatarsiene liber de superimposition
-    - Bases de first și second oase metatarsiene superimposed pe medial și intermediate cuneiforms
-    - Navicular, lateral cuneiform, și cuboid cu less superimposition than în Incidență Antero-Posterioară (AP)
-    - Tuberosity de fifth metatarsal
-    - lateral tarsometatarsal și intertarsal articulații
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Întregul picior, de la degete până la călcâi
+    - Rotația corectă a piciorului
+    - Oasele metatarsiene al treilea până la al cincilea, fără suprapunere
+    - Bazele primelor două oase metatarsiene suprapuse peste cuneiformele medial și intermediar
+    - Navicularul, cuneiformul lateral și cuboidul cu mai puțină suprapunere decât în incidența anteroposterioară (AP)
+    - Tuberozitatea celui de-al cincilea metatarsian
+    - Articulațiile tarsometatarsiene și intertarsiene laterale
     - Sinus tarsi
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -200,8 +199,9 @@ title: Rx Picior — A que Incidență — Rotație Internă (Medială) (Merrill
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    medial oblic este preferred over lateral oblic because plane through oase metatarsiene este more paralel cu receptorul de imagine (RI), și it opens better lateral side articulații de midfoot și hindfoot.
+    Incidența oblică medială este preferată celei oblice laterale, deoarece planul prin oasele metatarsiene este mai paralel cu receptorul de imagine (RI) și deschide mai bine articulațiile de pe partea laterală a mediopiciorului și retropiciorului.
 
 
 ### 🖼️ Imagini
@@ -238,58 +238,3 @@ title: Rx Picior — A que Incidență — Rotație Internă (Medială) (Merrill
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 484–486](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-spații articulare între following: cuboid și calcaneu; cuboid și fourth și fifth oase metatarsiene; cuboid și lateral
-cuneiform; și astragal (talus) și navicular bone. cuboid este vizualizat în profile. sinus tarsi este also well vizualizat (Fig. 7.47A).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și 1 inch (2.5 cm) beyond calcaneu și distal tip de toes. Place side
-marker în collimated expunere field.
-Compensating Filter
-This incidență poate fie improved cu use de wedge-type compensating filter because de diference în thickness între toe area și
-much thicker tarsal area.
-
-### cr
-
-• perpendicular pe base de third metatarsal.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire picior, de la toes la heel
-• corect rotație de picior
-• Third through fifth oase metatarsiene liber de superimposition
-• Bases de first și second oase metatarsiene superimposed pe medial și intermediate cuneiforms
-• Navicular, lateral cuneiform, și cuboid cu less superimposition than în AP incidență
-• Tuberosity de fifth metatarsal
-• lateral tarsometatarsal și intertarsal articulații
-• Sinus tarsi
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-medial oblic este preferred over lateral oblic because plane through oase metatarsiene este more paralel cu receptorul de imagine (RI), și it
-opens better lateral side articulații de midfoot și hindfoot.
-
-### part_pos
-
-• Place receptorul de imagine under pacientul’s picior, paralel cu its axa longitudinală, și center it la linia mediană picior la nivelul base de third metatarsal.
-• se rotește pacient’s membru inferior medially until plantar surface de picior forms angle de 30 grade la plane de receptorul de imagine (Fig. 7.46). If
-angle de picior este increased prin more than 30 grade, lateral cuneiform tends la fie thrown over other cuneiforms. 3
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau așezat pe scaun poziție.
-• se flectează genunchi de afected side enough la firmly rest plantar surface de picior pe masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

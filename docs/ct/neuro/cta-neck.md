@@ -13,6 +13,10 @@ contrast:
   timing: Urmărire bolus (Bolus Tracking)
   trigger: 150 HU
   volume: 90-100 mL
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 3 (Moderată 4 - 8 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-01-01'
 notes:
   additional_recons: Reconstrucții MPR curbate pentru ambele bifurcații carotidiene.
@@ -65,6 +69,21 @@ series:
   start: Arc aortic
   thickness: 0.625 mm
 slug: cta-neck
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: AAPM
+  kind: Protocol tehnic standardizat
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+  source_region: US
+  title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Activat (Modulare automată 3D conform topogramei / scout)
@@ -76,27 +95,12 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: Angio-CT Artere Cervicale / Carotide și Vertebrale
-sources:
-- title: AAPM CT Protocols — Adult Routine Head CT
-  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
-  institution: AAPM
-  source_region: US
-  kind: Protocol tehnic standardizat
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
-- title: UT Southwestern Radiology — CT Neuro / Head Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Artere Cervicale / Carotide și Vertebrale
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -122,10 +126,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 4 - 8 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -210,6 +218,7 @@ sources:
     | Coronal | Angio-CT Gât | Gât | 1.5 mm/1.5 mm | Vascular |  | Vedere coronală de ansamblu |
     | Sagital | Angio-CT Gât | Gât | 1.5 mm/1.5 mm | Vascular |  | Traiectul arterelor vertebrale |
     | Curved MPR | Angio-CT Gât | Carotidă | 1 mm/1 mm | Vascular |  | Reconstrucții curbate pentru măsurători de stenoză NASCET |
+
 
 ## Surse și revizuire
 

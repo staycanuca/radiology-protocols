@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: Decubit orizontal și perpendicular pe midportion de Humerus și center de
-  receptorul de imagine lateral Decubit orientat la center de receptorul de imagine,
-  which exposes only distal Humerus (see Fig. 5.158)
+centering: Decubit orizontal și perpendicular pe porțiunea mijlocie a humerusului
+  și pe centrul receptorului de imagine; decubit lateral orientat spre centrul receptorului
+  de imagine, ceea ce expune numai humerusul distal (vezi Fig. 5.158)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -14,25 +14,30 @@ images:
 - caption: Merrill — pagina 363, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-lateromedial-decubit-or-lateral-decubit-p360-merrill/p363_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: When known sau suspected suspiciune de fractură exists, se poziționează
-  pacientul în Decubit sau lateral Decubit poziție, place receptorul de imagine close
-  la axilla, și se centrează Humerus la linia mediană receptorul de imagine. Unless
-  contraindicated, se flectează Cot, turn Police surface de Mână up, și rest Humerus
-  pe suitable support (see Fig. 5.158). se ajustează poziție de corp la place lateral
-  surface de Humerus perpendicular pe raza centrală. se efectuează ecranarea gonadelor
-  cu șorț plumbat.; Conform reperelor anatomice standard din tratat
+position: Când există o fractură cunoscută sau suspectată, se poziționează pacientul
+  în decubit sau decubit lateral, se plasează receptorul de imagine aproape de axilă
+  și se centrează humerusul pe linia mediană a receptorului de imagine. Dacă nu există
+  contraindicații, se flectează cotul, se rotește suprafața palmară a mâinii în sus
+  și se sprijină humerusul pe un suport adecvat (vezi Fig. 5.158). Se ajustează poziția
+  corpului pentru a plasa suprafața laterală a humerusului perpendicular pe raza centrală.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.; Conform reperelor anatomice
+  standard din tratat
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal Humerus
-- Superimposed epicondyles
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- humerus distal
+- Epicondile suprapuse
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-lateromedial-decubit-or-lateral-decubit-p360-merrill
 source_pages:
@@ -42,60 +47,56 @@ source_pages:
 - 363
 - 364
 source_sections:
-  anatomy: lateral incidență shows distal humerus (Fig. 5.159).
-  collimation: '• Adjust câmp de iradiere la 2 inches (5 cm) distal la cot articulație
-    și 1 inch (2.5 cm) pe sides; top collimator margin trebuie să extend
+  anatomy: Incidența laterală evidențiază humerusul distal (Fig. 5.159).
+  collimation: • Ajustați câmpul de iradiere la 2 țoli (5 cm) distal față de articulația
+    cotului și 1 țol (2.5 cm) pe laturi; marginea superioară a colimatorului trebuie
+    să se extindă fără a depăși marginea receptorului de imagine
+  cr: 'Decubit
 
-    fără farther than edge de receptorul de imagine'
-  cr: 'Recumbent
+    • orizontal și perpendicular pe porțiunea mijlocie a humerusului și pe centrul
+    receptorului de imagine
 
-    • orizontal și perpendicular pe midportion de humerus și center de receptorul
-    de imagine
+    Decubit lateral
 
-    lateral recumbent
+    • orientat spre centrul receptorului de imagine, ceea ce expune numai humerusul
+    distal (vezi Fig. 5.158)'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • orientat la center de receptorul de imagine, which exposes only distal humerus
-    (see Fig. 5.158)'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Humerus distal
 
-    • distal humerus
+    • Epicondile suprapuse
 
-    • Superimposed epicondyles
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  patient_pos: '• Când există o fractură cunoscută sau suspectată, se poziționează
+    pacientul în decubit sau decubit lateral, se plasează receptorul de imagine aproape
+    de axilă și se centrează humerusul pe linia mediană a receptorului de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  patient_pos: '• When known sau suspected suspiciune de fractură exists, se poziționează
-    pacientul în recumbent sau lateral recumbent poziție, place receptorul de imagine
-    close la
+    • Dacă nu există contraindicații, se flectează cotul, se rotește suprafața palmară
+    a mâinii în sus și se sprijină humerusul pe un suport adecvat (vezi Fig. 5.158).
 
-    axilla, și se centrează humerus la linia mediană receptorul de imagine.
+    • Se ajustează poziția corpului pentru a plasa suprafața laterală a humerusului
+    perpendicular pe raza centrală.
 
-    • Unless contraindicated, se flectează cot, turn policele surface de mână up,
-    și rest humerus pe suitable support (see Fig.
-
-    5.158).
-
-    • se ajustează poziție de corp la place lateral surface de humerus perpendicular
-    pe raza centrală.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 360–364
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2 inches (5 cm) distal la Cot articulație
-    și 1 inch (2.5 cm) pe sides; top collimator margin trebuie să extend fără farther
-    than edge de receptorul de imagine
-title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidență de Profil
-  (Lateral) — Latero-Medial Decubit or lateral Decubit (Merrill)
+  collimation: Ajustați câmpul de iradiere la 2 țoli (5 cm) distal față de articulația
+    cotului și 1 țol (2.5 cm) pe laturi; marginea superioară a colimatorului trebuie
+    să se extindă fără a depăși marginea receptorului de imagine
+title: Rx ▪ Detalii trabeculare osoase și țesuturile moi înconjurătoare — Incidență
+  de profil (lateral) — Latero-medială, decubit sau decubit lateral (Merrill)
 ---
-# Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidență de Profil (Lateral) — Latero-Medial Decubit or lateral Decubit (Merrill)
+# Rx ▪ Detalii trabeculare osoase și țesuturile moi înconjurătoare — Incidență de profil (lateral) — Latero-medială, decubit sau decubit lateral (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -119,17 +120,18 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** When known sau suspected suspiciune de fractură exists, se poziționează pacientul în Decubit sau lateral Decubit poziție, place receptorul de imagine close la axilla, și se centrează Humerus la linia mediană receptorul de imagine. Unless contraindicated, se flectează Cot, turn Police surface de Mână up, și rest Humerus pe suitable support (see Fig. 5.158). se ajustează poziție de corp la place lateral surface de Humerus perpendicular pe raza centrală. se efectuează ecranarea gonadelor cu șorț plumbat.; Conform reperelor anatomice standard din tratat
-    - **Punct de Centrare Fascicul:** Decubit orizontal și perpendicular pe midportion de Humerus și center de receptorul de imagine lateral Decubit orientat la center de receptorul de imagine, which exposes only distal Humerus (see Fig. 5.158)
+    - **Poziție Pacient:** Când există o fractură cunoscută sau suspectată, se poziționează pacientul în decubit sau decubit lateral, se plasează receptorul de imagine aproape de axilă și se centrează humerusul pe linia mediană a receptorului de imagine. Dacă nu există contraindicații, se flectează cotul, se rotește suprafața palmară a mâinii în sus și se sprijină humerusul pe un suport adecvat (vezi Fig. 5.158). Se ajustează poziția corpului pentru a plasa suprafața laterală a humerusului perpendicular pe raza centrală. Se efectuează ecranarea gonadelor cu șorț plumbat.; Conform reperelor anatomice standard din tratat
+    - **Punct de Centrare Fascicul:** Decubit orizontal și perpendicular pe porțiunea mijlocie a humerusului și pe centrul receptorului de imagine; decubit lateral orientat spre centrul receptorului de imagine, ceea ce expune numai humerusul distal (vezi Fig. 5.158)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -145,18 +147,18 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2 inches (5 cm) distal la Cot articulație și 1 inch (2.5 cm) pe sides; top collimator margin trebuie să extend fără farther than edge de receptorul de imagine |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2 țoli (5 cm) distal față de articulația cotului și 1 țol (2.5 cm) pe laturi; marginea superioară a colimatorului trebuie să se extindă fără a depăși marginea receptorului de imagine |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal Humerus
-    - Superimposed epicondyles
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - humerus distal
+    - Epicondile suprapuse
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -165,6 +167,7 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -204,47 +207,3 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 360–364](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență shows distal humerus (Fig. 5.159).
-
-### collimation
-
-• Adjust câmp de iradiere la 2 inches (5 cm) distal la cot articulație și 1 inch (2.5 cm) pe sides; top collimator margin trebuie să extend
-fără farther than edge de receptorul de imagine
-
-### cr
-
-Recumbent
-• orizontal și perpendicular pe midportion de humerus și center de receptorul de imagine
-lateral recumbent
-• orientat la center de receptorul de imagine, which exposes only distal humerus (see Fig. 5.158)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal humerus
-• Superimposed epicondyles
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### patient_pos
-
-• When known sau suspected suspiciune de fractură exists, se poziționează pacientul în recumbent sau lateral recumbent poziție, place receptorul de imagine close la
-axilla, și se centrează humerus la linia mediană receptorul de imagine.
-• Unless contraindicated, se flectează cot, turn policele surface de mână up, și rest humerus pe suitable support (see Fig.
-5.158).
-• se ajustează poziție de corp la place lateral surface de humerus perpendicular pe raza centrală.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-mastoid-profile-p268-clark/fig_2.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• ambele părți (bilateral) sunt adesea imagiate pentru comparație.
@@ -93,21 +97,24 @@ title: Rx Craniu Mastoidă - profil
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat în decubit dorsal pe masa de examinare, cu linia de bază orbito-meatală perpendiculară pe suprafața mesei.
-• din poziția cu planul mediosagital perpendicular pe masă, capul este rotit cu un unghi de 35 grade în direcția opusă părții examinate, astfel încât planul mediosagital formează acum un unghi de 55 grade față de masa de examinare.
-• tangenta verticală la craniu trebuie să fie acum la nivelul mijlocului procesului mastoidian examinat, astfel încât procesul mastoidian să fie în profil.
-• În final, capul este deplasat transversal pe masa de examinare astfel încât procesul mastoidian examinat să se afle pe linia mediană a mesei.
-    - **Punct de Centrare Fascicul:** • raza centrală este înclinată caudal astfel încât formează un unghi de 25 grade față de planul orbito-meatal și este centrată la mijlocul procesului mastoidian de pe partea examinată.
-• Se colimează strâns în jurul procesului mastoidian.
+    - **Poziție Pacient:**
+        - pacientul este culcat în decubit dorsal pe masa de examinare, cu linia de bază orbito-meatală perpendiculară pe suprafața mesei.
+        - din poziția cu planul mediosagital perpendicular pe masă, capul este rotit cu un unghi de 35 grade în direcția opusă părții examinate, astfel încât planul mediosagital formează acum un unghi de 55 grade față de masa de examinare.
+        - tangenta verticală la craniu trebuie să fie acum la nivelul mijlocului procesului mastoidian examinat, astfel încât procesul mastoidian să fie în profil.
+        - În final, capul este deplasat transversal pe masa de examinare astfel încât procesul mastoidian examinat să se afle pe linia mediană a mesei.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală este înclinată caudal astfel încât formează un unghi de 25 grade față de planul orbito-meatal și este centrată la mijlocul procesului mastoidian de pe partea examinată.
+        - Se colimează strâns în jurul procesului mastoidian.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -144,10 +151,10 @@ title: Rx Craniu Mastoidă - profil
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • ambele părți (bilateral) sunt adesea imagiate pentru comparație.
-• un mic marker de lateralitate din plumb trebuie inclus în câmpul de colimare.
-25°
+    - ambele părți (bilateral) sunt adesea imagiate pentru comparație.
+    - un mic marker de lateralitate din plumb trebuie inclus în câmpul de colimare. 25°
 
 
 ### 🖼️ Imagini

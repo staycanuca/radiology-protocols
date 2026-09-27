@@ -2,84 +2,93 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: orientat medially la caudal angle de 45 grade la enter maleolă laterală
-  (fibulară).
+centering: orientat medial la un unghi caudal de 45 de grade pentru a intra la nivelul
+  maleolei laterale (fibulare).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 512, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-calcaneu-lateromedial-incidenta-oblica-in-incarcare-ortostatism-method-p511-merrill/p512_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să stand cu afected heel centrat spre lateral margine
-  de receptorul de imagine (Fig. 7.83). mobile radiographic unit poate assist în this
-  examination.; se ajustează pacient’s membru inferior la ensure that it este exactly
-  perpendicular. se centrează Calcaneu so that it este projected la center de receptorul
-  de imagine. se centrează maleolă laterală (fibulară) la linia mediană axis de receptorul
-  de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Pacientul este instruit să stea cu călcâiul afectat centrat către marginea
+  laterală a receptorului de imagine (Fig. 7.83). Unitatea radiografică mobilă poate
+  ajuta la această examinare.; se ajustează membrul inferior al pacientului pentru
+  a se asigura că este exact perpendicular. se centrează calcaneul astfel încât să
+  fie proiectat la centrul receptorului de imagine. se centrează maleola laterală
+  (fibulară) pe axa liniei mediane a receptorului de imagine. se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Calcaneal tuberosity
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Tuberozitatea calcaneană
 - Sinus tarsi
-- Cuboid, lateral cuneiform, și proximal oase metatarsiene
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- Cuboidul, cuneiformul lateral și oasele metatarsiene proximale
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-calcaneu-lateromedial-incidenta-oblica-in-incarcare-ortostatism-method-p511-merrill
 source_pages:
 - 511
 - 512
 source_sections:
-  anatomy: calcaneal tuberosity și este useful în diagnosing stress suspiciune de
-    fractură de calcaneu sau tuberosity (Fig. 7.84).
-  collimation: • se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior
-    și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal
-    bases. Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • orientat medially la caudal angle de 45 grade la enter maleolă laterală (fibulară).
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: tuberozitatea calcaneană și este utilă în diagnosticarea unei suspiciuni
+    de fractură de stres a calcaneului sau tuberozității (Fig. 7.84).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de imaginea
+    posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară)
+    și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+  cr: • orientat medial, la un unghi caudal de 45 grade, spre maleola laterală (fibulară).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Calcaneal tuberosity
+    • Tuberozitatea calcaneului
 
-    • Sinus tarsi
+    • Sinusul tarsian
 
-    • Cuboid, lateral cuneiform, și proximal oase metatarsiene
+    • Cuboidul, cuneiformul lateral și oasele metatarsiene proximale
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează pacient’s membru inferior la ensure that it este exactly
-    perpendicular.
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• se ajustează membrul inferior al pacientului pentru a se asigura că
+    este exact perpendicular.
 
-    • se centrează calcaneu so that it este projected la center de receptorul de imagine.
+    • se centrează calcaneul astfel încât să fie proiectat în centrul receptorului
+    de imagine.
 
-    • se centrează maleolă laterală (fibulară) la linia mediană axis de receptorul
+    • se centrează maleola laterală (fibulară) pe axa liniei mediane a receptorului
     de imagine.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Se instruiește pacientul să stand cu afected heel centrat spre lateral
-    margine de receptorul de imagine (Fig. 7.83).
+  patient_pos: '• Se instruiește pacientul să stea cu călcâiul afectat centrat spre
+    marginea laterală a receptorului de imagine (Fig. 7.83).
 
-    • mobile radiographic unit poate assist în this examination.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Unitatea radiografică mobilă poate fi utilizată în această examinare.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 511–512
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și
-    inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Calcaneu — Latero-Medial Incidență Oblică — În Încărcare (Ortostatism) Method
-  (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra
+    posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară)
+    și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+title: Rx corp calcanean — incidență oblică latero-medială — în încărcare (ortostatism),
+  metoda (Merrill)
 ---
-# Rx Calcaneu — Latero-Medial Incidență Oblică — În Încărcare (Ortostatism) Method (Merrill)
+# Rx corp calcanean — incidență oblică latero-medială — în încărcare (ortostatism), metoda (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -103,17 +112,18 @@ title: Rx Calcaneu — Latero-Medial Incidență Oblică — În Încărcare (Or
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să stand cu afected heel centrat spre lateral margine de receptorul de imagine (Fig. 7.83). mobile radiographic unit poate assist în this examination.; se ajustează pacient’s membru inferior la ensure that it este exactly perpendicular. se centrează Calcaneu so that it este projected la center de receptorul de imagine. se centrează maleolă laterală (fibulară) la linia mediană axis de receptorul de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat medially la caudal angle de 45 grade la enter maleolă laterală (fibulară).
+    - **Poziție Pacient:** Pacientul este instruit să stea cu călcâiul afectat centrat către marginea laterală a receptorului de imagine (Fig. 7.83). Unitatea radiografică mobilă poate ajuta la această examinare.; se ajustează membrul inferior al pacientului pentru a se asigura că este exact perpendicular. se centrează calcaneul astfel încât să fie proiectat la centrul receptorului de imagine. se centrează maleola laterală (fibulară) pe axa liniei mediane a receptorului de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** orientat medial la un unghi caudal de 45 de grade pentru a intra la nivelul maleolei laterale (fibulare).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -129,19 +139,19 @@ title: Rx Calcaneu — Latero-Medial Incidență Oblică — În Încărcare (Or
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra posterioară și inferioară a călcâiului. Se includ maleola laterală (fibulară) și bazele metatarsienelor. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Calcaneal tuberosity
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Tuberozitatea calcaneană
     - Sinus tarsi
-    - Cuboid, lateral cuneiform, și proximal oase metatarsiene
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Cuboidul, cuneiformul lateral și oasele metatarsiene proximale
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -150,6 +160,7 @@ title: Rx Calcaneu — Latero-Medial Incidență Oblică — În Încărcare (Or
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -181,43 +192,3 @@ title: Rx Calcaneu — Latero-Medial Incidență Oblică — În Încărcare (Or
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 511–512](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-calcaneal tuberosity și este useful în diagnosing stress suspiciune de fractură de calcaneu sau tuberosity (Fig. 7.84).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă laterală (fibulară) și metatarsal bases. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• orientat medially la caudal angle de 45 grade la enter maleolă laterală (fibulară).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Calcaneal tuberosity
-• Sinus tarsi
-• Cuboid, lateral cuneiform, și proximal oase metatarsiene
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează pacient’s membru inferior la ensure that it este exactly perpendicular.
-• se centrează calcaneu so that it este projected la center de receptorul de imagine.
-• se centrează maleolă laterală (fibulară) la linia mediană axis de receptorul de imagine.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se instruiește pacientul să stand cu afected heel centrat spre lateral margine de receptorul de imagine (Fig. 7.83).
-• mobile radiographic unit poate assist în this examination.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

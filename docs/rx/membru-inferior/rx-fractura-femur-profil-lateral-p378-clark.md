@@ -3,26 +3,28 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• pentru distal two-thirds de Femur, raza centrală orizontală centrală
-  este centred la middle de caseta și paralel la line joining anterior margini de
-  femoral condyles.
+centering: '• Pentru cele două treimi distale ale femurului, raza centrală orizontală
+  este centrată la mijlocul casetei și paralelă cu linia care unește marginile anterioare
+  ale condililor femurali.
 
-  • la evidențiază Col Femural, which will include Șold (Articulație Coxofemurală),
-  centre midway între femoral pulse și palpable prominence de mare trohanter, cu raza
-  centrală centrală Orientat orizontal și la drept-angles la caseta.'
+  • Pentru evidențierea colului femural, incluzând șoldul (articulația coxofemurală),
+  se centrează la jumătatea distanței dintre pulsul femural și proeminența palpabilă
+  a marelui trohanter, cu raza centrală orientată orizontal și perpendicular pe casetă.'
 clinical_indications:
-- Evaluare radiografică regiunii Fractură Femur (Profil (lateral)).
+- 'Evaluarea radiografică a regiunii: fractură de femur (profil).'
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Fascicul Orizontal radiografie.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie cu fascicul orizontal.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_1.jpeg
-- caption: • la evidențiază suspiciune de fractură de upper Femur, it este essential
+- caption: • Pentru evidențierea unei suspiciuni de fractură a femurului superior,
+    este esențial
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_2.jpeg
-- caption: Profil (lateral) imagine de drept Fractură Femur în Thomas’s splint
+- caption: Imagine de profil a femurului drept fracturat în atelă Thomas
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_3.jpeg
@@ -30,53 +32,57 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'When using grilă, it este essential that caseta remains vertical la avoid
-  grilă cut-off.
+notes: 'La utilizarea grilei, este esențial ca aceasta să rămână verticală pentru
+  a evita tăierea grilei.
 
-  Arthroplasty postoperative radiografie Antero-posterior (AP) incidență de Șold este
-  taken within 24 hours de surgery pentru include upper third de Femur la evidențiază
-  prosthesis și cement restrictor, which este distal la prosthesis. This poate fie
-  highlighted prin radio-opaque marker în form de ball-bearing, which trebuie să appear
-  în toate subsequent follow-up imagini de Șold (Articulație Coxofemurală) if it has
-  been used.
+  Radiografia postoperatorie pentru artroplastie: incidența antero-posterioară (AP)
+  a șoldului se efectuează în 24 hours de la intervenție pentru a include treimea
+  superioară a femurului și a evidenția proteza și restrictorul de ciment, care este
+  distal față de proteză. Acesta poate fi evidențiat printr-un marker radioopac sub
+  formă de bilă metalică, care trebuie să apară în toate imaginile ulterioare de urmărire
+  ale șoldului (articulației coxofemurale), dacă a fost utilizat.
 
-  Loosening de prosthesis poate occur prin impaction de femoral shaft de prosthesis
-  into native Femur. This este detected most easily prin observing reduction în distance
-  între cement restrictor și tip de prosthesis. It este therefore most important that
-  first imagine includes cement restrictor.
+  Slăbirea protezei poate apărea prin impactarea tijei femurale a protezei în femurul
+  nativ. Aceasta este detectată cel mai ușor prin observarea reducerii distanței dintre
+  restrictorul de ciment și vârful protezei. Prin urmare, este foarte important ca
+  prima imagine să includă restrictorul de ciment.
 
-  nursing management este also determined pe confirmation that Șold (Articulație Coxofemurală)
-  has nu dislocated.
+  Managementul nursing este, de asemenea, determinat prin confirmarea faptului că
+  șoldul (articulația coxofemurală) nu s-a luxat.
 
-  Antero-posterior (AP) și Profil (lateral) incidențe sunt acquired de Genunchi following
-  Genunchi replacement.
+  Incidențele antero-posterioară (AP) și de profil se obțin la genunchi după protezarea
+  genunchiului.
 
-  pacient poziționat pentru Profil (lateral) Femur (Genunchi up) following application
-  de Thomas’s splint pacient poziționat pentru Profil (lateral) Șold cu Bazin (bazin
-  (pelvis)) raised resting pe casetă tunnel device Profil (lateral) imagine de drept
-  Fractură Femur în Thomas’s splint Postoperative Profil (lateral) imagine de Genunchi
-  using Fascicul Orizontal following articulație replacement'
-position: '• mobile X-ray equipment este carefully repositioned la enable Fascicul
-  Orizontal radiografie.
+  Pacient poziționat pentru femur de profil (genunchiul în sus) după aplicarea atelei
+  Thomas; pacient poziționat pentru șold de profil, cu bazinul ridicat și sprijinit
+  pe dispozitivul tunel pentru casetă; imagine de profil a femurului drept fracturat
+  în atelă Thomas; imagine postoperatorie de profil a genunchiului folosind fascicul
+  orizontal după protezarea articulației.'
+position: '• Echipamentul mobil de radiografie este repoziționat cu atenție pentru
+  a permite radiografia cu fascicul orizontal.
 
-  • When examination este pentru distal two-thirds de Femur, caseta poate fie poziționat
-  vertically pe / sprijinit de medial side de thigh și Fascicul Orizontal orientat
-  latero-medially.
+  • Când examinarea vizează cele două treimi distale ale femurului, caseta poate fi
+  poziționată vertical pe partea medială a coapsei, iar fasciculul orizontal orientat
+  lateromedial.
 
-  • When proximal part de shaft sau gâtul de Femur este being examined, caseta este
-  poziționat vertically pe / sprijinit de Profil (lateral) side de thigh și fascicul
-  este orientat mediolaterally, cu opposite membru inferior raised pe suitable support
-  astfel încât unaffected thigh este în near-vertical poziție.
+  • Când se examinează partea proximală a diafizei sau colul femurului, caseta este
+  poziționată vertical pe partea de profil a coapsei, iar fasciculul este orientat
+  mediolateral, cu membrul inferior opus ridicat pe un suport adecvat, astfel încât
+  coapsa neafectată să fie aproape verticală.
 
-  • pentru Col Femural, casetă cu grilă antidifuzoare este poziționat vertically,
-  cu one edge pe / sprijinit de waist above crestele iliace pe side being examined
-  și ajustat cu its axa longitudinală paralel cu Col Femural.
+  • Pentru colul femural, caseta cu grilă antidifuzoare este poziționată vertical,
+  cu o margine sprijinită pe talie, deasupra crestelor iliace, pe partea examinată,
+  și ajustată cu axa longitudinală paralelă cu colul femural.
 
-  • la evidențiază suspiciune de fractură de upper Femur, it este essential that pacientul
-  este raised off bed pe suitable rigid structure, such ca firm foam pad sau casetă
-  tunnel device.'
+  • Pentru evidențierea unei suspiciuni de fractură a femurului superior, este esențial
+  ca pacientul să fie ridicat de pe pat pe o structură rigidă adecvată, cum ar fi
+  o pernă din spumă fermă sau un dispozitiv tunel pentru casetă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -85,7 +91,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Fractură Femur).
+- Vizualizarea clară a întregii arii anatomice (fractură de femur).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -97,14 +103,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Fractură Femur Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx fractură de femur — profil
 ---
-# Rx Fractură Femur Profil (Lateral)
+# Rx fractură de femur — profil
 
 
 <div class="rx-meta-bar">
@@ -123,29 +129,32 @@ title: Rx Fractură Femur Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Fractură Femur (Profil (lateral)).
+        - Evaluarea radiografică a regiunii: fractură de femur (profil).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • mobile X-ray equipment este carefully repositioned la enable Fascicul Orizontal radiografie.
-• When examination este pentru distal two-thirds de Femur, caseta poate fie poziționat vertically pe / sprijinit de medial side de thigh și Fascicul Orizontal orientat latero-medially.
-• When proximal part de shaft sau gâtul de Femur este being examined, caseta este poziționat vertically pe / sprijinit de Profil (lateral) side de thigh și fascicul este orientat mediolaterally, cu opposite membru inferior raised pe suitable support astfel încât unaffected thigh este în near-vertical poziție.
-• pentru Col Femural, casetă cu grilă antidifuzoare este poziționat vertically, cu one edge pe / sprijinit de waist above crestele iliace pe side being examined și ajustat cu its axa longitudinală paralel cu Col Femural.
-• la evidențiază suspiciune de fractură de upper Femur, it este essential that pacientul este raised off bed pe suitable rigid structure, such ca firm foam pad sau casetă tunnel device.
-    - **Punct de Centrare Fascicul:** • pentru distal two-thirds de Femur, raza centrală orizontală centrală este centred la middle de caseta și paralel la line joining anterior margini de femoral condyles.
-• la evidențiază Col Femural, which will include Șold (Articulație Coxofemurală), centre midway între femoral pulse și palpable prominence de mare trohanter, cu raza centrală centrală Orientat orizontal și la drept-angles la caseta.
+    - **Poziție Pacient:**
+        - Echipamentul mobil de radiografie este repoziționat cu atenție pentru a permite radiografia cu fascicul orizontal.
+        - Când examinarea vizează cele două treimi distale ale femurului, caseta poate fi poziționată vertical pe partea medială a coapsei, iar fasciculul orizontal orientat lateromedial.
+        - Când se examinează partea proximală a diafizei sau colul femurului, caseta este poziționată vertical pe partea de profil a coapsei, iar fasciculul este orientat mediolateral, cu membrul inferior opus ridicat pe un suport adecvat, astfel încât coapsa neafectată să fie aproape verticală.
+        - Pentru colul femural, caseta cu grilă antidifuzoare este poziționată vertical, cu o margine sprijinită pe talie, deasupra crestelor iliace, pe partea examinată, și ajustată cu axa longitudinală paralelă cu colul femural.
+        - Pentru evidențierea unei suspiciuni de fractură a femurului superior, este esențial ca pacientul să fie ridicat de pe pat pe o structură rigidă adecvată, cum ar fi o pernă din spumă fermă sau un dispozitiv tunel pentru casetă.
+    - **Punct de Centrare Fascicul:**
+        - Pentru cele două treimi distale ale femurului, raza centrală orizontală este centrată la mijlocul casetei și paralelă cu linia care unește marginile anterioare ale condililor femurali.
+        - Pentru evidențierea colului femural, incluzând șoldul (articulația coxofemurală), se centrează la jumătatea distanței dintre pulsul femural și proeminența palpabilă a marelui trohanter, cu raza centrală orientată orizontal și perpendicular pe casetă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -156,19 +165,19 @@ title: Rx Fractură Femur Profil (Lateral)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Fractură Femur).
+    - Vizualizarea clară a întregii arii anatomice (fractură de femur).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -182,13 +191,9 @@ title: Rx Fractură Femur Profil (Lateral)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    When using grilă, it este essential that caseta remains vertical la avoid grilă cut-off.
-Arthroplasty postoperative radiografie Antero-posterior (AP) incidență de Șold este taken within 24 hours de surgery pentru include upper third de Femur la evidențiază prosthesis și cement restrictor, which este distal la prosthesis. This poate fie highlighted prin radio-opaque marker în form de ball-bearing, which trebuie să appear în toate subsequent follow-up imagini de Șold (Articulație Coxofemurală) if it has been used.
-Loosening de prosthesis poate occur prin impaction de femoral shaft de prosthesis into native Femur. This este detected most easily prin observing reduction în distance între cement restrictor și tip de prosthesis. It este therefore most important that first imagine includes cement restrictor.
-nursing management este also determined pe confirmation that Șold (Articulație Coxofemurală) has nu dislocated.
-Antero-posterior (AP) și Profil (lateral) incidențe sunt acquired de Genunchi following Genunchi replacement.
-pacient poziționat pentru Profil (lateral) Femur (Genunchi up) following application de Thomas’s splint pacient poziționat pentru Profil (lateral) Șold cu Bazin (bazin (pelvis)) raised resting pe casetă tunnel device Profil (lateral) imagine de drept Fractură Femur în Thomas’s splint Postoperative Profil (lateral) imagine de Genunchi using Fascicul Orizontal following articulație replacement
+    La utilizarea grilei, este esențial ca aceasta să rămână verticală pentru a evita tăierea grilei. Radiografia postoperatorie pentru artroplastie: incidența antero-posterioară (AP) a șoldului se efectuează în 24 hours de la intervenție pentru a include treimea superioară a femurului și a evidenția proteza și restrictorul de ciment, care este distal față de proteză. Acesta poate fi evidențiat printr-un marker radioopac sub formă de bilă metalică, care trebuie să apară în toate imaginile ulterioare de urmărire ale șoldului (articulației coxofemurale), dacă a fost utilizat. Slăbirea protezei poate apărea prin impactarea tijei femurale a protezei în femurul nativ. Aceasta este detectată cel mai ușor prin observarea reducerii distanței dintre restrictorul de ciment și vârful protezei. Prin urmare, este foarte important ca prima imagine să includă restrictorul de ciment. Managementul nursing este, de asemenea, determinat prin confirmarea faptului că șoldul (articulația coxofemurală) nu s-a luxat. Incidențele antero-posterioară (AP) și de profil se obțin la genunchi după protezarea genunchiului. Pacient poziționat pentru femur de profil (genunchiul în sus) după aplicarea atelei Thomas; pacient poziționat pentru șold de profil, cu bazinul ridicat și sprijinit pe dispozitivul tunel pentru casetă; imagine de profil a femurului drept fracturat în atelă Thomas; imagine postoperatorie de profil a genunchiului folosind fascicul orizontal după protezarea articulației.
 
 
 ### 🖼️ Imagini
@@ -197,25 +202,25 @@ pacient poziționat pentru Profil (lateral) Femur (Genunchi up) following applic
 
 <figure class="protocol-image-card" markdown>
 
-![Fascicul Orizontal radiografie.](../../assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_1.jpeg)
+![Radiografie cu fascicul orizontal.](../../assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_1.jpeg)
 
-<figcaption><strong>Fascicul Orizontal radiografie.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• la evidențiază suspiciune de fractură de upper Femur, it este essential](../../assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_2.jpeg)
-
-<figcaption><strong>• la evidențiază suspiciune de fractură de upper Femur, it este essential</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie cu fascicul orizontal.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) imagine de drept Fractură Femur în Thomas’s splint](../../assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_3.jpeg)
+![• Pentru evidențierea unei suspiciuni de fractură a femurului superior, este esențial](../../assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_2.jpeg)
 
-<figcaption><strong>Profil (lateral) imagine de drept Fractură Femur în Thomas’s splint</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Pentru evidențierea unei suspiciuni de fractură a femurului superior, este esențial</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Imagine de profil a femurului drept fracturat în atelă Thomas](../../assets/images/protocols/clark/rx-fractura-femur-profil-lateral-p378-clark/fig_3.jpeg)
+
+<figcaption><strong>Imagine de profil a femurului drept fracturat în atelă Thomas</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -16,6 +16,10 @@ images:
 - caption: Merrill — pagina 721, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-thoracic-zygapophyseal-joints-decubit-position-p718-merrill/p721_fig3.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Incidența oblică AP evidențiază bine procesele spinoase cervicotoracale și
@@ -31,7 +35,7 @@ position: Se așază pacientul în decubit lateral. Se ridică capul pe o pernă
   și se sprijină (Fig. 9.80). Se rotește ușor corpul, anterior sau posterior, cu 20
   grade, astfel încât planul coronal să formeze un unghi de 70 grade cu orizontala.
   Se centrează coloana vertebrală pe linia mediană a grilei. Se centrează receptorul
-  de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul
+  de imagine la 1½–2 țoli (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul
   T7. Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are
   grijă să nu se modifice poziția. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
@@ -91,7 +95,7 @@ source_sections:
 
     • Se centrează coloana vertebrală pe linia mediană a grilei.
 
-    • Se centrează receptorul de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor
+    • Se centrează receptorul de imagine la 1½–2 țoli (3.8–5 cm) deasupra umerilor
     pentru a-l centra la nivelul T7.
 
     • Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are
@@ -143,16 +147,17 @@ title: Rx Articulații zigapofizare toracale — Poziționare în decubit (Merri
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se așază pacientul în decubit lateral. Se ridică capul pe o pernă fermă, astfel încât MSP-ul să fie în continuitate cu cel al coloanei vertebrale. Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă. Pentru oblica PA, se plasează brațul inferior în spatele spatelui și brațul superior înainte, cu mâna pe masa de examinare pentru sprijin (Fig. 9.79). Pentru oblica AP, se ajustează brațul inferior în unghi drept față de axa longitudinală a corpului, se flectează cotul și se plasează mâna sub sau lângă cap. Se plasează brațul superior posterior și se sprijină (Fig. 9.80). Se rotește ușor corpul, anterior sau posterior, cu 20 grade, astfel încât planul coronal să formeze un unghi de 70 grade cu orizontala. Se centrează coloana vertebrală pe linia mediană a grilei. Se centrează receptorul de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul T7. Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are grijă să nu se modifice poziția. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:** Se așază pacientul în decubit lateral. Se ridică capul pe o pernă fermă, astfel încât MSP-ul să fie în continuitate cu cel al coloanei vertebrale. Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă. Pentru oblica PA, se plasează brațul inferior în spatele spatelui și brațul superior înainte, cu mâna pe masa de examinare pentru sprijin (Fig. 9.79). Pentru oblica AP, se ajustează brațul inferior în unghi drept față de axa longitudinală a corpului, se flectează cotul și se plasează mâna sub sau lângă cap. Se plasează brațul superior posterior și se sprijină (Fig. 9.80). Se rotește ușor corpul, anterior sau posterior, cu 20 grade, astfel încât planul coronal să formeze un unghi de 70 grade cu orizontala. Se centrează coloana vertebrală pe linia mediană a grilei. Se centrează receptorul de imagine la 1½–2 țoli (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul T7. Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are grijă să nu se modifice poziția. Se efectuează ecranarea gonadelor cu șorț plumbat.
     - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine (RI), la nivelul de ieșire sau de intrare al T7
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
@@ -189,6 +194,7 @@ title: Rx Articulații zigapofizare toracale — Poziționare în decubit (Merri
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Incidența oblică AP evidențiază bine procesele spinoase cervicotoracale și este utilizată în acest scop când pacientul nu poate fi poziționat satisfăcător pentru incidența directă de profil (laterală).
@@ -236,55 +242,3 @@ title: Rx Articulații zigapofizare toracale — Poziționare în decubit (Merri
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 718–721](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Articulațiile zigapofizare toracale (săgeți în Fig. 9.81 și 9.82). Numărul articulațiilor vizualizate depinde de curbura toracalei. Pentru evidențierea articulațiilor de la extremitățile proximală și distală ale regiunii, la pacienții cu cifoză dorsală accentuată este necesar un grad mai mare de rotație față de poziția de profil (laterală). Procesele articulare inferioare ale T12, având o înclinație de aproximativ 45 grade, nu sunt vizualizate în această incidență. (Vezi Rezumatul incidențelor oblice la p. 440.)
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 18 × 43 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Perpendicular pe receptorul de imagine (RI), la nivelul de ieșire sau de intrare al T7
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
-• Toate cele 12 vertebre toracale
-• Articulațiile zigapofizare cele mai apropiate de receptorul de imagine în incidențele oblice PA și articulațiile cele mai îndepărtate de receptorul de imagine în incidențele oblice AP
-• Detalii trabeculare osoase și țesuturile moi înconjurătoare
-
-### note
-
-Incidența oblică AP evidențiază bine procesele spinoase cervicotoracale și este utilizată în acest scop când pacientul nu poate fi poziționat satisfăcător pentru incidența directă de profil.
-
-### part_pos
-
-• Pentru oblica PA, se plasează brațul inferior în spatele spatelui și brațul superior înainte, cu mâna pe masa de examinare pentru sprijin (Fig. 9.79).
-• Pentru oblica AP, se ajustează brațul inferior în unghi drept față de axa longitudinală a corpului, se flectează cotul și se plasează mâna sub sau lângă cap. Se plasează brațul superior posterior și se sprijină (Fig. 9.80).
-• Se rotește ușor corpul, anterior sau posterior, cu 20 grade, astfel încât planul coronal să formeze un unghi de 70 grade cu orizontala.
-• Se centrează coloana vertebrală pe linia mediană a grilei.
-• Se centrează receptorul de imagine la 1½–2 inches (3.8–5 cm) deasupra umerilor pentru a-l centra la nivelul T7.
-• Dacă este necesar, se aplică o bandă de compresie peste șolduri, dar se are grijă să nu se modifice poziția.
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se așază pacientul în decubit lateral.
-• Se ridică capul pe o pernă fermă, astfel încât MSP-ul să fie în continuitate cu cel al coloanei vertebrale.
-• Se flectează șoldurile și genunchii pacientului într-o poziție confortabilă.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
-43 cm), longitudinal.
-

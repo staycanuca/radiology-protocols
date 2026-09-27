@@ -39,6 +39,7 @@ from render_rx_protocol import render_rx_document  # noqa: E402
 from render_fluoro_protocol import render_fluoro_document  # noqa: E402
 from render_irm_protocol import render_irm_document  # noqa: E402
 from render_eco_protocol import render_eco_document  # noqa: E402
+from provenance import preserve_provenance_on_edit  # noqa: E402
 from ai_service import ai_bp  # noqa: E402
 from field_ai import field_ai_bp  # noqa: E402
 
@@ -2606,28 +2607,28 @@ def edit(slug: str):
             default_mod = "eco" if is_eco else ("irm" if is_irm else ("fluoro" if is_fluoro else ("rx" if is_rx else "ct")))
             modality_posted = request.form.get("modality", default_mod).lower()
             if modality_posted == "eco" or is_eco:
-                fm = form_to_eco_frontmatter(request.form)
+                fm = preserve_provenance_on_edit(original_fm, form_to_eco_frontmatter(request.form))
                 fm["slug"] = slug
                 fm["modality"] = "eco"
                 md_content = render_eco_document(fm)
             elif modality_posted == "irm" or is_irm:
-                fm = form_to_irm_frontmatter(request.form)
+                fm = preserve_provenance_on_edit(original_fm, form_to_irm_frontmatter(request.form))
                 fm["slug"] = slug
                 fm["modality"] = "irm"
                 md_content = render_irm_document(fm)
             elif modality_posted == "fluoro" or is_fluoro:
-                fm = form_to_fluoro_frontmatter(request.form)
+                fm = preserve_provenance_on_edit(original_fm, form_to_fluoro_frontmatter(request.form))
                 fm["slug"] = slug
                 fm["modality"] = "fluoro"
                 md_content = render_fluoro_document(fm)
             elif modality_posted == "rx" or is_rx:
                 # Keep documented fields that are not exposed by the RX form.
-                fm = {**original_fm, **form_to_rx_frontmatter(request.form)}
+                fm = preserve_provenance_on_edit(original_fm, {**original_fm, **form_to_rx_frontmatter(request.form)})
                 fm["slug"] = slug
                 fm["modality"] = "rx"
                 md_content = render_rx_document(fm)
             else:
-                fm = form_to_frontmatter(request.form)
+                fm = preserve_provenance_on_edit(original_fm, form_to_frontmatter(request.form))
                 fm["slug"] = slug
                 if "tech_params" in original_fm:
                     merged_tp = original_fm["tech_params"].copy()

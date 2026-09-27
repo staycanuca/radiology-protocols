@@ -2,40 +2,44 @@
 author: Referință Merrill
 breathing: Apnee la sfârșitul expirului complet.
 category: torace
-centering: perpendicular pe articulații sternoclaviculare cel mai apropiat de receptorul
-  de imagine. raza centrală enters la nivelul T2-3 (approximately 3 inches [7.6 cm]
-  distal la vertebral prominens) și 1 la 2 inches (2.5 la 5 cm) lateral de la MSP.
-  If raza centrală enters drept side, stâng articulații sternoclaviculare este vizualizat,
-  și vice versa (see Fig. 10.25B). Se centrează receptorul de imagine pe raza centrală.
+centering: Perpendicular pe articulația sternoclaviculară cea mai apropiată de receptorul
+  de imagine. Raza centrală intră la nivelul T2-3 (aproximativ 3 țoli [7.6 cm] distal
+  de vertebra proeminentă) și la 1 la 2 țoli (2.5 la 5 cm) lateral de MSP. Dacă raza
+  centrală intră pe partea dreaptă, este vizualizată articulația sternoclaviculară
+  stângă și invers (vezi Fig. 10.25B). Centrați receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 809, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sternoclavicular-articulations-pa-incidenta-oblica-body-rotation-method-rao-or-lao-position-p807-merrill/p809_fig1.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: This poziție poate fie dificult în Traumatism / Regim Urgență pacienți. Use
-  ortostatism if pacientul este able.
-position: se așază pacientul în Decubit ventral sau Poziție Șezândă-ortostatism.;
-  Keeping afected side adjacent la receptorul de imagine, se poziționează pacientul
-  la enough de oblic angle la project vertebre well behind articulații sternoclaviculare
-  cel mai apropiat de receptorul de imagine. angle este usually approximately 10 la
-  15 grade. se ajustează pacient’s poziție la se centrează articulație la linia mediană
-  grilă. se ajustează umeri la lie în same plan transversal (Fig. 10.25A și B). se
-  efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Această poziție poate fi dificilă la pacienții cu traumatisme / în regim de
+  urgență. Utilizați ortostatismul dacă pacientul poate adopta această poziție.
+position: Așezați pacientul în decubit ventral sau în șezut cu trunchiul vertical.
+  Menținând partea afectată adiacentă receptorului de imagine, poziționați pacientul
+  suficient de oblic pentru a proiecta vertebrele mult posterior de articulația sternoclaviculară
+  cea mai apropiată de receptor. Unghiul este de obicei de aproximativ 10 la 15 grade.
+  Ajustați poziția pacientului pentru a centra articulația la linia mediană a grilei.
+  Aliniați umerii în același plan transversal (Fig. 10.25A și B). Efectuați ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- articulații sternoclaviculare de interest în center de radiografie, cu manubriu
-  sternal și medial end de Claviculă included
-- Open articulații sternoclaviculare space
-- articulații sternoclaviculare de interest immediately adjacent la coloană vertebrală
-  cu minimal obliquity
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația sternoclaviculară de interes în centrul radiografiei, cu includerea
+  manubriului sternal și a extremității mediale a claviculei
+- Spațiul articulației sternoclaviculare deschis
+- Articulația sternoclaviculară de interes imediat lângă coloana vertebrală, cu oblicitate
+  minimă
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sternoclavicular-articulations-pa-incidenta-oblica-body-rotation-method-rao-or-lao-position-p807-merrill
 source_pages:
@@ -43,50 +47,48 @@ source_pages:
 - 808
 - 809
 source_sections:
-  anatomy: slightly oblic articulații sternoclaviculare (see Fig. 10.25C).
+  anatomy: Articulația sternoclaviculară ușor oblică (vezi Fig. 10.25C).
   collimation: • Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe articulații sternoclaviculare cel mai apropiat de receptorul
-    de imagine. raza centrală enters la nivelul T2-3 (approximately 3 inches [7.6
-    cm] distal la
+  cr: '• Perpendicular pe articulația sternoclaviculară cea mai apropiată de receptorul
+    de imagine. Raza centrală intră la nivelul T2-3 (aproximativ 3 țoli [7.6 cm] distal
+    de vertebra proeminentă) și la 1 la 2 țoli (2.5 la 5 cm) lateral de MSP. Dacă
+    raza centrală intră pe partea dreaptă, este vizualizată articulația sternoclaviculară
+    stângă și invers (vezi Fig. 10.25B).
 
-    vertebral prominens) și 1 la 2 inches (2.5 la 5 cm) lateral de la MSP. If raza
-    centrală enters drept side, stâng sternoclavicular
+    • Centrați receptorul de imagine pe raza centrală.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    articulație este vizualizat, și vice versa (see Fig. 10.25B).
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    în afara anatomiei de interes
 
-    • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Articulația sternoclaviculară de interes în centrul radiografiei, cu includerea
+    manubriului sternal și a extremității mediale a claviculei
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Spațiul articulației sternoclaviculare deschis
 
-    • articulații sternoclaviculare de interest în center de radiografie, cu manubriu
-    sternal și medial end de clavicle included
+    • Articulația sternoclaviculară de interes imediat lângă coloana vertebrală, cu
+    oblicitate minimă
 
-    • Open articulații sternoclaviculare space
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  notes: Această poziție poate fi dificilă la pacienții cu traumatisme. Utilizați
+    ortostatismul dacă pacientul poate adopta această poziție.
+  part_pos: '• Menținând partea afectată adiacentă receptorului de imagine, poziționați
+    pacientul suficient de oblic pentru a proiecta vertebrele mult posterior de articulația
+    sternoclaviculară cea mai apropiată de receptor. Unghiul este de obicei de aproximativ
+    10 la 15 grade.
 
-    • articulații sternoclaviculare de interest immediately adjacent la coloană vertebrală
-    cu minimal obliquity
+    • Ajustați poziția pacientului pentru a centra articulația la linia mediană a
+    grilei.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: This poziție poate fie dificult în trauma pacienți. Use ortostatism if pacientul
-    este able.
-  part_pos: '• Keeping afected side adjacent la receptorul de imagine, se poziționează
-    pacientul la enough de oblic angle la project vertebre well behind articulații
-    sternoclaviculare cel mai apropiat de receptorul de imagine. angle este usually
-    approximately 10 la 15 grade.
+    • Aliniați umerii în același plan transversal (Fig. 10.25A și B).
 
-    • se ajustează pacient’s poziție la se centrează articulație la linia mediană
-    grilă.
-
-    • se ajustează umeri la lie în same plan transversal (Fig. 10.25A și B).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit ventral sau așezat pe scaun-ortostatism.
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul în decubit ventral sau pe scaun, cu trunchiul vertical.
   respiration: Apnee la sfârșitul expirului complet.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 10. Bony Thorax, pagini 807–809
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -94,10 +96,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) — Body Rotation
-  Method RAO or Oblică Anterioară Stângă (OAS / LAO) (Merrill)
+title: Rx articulații sternoclaviculare — Oblică postero-anterioară (PA) — Metoda
+  rotației corpului, RAO sau oblică anterioară stângă (OAS / LAO) (Merrill)
 ---
-# Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) — Body Rotation Method RAO or Oblică Anterioară Stângă (OAS / LAO) (Merrill)
+# Rx articulații sternoclaviculare — Oblică postero-anterioară (PA) — Metoda rotației corpului, RAO sau oblică anterioară stângă (OAS / LAO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -121,17 +123,18 @@ title: Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) �
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral sau Poziție Șezândă-ortostatism.; Keeping afected side adjacent la receptorul de imagine, se poziționează pacientul la enough de oblic angle la project vertebre well behind articulații sternoclaviculare cel mai apropiat de receptorul de imagine. angle este usually approximately 10 la 15 grade. se ajustează pacient’s poziție la se centrează articulație la linia mediană grilă. se ajustează umeri la lie în same plan transversal (Fig. 10.25A și B). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe articulații sternoclaviculare cel mai apropiat de receptorul de imagine. raza centrală enters la nivelul T2-3 (approximately 3 inches [7.6 cm] distal la vertebral prominens) și 1 la 2 inches (2.5 la 5 cm) lateral de la MSP. If raza centrală enters drept side, stâng articulații sternoclaviculare este vizualizat, și vice versa (see Fig. 10.25B). Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Așezați pacientul în decubit ventral sau în șezut cu trunchiul vertical. Menținând partea afectată adiacentă receptorului de imagine, poziționați pacientul suficient de oblic pentru a proiecta vertebrele mult posterior de articulația sternoclaviculară cea mai apropiată de receptor. Unghiul este de obicei de aproximativ 10 la 15 grade. Ajustați poziția pacientului pentru a centra articulația la linia mediană a grilei. Aliniați umerii în același plan transversal (Fig. 10.25A și B). Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe articulația sternoclaviculară cea mai apropiată de receptorul de imagine. Raza centrală intră la nivelul T2-3 (aproximativ 3 țoli [7.6 cm] distal de vertebra proeminentă) și la 1 la 2 țoli (2.5 la 5 cm) lateral de MSP. Dacă raza centrală intră pe partea dreaptă, este vizualizată articulația sternoclaviculară stângă și invers (vezi Fig. 10.25B). Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Apnee la sfârșitul expirului complet.
 
@@ -154,12 +157,12 @@ title: Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) �
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - articulații sternoclaviculare de interest în center de radiografie, cu manubriu sternal și medial end de Claviculă included
-    - Open articulații sternoclaviculare space
-    - articulații sternoclaviculare de interest immediately adjacent la coloană vertebrală cu minimal obliquity
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația sternoclaviculară de interes în centrul radiografiei, cu includerea manubriului sternal și a extremității mediale a claviculei
+    - Spațiul articulației sternoclaviculare deschis
+    - Articulația sternoclaviculară de interes imediat lângă coloana vertebrală, cu oblicitate minimă
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -169,8 +172,9 @@ title: Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) �
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    This poziție poate fie dificult în Traumatism / Regim Urgență pacienți. Use ortostatism if pacientul este able.
+    Această poziție poate fi dificilă la pacienții cu traumatisme / în regim de urgență. Utilizați ortostatismul dacă pacientul poate adopta această poziție.
 
 
 ### 🖼️ Imagini
@@ -199,53 +203,3 @@ title: Rx Articulații Sternoclaviculare — Oblică Postero-Anterioară (PA) �
 ## Surse de documentare
 
 - [Merrill’s Atlas, 10. Bony Thorax, pagini 807–809](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-slightly oblic articulații sternoclaviculare (see Fig. 10.25C).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 15 × 20 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe articulații sternoclaviculare cel mai apropiat de receptorul de imagine. raza centrală enters la nivelul T2-3 (approximately 3 inches [7.6 cm] distal la
-vertebral prominens) și 1 la 2 inches (2.5 la 5 cm) lateral de la MSP. If raza centrală enters drept side, stâng sternoclavicular
-articulație este vizualizat, și vice versa (see Fig. 10.25B).
-• Se centrează receptorul de imagine pe raza centrală.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• articulații sternoclaviculare de interest în center de radiografie, cu manubriu sternal și medial end de clavicle included
-• Open articulații sternoclaviculare space
-• articulații sternoclaviculare de interest immediately adjacent la coloană vertebrală cu minimal obliquity
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-This poziție poate fie dificult în trauma pacienți. Use ortostatism if pacientul este able.
-
-### part_pos
-
-• Keeping afected side adjacent la receptorul de imagine, se poziționează pacientul la enough de oblic angle la project vertebre well behind articulații sternoclaviculare cel mai apropiat de receptorul de imagine. angle este usually approximately 10 la 15 grade.
-• se ajustează pacient’s poziție la se centrează articulație la linia mediană grilă.
-• se ajustează umeri la lie în same plan transversal (Fig. 10.25A și B).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral sau așezat pe scaun-ortostatism.
-
-### respiration
-
-Apnee la sfârșitul expirului complet.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

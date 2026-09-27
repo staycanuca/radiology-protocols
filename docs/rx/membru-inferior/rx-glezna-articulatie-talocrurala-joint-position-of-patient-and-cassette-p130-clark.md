@@ -3,58 +3,65 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: • Centre over maleolă medială (tibială), cu raza centrală centrală la drept-angles
-  la axis de tibia.
+centering: • Se centrează deasupra maleolei mediale (tibiale), cu raza centrală perpendiculară
+  pe axa tibiei.
 clinical_indications:
-- Inversion injury de Gleznă (Articulație Talocrurală) este common și poate result
-  în suspiciune de fractură de Profil (lateral) malleolus sau base de fifth metatarsal.
-  Investigation de injury trebuie să therefore cover ambele areas.
-- Tear de collateral ligaments fără bone suspiciune de fractură poate make Gleznă
-  (Articulație Talocrurală) unstable, despite normal radiografie. Stress incidențe
-  poate clarify this problem și ultrasound sau MRI poate fie useful. Complex injuries
-  poate occur cu suspiciune de fractură de ambele malleoli, rendering Gleznă (Articulație
-  Talocrurală) mortise very unstable, especially if associated cu suspiciune de fractură
-  de posterior tibia – socalled trimalleolar suspiciune de fractură – și/sau disruption
-  de distal tibio-fibular synchondrosis. These injuries frequently require surgical
-  fixation. Profil (lateral) (basic) – medio-Profil (lateral) Normal Profil (lateral)
-  radiografie de Gleznă (Articulație Talocrurală) cap de 1st metatarsal medial cuneiform
-  Navicular Trochlear surface de astragal (talus) Gleznă (Articulație Talocrurală)
-  articulație Tibia Fibula Promontory de tibia Profil (lateral) malleolus posterior
-  talo-calcaneal articulație Calcaneu posterior tubercle de astragal (talus) Annotated
-  radiografie de Profil (lateral) Gleznă (Articulație Talocrurală) Over rotație Under
-  rotație
+- Leziunea prin inversiune a gleznei (articulației talocrurale) este frecventă și
+  poate duce la suspiciunea unei fracturi a maleolei de profil (laterale) sau a bazei
+  celui de-al cincilea metatarsian. Investigarea leziunii trebuie, prin urmare, să
+  acopere ambele regiuni.
+- 'Ruptura ligamentelor colaterale, fără suspiciune de fractură osoasă, poate face
+  glezna (articulația talocrurală) instabilă, în ciuda unei radiografii normale. Incidențele
+  de stres pot clarifica această problemă, iar ecografia sau IRM pot fi utile. Pot
+  apărea leziuni complexe cu suspiciune de fractură a ambelor maleole, care fac scoaba
+  tibioperonieră a gleznei foarte instabilă, mai ales dacă se asociază cu suspiciune
+  de fractură a porțiunii posterioare a tibiei — așa-numita suspiciune de fractură
+  trimaleolară — și/sau cu întreruperea sincondrozei tibiofibulare distale. Aceste
+  leziuni necesită frecvent fixare chirurgicală.
+
+  Profil (lateral), incidență de bază — medio-laterală. Radiografie normală de profil
+  a gleznei (articulația talocrurală). Capul metatarsianului 1; cuneiform medial;
+  navicular; suprafața trohleară a astragalului (talusului); articulația gleznei (talocrurală);
+  tibie; fibulă; promontoriul tibiei; maleolă laterală; articulație talocalcaneană
+  posterioară; calcaneu; tubercul posterior al astragalului (talusului). Radiografie
+  adnotată de profil a gleznei (articulația talocrurală). Rotație excesivă. Rotație
+  insuficientă.'
 images:
-- caption: trebuie să fie included pe imagine la exclude suspiciune de fractură.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: trebuie să fie inclusă pe imagine pentru a exclude suspiciunea de fractură.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_1.jpeg
-- caption: • Tear de collateral ligaments fără bone suspiciune de fractură poate
+- caption: • Ruptura ligamentelor colaterale fără suspiciune de fractură osoasă poate
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_2.jpeg
-- caption: make Gleznă (Articulație Talocrurală) unstable, despite normal radiografie.
-    Stress
+- caption: face glezna instabilă, în ciuda unei radiografii normale. Incidențele de
+    stres
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_3.jpeg
-- caption: poate fie useful. Complex injuries poate occur cu suspiciune de fractură
-    de
+- caption: pot fi utile. Pot apărea leziuni complexe cu suspiciune de fractură a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_4.jpeg
-- caption: cially if associated cu suspiciune de fractură de posterior tibia – so-
+- caption: mai ales dacă este asociată cu suspiciune de fractură a porțiunii posterioare
+    a tibiei – așa-
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_5.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• cu Gleznă (Articulație Talocrurală) dorsiflexed, pacientul turns pe la
-  partea afectată until malleoli sunt superimposed vertically și tibia este paralel
-  cu casetă.
+position: '• Cu glezna în dorsiflexie, pacientul se rotește spre partea afectată până
+  când maleolele sunt suprapuse vertical, iar tibia este paralelă cu caseta.
 
-  • A 15-grade pad este plasat under Profil (lateral) margine de forefoot și Se plasează
-  un suport/pernă sub genunchi pentru sprijin și relaxare. lower edge de caseta este
-  poziționat just below plantar aspect de heel.'
+  • Un suport de 15 grade este plasat sub marginea de profil (lateral) a antepiciorului
+  și se plasează un suport/pernă sub genunchi pentru sprijin și relaxare. Marginea
+  inferioară a casetei este poziționată imediat sub aspectul plantar al călcâiului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -63,17 +70,17 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- lower third de Gambă (Tibie și Peroneu) trebuie să fie included.
-- medial și Profil (lateral) margini de trochlear articular surface de astragal (talus)
-  trebuie să fie superimposed pe imagine.
-- 'Erori de evitat / remedii: Over-rotație causes fibula la fie projected posterior
-  la tibia și medial și Profil (lateral) margini de trochlear articulations sunt nu
-  superimposed.'
-- 'Erori de evitat / remedii: Under-rotație causes shaft de fibula la fie superimposed
-  pe tibia și medial și Profil (lateral) margini de trochlear articulations sunt nu
-  superimposed.'
-- 'Erori de evitat / remedii: base de fifth metatarsal și navicular bone trebuie să
-  fie included pe imagine la exclude suspiciune de fractură.'
+- Treimea inferioară a gambei (tibia și peroneul) trebuie inclusă.
+- Marginile medială și de profil (lateral) ale suprafeței articulare trohleare a astragalului
+  trebuie să fie suprapuse pe imagine.
+- 'Erori de evitat / remedii: Suprarotația determină proiectarea fibulei posterior
+  față de tibie, iar marginile medială și de profil (lateral) ale articulațiilor trohleare
+  nu sunt suprapuse.'
+- 'Erori de evitat / remedii: Subrotația determină suprapunerea diafizei fibulei peste
+  tibie, iar marginile medială și de profil (lateral) ale articulațiilor trohleare
+  nu sunt suprapuse.'
+- 'Erori de evitat / remedii: Baza celui de-al cincilea metatarsian și osul navicular
+  trebuie incluse pe imagine pentru a exclude suspiciunea de fractură.'
 sid_dff: 100 cm
 slug: rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark
 sources:
@@ -82,14 +89,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Gleznă (Articulație Talocrurală) joint Poziționare of patient and cassette
+  mas: Conform AEC / grosimii anatomice
+title: Rx articulația gleznei Poziționarea pacientului și a casetei
 ---
-# Rx Gleznă (Articulație Talocrurală) joint Poziționare of patient and cassette
+# Rx articulația gleznei Poziționarea pacientului și a casetei
 
 
 <div class="rx-meta-bar">
@@ -108,24 +115,27 @@ title: Rx Gleznă (Articulație Talocrurală) joint Poziționare of patient and 
 
     === "Indicații Clinice"
 
-        - Inversion injury de Gleznă (Articulație Talocrurală) este common și poate result în suspiciune de fractură de Profil (lateral) malleolus sau base de fifth metatarsal. Investigation de injury trebuie să therefore cover ambele areas.
-        - Tear de collateral ligaments fără bone suspiciune de fractură poate make Gleznă (Articulație Talocrurală) unstable, despite normal radiografie. Stress incidențe poate clarify this problem și ultrasound sau MRI poate fie useful. Complex injuries poate occur cu suspiciune de fractură de ambele malleoli, rendering Gleznă (Articulație Talocrurală) mortise very unstable, especially if associated cu suspiciune de fractură de posterior tibia – socalled trimalleolar suspiciune de fractură – și/sau disruption de distal tibio-fibular synchondrosis. These injuries frequently require surgical fixation. Profil (lateral) (basic) – medio-Profil (lateral) Normal Profil (lateral) radiografie de Gleznă (Articulație Talocrurală) cap de 1st metatarsal medial cuneiform Navicular Trochlear surface de astragal (talus) Gleznă (Articulație Talocrurală) articulație Tibia Fibula Promontory de tibia Profil (lateral) malleolus posterior talo-calcaneal articulație Calcaneu posterior tubercle de astragal (talus) Annotated radiografie de Profil (lateral) Gleznă (Articulație Talocrurală) Over rotație Under rotație
+        - Leziunea prin inversiune a gleznei (articulației talocrurale) este frecventă și poate duce la suspiciunea unei fracturi a maleolei de profil (laterale) sau a bazei celui de-al cincilea metatarsian. Investigarea leziunii trebuie, prin urmare, să acopere ambele regiuni.
+        - Ruptura ligamentelor colaterale, fără suspiciune de fractură osoasă, poate face glezna (articulația talocrurală) instabilă, în ciuda unei radiografii normale. Incidențele de stres pot clarifica această problemă, iar ecografia sau IRM pot fi utile. Pot apărea leziuni complexe cu suspiciune de fractură a ambelor maleole, care fac scoaba tibioperonieră a gleznei foarte instabilă, mai ales dacă se asociază cu suspiciune de fractură a porțiunii posterioare a tibiei — așa-numita suspiciune de fractură trimaleolară — și/sau cu întreruperea sincondrozei tibiofibulare distale. Aceste leziuni necesită frecvent fixare chirurgicală.
+        - Profil (lateral), incidență de bază — medio-laterală. Radiografie normală de profil a gleznei (articulația talocrurală). Capul metatarsianului 1; cuneiform medial; navicular; suprafața trohleară a astragalului (talusului); articulația gleznei (talocrurală); tibie; fibulă; promontoriul tibiei; maleolă laterală; articulație talocalcaneană posterioară; calcaneu; tubercul posterior al astragalului (talusului). Radiografie adnotată de profil a gleznei (articulația talocrurală). Rotație excesivă. Rotație insuficientă.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • cu Gleznă (Articulație Talocrurală) dorsiflexed, pacientul turns pe la partea afectată until malleoli sunt superimposed vertically și tibia este paralel cu casetă.
-• A 15-grade pad este plasat under Profil (lateral) margine de forefoot și Se plasează un suport/pernă sub genunchi pentru sprijin și relaxare. lower edge de caseta este poziționat just below plantar aspect de heel.
-    - **Punct de Centrare Fascicul:** • Centre over maleolă medială (tibială), cu raza centrală centrală la drept-angles la axis de tibia.
+    - **Poziție Pacient:**
+        - Cu glezna în dorsiflexie, pacientul se rotește spre partea afectată până când maleolele sunt suprapuse vertical, iar tibia este paralelă cu caseta.
+        - Un suport de 15 grade este plasat sub marginea de profil (lateral) a antepiciorului și se plasează un suport/pernă sub genunchi pentru sprijin și relaxare. Marginea inferioară a casetei este poziționată imediat sub aspectul plantar al călcâiului.
+    - **Punct de Centrare Fascicul:** • Se centrează deasupra maleolei mediale (tibiale), cu raza centrală perpendiculară pe axa tibiei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -136,23 +146,23 @@ title: Rx Gleznă (Articulație Talocrurală) joint Poziționare of patient and 
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - lower third de Gambă (Tibie și Peroneu) trebuie să fie included.
-    - medial și Profil (lateral) margini de trochlear articular surface de astragal (talus) trebuie să fie superimposed pe imagine.
-    - Erori de evitat / remedii: Over-rotație causes fibula la fie projected posterior la tibia și medial și Profil (lateral) margini de trochlear articulations sunt nu superimposed.
-    - Erori de evitat / remedii: Under-rotație causes shaft de fibula la fie superimposed pe tibia și medial și Profil (lateral) margini de trochlear articulations sunt nu superimposed.
-    - Erori de evitat / remedii: base de fifth metatarsal și navicular bone trebuie să fie included pe imagine la exclude suspiciune de fractură.
+    - Treimea inferioară a gambei (tibia și peroneul) trebuie inclusă.
+    - Marginile medială și de profil (lateral) ale suprafeței articulare trohleare a astragalului trebuie să fie suprapuse pe imagine.
+    - Erori de evitat / remedii: Suprarotația determină proiectarea fibulei posterior față de tibie, iar marginile medială și de profil (lateral) ale articulațiilor trohleare nu sunt suprapuse.
+    - Erori de evitat / remedii: Subrotația determină suprapunerea diafizei fibulei peste tibie, iar marginile medială și de profil (lateral) ale articulațiilor trohleare nu sunt suprapuse.
+    - Erori de evitat / remedii: Baza celui de-al cincilea metatarsian și osul navicular trebuie incluse pe imagine pentru a exclude suspiciunea de fractură.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -164,6 +174,7 @@ title: Rx Gleznă (Articulație Talocrurală) joint Poziționare of patient and 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -174,41 +185,41 @@ title: Rx Gleznă (Articulație Talocrurală) joint Poziționare of patient and 
 
 <figure class="protocol-image-card" markdown>
 
-![trebuie să fie included pe imagine la exclude suspiciune de fractură.](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_1.jpeg)
+![trebuie să fie inclusă pe imagine pentru a exclude suspiciunea de fractură.](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_1.jpeg)
 
-<figcaption><strong>trebuie să fie included pe imagine la exclude suspiciune de fractură.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• Tear de collateral ligaments fără bone suspiciune de fractură poate](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_2.jpeg)
-
-<figcaption><strong>• Tear de collateral ligaments fără bone suspiciune de fractură poate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>trebuie să fie inclusă pe imagine pentru a exclude suspiciunea de fractură.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![make Gleznă (Articulație Talocrurală) unstable, despite normal radiografie. Stress](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_3.jpeg)
+![• Ruptura ligamentelor colaterale fără suspiciune de fractură osoasă poate](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_2.jpeg)
 
-<figcaption><strong>make Gleznă (Articulație Talocrurală) unstable, despite normal radiografie. Stress</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![poate fie useful. Complex injuries poate occur cu suspiciune de fractură de](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_4.jpeg)
-
-<figcaption><strong>poate fie useful. Complex injuries poate occur cu suspiciune de fractură de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Ruptura ligamentelor colaterale fără suspiciune de fractură osoasă poate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![cially if associated cu suspiciune de fractură de posterior tibia – so-](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_5.jpeg)
+![face glezna instabilă, în ciuda unei radiografii normale. Incidențele de stres](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_3.jpeg)
 
-<figcaption><strong>cially if associated cu suspiciune de fractură de posterior tibia – so-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>face glezna instabilă, în ciuda unei radiografii normale. Incidențele de stres</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![pot fi utile. Pot apărea leziuni complexe cu suspiciune de fractură a](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_4.jpeg)
+
+<figcaption><strong>pot fi utile. Pot apărea leziuni complexe cu suspiciune de fractură a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![mai ales dacă este asociată cu suspiciune de fractură a porțiunii posterioare a tibiei – așa-](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-position-of-patient-and-cassette-p130-clark/fig_5.jpeg)
+
+<figcaption><strong>mai ales dacă este asociată cu suspiciune de fractură a porțiunii posterioare a tibiei – așa-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

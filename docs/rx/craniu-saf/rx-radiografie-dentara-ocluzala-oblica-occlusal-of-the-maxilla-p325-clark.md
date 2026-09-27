@@ -47,6 +47,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-maxilla-p325-clark/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -124,28 +128,25 @@ title: Rx Radiografie dentară ocluzală Ocluzală oblică a maxilei
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
-• Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele ocluzale ale dinților inferiori, cu partea filmului radiologic orientată spre bolta palatină.
-• Convenția pentru poziționarea filmului radiologic în gură este:
-– Adulți: axa longitudinală a filmului radiologic se extinde transversal în cavitatea bucală (adică perpendicular pe planul sagital).
-– Copii: axa longitudinală a filmului radiologic este poziționată antero-posterior în cavitatea bucală (adică paralel cu planul sagital). NB: la copiii mai mici, cu guri mici, filmul periapical poate fi substituit în mod eficient.
-• Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo de aspectele labiale ale dinților incisivi maxilari.
-• Filmul radiologic trebuie plasat cât mai posterior posibil, atât cât tolerează pacientul.
-• Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
-    - **Punct de Centrare Fascicul:** • Tubul este poziționat deasupra pacientului, pe linia mediană, și înclinat în jos (caudal) la 65–70 grade, raza centrală trecând prin rădăcina nasului spre centrul filmului radiologic.
-Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este eficientă pentru identificarea fragmentelor dentare și/sau a corpurilor străine radioopace din buza superioară în urma unui traumatism.
-O altă incidență utilă pentru identificarea structurilor radioopace încorporate în buze este profilul adevărat (lateral). Pacientul ține filmul ocluzal paralel cu planul sagital, folosind policele pentru susținerea marginii inferioare și degetele mâinii pentru stabilizarea filmului radiologic pe obraz/la obraz.
-Această incidență se efectuează utilizând parametri pentru părți moi. Cu excepția cazului în care se confirmă clinic că obiectul este solitar și situat pe linia mediană, profilul adevărat (lateral) trebuie completat prin alte incidențe (adică la unghiuri drepte față de acesta) pentru a permite localizarea precisă.
-310 Radiografie ocluzală oblică standard superioară Poziționarea pacientului și a tubului radiogen (dinspre lateral) pentru radiografia ocluzală oblică standard superioară Radiografie ocluzală oblică standard superioară (cu expunere pentru părți moi) evidențiind suspiciunea unui fragment dentar fracturat localizat în țesuturile moi ale buzei superioare Incidență de profil adevărat (lateral) a cazului ilustrat mai sus. Fragmentul dentar încorporat este clar vizibil
+    - **Poziție Pacient:**
+        - Pacientul stă așezat confortabil, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
+        - Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele ocluzale ale dinților inferiori, cu partea filmului radiologic orientată spre bolta palatină.
+        - Convenția pentru poziționarea filmului radiologic în gură este: – Adulți: axa longitudinală a filmului radiologic se extinde transversal în cavitatea bucală (adică perpendicular pe planul sagital). – Copii: axa longitudinală a filmului radiologic este poziționată antero-posterior în cavitatea bucală (adică paralel cu planul sagital). NB: la copiii mai mici, cu guri mici, filmul periapical poate fi substituit în mod eficient.
+        - Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo de aspectele labiale ale dinților incisivi maxilari.
+        - Filmul radiologic trebuie plasat cât mai posterior posibil, atât cât tolerează pacientul.
+        - Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
+    - **Punct de Centrare Fascicul:**
+        - Tubul este poziționat deasupra pacientului, pe linia mediană, și înclinat în jos (caudal) la 65–70 grade, raza centrală trecând prin rădăcina nasului spre centrul filmului radiologic. Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este eficientă pentru identificarea fragmentelor dentare și/sau a corpurilor străine radioopace din buza superioară în urma unui traumatism. O altă incidență utilă pentru identificarea structurilor radioopace încorporate în buze este profilul adevărat (lateral). Pacientul ține filmul ocluzal paralel cu planul sagital, folosind policele pentru susținerea marginii inferioare și degetele mâinii pentru stabilizarea filmului radiologic pe obraz/la obraz. Această incidență se efectuează utilizând parametri pentru părți moi. Cu excepția cazului în care se confirmă clinic că obiectul este solitar și situat pe linia mediană, profilul adevărat (lateral) trebuie completat prin alte incidențe (adică la unghiuri drepte față de acesta) pentru a permite localizarea precisă. 310 Radiografie ocluzală oblică standard superioară Poziționarea pacientului și a tubului radiogen (dinspre lateral) pentru radiografia ocluzală oblică standard superioară Radiografie ocluzală oblică standard superioară (cu expunere pentru părți moi) evidențiind suspiciunea unui fragment dentar fracturat localizat în țesuturile moi ale buzei superioare Incidență de profil adevărat (lateral) a cazului ilustrat mai sus. Fragmentul dentar încorporat este clar vizibil
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -181,6 +182,7 @@ Această incidență se efectuează utilizând parametri pentru părți moi. Cu 
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

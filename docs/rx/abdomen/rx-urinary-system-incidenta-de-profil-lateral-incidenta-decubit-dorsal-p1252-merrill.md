@@ -10,6 +10,10 @@ images:
 - caption: Merrill — pagina 1253, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-system-incidenta-de-profil-lateral-incidenta-decubit-dorsal-p1252-merrill/p1253_fig1.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -143,11 +147,12 @@ title: Rx aparat urinar — Incidență de profil (laterală) — Incidență î
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -194,6 +199,7 @@ title: Rx aparat urinar — Incidență de profil (laterală) — Incidență î
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -224,57 +230,3 @@ title: Rx aparat urinar — Incidență de profil (laterală) — Incidență î
 ## Surse de documentare
 
 - [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1252–1253](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Rolleston și Reay 8 au recomandat poziția de decubit ventral pentru a evidenția UPī în prezența hidronefrozei. Cook și colab. 9 au susținut utilizarea
-acestei poziții pentru a determina dacă o masă extrarenală din flanc este intraperitoneală sau extraperitoneală și au afirmat că poziția facilitează
-examinarea rinichilor și ureterelor pentru depistarea unei deplasări anterioare anormale (Fig. 16.50).
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm), în orientare longitudinală. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5
-cm) de conturul cutanat. Se plasează markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
-
-### raza centrală
-
-• Orizontală și perpendiculară pe centrul receptorului de imagine, pătrunzând în planul mediocoronal la nivelul crestelor iliace
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
-• Întregul aparat urinar
-• Vezica urinară și simfiza pubiană
-• Substanță de contrast în regiunea renală, uretere și vezica urinară
-• Structurile anatomice învecinate
-• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă) (se verifică bazinul (pelvisul) și coloana lombară)
-• Marker temporal
-• Pacientul este ridicat astfel încât întregul abdomen să fie vizibil
-
-### part_pos
-
-• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediocoronal al corpului pacientului.
-• Se poziționează pacientul astfel încât un punct situat aproximativ la nivelul crestelor iliace să fie centrat pe receptorul de imagine (Fig. 16.49).
-• Se ajustează poziția pacientului pentru a asigura absența rotației anatomice (simetrie bilaterală perfectă) în decubit dorsal sau în decubit ventral.
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se așază pacientul în decubit dorsal pe targa radiologică, cu partea de examinat în contact cu stativul vertical Bucky. Se verifică
-dacă roțile sunt blocate.
-• Se poziționează brațele pacientului peste partea superioară a toracelui, astfel încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele
-capului.
-• Se flectează ușor genunchii pacientului pentru a reduce tensiunea asupra spatelui.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
-43 cm), longitudinal.
-

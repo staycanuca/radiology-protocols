@@ -2,11 +2,17 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: Metoda Lawrence Horizontally through axilla la region de AC articulation.
-  grade de medial angulation de raza centrală depends pe grade de abduction de braț.
-  grade de medial angulation este often între 15 grade și 30 grade. greater abduction,
-  greater angle. Rafert modification orizontal și înclinat approximately 15 grade
-  medially, entering axilla și passing through articulații acromioclaviculare.
+centering: 'Metoda Lawrence
+
+  Orizontal, prin axilă, către regiunea articulației AC. Gradul de angulație medială
+  a razei centrale depinde de gradul de abducție a brațului. Gradul de angulație medială
+  este adesea între 15 grade și 30 grade. Cu cât abducția este mai mare, cu atât unghiul
+  este mai mare.
+
+  Modificarea Rafert
+
+  Orizontală și înclinată cu aproximativ 15 grade medial, intrând prin axilă și trecând
+  prin articulația acromioclaviculară.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -28,41 +34,50 @@ images:
 - caption: Merrill — pagina 396, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill/p396_fig6.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: cu pacientul în Decubit dorsal poziție, elevate capul, umeri, și Cot approximately
-  3 inches (7.6 cm) pe radiolucent sponge.; Metoda Lawrence ca much ca possible, abduct
-  braț de afected side în unghi drept față de axa longitudinală de corp. minimum de
-  20 grade este required la prevent superimposition de braț pe Umăr. Keep Humerus
-  în extern ro̍ ation, then se ajustează Antebraț și Mână în comfortable poziție,
-  grasping vertical support sau extins pe săculeți cu nisip sau firm pillow. Support
-  poate fie necessary under Antebraț și Mână. Provide pacientul cu extension board
-  pentru braț. Se instruiește pacientul să turn capul away de la side being examined
-  astfel încât receptorul de imagine poate fie plasat pe / sprijinit de neck. Place
-  receptorul de imagine pe edge pe / sprijinit de Umăr și ca close ca possible la
-  gâtul. Support receptorul de imagine în poziție cu săculeți cu nisip sau use vertical
-  receptorul de imagine holder (Fig. 6.27). Rafert modification anterior luxație articulară
-  de cap humeral poate result în wedge-shaped compression suspiciune de fractură de
-  articular surface de cap humeral, called Hill-Sachs defec̍. 6 suspiciune de fractură
-  este located pe posterolateral cap humeral. exaͨ erated extern ro̍ ation de braț
-  poate fie required la see defect. cu pacientul în poziție exactly ca pentru Metoda
-  Lawrence, externally se rotește extins braț until Mână forms a 45-grade oblic angle.
-  Police este pointing downward (Fig. 6.28). Assist pacientul în rotating braț la
-  avoid overstressing Umăr articulație. se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+position: 'Cu pacientul în poziție de decubit dorsal, se ridică capul, umerii și cotul
+  cu aproximativ 3 țoli (7.6 cm) pe un burete radiotransparent. Metoda Lawrence: pe
+  cât posibil, se abduce brațul de partea afectată în unghi drept față de axa longitudinală
+  a corpului. Este necesar un minimum de 20 grade pentru a preveni suprapunerea brațului
+  peste umăr. Se menține humerusul în rotație externă, apoi se ajustează antebrațul
+  și mâna într-o poziție confortabilă, prinzând un suport vertical sau întinzându-le
+  pe saci cu nisip ori pe o pernă fermă. Poate fi necesar un suport sub antebraț și
+  mână. Se pune la dispoziția pacientului o placă de extensie pentru braț. Pacientul
+  este instruit să întoarcă capul în partea opusă celei examinate, astfel încât receptorul
+  de imagine să poată fi plasat pe/lipit de gât. Se plasează receptorul de imagine
+  pe muchie, pe/lipit de umăr, cât mai aproape de gât. Se susține receptorul de imagine
+  în poziție cu saci cu nisip sau se utilizează un suport vertical pentru receptorul
+  de imagine (Fig. 6.27).
+
+  Modificarea Rafert
+
+  O luxație anterioară a articulației capului humeral poate determina o compresie
+  în formă de pană, suspectă pentru fractură, a suprafeței articulare a capului humeral,
+  numită defect Hill-Sachs. 6 Suspiciunea de fractură este localizată pe partea posterolaterală
+  a capului humeral. Pentru observarea defectului poate fi necesară o rotație externă
+  exagerată a brațului. Cu pacientul în aceeași poziție ca pentru metoda Lawrence,
+  se rotește extern brațul extins până când mâna formează un unghi oblic de 45 grade.
+  Policele este orientat în jos (Fig. 6.28). Se asistă pacientul la rotirea brațului
+  pentru a evita suprasolicitarea articulației umărului. Se efectuează ecranarea gonadelor
+  cu șorț plumbat.'
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Scapulohumeral articulație cu slight overlap
-- proces coracoid, pointing anteriorly
-- mică tuberozitate humerală (trohin) în profile și orientat anteriorly
-- articulații acromioclaviculare, acromion, și acromial end de Claviculă projected
-  through cap humeral
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația scapulohumerală cu ușoară suprapunere
+- Procesul coracoid, orientat anterior
+- Mica tuberozitate humerală (trohinul) în profil și orientată anterior
+- Articulația acromioclaviculară, acromionul și extremitatea acromială a claviculei
+  proiectate prin capul humeral
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-umar-joint-inferosuperior-axial-projection-metoda-lawrence-4-inferosuperior-axial-projection-rafert-et-al-5-modification-p391-merrill
 source_pages:
@@ -73,108 +88,98 @@ source_pages:
 - 395
 - 396
 source_sections:
-  anatomy: 'inferosuperior axial imagine de proximal humerus, scapulohumeral articulație,
-    lateral portion de proces coracoid, și AC articulation. insertion site de subscapular
-    tendon pe mică tuberozitate humerală (trohin) de humerus și point de insertion
-    de teres minor tendon pe greater
-
-    tubercle de humerus sunt also vizualizat. Hill-Sachs compression suspiciune de
-    fractură pe posterolateral cap humeral poate fie seen using Rafert
-
-    modification (Figs. 6.29 și 6.30).'
-  collimation: '• Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator
-    și la 1 inch (2.5 cm) above anterior shadow de umăr.
+  anatomy: Imagine axială inferosuperioară a humerusului proximal, articulației scapulohumerale,
+    porțiunii laterale a procesului coracoid și articulației AC. Sunt vizualizate
+    și locul de inserție al tendonului subscapular pe mica tuberozitate humerală (trohinul)
+    a humerusului și punctul de inserție al tendonului teres minor pe tuberculul mare
+    al humerusului. Suspiciunea de fractură prin compresie Hill-Sachs pe partea posterolaterală
+    a capului humeral poate fi observată utilizând modificarea Rafert (Fig. 6.29 și
+    6.30).
+  collimation: '• Se ajustează câmpul de iradiere la 12 țoli (30 cm) în lățime pe
+    colimator și la 1 țol (2.5 cm) deasupra umbrei anterioare a umărului.
 
     Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: 'Lawrence method
+  cr: 'Metoda Lawrence
 
-    • Horizontally through axilla la region de AC articulation. grade de medial angulation
-    de raza centrală depends pe grade
+    • Orizontal, prin axilă, către regiunea articulației AC. Gradul de angulație medială
+    a razei centrale depinde de gradul de abducție a brațului. Gradul de angulație
+    medială este adesea între 15 grade și 30 grade. Cu cât abducția este mai mare,
+    cu atât unghiul este mai mare.
 
-    de abduction de braț. grade de medial angulation este often între 15 grade și
-    30 grade. greater abduction, greater angle.
+    Modificarea Rafert
 
-    Rafert modification
+    • Orizontală și înclinată cu aproximativ 15 grade medial, intrând prin axilă și
+    trecând prin articulația acromioclaviculară.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • orizontal și înclinat approximately 15 grade medially, entering axilla și passing
-    through articulații acromioclaviculare.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulația scapulohumerală cu ușoară suprapunere
 
-    • Scapulohumeral articulație cu slight overlap
+    • Procesul coracoid, orientat anterior
 
-    • proces coracoid, pointing anteriorly
+    • Mica tuberozitate humerală (trohinul) în profil și orientată anterior
 
-    • mică tuberozitate humerală (trohin) în profile și orientat anteriorly
+    • Articulația acromioclaviculară, acromionul și extremitatea acromială a claviculei
+    proiectate prin capul humeral
 
-    • articulații acromioclaviculare, acromion, și acromial end de clavicle projected
-    through cap humeral
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: 'Metoda Lawrence
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: 'Lawrence method
+    • Pe cât posibil, se abduce brațul de partea afectată în unghi drept față de axa
+    longitudinală a corpului. Este necesar un minimum de 20 grade pentru a preveni
+    suprapunerea brațului peste umăr.
 
-    • ca much ca possible, abduct braț de afected side în unghi drept față de axa
-    longitudinală de corp. minimum de 20 grade este
+    • Se menține humerusul în rotație externă, apoi se ajustează antebrațul și mâna
+    într-o poziție confortabilă, prinzând un suport vertical sau întinzându-le pe
+    saci cu nisip ori pe o pernă fermă. Poate fi necesar un suport sub antebraț și
+    mână. Se pune la dispoziția pacientului o placă de extensie pentru braț.
 
-    required la prevent superimposition de braț pe umăr.
+    • Pacientul este instruit să întoarcă capul în partea opusă celei examinate, astfel
+    încât receptorul de imagine să poată fi plasat pe/lipit de gât.
 
-    • Keep humerus în extern ro̍ ation, then se ajustează forearm și mână în comfortable
-    poziție, grasping vertical support sau
+    • Se plasează receptorul de imagine pe muchie, pe/lipit de umăr, cât mai aproape
+    de gât.
 
-    extins pe săculeți cu nisip sau firm pillow. Support poate fie necessary under
-    forearm și mână. Provide pacientul cu extension
+    • Se susține receptorul de imagine în poziție cu saci cu nisip sau se utilizează
+    un suport vertical pentru receptorul de imagine (Fig. 6.27).
 
-    board pentru braț.
+    Modificarea Rafert
 
-    • Se instruiește pacientul să turn capul away de la side being examined astfel
-    încât receptorul de imagine poate fie plasat pe / sprijinit de neck.
+    • O luxație anterioară a articulației capului humeral poate determina o compresie
+    în formă de pană, suspectă pentru fractură, a suprafeței articulare a capului
+    humeral, numită defect Hill-Sachs. 6 Suspiciunea de fractură este localizată pe
+    partea posterolaterală a capului humeral. Pentru observarea defectului poate fi
+    necesară o rotație externă exagerată a brațului.
 
-    • Place receptorul de imagine pe edge pe / sprijinit de umăr și ca close ca possible
-    la gâtul.
+    • Cu pacientul în aceeași poziție ca pentru metoda Lawrence, se rotește extern
+    brațul extins până când mâna formează un unghi oblic de 45 grade. Policele este
+    orientat în jos (Fig. 6.28).
 
-    • Support receptorul de imagine în poziție cu săculeți cu nisip sau use vertical
-    receptorul de imagine holder (Fig. 6.27).
+    • Se asistă pacientul la rotirea brațului pentru a evita suprasolicitarea articulației
+    umărului.
 
-    Rafert modification
-
-    • anterior luxație articulară de cap humeral poate result în wedge-shaped compression
-    suspiciune de fractură de articular surface de humeral
-
-    cap, called Hill-Sachs defec̍. 6 suspiciune de fractură este located pe posterolateral
-    cap humeral. exaͨ erated extern ro̍ ation de braț
-
-    poate fie required la see defect.
-
-    • cu pacientul în poziție exactly ca pentru Lawrence method, externally se rotește
-    extins braț until mână forms a 45-grade
-
-    oblic angle. policele este pointing downward (Fig. 6.28).
-
-    • Assist pacientul în rotating braț la avoid overstressing umăr articulație.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • cu pacientul în decubit dorsal, elevate capul, umeri, și cot approximately
-    3 inches (7.6 cm) pe radiolucent sponge.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Cu pacientul în decubit dorsal, se ridică capul, umerii și cotul
+    cu aproximativ 3 țoli (7.6 cm) pe un burete radiotransparent.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) grilă transversal, plasat în vertical orientation în contact cu superior
-    surface de umăr.'
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; receptor de imagine: 10 × 12 țoli (24
+    × 30 cm), grilă transversală, plasat în orientare verticală, în contact cu suprafața
+    superioară a umărului.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 391–396
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator
-    și la 1 inch (2.5 cm) above anterior shadow de Umăr. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4 Inferosuperior
-  Axial Incidență Rafert et al. 5 Modification (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 12 țoli (30 cm) în lățime pe colimator
+    și la 1 țol (2.5 cm) deasupra umbrei anterioare a umărului. Se plasează markerul
+    de lateralitate în câmpul colimat.
+title: Rx articulația umărului — incidență axială inferosuperioară — metoda Lawrence
+  4; incidență axială inferosuperioară Rafert et al. 5; modificare (Merrill)
 ---
-# Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4 Inferosuperior Axial Incidență Rafert et al. 5 Modification (Merrill)
+# Rx articulația umărului — incidență axială inferosuperioară — metoda Lawrence 4; incidență axială inferosuperioară Rafert et al. 5; modificare (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -198,17 +203,32 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** cu pacientul în Decubit dorsal poziție, elevate capul, umeri, și Cot approximately 3 inches (7.6 cm) pe radiolucent sponge.; Metoda Lawrence ca much ca possible, abduct braț de afected side în unghi drept față de axa longitudinală de corp. minimum de 20 grade este required la prevent superimposition de braț pe Umăr. Keep Humerus în extern ro̍ ation, then se ajustează Antebraț și Mână în comfortable poziție, grasping vertical support sau extins pe săculeți cu nisip sau firm pillow. Support poate fie necessary under Antebraț și Mână. Provide pacientul cu extension board pentru braț. Se instruiește pacientul să turn capul away de la side being examined astfel încât receptorul de imagine poate fie plasat pe / sprijinit de neck. Place receptorul de imagine pe edge pe / sprijinit de Umăr și ca close ca possible la gâtul. Support receptorul de imagine în poziție cu săculeți cu nisip sau use vertical receptorul de imagine holder (Fig. 6.27). Rafert modification anterior luxație articulară de cap humeral poate result în wedge-shaped compression suspiciune de fractură de articular surface de cap humeral, called Hill-Sachs defec̍. 6 suspiciune de fractură este located pe posterolateral cap humeral. exaͨ erated extern ro̍ ation de braț poate fie required la see defect. cu pacientul în poziție exactly ca pentru Metoda Lawrence, externally se rotește extins braț until Mână forms a 45-grade oblic angle. Police este pointing downward (Fig. 6.28). Assist pacientul în rotating braț la avoid overstressing Umăr articulație. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Metoda Lawrence Horizontally through axilla la region de AC articulation. grade de medial angulation de raza centrală depends pe grade de abduction de braț. grade de medial angulation este often între 15 grade și 30 grade. greater abduction, greater angle. Rafert modification orizontal și înclinat approximately 15 grade medially, entering axilla și passing through articulații acromioclaviculare.
+    - **Poziție Pacient:**
+        Cu pacientul în poziție de decubit dorsal, se ridică capul, umerii și cotul cu aproximativ 3 țoli (7.6 cm) pe un burete radiotransparent. Metoda Lawrence: pe cât posibil, se abduce brațul de partea afectată în unghi drept față de axa longitudinală a corpului. Este necesar un minimum de 20 grade pentru a preveni suprapunerea brațului peste umăr. Se menține humerusul în rotație externă, apoi se ajustează antebrațul și mâna într-o poziție confortabilă, prinzând un suport vertical sau întinzându-le pe saci cu nisip ori pe o pernă fermă. Poate fi necesar un suport sub antebraț și mână. Se pune la dispoziția pacientului o placă de extensie pentru braț. Pacientul este instruit să întoarcă capul în partea opusă celei examinate, astfel încât receptorul de imagine să poată fi plasat pe/lipit de gât. Se plasează receptorul de imagine pe muchie, pe/lipit de umăr, cât mai aproape de gât. Se susține receptorul de imagine în poziție cu saci cu nisip sau se utilizează un suport vertical pentru receptorul de imagine (Fig. 6.27).
+
+        Modificarea Rafert
+
+        O luxație anterioară a articulației capului humeral poate determina o compresie în formă de pană, suspectă pentru fractură, a suprafeței articulare a capului humeral, numită defect Hill-Sachs. 6 Suspiciunea de fractură este localizată pe partea posterolaterală a capului humeral. Pentru observarea defectului poate fi necesară o rotație externă exagerată a brațului. Cu pacientul în aceeași poziție ca pentru metoda Lawrence, se rotește extern brațul extins până când mâna formează un unghi oblic de 45 grade. Policele este orientat în jos (Fig. 6.28). Se asistă pacientul la rotirea brațului pentru a evita suprasolicitarea articulației umărului. Se efectuează ecranarea gonadelor cu șorț plumbat.
+
+    - **Punct de Centrare Fascicul:**
+        Metoda Lawrence
+
+        Orizontal, prin axilă, către regiunea articulației AC. Gradul de angulație medială a razei centrale depinde de gradul de abducție a brațului. Gradul de angulație medială este adesea între 15 grade și 30 grade. Cu cât abducția este mai mare, cu atât unghiul este mai mare.
+
+        Modificarea Rafert
+
+        Orizontală și înclinată cu aproximativ 15 grade medial, intrând prin axilă și trecând prin articulația acromioclaviculară.
+
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -224,20 +244,20 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator și la 1 inch (2.5 cm) above anterior shadow de Umăr. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 12 țoli (30 cm) în lățime pe colimator și la 1 țol (2.5 cm) deasupra umbrei anterioare a umărului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Scapulohumeral articulație cu slight overlap
-    - proces coracoid, pointing anteriorly
-    - mică tuberozitate humerală (trohin) în profile și orientat anteriorly
-    - articulații acromioclaviculare, acromion, și acromial end de Claviculă projected through cap humeral
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația scapulohumerală cu ușoară suprapunere
+    - Procesul coracoid, orientat anterior
+    - Mica tuberozitate humerală (trohinul) în profil și orientată anterior
+    - Articulația acromioclaviculară, acromionul și extremitatea acromială a claviculei proiectate prin capul humeral
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -246,6 +266,7 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -317,68 +338,3 @@ title: Rx Umăr Joint — Inferosuperior Axial Incidență — Metoda Lawrence 4
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 391–396](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-inferosuperior axial imagine de proximal humerus, scapulohumeral articulație, lateral portion de proces coracoid, și AC articulation. insertion site de subscapular tendon pe mică tuberozitate humerală (trohin) de humerus și point de insertion de teres minor tendon pe greater
-tubercle de humerus sunt also vizualizat. Hill-Sachs compression suspiciune de fractură pe posterolateral cap humeral poate fie seen using Rafert
-modification (Figs. 6.29 și 6.30).
-
-### collimation
-
-• Adjust câmp de iradiere la 12 inches (30 cm) în width pe collimator și la 1 inch (2.5 cm) above anterior shadow de umăr.
-Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-Lawrence method
-• Horizontally through axilla la region de AC articulation. grade de medial angulation de raza centrală depends pe grade
-de abduction de braț. grade de medial angulation este often între 15 grade și 30 grade. greater abduction, greater angle.
-Rafert modification
-• orizontal și înclinat approximately 15 grade medially, entering axilla și passing through articulații acromioclaviculare.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Scapulohumeral articulație cu slight overlap
-• proces coracoid, pointing anteriorly
-• mică tuberozitate humerală (trohin) în profile și orientat anteriorly
-• articulații acromioclaviculare, acromion, și acromial end de clavicle projected through cap humeral
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-Lawrence method
-• ca much ca possible, abduct braț de afected side în unghi drept față de axa longitudinală de corp. minimum de 20 grade este
-required la prevent superimposition de braț pe umăr.
-• Keep humerus în extern ro̍ ation, then se ajustează forearm și mână în comfortable poziție, grasping vertical support sau
-extins pe săculeți cu nisip sau firm pillow. Support poate fie necessary under forearm și mână. Provide pacientul cu extension
-board pentru braț.
-• Se instruiește pacientul să turn capul away de la side being examined astfel încât receptorul de imagine poate fie plasat pe / sprijinit de neck.
-• Place receptorul de imagine pe edge pe / sprijinit de umăr și ca close ca possible la gâtul.
-• Support receptorul de imagine în poziție cu săculeți cu nisip sau use vertical receptorul de imagine holder (Fig. 6.27).
-Rafert modification
-• anterior luxație articulară de cap humeral poate result în wedge-shaped compression suspiciune de fractură de articular surface de humeral
-cap, called Hill-Sachs defec̍. 6 suspiciune de fractură este located pe posterolateral cap humeral. exaͨ erated extern ro̍ ation de braț
-poate fie required la see defect.
-• cu pacientul în poziție exactly ca pentru Lawrence method, externally se rotește extins braț until mână forms a 45-grade
-oblic angle. policele este pointing downward (Fig. 6.28).
-• Assist pacientul în rotating braț la avoid overstressing umăr articulație.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• cu pacientul în decubit dorsal, elevate capul, umeri, și cot approximately 3 inches (7.6 cm) pe radiolucent sponge.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) grilă transversal, plasat în vertical orientation în contact cu superior surface de umăr.
-

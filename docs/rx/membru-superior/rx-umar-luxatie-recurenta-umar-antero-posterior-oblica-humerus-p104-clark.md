@@ -1,18 +1,21 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made pe arrested respirație
+breathing: Expunerea se efectuează în apnee.
 category: membru-superior
-centering: '• raza centrală orizontală centrală este orientat la capul de Humerus
-  și centre de caseta.
+centering: '• raza centrală orizontală este orientată spre capul humerusului și centrul
+  casetei.
 
-  • expunere este made pe arrested respirație.'
+  • expunerea se efectuează în apnee.'
 clinical_indications:
-- 89 3 Luxație Recurentă Umăr Antero-posterior (AP) (Oblică Humerus)
+- 89 3 Luxație recurentă a umărului — anteroposterioară (AP) — incidență oblică a
+  humerusului
 images:
-- caption: Normal Antero-posterior (AP) Oblică radiografie de Humerus pentru recurrent
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie normală anteroposterioară (AP) oblică a humerusului pentru
+    luxație recurentă
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark/fig_1.jpeg
-- caption: Antero-posterior (AP) Oblică radiografie de cap de Humerus evidențiind
+- caption: Radiografie anteroposterioară (AP) oblică a capului humerusului evidențiind
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark/fig_2.jpeg
@@ -20,23 +23,30 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'la improve imagine quality și reduce radiation dose, careful collimation de
-  fascicul este employed.
+notes: 'pentru a îmbunătăți calitatea imaginii și a reduce doza de radiații, se utilizează
+  colimarea atentă a fasciculului.
 
-  Normal Antero-posterior (AP) Oblică radiografie de Humerus pentru Luxație Recurentă
-  Umăr Antero-posterior (AP) Oblică radiografie de cap de Humerus evidențiind Hill-Sach’s
-  deformity de Luxație Recurentă Umăr'
-position: '• pacientul este poziționat Ortostatism, cu unaffected Umăr raised approximately
-  30 grade la bring cavitate glenoidă la drept-angles la centre de caseta.
+  Radiografie normală anteroposterioară (AP) oblică a humerusului pentru luxație recurentă
+  a umărului. Radiografie anteroposterioară (AP) oblică a capului humerusului evidențiind
+  deformarea Hill-Sachs în luxația recurentă a umărului'
+position: '• pacientul este poziționat în ortostatism, cu umărul neafectat ridicat
+  aproximativ 30 grade pentru a aduce cavitatea glenoidă în unghi drept față de centrul
+  casetei.
 
-  • Cot este extins, allowing braț la rest în partial abduction prin pacientul’s side.
+  • Cotul este extins, permițând brațului să se sprijine în abducție parțială pe lângă
+  corpul pacientului.
 
-  • Humerus este now în Oblică poziție midway între that pentru Antero-posterior (AP)
-  incidență și that pentru Profil (lateral) incidență.
+  • Humerusul este acum în poziție oblică, la jumătatea distanței dintre poziția pentru
+  incidența anteroposterioară (AP) și cea pentru incidența de profil.
 
-  • caseta este plasat cu its upper margine 5 cm above Umăr și centred la articulație.'
+  • Caseta este plasată cu marginea superioară la 5 cm deasupra umărului și centrată
+  pe articulație.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -45,8 +55,8 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază capul și neck de Humerus și cavitate glenoidă, cu
-  glenohumeral articulație vizualizat clearly.
+- Imaginea trebuie să evidențieze capul și colul humerusului și cavitatea glenoidă,
+  cu articulația glenohumerală vizualizată clar.
 sid_dff: 100 cm
 slug: rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark
 sources:
@@ -55,14 +65,15 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (Oblică Humerus)
+  mas: Conform AEC / grosimii anatomice
+title: Rx umăr — luxație recurentă a umărului, anteroposterioară (AP), incidență oblică
+  a humerusului
 ---
-# Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (Oblică Humerus)
+# Rx umăr — luxație recurentă a umărului, anteroposterioară (AP), incidență oblică a humerusului
 
 
 <div class="rx-meta-bar">
@@ -81,28 +92,31 @@ title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (Oblică Humer
 
     === "Indicații Clinice"
 
-        - 89 3 Luxație Recurentă Umăr Antero-posterior (AP) (Oblică Humerus)
+        - 89 3 Luxație recurentă a umărului — anteroposterioară (AP) — incidență oblică a humerusului
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este poziționat Ortostatism, cu unaffected Umăr raised approximately 30 grade la bring cavitate glenoidă la drept-angles la centre de caseta.
-• Cot este extins, allowing braț la rest în partial abduction prin pacientul’s side.
-• Humerus este now în Oblică poziție midway între that pentru Antero-posterior (AP) incidență și that pentru Profil (lateral) incidență.
-• caseta este plasat cu its upper margine 5 cm above Umăr și centred la articulație.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat la capul de Humerus și centre de caseta.
-• expunere este made pe arrested respirație.
+    - **Poziție Pacient:**
+        - pacientul este poziționat în ortostatism, cu umărul neafectat ridicat aproximativ 30 grade pentru a aduce cavitatea glenoidă în unghi drept față de centrul casetei.
+        - Cotul este extins, permițând brațului să se sprijine în abducție parțială pe lângă corpul pacientului.
+        - Humerusul este acum în poziție oblică, la jumătatea distanței dintre poziția pentru incidența anteroposterioară (AP) și cea pentru incidența de profil.
+        - Caseta este plasată cu marginea superioară la 5 cm deasupra umărului și centrată pe articulație.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală orizontală este orientată spre capul humerusului și centrul casetei.
+        - expunerea se efectuează în apnee.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made pe arrested respirație
+    - **Comandă Respiratorie:** Expunerea se efectuează în apnee.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -111,19 +125,19 @@ title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (Oblică Humer
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază capul și neck de Humerus și cavitate glenoidă, cu glenohumeral articulație vizualizat clearly.
+    - Imaginea trebuie să evidențieze capul și colul humerusului și cavitatea glenoidă, cu articulația glenohumerală vizualizată clar.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -135,9 +149,9 @@ title: Rx Umăr - Luxație Recurentă Umăr Antero-Posterior (AP) (Oblică Humer
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la improve imagine quality și reduce radiation dose, careful collimation de fascicul este employed.
-Normal Antero-posterior (AP) Oblică radiografie de Humerus pentru Luxație Recurentă Umăr Antero-posterior (AP) Oblică radiografie de cap de Humerus evidențiind Hill-Sach’s deformity de Luxație Recurentă Umăr
+    pentru a îmbunătăți calitatea imaginii și a reduce doza de radiații, se utilizează colimarea atentă a fasciculului. Radiografie normală anteroposterioară (AP) oblică a humerusului pentru luxație recurentă a umărului. Radiografie anteroposterioară (AP) oblică a capului humerusului evidențiind deformarea Hill-Sachs în luxația recurentă a umărului
 
 
 ### 🖼️ Imagini
@@ -146,17 +160,17 @@ Normal Antero-posterior (AP) Oblică radiografie de Humerus pentru Luxație Recu
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Antero-posterior (AP) Oblică radiografie de Humerus pentru recurrent](../../assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark/fig_1.jpeg)
+![Radiografie normală anteroposterioară (AP) oblică a humerusului pentru luxație recurentă](../../assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Antero-posterior (AP) Oblică radiografie de Humerus pentru recurrent</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală anteroposterioară (AP) oblică a humerusului pentru luxație recurentă</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Oblică radiografie de cap de Humerus evidențiind](../../assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark/fig_2.jpeg)
+![Radiografie anteroposterioară (AP) oblică a capului humerusului evidențiind](../../assets/images/protocols/clark/rx-umar-luxatie-recurenta-umar-antero-posterior-oblica-humerus-p104-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Oblică radiografie de cap de Humerus evidențiind</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) oblică a capului humerusului evidențiind</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

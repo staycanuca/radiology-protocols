@@ -163,6 +163,17 @@ def run_build() -> int:
     return res.returncode
 
 
+def run_deploy_cf() -> int:
+    """Execută deploy pe Cloudflare Pages prin deploy_cloudflare.py."""
+    deploy_script = REPO_ROOT / "deploy_cloudflare.py"
+    if not deploy_script.exists():
+        print(f"{Colors.RED}[✕] Scriptul deploy_cloudflare.py nu a fost găsit în rădăcina proiectului!{Colors.RESET}")
+        return 1
+    cmd = [sys.executable, str(deploy_script)]
+    res = subprocess.run(cmd, cwd=str(REPO_ROOT))
+    return res.returncode
+
+
 # ---------------------------------------------------------------------------
 # Managementul serverelor (Docs & Admin)
 # ---------------------------------------------------------------------------
@@ -274,11 +285,12 @@ def interactive_menu():
         print(f"  {Colors.CYAN}4.{Colors.RESET} Actualizare & Re-generare Indici (Comparison, Sitemap, Forms)")
         print(f"  {Colors.CYAN}5.{Colors.RESET} Rulare Teste Automate (pytest)")
         print(f"  {Colors.CYAN}6.{Colors.RESET} Construire Site Static de Producție (mkdocs build)")
+        print(f"  {Colors.CYAN}7.{Colors.RESET} Deploy pe Cloudflare Pages (proiect: protocoale)")
         print(f"  {Colors.DIM}0. Ieșire{Colors.RESET}")
         print()
 
         try:
-            choice = input(f"{Colors.BOLD}Selectați o opțiune [0-6]: {Colors.RESET}").strip()
+            choice = input(f"{Colors.BOLD}Selectați o opțiune [0-7]: {Colors.RESET}").strip()
         except (KeyboardInterrupt, EOFError):
             print("\nLa revedere!")
             break
@@ -301,11 +313,14 @@ def interactive_menu():
         elif choice == "6":
             run_build()
             input(f"\n{Colors.DIM}Apăsați Enter pentru a reveni la meniu...{Colors.RESET}")
+        elif choice == "7":
+            run_deploy_cf()
+            input(f"\n{Colors.DIM}Apăsați Enter pentru a reveni la meniu...{Colors.RESET}")
         elif choice in ("0", "q", "exit", "quit"):
             print("La revedere!")
             break
         else:
-            print(f"{Colors.RED}Opțiune invalidă. Alegeți un număr între 0 și 6.{Colors.RESET}")
+            print(f"{Colors.RED}Opțiune invalidă. Alegeți un număr între 0 și 7.{Colors.RESET}")
             time.sleep(1)
 
 
@@ -324,6 +339,7 @@ def main():
     parser.add_argument("--index", "-i", action="store_true", help="Re-generează toți indecșii")
     parser.add_argument("--test", "-t", action="store_true", help="Rulează suita de teste (pytest)")
     parser.add_argument("--build", "-b", action="store_true", help="Construiește site-ul static (mkdocs build)")
+    parser.add_argument("--deploy-cf", action="store_true", help="Deploy pe Cloudflare Pages (proiect: protocoale)")
     parser.add_argument("--no-browser", action="store_true", help="Nu deschide automat browserul")
 
     args = parser.parse_args()
@@ -347,6 +363,8 @@ def main():
         sys.exit(run_tests())
     elif args.build:
         sys.exit(run_build())
+    elif args.deploy_cf:
+        sys.exit(run_deploy_cf())
     else:
         # Fără argumente -> meniu interactiv
         interactive_menu()

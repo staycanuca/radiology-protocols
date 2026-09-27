@@ -57,6 +57,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-aorta-postero-anterior-p231-clark/fig_5.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• În mod normal, se utilizează un marker postero-anterior (PA) pentru a identifica
@@ -147,21 +151,24 @@ title: Rx cord, siluetă cardiovasculară și aortă postero-anterior (PA)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este poziționat în ortostatism, cu fața spre casetă și bărbia în extensie, sprijinită pe marginea superioară a casetei.
-• Planul mediosagital este ajustat perpendicular pe mijlocul casetei, cu brațele pacientului cuprinzând caseta. Alternativ, fețele dorsale ale mâinilor sunt plasate posterior și inferior de șolduri, pentru a permite rotirea umerilor înainte și apăsarea lor în jos, în contact cu caseta.
-• Toracele trebuie poziționat simetric față de filmul radiologic.
-    - **Punct de Centrare Fascicul:** • Fasciculul central orizontal este orientat perpendicular pe casetă, la nivelul celei de-a opta vertebre toracale (adică apofiza spinoasă a T7).
-• Reperele de suprafață ale apofizei spinoase T7 pot fi evaluate folosind unghiul inferior al omoplatului (scapulei), înainte de deplasarea umerilor înainte.
-• Expunerea se efectuează în apnee după un inspir profund complet.
+    - **Poziție Pacient:**
+        - Pacientul este poziționat în ortostatism, cu fața spre casetă și bărbia în extensie, sprijinită pe marginea superioară a casetei.
+        - Planul mediosagital este ajustat perpendicular pe mijlocul casetei, cu brațele pacientului cuprinzând caseta. Alternativ, fețele dorsale ale mâinilor sunt plasate posterior și inferior de șolduri, pentru a permite rotirea umerilor înainte și apăsarea lor în jos, în contact cu caseta.
+        - Toracele trebuie poziționat simetric față de filmul radiologic.
+    - **Punct de Centrare Fascicul:**
+        - Fasciculul central orizontal este orientat perpendicular pe casetă, la nivelul celei de-a opta vertebre toracale (adică apofiza spinoasă a T7).
+        - Reperele de suprafață ale apofizei spinoase T7 pot fi evaluate folosind unghiul inferior al omoplatului (scapulei), înainte de deplasarea umerilor înainte.
+        - Expunerea se efectuează în apnee după un inspir profund complet.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în apnee după un inspir profund complet.
 
@@ -200,13 +207,13 @@ title: Rx cord, siluetă cardiovasculară și aortă postero-anterior (PA)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • În mod normal, se utilizează un marker postero-anterior (PA) pentru a identifica partea dreaptă sau stângă a pacientului. Markerul corect trebuie selectat cu atenție, pentru a evita diagnosticarea eronată a dextrocardiei.
-• Kilovoltajul selectat este ajustat pentru a asigura o penetrare adecvată, cu corpurile vertebrelor toracale abia vizibile prin cord și silueta cardiovasculară (consultați p. 201).
-• În scop comparativ, parametrii de expunere utilizați, inclusiv FFD, trebuie consemnați pentru examinările de urmărire.
-• Este necesară atenție la pacienții postoperatori cu drenaje cu sigiliu sub apă și perfuzii intravenoase. Acestea nu trebuie dislocate, iar durata examinării trebuie menținută la minimum.
-• Recipientele drenajelor cu sigiliu sub apă trebuie menținute permanent sub punctul cel mai decliv al toracelui pacientului, pentru a preveni revenirea conținutului recipientului în torace prin sifonare.
-216 Radiografie postero-anterioară (PA) normală la un pacient cu stimulator cardiac permanent in situ.
+    - În mod normal, se utilizează un marker postero-anterior (PA) pentru a identifica partea dreaptă sau stângă a pacientului. Markerul corect trebuie selectat cu atenție, pentru a evita diagnosticarea eronată a dextrocardiei.
+    - Kilovoltajul selectat este ajustat pentru a asigura o penetrare adecvată, cu corpurile vertebrelor toracale abia vizibile prin cord și silueta cardiovasculară (consultați p. 201).
+    - În scop comparativ, parametrii de expunere utilizați, inclusiv FFD, trebuie consemnați pentru examinările de urmărire.
+    - Este necesară atenție la pacienții postoperatori cu drenaje cu sigiliu sub apă și perfuzii intravenoase. Acestea nu trebuie dislocate, iar durata examinării trebuie menținută la minimum.
+    - Recipientele drenajelor cu sigiliu sub apă trebuie menținute permanent sub punctul cel mai decliv al toracelui pacientului, pentru a preveni revenirea conținutului recipientului în torace prin sifonare. 216 Radiografie postero-anterioară (PA) normală la un pacient cu stimulator cardiac permanent in situ.
 
 
 ### 🖼️ Imagini

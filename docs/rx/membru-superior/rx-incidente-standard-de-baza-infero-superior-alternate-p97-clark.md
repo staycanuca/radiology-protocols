@@ -3,20 +3,22 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală orizontală centrală este orientat spre axilla cu minimum
-  angulation spre trunk.
+centering: '• Raza centrală orizontală este orientată spre axilă, cu angulație minimă
+  spre trunchi.
 
-  • FFD will probably need la fie increased, since tubul cap will have la fie poziționat
-  below end de trolley.'
+  • DFF va trebui probabil mărită, deoarece capul tubului va trebui poziționat sub
+  capătul tărgii mobile.'
 clinical_indications:
-- Evaluare radiografică regiunii Incidențe Standard de Bază (Infero - superior (alternate)).
+- 'Evaluarea radiografică a regiunii: incidențe standard de bază (inferosuperioară
+  (alternativă)).'
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Normal Infero-Superioară (Axială) radiografie de Umăr
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie normală inferosuperioară (axială) a umărului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark/fig_1.jpeg
-- caption: Axială radiografie de Umăr evidențiind posterior luxație articulară
+- caption: Radiografie axială a umărului evidențiind luxație posterioară
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark/fig_2.jpeg
@@ -24,24 +26,28 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'most common type de luxație articulară de Umăr este anterior luxație articulară,
-  where capul de Humerus displaces below Proces Coracoid, anterior la cavitate glenoidă.
-  Much rarer este posterior luxație articulară. în some instances, although Antero-posterior
-  (AP) incidență shows little sau fără evidence de posterior luxație articulară, it
-  poate always fie evidențiat în inferosuperior sau Supero-Inferioară incidență de
-  Umăr.
+notes: 'Cel mai frecvent tip de luxație articulară a umărului este luxația anterioară,
+  în care capul humerusului se deplasează sub procesul coracoid, anterior față de
+  cavitatea glenoidă. Mult mai rară este luxația posterioară. În unele cazuri, deși
+  incidența anteroposterioară (AP) evidențiază puține sau nicio dovadă de luxație
+  posterioară, aceasta poate fi întotdeauna evidențiată pe incidența inferosuperioară
+  sau superoinferioară a umărului.
 
-  82 Normal Infero-Superioară (Axială) radiografie de Umăr Axială radiografie de Umăr
-  evidențiind posterior luxație articulară'
-position: '• pacientul este culcat Decubit dorsal, cu braț de partea afectată slightly
-  în abducție și în supinație fără causing discomfort la pacientul.
+  82 Radiografie axială normală inferosuperioară (axială) a umărului. Radiografie
+  axială a umărului evidențiind luxație posterioară'
+position: '• Pacientul este culcat în decubit dorsal, cu brațul de partea afectată
+  ușor în abducție și supinație, fără a provoca disconfort pacientului.
 
-  • affected Umăr și braț sunt raised pe non-opaque pads.
+  • Umărul și brațul afectate sunt ridicate pe suporturi radiotransparente.
 
-  • casetă este sprijinit vertically pe / sprijinit de Umăr și este pressed pe / sprijinit
-  de neck la include ca much ca possible de Omoplat (Scapulă) pe film radiologic.'
+  • Caseta este sprijinită vertical pe umăr și este fixată de gât pentru a include
+  cât mai mult posibil din scapulă pe filmul radiologic.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -50,10 +56,11 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază capul de Humerus, acromion, Proces Coracoid și cavitate
-  glenoidă de Omoplat (Scapulă).
-- mică tuberozitate humerală (trohin) will fie în profile, și acromion și superior
-  aspect de glenoid will fie seen superimposed pe capul de Humerus.
+- Imaginea trebuie să evidențieze capul humerusului, acromionul, procesul coracoid
+  și cavitatea glenoidă a scapulei.
+- Mica tuberozitate humerală (trohinul) trebuie să fie în profil, iar acromionul și
+  aspectul superior al glenoidei trebuie să fie vizualizate suprapuse peste capul
+  humerusului.
 sid_dff: 100 cm
 slug: rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark
 sources:
@@ -62,14 +69,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Incidențe Standard de Bază Infero - superior (alternate)
+  mas: Conform AEC / grosimii anatomice
+title: Rx incidențe standard de bază inferosuperioară (alternativă)
 ---
-# Rx Incidențe Standard de Bază Infero - superior (alternate)
+# Rx incidențe standard de bază inferosuperioară (alternativă)
 
 
 <div class="rx-meta-bar">
@@ -88,27 +95,30 @@ title: Rx Incidențe Standard de Bază Infero - superior (alternate)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Incidențe Standard de Bază (Infero - superior (alternate)).
+        - Evaluarea radiografică a regiunii: incidențe standard de bază (inferosuperioară (alternativă)).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal, cu braț de partea afectată slightly în abducție și în supinație fără causing discomfort la pacientul.
-• affected Umăr și braț sunt raised pe non-opaque pads.
-• casetă este sprijinit vertically pe / sprijinit de Umăr și este pressed pe / sprijinit de neck la include ca much ca possible de Omoplat (Scapulă) pe film radiologic.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat spre axilla cu minimum angulation spre trunk.
-• FFD will probably need la fie increased, since tubul cap will have la fie poziționat below end de trolley.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal, cu brațul de partea afectată ușor în abducție și supinație, fără a provoca disconfort pacientului.
+        - Umărul și brațul afectate sunt ridicate pe suporturi radiotransparente.
+        - Caseta este sprijinită vertical pe umăr și este fixată de gât pentru a include cât mai mult posibil din scapulă pe filmul radiologic.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală orizontală este orientată spre axilă, cu angulație minimă spre trunchi.
+        - DFF va trebui probabil mărită, deoarece capul tubului va trebui poziționat sub capătul tărgii mobile.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -119,20 +129,20 @@ title: Rx Incidențe Standard de Bază Infero - superior (alternate)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază capul de Humerus, acromion, Proces Coracoid și cavitate glenoidă de Omoplat (Scapulă).
-    - mică tuberozitate humerală (trohin) will fie în profile, și acromion și superior aspect de glenoid will fie seen superimposed pe capul de Humerus.
+    - Imaginea trebuie să evidențieze capul humerusului, acromionul, procesul coracoid și cavitatea glenoidă a scapulei.
+    - Mica tuberozitate humerală (trohinul) trebuie să fie în profil, iar acromionul și aspectul superior al glenoidei trebuie să fie vizualizate suprapuse peste capul humerusului.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -144,9 +154,9 @@ title: Rx Incidențe Standard de Bază Infero - superior (alternate)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    most common type de luxație articulară de Umăr este anterior luxație articulară, where capul de Humerus displaces below Proces Coracoid, anterior la cavitate glenoidă. Much rarer este posterior luxație articulară. în some instances, although Antero-posterior (AP) incidență shows little sau fără evidence de posterior luxație articulară, it poate always fie evidențiat în inferosuperior sau Supero-Inferioară incidență de Umăr.
-82 Normal Infero-Superioară (Axială) radiografie de Umăr Axială radiografie de Umăr evidențiind posterior luxație articulară
+    Cel mai frecvent tip de luxație articulară a umărului este luxația anterioară, în care capul humerusului se deplasează sub procesul coracoid, anterior față de cavitatea glenoidă. Mult mai rară este luxația posterioară. În unele cazuri, deși incidența anteroposterioară (AP) evidențiază puține sau nicio dovadă de luxație posterioară, aceasta poate fi întotdeauna evidențiată pe incidența inferosuperioară sau superoinferioară a umărului. 82 Radiografie axială normală inferosuperioară (axială) a umărului. Radiografie axială a umărului evidențiind luxație posterioară
 
 
 ### 🖼️ Imagini
@@ -155,17 +165,17 @@ title: Rx Incidențe Standard de Bază Infero - superior (alternate)
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Infero-Superioară (Axială) radiografie de Umăr](../../assets/images/protocols/clark/rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark/fig_1.jpeg)
+![Radiografie normală inferosuperioară (axială) a umărului](../../assets/images/protocols/clark/rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Infero-Superioară (Axială) radiografie de Umăr</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală inferosuperioară (axială) a umărului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Axială radiografie de Umăr evidențiind posterior luxație articulară](../../assets/images/protocols/clark/rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark/fig_2.jpeg)
+![Radiografie axială a umărului evidențiind luxație posterioară](../../assets/images/protocols/clark/rx-incidente-standard-de-baza-infero-superior-alternate-p97-clark/fig_2.jpeg)
 
-<figcaption><strong>Axială radiografie de Umăr evidențiind posterior luxație articulară</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie axială a umărului evidențiind luxație posterioară</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

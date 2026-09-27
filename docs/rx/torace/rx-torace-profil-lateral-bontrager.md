@@ -1,40 +1,46 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee în inspir profund complet (după doua inspirație).
+breathing: Apnee în inspir profund complet (după a doua inspirație).
 category: torace
-centering: perpendicular, orientat la midthorax la level de T7 (3 la 4 inches [7.5
-  la 10 cm] below level de incizura jugulară (manubriul sternal))
+centering: Perpendicular, orientat la mediotorace la nivelul T7 (3 la 4 țoli [7.5
+  la 10 cm] sub nivelul incizurii jugulare (manubriul sternal))
 clinical_indications:
-- A 90degree perspective de la Incidență Postero-Anterioară (PA) poate evidențiază
-  pathology situated posterior la cordul, great vessels, și Stern.
+- O perspectivă la 90 de grade de la incidența postero-anterioară (PA) poate evidenția
+  patologia situată posterior de cord, vasele mari și stern.
 images:
-- caption: Fig. 2.58 stâng lateral Torace poziție.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.58 stâng lateral
-    chest poziție.)
+- caption: Fig. 2.58 Poziție toracică de profil stâng.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.58 poziție
+    toracică de profil stâng.)
   url: assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_1.jpeg
-- caption: Fig. 2.59 stâng lateral Torace.
+- caption: Fig. 2.59 Torace de profil stâng.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.59
-    stâng lateral chest.)
+    torace de profil stâng.)
   url: assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_2.jpeg
-- caption: Fig. 2.60 lateral Torace.
+- caption: Fig. 2.60 Torace de profil.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.60
-    lateral chest.)
+    torace de profil.)
   url: assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: la determine direction de rotație și critique radiografii. expunere fără mișcare,
-  ca evidenced prin net outlines de cupole diafragmatice și lung markings. optim receptorul
-  de imagine expunere cu sufficient expunere și longscale contrast pentru visualization
-  de rib outlines și lung markings through cordul shadow și upper lung areas fără
-  overexposing other regions de plămânii.
-position: 'Pacient: pacient Ortostatism, stâng side against receptorul de imagine
-  unless pacient complaint involves drept side (în that case, do drept lateral if
-  departmental protocol includes this option) Weight evenly distributed pe ambele
-  picioare brațe raised above cap, chin up; Regiune anatomică: Center pacient la raza
-  centrală și la receptorul de imagine anteriorly și posteriorly (Fig. 2.58). poziție
-  în true Incidență de Profil (lateral) (plan coronal este perpendicular și plan sagital
-  este paralel cu receptorul de imagine; see NOTE 1). Lower raza centrală și receptorul
-  de imagine slightly de la PA if needed (see NOTE 2).'
+notes: pentru a determina direcția rotației și a evalua critic radiografiile. Expunere
+  fără mișcare, evidențiată prin contururi clare ale cupolelor diafragmatice și marcajelor
+  pulmonare. Expunere optimă a receptorului de imagine, cu expunere suficientă și
+  contrast pe scară lungă pentru vizualizarea contururilor costale și a marcajelor
+  pulmonare prin umbra cordului și ariile pulmonare superioare fără supraexpunerea
+  altor regiuni ale plămânilor.
+position: 'Pacient: în ortostatism, cu partea stângă lipită de receptorul de imagine,
+  cu excepția cazului în care acuzele pacientului implică partea dreaptă (în acest
+  caz, se efectuează profilul drept dacă protocolul departamentului include această
+  opțiune). Greutatea este distribuită uniform pe ambele picioare, brațele sunt ridicate
+  deasupra capului, bărbia sus; regiune anatomică: se centrează pacientul, în sens
+  antero-posterior, pe raza centrală și pe receptorul de imagine (Fig. 2.58). Poziție
+  în incidență de profil adevărat (planul coronal este perpendicular, iar planul sagital
+  este paralel cu receptorul de imagine; vezi NOTA 1). Se coboară raza centrală și
+  receptorul de imagine ușor față de PA dacă este necesar (vezi NOTA 2).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -42,33 +48,34 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Included sunt entire plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
-  și de la Stern anteriorly la posterior Coaste (Grilaj Costal) și thorax posteriorly
-  (Figs. 2.59 și 2.60). poziție
-- Chin și brațe ridicat sufficiently la prevent excessive soft tissues de la superimposing
-  apexuri (vârfuri pulmonare).
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  posterior Coaste (Grilaj Costal) și sinusuri costodiafragmatice pe side away de
-  la receptorul de imagine projected slightly (¼ la ½ inch [sau about 1 cm] posterior
-  because de divergent rays).'
-- hilar region trebuie să fie în approximate center de receptorul de imagine.
+- Sunt incluși plămânii în întregime, de la apexuri (vârfuri pulmonare) la sinusurile
+  costodiafragmatice și de la stern anterior până la coastele posterioare (grilajul
+  costal) și toracele posterior (Fig. 2.59 și 2.60). Poziție
+- Bărbia și brațele ridicate suficient pentru a preveni suprapunerea excesului de
+  țesuturi moi peste apexuri (vârfurile pulmonare).
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase;
+  coastele posterioare (grilajul costal) și sinusurile costodiafragmatice de pe partea
+  îndepărtată de receptorul de imagine sunt proiectate ușor posterior (¼ la ½ țol
+  [sau aproximativ 1 cm] posterior din cauza razelor divergente).'
+- Regiunea hilară trebuie să fie în centrul aproximativ al receptorului de imagine.
 sid_dff: 180 cm
 slug: rx-torace-profil-lateral-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 104
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
-    light field la level de vertebra proeminentă (apofiza spinoasă C7)).
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la zona câmpurilor pulmonare (marginea
+    superioară a câmpului luminos la nivelul vertebrei proeminente, apofiza spinoasă
+    C7).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Torace Profil (Lateral)
+title: Radiografie toracică de profil (lateral)
 ---
-# Rx Torace Profil (Lateral)
+# Radiografie toracică de profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -87,24 +94,25 @@ title: Rx Torace Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - A 90degree perspective de la Incidență Postero-Anterioară (PA) poate evidențiază pathology situated posterior la cordul, great vessels, și Stern.
+        - O perspectivă la 90 de grade de la incidența postero-anterioară (PA) poate evidenția patologia situată posterior de cord, vasele mari și stern.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient Ortostatism, stâng side against receptorul de imagine unless pacient complaint involves drept side (în that case, do drept lateral if departmental protocol includes this option) Weight evenly distributed pe ambele picioare brațe raised above cap, chin up; Regiune anatomică: Center pacient la raza centrală și la receptorul de imagine anteriorly și posteriorly (Fig. 2.58). poziție în true Incidență de Profil (lateral) (plan coronal este perpendicular și plan sagital este paralel cu receptorul de imagine; see NOTE 1). Lower raza centrală și receptorul de imagine slightly de la PA if needed (see NOTE 2).
-    - **Punct de Centrare Fascicul:** perpendicular, orientat la midthorax la level de T7 (3 la 4 inches [7.5 la 10 cm] below level de incizura jugulară (manubriul sternal))
+    - **Poziție Pacient:** Pacient: în ortostatism, cu partea stângă lipită de receptorul de imagine, cu excepția cazului în care acuzele pacientului implică partea dreaptă (în acest caz, se efectuează profilul drept dacă protocolul departamentului include această opțiune). Greutatea este distribuită uniform pe ambele picioare, brațele sunt ridicate deasupra capului, bărbia sus; regiune anatomică: se centrează pacientul, în sens antero-posterior, pe raza centrală și pe receptorul de imagine (Fig. 2.58). Poziție în incidență de profil adevărat (planul coronal este perpendicular, iar planul sagital este paralel cu receptorul de imagine; vezi NOTA 1). Se coboară raza centrală și receptorul de imagine ușor față de PA dacă este necesar (vezi NOTA 2).
+    - **Punct de Centrare Fascicul:** Perpendicular, orientat la mediotorace la nivelul T7 (3 la 4 țoli [7.5 la 10 cm] sub nivelul incizurii jugulare (manubriul sternal))
     - **Distanță Focar-Film (DFF / SID):** 180 cm
-    - **Comandă Respiratorie:** Apnee în inspir profund complet (după doua inspirație).
+    - **Comandă Respiratorie:** Apnee în inspir profund complet (după a doua inspirație).
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -117,18 +125,18 @@ title: Rx Torace Profil (Lateral)
     | **Distanță Focar-Film (DFF / SID)** | 180 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de light field la level de vertebra proeminentă (apofiza spinoasă C7)). |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la zona câmpurilor pulmonare (marginea superioară a câmpului luminos la nivelul vertebrei proeminente, apofiza spinoasă C7). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Included sunt entire plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice și de la Stern anteriorly la posterior Coaste (Grilaj Costal) și thorax posteriorly (Figs. 2.59 și 2.60). poziție
-    - Chin și brațe ridicat sufficiently la prevent excessive soft tissues de la superimposing apexuri (vârfuri pulmonare).
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: posterior Coaste (Grilaj Costal) și sinusuri costodiafragmatice pe side away de la receptorul de imagine projected slightly (¼ la ½ inch [sau about 1 cm] posterior because de divergent rays).
-    - hilar region trebuie să fie în approximate center de receptorul de imagine.
+    - Sunt incluși plămânii în întregime, de la apexuri (vârfuri pulmonare) la sinusurile costodiafragmatice și de la stern anterior până la coastele posterioare (grilajul costal) și toracele posterior (Fig. 2.59 și 2.60). Poziție
+    - Bărbia și brațele ridicate suficient pentru a preveni suprapunerea excesului de țesuturi moi peste apexuri (vârfurile pulmonare).
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase; coastele posterioare (grilajul costal) și sinusurile costodiafragmatice de pe partea îndepărtată de receptorul de imagine sunt proiectate ușor posterior (¼ la ½ țol [sau aproximativ 1 cm] posterior din cauza razelor divergente).
+    - Regiunea hilară trebuie să fie în centrul aproximativ al receptorului de imagine.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -140,8 +148,9 @@ title: Rx Torace Profil (Lateral)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la determine direction de rotație și critique radiografii. expunere fără mișcare, ca evidenced prin net outlines de cupole diafragmatice și lung markings. optim receptorul de imagine expunere cu sufficient expunere și longscale contrast pentru visualization de rib outlines și lung markings through cordul shadow și upper lung areas fără overexposing other regions de plămânii.
+    pentru a determina direcția rotației și a evalua critic radiografiile. Expunere fără mișcare, evidențiată prin contururi clare ale cupolelor diafragmatice și marcajelor pulmonare. Expunere optimă a receptorului de imagine, cu expunere suficientă și contrast pe scară lungă pentru vizualizarea contururilor costale și a marcajelor pulmonare prin umbra cordului și ariile pulmonare superioare fără supraexpunerea altor regiuni ale plămânilor.
 
 
 ### 🖼️ Imagini
@@ -150,25 +159,25 @@ title: Rx Torace Profil (Lateral)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.58 stâng lateral Torace poziție.](../../assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_1.jpeg)
+![Fig. 2.58 Poziție toracică de profil stâng.](../../assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.58 stâng lateral Torace poziție.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.58 stâng lateral chest poziție.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 2.59 stâng lateral Torace.](../../assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 2.59 stâng lateral Torace.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.59 stâng lateral chest.)</span></figcaption>
+<figcaption><strong>Fig. 2.58 Poziție toracică de profil stâng.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.58 poziție toracică de profil stâng.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 2.60 lateral Torace.](../../assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_3.jpeg)
+![Fig. 2.59 Torace de profil stâng.](../../assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.60 lateral Torace.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.60 lateral chest.)</span></figcaption>
+<figcaption><strong>Fig. 2.59 Torace de profil stâng.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.59 torace de profil stâng.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 2.60 Torace de profil.](../../assets/images/protocols/bontrager/rx-torace-profil-lateral-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 2.60 Torace de profil.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.60 torace de profil.)</span></figcaption>
 
 </figure>
 

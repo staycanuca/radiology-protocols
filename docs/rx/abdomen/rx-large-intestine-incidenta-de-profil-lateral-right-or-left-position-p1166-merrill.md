@@ -16,6 +16,10 @@ images:
 - caption: Merrill — pagina 1168, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-de-profil-lateral-right-or-left-position-p1166-merrill/p1168_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -118,11 +122,12 @@ title: Rx intestin gros — Incidență de profil (laterală) — Profil (Drept 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -166,6 +171,7 @@ title: Rx intestin gros — Incidență de profil (laterală) — Profil (Drept 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -213,49 +219,3 @@ title: Rx intestin gros — Incidență de profil (laterală) — Profil (Drept 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1166–1168](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Rectul și porțiunea distală a colonului sigmoid (Fig. 15.122 și 15.123).
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm). Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• Perpendiculară pe receptorul de imagine (RI), pentru a pătrunde în planul mediocoronal la nivelul spinei iliace antero-superioare (SIAS).
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
-• Regiunea rectosigmoidiană în centrul imaginii
-• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă)
-• Șoldurile și femururile suprapuse
-• Porțiunea superioară a intestinului gros (colon) nu este inclusă când regiunea rectosigmoidiană este aria de interes diagnostic
-• Penetrarea substanței de contrast
-
-### part_pos
-
-• Se centrează planul mediocoronal la centrul grilei.
-• Se flectează ușor genunchii pacientului pentru stabilitate și se plasează un suport între genunchi pentru a menține bazinul în profil.
-• Se ajustează umerii și șoldurile pacientului astfel încât să fie perpendiculare (Fig. 15.121).
-• Se ajustează centrul receptorului de imagine la nivelul spinei iliace antero-superioare (SIAS).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se așază pacientul în decubit lateral stâng sau drept.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

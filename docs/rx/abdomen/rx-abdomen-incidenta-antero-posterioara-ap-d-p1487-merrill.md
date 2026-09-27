@@ -16,6 +16,10 @@ images:
 - caption: Merrill — pagina 1490, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill/p1490_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: La pacienții hiperstenici pot fi necesare două incidențe separate, utilizând
@@ -151,11 +155,12 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -203,6 +208,7 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     La pacienții hiperstenici pot fi necesare două incidențe separate, utilizând grila orientată transversal. O grilă este poziționată pentru etajul abdominal superior, iar cealaltă pentru etajul abdominal inferior.
 
@@ -249,61 +255,3 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) d (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 20. Mobile Radiography, pagini 1487–1490](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Această incidență evidențiază marginea inferioară a ficatului, splina, rinichii și mușchii psoas, calcificările și semnele de mase tumorale. Dacă imaginea include etajul abdominal superior și cupolele diafragmatice, pot fi vizualizate dimensiunile și forma ficatului (Fig. 20.15).
-
-### colimare
-
-• Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
-
-### raza centrală
-
-• Perpendicular pe centrul grilei, în planul mediosagital și la nivelul crestelor iliace sau al coastei a 10-a, lateral.
-
-### criterii
-
-Următoarele trebuie să fie clar vizualizate:
-• Dovada unei colimări corecte
-• fără mișcare
-• Contururile viscerelor abdominale
-• Regiunea abdominală, inclusiv simfiza pubiană sau cupolele diafragmatice (ambele pot fi vizualizate la unii pacienți)
-• Coloana vertebrală în centrul imaginii
-• Mușchii psoas, marginea inferioară a ficatului și contururile rinichilor
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Aspect simetric al coloanei vertebrale și al aripilor iliace
-• Markeri radiografici (după caz)
-
-### note
-
-La pacienții hiperstenici pot fi necesare două incidențe separate, utilizând grila orientată transversal. O grilă este poziționată pentru etajul abdominal superior, iar
-cealaltă pentru etajul abdominal inferior.
-
-### part_pos
-
-• Se poziționează grila sub pacient pentru a vizualiza anatomia abdominală de la simfiza pubiană până la regiunea abdominală superioară.
-• Se previne înclinarea laterală a grilei prin plasarea acesteia în centrul patului și, dacă este necesar, se stabilizează cu pături sau prosoape.
-• Se folosește cearșaful de mobilizare al pacientului pentru a-l întoarce; acesta facilitează deplasarea pacientului dintr-o parte în alta în timpul poziționării receptorului de imagine
-și asigură o barieră între pielea pacientului și grilă.
-• Se centrează planul mediosagital al pacientului pe linia mediană a grilei antidifuzoare.
-• Se centrează grila la nivelul crestelor iliace. Dacă se urmărește în special etajul abdominal superior, se centrează grila la 2 inchi (5 cm) deasupra crestelor
-iliace sau suficient de sus pentru a include cupolele diafragmatice.
-• Umerii și bazinul pacientului se aliniază în același plan coronal, fără rotație (Fig. 20.14).
-• Se deplasează brațele pacientului în afara regiunii abdominale.
-
-### patient_pos
-
-• Dacă este necesar, se reglează patul pacientului pentru a-l aduce în poziție orizontală.
-• Se așază pacientul în decubit dorsal.
-
-### respirație
-
-Expir.
-
-### tehnică
-
-Receptorul de imagine trebuie să aibă dimensiunile de 14 × 17 inchi (35 × 43 cm), cu grila orientată longitudinal.
-

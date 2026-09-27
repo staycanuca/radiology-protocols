@@ -4,7 +4,14 @@
 
 Protocol Manager is an open-source static site for managing and sharing CT protocol documentation within a radiology department. It is built with MkDocs (Material theme) and hosted on GitHub Pages or any internal web server.
 
-**Live site:** https://dfergs93.github.io/radiology-protocols/
+**Live site:** https://protocoale.co.uk/
+
+**SEO:** configurare, metadate și verificări în [scripts/SEO.md](scripts/SEO.md).
+
+**Proveniență:** casete cu surse, prelucrare și stadiul verificărilor pe fiecare
+protocol. Schema de completare și auditul reproductibil sunt în
+[scripts/PROVENANCE.md](scripts/PROVENANCE.md); explicațiile pentru cititori sunt
+în [Despre proiect](docs/despre-proiect.md).
 
 ---
 

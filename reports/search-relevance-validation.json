@@ -1,0 +1,143 @@
+{
+  "protocols": 2027,
+  "native_entries": 6116,
+  "queries": [
+    {
+      "query": "rx cot clark",
+      "omni": [
+        "Rx Cot antero-posterior (AP)",
+        "Rx Cot antero-posterior (AP) – antebraț (radius și ulnă)",
+        "Rx cot articulația radioulnară proximală – oblică",
+        "Rx Cot Axială - Antebraț (Radius și Ulna) în contact",
+        "Rx Cot în flexie completă"
+      ],
+      "native": [
+        "<mark>Rx</mark> <mark>Cot</mark> Axială - Antebraț (Radius și Ulna) în contact",
+        "<mark>Rx</mark> <mark>Cot</mark> în flexie completă",
+        "<mark>Rx</mark> <mark>Cot</mark> antero-posterior (AP) – antebraț (radius și ulnă)",
+        "<mark>Rx</mark> <mark>Cot</mark> antero-posterior (AP)",
+        "<mark>Rx</mark> <mark>cot</mark> profil (lateral) – cap radial"
+      ],
+      "omni_pass": true,
+      "native_pass": true,
+      "native_first_pass": true
+    },
+    {
+      "query": "RMN genunchi",
+      "omni": [
+        "IRM – Genunchi (MCB)",
+        "IRM Genunchi"
+      ],
+      "native": [
+        "IRM <mark>Genunchi</mark>",
+        "IRM – <mark>Genunchi</mark> (MCB)",
+        "IRM Coloană Lombară",
+        "IRM Fistulă Perianală 3T (Protocol Dedicat DHMC)",
+        "IRM Coloană Cervicală"
+      ],
+      "omni_pass": true,
+      "native_pass": true,
+      "native_first_pass": true
+    },
+    {
+      "query": "mana PA",
+      "omni": [
+        "Rx Degete Mână PA (Postero-Anterior)",
+        "Rx mână PA (postero-anterioară)",
+        "Rx mână PA oblică",
+        "Rx Mână — Incidență Postero-Anterioară (PA) (Merrill)",
+        "Rx mână — incidențe standard de bază postero-anterioare (PA) — dorso-palmar"
+      ],
+      "native": [
+        "Rx Degete Mână <mark>PA</mark> (Postero-Anterior)",
+        "Rx mână <mark>PA</mark> (postero-anterioară)",
+        "Rx mână <mark>PA</mark> oblică",
+        "Rx mână postero-anterioară (<mark>PA</mark>) – ambele mâini",
+        "Rx mână — incidențe standard de bază postero-anterioare (<mark>PA</mark>) — dorso-palmar"
+      ],
+      "omni_pass": true,
+      "native_pass": true,
+      "native_first_pass": true
+    },
+    {
+      "query": "Dartmouth",
+      "omni": [
+        "CT Colonografie Virtuală - Pregătire & Scanare (Protocol Dartmouth Hitchcock)",
+        "CT Masiv Facial Traumă (Protocol Dartmouth Hitchcock)",
+        "CT Torace Pectus Excavatum (Protocol Dartmouth Hitchcock)",
+        "CTA Abdomen & Pelvis DIEP Flap (Protocol Dartmouth Hitchcock)",
+        "CTA Carotide și Poligonul lui Willis (Protocol Dartmouth Hitchcock)"
+      ],
+      "native": [
+        "Protocoale Clinice, Standarde Tehnice &amp; Criterii Imagistice <mark>Dartmouth</mark> Geisel (DHMC)",
+        "Ghid Clinic de Administrare a Contrastului Oral în CT (Ghid <mark>Dartmouth</mark> Geisel 2026)",
+        "Ecografie Axilară &amp; Ghidaj Puncție Biopsie (Ghid Senologie <mark>Dartmouth</mark>)",
+        "CT Colonografie Virtuală - Pregătire &amp; Scanare (Protocol <mark>Dartmouth</mark> Hitchcock)",
+        "CTA Abdomen &amp; Pelvis DIEP Flap (Protocol <mark>Dartmouth</mark> Hitchcock)"
+      ],
+      "omni_pass": true,
+      "native_pass": true,
+      "native_first_pass": true
+    },
+    {
+      "query": "Merrill umar",
+      "omni": [
+        "Rx umăr — incidență de profil transtoracică (laterală) — metoda Lawrence, profil (drept sau stâng) (Merrill)",
+        "Rx articulația umărului — incidență AP axială (Merrill)",
+        "Rx articulația umărului — incidență axială inferosuperioară — metoda Lawrence 4; incidență axială inferosuperioară Rafert et al. 5; modificare (Merrill)",
+        "Rx articulația umărului — incidență axială inferosuperioară — metoda West Point (Merrill)",
+        "Rx articulația umărului — incidență axială superoinferioară (Merrill)"
+      ],
+      "native": [
+        "Rx Y scapular — incidență oblică postero-anterioară (PA) — RAO sau oblică anterioară stângă (OAS / LAO), luxații ale umărului. (<mark>Merrill</mark>)",
+        "Rx articulația umărului — incidență axială inferosuperioară — metoda West Point (<mark>Merrill</mark>)",
+        "Rx articulația umărului — incidență axială superoinferioară (<mark>Merrill</mark>)",
+        "Rx articulația umărului — incidență axială inferosuperioară — metoda Lawrence 4; incidență axială inferosuperioară Rafert et al. 5; modificare (<mark>Merrill</mark>)",
+        "Rx articulația umărului — incidență AP axială (<mark>Merrill</mark>)"
+      ],
+      "omni_pass": true,
+      "native_pass": true,
+      "native_first_pass": true
+    },
+    {
+      "query": "ecografie tiroida",
+      "omni": [
+        "Ecografie — Fișă de lucru: Tiroidă (MCB)",
+        "Ecografie — Tiroidă (MCB)",
+        "Ecografie Tiroidiană și a Glandelor Paratiroide (Clasificare EU-TIRADS)",
+        "Ecografie a Ganglionilor Limfatici Cervicali",
+        "Ecografie a Glandelor Salivare (Parotidă și Submandibulară)"
+      ],
+      "native": [
+        "<mark>Ecografie</mark> — Fișă de lucru: Tiroidă (MCB)",
+        "<mark>Ecografie</mark> — Tiroidă (MCB)",
+        "<mark>Ecografie</mark> Tiroidiană și a Glandelor Paratiroide (Clasificare EU-TIRADS)",
+        "<mark>Ecografie</mark> a Ganglionilor Limfatici Cervicali",
+        "<mark>Ecografie</mark> a Glandelor Salivare (Parotidă și Submandibulară)"
+      ],
+      "omni_pass": true,
+      "native_pass": true,
+      "native_first_pass": true
+    },
+    {
+      "query": "coloana cervicala",
+      "omni": [
+        "CT — Coloană cervicală (MCB)",
+        "CT — Coloană cervicală la copil (MCB)",
+        "CT Coloană Cervicală",
+        "CT Coloană Cervicală (Protocol OHSU)",
+        "CT Craniu și Coloană Cervicală în Politraumatism"
+      ],
+      "native": [
+        "RADIOGRAFIA ARCULUI VERTEBRAL (PILIERI) AP AXIALĂ (<mark>COLOANA</mark> CERVICALĂ)",
+        "Rx Coloană cervicală, incidență de profil, decubit dorsal",
+        "Rx Coloană Cervicală — Incidență de Profil (Lateral) — Profil (Drept sau Stâng) Flexie și extensie (Merrill)",
+        "CT Coloană Cervicală (Protocol OHSU)",
+        "CT Coloană Cervicală"
+      ],
+      "omni_pass": true,
+      "native_pass": true,
+      "native_first_pass": true
+    }
+  ]
+}

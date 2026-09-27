@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-tract-urinar-aparatul-renal-antero-posterior-p360-clark/fig_2.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Opacitățile mici suprapuse peste rinichi pot fi în interiorul sau în afara
@@ -134,23 +138,26 @@ title: Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică, cu planul mediosagital al corpului în unghi drept față de masă și aliniat cu linia mediană a mesei.
-• Mâinile pot fi așezate sus pe torace sau brațele pot fi pe lângă corpul pacientului, ușor depărtate de trunchi.
-• Caseta utilizată trebuie să fie suficient de mare pentru a cuprinde regiunea de deasupra polilor superiori ai rinichilor până la simfiza pubiană (de exemplu, o casetă de 35 × 43-cm).
-• Caseta se așază în tăvița Bucky și se poziționează astfel încât simfiza pubiană să fie inclusă în partea inferioară a filmului radiologic, ținând cont de faptul că razele oblice vor proiecta simfiza în jos.
-• Centrul casetei se va afla aproximativ la nivelul unui punct situat la 1 cm sub linia care unește crestele iliace. Astfel, simfiza pubiană va fi inclusă pe imagine.
-• Se aplică o bandă lată de imobilizare pe abdomenul pacientului și, în funcție de starea acestuia, se aplică o compresie. Această compresie este mai eficientă dacă se așază o pernă lungă de-a lungul liniei mediane, sub banda de compresie, înainte de strângerea benzii.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre centrul casetei, care se află pe linia mediană, aproximativ la nivelul marginii costale inferioare de pe linia axilară medie. Fasciculul de raze X este colimat imediat în interiorul marginilor casetei.
-• Utilizând un mA ridicat și un timp de expunere scurt, expunerea se efectuează în apnee la sfârșitul expirului complet (diafragm ridicat).
+    - **Poziție Pacient:**
+        - Pacientul este așezat în decubit dorsal pe masa radiologică, cu planul mediosagital al corpului în unghi drept față de masă și aliniat cu linia mediană a mesei.
+        - Mâinile pot fi așezate sus pe torace sau brațele pot fi pe lângă corpul pacientului, ușor depărtate de trunchi.
+        - Caseta utilizată trebuie să fie suficient de mare pentru a cuprinde regiunea de deasupra polilor superiori ai rinichilor până la simfiza pubiană (de exemplu, o casetă de 35 × 43-cm).
+        - Caseta se așază în tăvița Bucky și se poziționează astfel încât simfiza pubiană să fie inclusă în partea inferioară a filmului radiologic, ținând cont de faptul că razele oblice vor proiecta simfiza în jos.
+        - Centrul casetei se va afla aproximativ la nivelul unui punct situat la 1 cm sub linia care unește crestele iliace. Astfel, simfiza pubiană va fi inclusă pe imagine.
+        - Se aplică o bandă lată de imobilizare pe abdomenul pacientului și, în funcție de starea acestuia, se aplică o compresie. Această compresie este mai eficientă dacă se așază o pernă lungă de-a lungul liniei mediane, sub banda de compresie, înainte de strângerea benzii.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată spre centrul casetei, care se află pe linia mediană, aproximativ la nivelul marginii costale inferioare de pe linia axilară medie. Fasciculul de raze X este colimat imediat în interiorul marginilor casetei.
+        - Utilizând un mA ridicat și un timp de expunere scurt, expunerea se efectuează în apnee la sfârșitul expirului complet (diafragm ridicat).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** respirație după un expir profund complet
 
@@ -188,15 +195,15 @@ title: Rx Tract Urinar (Aparatul Renal) Antero-Posterior (AP)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Opacitățile mici suprapuse peste rinichi pot fi în interiorul sau în afara parenchimului renal. O radiografie suplimentară efectuată în apnee după un inspir profund complet ar putea evidenția o diferență în amplitudinea și direcția deplasării rinichiului și a calcificărilor patologice situate în afara acestuia.
-• În unele cazuri, poate fi necesară includerea unei imagini colimate a regiunii renale dacă marginile renale superioare nu sunt cuprinse pe filmul radiologic de ansamblu.
-Imagine radiografică simplă a abdomenului în incidență antero-posterioară (AP), în decubit dorsal, care evidențiază un calcul la polul inferior al rinichiului stâng și un calcul în porțiunea superioară a ureterului drept. Radiografia simplă a cavității abdominale și pelvine se efectuează pentru a vizualiza:
-• conturul rinichilor, înconjurați de grăsimea perirenală;
-• marginea laterală a mușchiului psoas;
-• calculii radioopaci din regiunea renală, de pe traiectul ureterelor și din regiunea vezicii urinare;
-• calcificările patologice din interiorul rinichiului sau din peretele vezicii urinare;
-• prezența gazelor în tractul urinar (aparatul renal).
+    - Opacitățile mici suprapuse peste rinichi pot fi în interiorul sau în afara parenchimului renal. O radiografie suplimentară efectuată în apnee după un inspir profund complet ar putea evidenția o diferență în amplitudinea și direcția deplasării rinichiului și a calcificărilor patologice situate în afara acestuia.
+    - În unele cazuri, poate fi necesară includerea unei imagini colimate a regiunii renale dacă marginile renale superioare nu sunt cuprinse pe filmul radiologic de ansamblu. Imagine radiografică simplă a abdomenului în incidență antero-posterioară (AP), în decubit dorsal, care evidențiază un calcul la polul inferior al rinichiului stâng și un calcul în porțiunea superioară a ureterului drept. Radiografia simplă a cavității abdominale și pelvine se efectuează pentru a vizualiza:
+    - conturul rinichilor, înconjurați de grăsimea perirenală;
+    - marginea laterală a mușchiului psoas;
+    - calculii radioopaci din regiunea renală, de pe traiectul ureterelor și din regiunea vezicii urinare;
+    - calcificările patologice din interiorul rinichiului sau din peretele vezicii urinare;
+    - prezența gazelor în tractul urinar (aparatul renal).
 
 
 ### 🖼️ Imagini

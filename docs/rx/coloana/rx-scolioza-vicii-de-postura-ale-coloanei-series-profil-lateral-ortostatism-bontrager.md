@@ -23,6 +23,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.51
     în ortostatism stâng lateral.)
   url: assets/images/protocols/bontrager/rx-scolioza-vicii-de-postura-ale-coloanei-series-profil-lateral-ortostatism-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -33,7 +37,7 @@ position: 'Pacient: Ortostatism, incidență de profil (lateral). Se plasează p
   centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.50). Se verifică
   absența rotației: claviculele sunt riguros echidistante față de linia proceselor
   spinoase ale toracelui sau bazinului, dacă există. Se plasează marginea inferioară
-  a receptorului de imagine la minimum 1 la 2 inches (2.5 la 5 cm) sub nivelul crestei
+  a receptorului de imagine la minimum 1 la 2 țoli (2.5 la 5 cm) sub nivelul crestei
   iliace (corespunzător L4-L5)s (centrarea determinată prin dimensiunea recomandată
   a câmpului și dimensiunea pacientului).'
 protection:
@@ -43,7 +47,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Coloana toracală și lombară, incluzând 1 la 2 inches (2.5 la 5 cm) din creasta iliacă
+- Coloana toracală și lombară, incluzând 1 la 2 țoli (2.5 la 5 cm) din creasta iliacă
   (corespunzătoare L4-L5) (Fig. 9.49 și 9.51). poziție
 - Coloana toracală și lombară aliniată paralel cu receptorul de imagine (RI), după
   cum indică foramenele intervertebrale deschise și spațiile articulare intervertebrale
@@ -97,16 +101,17 @@ title: Rx scolioză / vicii de postură ale coloanei — serie de incidențe de 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, incidență de profil (lateral). Se plasează pacientul în ortostatism, în incidență de profil (lateral), cu brațele ridicate sau, dacă este instabil, apucând un suport în față. Se plasează partea convexă a curbei pe/lângă receptorul de imagine.; Regiune anatomică: Se aliniază planul mediocoronal cu raza centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.50). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă există. Se plasează marginea inferioară a receptorului de imagine la minimum 1 la 2 inches (2.5 la 5 cm) sub nivelul crestei iliace (corespunzător L4-L5)s (centrarea determinată prin dimensiunea recomandată a câmpului și dimensiunea pacientului).
+    - **Poziție Pacient:** Pacient: Ortostatism, incidență de profil (lateral). Se plasează pacientul în ortostatism, în incidență de profil (lateral), cu brațele ridicate sau, dacă este instabil, apucând un suport în față. Se plasează partea convexă a curbei pe/lângă receptorul de imagine.; Regiune anatomică: Se aliniază planul mediocoronal cu raza centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.50). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă există. Se plasează marginea inferioară a receptorului de imagine la minimum 1 la 2 țoli (2.5 la 5 cm) sub nivelul crestei iliace (corespunzător L4-L5)s (centrarea determinată prin dimensiunea recomandată a câmpului și dimensiunea pacientului).
     - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 150 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, în expir. Scolioză / vicii de postură ale coloanei SERIE DE RUTINĂ PA Ortostatism și/sau decubit Ortostatism lateral Fig. 9.49 Ortostatism lateral. Filtru compensator lateral toracic clar, din Pb, montat. (din Bachmann KR: Deformări spinale la sportivul adolescent. Clin Sports Med 40[3]:541–554, 2021.)
@@ -130,7 +135,7 @@ title: Rx scolioză / vicii de postură ale coloanei — serie de incidențe de 
 
     ---
 
-    - Coloana toracală și lombară, incluzând 1 la 2 inches (2.5 la 5 cm) din creasta iliacă (corespunzătoare L4-L5) (Fig. 9.49 și 9.51). poziție
+    - Coloana toracală și lombară, incluzând 1 la 2 țoli (2.5 la 5 cm) din creasta iliacă (corespunzătoare L4-L5) (Fig. 9.49 și 9.51). poziție
     - Coloana toracală și lombară aliniată paralel cu receptorul de imagine (RI), după cum indică foramenele intervertebrale deschise și spațiile articulare intervertebrale deschise.
     - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase, indicată prin incizurile sciatice mari suprapuse și corpurile vertebrale posterioare. Totuși, scolioza / viciile de postură ale coloanei sunt adesea însoțite de răsucirea sau rotația vertebrelor implicate.
     - Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere

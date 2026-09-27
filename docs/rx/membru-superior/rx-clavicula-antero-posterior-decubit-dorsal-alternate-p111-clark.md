@@ -3,33 +3,35 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală verticală centrală este orientat la middle de Claviculă.
+centering: '• raza centrală verticală este orientată la nivelul mijlocului claviculei.
 
 
-  • raza centrală este înclinat 30 grade cranially și centred la centre de Claviculă.
+  • raza centrală este înclinată cu 30 grade cranial și centrată la mijlocul claviculei.
 
-  • 30 grade needed la separate Claviculă de la underlying Coaste (Grilaj Costal)
-  poate fie achieved prin combination de pacient positioning și raza centrală angulation.
+  • Unghiul de 30 grade necesar pentru separarea claviculei de coastele subiacente
+  (grilajul costal) poate fi obținut prin combinarea poziționării pacientului cu angularea
+  razei centrale.
 
-  • medial end de Claviculă poate fie vizualizat în greater detail prin adding a 15-grade
-  Profil (lateral) angulation la fascicul.'
+  • Extremitatea medială a claviculei poate fi vizualizată mai detaliat prin adăugarea
+  unei angulări de profil de 15 grade a fasciculului.'
 clinical_indications:
-- If suspiciune de fractură occurs together cu suspiciune de fractură de upper Coaste
-  (Grilaj Costal), then this implies severe injury și poate fie associated cu subclavian
-  vessel damage sau pneumotorax. Infero-Superioară (Axială) radiografie de Claviculă
-  evidențiind suspiciune de fractură Ortostatism Infero-Superioară (Axială) radiografie
-  de Claviculă
+- Dacă suspiciunea de fractură apare împreună cu suspiciunea de fractură a coastelor
+  superioare (grilajului costal), aceasta indică o leziune severă și poate fi asociată
+  cu lezarea vaselor subclaviculare sau cu pneumotorax. Radiografie infero-superioară
+  (axială) a claviculei evidențiind suspiciune de fractură. Radiografie infero-superioară
+  (axială) a claviculei în ortostatism.
 images:
-- caption: Normal Antero-posterior (AP) Decubit dorsal radiografie de Claviculă
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie antero-posterioară (AP) normală, în decubit dorsal, a claviculei
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_1.jpeg
-- caption: Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind
+- caption: Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind
     suspiciune de fractură
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_2.jpeg
-- caption: Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind
-    pathological suspiciune de fractură
+- caption: Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind
+    suspiciune de fractură patologică
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_3.jpeg
@@ -37,34 +39,51 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_4.jpeg
-- caption: assess grade de orice suspiciune de fractură displacement și la show the
+- caption: evaluarea gradului oricărei deplasări asociate suspiciunii de fractură
+    și demonstrarea [fragment deteriorat în sursă]
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_5.jpeg
-- caption: • If suspiciune de fractură occurs together cu suspiciune de fractură de
-    upper Coaste (Grilaj Costal),
+- caption: • Dacă suspiciunea de fractură apare împreună cu suspiciunea de fractură
+    a coastelor superioare (grilajului costal),
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_6.jpeg
-- caption: subclavian vessel damage sau pneumotorax.
+- caption: lezarea vaselor subclaviculare sau pneumotorax.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_7.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: "• pacientul este Decubit dorsal pe masa radiologică.\n• small săculeți\
-  \ cu nisip este plasat under opposite Umăr la se rotește pacient slightly spre partea\
-  \ afectată la make sure that medial end de Claviculă este nu superimposed pe Coloană\
-  \ Vertebrală.\n• braț de side being examined este în relaxat poziție prin side de\
-  \ trunk.\n• A 24 \x02 30-cm casetă este plasat transversely behind pacientul’s Umăr\
-  \ și ajustat astfel încât Claviculă este în middle.\n\n• pacientul stă așezat facing\
-  \ X-ray tube cu a 24 \x02 30-cm casetă plasat în caseta holder. Some holders allow\
-  \ forward-angulation de caseta de 15 grade spre Umăr. This reduces distortion caused\
-  \ prin cranially projected central fascicul.\n• unaffected Umăr este raised slightly\
-  \ la bring Omoplat (Scapulă) în contact cu caseta.\n• pacientul’s cap este turned\
-  \ away de la partea afectată.\n• caseta este displaced above Umăr la allow Claviculă\
-  \ la fie projected into middle de imagine."
+position: '• pacientul este în decubit dorsal pe masa radiologică.
+
+  • Un săculeț mic cu nisip este plasat sub umărul opus pentru a roti ușor pacientul
+  spre partea afectată, astfel încât extremitatea medială a claviculei să nu fie suprapusă
+  peste coloana vertebrală.
+
+  • Brațul de partea examinată este relaxat, în poziție laterală pe lângă trunchi.
+
+  • O casetă de 24 × 30 cm este plasată transversal în spatele umărului pacientului
+  și ajustată astfel încât clavicula să fie în centru.
+
+
+  • pacientul stă așezat, cu fața spre tubul radiogen, cu o casetă de 24 × 30 cm plasată
+  în suportul pentru casetă. Unele suporturi permit angularea anterioară a casetei
+  cu 15 grade spre umăr. Aceasta reduce distorsiunea cauzată de fasciculul central
+  proiectat cranial.
+
+  • Umărul neafectat este ridicat ușor pentru a aduce omoplatul (scapula) în contact
+  cu caseta.
+
+  • Capul pacientului este întors în partea opusă celei afectate.
+
+  • Caseta este deplasată deasupra umărului pentru a permite proiectarea claviculei
+  în centrul imaginii.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -73,19 +92,19 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- entire length de Claviculă trebuie să fie included pe imagine.
-- Profil (lateral) end de Claviculă will fie evidențiat clear de thoracic cage.
-- There trebuie să fie fără foreshortening de Claviculă.
-- expunere trebuie să evidențiază ambele medial și Profil (lateral) ends de Claviculă.
-  96 Normal Antero-posterior (AP) Decubit dorsal radiografie de Claviculă Antero-posterior
-  (AP) Decubit dorsal radiografie de Claviculă evidențiind suspiciune de fractură
-  Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind pathological
-  suspiciune de fractură through sclerotic metastasis
-- imagine trebuie să evidențiază entire length de Claviculă, including sternoclavicular
-  și Articulații Acromioclaviculare.
-- entire length de Claviculă, cu exception de medial end, trebuie să fie projected
-  clear de thoracic cage.
-- Claviculă trebuie să fie orizontal.
+- Întreaga lungime a claviculei trebuie inclusă în imagine.
+- Extremitatea de profil a claviculei trebuie evidențiată clar de cutia toracică.
+- Nu trebuie să existe scurtarea claviculei.
+- Expunerea trebuie să evidențieze ambele extremități, medială și de profil, ale claviculei.
+  96 Radiografie antero-posterioară (AP) normală, în decubit dorsal, a claviculei.
+  Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind
+  suspiciune de fractură. Radiografie antero-posterioară (AP), în decubit dorsal,
+  a claviculei, evidențiind suspiciune de fractură patologică prin metastază sclerotică.
+- Imaginea trebuie să evidențieze întreaga lungime a claviculei, inclusiv articulațiile
+  sternoclaviculare și acromioclaviculare.
+- Întreaga lungime a claviculei, cu excepția extremității mediale, trebuie proiectată
+  clar deasupra cutiei toracice.
+- Clavicula trebuie să fie orizontală.
 sid_dff: 100 cm
 slug: rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark
 sources:
@@ -94,14 +113,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Claviculă Antero-Posterior (AP) - Decubit Dorsal (alternate)
+  mas: Conform AEC / grosimii anatomice
+title: Rx claviculă antero-posterior (AP) – decubit dorsal (alternativ)
 ---
-# Rx Claviculă Antero-Posterior (AP) - Decubit Dorsal (alternate)
+# Rx claviculă antero-posterior (AP) – decubit dorsal (alternativ)
 
 
 <div class="rx-meta-bar">
@@ -120,34 +139,35 @@ title: Rx Claviculă Antero-Posterior (AP) - Decubit Dorsal (alternate)
 
     === "Indicații Clinice"
 
-        - If suspiciune de fractură occurs together cu suspiciune de fractură de upper Coaste (Grilaj Costal), then this implies severe injury și poate fie associated cu subclavian vessel damage sau pneumotorax. Infero-Superioară (Axială) radiografie de Claviculă evidențiind suspiciune de fractură Ortostatism Infero-Superioară (Axială) radiografie de Claviculă
+        - Dacă suspiciunea de fractură apare împreună cu suspiciunea de fractură a coastelor superioare (grilajului costal), aceasta indică o leziune severă și poate fi asociată cu lezarea vaselor subclaviculare sau cu pneumotorax. Radiografie infero-superioară (axială) a claviculei evidențiind suspiciune de fractură. Radiografie infero-superioară (axială) a claviculei în ortostatism.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este Decubit dorsal pe masa radiologică.
-• small săculeți cu nisip este plasat under opposite Umăr la se rotește pacient slightly spre partea afectată la make sure that medial end de Claviculă este nu superimposed pe Coloană Vertebrală.
-• braț de side being examined este în relaxat poziție prin side de trunk.
-• A 24  30-cm casetă este plasat transversely behind pacientul’s Umăr și ajustat astfel încât Claviculă este în middle.
-
-• pacientul stă așezat facing X-ray tube cu a 24  30-cm casetă plasat în caseta holder. Some holders allow forward-angulation de caseta de 15 grade spre Umăr. This reduces distortion caused prin cranially projected central fascicul.
-• unaffected Umăr este raised slightly la bring Omoplat (Scapulă) în contact cu caseta.
-• pacientul’s cap este turned away de la partea afectată.
-• caseta este displaced above Umăr la allow Claviculă la fie projected into middle de imagine.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat la middle de Claviculă.
-
-• raza centrală este înclinat 30 grade cranially și centred la centre de Claviculă.
-• 30 grade needed la separate Claviculă de la underlying Coaste (Grilaj Costal) poate fie achieved prin combination de pacient positioning și raza centrală angulation.
-• medial end de Claviculă poate fie vizualizat în greater detail prin adding a 15-grade Profil (lateral) angulation la fascicul.
+    - **Poziție Pacient:**
+        - pacientul este în decubit dorsal pe masa radiologică.
+        - Un săculeț mic cu nisip este plasat sub umărul opus pentru a roti ușor pacientul spre partea afectată, astfel încât extremitatea medială a claviculei să nu fie suprapusă peste coloana vertebrală.
+        - Brațul de partea examinată este relaxat, în poziție laterală pe lângă trunchi.
+        - O casetă de 24 × 30 cm este plasată transversal în spatele umărului pacientului și ajustată astfel încât clavicula să fie în centru.
+        - pacientul stă așezat, cu fața spre tubul radiogen, cu o casetă de 24 × 30 cm plasată în suportul pentru casetă. Unele suporturi permit angularea anterioară a casetei cu 15 grade spre umăr. Aceasta reduce distorsiunea cauzată de fasciculul central proiectat cranial.
+        - Umărul neafectat este ridicat ușor pentru a aduce omoplatul (scapula) în contact cu caseta.
+        - Capul pacientului este întors în partea opusă celei afectate.
+        - Caseta este deplasată deasupra umărului pentru a permite proiectarea claviculei în centrul imaginii.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală verticală este orientată la nivelul mijlocului claviculei.
+        - raza centrală este înclinată cu 30 grade cranial și centrată la mijlocul claviculei.
+        - Unghiul de 30 grade necesar pentru separarea claviculei de coastele subiacente (grilajul costal) poate fi obținut prin combinarea poziționării pacientului cu angularea razei centrale.
+        - Extremitatea medială a claviculei poate fi vizualizată mai detaliat prin adăugarea unei angulări de profil de 15 grade a fasciculului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -158,25 +178,25 @@ title: Rx Claviculă Antero-Posterior (AP) - Decubit Dorsal (alternate)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - entire length de Claviculă trebuie să fie included pe imagine.
-    - Profil (lateral) end de Claviculă will fie evidențiat clear de thoracic cage.
-    - There trebuie să fie fără foreshortening de Claviculă.
-    - expunere trebuie să evidențiază ambele medial și Profil (lateral) ends de Claviculă. 96 Normal Antero-posterior (AP) Decubit dorsal radiografie de Claviculă Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind suspiciune de fractură Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind pathological suspiciune de fractură through sclerotic metastasis
-    - imagine trebuie să evidențiază entire length de Claviculă, including sternoclavicular și Articulații Acromioclaviculare.
-    - entire length de Claviculă, cu exception de medial end, trebuie să fie projected clear de thoracic cage.
-    - Claviculă trebuie să fie orizontal.
+    - Întreaga lungime a claviculei trebuie inclusă în imagine.
+    - Extremitatea de profil a claviculei trebuie evidențiată clar de cutia toracică.
+    - Nu trebuie să existe scurtarea claviculei.
+    - Expunerea trebuie să evidențieze ambele extremități, medială și de profil, ale claviculei. 96 Radiografie antero-posterioară (AP) normală, în decubit dorsal, a claviculei. Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind suspiciune de fractură. Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind suspiciune de fractură patologică prin metastază sclerotică.
+    - Imaginea trebuie să evidențieze întreaga lungime a claviculei, inclusiv articulațiile sternoclaviculare și acromioclaviculare.
+    - Întreaga lungime a claviculei, cu excepția extremității mediale, trebuie proiectată clar deasupra cutiei toracice.
+    - Clavicula trebuie să fie orizontală.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -188,6 +208,7 @@ title: Rx Claviculă Antero-Posterior (AP) - Decubit Dorsal (alternate)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -198,25 +219,25 @@ title: Rx Claviculă Antero-Posterior (AP) - Decubit Dorsal (alternate)
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Antero-posterior (AP) Decubit dorsal radiografie de Claviculă](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_1.jpeg)
+![Radiografie antero-posterioară (AP) normală, în decubit dorsal, a claviculei](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Antero-posterior (AP) Decubit dorsal radiografie de Claviculă</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_2.jpeg)
-
-<figcaption><strong>Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară (AP) normală, în decubit dorsal, a claviculei</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind pathological suspiciune de fractură](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_3.jpeg)
+![Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Decubit dorsal radiografie de Claviculă evidențiind pathological suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind suspiciune de fractură patologică](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie antero-posterioară (AP), în decubit dorsal, a claviculei, evidențiind suspiciune de fractură patologică</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -230,25 +251,25 @@ title: Rx Claviculă Antero-Posterior (AP) - Decubit Dorsal (alternate)
 
 <figure class="protocol-image-card" markdown>
 
-![assess grade de orice suspiciune de fractură displacement și la show the](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_5.jpeg)
+![evaluarea gradului oricărei deplasări asociate suspiciunii de fractură și demonstrarea [fragment deteriorat în sursă]](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_5.jpeg)
 
-<figcaption><strong>assess grade de orice suspiciune de fractură displacement și la show the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• If suspiciune de fractură occurs together cu suspiciune de fractură de upper Coaste (Grilaj Costal),](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_6.jpeg)
-
-<figcaption><strong>• If suspiciune de fractură occurs together cu suspiciune de fractură de upper Coaste (Grilaj Costal),</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>evaluarea gradului oricărei deplasări asociate suspiciunii de fractură și demonstrarea [fragment deteriorat în sursă]</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![subclavian vessel damage sau pneumotorax.](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_7.jpeg)
+![• Dacă suspiciunea de fractură apare împreună cu suspiciunea de fractură a coastelor superioare (grilajului costal),](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_6.jpeg)
 
-<figcaption><strong>subclavian vessel damage sau pneumotorax.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Dacă suspiciunea de fractură apare împreună cu suspiciunea de fractură a coastelor superioare (grilajului costal),</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![lezarea vaselor subclaviculare sau pneumotorax.](../../assets/images/protocols/clark/rx-clavicula-antero-posterior-decubit-dorsal-alternate-p111-clark/fig_7.jpeg)
+
+<figcaption><strong>lezarea vaselor subclaviculare sau pneumotorax.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

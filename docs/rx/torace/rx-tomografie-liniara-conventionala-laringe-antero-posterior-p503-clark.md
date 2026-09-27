@@ -5,14 +5,15 @@ breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pent
 category: torace
 centering: Raza centrală perpendiculară pe centrul receptorului de imagine.
 clinical_indications:
-- Evaluare radiografică regiunii Tomografie Liniară Convențională (Laringe - antero
-  - posterior).
+- Evaluarea radiografică a regiunii prin tomografie liniară convențională (laringe
+  — antero-posterior).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Computed Tomografie Liniară Convențională scout imagine evidențiind angle
-    de trachea
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Imagine de reperaj de tomografie liniară convențională computerizată, care
+    evidențiază unghiul traheei
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-tomografie-liniara-conventionala-laringe-antero-posterior-p503-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -30,27 +31,31 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-tomografie-liniara-conventionala-laringe-antero-posterior-p503-clark/fig_5.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: 'pacientul este culcat Decubit dorsal pe masa de examinare cu planul mediosagital
-  de trunk și cap la drept angles la, și în linia mediană de, masa de examinare. lower
-  trunk este raised ca described above, which este essential if pacientul has marked
-  lordosis. pacientul este located pe masa de examinare astfel încât vertical raza
-  centrală would pass along planul mediosagital midway între cartilaj cricoid și sternal
-  angle.
+position: 'Pacientul este culcat în decubit dorsal pe masa de examinare, cu planul
+  mediosagital al trunchiului și capului perpendicular pe masă și pe linia mediană
+  a acesteia. Partea inferioară a trunchiului este ridicată conform descrierii de
+  mai sus, ceea ce este esențial dacă pacientul are o lordoză accentuată. Pacientul
+  este poziționat pe masă astfel încât raza centrală verticală să treacă prin planul
+  mediosagital, la jumătatea distanței dintre cartilajul cricoid și unghiul sternal.
 
-  Pivot height
+  Înălțimea pivotului
 
-  • 4–5 cm deep la incizură jugulară (furculiță sternală).
+  • La 4–5 cm în profunzime față de incizura jugulară (furculița sternală).
 
-  Tomographic movement
+  Mișcare tomografică
 
-  • Linear transverse 10 grade; poate fie followed prin large angle movements if thinner
-  layers sunt required.
+  • Liniară transversală, 10 grade; poate fi urmată de mișcări cu unghi mare dacă
+  sunt necesare secțiuni mai subțiri.
 
-  488 Laringe Trachea și bifurcation Computed Tomografie Liniară Convențională scout
-  imagine evidențiind angle de trachea'
+  488 Laringe. Trahee și bifurcație. Imagine de reperaj de tomografie liniară convențională
+  computerizată, care evidențiază unghiul traheei.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -59,7 +64,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Tomografie Liniară Convențională).
+- Vizualizarea clară a întregii arii anatomice (Tomografie Liniară Convențională).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -71,14 +76,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: '90'
-  mas: Conform AEC / grosime anatomică
-title: Rx Tomografie Liniară Convențională Laringe - Antero-Posterior (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Rx tomografie liniară convențională a laringelui — Antero-posterior (AP)
 ---
-# Rx Tomografie Liniară Convențională Laringe - Antero-Posterior (AP)
+# Rx tomografie liniară convențională a laringelui — Antero-posterior (AP)
 
 
 <div class="rx-meta-bar">
@@ -97,28 +102,30 @@ title: Rx Tomografie Liniară Convențională Laringe - Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Tomografie Liniară Convențională (Laringe - antero - posterior).
+        - Evaluarea radiografică a regiunii prin tomografie liniară convențională (laringe — antero-posterior).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** pacientul este culcat Decubit dorsal pe masa de examinare cu planul mediosagital de trunk și cap la drept angles la, și în linia mediană de, masa de examinare. lower trunk este raised ca described above, which este essential if pacientul has marked lordosis. pacientul este located pe masa de examinare astfel încât vertical raza centrală would pass along planul mediosagital midway între cartilaj cricoid și sternal angle.
-Pivot height
-• 4–5 cm deep la incizură jugulară (furculiță sternală).
-Tomographic movement
-• Linear transverse 10 grade; poate fie followed prin large angle movements if thinner layers sunt required.
-488 Laringe Trachea și bifurcation Computed Tomografie Liniară Convențională scout imagine evidențiind angle de trachea
+    - **Poziție Pacient:**
+        Pacientul este culcat în decubit dorsal pe masa de examinare, cu planul mediosagital al trunchiului și capului perpendicular pe masă și pe linia mediană a acesteia. Partea inferioară a trunchiului este ridicată conform descrierii de mai sus, ceea ce este esențial dacă pacientul are o lordoză accentuată. Pacientul este poziționat pe masă astfel încât raza centrală verticală să treacă prin planul mediosagital, la jumătatea distanței dintre cartilajul cricoid și unghiul sternal.
+
+        Înălțimea pivotului
+
+        - La 4–5 cm în profunzime față de incizura jugulară (furculița sternală). Mișcare tomografică
+        - Liniară transversală, 10 grade; poate fi urmată de mișcări cu unghi mare dacă sunt necesare secțiuni mai subțiri. 488 Laringe. Trahee și bifurcație. Imagine de reperaj de tomografie liniară convențională computerizată, care evidențiază unghiul traheei.
     - **Punct de Centrare Fascicul:** Raza centrală perpendiculară pe centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -130,19 +137,19 @@ Tomographic movement
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | 90 kV |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Tomografie Liniară Convențională).
+    - Vizualizarea clară a întregii arii anatomice (Tomografie Liniară Convențională).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -156,6 +163,7 @@ Tomographic movement
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -166,9 +174,9 @@ Tomographic movement
 
 <figure class="protocol-image-card" markdown>
 
-![Computed Tomografie Liniară Convențională scout imagine evidențiind angle de trachea](../../assets/images/protocols/clark/rx-tomografie-liniara-conventionala-laringe-antero-posterior-p503-clark/fig_1.jpeg)
+![Imagine de reperaj de tomografie liniară convențională computerizată, care evidențiază unghiul traheei](../../assets/images/protocols/clark/rx-tomografie-liniara-conventionala-laringe-antero-posterior-p503-clark/fig_1.jpeg)
 
-<figcaption><strong>Computed Tomografie Liniară Convențională scout imagine evidențiind angle de trachea</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Imagine de reperaj de tomografie liniară convențională computerizată, care evidențiază unghiul traheei</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -22,6 +22,48 @@ def _bullets(items: list, indent: str = "        ") -> str:
     return ''.join(f'{indent}- {it}\n' for it in items)
 
 
+def _format_notes_section(notes: str) -> str:
+    if not notes or not str(notes).strip():
+        return ""
+    val_str = str(notes).strip()
+    lines = [l.strip() for l in val_str.splitlines()]
+    has_bullets = any(l.startswith("• ") or l.startswith("- ") for l in lines if l)
+
+    out = ['\n!!! note "Observații Clinice, Capcane & Recomandări Practice"\n']
+    if has_bullets:
+        current_bullet = []
+        for l in lines:
+            if not l:
+                if current_bullet:
+                    out.append(f"    - {' '.join(current_bullet)}\n")
+                    current_bullet = []
+                continue
+            if l.startswith("• ") or l.startswith("- "):
+                if current_bullet:
+                    out.append(f"    - {' '.join(current_bullet)}\n")
+                    current_bullet = []
+                current_bullet.append(l[2:].strip())
+            else:
+                if current_bullet:
+                    current_bullet.append(l)
+                else:
+                    out.append(f"    {l}\n\n")
+        if current_bullet:
+            out.append(f"    - {' '.join(current_bullet)}\n")
+    else:
+        current_para = []
+        for l in lines:
+            if not l:
+                if current_para:
+                    out.append(f"    {' '.join(current_para)}\n\n")
+                    current_para = []
+            else:
+                current_para.append(l)
+        if current_para:
+            out.append(f"    {' '.join(current_para)}\n")
+    return "".join(out)
+
+
 def _iris_guide_tab(iris_ref: dict) -> str:
     ir = iris_ref or {}
     chapter = ir.get("chapter", "Imagistică prin Rezonanță Magnetică (IRM)")
@@ -174,7 +216,8 @@ def render_irm_document(fm: dict) -> str:
     === "Contraindicații & Screening Metalic"
 
 {_bullets(contraindications)}
-{_iris_guide_tab(iris_ref)}-   __2. Pregătire Pacient & Securitate Feromagnetică__
+{_iris_guide_tab(iris_ref)}
+-   __2. Pregătire Pacient & Securitate Feromagnetică__
 
     ---
 
@@ -217,7 +260,7 @@ def render_irm_document(fm: dict) -> str:
 {_bullets(safety_considerations, indent="    ")}
 </div>
 
-{f'!!! note "Observații Clinice, Capcane & Recomandări Practice"\n    {notes}\n' if notes else ''}{images_section}
+{_format_notes_section(notes)}{images_section}
 === "Ghid Rapid de Siguranță RM (Zona IV - Magnet)"
 
     1. **Screening Feromagnetic Riguros (Zona III -> Zona IV):** Niciun obiect metalic feromagnetic (trolere, butelii oxigen nespecifice, foarfece, monede, chei, telefoane) nu intră în sala magnetului (risc de proiectil mortal).

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe base de third metatarsal.
+centering: Perpendicular pe baza celui de-al treilea metatarsian.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,30 +15,36 @@ images:
 - caption: Merrill — pagina 490, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-incidenta-de-profil-lateral-mediolateral-to-assume-p488-merrill/p490_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să lie pe masa radiologică și turn spre afected
-  side until membru inferior și Picior sunt lateral. Place opposite membru inferior
-  behind afected membru inferior.; Elevate pacientul’s Genunchi enough la place Rotulă
-  (Patelă) perpendicular pe plan orizontal și adjust săculeți cu nisip support under
-  Genunchi. heel trebuie să nu touch receptorul de imagine, și medial surface de Picior
-  trebuie să fie paralel cu plane de receptorul de imagine. se ajustează Picior la
-  place plantar surface de forefoot perpendicular pe receptorul de imagine (RI) (Fig.
-  7.50). se centrează receptorul de imagine la midfoot și se aliniază receptorul de
-  imagine axa longitudinală paralel cu axa longitudinală de Picior. Dorsiflex Picior
-  la form a 90-grade angle cu Gambă. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se instruiește pacientul să se întindă pe masa radiologică și să se întoarcă
+  spre partea afectată până când membrul inferior și piciorul sunt în profil. Se plasează
+  membrul inferior opus în spatele membrului inferior afectat. Se ridică genunchiul
+  pacientului suficient pentru a plasa rotula (patela) perpendicular pe planul orizontal
+  și se ajustează săculeții cu nisip ca suport sub genunchi. Călcâiul nu trebuie să
+  atingă receptorul de imagine, iar suprafața medială a piciorului trebuie să fie
+  paralelă cu planul receptorului de imagine. Se ajustează piciorul pentru a plasa
+  suprafața plantară a antepiciorului perpendicular pe receptorul de imagine (RI)
+  (Fig. 7.50). Se centrează receptorul de imagine la nivelul mediopiciorului și se
+  aliniază axa longitudinală a receptorului de imagine paralel cu axa longitudinală
+  a piciorului. Se flectează dorsal piciorul pentru a forma un unghi de 90 de grade
+  cu gamba. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire Picior și distal membru inferior
-- Superimposed plantar surfaces de metatarsal heads
-- Fibula overlapping posterior portion de tibia
-- Tibiotalar articulație
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Întregul picior și porțiunea distală a gambei
+- suprafețele plantare suprapuse ale capetelor metatarsienelor
+- fibula suprapusă peste porțiunea posterioară a tibiei
+- articulația tibiotalară
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-picior-incidenta-de-profil-lateral-mediolateral-to-assume-p488-merrill
 source_pages:
@@ -46,58 +52,60 @@ source_pages:
 - 489
 - 490
 source_sections:
-  anatomy: entire picior în profile, ankle articulație, și distal ends de tibia și
-    fibula (Figs. 7.51 și 7.52).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    de shadow de picior și including maleolă medială (tibială). Place side
+  anatomy: Piciorul în întregime în profil, articulația gleznei și extremitățile distale
+    ale tibiei și fibulei (Fig. 7.51 și 7.52).
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    umbrei piciorului, incluzând maleola medială (tibială). Se plasează markerul de
+    lateralitate în câmpul de expunere colimat.
+  cr: • Perpendicular pe baza celui de-al treilea metatarsian.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker în collimated expunere field.'
-  cr: • perpendicular pe base de third metatarsal.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de regiunea anatomică de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Întregul picior și porțiunea distală a gambei
 
-    • Entire picior și distal membru inferior
+    • Suprafețele plantare suprapuse ale capetelor metatarsienelor
 
-    • Superimposed plantar surfaces de metatarsal heads
+    • Fibula suprapusă peste porțiunea posterioară a tibiei
 
-    • Fibula overlapping posterior portion de tibia
+    • Articulația tibiotalară
 
-    • Tibiotalar articulație
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se ridică genunchiul pacientului suficient pentru a plasa rotula (patela)
+    perpendicular pe planul orizontal și se ajustează săculeții cu nisip ca suport
+    sub genunchi. Călcâiul nu trebuie să atingă receptorul de imagine, iar suprafața
+    medială a piciorului trebuie să fie paralelă cu planul receptorului de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Elevate pacientul’s genunchi enough la place rotulă (patelă) perpendicular
-    pe plan orizontal și adjust săculeți cu nisip support under genunchi. heel trebuie
-    să nu touch receptorul de imagine, și medial surface de picior trebuie să fie
-    paralel cu plane de receptorul de imagine.
+    • Se ajustează piciorul pentru a plasa suprafața plantară a antepiciorului perpendicular
+    pe receptorul de imagine (RI) (Fig. 7.50).
 
-    • se ajustează picior la place plantar surface de forefoot perpendicular pe receptorul
-    de imagine (RI) (Fig. 7.50).
+    • Se centrează receptorul de imagine la nivelul mediopiciorului și se aliniază
+    axa longitudinală a receptorului de imagine paralel cu axa longitudinală a piciorului.
 
-    • se centrează receptorul de imagine la midfoot și se aliniază receptorul de imagine
-    axa longitudinală paralel cu axa longitudinală de picior.
+    • Se flectează dorsal piciorul pentru a forma un unghi de 90 de grade cu membrul
+    inferior.
 
-    • Dorsiflex picior la form a 90-grade angle cu lower membru inferior.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se instruiește pacientul să se întindă pe masa radiologică și să
+    se întoarcă spre partea afectată până când membrul inferior și piciorul sunt în
+    profil.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Se instruiește pacientul să lie pe masa radiologică și turn spre
-    afected side until membru inferior și picior sunt lateral.
-
-    • Place opposite membru inferior behind afected membru inferior.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se plasează membrul inferior opus în spatele membrului inferior afectat.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 488–490
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de
-    shadow de Picior și including maleolă medială (tibială). Place marker de lateralitate
-    (D/S) în collimated expunere field.
-title: Rx Picior — Incidență de Profil (Lateral) — Medio-Lateral to assume. (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    umbrei piciorului, incluzând maleola medială (tibială). Se plasează markerul de
+    lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx picior — incidență de profil (lateral) — mediolaterală (Merrill)
 ---
-# Rx Picior — Incidență de Profil (Lateral) — Medio-Lateral to assume. (Merrill)
+# Rx picior — incidență de profil (lateral) — mediolaterală (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -121,17 +129,18 @@ title: Rx Picior — Incidență de Profil (Lateral) — Medio-Lateral to assume
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să lie pe masa radiologică și turn spre afected side until membru inferior și Picior sunt lateral. Place opposite membru inferior behind afected membru inferior.; Elevate pacientul’s Genunchi enough la place Rotulă (Patelă) perpendicular pe plan orizontal și adjust săculeți cu nisip support under Genunchi. heel trebuie să nu touch receptorul de imagine, și medial surface de Picior trebuie să fie paralel cu plane de receptorul de imagine. se ajustează Picior la place plantar surface de forefoot perpendicular pe receptorul de imagine (RI) (Fig. 7.50). se centrează receptorul de imagine la midfoot și se aliniază receptorul de imagine axa longitudinală paralel cu axa longitudinală de Picior. Dorsiflex Picior la form a 90-grade angle cu Gambă. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe base de third metatarsal.
+    - **Poziție Pacient:** Se instruiește pacientul să se întindă pe masa radiologică și să se întoarcă spre partea afectată până când membrul inferior și piciorul sunt în profil. Se plasează membrul inferior opus în spatele membrului inferior afectat. Se ridică genunchiul pacientului suficient pentru a plasa rotula (patela) perpendicular pe planul orizontal și se ajustează săculeții cu nisip ca suport sub genunchi. Călcâiul nu trebuie să atingă receptorul de imagine, iar suprafața medială a piciorului trebuie să fie paralelă cu planul receptorului de imagine. Se ajustează piciorul pentru a plasa suprafața plantară a antepiciorului perpendicular pe receptorul de imagine (RI) (Fig. 7.50). Se centrează receptorul de imagine la nivelul mediopiciorului și se aliniază axa longitudinală a receptorului de imagine paralel cu axa longitudinală a piciorului. Se flectează dorsal piciorul pentru a forma un unghi de 90 de grade cu gamba. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe baza celui de-al treilea metatarsian.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -147,20 +156,20 @@ title: Rx Picior — Incidență de Profil (Lateral) — Medio-Lateral to assume
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow de Picior și including maleolă medială (tibială). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile umbrei piciorului, incluzând maleola medială (tibială). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Picior și distal membru inferior
-    - Superimposed plantar surfaces de metatarsal heads
-    - Fibula overlapping posterior portion de tibia
-    - Tibiotalar articulație
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Întregul picior și porțiunea distală a gambei
+    - suprafețele plantare suprapuse ale capetelor metatarsienelor
+    - fibula suprapusă peste porțiunea posterioară a tibiei
+    - articulația tibiotalară
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -169,6 +178,7 @@ title: Rx Picior — Incidență de Profil (Lateral) — Medio-Lateral to assume
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -216,46 +226,3 @@ title: Rx Picior — Incidență de Profil (Lateral) — Medio-Lateral to assume
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 488–490](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-entire picior în profile, ankle articulație, și distal ends de tibia și fibula (Figs. 7.51 și 7.52).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow de picior și including maleolă medială (tibială). Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular pe base de third metatarsal.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire picior și distal membru inferior
-• Superimposed plantar surfaces de metatarsal heads
-• Fibula overlapping posterior portion de tibia
-• Tibiotalar articulație
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Elevate pacientul’s genunchi enough la place rotulă (patelă) perpendicular pe plan orizontal și adjust săculeți cu nisip support under genunchi. heel trebuie să nu touch receptorul de imagine, și medial surface de picior trebuie să fie paralel cu plane de receptorul de imagine.
-• se ajustează picior la place plantar surface de forefoot perpendicular pe receptorul de imagine (RI) (Fig. 7.50).
-• se centrează receptorul de imagine la midfoot și se aliniază receptorul de imagine axa longitudinală paralel cu axa longitudinală de picior.
-• Dorsiflex picior la form a 90-grade angle cu lower membru inferior.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se instruiește pacientul să lie pe masa radiologică și turn spre afected side until membru inferior și picior sunt lateral.
-• Place opposite membru inferior behind afected membru inferior.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

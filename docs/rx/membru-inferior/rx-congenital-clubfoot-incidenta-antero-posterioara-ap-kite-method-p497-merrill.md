@@ -2,11 +2,11 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe oase tarsiene, midway între tarsal areas pentru bilateral
-  incidență. approximately 15-grade posterior angle este generally required pentru
-  raza centrală la fie perpendicular pe oase tarsiene. Kite 4, 5 stressed importance
-  de directing raza centrală vertically pentru purpose de projecting true relationship
-  de bones și ossification centers.
+centering: perpendiculară pe oasele tarsiene, la jumătatea distanței dintre regiunile
+  tarsiene pentru incidența bilaterală. Este necesar, în general, un unghi posterior
+  de aproximativ 15° pentru ca raza centrală să fie perpendiculară pe oasele tarsiene.
+  Kite 4, 5 a subliniat importanța orientării verticale a razei centrale în scopul
+  proiectării relației reale dintre oase și centrii de osificare.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -16,19 +16,24 @@ images:
 - caption: Merrill — pagina 498, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-congenital-clubfoot-incidenta-antero-posterioara-ap-kite-method-p497-merrill/p498_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Place infant în Decubit dorsal poziție, cu șoldurile și genunchi flectat
-  la permit Picior la rest flat pe receptorul de imagine. Elevate corp pe firm pillows
-  la Genunchi height la simplify gonad shielding și membru inferior adjustment.; Rest
-  picioarele flat pe receptorul de imagine cu ankles extins slightly la prevent superimposition
-  de membru inferior shadow. Hold infant’s genunchi together sau în such way that
-  picioarele sunt exactly vertical (i.e., so that they do nu lean medially sau laterally).
-  Using lead glove, hold infant’s Degete Picior. When adduction deformity este too
-  great la permit correct placement de picioarele și picioare pentru bilateral imagini
-  fără overlap de picioarele, fiecare Picior trebuie să fie examined separately (Figs.
-  7.64 și 7.65). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază sugarul în decubit dorsal, cu șoldurile și genunchii flectați pentru
+  a permite piciorului să se sprijine plat pe receptorul de imagine. Se ridică trunchiul
+  pe perne ferme până la înălțimea genunchilor, pentru a simplifica ecranarea gonadelor
+  și ajustarea membrului inferior.; Se sprijină picioarele plat pe receptorul de imagine,
+  cu gleznele ușor extinse, pentru a preveni suprapunerea umbrei membrului inferior.
+  Se mențin genunchii sugarului împreună sau într-un mod care să mențină picioarele
+  exact verticale (adică să nu fie înclinate medial sau lateral). Folosind o mănușă
+  plumbată, se țin degetele piciorului sugarului. Când deformarea în adducție este
+  prea mare pentru a permite plasarea corectă a picioarelor și a tălpilor pentru imagini
+  bilaterale fără suprapunerea picioarelor, fiecare picior trebuie examinat separat
+  (Fig. 7.64 și 7.65). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -39,44 +44,43 @@ source_pages:
 - 497
 - 498
 source_sections:
-  cr: '• perpendicular pe oase tarsiene, midway între tarsal areas pentru bilateral
-    incidență.
+  cr: '• perpendiculară pe oasele tarsiene, la jumătatea distanței dintre regiunile
+    tarsiene pentru incidența bilaterală.
 
-    • approximately 15-grade posterior angle este generally required pentru raza centrală
-    la fie perpendicular pe oase tarsiene.
+    • este necesar, în general, un unghi posterior de aproximativ 15° pentru ca raza
+    centrală să fie perpendiculară pe oasele tarsiene.
 
-    • Kite 4, 5 stressed importance de directing raza centrală vertically pentru purpose
-    de projecting true relationship de bones
+    • Kite 4, 5 a subliniat importanța orientării verticale a razei centrale în scopul
+    proiectării relației reale dintre oase și centrii de osificare.'
+  part_pos: '• Se sprijină picioarele plat pe receptorul de imagine, cu gleznele ușor
+    extinse, pentru a preveni suprapunerea umbrei membrului inferior.
 
-    și ossification centers.'
-  part_pos: '• Rest picioarele flat pe receptorul de imagine cu ankles extins slightly
-    la prevent superimposition de membru inferior shadow.
+    • Se mențin genunchii sugarului împreună sau într-un mod care să mențină picioarele
+    exact verticale (adică să nu fie înclinate medial sau lateral).
 
-    • Hold infant’s genunchi together sau în such way that picioarele sunt exactly
-    vertical (i.e., so that they do nu lean medially sau laterally).
-
-    • Using lead glove, hold infant’s toes. When adduction deformity este too great
-    la permit correct placement de picioarele și picioare
-
-    pentru bilateral imagini fără overlap de picioarele, fiecare picior trebuie să
-    fie examined separately (Figs. 7.64 și 7.65).
+    • Folosind o mănușă plumbată, se țin degetele piciorului sugarului. Când deformarea
+    în adducție este prea mare pentru a permite plasarea corectă a picioarelor și
+    a tălpilor pentru imagini bilaterale fără suprapunerea picioarelor, fiecare picior
+    trebuie examinat separat (Fig. 7.64 și 7.65).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Place infant în decubit dorsal, cu șoldurile și genunchi flectat
-    la permit picior la rest flat pe receptorul de imagine. Elevate corp pe firm
-
-    pillows la genunchi height la simplify gonad shielding și membru inferior adjustment.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • Se așază sugarul în decubit dorsal, cu șoldurile și genunchii flectați
+    pentru a permite piciorului să se sprijine plat pe receptorul de imagine. Se ridică
+    trunchiul pe perne ferme până la înălțimea genunchilor, pentru a simplifica ecranarea
+    gonadelor și ajustarea membrului inferior.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 497–498
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Congenital Clubfoot — Incidență Antero-Posterioară (AP) — Kite Method (Merrill)
+title: Rx picior strâmb congenital — incidență anteroposterioară (AP) — metoda Kite
+  (Merrill)
 ---
-# Rx Congenital Clubfoot — Incidență Antero-Posterioară (AP) — Kite Method (Merrill)
+# Rx picior strâmb congenital — incidență anteroposterioară (AP) — metoda Kite (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -100,17 +104,18 @@ title: Rx Congenital Clubfoot — Incidență Antero-Posterioară (AP) — Kite 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Place infant în Decubit dorsal poziție, cu șoldurile și genunchi flectat la permit Picior la rest flat pe receptorul de imagine. Elevate corp pe firm pillows la Genunchi height la simplify gonad shielding și membru inferior adjustment.; Rest picioarele flat pe receptorul de imagine cu ankles extins slightly la prevent superimposition de membru inferior shadow. Hold infant’s genunchi together sau în such way that picioarele sunt exactly vertical (i.e., so that they do nu lean medially sau laterally). Using lead glove, hold infant’s Degete Picior. When adduction deformity este too great la permit correct placement de picioarele și picioare pentru bilateral imagini fără overlap de picioarele, fiecare Picior trebuie să fie examined separately (Figs. 7.64 și 7.65). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe oase tarsiene, midway între tarsal areas pentru bilateral incidență. approximately 15-grade posterior angle este generally required pentru raza centrală la fie perpendicular pe oase tarsiene. Kite 4, 5 stressed importance de directing raza centrală vertically pentru purpose de projecting true relationship de bones și ossification centers.
+    - **Poziție Pacient:** Se așază sugarul în decubit dorsal, cu șoldurile și genunchii flectați pentru a permite piciorului să se sprijine plat pe receptorul de imagine. Se ridică trunchiul pe perne ferme până la înălțimea genunchilor, pentru a simplifica ecranarea gonadelor și ajustarea membrului inferior.; Se sprijină picioarele plat pe receptorul de imagine, cu gleznele ușor extinse, pentru a preveni suprapunerea umbrei membrului inferior. Se mențin genunchii sugarului împreună sau într-un mod care să mențină picioarele exact verticale (adică să nu fie înclinate medial sau lateral). Folosind o mănușă plumbată, se țin degetele piciorului sugarului. Când deformarea în adducție este prea mare pentru a permite plasarea corectă a picioarelor și a tălpilor pentru imagini bilaterale fără suprapunerea picioarelor, fiecare picior trebuie examinat separat (Fig. 7.64 și 7.65). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendiculară pe oasele tarsiene, la jumătatea distanței dintre regiunile tarsiene pentru incidența bilaterală. Este necesar, în general, un unghi posterior de aproximativ 15° pentru ca raza centrală să fie perpendiculară pe oasele tarsiene. Kite 4, 5 a subliniat importanța orientării verticale a razei centrale în scopul proiectării relației reale dintre oase și centrii de osificare.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -142,6 +147,7 @@ title: Rx Congenital Clubfoot — Incidență Antero-Posterioară (AP) — Kite 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -181,30 +187,3 @@ title: Rx Congenital Clubfoot — Incidență Antero-Posterioară (AP) — Kite 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 497–498](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### cr
-
-• perpendicular pe oase tarsiene, midway între tarsal areas pentru bilateral incidență.
-• approximately 15-grade posterior angle este generally required pentru raza centrală la fie perpendicular pe oase tarsiene.
-• Kite 4, 5 stressed importance de directing raza centrală vertically pentru purpose de projecting true relationship de bones
-și ossification centers.
-
-### part_pos
-
-• Rest picioarele flat pe receptorul de imagine cu ankles extins slightly la prevent superimposition de membru inferior shadow.
-• Hold infant’s genunchi together sau în such way that picioarele sunt exactly vertical (i.e., so that they do nu lean medially sau laterally).
-• Using lead glove, hold infant’s toes. When adduction deformity este too great la permit correct placement de picioarele și picioare
-pentru bilateral imagini fără overlap de picioarele, fiecare picior trebuie să fie examined separately (Figs. 7.64 și 7.65).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Place infant în decubit dorsal, cu șoldurile și genunchi flectat la permit picior la rest flat pe receptorul de imagine. Elevate corp pe firm
-pillows la genunchi height la simplify gonad shielding și membru inferior adjustment.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

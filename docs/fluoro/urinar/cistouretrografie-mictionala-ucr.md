@@ -165,6 +165,7 @@ position: 'Decubit dorsal pentru sondare și faza de umplere; În faza micționa
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 1 mSv) - Clasa 2`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient & Substanță de Contrast__
 
     ---

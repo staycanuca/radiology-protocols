@@ -32,6 +32,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-bilateral-or-unilateral-posterior-coaste-grilaj-costal-ap-antero-posterior-above-or-below-diaphragm-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'Pentru evidențierea unui traumatism acut specific al coastelor posterioare
@@ -119,11 +123,12 @@ title: Rx grilaj costal posterior bilateral sau unilateral AP (antero-posterior)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -167,6 +172,7 @@ title: Rx grilaj costal posterior bilateral sau unilateral AP (antero-posterior)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pentru evidențierea unui traumatism acut specific al coastelor posterioare de pe o parte a cavității toracice, efectuați o examinare unilaterală a coastelor. În loc să aliniați planul mediosagital la receptorul de imagine, centrați partea de interes la centrul receptorului, la jumătatea distanței dintre planul mediosagital și marginea laterală a toracelui. Raza centrală este perpendiculară pe receptorul de imagine (RI), la 3 până la 4 inci sub incizura jugulară (manubriul sternal) pentru coastele deasupra cupolelor diafragmatice sau la jumătatea distanței dintre apendicele xifoid și marginea costală inferioară pentru coastele de sub cupolele diafragmatice. Colimați la coastele de pe partea de interes și includeți coloana toracală. Protocol de rutină pentru coaste (grilaj costal): coaste posterioare (AP) sau anterioare (PA) — examinare bilaterală sau unilaterală; coaste axilare (oblică anterioară sau posterioară); torace PA (vezi capitolul 2). C B Fig. 10.33 (A) AP bilateral în ortostatism — deasupra cupolelor diafragmatice. (B) AP bilateral în decubit dorsal — sub cupolele diafragmatice. (C) AP unilateral în ortostatism — deasupra cupolelor diafragmatice.

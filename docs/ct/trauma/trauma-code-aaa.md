@@ -12,6 +12,10 @@ contrast:
   timing: 'Protocol trifazic rapid: Nativ + Arterial + Venoasă Portală'
   trigger: 150 HU
   volume: 125 mL
+iris_reference:
+  chapter: Traumatisme & Politraumă
+  radiation_dose: Clasa 4 (Ridicată > 15 - 20 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-01-01'
 notes:
   additional_recons: Măsurători detaliate de anevrism (diametru maxim, lungime col,
@@ -79,6 +83,21 @@ series:
   start: Diafragm
   thickness: 0.625 mm
 slug: trauma-code-aaa
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: ACR
+  kind: Criterii de oportunitate clinică
+  sha256: 7a9944bf40cbdca19afa54c99c357074c28dc49534ed1c21c814d9f71c93b198
+  source_region: US
+  title: ACR Appropriateness Criteria — Major Blunt Trauma
+  url: https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — Trauma Whole-Body CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Activat (Modulare automată 3D pentru politraumă)
@@ -90,27 +109,12 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Urgență / Cod Ruptură Anevrism de Aortă Abdominală (Cod AAA)
-sources:
-- title: ACR Appropriateness Criteria — Major Blunt Trauma
-  url: https://www.acr.org/clinical-resources/clinical-tools-and-reference/appropriateness-criteria
-  institution: ACR
-  source_region: US
-  kind: Criterii de oportunitate clinică
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 7a9944bf40cbdca19afa54c99c357074c28dc49534ed1c21c814d9f71c93b198
-- title: UT Southwestern Radiology — Trauma Whole-Body CT Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Urgență / Cod Ruptură Anevrism de Aortă Abdominală (Cod AAA)
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -137,10 +141,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Traumatisme & Politraumă*).
+            - **Capitol Ghid IRIS:** *Traumatisme & Politraumă*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 4 (Ridicată > 15 - 20 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -227,6 +235,7 @@ sources:
     | Coronal | Fază Arterială CAP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Vascular |  | Morfologie aortică și sediul extravazării |
     | Sagital | Fază Arterială CAP | Abdomen-Pelvis | 2.5 mm/2.5 mm | Vascular |  | Extensie longitudinală a anevrismului |
     | 3D VR | Fază Arterială CAP | Abdomen-Pelvis | 1 mm/1 mm | Vascular |  | Randare 3D VR de urgență pentru planificare EVAR |
+
 
 ## Surse și revizuire
 

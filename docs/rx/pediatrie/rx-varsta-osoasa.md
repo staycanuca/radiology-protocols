@@ -21,11 +21,11 @@ position: Copil așezat pe scaun, mâna și pumnul STÂNG (convenție internați
   Atlasului Greulich & Pyle) plasate plat pe detector cu degetele ușor depărtate
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare strictă pe mâna stângă
 quality_criteria:
-- Vizualizarea completă oaselor carpiene, epifizelor și metafizelor radiusului, ulnei,
-  metacarpienelor și falangelor
+- Vizualizarea completă a oaselor carpiene, epifizelor și metafizelor radiusului,
+  ulnei, metacarpienelor și falangelor
 - Degetele complet întinse, fără flexie sau suprapunere
 - Rezoluție osoasă fină care permite identificarea fuziunii cartilajelor de creștere
 sid_dff: 100 cm
@@ -48,15 +48,15 @@ sources:
   url: https://op.europa.eu/en/publication-detail/-/publication/d3d77212-5290-414e-8e37-27fde43b5925
 tech_params:
   aec_chambers: Manual
-  collimation: De la treimea distală antebrațului stâng până la vârfurile degetelor
+  collimation: De la treimea distală a antebrațului stâng până la vârfurile degetelor
   filtration: Totală ≥ 2.5 mm Al
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă
   kv: 45 - 50
   mas: 1.5 - 2.5
-title: Rx Vârstă Osoasă (Mână & Pumn Stâng)
+title: Rx vârstă osoasă (mână și pumn stâng)
 ---
-# Rx Vârstă Osoasă (Mână & Pumn Stâng)
+# Rx vârstă osoasă (mână și pumn stâng)
 
 
 <div class="rx-meta-bar">
@@ -88,6 +88,7 @@ title: Rx Vârstă Osoasă (Mână & Pumn Stâng)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.005 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -109,14 +110,14 @@ title: Rx Vârstă Osoasă (Mână & Pumn Stâng)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Manual |
-    | **Colimare Fascicul** | De la treimea distală antebrațului stâng până la vârfurile degetelor |
+    | **Colimare Fascicul** | De la treimea distală a antebrațului stâng până la vârfurile degetelor |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă oaselor carpiene, epifizelor și metafizelor radiusului, ulnei, metacarpienelor și falangelor
+    - Vizualizarea completă a oaselor carpiene, epifizelor și metafizelor radiusului, ulnei, metacarpienelor și falangelor
     - Degetele complet întinse, fără flexie sau suprapunere
     - Rezoluție osoasă fină care permite identificarea fuziunii cartilajelor de creștere
 
@@ -124,10 +125,11 @@ title: Rx Vârstă Osoasă (Mână & Pumn Stâng)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare strictă pe mâna stângă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Se compară imaginea obținută cu standardele din Atlasul Greulich & Pyle sau metoda Tanner-Whitehouse (TW3). Mâna stângă este standardul universal chiar și la copiii dreptaci.

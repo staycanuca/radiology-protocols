@@ -49,6 +49,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-modified-mento-occipital-p279-clark/fig_5.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• pe măsură ce angulația craniană crește, partea superioară a casetei trebuie
@@ -159,30 +163,31 @@ title: Radiografia masivului facial (oaselor feței), incidență occipito-mento
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul va fi în decubit dorsal pe targa mobilă și nu trebuie mișcat. Dacă este posibilă introducerea casetei și a grilei sub capul pacientului fără mobilizarea gâtului, aceasta trebuie efectuată. Dacă nu este posibil, introduceți caseta și grila în tava pentru casetă de sub pacient.
-• partea superioară a casetei trebuie să fie la cel puțin 5 cm deasupra părții superioare a capului, pentru a permite orice angulație craniană a fasciculului.
-• se recomandă o casetă de 24 × 30-cm.
-
-• incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei aparatului pentru craniu sau stativul vertical Bucky.
-• nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală la un unghi de 45 grade față de suportul casetei.
-• linia centrală orizontală a stativului Bucky sau a suportului casetei trebuie să fie la nivelul simfizei mentoniere.
-• asigurați-vă că planul mediosagital este perpendicular pe stativul Bucky sau suportul casetei, verificând că canthusurile externe ale ochilor și meatul auditiv extern sunt echidistante.
-    - **Punct de Centrare Fascicul:** • pacientul trebuie evaluat în ceea ce privește poziția (unghiul) liniei orbitomeatale (LOM) în raport cu caseta.
-• Dacă linia de bază formează un unghi de 45 grade posterior față de verticală (bărbia ridicată), poate fi utilizat un fascicul perpendicular, centrat pe linia mediană la nivelul marginilor orbitare inferioare.
-• Dacă linia orbitomeatală formează cu caseta un unghi mai mic de 45 grade din cauza ortezei cervicale, diferența dintre unghiul măsurat și 45 grade trebuie adăugată fasciculului sub forma unei angulații craniene. Punctul de centrare rămâne același.
-• de exemplu, dacă linia orbitomeatală a fost estimată la 20 grade față de verticală deoarece bărbia era ridicată, trebuie aplicată o angulație craniană de 25 grade tubului pentru a menține unghiul necesar (vezi schema).
-
-• tubul este înclinat cu 30 grade caudal și centrat de-a lungul liniei mediane, astfel încât raza centrală să iasă la nivelul marginilor orbitare inferioare.
-• pentru a verifica dacă fasciculul este centrat corect, liniile încrucișate de pe stativul Bucky sau suportul casetei trebuie să coincidă aproximativ cu regiunea superioară a simfizei mentoniere (aceasta va varia în funcție de diferențele anatomice dintre pacienți).
+    - **Poziție Pacient:**
+        - pacientul va fi în decubit dorsal pe targa mobilă și nu trebuie mișcat. Dacă este posibilă introducerea casetei și a grilei sub capul pacientului fără mobilizarea gâtului, aceasta trebuie efectuată. Dacă nu este posibil, introduceți caseta și grila în tava pentru casetă de sub pacient.
+        - partea superioară a casetei trebuie să fie la cel puțin 5 cm deasupra părții superioare a capului, pentru a permite orice angulație craniană a fasciculului.
+        - se recomandă o casetă de 24 × 30-cm.
+        - incidența se realizează optim cu pacientul așezat cu fața spre suportul casetei aparatului pentru craniu sau stativul vertical Bucky.
+        - nasul și bărbia pacientului sunt plasate în contact cu linia mediană a stativului/casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală la un unghi de 45 grade față de suportul casetei.
+        - linia centrală orizontală a stativului Bucky sau a suportului casetei trebuie să fie la nivelul simfizei mentoniere.
+        - asigurați-vă că planul mediosagital este perpendicular pe stativul Bucky sau suportul casetei, verificând că canthusurile externe ale ochilor și meatul auditiv extern sunt echidistante.
+    - **Punct de Centrare Fascicul:**
+        - pacientul trebuie evaluat în ceea ce privește poziția (unghiul) liniei orbitomeatale (LOM) în raport cu caseta.
+        - Dacă linia de bază formează un unghi de 45 grade posterior față de verticală (bărbia ridicată), poate fi utilizat un fascicul perpendicular, centrat pe linia mediană la nivelul marginilor orbitare inferioare.
+        - Dacă linia orbitomeatală formează cu caseta un unghi mai mic de 45 grade din cauza ortezei cervicale, diferența dintre unghiul măsurat și 45 grade trebuie adăugată fasciculului sub forma unei angulații craniene. Punctul de centrare rămâne același.
+        - de exemplu, dacă linia orbitomeatală a fost estimată la 20 grade față de verticală deoarece bărbia era ridicată, trebuie aplicată o angulație craniană de 25 grade tubului pentru a menține unghiul necesar (vezi schema).
+        - tubul este înclinat cu 30 grade caudal și centrat de-a lungul liniei mediane, astfel încât raza centrală să iasă la nivelul marginilor orbitare inferioare.
+        - pentru a verifica dacă fasciculul este centrat corect, liniile încrucișate de pe stativul Bucky sau suportul casetei trebuie să coincidă aproximativ cu regiunea superioară a simfizei mentoniere (aceasta va varia în funcție de diferențele anatomice dintre pacienți).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -219,14 +224,16 @@ title: Radiografia masivului facial (oaselor feței), incidență occipito-mento
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • pe măsură ce angulația craniană crește, partea superioară a casetei trebuie deplasată mai mult față de partea superioară a capului.
-• aceste imagini prezintă o deteriorare accentuată din cauza rezoluției slabe, rezultată din mărirea și distorsiunea produse de angulația craniană. Poate fi util să se ia în considerare amânarea examinării până când orice leziune spinală poate fi exclusă și pacientul poate fi examinat fără orteza cervicală sau mutat pe aparatul pentru craniu, dacă celelalte leziuni permit.
-264 45° pacient examinat în decubit dorsal cu linia de bază la 45 grade 25° 20° pacient examinat în decubit dorsal cu linia de bază la 20 grade și angulație craniană de 25 grade
 
-la multe aparate pentru craniu, tubul și suportul casetei sunt fixate permanent, astfel încât tubul este perpendicular pe casetă. Aceasta reprezintă o problemă pentru această incidență, deoarece linia de bază trebuie să formeze 45 grade cu caseta. Acest lucru nu ar fi valabil când se aplică un unghi al tubului de 30 grade. Pacientul trebuie, prin urmare, poziționat cu linia orbitomeatală (LOM) la 45 grade față de linia verticală imaginară trasată de la podea (vezi imaginea alăturată).
-Deși acest aranjament face poziționarea și imobilizarea mai dificile, are avantajul de a produce o imagine lipsită de distorsiune.
-Această incidență evidențiază marginile orbitare inferioare și planșeele orbitare en face. Arcurile zigomatice sunt desfăcute comparativ cu incidența occipito-mentonieră, dar sunt încă scurtate.
+!!! note "Observații Clinice & Tehnice"
+    - pe măsură ce angulația craniană crește, partea superioară a casetei trebuie deplasată mai mult față de partea superioară a capului.
+    - aceste imagini prezintă o deteriorare accentuată din cauza rezoluției slabe, rezultată din mărirea și distorsiunea produse de angulația craniană. Poate fi util să se ia în considerare amânarea examinării până când orice leziune spinală poate fi exclusă și pacientul poate fi examinat fără orteza cervicală sau mutat pe aparatul pentru craniu, dacă celelalte leziuni permit. 264 45° pacient examinat în decubit dorsal cu linia de bază la 45 grade 25° 20° pacient examinat în decubit dorsal cu linia de bază la 20 grade și angulație craniană de 25 grade
+    la multe aparate pentru craniu, tubul și suportul casetei sunt fixate permanent, astfel încât tubul este perpendicular pe casetă. Aceasta reprezintă o problemă pentru această incidență, deoarece linia de bază trebuie să formeze 45 grade cu caseta. Acest lucru nu ar fi valabil când se aplică un unghi al tubului de 30 grade. Pacientul trebuie, prin urmare, poziționat cu linia orbitomeatală (LOM) la 45 grade față de linia verticală imaginară trasată de la podea (vezi imaginea alăturată).
+
+    Deși acest aranjament face poziționarea și imobilizarea mai dificile, are avantajul de a produce o imagine lipsită de distorsiune.
+
+    Această incidență evidențiază marginile orbitare inferioare și planșeele orbitare en face. Arcurile zigomatice sunt desfăcute comparativ cu incidența occipito-mentonieră, dar sunt încă scurtate.
+
 
 
 ### 🖼️ Imagini

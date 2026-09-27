@@ -3,29 +3,30 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• Raza centrală verticală este centrată pe base de first metacarpal.
+centering: '• Raza centrală verticală este centrată pe baza primului metacarpian.
 
-  48 Normal Profil (lateral) radiografie de Police Normal Antero-posterior (AP) radiografie
-  de Police
+  48 Radiografie normală de profil (lateral) a policelui. Radiografie normală anteroposterioară
+  (AP) a policelui.
 
 
-  • raza centrală verticală centrală este centred la first articulații metacarpofalangiene
+  • Raza centrală verticală este centrată pe prima articulație metacarpofalangiană
   (MCF).'
 clinical_indications:
-- suspiciune de fractură de base de first metacarpal through articulație surface poate
-  fie associated cu luxație articulară due la pull de abductor și extensor tendons
-  de Police. This este known ca Bennett’s suspiciune de fractură și poate cause functional
-  impairment și early degenerative disease if nu corrected. în contrast, suspiciune
-  de fractură that does nu transgress articular surface does nu dislocate și does
-  nu have same significance (Rolando suspiciune de fractură). Postero-anterior (PA)
-  Police – evidențiind luxație articulară la first articulații metacarpofalangiene
-  (MCF) radiografie de Police evidențiind Bennett’s suspiciune de fractură Antero-posterior
-  (AP) radiografie de Police – incorrectly poziționat
+- Fractura bazei primului metacarpian, care traversează suprafața articulară, poate
+  fi asociată cu luxația articulară datorită tracțiunii exercitate de tendoanele abductorului
+  și extensorului policelui. Aceasta este cunoscută drept fractura Bennett și poate
+  cauza afectare funcțională și boală degenerativă precoce dacă nu este corectată.
+  În schimb, fractura care nu traversează suprafața articulară nu se luxează și nu
+  are aceeași semnificație (fractura Rolando). Police în incidență postero-anterioară
+  (PA) – evidențiind luxația articulară la prima articulație metacarpofalangiană (MCF).
+  Radiografie a policelui evidențiind fractura Bennett. Radiografie anteroposterioară
+  (AP) a policelui – poziționată incorect.
 images:
-- caption: Normal Profil (lateral) radiografie de Police
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie normală de profil (lateral) a policelui
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_1.jpeg
-- caption: Normal Antero-posterior (AP) radiografie de Police
+- caption: Radiografie normală anteroposterioară (AP) a policelui
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_2.jpeg
@@ -37,54 +38,60 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_4.jpeg
-- caption: suspiciune de fractură de base de first metacarpal through articulație
+- caption: Fractura bazei primului metacarpian care traversează articulația
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_5.jpeg
-- caption: Bennett’s suspiciune de fractură și poate cause functional impairment și
+- caption: Fractura Bennett și poate cauza afectare funcțională și
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_6.jpeg
-- caption: locate și does nu have same significance (Rolando suspiciune de fractură).
+- caption: localizată și nu are aceeași semnificație (fractura Rolando).
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_7.jpeg
-- caption: Postero-anterior (PA) Police – evidențiind luxație articulară la first
+- caption: Police în incidență postero-anterioară (PA) – evidențiind luxația articulară
+    la prima
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_8.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Postero-anterior (PA) incidență increases object-la-film radiologic distance
-  și hence, potentially, unsharpness, but it este sometimes easier și less painful
-  pentru pacientul.
+notes: '• Incidența postero-anterioară (PA) crește distanța obiect–film radiologic
+  și, prin urmare, neclaritatea potențială, dar este uneori mai ușoară și mai puțin
+  dureroasă pentru pacient.
 
-  • use de Postero-anterior (PA) incidență maintains relationship de adjacent bones,
-  i.e. radius și ulna, which este essential în cases de suspected corp străin radiopac
-  în thenar eminence.'
-position: '• pacientul este așezat pe scaun facing away de la masa de examinare cu
-  braț extins backwards și medially rotit la Umăr.
+  • Utilizarea incidenței postero-anterioare (PA) menține relația oaselor adiacente,
+  adică radiusul și ulna, ceea ce este esențial în cazurile de suspiciune a unui corp
+  străin radiopac în eminența tenară.'
+position: '• Pacientul este așezat pe scaun, cu fața opusă mesei de examinare, cu
+  brațul extins posterior și rotit medial la nivelul umărului.
 
-  Mână poate fie slightly rotit la ensure that second, third și fourth oase metacarpiene
-  sunt nu superimposed pe base de first metacarpal.
+  Mâna poate fi rotită ușor pentru a asigura că al doilea, al treilea și al patrulea
+  metacarpian nu se suprapun peste baza primului metacarpian.
 
-  • pacientul leans forward, lowering Umăr astfel încât first metacarpal este paralel
-  cu tabletop.
+  • Pacientul se apleacă înainte, coborând umărul astfel încât primul metacarpian
+  să fie paralel cu suprafața mesei.
 
-  • caseta este plasat under Pumn (Articulație Radiocarpiană) și Police și oriented
-  la axa longitudinală de metacarpal.
+  • Caseta este plasată sub pumn (articulația radiocarpiană) și police și orientată
+  pe axa longitudinală a metacarpianului.
 
 
-  • cu Mână în Postero-anterior (PA) poziție, palm de Mână este rotit through 90 grade
-  la bring medial aspect de Mână în contact cu masa de examinare și palm vertical.
+  • Cu mâna în poziție postero-anterioară (PA), palma mâinii este rotită la 90 de
+  grade pentru a aduce aspectul medial al mâinii în contact cu masa de examinare,
+  cu palma verticală.
 
-  • caseta este plasat under Mână și Pumn (Articulație Radiocarpiană), cu its axa
-  longitudinală along line de Police.
+  • Caseta este plasată sub mână și pumn (articulația radiocarpiană), cu axa sa longitudinală
+  de-a lungul liniei policelui.
 
-  • Degete Mână sunt extins și Mână este rotit slightly forwards until anterior aspect
-  de Police este paralel cu casetă.
+  • Degetele mâinii sunt extinse, iar mâna este rotită ușor anterior până când aspectul
+  anterior al policelui este paralel cu caseta.
 
-  • Police este sprijinit în poziție pe non-opaque pad.'
+  • Policele este susținut în poziție pe un suport radiotransparent.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -93,12 +100,12 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Where there este possibility de injury la base de first metacarpal, carpo-metacarpal
-  articulație trebuie să fie included pe imagine. Antero-posterior (AP)
-- Where there este possibility de injury la base de first metacarpal, carpo-metacarpal
-  articulație trebuie să fie included pe imagine.
-- second, third, fourth și fifth oase metacarpiene trebuie să nu fie superimposed
-  pe first.
+- În cazul posibilității unei leziuni la baza primului metacarpian, articulația carpometacarpiană
+  trebuie inclusă în imagine. Anteroposterior (AP)
+- În cazul posibilității unei leziuni la baza primului metacarpian, articulația carpometacarpiană
+  trebuie inclusă în imagine.
+- Al doilea, al treilea, al patrulea și al cincilea metacarpian nu trebuie să se suprapună
+  peste primul.
 sid_dff: 100 cm
 slug: rx-police-profil-lateral-p63-clark
 sources:
@@ -107,14 +114,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Police Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx police, incidență de profil (lateral)
 ---
-# Rx Police Profil (Lateral)
+# Rx police, incidență de profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -133,33 +140,32 @@ title: Rx Police Profil (Lateral)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură de base de first metacarpal through articulație surface poate fie associated cu luxație articulară due la pull de abductor și extensor tendons de Police. This este known ca Bennett’s suspiciune de fractură și poate cause functional impairment și early degenerative disease if nu corrected. în contrast, suspiciune de fractură that does nu transgress articular surface does nu dislocate și does nu have same significance (Rolando suspiciune de fractură). Postero-anterior (PA) Police – evidențiind luxație articulară la first articulații metacarpofalangiene (MCF) radiografie de Police evidențiind Bennett’s suspiciune de fractură Antero-posterior (AP) radiografie de Police – incorrectly poziționat
+        - Fractura bazei primului metacarpian, care traversează suprafața articulară, poate fi asociată cu luxația articulară datorită tracțiunii exercitate de tendoanele abductorului și extensorului policelui. Aceasta este cunoscută drept fractura Bennett și poate cauza afectare funcțională și boală degenerativă precoce dacă nu este corectată. În schimb, fractura care nu traversează suprafața articulară nu se luxează și nu are aceeași semnificație (fractura Rolando). Police în incidență postero-anterioară (PA) – evidențiind luxația articulară la prima articulație metacarpofalangiană (MCF). Radiografie a policelui evidențiind fractura Bennett. Radiografie anteroposterioară (AP) a policelui – poziționată incorect.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este așezat pe scaun facing away de la masa de examinare cu braț extins backwards și medially rotit la Umăr.
-Mână poate fie slightly rotit la ensure that second, third și fourth oase metacarpiene sunt nu superimposed pe base de first metacarpal.
-• pacientul leans forward, lowering Umăr astfel încât first metacarpal este paralel cu tabletop.
-• caseta este plasat under Pumn (Articulație Radiocarpiană) și Police și oriented la axa longitudinală de metacarpal.
-
-• cu Mână în Postero-anterior (PA) poziție, palm de Mână este rotit through 90 grade la bring medial aspect de Mână în contact cu masa de examinare și palm vertical.
-• caseta este plasat under Mână și Pumn (Articulație Radiocarpiană), cu its axa longitudinală along line de Police.
-• Degete Mână sunt extins și Mână este rotit slightly forwards until anterior aspect de Police este paralel cu casetă.
-• Police este sprijinit în poziție pe non-opaque pad.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe base de first metacarpal.
-48 Normal Profil (lateral) radiografie de Police Normal Antero-posterior (AP) radiografie de Police
-
-• raza centrală verticală centrală este centred la first articulații metacarpofalangiene (MCF).
+    - **Poziție Pacient:**
+        - Pacientul este așezat pe scaun, cu fața opusă mesei de examinare, cu brațul extins posterior și rotit medial la nivelul umărului. Mâna poate fi rotită ușor pentru a asigura că al doilea, al treilea și al patrulea metacarpian nu se suprapun peste baza primului metacarpian.
+        - Pacientul se apleacă înainte, coborând umărul astfel încât primul metacarpian să fie paralel cu suprafața mesei.
+        - Caseta este plasată sub pumn (articulația radiocarpiană) și police și orientată pe axa longitudinală a metacarpianului.
+        - Cu mâna în poziție postero-anterioară (PA), palma mâinii este rotită la 90 de grade pentru a aduce aspectul medial al mâinii în contact cu masa de examinare, cu palma verticală.
+        - Caseta este plasată sub mână și pumn (articulația radiocarpiană), cu axa sa longitudinală de-a lungul liniei policelui.
+        - Degetele mâinii sunt extinse, iar mâna este rotită ușor anterior până când aspectul anterior al policelui este paralel cu caseta.
+        - Policele este susținut în poziție pe un suport radiotransparent.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este centrată pe baza primului metacarpian. 48 Radiografie normală de profil (lateral) a policelui. Radiografie normală anteroposterioară (AP) a policelui.
+        - Raza centrală verticală este centrată pe prima articulație metacarpofalangiană (MCF).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -170,21 +176,21 @@ Mână poate fie slightly rotit la ensure that second, third și fourth oase met
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Where there este possibility de injury la base de first metacarpal, carpo-metacarpal articulație trebuie să fie included pe imagine. Antero-posterior (AP)
-    - Where there este possibility de injury la base de first metacarpal, carpo-metacarpal articulație trebuie să fie included pe imagine.
-    - second, third, fourth și fifth oase metacarpiene trebuie să nu fie superimposed pe first.
+    - În cazul posibilității unei leziuni la baza primului metacarpian, articulația carpometacarpiană trebuie inclusă în imagine. Anteroposterior (AP)
+    - În cazul posibilității unei leziuni la baza primului metacarpian, articulația carpometacarpiană trebuie inclusă în imagine.
+    - Al doilea, al treilea, al patrulea și al cincilea metacarpian nu trebuie să se suprapună peste primul.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -196,9 +202,10 @@ Mână poate fie slightly rotit la ensure that second, third și fourth oase met
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Postero-anterior (PA) incidență increases object-la-film radiologic distance și hence, potentially, unsharpness, but it este sometimes easier și less painful pentru pacientul.
-• use de Postero-anterior (PA) incidență maintains relationship de adjacent bones, i.e. radius și ulna, which este essential în cases de suspected corp străin radiopac în thenar eminence.
+    - Incidența postero-anterioară (PA) crește distanța obiect–film radiologic și, prin urmare, neclaritatea potențială, dar este uneori mai ușoară și mai puțin dureroasă pentru pacient.
+    - Utilizarea incidenței postero-anterioare (PA) menține relația oaselor adiacente, adică radiusul și ulna, ceea ce este esențial în cazurile de suspiciune a unui corp străin radiopac în eminența tenară.
 
 
 ### 🖼️ Imagini
@@ -207,17 +214,17 @@ Mână poate fie slightly rotit la ensure that second, third și fourth oase met
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Profil (lateral) radiografie de Police](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_1.jpeg)
+![Radiografie normală de profil (lateral) a policelui](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Profil (lateral) radiografie de Police</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală de profil (lateral) a policelui</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Antero-posterior (AP) radiografie de Police](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_2.jpeg)
+![Radiografie normală anteroposterioară (AP) a policelui](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_2.jpeg)
 
-<figcaption><strong>Normal Antero-posterior (AP) radiografie de Police</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală anteroposterioară (AP) a policelui</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -239,33 +246,33 @@ Mână poate fie slightly rotit la ensure that second, third și fourth oase met
 
 <figure class="protocol-image-card" markdown>
 
-![suspiciune de fractură de base de first metacarpal through articulație](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_5.jpeg)
+![Fractura bazei primului metacarpian care traversează articulația](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_5.jpeg)
 
-<figcaption><strong>suspiciune de fractură de base de first metacarpal through articulație</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Bennett’s suspiciune de fractură și poate cause functional impairment și](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_6.jpeg)
-
-<figcaption><strong>Bennett’s suspiciune de fractură și poate cause functional impairment și</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Fractura bazei primului metacarpian care traversează articulația</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![locate și does nu have same significance (Rolando suspiciune de fractură).](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_7.jpeg)
+![Fractura Bennett și poate cauza afectare funcțională și](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_6.jpeg)
 
-<figcaption><strong>locate și does nu have same significance (Rolando suspiciune de fractură).</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Fractura Bennett și poate cauza afectare funcțională și</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) Police – evidențiind luxație articulară la first](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_8.jpeg)
+![localizată și nu are aceeași semnificație (fractura Rolando).](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_7.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) Police – evidențiind luxație articulară la first</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>localizată și nu are aceeași semnificație (fractura Rolando).</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Police în incidență postero-anterioară (PA) – evidențiind luxația articulară la prima](../../assets/images/protocols/clark/rx-police-profil-lateral-p63-clark/fig_8.jpeg)
+
+<figcaption><strong>Police în incidență postero-anterioară (PA) – evidențiind luxația articulară la prima</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

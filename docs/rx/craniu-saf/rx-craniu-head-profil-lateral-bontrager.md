@@ -3,8 +3,8 @@ author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: craniu-saf
 centering: perpendicular pe receptorul de imagine, centrat la jumătatea distanței
-  dintre glabelă și protuberanța occipitală sau inion, la 2 inches (5 cm) deasupra
-  conductului auditiv extern (CAE); receptorul de imagine este centrat pe raza centrală
+  dintre glabelă și protuberanța occipitală sau inion, la 2 țoli (5 cm) deasupra conductului
+  auditiv extern (CAE); receptorul de imagine este centrat pe raza centrală
 clinical_indications:
 - sunt aceleași cu cele vizualizate pentru incidența antero-posterioară (AP) pe pagina
   precedentă
@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 16.58
     craniu lateral. (Caz oferit cu amabilitate de Dr. Ian Bickle,)
   url: assets/images/protocols/bontrager/rx-craniu-head-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -89,17 +93,18 @@ title: Rx craniu (cap), profil (lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: tehnicile de imobilizare trebuie utilizate atunci când este necesar. Pacientul este în poziție semipronă, centrat pe linia mediană a mesei.; Regiune anatomică: Rotiți capul în incidență de profil (lateral) adevărată și mențineți poziția prin plasarea unui burete sau a unui prosop împăturit sub mandibulă (Figs. 16.56 și 16.57).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat la jumătatea distanței dintre glabelă și protuberanța occipitală sau inion, la 2 inches (5 cm) deasupra conductului auditiv extern (CAE); receptorul de imagine este centrat pe raza centrală
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, centrat la jumătatea distanței dintre glabelă și protuberanța occipitală sau inion, la 2 țoli (5 cm) deasupra conductului auditiv extern (CAE); receptorul de imagine este centrat pe raza centrală
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 

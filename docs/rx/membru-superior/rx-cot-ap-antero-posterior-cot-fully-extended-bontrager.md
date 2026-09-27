@@ -2,36 +2,42 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la midelbow articulație,
-  which este approximately ¾ inch (2 cm) distal la midpoint de line între epicondyles
+centering: perpendicular pe receptorul de imagine, orientat către articulația cotului,
+  la aproximativ ¾ țol (2 cm) distal față de mijlocul liniei dintre epicondili
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de Cot
-- Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
+- suspiciune de fractură și luxație / subluxație articulară a cotului
+- Procese patologice, cum ar fi osteomielita / leziuni inflamatorii osoase și artrita
 images:
-- caption: Fig. 4.122 AP Cot (fully extins).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.122 AP cot (fully
-    extins).)
+- caption: Fig. 4.122 AP cot (complet extins).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.122 AP
+    cot (complet extins).)
   url: assets/images/protocols/bontrager/rx-cot-ap-antero-posterior-cot-fully-extended-bontrager/fig_1.jpeg
 - caption: Fig. 4.123 AP (extins).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.123
     AP (extins).)
   url: assets/images/protocols/bontrager/rx-cot-ap-antero-posterior-cot-fully-extended-bontrager/fig_2.jpeg
-- caption: Fig. 4.124 AP drept Cot (extins).
+- caption: Fig. 4.124 AP cot drept (extins).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.124
-    AP drept cot (extins).)
+    AP cot drept (extins).)
   url: assets/images/protocols/bontrager/rx-cot-ap-antero-posterior-cot-fully-extended-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table, cu Cot fully extins, if possible
-  (see following page if pacient cannot fully extend Cot).; Regiune anatomică: Extend
-  Cot, supinate Mână, și align braț și Antebraț cu axa longitudinală de receptorul
-  de imagine (Fig. 4.122). Center Cot articulație la center de receptorul de imagine.
-  Ask pacient la lean laterally ca necessary pentru true Incidență Antero-Posterioară
-  (AP). Palpate humeral epicondyles la ensure that interepicondylar plane este paralel
-  cu receptorul de imagine (RI). (interepicondylar plane este imaginary plane între
-  medial și lateral epicondyles de distal Humerus. This plane este useful pentru Cot
-  și Humerus positioning.) Support Mână ca needed la prevent mișcare.'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu cotul complet extins, dacă
+  este posibil (consultați pagina următoare dacă pacientul nu poate extinde complet
+  cotul).; Regiune anatomică: Extindeți cotul, supinați mâna și aliniați brațul și
+  antebrațul cu axa longitudinală a receptorului de imagine (Fig. 4.122). Centrați
+  articulația cotului la centrul receptorului de imagine. Cereți pacientului să se
+  încline lateral după cum este necesar pentru obținerea unei incidențe antero-posterioare
+  (AP) adevărate. Palpați epicondilii humerali pentru a vă asigura că planul interepicondilian
+  este paralel cu receptorul de imagine (RI). (Planul interepicondilian este planul
+  imaginar dintre epicondilul medial și cel lateral ai humerusului distal. Acest plan
+  este util pentru poziționarea cotului și a humerusului.) Sprijiniți mâna după cum
+  este necesar pentru a preveni mișcarea.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -39,23 +45,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'distal Humerus, Cot spații articulare, și proximal radius și ulna sunt vizibil
-  (Figs. 4.123 și 4.124). poziție:'
-- axa longitudinală de braț trebuie să fie aliniat cu axa longitudinală de receptorul
+- 'Humerusul distal, spațiile articulare ale cotului și radiusul și ulna proximale
+  sunt vizibile (Fig. 4.123 și 4.124). Poziție:'
+- Axa longitudinală a brațului trebuie să fie aliniată cu axa longitudinală a receptorului
   de imagine.
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase
-  este evidenced prin appearance de bilateral epicondyles seen în profile și cap radial,
-  neck, și tubercles separated sau only slightly superimposed prin ulna.'
-- olecran trebuie să fie Poziție Șezândă în olecran fossa cu fully extins braț.
-- Cot spații articulare appears open cu fully extins braț și corect raza centrală
-  centering.
-- 'raza centrală și center de collimation field size trebuie să fie la midelbow articulație.
-  expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize
-  părți moi detail; net, bony cortical margins; și clear, bony trabecular markings.
-  Fig. 4.122 AP Cot (fully extins). Fig. 4.123 AP (extins). Capitulum epicondil lateral
-  cap radial Radial tubercle Radius epicondil medial (epitrohlee) Humerus olecran
-  Trochlea Coronoid tubercle Ulna Fig. 4.124 AP drept Cot (extins).
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase
+  este evidențiată prin aspectul epicondililor bilaterali văzuți din profil și al
+  capului radial, colului și tuberculilor, separate sau doar ușor suprapuse de ulnă.'
+- Olecranul trebuie să fie poziționat în fosa olecraniană cu brațul complet extins.
+- Spațiile articulare ale cotului apar deschise cu brațul complet extins și cu centrarea
+  corectă a razei centrale.
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul articulației
+  cotului. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie
+  să vizualizeze detaliile părților moi; marginile corticale osoase nete; și desenul
+  trabecular osos clar. Fig. 4.122 AP cot (complet extins). Fig. 4.123 AP (extins).
+  Capitul epicondil lateral cap radial tubercul radial radius epicondil medial (epitrohleea)
+  humerus olecran trohlee tubercul coronoid ulnă Fig. 4.124 AP cot drept (extins).
 sid_dff: 100 cm
 slug: rx-cot-ap-antero-posterior-cot-fully-extended-bontrager
 sources:
@@ -63,17 +69,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la anatomy de interest. Cot ROUTINE
-    AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral (extern)
-    medial (intern) lateral
+  collimation: 'Dimensiunea câmpului: colimați pe cele patru laturi până la anatomia
+    de interes. Cot AP DE RUTINĂ AP alternativ—flexie parțială AP alternativ—flexie
+    acută oblic lateral (extern) medial (intern) lateral'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '65'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Cot AP (Antero-Posterior) (Cot FULLY EXTENDED)
+title: Rx Cot AP (antero-posterior) (cot COMPLET EXTINS)
 ---
-# Rx Cot AP (Antero-Posterior) (Cot FULLY EXTENDED)
+# Rx Cot AP (antero-posterior) (cot COMPLET EXTINS)
 
 
 <div class="rx-meta-bar">
@@ -92,23 +98,24 @@ title: Rx Cot AP (Antero-Posterior) (Cot FULLY EXTENDED)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de Cot
-        - Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
+        - suspiciune de fractură și luxație / subluxație articulară a cotului
+        - Procese patologice, cum ar fi osteomielita / leziuni inflamatorii osoase și artrita
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot fully extins, if possible (see following page if pacient cannot fully extend Cot).; Regiune anatomică: Extend Cot, supinate Mână, și align braț și Antebraț cu axa longitudinală de receptorul de imagine (Fig. 4.122). Center Cot articulație la center de receptorul de imagine. Ask pacient la lean laterally ca necessary pentru true Incidență Antero-Posterioară (AP). Palpate humeral epicondyles la ensure that interepicondylar plane este paralel cu receptorul de imagine (RI). (interepicondylar plane este imaginary plane între medial și lateral epicondyles de distal Humerus. This plane este useful pentru Cot și Humerus positioning.) Support Mână ca needed la prevent mișcare.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midelbow articulație, which este approximately ¾ inch (2 cm) distal la midpoint de line între epicondyles
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu cotul complet extins, dacă este posibil (consultați pagina următoare dacă pacientul nu poate extinde complet cotul).; Regiune anatomică: Extindeți cotul, supinați mâna și aliniați brațul și antebrațul cu axa longitudinală a receptorului de imagine (Fig. 4.122). Centrați articulația cotului la centrul receptorului de imagine. Cereți pacientului să se încline lateral după cum este necesar pentru obținerea unei incidențe antero-posterioare (AP) adevărate. Palpați epicondilii humerali pentru a vă asigura că planul interepicondilian este paralel cu receptorul de imagine (RI). (Planul interepicondilian este planul imaginar dintre epicondilul medial și cel lateral ai humerusului distal. Acest plan este util pentru poziționarea cotului și a humerusului.) Sprijiniți mâna după cum este necesar pentru a preveni mișcarea.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat către articulația cotului, la aproximativ ¾ țol (2 cm) distal față de mijlocul liniei dintre epicondili
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -124,20 +131,20 @@ title: Rx Cot AP (Antero-Posterior) (Cot FULLY EXTENDED)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. Cot ROUTINE AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral (extern) medial (intern) lateral |
+    | **Colimare Fascicul** | Dimensiunea câmpului: colimați pe cele patru laturi până la anatomia de interes. Cot AP DE RUTINĂ AP alternativ—flexie parțială AP alternativ—flexie acută oblic lateral (extern) medial (intern) lateral |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal Humerus, Cot spații articulare, și proximal radius și ulna sunt vizibil (Figs. 4.123 și 4.124). poziție:
-    - axa longitudinală de braț trebuie să fie aliniat cu axa longitudinală de receptorul de imagine.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este evidenced prin appearance de bilateral epicondyles seen în profile și cap radial, neck, și tubercles separated sau only slightly superimposed prin ulna.
-    - olecran trebuie să fie Poziție Șezândă în olecran fossa cu fully extins braț.
-    - Cot spații articulare appears open cu fully extins braț și corect raza centrală centering.
-    - raza centrală și center de collimation field size trebuie să fie la midelbow articulație. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize părți moi detail; net, bony cortical margins; și clear, bony trabecular markings. Fig. 4.122 AP Cot (fully extins). Fig. 4.123 AP (extins). Capitulum epicondil lateral cap radial Radial tubercle Radius epicondil medial (epitrohlee) Humerus olecran Trochlea Coronoid tubercle Ulna Fig. 4.124 AP drept Cot (extins).
+    - Humerusul distal, spațiile articulare ale cotului și radiusul și ulna proximale sunt vizibile (Fig. 4.123 și 4.124). Poziție:
+    - Axa longitudinală a brațului trebuie să fie aliniată cu axa longitudinală a receptorului de imagine.
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase este evidențiată prin aspectul epicondililor bilaterali văzuți din profil și al capului radial, colului și tuberculilor, separate sau doar ușor suprapuse de ulnă.
+    - Olecranul trebuie să fie poziționat în fosa olecraniană cu brațul complet extins.
+    - Spațiile articulare ale cotului apar deschise cu brațul complet extins și cu centrarea corectă a razei centrale.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul articulației cotului. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie să vizualizeze detaliile părților moi; marginile corticale osoase nete; și desenul trabecular osos clar. Fig. 4.122 AP cot (complet extins). Fig. 4.123 AP (extins). Capitul epicondil lateral cap radial tubercul radial radius epicondil medial (epitrohleea) humerus olecran trohlee tubercul coronoid ulnă Fig. 4.124 AP cot drept (extins).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,9 +164,9 @@ title: Rx Cot AP (Antero-Posterior) (Cot FULLY EXTENDED)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.122 AP Cot (fully extins).](../../assets/images/protocols/bontrager/rx-cot-ap-antero-posterior-cot-fully-extended-bontrager/fig_1.jpeg)
+![Fig. 4.122 AP cot (complet extins).](../../assets/images/protocols/bontrager/rx-cot-ap-antero-posterior-cot-fully-extended-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.122 AP Cot (fully extins).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.122 AP cot (fully extins).)</span></figcaption>
+<figcaption><strong>Fig. 4.122 AP cot (complet extins).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.122 AP cot (complet extins).)</span></figcaption>
 
 </figure>
 
@@ -173,9 +180,9 @@ title: Rx Cot AP (Antero-Posterior) (Cot FULLY EXTENDED)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.124 AP drept Cot (extins).](../../assets/images/protocols/bontrager/rx-cot-ap-antero-posterior-cot-fully-extended-bontrager/fig_3.jpeg)
+![Fig. 4.124 AP cot drept (extins).](../../assets/images/protocols/bontrager/rx-cot-ap-antero-posterior-cot-fully-extended-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.124 AP drept Cot (extins).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.124 AP drept cot (extins).)</span></figcaption>
+<figcaption><strong>Fig. 4.124 AP cot drept (extins).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.124 AP cot drept (extins).)</span></figcaption>
 
 </figure>
 

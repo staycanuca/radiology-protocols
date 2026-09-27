@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe midpoint de Antebraț
+centering: perpendicular pe mijlocul antebrațului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,31 +12,35 @@ images:
 - caption: Merrill — pagina 320, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-antebrat-incidenta-de-profil-lateral-lateromedial-p318-merrill/p320_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun close la masa radiologică și low enough that
-  Humerus, Umăr articulație, și Cot lie în same plane.; se flectează Cot 90 grade
-  și place medial aspect de Antebraț pe / sprijinit de receptorul de imagine. se ajustează
-  receptorul de imagine astfel încât axa longitudinală este paralel cu Antebraț. se
-  ajustează extremity în true Incidență de Profil (lateral), ensuring humeral epicondyles
-  și styloid processes sunt superimposed și perpendicular pe receptorul de imagine
-  (RI). Police side de Mână trebuie să fie up (Fig. 5.108). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Așezați pacientul pe scaun, aproape de masa radiologică și suficient de
+  jos pentru ca humerusul, articulația umărului și cotul să se afle în același plan.
+  Flectați cotul la 90 grade și plasați aspectul medial al antebrațului pe/sprijinit
+  de receptorul de imagine. Ajustați receptorul de imagine astfel încât axa longitudinală
+  să fie paralelă cu antebrațul. Ajustați extremitatea în incidență de profil adevărată,
+  asigurându-vă că epicondilii humerali și procesele stiloide sunt suprapuse și perpendiculare
+  pe receptorul de imagine (RI). Partea policelui mâinii trebuie să fie în sus (Fig.
+  5.108). Efectuați ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- 'Entire Antebraț, including Pumn (Articulație Radiocarpiană) și distal Humerus în
-  true Incidență de Profil (lateral):'
-- Superimposition de radius și ulna la their distal end
-- Superimposition de cap radial over proces coronoid
-- tuberozitate radială bicipitală facing anteriorly
-- Superimposed humeral epicondyles
-- Cot flectat 90 grade
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- 'Antebrațul în întregime, incluzând pumnul (articulația radiocarpiană) și humerusul
+  distal în incidență de profil adevărată:'
+- Suprapunerea radiusului și ulnei la extremitatea lor distală
+- Suprapunerea capului radial peste procesul coronoid
+- tuberozitatea radială bicipitală orientată anterior
+- Epicondili humerali suprapuși
+- Cot flectat la 90 grade
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-antebrat-incidenta-de-profil-lateral-lateromedial-p318-merrill
 source_pages:
@@ -44,60 +48,59 @@ source_pages:
 - 319
 - 320
 source_sections:
-  anatomy: cot articulație, radius și ulna, și proximal row de superimposed oase carpiene
-    (Fig. 5.109).
-  collimation: '• Adjust câmp de iradiere la 2 inches (5 cm) distal la wrist articulație
-    și proximal la cot articulație, și 1 inch (2.5 cm) pe sides. Place
+  anatomy: articulația cotului, radiusul și ulna și rândul proximal de oase carpiene
+    suprapuse (Fig. 5.109).
+  collimation: • Ajustați câmpul de iradiere la 2 țoli (5 cm) distal de articulația
+    pumnului și proximal de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe mijlocul antebrațului
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular pe midpoint de forearm
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Antebrațul în întregime, incluzând pumnul și humerusul distal în poziție de
+    profil adevărată:
 
-    • Entire forearm, including wrist și distal humerus în true poziție de profil
-    (lateral):
+    • Suprapunerea radiusului și ulnei la extremitatea lor distală
 
-    • Superimposition de radius și ulna la their distal end
+    • Suprapunerea capului radial peste procesul coronoid
 
-    • Superimposition de cap radial over proces coronoid
+    • tuberozitatea radială bicipitală orientată anterior
 
-    • tuberozitate radială bicipitală facing anteriorly
+    • Epicondili humerali suprapuși
 
-    • Superimposed humeral epicondyles
+    • cot flectat la 90 grade
 
-    • cot flectat 90 grade
+    • Detalii osoase trabeculare și țesuturile moi adiacente'
+  part_pos: '• Flectați cotul la 90 grade și plasați aspectul medial al antebrațului
+    pe/sprijinit de receptorul de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se flectează cot 90 grade și place medial aspect de forearm pe / sprijinit
-    de receptorul de imagine.
+    • Ajustați receptorul de imagine astfel încât axa longitudinală să fie paralelă
+    cu antebrațul.
 
-    • se ajustează receptorul de imagine astfel încât axa longitudinală este paralel
-    cu forearm.
+    • Ajustați extremitatea în poziție de profil adevărată, asigurându-vă că epicondilii
+    humerali și procesele stiloide sunt suprapuse și perpendiculare pe receptorul
+    de imagine (RI). Partea policelui mâinii trebuie să fie în sus (Fig. 5.108).
 
-    • se ajustează extremity în true poziție de profil (lateral), ensuring humeral
-    epicondyles și styloid processes sunt superimposed și
-
-    perpendicular pe receptorul de imagine (RI). policele side de mână trebuie să
-    fie up (Fig. 5.108).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun close la masa radiologică și low enough
-    that humerus, umăr articulație, și cot lie în same plane.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul pe scaun, aproape de masa radiologică și suficient
+    de jos pentru ca humerusul, articulația umărului și cotul să se afle în același
+    plan.
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 318–320
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2 inches (5 cm) distal la Pumn (Articulație
-    Radiocarpiană) articulație și proximal la Cot articulație, și 1 inch (2.5 cm)
-    pe sides. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Antebraț — Incidență de Profil (Lateral) — Latero-Medial (Merrill)
+  collimation: Ajustați câmpul de iradiere la 2 țoli (5 cm) distal de articulația
+    pumnului și proximal de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați
+    markerul de lateralitate în câmpul colimat.
+title: Rx antebraț — incidență de profil (lateral) — lateromedială (Merrill)
 ---
-# Rx Antebraț — Incidență de Profil (Lateral) — Latero-Medial (Merrill)
+# Rx antebraț — incidență de profil (lateral) — lateromedială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -121,17 +124,18 @@ title: Rx Antebraț — Incidență de Profil (Lateral) — Latero-Medial (Merri
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun close la masa radiologică și low enough that Humerus, Umăr articulație, și Cot lie în same plane.; se flectează Cot 90 grade și place medial aspect de Antebraț pe / sprijinit de receptorul de imagine. se ajustează receptorul de imagine astfel încât axa longitudinală este paralel cu Antebraț. se ajustează extremity în true Incidență de Profil (lateral), ensuring humeral epicondyles și styloid processes sunt superimposed și perpendicular pe receptorul de imagine (RI). Police side de Mână trebuie să fie up (Fig. 5.108). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de Antebraț
+    - **Poziție Pacient:** Așezați pacientul pe scaun, aproape de masa radiologică și suficient de jos pentru ca humerusul, articulația umărului și cotul să se afle în același plan. Flectați cotul la 90 grade și plasați aspectul medial al antebrațului pe/sprijinit de receptorul de imagine. Ajustați receptorul de imagine astfel încât axa longitudinală să fie paralelă cu antebrațul. Ajustați extremitatea în incidență de profil adevărată, asigurându-vă că epicondilii humerali și procesele stiloide sunt suprapuse și perpendiculare pe receptorul de imagine (RI). Partea policelui mâinii trebuie să fie în sus (Fig. 5.108). Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe mijlocul antebrațului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -147,22 +151,22 @@ title: Rx Antebraț — Incidență de Profil (Lateral) — Latero-Medial (Merri
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2 inches (5 cm) distal la Pumn (Articulație Radiocarpiană) articulație și proximal la Cot articulație, și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2 țoli (5 cm) distal de articulația pumnului și proximal de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Antebraț, including Pumn (Articulație Radiocarpiană) și distal Humerus în true Incidență de Profil (lateral):
-    - Superimposition de radius și ulna la their distal end
-    - Superimposition de cap radial over proces coronoid
-    - tuberozitate radială bicipitală facing anteriorly
-    - Superimposed humeral epicondyles
-    - Cot flectat 90 grade
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Antebrațul în întregime, incluzând pumnul (articulația radiocarpiană) și humerusul distal în incidență de profil adevărată:
+    - Suprapunerea radiusului și ulnei la extremitatea lor distală
+    - Suprapunerea capului radial peste procesul coronoid
+    - tuberozitatea radială bicipitală orientată anterior
+    - Epicondili humerali suprapuși
+    - Cot flectat la 90 grade
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -171,6 +175,7 @@ title: Rx Antebraț — Incidență de Profil (Lateral) — Latero-Medial (Merri
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -210,47 +215,3 @@ title: Rx Antebraț — Incidență de Profil (Lateral) — Latero-Medial (Merri
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 318–320](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-cot articulație, radius și ulna, și proximal row de superimposed oase carpiene (Fig. 5.109).
-
-### collimation
-
-• Adjust câmp de iradiere la 2 inches (5 cm) distal la wrist articulație și proximal la cot articulație, și 1 inch (2.5 cm) pe sides. Place
-marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe midpoint de forearm
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire forearm, including wrist și distal humerus în true poziție de profil (lateral):
-• Superimposition de radius și ulna la their distal end
-• Superimposition de cap radial over proces coronoid
-• tuberozitate radială bicipitală facing anteriorly
-• Superimposed humeral epicondyles
-• cot flectat 90 grade
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se flectează cot 90 grade și place medial aspect de forearm pe / sprijinit de receptorul de imagine.
-• se ajustează receptorul de imagine astfel încât axa longitudinală este paralel cu forearm.
-• se ajustează extremity în true poziție de profil (lateral), ensuring humeral epicondyles și styloid processes sunt superimposed și
-perpendicular pe receptorul de imagine (RI). policele side de mână trebuie să fie up (Fig. 5.108).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun close la masa radiologică și low enough that humerus, umăr articulație, și cot lie în same plane.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
-

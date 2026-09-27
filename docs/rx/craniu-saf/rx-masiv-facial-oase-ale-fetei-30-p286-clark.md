@@ -48,6 +48,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-30-p286-clark/fig_6.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• în cazurile de traumatism, ambele părți (bilateral) trebuie examinate pentru
@@ -142,25 +146,26 @@ title: Rx Masiv Facial (Oase ale Feței) 30°
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal. Trunchiul este rotit ușor și apoi sprijinit cu suporturi, pentru a permite părții examinate a feței să intre în contact cu caseta, așezată pe suprafața mesei.
-
-• Pacientul stă așezat cu fața spre stativul Bucky vertical sau spre suportul casetei aparatului pentru craniu. Alternativ, în caz de traumatism, examinarea se poate efectua în decubit dorsal pe cărucior, obținând o incidență antero-posterioară (AP).
-• Planul mediosagital al pacientului trebuie să coincidă cu linia mediană a stativului Bucky sau a suportului casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală perpendicular pe stativul Bucky sau pe suportul casetei.
-• Planul mediosagital trebuie să fie perpendicular pe casetă. Se verifică dacă conductele auditive externe sunt echidistante față de casetă.
-• Caseta trebuie poziționată astfel încât centrul unei casete de 18 × 24 cm, așezată longitudinal în stativul Bucky sau în suportul casetei, să fie centrat la nivelul unghiurilor mandibulei.
-    - **Punct de Centrare Fascicul:** • raza centrală este înclinată cu 30 grade cranial, la un unghi de 60 grade față de casetă, și este centrată la 5 cm inferior față de unghiul mandibulei îndepărtat de casetă.
-• Se colimează pentru a include întreaga mandibulă și articulația temporomandibulară (ATM) (se include conductul auditiv extern (CAE) la marginea câmpului de colimare).
-
-• raza centrală este orientată perpendicular pe casetă și centrată pe linia mediană la nivelul unghiurilor mandibulei.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal. Trunchiul este rotit ușor și apoi sprijinit cu suporturi, pentru a permite părții examinate a feței să intre în contact cu caseta, așezată pe suprafața mesei.
+        - Pacientul stă așezat cu fața spre stativul Bucky vertical sau spre suportul casetei aparatului pentru craniu. Alternativ, în caz de traumatism, examinarea se poate efectua în decubit dorsal pe cărucior, obținând o incidență antero-posterioară (AP).
+        - Planul mediosagital al pacientului trebuie să coincidă cu linia mediană a stativului Bucky sau a suportului casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală perpendicular pe stativul Bucky sau pe suportul casetei.
+        - Planul mediosagital trebuie să fie perpendicular pe casetă. Se verifică dacă conductele auditive externe sunt echidistante față de casetă.
+        - Caseta trebuie poziționată astfel încât centrul unei casete de 18 × 24 cm, așezată longitudinal în stativul Bucky sau în suportul casetei, să fie centrat la nivelul unghiurilor mandibulei.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală este înclinată cu 30 grade cranial, la un unghi de 60 grade față de casetă, și este centrată la 5 cm inferior față de unghiul mandibulei îndepărtat de casetă.
+        - Se colimează pentru a include întreaga mandibulă și articulația temporomandibulară (ATM) (se include conductul auditiv extern (CAE) la marginea câmpului de colimare).
+        - raza centrală este orientată perpendicular pe casetă și centrată pe linia mediană la nivelul unghiurilor mandibulei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -200,12 +205,14 @@ title: Rx Masiv Facial (Oase ale Feței) 30°
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • în cazurile de traumatism, ambele părți (bilateral) trebuie examinate pentru a evidenția o posibilă suspiciune de fractură prin contralovitură.
-• Înclinarea capului spre partea examinată poate ajuta la poziționare dacă umărul interferează cu fasciculul primar.
 
-Poate fi necesară o angulație cranială de 10 grade a fasciculului pentru a evidenția condilii mandibulari și articulațiile temporomandibulare.
-272
+!!! note "Observații Clinice & Tehnice"
+    - în cazurile de traumatism, ambele părți (bilateral) trebuie examinate pentru a evidenția o posibilă suspiciune de fractură prin contralovitură.
+    - Înclinarea capului spre partea examinată poate ajuta la poziționare dacă umărul interferează cu fasciculul primar.
+    Poate fi necesară o angulație cranială de 10 grade a fasciculului pentru a evidenția condilii mandibulari și articulațiile temporomandibulare.
+
+    272
+
 
 
 ### 🖼️ Imagini

@@ -8,6 +8,10 @@ clinical_indications:
   leziuni cunoscute.
 clinical_status: draft_not_for_clinical_use
 images: []
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Nu se mobilizează forțat brațul dureros. Dacă problema este localizată proximal
@@ -76,8 +80,8 @@ standard_views:
 - centering: Același segment și capetele articulare.
   condition: Parte a setului inițial justificat de radiolog
   name: Profil humerus
-  position: Proiecție laterală adaptată fără rotații forțate în traumă.
-  quality: Proiecție complementară AP, cu limitele tehnice documentate.
+  position: Incidență de profil adaptată fără rotații forțate în traumă.
+  quality: Incidență AP complementară, cu limitele tehnice documentate.
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   filtration: DE CONFIGURAT PE APARAT
@@ -85,13 +89,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx RX humerus — AP și profil
+title: Rx humerus — AP și profil
 workbench_transfer:
   draft_id: 5dd57a8097af5ddf81fdb5cb663f3d15
   purpose: review_in_main_application
   transferred_at: '2026-09-15T08:50:31.174456+00:00'
 ---
-# Rx RX humerus — AP și profil
+# Rx humerus — AP și profil
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -118,11 +122,12 @@ workbench_transfer:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -163,6 +168,7 @@ workbench_transfer:
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Nu se mobilizează forțat brațul dureros. Dacă problema este localizată proximal sau distal, radiologul poate selecta protocolul articular adecvat.
 
@@ -182,11 +188,11 @@ workbench_transfer:
 
 **Selecție:** Parte a setului inițial justificat de radiolog
 
-**Poziționare:** Proiecție laterală adaptată fără rotații forțate în traumă.
+**Poziționare:** Incidență de profil adaptată fără rotații forțate în traumă.
 
 **Centrare / acoperire:** Același segment și capetele articulare.
 
-**Criterii de acceptare:** Proiecție complementară AP, cu limitele tehnice documentate.
+**Criterii de acceptare:** Incidență AP complementară, cu limitele tehnice documentate.
 
 ## De finalizat la revizuire
 

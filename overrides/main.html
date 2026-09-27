@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block htmltitle %}
+  {% if page and page.meta.seo %}
+    <title>{{ page.meta.seo.title }}</title>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.meta.seo %}
+    <meta name="robots" content="{{ page.meta.seo.robots }}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ro_RO">
+    <meta property="og:site_name" content="{{ config.site_name }}">
+    <meta property="og:title" content="{{ page.meta.seo.title }}">
+    <meta property="og:description" content="{{ page.meta.description }}">
+    <meta property="og:url" content="{{ page.canonical_url }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.meta.seo.title }}">
+    <meta name="twitter:description" content="{{ page.meta.description }}">
+    <script type="application/ld+json">{{ page.meta.seo.schema | tojson }}</script>
+  {% else %}
+    <meta name="robots" content="noindex, follow">
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% if page and page.meta.seo and page.meta.seo.breadcrumbs | length > 1 %}
+    <nav class="seo-breadcrumbs" aria-label="Navigare ierarhică">
+      <ol>
+      {% for crumb in page.meta.seo.breadcrumbs %}
+        <li>{% if loop.last %}<span aria-current="page">{{ crumb.name }}</span>{% else %}<a href="{{ crumb.path | url }}">{{ crumb.name }}</a>{% endif %}</li>
+      {% endfor %}
+      </ol>
+    </nav>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
+
+{% block footer %}
+  <nav class="provenance-site-footer" aria-label="Despre această bibliotecă">
+    <a href="{{ 'despre-proiect/' | url }}">Despre proiect · Surse și metodologie editorială</a>
+  </nav>
+  {{ super() }}
+{% endblock %}

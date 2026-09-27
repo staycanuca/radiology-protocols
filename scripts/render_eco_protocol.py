@@ -175,7 +175,8 @@ def render_eco_document(fm: dict) -> str:
     === "Contraindicații &amp; Limite Tehnice"
 
 {_bullets(contraindications)}
-{_iris_guide_tab(iris_ref)}-   __2. Pregătire Pacient &amp; Echipament (Transductori)__
+{_iris_guide_tab(iris_ref)}
+-   __2. Pregătire Pacient &amp; Echipament (Transductori)__
 
     ---
 

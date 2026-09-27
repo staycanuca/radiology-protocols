@@ -5,10 +5,10 @@ institution:
   name: "Departamentul de Radiologie"
   short_name: "Radiologie"
   # Full URL where the site is deployed (no trailing slash)
-  site_url: "https://dfergs93.github.io/radiology-protocols"
+  site_url: "https://protocoale.co.uk"
   # Path prefix if hosted in a subdirectory (e.g. "/radiology-protocols")
   # Must match mkdocs.yml site_url path
-  base_path: "/radiology-protocols"
+  base_path: ""
 
 contact:
   department_email: ""

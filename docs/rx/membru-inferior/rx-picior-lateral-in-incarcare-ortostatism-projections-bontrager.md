@@ -2,37 +2,47 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Direct raza centrală horizontally la level de base de third metatarsal.
+centering: Se direcționează raza centrală orizontal la nivelul bazei celui de-al treilea
+  metatarsian.
 clinical_indications:
-- evidențiază bones de picioarele la show condition de longitudinal arches under full
-  weight de corp
-- poate evidențiază injury la structural ligaments de Picior such ca Lisfranc articulație
-  injury
+- Evidențiază oasele picioarelor pentru a arăta starea bolților longitudinale sub
+  greutatea corporală completă.
+- Poate evidenția leziuni ale ligamentelor structurale ale piciorului, precum leziunea
+  articulației Lisfranc.
 images:
-- caption: Fig. 6.70 Weight-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.70 Weight-)
+- caption: Fig. 6.70 În încărcare — [fragment deteriorat în sursă]
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.70 În încărcare
+    — [fragment deteriorat în sursă])
   url: assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_1.jpeg
-- caption: Fig. 6.71 Weight-
+- caption: Fig. 6.71 În încărcare — [fragment deteriorat în sursă]
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.71
-    Weight-)
+    În încărcare — [fragment deteriorat în sursă])
   url: assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_2.jpeg
-- caption: Fig. 6.69 lateral weight-
+- caption: Fig. 6.69 profil în încărcare — [fragment deteriorat în sursă]
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.69
-    lateral weight-)
+    profil în încărcare — [fragment deteriorat în sursă])
   url: assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: bilateral incidențe de ambele picioare often sunt taken pentru comparison.
-  Some AP routines include separate incidențe de fiecare Picior taken cu raza centrală
-  centrat pe individual Picior.
-position: 'Pacient: Have pacient stand Ortostatism, cu weight plasat pe affected Picior
-  (Fig. 6.69). Have pacient stand pe wood blocks plasat pe step stool sau Picior rest
-  attached la masa de examinare. You also poate use special wooden box cu slot pentru
-  receptorul de imagine. (It has la fie high enough de la floor la get xray tube down
-  into orizontal fascicul poziție.) Provide some support pentru pacient la hold onto
-  pentru security.; Regiune anatomică: Align axa longitudinală de Picior la axa longitudinală
-  de receptorul de imagine. Change receptorul de imagine și turn pacient pentru lateral
-  de other Picior pentru comparison after first lateral has been taken.'
+notes: Incidențele bilaterale ale ambelor picioare sunt adesea efectuate pentru comparație.
+  Unele protocoale AP includ incidențe separate pentru fiecare picior, efectuate cu
+  raza centrală centrată pe piciorul respectiv.
+position: 'Pacient: Pacientul stă în ortostatism, cu greutatea plasată pe piciorul
+  afectat (Fig. 6.69). Pacientul stă pe blocuri de lemn plasate pe un scăunel cu treaptă
+  sau pe un suport pentru picior atașat mesei de examinare. Se poate utiliza, de asemenea,
+  o cutie specială din lemn cu fantă pentru receptorul de imagine. Aceasta trebuie
+  să fie suficient de înaltă de la podea pentru a permite coborârea tubului radiogen
+  în poziție orizontală a fasciculului. Se oferă pacientului un anumit sprijin pentru
+  siguranță.
+
+  Regiune anatomică: Se aliniază axa longitudinală a piciorului cu axa longitudinală
+  a receptorului de imagine. Se schimbă receptorul de imagine și se întoarce pacientul
+  pentru profilul celuilalt picior, în scop comparativ, după efectuarea primei incidențe
+  de profil.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -40,28 +50,29 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- pentru lateral, entire Picior trebuie să fie evidențiat, along cu minimum de 1 inch
-  (2.5 cm) de distal tibiafibula.
-- 'distal fibula trebuie să fie seen superimposed over posterior half de tibia, și
-  plantar surfaces de heads de oase metatarsiene trebuie să fie superimposed if Absența
-  rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este
-  present.'
-- 'longitudinal arch de Picior trebuie să fie evidențiat în its entirety (Figs. 6.70
-  și 6.71). poziție:'
-- pentru lateral, center de câmp colimat (raza centrală) trebuie să fie la level de
-  base de third metatarsal.
-- 'Foursided collimation trebuie să include toate surrounding părți moi de la falange
-  la Calcaneu și de la dorsum la plantar surface de Picior cu approximately 1 inch
-  (2.5 cm) de distal tibiafibula evidențiat. expunere:'
-- optim receptorul de imagine expunere și contrast la visualize margini de superimposed
-  oase tarsiene și oase metatarsiene.
-- fără mișcare; cortical margins și trabecular markings de Calcaneu și nonsuperimposed
-  portions de other oase tarsiene trebuie să appear sharply defined. Fig. 6.70 Weightbearing
-  lateral. astragal (talus) Navicular articulații metatarsofalangiene (MTF) Base de
-  5th metastarsal Cuboid Calcaneu 1st cuneiform Fig. 6.71 Weightbearing lateral. Picior
-  SPECIAL
-- AP și lateral (weightbearing) Fig. 6.69 lateral weightbearing—drept Picior (incidență
-  taken pe digital receptorul de imagine).
+- Pentru incidența de profil, piciorul în întregime trebuie evidențiat, împreună cu
+  minimum 1 țol (2.5 cm) din tibia-fibula distală.
+- 'Fibula distală trebuie să fie vizibilă suprapusă peste jumătatea posterioară a
+  tibiei, iar suprafețele plantare ale capetelor oaselor metatarsiene trebuie să fie
+  suprapuse dacă este prezentă absența rotației anatomice: clavicule echidistante
+  față de linia apofizelor spinoase.'
+- 'Arcul longitudinal al piciorului trebuie evidențiat în întregime (Fig. 6.70 și
+  6.71). Poziție:'
+- Pentru incidența de profil, centrul câmpului colimat (raza centrală) trebuie să
+  fie la nivelul bazei celui de-al treilea metatarsian.
+- 'Colimarea pe patru laturi trebuie să includă toate părțile moi înconjurătoare,
+  de la falange până la calcaneu și de la suprafața dorsală până la suprafața plantară
+  a piciorului, cu aproximativ 1 țol (2.5 cm) din tibia și fibula distale evidențiate.
+  Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine pentru vizualizarea marginilor
+  oaselor tarsiene și metatarsiene suprapuse.
+- Fără mișcare; marginile corticale și desenul trabecular al calcaneului și porțiunile
+  nesuprapuse ale celorlalte oase tarsiene trebuie să apară clar delimitate. Fig.
+  6.70 Incidență laterală în încărcare. Astragal (talus) Navicular Articulații metatarsofalangiene
+  (MTF) Baza celui de-al 5-lea metatarsian Cuboid Calcaneu Cuneiformul 1 Fig. 6.71
+  Incidență laterală în încărcare. Picior — incidență specială
+- AP și profil (în încărcare) Fig. 6.69 Profil în încărcare — piciorul drept (incidență
+  realizată pe receptor digital de imagine).
 sid_dff: 100 cm
 slug: rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager
 sources:
@@ -69,15 +80,15 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate la margins de picioare. lateral 24 (30) (24)
+  collimation: Colimați la marginile picioarelor. Profil 24 (30) (24)
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-70
   mas: DE CONFIGURAT PE APARAT
-title: Rx Picior LATERAL În Încărcare (Ortostatism) Incidență
+title: Rx picior — incidență de profil în încărcare (ortostatism)
 ---
-# Rx Picior LATERAL În Încărcare (Ortostatism) Incidență
+# Rx picior — incidență de profil în încărcare (ortostatism)
 
 
 <div class="rx-meta-bar">
@@ -96,23 +107,28 @@ title: Rx Picior LATERAL În Încărcare (Ortostatism) Incidență
 
     === "Indicații Clinice"
 
-        - evidențiază bones de picioarele la show condition de longitudinal arches under full weight de corp
-        - poate evidențiază injury la structural ligaments de Picior such ca Lisfranc articulație injury
+        - Evidențiază oasele picioarelor pentru a arăta starea bolților longitudinale sub greutatea corporală completă.
+        - Poate evidenția leziuni ale ligamentelor structurale ale piciorului, precum leziunea articulației Lisfranc.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Have pacient stand Ortostatism, cu weight plasat pe affected Picior (Fig. 6.69). Have pacient stand pe wood blocks plasat pe step stool sau Picior rest attached la masa de examinare. You also poate use special wooden box cu slot pentru receptorul de imagine. (It has la fie high enough de la floor la get xray tube down into orizontal fascicul poziție.) Provide some support pentru pacient la hold onto pentru security.; Regiune anatomică: Align axa longitudinală de Picior la axa longitudinală de receptorul de imagine. Change receptorul de imagine și turn pacient pentru lateral de other Picior pentru comparison after first lateral has been taken.
-    - **Punct de Centrare Fascicul:** Direct raza centrală horizontally la level de base de third metatarsal.
+    - **Poziție Pacient:**
+        Pacient: Pacientul stă în ortostatism, cu greutatea plasată pe piciorul afectat (Fig. 6.69). Pacientul stă pe blocuri de lemn plasate pe un scăunel cu treaptă sau pe un suport pentru picior atașat mesei de examinare. Se poate utiliza, de asemenea, o cutie specială din lemn cu fantă pentru receptorul de imagine. Aceasta trebuie să fie suficient de înaltă de la podea pentru a permite coborârea tubului radiogen în poziție orizontală a fasciculului. Se oferă pacientului un anumit sprijin pentru siguranță.
+
+        Regiune anatomică: Se aliniază axa longitudinală a piciorului cu axa longitudinală a receptorului de imagine. Se schimbă receptorul de imagine și se întoarce pacientul pentru profilul celuilalt picior, în scop comparativ, după efectuarea primei incidențe de profil.
+
+    - **Punct de Centrare Fascicul:** Se direcționează raza centrală orizontal la nivelul bazei celui de-al treilea metatarsian.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -128,21 +144,21 @@ title: Rx Picior LATERAL În Încărcare (Ortostatism) Incidență
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate la margins de picioare. lateral 24 (30) (24) |
+    | **Colimare Fascicul** | Colimați la marginile picioarelor. Profil 24 (30) (24) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - pentru lateral, entire Picior trebuie să fie evidențiat, along cu minimum de 1 inch (2.5 cm) de distal tibiafibula.
-    - distal fibula trebuie să fie seen superimposed over posterior half de tibia, și plantar surfaces de heads de oase metatarsiene trebuie să fie superimposed if Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase este present.
-    - longitudinal arch de Picior trebuie să fie evidențiat în its entirety (Figs. 6.70 și 6.71). poziție:
-    - pentru lateral, center de câmp colimat (raza centrală) trebuie să fie la level de base de third metatarsal.
-    - Foursided collimation trebuie să include toate surrounding părți moi de la falange la Calcaneu și de la dorsum la plantar surface de Picior cu approximately 1 inch (2.5 cm) de distal tibiafibula evidențiat. expunere:
-    - optim receptorul de imagine expunere și contrast la visualize margini de superimposed oase tarsiene și oase metatarsiene.
-    - fără mișcare; cortical margins și trabecular markings de Calcaneu și nonsuperimposed portions de other oase tarsiene trebuie să appear sharply defined. Fig. 6.70 Weightbearing lateral. astragal (talus) Navicular articulații metatarsofalangiene (MTF) Base de 5th metastarsal Cuboid Calcaneu 1st cuneiform Fig. 6.71 Weightbearing lateral. Picior SPECIAL
-    - AP și lateral (weightbearing) Fig. 6.69 lateral weightbearing—drept Picior (incidență taken pe digital receptorul de imagine).
+    - Pentru incidența de profil, piciorul în întregime trebuie evidențiat, împreună cu minimum 1 țol (2.5 cm) din tibia-fibula distală.
+    - Fibula distală trebuie să fie vizibilă suprapusă peste jumătatea posterioară a tibiei, iar suprafețele plantare ale capetelor oaselor metatarsiene trebuie să fie suprapuse dacă este prezentă absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase.
+    - Arcul longitudinal al piciorului trebuie evidențiat în întregime (Fig. 6.70 și 6.71). Poziție:
+    - Pentru incidența de profil, centrul câmpului colimat (raza centrală) trebuie să fie la nivelul bazei celui de-al treilea metatarsian.
+    - Colimarea pe patru laturi trebuie să includă toate părțile moi înconjurătoare, de la falange până la calcaneu și de la suprafața dorsală până la suprafața plantară a piciorului, cu aproximativ 1 țol (2.5 cm) din tibia și fibula distale evidențiate. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine pentru vizualizarea marginilor oaselor tarsiene și metatarsiene suprapuse.
+    - Fără mișcare; marginile corticale și desenul trabecular al calcaneului și porțiunile nesuprapuse ale celorlalte oase tarsiene trebuie să apară clar delimitate. Fig. 6.70 Incidență laterală în încărcare. Astragal (talus) Navicular Articulații metatarsofalangiene (MTF) Baza celui de-al 5-lea metatarsian Cuboid Calcaneu Cuneiformul 1 Fig. 6.71 Incidență laterală în încărcare. Picior — incidență specială
+    - AP și profil (în încărcare) Fig. 6.69 Profil în încărcare — piciorul drept (incidență realizată pe receptor digital de imagine).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,8 +170,9 @@ title: Rx Picior LATERAL În Încărcare (Ortostatism) Incidență
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    bilateral incidențe de ambele picioare often sunt taken pentru comparison. Some AP routines include separate incidențe de fiecare Picior taken cu raza centrală centrat pe individual Picior.
+    Incidențele bilaterale ale ambelor picioare sunt adesea efectuate pentru comparație. Unele protocoale AP includ incidențe separate pentru fiecare picior, efectuate cu raza centrală centrată pe piciorul respectiv.
 
 
 ### 🖼️ Imagini
@@ -164,25 +181,25 @@ title: Rx Picior LATERAL În Încărcare (Ortostatism) Incidență
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.70 Weight-](../../assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_1.jpeg)
+![Fig. 6.70 În încărcare — [fragment deteriorat în sursă]](../../assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.70 Weight-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.70 Weight-)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.71 Weight-](../../assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.71 Weight-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.71 Weight-)</span></figcaption>
+<figcaption><strong>Fig. 6.70 În încărcare — [fragment deteriorat în sursă]</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.70 În încărcare — [fragment deteriorat în sursă])</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.69 lateral weight-](../../assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_3.jpeg)
+![Fig. 6.71 În încărcare — [fragment deteriorat în sursă]](../../assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.69 lateral weight-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.69 lateral weight-)</span></figcaption>
+<figcaption><strong>Fig. 6.71 În încărcare — [fragment deteriorat în sursă]</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.71 În încărcare — [fragment deteriorat în sursă])</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.69 profil în încărcare — [fragment deteriorat în sursă]](../../assets/images/protocols/bontrager/rx-picior-lateral-in-incarcare-ortostatism-projections-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.69 profil în încărcare — [fragment deteriorat în sursă]</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.69 profil în încărcare — [fragment deteriorat în sursă])</span></figcaption>
 
 </figure>
 

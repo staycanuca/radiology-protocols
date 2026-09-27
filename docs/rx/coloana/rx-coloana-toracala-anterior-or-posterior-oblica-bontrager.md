@@ -3,7 +3,7 @@ author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii, în expir complet.
 category: coloana
 centering: perpendicular pe receptorul de imagine. Raza centrală se orientează spre
-  T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 2 inches
+  T7 (3 la 4 țoli [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 2 țoli
   [5 cm] sub unghiul sternal). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Patologie care implică articulațiile zigapofizare ale coloanei toracale
@@ -28,6 +28,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.90
     RAO coloană vertebrală toracală.)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-anterior-or-posterior-oblica-bontrager/fig_5.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: toracele pacientului este la 20° față de lateral; se poate utiliza un ghid
@@ -110,17 +114,18 @@ title: Rx Coloană Toracală ANTERIOR SAU POSTERIOR Oblică
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: incidență oblică anterioară sau posterioară, în decubit sau ortostatism. Inițial, poziționarea pacientului în decubit lateral (preferată), cu capul pe o pernă și genunchiul flectat. Pentru poziția în ortostatism, se asigură distribuirea egală a greutății pe ambele picioare.; Regiune anatomică: se rotește corpul cu 20° față de profilul adevărat pentru a crea o incidență oblică de 70° față de planul mesei. Se asigură rotația egală a umerilor și bazinului. Se flectează șoldurile, genunchii și brațele pentru stabilitate, după cum este necesar. Se aliniază coloana vertebrală cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Incidență oblică posterioară (decubit) LPO sau RPO: se poziționează brațul cel mai apropiat de masă în sus și anterior; brațul cel mai apropiat de tub în jos și posterior (Fig. 8.86). Incidență oblică anterioară (decubit) LAO sau RAO: se poziționează brațul cel mai apropiat de masă în jos și posterior; brațul cel mai apropiat de tub în sus și anterior (Fig. 8.87). Incidență oblică anterioară în ortostatism: se distribuie egal greutatea pacientului pe ambele picioare. Se rotește întregul corp, umerii și bazinul cu 20° anterior față de profil. Se flectează cotul și se poziționează brațul cel mai apropiat de receptorul de imagine pe șold. Se ridică brațul opus și se sprijină pe creștetul capului (Fig. 8.88).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 2 inches [5 cm] sub unghiul sternal). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre T7 (3 la 4 țoli [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 2 țoli [5 cm] sub unghiul sternal). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, în expir complet.
 
@@ -156,6 +161,7 @@ title: Rx Coloană Toracală ANTERIOR SAU POSTERIOR Oblică
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     toracele pacientului este la 20° față de lateral; se poate utiliza un ghid de unghi pentru determinarea rotației corecte (vezi Fig. 8.86 și 8.87). Radiografiile pot fi efectuate ca incidențe oblice posterioare sau anterioare. Incidențele oblice anterioare sunt recomandate datorită dozei semnificativ mai mici. Coloană toracală, incidență oblică specială Fig. 8.86 incidență oblică posterioară (RPO). Fig. 8.87 incidență oblică anterioară (LAO). Fig. 8.88 incidență oblică anterioară în ortostatism (RAO), coloana toracală.

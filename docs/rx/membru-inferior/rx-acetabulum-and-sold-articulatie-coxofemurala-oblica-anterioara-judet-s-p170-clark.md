@@ -3,26 +3,28 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre la femoral pulse pe raised side, cu raza centrală centrală orientat
-  12 grade spre picioarele.
+centering: '• Se centrează pulsul femural pe partea ridicată, cu raza centrală orientată
+  12 grade spre picioare.
 
-  • caseta este centred la nivelul femoral pulse și collimated la area under examination.'
+  • Caseta este centrată la nivelul pulsului femural și colimată la regiunea examinată.'
 clinical_indications:
-- 155 5 cotil (acetabul) și Șold (Articulație Coxofemurală) Oblică Anterioară (Judet’s
-  incidență) This incidență poate fie used la assess cotil (acetabul) when suspiciune
-  de fractură este suspected. Although cotil (acetabul) este seen pe anteroposterior
-  Bazin (bazin (pelvis)), anterior și posterior rims sunt superimposed over capul
-  de Femur și ischium. If pacientul este immobile sau în pain, then reverse Judet’s
-  incidență este taken. Judet’s incidență evidențiază anterior rim de cotil (acetabul),
-  cu pacientul Decubit ventral. Oblică Posterioară incidență (Lauenstein’s incidență)
-  shows posterior rim de cotil (acetabul), cu pacientul Decubit dorsal.
+- 155 5 Cotil (acetabul) și șold (articulația coxofemurală) — incidență oblică anterioară
+  (incidența Judet). Această incidență poate fi utilizată pentru evaluarea cotilului
+  (acetabulului) când există suspiciunea unei fracturi. Deși cotilul este vizibil
+  pe radiografia antero-posterioară a bazinului (pelvisului), marginile sale anterioară
+  și posterioară se suprapun peste capul femural și ischion. Dacă pacientul este imobilizat
+  sau are dureri, se efectuează incidența Judet inversată. Incidența Judet evidențiază
+  marginea anterioară a cotilului, cu pacientul în decubit ventral. Incidența oblică
+  posterioară (incidența Lauenstein) evidențiază marginea posterioară a cotilului,
+  cu pacientul în decubit dorsal.
 images:
-- caption: blood vessels, nerves). These suspiciune de fractură poate fie classified
-    ca sta-
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: vasele sanguine, nervii). Aceste fracturi suspectate pot fi clasificate
+    ca sta- [fragment deteriorat în sursă]
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark/fig_1.jpeg
-- caption: Judet’s incidență de Șold evidențiind central suspiciune de fractură de
-    cotil (acetabul)
+- caption: Incidența Judet a șoldului, evidențiind central suspiciunea de fractură
+    a cotilului (acetabulului)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark/fig_2.jpeg
@@ -30,22 +32,26 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• It este necessary în trauma cases la adequately evidențiază suspiciune de
-  fractură de Bazin (bazin (pelvis)) și cotil (acetabul), ca there este high incident
-  de damage la surrounding anatomy (lower Tract Urinar (Aparatul Renal), blood vessels,
-  nerves). These suspiciune de fractură poate fie classified ca stable/unstable depending
-  pe stability de bony fragments.
+notes: '• Este necesară în cazurile de traumă pentru a evidenția adecvat suspiciunea
+  de fractură a bazinului (pelvisului) și cotilului (acetabulului), deoarece există
+  o incidență mare a leziunilor anatomiei înconjurătoare (tractul urinar inferior
+  (aparatul renal), vasele sanguine, nervii). Aceste fracturi suspectate pot fi clasificate
+  ca stabile/instabile în funcție de stabilitatea fragmentelor osoase.
 
-  • Computed Tomografie Liniară Convențională (CT) scanning este used la assess poziție
-  de intra-articular bony fragments și părți moi injuries.
+  • Tomografia computerizată (CT) convențională liniară este utilizată pentru evaluarea
+  poziției fragmentelor osoase intraarticulare și a leziunilor părților moi.
 
-  Judet’s incidență de Șold evidențiind central suspiciune de fractură de cotil (acetabul)'
+  Incidența Judet a șoldului, evidențiind central suspiciunea de fractură a cotilului
+  (acetabulului)'
 position: '• Pacientul este așezat în decubit dorsal pe masa radiologică.
 
-  • partea afectată este raised approximately 45 grade și sprijinit pe non-opaque
-  pads.'
+  • Partea afectată este ridicată aproximativ 45 grade și sprijinită pe tampoane radiotransparente.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -54,8 +60,8 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (cotil (acetabul) și Șold (Articulație
-  Coxofemurală)).
+- Vizualizarea clară a întregii arii anatomice (cotilul (acetabulul) și șoldul (articulația
+  coxofemurală)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -65,16 +71,17 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 170
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Acetabulum and Șold (Articulație Coxofemurală) Oblică Anterioară (Judet’s
+  mas: Conform AEC / grosimii anatomice
+title: Rx cotil (acetabul) — șold (articulație coxofemurală), incidență oblică anterioară
+  (incidența Judet)
 ---
-# Rx Acetabulum and Șold (Articulație Coxofemurală) Oblică Anterioară (Judet’s
+# Rx cotil (acetabul) — șold (articulație coxofemurală), incidență oblică anterioară (incidența Judet)
 
 
 <div class="rx-meta-bar">
@@ -93,24 +100,27 @@ title: Rx Acetabulum and Șold (Articulație Coxofemurală) Oblică Anterioară 
 
     === "Indicații Clinice"
 
-        - 155 5 cotil (acetabul) și Șold (Articulație Coxofemurală) Oblică Anterioară (Judet’s incidență) This incidență poate fie used la assess cotil (acetabul) when suspiciune de fractură este suspected. Although cotil (acetabul) este seen pe anteroposterior Bazin (bazin (pelvis)), anterior și posterior rims sunt superimposed over capul de Femur și ischium. If pacientul este immobile sau în pain, then reverse Judet’s incidență este taken. Judet’s incidență evidențiază anterior rim de cotil (acetabul), cu pacientul Decubit ventral. Oblică Posterioară incidență (Lauenstein’s incidență) shows posterior rim de cotil (acetabul), cu pacientul Decubit dorsal.
+        - 155 5 Cotil (acetabul) și șold (articulația coxofemurală) — incidență oblică anterioară (incidența Judet). Această incidență poate fi utilizată pentru evaluarea cotilului (acetabulului) când există suspiciunea unei fracturi. Deși cotilul este vizibil pe radiografia antero-posterioară a bazinului (pelvisului), marginile sale anterioară și posterioară se suprapun peste capul femural și ischion. Dacă pacientul este imobilizat sau are dureri, se efectuează incidența Judet inversată. Incidența Judet evidențiază marginea anterioară a cotilului, cu pacientul în decubit ventral. Incidența oblică posterioară (incidența Lauenstein) evidențiază marginea posterioară a cotilului, cu pacientul în decubit dorsal.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit dorsal pe masa radiologică.
-• partea afectată este raised approximately 45 grade și sprijinit pe non-opaque pads.
-    - **Punct de Centrare Fascicul:** • Centre la femoral pulse pe raised side, cu raza centrală centrală orientat 12 grade spre picioarele.
-• caseta este centred la nivelul femoral pulse și collimated la area under examination.
+    - **Poziție Pacient:**
+        - Pacientul este așezat în decubit dorsal pe masa radiologică.
+        - Partea afectată este ridicată aproximativ 45 grade și sprijinită pe tampoane radiotransparente.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează pulsul femural pe partea ridicată, cu raza centrală orientată 12 grade spre picioare.
+        - Caseta este centrată la nivelul pulsului femural și colimată la regiunea examinată.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -121,19 +131,19 @@ title: Rx Acetabulum and Șold (Articulație Coxofemurală) Oblică Anterioară 
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (cotil (acetabul) și Șold (Articulație Coxofemurală)).
+    - Vizualizarea clară a întregii arii anatomice (cotilul (acetabulul) și șoldul (articulația coxofemurală)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -147,10 +157,10 @@ title: Rx Acetabulum and Șold (Articulație Coxofemurală) Oblică Anterioară 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • It este necessary în trauma cases la adequately evidențiază suspiciune de fractură de Bazin (bazin (pelvis)) și cotil (acetabul), ca there este high incident de damage la surrounding anatomy (lower Tract Urinar (Aparatul Renal), blood vessels, nerves). These suspiciune de fractură poate fie classified ca stable/unstable depending pe stability de bony fragments.
-• Computed Tomografie Liniară Convențională (CT) scanning este used la assess poziție de intra-articular bony fragments și părți moi injuries.
-Judet’s incidență de Șold evidențiind central suspiciune de fractură de cotil (acetabul)
+    - Este necesară în cazurile de traumă pentru a evidenția adecvat suspiciunea de fractură a bazinului (pelvisului) și cotilului (acetabulului), deoarece există o incidență mare a leziunilor anatomiei înconjurătoare (tractul urinar inferior (aparatul renal), vasele sanguine, nervii). Aceste fracturi suspectate pot fi clasificate ca stabile/instabile în funcție de stabilitatea fragmentelor osoase.
+    - Tomografia computerizată (CT) convențională liniară este utilizată pentru evaluarea poziției fragmentelor osoase intraarticulare și a leziunilor părților moi. Incidența Judet a șoldului, evidențiind central suspiciunea de fractură a cotilului (acetabulului)
 
 
 ### 🖼️ Imagini
@@ -159,17 +169,17 @@ Judet’s incidență de Șold evidențiind central suspiciune de fractură de c
 
 <figure class="protocol-image-card" markdown>
 
-![blood vessels, nerves). These suspiciune de fractură poate fie classified ca sta-](../../assets/images/protocols/clark/rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark/fig_1.jpeg)
+![vasele sanguine, nervii). Aceste fracturi suspectate pot fi clasificate ca sta- [fragment deteriorat în sursă]](../../assets/images/protocols/clark/rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark/fig_1.jpeg)
 
-<figcaption><strong>blood vessels, nerves). These suspiciune de fractură poate fie classified ca sta-</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>vasele sanguine, nervii). Aceste fracturi suspectate pot fi clasificate ca sta- [fragment deteriorat în sursă]</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Judet’s incidență de Șold evidențiind central suspiciune de fractură de cotil (acetabul)](../../assets/images/protocols/clark/rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark/fig_2.jpeg)
+![Incidența Judet a șoldului, evidențiind central suspiciunea de fractură a cotilului (acetabulului)](../../assets/images/protocols/clark/rx-acetabulum-and-sold-articulatie-coxofemurala-oblica-anterioara-judet-s-p170-clark/fig_2.jpeg)
 
-<figcaption><strong>Judet’s incidență de Șold evidențiind central suspiciune de fractură de cotil (acetabul)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidența Judet a șoldului, evidențiind central suspiciunea de fractură a cotilului (acetabulului)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

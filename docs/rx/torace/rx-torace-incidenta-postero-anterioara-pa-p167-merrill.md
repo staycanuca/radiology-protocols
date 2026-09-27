@@ -1,15 +1,16 @@
 ---
 author: Referință Merrill
-breathing: Inspir profund complet. expunere este made after second Inspir profund
-  complet la ensure maximum expansion de plămânii. plămânii expand transversely, anteroposteriorly,
-  și vertically, cu vertical being greatest dimension. pentru certain conditions,
-  such ca Pneumotorax (colaps pulmonar) și presence de Corp străin / corpuri străine
-  radio-opace, radiografii sunt sometimes made la end de Inspir profund complet și
-  expiration (Figs. 3.37 through 3.39). Pneumotorax (colaps pulmonar) este vizualizat
-  more clearly pe expiration, because collapse de lung este accentuated.
+breathing: Inspir profund complet. Expunerea se efectuează după al doilea inspir profund
+  complet, pentru a asigura expansiunea maximă a plămânilor. Plămânii se extind transversal,
+  anteroposterior și vertical, expansiunea verticală fiind cea mai mare. Pentru anumite
+  afecțiuni, precum pneumotoraxul (colapsul pulmonar) și prezența unui corp străin
+  / unor corpuri străine radioopace, radiografiile se efectuează uneori la sfârșitul
+  inspirului profund complet și al expirului (Fig. 3.37 până la 3.39). Pneumotoraxul
+  (colapsul pulmonar) se vizualizează mai clar în expir, deoarece colapsul plămânului
+  este accentuat.
 category: torace
-centering: perpendicular pe centrul receptorului de imagine. raza centrală trebuie
-  să enter la nivelul T7 (inferior angle de Omoplat (Scapulă)).
+centering: Perpendicular pe centrul receptorului de imagine. Raza centrală trebuie
+  să pătrundă la nivelul T7 (unghiul inferior al omoplatului (scapulei)).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -34,61 +35,70 @@ images:
 - caption: Merrill — pagina 174, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-postero-anterioara-pa-p167-merrill/p174_fig7.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: inferior lobes de ambele plămâni trebuie să fie carefully checked pentru adecvat
-  penetration în women cu large, pendulous breasts. Cardiac studies cu barium PA Torace
-  radiografii poate fie obtained cu pacientul swallowing bolus de barium sulfate la
-  outline posterior siluetă cardiovasculară și aortă. barium used în cardiac examinations
-  trebuie să fie thicker than barium used pentru stomach, astfel încât contrast medium
-  descends more slowly și adheres la esophageal pereți. pacientul trebuie să hold
-  barium în mouth until just before expunere este made. Then pacientul trebuie să
-  take deep respirației și swallow bolus de barium; expunere este made la this time
-  (see Fig. 3.12).
-position: If possible, always examine pacienți în ortostatism, either în ortostatism
-  sau Poziție Șezândă, astfel încât cupole diafragmatice este la its lowest poziție,
-  și air sau nivele hidroaerice sunt seen. Engorgement de pulmonary vessels este also
-  avoided. pacienți pe stretcher poate fie radiographed așezat cu picioarele dangling
-  over side de stretcher, if conditions allow.; se poziționează pacientul, cu brațe
-  hanging la sides, before stativ vertical Bucky. se ajustează height de receptorul
-  de imagine so that its upper margine este 1.5 la 2 inches (3.8 la 5 cm) above relaxat
-  umeri. se centrează plan mediosagital de pacientul’s corp la linia mediană receptorul
-  de imagine. Se instruiește pacientul să stand straight, cu weight de corp equally
-  distributed pe picioarele. se extinde pacient’s chin upward sau over top de grila
-  device, then se ajustează cap astfel încât plan mediosagital este vertical. Se instruiește
-  pacientul să se flectează coate și la rest backs de mâinile low pe șoldurile, sub
-  nivelul sinusuri costodiafragmatice. Depress umerii și adjust la lie în same plan
-  transversal. These movements will poziție clavicles below apexuri (vârfuri pulmonare)
-  de plămânii. se rotește umeri forward so that ambele touch stativ vertical Bucky.
-  This movement will se rotește scapulae outward și laterally la reduce superimposition
-  de scapulae cu plămânii (Fig. 3.34). If female pacient’s breasts sunt large enough
-  la fie superimposed over lower part de câmpuri pulmonare, especially sinusuri costodiafragmatice,
-  Se instruiește pacientul să pull breasts upward și laterally. This este especially
-  important when ruling out presence de lichid. Se instruiește pacientul să hold breasts
-  în place prin leaning pe / sprijinit de receptorul de imagine holder (Figs. 3.35
-  și 3.36). se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: 'La femeile cu sâni mari, ptozați, trebuie verificată atent penetrarea adecvată
+  la nivelul lobilor inferiori ai ambilor plămâni.
+
+  Examinări cardiace cu bariu
+
+  Radiografiile toracice PA pot fi obținute în timp ce pacientul înghite un bol de
+  sulfat de bariu, pentru a contura posterior silueta cardiovasculară și aorta. Bariul
+  utilizat la examinările cardiace trebuie să fie mai vâscos decât cel utilizat pentru
+  stomac, astfel încât substanța de contrast să coboare mai lent și să adere la pereții
+  esofagieni. Pacientul trebuie să țină bariul în gură până imediat înainte de expunere.
+  Apoi pacientul trebuie să inspire profund și să înghită bolul de bariu; expunerea
+  se efectuează în acest moment (vezi Fig. 3.12).'
+position: Dacă este posibil, pacienții se examinează întotdeauna cu trunchiul vertical,
+  în ortostatism sau așezați pe scaun, astfel încât cupolele diafragmatice să fie
+  în poziția cea mai joasă și să se poată vizualiza aerul sau nivelurile hidroaerice.
+  Se evită și congestia vaselor pulmonare. Pacienții de pe targă pot fi radiografiați
+  în șezut, cu picioarele atârnând peste marginea tărgii, dacă starea lor permite.
+  Se poziționează pacientul în fața stativului vertical Bucky, cu brațele pe lângă
+  corp. Se ajustează înălțimea receptorului de imagine astfel încât marginea superioară
+  să fie la 1.5 până la 2 inci (3.8 până la 5 cm) deasupra umerilor relaxați. Se centrează
+  planul mediosagital al corpului pacientului pe linia mediană a receptorului de imagine.
+  Se instruiește pacientul să stea drept, cu greutatea corpului distribuită egal pe
+  picioare. Se ridică bărbia pacientului sau se așază peste marginea superioară a
+  dispozitivului cu grilă, apoi se ajustează capul astfel încât planul mediosagital
+  să fie vertical. Se instruiește pacientul să flecteze coatele și să sprijine fețele
+  dorsale ale mâinilor jos, pe șolduri, sub nivelul sinusurilor costodiafragmatice.
+  Se coboară umerii și se ajustează în același plan transversal. Aceste mișcări poziționează
+  claviculele sub apexurile (vârfurile pulmonare) plămânilor. Se rotesc umerii înainte
+  astfel încât ambii să atingă stativul vertical Bucky. Această mișcare rotește scapulele
+  spre exterior și lateral pentru a reduce suprapunerea lor peste plămâni (Fig. 3.34).
+  Dacă sânii pacientei sunt suficient de mari încât să se suprapună peste partea inferioară
+  a câmpurilor pulmonare, mai ales peste sinusurile costodiafragmatice, pacienta este
+  instruită să îi ridice și să îi deplaseze lateral. Acest lucru este deosebit de
+  important când se urmărește excluderea prezenței lichidului. Pacienta este instruită
+  să mențină sânii în poziție prin sprijinirea de suportul receptorului de imagine
+  (Fig. 3.35 și 3.36). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Plămânii în întregime, de la apexuri (vârfuri pulmonare) până la sinusurile costodiafragmatice
 - Absența rotației anatomice (simetrie bilaterală perfectă)
-- Sternal ends de clavicles echidistant față de coloană vertebrală
-- Trachea vizibil în linia mediană
-- Equal distance de la coloană vertebrală la lateral margine de Coaste (Grilaj Costal)
-  pe fiecare side
-- corect anterior Umăr rotație evidențiat prin scapulae projected outside câmpuri
-  pulmonare
-- corect inspiration evidențiat prin 10 posterior Coaste (Grilaj Costal) vizibil above
-  cupole diafragmatice; la least one less rib vizibil pe expiration
-- net outlines de heart și cupole diafragmatice
-- Faint shadows de Coaste (Grilaj Costal) și superior coloană toracală vizibil through
-  cordul shadow
-- Pulmonary vascular markings de la hilar regions la periphery de plămânii
-sid_dff: Minimum SID of 72 inches (183 cm) is recommended to decrease magnification
-  of the heart and increase spatial resolution of the thoracic structures.
+- Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+- Traheea vizibilă pe linia mediană
+- Distanță egală de la coloana vertebrală la marginea laterală a coastelor (grilajului
+  costal) de fiecare parte
+- Rotația anterioară corectă a umerilor, evidențiată prin proiectarea scapulelor în
+  afara câmpurilor pulmonare
+- Inspir corect, evidențiat prin 10 coaste posterioare (grilaj costal) vizibile deasupra
+  cupolelor diafragmatice; în expir este vizibilă cel puțin o coastă mai puțin
+- Contururi nete ale cordului și cupolelor diafragmatice
+- Umbre slabe ale coastelor (grilajului costal) și ale coloanei toracale superioare,
+  vizibile prin umbra cordului
+- Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
+sid_dff: Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea
+  inimii și a crește rezoluția spațială a structurilor toracice.
 slug: rx-torace-incidenta-postero-anterioara-pa-p167-merrill
 source_pages:
 - 167
@@ -100,142 +110,121 @@ source_pages:
 - 173
 - 174
 source_sections:
-  anatomy: 'PA incidență de thoracic viscera shows air-filled trachea, plămânii, diaphragmatic
-    domes, cordul și aortic arch, și, if enlarged
+  anatomy: Incidența PA a viscerelor toracice evidențiază traheea plină cu aer, plămânii,
+    cupolele diafragmatice, cordul și arcul aortic, precum și tiroida sau timusul,
+    dacă sunt mărite lateral (Fig. 3.40). Desenul vascular este mult mai proeminent
+    pe incidența efectuată la sfârșitul expirului. Arborele bronșic este vizualizat
+    dintr-un unghi oblic. Esofagul este bine vizualizat când este umplut cu suspensie
+    de sulfat de bariu.
+  collimation: • Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de contururile laterale, dar fără a depăși 14 inci (35
+    cm). Pentru receptorul de imagine orientat transversal, dimensiunile se inversează.
+    Dimensiunea verticală poate fi mai mică la pacienții de talie mică. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe centrul receptorului de imagine. Raza centrală trebuie să
+    pătrundă la nivelul T7 (unghiul inferior al scapulei).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    laterally, thyroid sau thymus gland (Fig. 3.40). vascular markings sunt much more
-    prominent pe incidență made la end de
+    • Colimare corectă vizibilă și prezența markerului de lateralitate (D/S), plasat
+    în afara anatomiei de interes
 
-    expiration. bronchial tree este vizualizat de la oblic angle. esophagus este well
-    vizualizat when it este filled cu barium sulfate suspension.'
-  collimation: '• se ajustează câmp de iradiere la 17 inches (43 cm) longitudinal
-    și 1 inch (2.5 cm) beyond lateral shadows but fără more than 14 inches (35
-
-    cm). opposite dimensions sunt used pentru transversal receptorul de imagine. vertical
-    dimension poate fie less pentru smaller pacienți. Place marker de lateralitate
-    (D/S) în
-
-    collimated expunere field.'
-  cr: • perpendicular pe centrul receptorului de imagine. raza centrală trebuie să
-    enter la nivelul T7 (inferior angle de scapula).
-  criteria: 'Criterii radiologice de calitate imaginii:
-
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
-
-    • Entire plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+    • Plămânii în întregime, de la apexuri (vârfuri pulmonare) până la sinusurile
+    costodiafragmatice
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • Sternal ends de clavicles echidistant față de coloană vertebrală
+    • Extremitățile sternale ale claviculelor echidistante față de coloana vertebrală
 
-    • Trachea vizibil în linia mediană
+    • Traheea vizibilă pe linia mediană
 
-    • Equal distance de la coloană vertebrală la lateral margine de coaste pe fiecare
-    side
+    • Distanțe egale de la coloana vertebrală până la marginea laterală a coastelor
+    de fiecare parte
 
-    • corect anterior umăr rotație evidențiat prin scapulae projected outside câmpuri
-    pulmonare
+    • Rotația anterioară corectă a umerilor, evidențiată prin proiectarea scapulelor
+    în afara câmpurilor pulmonare
 
-    • corect inspiration evidențiat prin 10 posterior coaste vizibil above cupole
-    diafragmatice; la least one less rib vizibil pe expiration
+    • Inspir corect, evidențiat prin 10 coaste posterioare vizibile deasupra cupolelor
+    diafragmatice; în expir este vizibilă cel puțin o coastă mai puțin
 
-    • net outlines de heart și cupole diafragmatice
+    • Contururi nete ale cordului și cupolelor diafragmatice
 
-    • Faint shadows de coaste și superior coloană toracală vizibil through cordul
-    shadow
+    • Umbre slabe ale coastelor și ale coloanei toracale superioare, vizibile prin
+    umbra cordului
 
-    • Pulmonary vascular markings de la hilar regions la periphery de plămânii'
-  notes: 'inferior lobes de ambele plămâni trebuie să fie carefully checked pentru
-    adecvat penetration în women cu large, pendulous breasts.
+    • Desenul vascular pulmonar, de la regiunile hilare până la periferia plămânilor'
+  notes: 'La femeile cu sâni mari, ptozați, trebuie verificată atent penetrarea adecvată
+    la nivelul lobilor inferiori ai ambilor plămâni.
 
-    Cardiac studies cu barium
+    Examinări cardiace cu bariu
 
-    PA chest radiografii poate fie obtained cu pacientul swallowing bolus de barium
-    sulfate la outline posterior siluetă cardiovasculară și aortă. barium
+    Radiografiile toracice PA pot fi obținute în timp ce pacientul înghite un bol
+    de sulfat de bariu, pentru a contura posterior silueta cardiovasculară și aorta.
+    Bariul utilizat la examinările cardiace trebuie să fie mai vâscos decât cel utilizat
+    pentru stomac, astfel încât substanța de contrast să coboare mai lent și să adere
+    la pereții esofagieni. Pacientul trebuie să țină bariul în gură până imediat înainte
+    de expunere. Apoi pacientul trebuie să inspire profund și să înghită bolul de
+    bariu; expunerea se efectuează în acest moment (vezi Fig. 3.12).'
+  part_pos: '• Se poziționează pacientul în fața stativului vertical Bucky, cu brațele
+    pe lângă corp.
 
-    used în cardiac examinations trebuie să fie thicker than barium used pentru stomach,
-    astfel încât contrast medium descends more slowly și
+    • Se ajustează înălțimea receptorului de imagine astfel încât marginea superioară
+    să fie la 1.5 până la 2 inci (3.8 până la 5 cm) deasupra umerilor relaxați.
 
-    adheres la esophageal pereți. pacientul trebuie să hold barium în mouth until
-    just before expunere este made. Then pacientul trebuie să
+    • Se centrează planul mediosagital al corpului pacientului pe linia mediană a
+    receptorului de imagine.
 
-    take deep respirației și swallow bolus de barium; expunere este made la this time
-    (see Fig. 3.12).'
-  part_pos: '• se poziționează pacientul, cu brațe hanging la sides, before stativ
-    vertical Bucky.
+    • Se instruiește pacientul să stea drept, cu greutatea corpului distribuită egal
+    pe picioare.
 
-    • se ajustează height de receptorul de imagine so that its upper margine este
-    1.5 la 2 inches (3.8 la 5 cm) above relaxat umeri.
+    • Se ridică bărbia pacientului sau se așază peste marginea superioară a dispozitivului
+    cu grilă, apoi se ajustează capul astfel încât planul mediosagital să fie vertical.
 
-    • se centrează plan mediosagital de pacientul’s corp la linia mediană receptorul
-    de imagine.
+    • Se instruiește pacientul să flecteze coatele și să sprijine fețele dorsale ale
+    mâinilor jos, pe șolduri, sub nivelul sinusurilor costodiafragmatice. Se coboară
+    umerii și se ajustează în același plan transversal. Aceste mișcări poziționează
+    claviculele sub apexurile (vârfurile pulmonare) plămânilor.
 
-    • Se instruiește pacientul să stand straight, cu weight de corp equally distributed
-    pe picioarele.
+    • Se rotesc umerii înainte astfel încât ambii să atingă stativul vertical Bucky.
+    Această mișcare rotește scapulele spre exterior și lateral pentru a reduce suprapunerea
+    lor peste plămâni (Fig. 3.34).
 
-    • se extinde pacient’s chin upward sau over top de grila device, then se ajustează
-    cap astfel încât plan mediosagital este vertical.
+    • Dacă sânii pacientei sunt suficient de mari încât să se suprapună peste partea
+    inferioară a câmpurilor pulmonare, mai ales peste sinusurile costodiafragmatice,
+    pacienta este instruită să îi ridice și să îi deplaseze lateral. Acest lucru este
+    deosebit de important când se urmărește excluderea prezenței lichidului. Pacienta
+    este instruită să mențină sânii în poziție prin sprijinirea de suportul receptorului
+    de imagine (Fig. 3.35 și 3.36).
 
-    • Se instruiește pacientul să se flectează coate și la rest backs de mâinile low
-    pe șoldurile, sub nivelul sinusuri costodiafragmatice. Depress
-
-    umerii și adjust la lie în same plan transversal. These movements will poziție
-    clavicles below apexuri (vârfuri pulmonare) de plămânii.
-
-    • se rotește umeri forward so that ambele touch stativ vertical Bucky. This movement
-    will se rotește scapulae outward și laterally
-
-    la reduce superimposition de scapulae cu plămânii (Fig. 3.34).
-
-    • If female pacient’s breasts sunt large enough la fie superimposed over lower
-    part de câmpuri pulmonare, especially costophrenic
-
-    angles, Se instruiește pacientul să pull breasts upward și laterally. This este
-    especially important when ruling out presence de lichid. Have
-
-    pacientul hold breasts în place prin leaning pe / sprijinit de receptorul de imagine
-    holder (Figs. 3.35 și 3.36).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• If possible, always examine pacienți în ortostatism, either în ortostatism
-    sau așezat pe scaun, astfel încât cupole diafragmatice este la its lowest poziție,
-
-    și air sau nivele hidroaerice sunt seen. Engorgement de pulmonary vessels este
-    also avoided. pacienți pe stretcher poate fie radiographed
-
-    așezat cu picioarele dangling over side de stretcher, if conditions allow.'
-  respiration: 'Inspir profund complet. expunere este made after second Inspir profund
-    complet la ensure maximum expansion de plămânii. plămâni expand transversely,
-    anteroposteriorly, și vertically, cu vertical being greatest dimension.
-
-    • pentru certain conditions, such ca Pneumotorax (colaps pulmonar) și presence
-    de Corp străin / corpuri străine radio-opace, radiografii sunt sometimes made
-    la end de full
-
-    inspiration și expiration (Figs. 3.37 through 3.39). Pneumotorax (colaps pulmonar)
-    este vizualizat more clearly pe expiration, because collapse de lung este
-
-    accentuated.'
-  sid: 'Minimum SID de 72 inches (183 cm) este recommended la decrease magnification
-    de cordul și increase spatial resolution de thoracic
-
-    structures.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35
-
-    × 43 cm) longitudinal, sau transversal pentru hypersthenic pacienți.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Dacă este posibil, pacienții se examinează întotdeauna cu trunchiul
+    vertical, în ortostatism sau așezați pe scaun, astfel încât cupolele diafragmatice
+    să fie în poziția cea mai joasă și să se poată vizualiza aerul sau nivelurile
+    hidroaerice. Se evită și congestia vaselor pulmonare. Pacienții de pe targă pot
+    fi radiografiați în șezut, cu picioarele atârnând peste marginea tărgii, dacă
+    starea lor permite.
+  respiration: Inspir profund complet. Expunerea se efectuează după al doilea inspir
+    profund complet, pentru a asigura expansiunea maximă a plămânilor. Plămânii se
+    extind transversal, anteroposterior și vertical, expansiunea verticală fiind cea
+    mai mare. Pentru anumite afecțiuni, precum pneumotoraxul (colapsul pulmonar) și
+    prezența unui corp străin / unor corpuri străine radioopace, radiografiile se
+    efectuează uneori la sfârșitul inspirului profund complet și al expirului (Fig.
+    3.37 până la 3.39). Pneumotoraxul (colapsul pulmonar) se vizualizează mai clar
+    în expir, deoarece colapsul plămânului este accentuat.
+  sid: O SID minimă de 72 țoli (183 cm) este recomandată pentru a reduce magnifierea
+    cordului și a crește rezoluția spațială a structurilor toracice.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru orientarea corectă a afișării anatomiei; placă „raza centrală”: 14 × 17
+    inci (35 × 43 cm), longitudinal sau transversal pentru pacienții hiperstenici.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    167–174'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 167–174'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 17 inches (43 cm) longitudinal și
-    1 inch (2.5 cm) beyond lateral shadows but fără more than 14 inches (35 cm). opposite
-    dimensions sunt used pentru transversal receptorul de imagine. vertical dimension
-    poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în
-    collimated expunere field.
+  collimation: Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de contururile laterale, dar fără a depăși 14 inci (35
+    cm). Pentru receptorul de imagine orientat transversal, dimensiunile se inversează.
+    Dimensiunea verticală poate fi mai mică la pacienții de talie mică. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
 ---
 # Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
@@ -262,19 +251,20 @@ title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** If possible, always examine pacienți în ortostatism, either în ortostatism sau Poziție Șezândă, astfel încât cupole diafragmatice este la its lowest poziție, și air sau nivele hidroaerice sunt seen. Engorgement de pulmonary vessels este also avoided. pacienți pe stretcher poate fie radiographed așezat cu picioarele dangling over side de stretcher, if conditions allow.; se poziționează pacientul, cu brațe hanging la sides, before stativ vertical Bucky. se ajustează height de receptorul de imagine so that its upper margine este 1.5 la 2 inches (3.8 la 5 cm) above relaxat umeri. se centrează plan mediosagital de pacientul’s corp la linia mediană receptorul de imagine. Se instruiește pacientul să stand straight, cu weight de corp equally distributed pe picioarele. se extinde pacient’s chin upward sau over top de grila device, then se ajustează cap astfel încât plan mediosagital este vertical. Se instruiește pacientul să se flectează coate și la rest backs de mâinile low pe șoldurile, sub nivelul sinusuri costodiafragmatice. Depress umerii și adjust la lie în same plan transversal. These movements will poziție clavicles below apexuri (vârfuri pulmonare) de plămânii. se rotește umeri forward so that ambele touch stativ vertical Bucky. This movement will se rotește scapulae outward și laterally la reduce superimposition de scapulae cu plămânii (Fig. 3.34). If female pacient’s breasts sunt large enough la fie superimposed over lower part de câmpuri pulmonare, especially sinusuri costodiafragmatice, Se instruiește pacientul să pull breasts upward și laterally. This este especially important when ruling out presence de lichid. Se instruiește pacientul să hold breasts în place prin leaning pe / sprijinit de receptorul de imagine holder (Figs. 3.35 și 3.36). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine. raza centrală trebuie să enter la nivelul T7 (inferior angle de Omoplat (Scapulă)).
-    - **Distanță Focar-Film (DFF / SID):** Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures.
-    - **Comandă Respiratorie:** Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii. plămânii expand transversely, anteroposteriorly, și vertically, cu vertical being greatest dimension. pentru certain conditions, such ca Pneumotorax (colaps pulmonar) și presence de Corp străin / corpuri străine radio-opace, radiografii sunt sometimes made la end de Inspir profund complet și expiration (Figs. 3.37 through 3.39). Pneumotorax (colaps pulmonar) este vizualizat more clearly pe expiration, because collapse de lung este accentuated.
+    - **Poziție Pacient:** Dacă este posibil, pacienții se examinează întotdeauna cu trunchiul vertical, în ortostatism sau așezați pe scaun, astfel încât cupolele diafragmatice să fie în poziția cea mai joasă și să se poată vizualiza aerul sau nivelurile hidroaerice. Se evită și congestia vaselor pulmonare. Pacienții de pe targă pot fi radiografiați în șezut, cu picioarele atârnând peste marginea tărgii, dacă starea lor permite. Se poziționează pacientul în fața stativului vertical Bucky, cu brațele pe lângă corp. Se ajustează înălțimea receptorului de imagine astfel încât marginea superioară să fie la 1.5 până la 2 inci (3.8 până la 5 cm) deasupra umerilor relaxați. Se centrează planul mediosagital al corpului pacientului pe linia mediană a receptorului de imagine. Se instruiește pacientul să stea drept, cu greutatea corpului distribuită egal pe picioare. Se ridică bărbia pacientului sau se așază peste marginea superioară a dispozitivului cu grilă, apoi se ajustează capul astfel încât planul mediosagital să fie vertical. Se instruiește pacientul să flecteze coatele și să sprijine fețele dorsale ale mâinilor jos, pe șolduri, sub nivelul sinusurilor costodiafragmatice. Se coboară umerii și se ajustează în același plan transversal. Aceste mișcări poziționează claviculele sub apexurile (vârfurile pulmonare) plămânilor. Se rotesc umerii înainte astfel încât ambii să atingă stativul vertical Bucky. Această mișcare rotește scapulele spre exterior și lateral pentru a reduce suprapunerea lor peste plămâni (Fig. 3.34). Dacă sânii pacientei sunt suficient de mari încât să se suprapună peste partea inferioară a câmpurilor pulmonare, mai ales peste sinusurile costodiafragmatice, pacienta este instruită să îi ridice și să îi deplaseze lateral. Acest lucru este deosebit de important când se urmărește excluderea prezenței lichidului. Pacienta este instruită să mențină sânii în poziție prin sprijinirea de suportul receptorului de imagine (Fig. 3.35 și 3.36). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine. Raza centrală trebuie să pătrundă la nivelul T7 (unghiul inferior al omoplatului (scapulei)).
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.
+    - **Comandă Respiratorie:** Inspir profund complet. Expunerea se efectuează după al doilea inspir profund complet, pentru a asigura expansiunea maximă a plămânilor. Plămânii se extind transversal, anteroposterior și vertical, expansiunea verticală fiind cea mai mare. Pentru anumite afecțiuni, precum pneumotoraxul (colapsul pulmonar) și prezența unui corp străin / unor corpuri străine radioopace, radiografiile se efectuează uneori la sfârșitul inspirului profund complet și al expirului (Fig. 3.37 până la 3.39). Pneumotoraxul (colapsul pulmonar) se vizualizează mai clar în expir, deoarece colapsul plămânului este accentuat.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -284,29 +274,29 @@ title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond lateral shadows but fără more than 14 inches (35 cm). opposite dimensions sunt used pentru transversal receptorul de imagine. vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și la 1 țol (2.5 cm) dincolo de contururile laterale, dar fără a depăși 14 inci (35 cm). Pentru receptorul de imagine orientat transversal, dimensiunile se inversează. Dimensiunea verticală poate fi mai mică la pacienții de talie mică. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Plămânii în întregime, de la apexuri (vârfuri pulmonare) până la sinusurile costodiafragmatice
     - Absența rotației anatomice (simetrie bilaterală perfectă)
-    - Sternal ends de clavicles echidistant față de coloană vertebrală
-    - Trachea vizibil în linia mediană
-    - Equal distance de la coloană vertebrală la lateral margine de Coaste (Grilaj Costal) pe fiecare side
-    - corect anterior Umăr rotație evidențiat prin scapulae projected outside câmpuri pulmonare
-    - corect inspiration evidențiat prin 10 posterior Coaste (Grilaj Costal) vizibil above cupole diafragmatice; la least one less rib vizibil pe expiration
-    - net outlines de heart și cupole diafragmatice
-    - Faint shadows de Coaste (Grilaj Costal) și superior coloană toracală vizibil through cordul shadow
-    - Pulmonary vascular markings de la hilar regions la periphery de plămânii
+    - Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+    - Traheea vizibilă pe linia mediană
+    - Distanță egală de la coloana vertebrală la marginea laterală a coastelor (grilajului costal) de fiecare parte
+    - Rotația anterioară corectă a umerilor, evidențiată prin proiectarea scapulelor în afara câmpurilor pulmonare
+    - Inspir corect, evidențiat prin 10 coaste posterioare (grilaj costal) vizibile deasupra cupolelor diafragmatice; în expir este vizibilă cel puțin o coastă mai puțin
+    - Contururi nete ale cordului și cupolelor diafragmatice
+    - Umbre slabe ale coastelor (grilajului costal) și ale coloanei toracale superioare, vizibile prin umbra cordului
+    - Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -316,8 +306,9 @@ title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    inferior lobes de ambele plămâni trebuie să fie carefully checked pentru adecvat penetration în women cu large, pendulous breasts. Cardiac studies cu barium PA Torace radiografii poate fie obtained cu pacientul swallowing bolus de barium sulfate la outline posterior siluetă cardiovasculară și aortă. barium used în cardiac examinations trebuie să fie thicker than barium used pentru stomach, astfel încât contrast medium descends more slowly și adheres la esophageal pereți. pacientul trebuie să hold barium în mouth until just before expunere este made. Then pacientul trebuie să take deep respirației și swallow bolus de barium; expunere este made la this time (see Fig. 3.12).
+    La femeile cu sâni mari, ptozați, trebuie verificată atent penetrarea adecvată la nivelul lobilor inferiori ai ambilor plămâni. Examinări cardiace cu bariu Radiografiile toracice PA pot fi obținute în timp ce pacientul înghite un bol de sulfat de bariu, pentru a contura posterior silueta cardiovasculară și aorta. Bariul utilizat la examinările cardiace trebuie să fie mai vâscos decât cel utilizat pentru stomac, astfel încât substanța de contrast să coboare mai lent și să adere la pereții esofagieni. Pacientul trebuie să țină bariul în gură până imediat înainte de expunere. Apoi pacientul trebuie să inspire profund și să înghită bolul de bariu; expunerea se efectuează în acest moment (vezi Fig. 3.12).
 
 
 ### 🖼️ Imagini
@@ -386,7 +377,7 @@ title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -394,85 +385,3 @@ title: Rx Torace — Incidență Postero-Anterioară (PA) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 167–174](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-PA incidență de thoracic viscera shows air-filled trachea, plămânii, diaphragmatic domes, cordul și aortic arch, și, if enlarged
-laterally, thyroid sau thymus gland (Fig. 3.40). vascular markings sunt much more prominent pe incidență made la end de
-expiration. bronchial tree este vizualizat de la oblic angle. esophagus este well vizualizat when it este filled cu barium sulfate suspension.
-
-### collimation
-
-• se ajustează câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond lateral shadows but fără more than 14 inches (35
-cm). opposite dimensions sunt used pentru transversal receptorul de imagine. vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe centrul receptorului de imagine. raza centrală trebuie să enter la nivelul T7 (inferior angle de scapula).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire plămâni de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Sternal ends de clavicles echidistant față de coloană vertebrală
-• Trachea vizibil în linia mediană
-• Equal distance de la coloană vertebrală la lateral margine de coaste pe fiecare side
-• corect anterior umăr rotație evidențiat prin scapulae projected outside câmpuri pulmonare
-• corect inspiration evidențiat prin 10 posterior coaste vizibil above cupole diafragmatice; la least one less rib vizibil pe expiration
-• net outlines de heart și cupole diafragmatice
-• Faint shadows de coaste și superior coloană toracală vizibil through cordul shadow
-• Pulmonary vascular markings de la hilar regions la periphery de plămânii
-
-### notes
-
-inferior lobes de ambele plămâni trebuie să fie carefully checked pentru adecvat penetration în women cu large, pendulous breasts.
-Cardiac studies cu barium
-PA chest radiografii poate fie obtained cu pacientul swallowing bolus de barium sulfate la outline posterior siluetă cardiovasculară și aortă. barium
-used în cardiac examinations trebuie să fie thicker than barium used pentru stomach, astfel încât contrast medium descends more slowly și
-adheres la esophageal pereți. pacientul trebuie să hold barium în mouth until just before expunere este made. Then pacientul trebuie să
-take deep respirației și swallow bolus de barium; expunere este made la this time (see Fig. 3.12).
-
-### part_pos
-
-• se poziționează pacientul, cu brațe hanging la sides, before stativ vertical Bucky.
-• se ajustează height de receptorul de imagine so that its upper margine este 1.5 la 2 inches (3.8 la 5 cm) above relaxat umeri.
-• se centrează plan mediosagital de pacientul’s corp la linia mediană receptorul de imagine.
-• Se instruiește pacientul să stand straight, cu weight de corp equally distributed pe picioarele.
-• se extinde pacient’s chin upward sau over top de grila device, then se ajustează cap astfel încât plan mediosagital este vertical.
-• Se instruiește pacientul să se flectează coate și la rest backs de mâinile low pe șoldurile, sub nivelul sinusuri costodiafragmatice. Depress
-umerii și adjust la lie în same plan transversal. These movements will poziție clavicles below apexuri (vârfuri pulmonare) de plămânii.
-• se rotește umeri forward so that ambele touch stativ vertical Bucky. This movement will se rotește scapulae outward și laterally
-la reduce superimposition de scapulae cu plămânii (Fig. 3.34).
-• If female pacient’s breasts sunt large enough la fie superimposed over lower part de câmpuri pulmonare, especially costophrenic
-angles, Se instruiește pacientul să pull breasts upward și laterally. This este especially important when ruling out presence de lichid. Have
-pacientul hold breasts în place prin leaning pe / sprijinit de receptorul de imagine holder (Figs. 3.35 și 3.36).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• If possible, always examine pacienți în ortostatism, either în ortostatism sau așezat pe scaun, astfel încât cupole diafragmatice este la its lowest poziție,
-și air sau nivele hidroaerice sunt seen. Engorgement de pulmonary vessels este also avoided. pacienți pe stretcher poate fie radiographed
-așezat cu picioarele dangling over side de stretcher, if conditions allow.
-
-### respiration
-
-Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii. plămâni expand transversely, anteroposteriorly, și vertically, cu vertical being greatest dimension.
-• pentru certain conditions, such ca Pneumotorax (colaps pulmonar) și presence de Corp străin / corpuri străine radio-opace, radiografii sunt sometimes made la end de full
-inspiration și expiration (Figs. 3.37 through 3.39). Pneumotorax (colaps pulmonar) este vizualizat more clearly pe expiration, because collapse de lung este
-accentuated.
-
-### sid
-
-Minimum SID de 72 inches (183 cm) este recommended la decrease magnification de cordul și increase spatial resolution de thoracic
-structures.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35
-× 43 cm) longitudinal, sau transversal pentru hypersthenic pacienți.
-

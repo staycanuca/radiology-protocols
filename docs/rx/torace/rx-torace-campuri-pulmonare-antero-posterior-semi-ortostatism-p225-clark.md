@@ -3,48 +3,52 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: torace
-centering: '• raza centrală este orientat first la drept-angles la caseta și spre
-  incizură jugulară (furculiță sternală).
+centering: '• Raza centrală este orientată inițial în unghi drept față de casetă și
+  către incizura jugulară (furculița sternală).
 
-  • raza centrală este then înclinat until it este coincident cu middle de film radiologic,
-  thus avoiding unnecessary expunere la eyes.
+  • Raza centrală este apoi înclinată până când coincide cu centrul filmului radiologic,
+  evitând astfel expunerea inutilă a ochilor.
 
 
-  • Direct raza centrală orizontală centrală la drept-angles la middle de caseta la
-  mid-axillary line.'
+  • Se direcționează raza centrală orizontală în unghi drept către centrul casetei,
+  la linia medioaxilară.'
 clinical_indications:
-- assessment de cardiac configuration la identify individual chamber enlargement este
-  essential, even if there este increase în overall magnification due la shorter FFD
-  associated cu some low-powered mobiles. It este important, therefore, that pacientul
-  este nu rotit. 210 Normal semi-Ortostatism radiografie de Torace. bărbia este just
-  superimposed pe upper Torace (see notes)
-- Insufficient elevation de brațele will cause soft tissues de upper brațe la obscure
-  lung Vârfuri Pulmonare (Apexuri) și thoracic inlet, și even retrosternal window,
-  leading la masses sau other lesions în these areas being missed.
-- rotație will also partially obscure retrosternal window, masking anterior mediastinal
-  masses. It will also render Stern less distinct, which poate fie important în setting
-  de trauma when sternal suspiciune de fractură poate fie overlooked. Postero-anterior
-  (PA) și Profil (lateral) radiografii de same pacient evidențiind proces proliferativ
-  tumoral în drept lower lobe
+- Evaluarea configurației cardiace pentru identificarea măririi individuale a camerelor
+  este esențială, chiar dacă există o creștere a magnificației globale din cauza FFD
+  mai scurte asociate unor aparate mobile de putere redusă. Prin urmare, este important
+  ca pacientul să nu fie rotit. 210 Radiografie toracică normală în semiortostatism.
+  Bărbia este doar suprapusă peste partea superioară a toracelui (a se vedea notele)
+- Ridicarea insuficientă a brațelor va determina suprapunerea țesuturilor moi ale
+  brațelor superioare peste vârfurile pulmonare și inletul toracic și chiar peste
+  fereastra retrosternală, ceea ce poate duce la omisiunea maselor sau a altor leziuni
+  din aceste zone.
+- Rotația va obscura, de asemenea, parțial fereastra retrosternală, mascând masele
+  mediastinale anterioare. De asemenea, va face sternul mai puțin distinct, ceea ce
+  poate fi important în contextul unui traumatism, când suspiciunea de fractură sternală
+  poate fi omisă. Radiografii postero-anterioară (PA) și de profil (lateral) ale aceluiași
+  pacient, evidențiind un proces proliferativ tumoral în lobul inferior drept
 images:
-- caption: Normal semi-Ortostatism radiografie de Torace. bărbia este just superimposed
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie toracică normală în semi-ortostatism. Bărbia este ușor suprapusă
+    [fragment incomplet în sursă].
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_2.jpeg
-- caption: Postero-anterior (PA) incidență. Profil (lateral) radiografii, however,
-    sunt
+- caption: Incidență postero-anterioară (PA). Radiografiile de profil, însă, sunt
+    [fragment incomplet în sursă].
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_3.jpeg
-- caption: de trauma when sternal suspiciune de fractură poate fie overlooked.
+- caption: '[Fragment incomplet în sursă] în traumatisme, când suspiciunea unei fracturi
+    sternale poate fi trecută cu vederea.'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_4.jpeg
-- caption: Postero-anterior (PA) și Profil (lateral) radiografii de same pacient evidențiind
-    proces proliferativ tumoral în
+- caption: Radiografii postero-anterioară (PA) și de profil ale aceluiași pacient,
+    evidențiind un proces proliferativ tumoral în [fragment incomplet în sursă].
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_5.jpeg
@@ -52,49 +56,56 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_6.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Difficulties sometimes arise în positioning caseta paralel cu plan coronal,
-  cu resultant effect that imagine de toracele este foreshortened.
+notes: '• Uneori apar dificultăți în poziționarea casetei paralel cu planul coronal,
+  cu efectul rezultat că imaginea toracelui este scurtată.
 
-  • use de orizontal raza centrală este essential la evidențiază nivele hidroaerice,
-  e.g. revărsat pleural (pleurezie). în this situation, pacientul este ajustat cu
-  toracele Ortostatism ca much ca possible. raza centrală orizontală centrală este
-  orientat la drept-angles la middle de caseta. clavicles în resultant imagine will
-  fie projected above Vârfuri Pulmonare (Apexuri).
+  • Utilizarea razei centrale orizontale este esențială pentru evidențierea nivelurilor
+  hidroaerice, de exemplu revărsatul pleural (pleurezia). În această situație, pacientul
+  este poziționat cu toracele în ortostatism cât mai mult posibil. Raza centrală orizontală
+  este orientată în unghi drept către centrul casetei. Claviculele din imaginea rezultată
+  vor fi proiectate deasupra vârfurilor pulmonare (apexurilor).
 
-  • If pacientul este unable la sit Ortostatism, nivele hidroaerice sunt evidențiat
-  using orizontal ray cu pacientul adopting Profil (lateral) decubit sau dorsal decubit
-  poziție.
+  • Dacă pacientul nu poate sta în ortostatism, nivelurile hidroaerice sunt evidențiate
+  utilizând fasciculul orizontal, cu pacientul adoptând poziția de decubit lateral
+  sau decubit dorsal.
 
-  • Sick pacienți poate fie unable la support their own cap în Ortostatism poziție,
-  resulting în superimposition de bărbia over upper Torace. Care trebuie să fie taken
-  la avoid sau minimize this if la toate possible ca apical lesions will fie obscured.'
-position: '• pacientul este sprijinit în Semi-Șezând poziție, facing X-ray tube. grade
-  la which they poate sit Ortostatism will depend pe their medical condition.
+  • Pacienții bolnavi pot fi incapabili să își susțină capul în poziție ortostatică,
+  rezultând suprapunerea bărbiei peste partea superioară a toracelui. Trebuie acordată
+  atenție pentru a evita sau minimiza acest lucru, dacă este posibil, deoarece leziunile
+  apicale vor fi obscure.'
+position: '• pacientul este sprijinit în poziție semișezândă, cu fața către tubul
+  de raze X. Gradul în care poate sta în ortostatism va depinde de starea sa medicală.
 
-  • casetă este sprijinit pe / sprijinit de back, using pillows sau large 45-grade
-  foam pad, cu its upper edge above câmpuri pulmonare.
+  • caseta este sprijinită de spate, folosind perne sau un suport mare din spumă de
+  45 de grade, cu marginea superioară deasupra câmpurilor pulmonare.
 
-  • Care trebuie să fie taken la ensure that caseta este paralel cu plan coronal.
+  • Trebuie să se aibă grijă ca caseta să fie paralelă cu planul coronal.
 
-  • planul mediosagital este ajustat la drept-angles la, și în linia mediană de, caseta.
+  • planul mediosagital este ajustat perpendicular pe casetă și pe linia mediană a
+  acesteia.
 
-  • rotație de pacientul este prevented prin use de foam pads.
+  • rotația pacientului este prevenită prin utilizarea unor suporturi din spumă.
 
-  • brațele sunt rotit medially, cu umerii brought forward la bring scapulae clear
-  de câmpuri pulmonare.
+  • brațele sunt rotite medial, iar umerii sunt aduși anterior pentru a îndepărta
+  omoplații de câmpurile pulmonare.
 
 
-  • pacientul este întors la bring side under investigation în contact cu caseta.
+  • pacientul este întors pentru a aduce partea examinată în contact cu caseta.
 
-  • planul mediosagital este ajustat paralel cu casetă.
+  • planul mediosagital este ajustat paralel cu caseta.
 
-  • brațele sunt folded over capul sau raised above capul la rest pe orizontal bar.
+  • brațele sunt pliate peste cap sau ridicate deasupra capului pentru a se sprijini
+  pe bara orizontală.
 
-  • mid-axillary line este coincident cu middle de film radiologic, și caseta este
-  ajustat pentru include Vârfuri Pulmonare (Apexuri) și lower lobes la level de first
-  lumbar vertebra.'
+  • linia medioaxilară coincide cu mijlocul filmului radiologic, iar caseta este ajustată
+  pentru a include vârfurile pulmonare (apexurile) și lobii inferiori până la nivelul
+  primei vertebre lombare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -103,7 +114,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Torace (Câmpuri Pulmonare)).
+- Vizualizarea clară a întregii arii anatomice (toracele (câmpurile pulmonare)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -115,14 +126,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - semi - Ortostatism
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie toracică (câmpuri pulmonare) antero-posterioară (AP) — semi-ortostatism
 ---
-# Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - semi - Ortostatism
+# Radiografie toracică (câmpuri pulmonare) antero-posterioară (AP) — semi-ortostatism
 
 
 <div class="rx-meta-bar">
@@ -141,37 +152,38 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - semi - Ortostatism
 
     === "Indicații Clinice"
 
-        - assessment de cardiac configuration la identify individual chamber enlargement este essential, even if there este increase în overall magnification due la shorter FFD associated cu some low-powered mobiles. It este important, therefore, that pacientul este nu rotit. 210 Normal semi-Ortostatism radiografie de Torace. bărbia este just superimposed pe upper Torace (see notes)
-        - Insufficient elevation de brațele will cause soft tissues de upper brațe la obscure lung Vârfuri Pulmonare (Apexuri) și thoracic inlet, și even retrosternal window, leading la masses sau other lesions în these areas being missed.
-        - rotație will also partially obscure retrosternal window, masking anterior mediastinal masses. It will also render Stern less distinct, which poate fie important în setting de trauma when sternal suspiciune de fractură poate fie overlooked. Postero-anterior (PA) și Profil (lateral) radiografii de same pacient evidențiind proces proliferativ tumoral în drept lower lobe
+        - Evaluarea configurației cardiace pentru identificarea măririi individuale a camerelor este esențială, chiar dacă există o creștere a magnificației globale din cauza FFD mai scurte asociate unor aparate mobile de putere redusă. Prin urmare, este important ca pacientul să nu fie rotit. 210 Radiografie toracică normală în semiortostatism. Bărbia este doar suprapusă peste partea superioară a toracelui (a se vedea notele)
+        - Ridicarea insuficientă a brațelor va determina suprapunerea țesuturilor moi ale brațelor superioare peste vârfurile pulmonare și inletul toracic și chiar peste fereastra retrosternală, ceea ce poate duce la omisiunea maselor sau a altor leziuni din aceste zone.
+        - Rotația va obscura, de asemenea, parțial fereastra retrosternală, mascând masele mediastinale anterioare. De asemenea, va face sternul mai puțin distinct, ceea ce poate fi important în contextul unui traumatism, când suspiciunea de fractură sternală poate fi omisă. Radiografii postero-anterioară (PA) și de profil (lateral) ale aceluiași pacient, evidențiind un proces proliferativ tumoral în lobul inferior drept
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este sprijinit în Semi-Șezând poziție, facing X-ray tube. grade la which they poate sit Ortostatism will depend pe their medical condition.
-• casetă este sprijinit pe / sprijinit de back, using pillows sau large 45-grade foam pad, cu its upper edge above câmpuri pulmonare.
-• Care trebuie să fie taken la ensure that caseta este paralel cu plan coronal.
-• planul mediosagital este ajustat la drept-angles la, și în linia mediană de, caseta.
-• rotație de pacientul este prevented prin use de foam pads.
-• brațele sunt rotit medially, cu umerii brought forward la bring scapulae clear de câmpuri pulmonare.
-
-• pacientul este întors la bring side under investigation în contact cu caseta.
-• planul mediosagital este ajustat paralel cu casetă.
-• brațele sunt folded over capul sau raised above capul la rest pe orizontal bar.
-• mid-axillary line este coincident cu middle de film radiologic, și caseta este ajustat pentru include Vârfuri Pulmonare (Apexuri) și lower lobes la level de first lumbar vertebra.
-    - **Punct de Centrare Fascicul:** • raza centrală este orientat first la drept-angles la caseta și spre incizură jugulară (furculiță sternală).
-• raza centrală este then înclinat until it este coincident cu middle de film radiologic, thus avoiding unnecessary expunere la eyes.
-
-• Direct raza centrală orizontală centrală la drept-angles la middle de caseta la mid-axillary line.
+    - **Poziție Pacient:**
+        - pacientul este sprijinit în poziție semișezândă, cu fața către tubul de raze X. Gradul în care poate sta în ortostatism va depinde de starea sa medicală.
+        - caseta este sprijinită de spate, folosind perne sau un suport mare din spumă de 45 de grade, cu marginea superioară deasupra câmpurilor pulmonare.
+        - Trebuie să se aibă grijă ca caseta să fie paralelă cu planul coronal.
+        - planul mediosagital este ajustat perpendicular pe casetă și pe linia mediană a acesteia.
+        - rotația pacientului este prevenită prin utilizarea unor suporturi din spumă.
+        - brațele sunt rotite medial, iar umerii sunt aduși anterior pentru a îndepărta omoplații de câmpurile pulmonare.
+        - pacientul este întors pentru a aduce partea examinată în contact cu caseta.
+        - planul mediosagital este ajustat paralel cu caseta.
+        - brațele sunt pliate peste cap sau ridicate deasupra capului pentru a se sprijini pe bara orizontală.
+        - linia medioaxilară coincide cu mijlocul filmului radiologic, iar caseta este ajustată pentru a include vârfurile pulmonare (apexurile) și lobii inferiori până la nivelul primei vertebre lombare.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală este orientată inițial în unghi drept față de casetă și către incizura jugulară (furculița sternală).
+        - Raza centrală este apoi înclinată până când coincide cu centrul filmului radiologic, evitând astfel expunerea inutilă a ochilor.
+        - Se direcționează raza centrală orizontală în unghi drept către centrul casetei, la linia medioaxilară.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -182,19 +194,19 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - semi - Ortostatism
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Torace (Câmpuri Pulmonare)).
+    - Vizualizarea clară a întregii arii anatomice (toracele (câmpurile pulmonare)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -208,11 +220,12 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - semi - Ortostatism
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Difficulties sometimes arise în positioning caseta paralel cu plan coronal, cu resultant effect that imagine de toracele este foreshortened.
-• use de orizontal raza centrală este essential la evidențiază nivele hidroaerice, e.g. revărsat pleural (pleurezie). în this situation, pacientul este ajustat cu toracele Ortostatism ca much ca possible. raza centrală orizontală centrală este orientat la drept-angles la middle de caseta. clavicles în resultant imagine will fie projected above Vârfuri Pulmonare (Apexuri).
-• If pacientul este unable la sit Ortostatism, nivele hidroaerice sunt evidențiat using orizontal ray cu pacientul adopting Profil (lateral) decubit sau dorsal decubit poziție.
-• Sick pacienți poate fie unable la support their own cap în Ortostatism poziție, resulting în superimposition de bărbia over upper Torace. Care trebuie să fie taken la avoid sau minimize this if la toate possible ca apical lesions will fie obscured.
+    - Uneori apar dificultăți în poziționarea casetei paralel cu planul coronal, cu efectul rezultat că imaginea toracelui este scurtată.
+    - Utilizarea razei centrale orizontale este esențială pentru evidențierea nivelurilor hidroaerice, de exemplu revărsatul pleural (pleurezia). În această situație, pacientul este poziționat cu toracele în ortostatism cât mai mult posibil. Raza centrală orizontală este orientată în unghi drept către centrul casetei. Claviculele din imaginea rezultată vor fi proiectate deasupra vârfurilor pulmonare (apexurilor).
+    - Dacă pacientul nu poate sta în ortostatism, nivelurile hidroaerice sunt evidențiate utilizând fasciculul orizontal, cu pacientul adoptând poziția de decubit lateral sau decubit dorsal.
+    - Pacienții bolnavi pot fi incapabili să își susțină capul în poziție ortostatică, rezultând suprapunerea bărbiei peste partea superioară a toracelui. Trebuie acordată atenție pentru a evita sau minimiza acest lucru, dacă este posibil, deoarece leziunile apicale vor fi obscure.
 
 
 ### 🖼️ Imagini
@@ -221,9 +234,9 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - semi - Ortostatism
 
 <figure class="protocol-image-card" markdown>
 
-![Normal semi-Ortostatism radiografie de Torace. bărbia este just superimposed](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_1.jpeg)
+![Radiografie toracică normală în semi-ortostatism. Bărbia este ușor suprapusă [fragment incomplet în sursă].](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal semi-Ortostatism radiografie de Torace. bărbia este just superimposed</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie toracică normală în semi-ortostatism. Bărbia este ușor suprapusă [fragment incomplet în sursă].</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -237,25 +250,25 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - semi - Ortostatism
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) incidență. Profil (lateral) radiografii, however, sunt](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_3.jpeg)
+![Incidență postero-anterioară (PA). Radiografiile de profil, însă, sunt [fragment incomplet în sursă].](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_3.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) incidență. Profil (lateral) radiografii, however, sunt</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![de trauma when sternal suspiciune de fractură poate fie overlooked.](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_4.jpeg)
-
-<figcaption><strong>de trauma when sternal suspiciune de fractură poate fie overlooked.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență postero-anterioară (PA). Radiografiile de profil, însă, sunt [fragment incomplet în sursă].</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) și Profil (lateral) radiografii de same pacient evidențiind proces proliferativ tumoral în](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_5.jpeg)
+![[Fragment incomplet în sursă] în traumatisme, când suspiciunea unei fracturi sternale poate fi trecută cu vederea.](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_4.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) și Profil (lateral) radiografii de same pacient evidențiind proces proliferativ tumoral în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>[Fragment incomplet în sursă] în traumatisme, când suspiciunea unei fracturi sternale poate fi trecută cu vederea.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografii postero-anterioară (PA) și de profil ale aceluiași pacient, evidențiind un proces proliferativ tumoral în [fragment incomplet în sursă].](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-semi-ortostatism-p225-clark/fig_5.jpeg)
+
+<figcaption><strong>Radiografii postero-anterioară (PA) și de profil ale aceluiași pacient, evidențiind un proces proliferativ tumoral în [fragment incomplet în sursă].</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

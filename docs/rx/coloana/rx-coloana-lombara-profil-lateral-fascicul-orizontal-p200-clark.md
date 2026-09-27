@@ -46,6 +46,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-fascicul-orizontal-p200-clark/fig_7.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -149,29 +153,30 @@ title: Radiografie a coloanei lombare – profil (lateral) – fascicul orizonta
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Targa de traumă este plasată adiacent stativului vertical Bucky.
-• Se ajustează poziția tărgii astfel încât marginea costală inferioară a pacientului să coincidă cu linia centrală verticală a Bucky, iar planul mediosagital să fie paralel cu caseta.
-• Bucky trebuie ridicat sau coborât astfel încât planul coronal median al pacientului să coincidă cu linia mediană a casetei în interiorul Bucky, de-a lungul axei sale longitudinale.
-• Dacă este posibil, brațele trebuie ridicate deasupra capului.
-
-• Această incidență poate fi efectuată în decubit dorsal, dar este cel mai frecvent efectuată în ortostatism, cu pacientul așezat pe un scaun sau pe un taburet, cu una dintre laturi sprijinită de stativul vertical Bucky.
-• Poziția așezat este preferată, deoarece flexia și extensia aparentă a regiunii lombare este mai puțin probabil să se datoreze mișcării articulațiilor șoldurilor atunci când se utilizează poziția în ortostatism.
-• Suprafața dorsală a trunchiului trebuie să fie perpendiculară pe casetă, iar coloana vertebrală paralelă cu caseta.
-• Pentru prima expunere, pacientul se apleacă înainte, flectând regiunea lombară cât mai mult posibil, și se prinde de partea anterioară a șezutului pentru a ajuta la menținerea poziției.
-• Pentru a doua expunere, pacientul se apleacă apoi înapoi, extinzând regiunea lombară cât mai mult posibil, și se prinde de partea posterioară a șezutului sau de un alt suport plasat în spatele pacientului.
-• Caseta este centrată la nivelul marginii costale inferioare, iar expunerea se efectuează în apnee la sfârșitul expirului complet.
-    - **Punct de Centrare Fascicul:** • Se direcționează raza centrală orizontală paralel cu linia care unește spinele iliace anterosuperioare și spre un punct situat la 7.5 cm anterior de procesul spinos al celei de-a treia vertebre lombare, la nivelul marginii costale inferioare.
-
-• Se orientează raza centrală perpendicular pe filmul radiologic și spre un punct situat la 7.5 cm anterior de procesul spinos al celei de-a treia vertebre lombare, la nivelul marginii costale inferioare.
+    - **Poziție Pacient:**
+        - Targa de traumă este plasată adiacent stativului vertical Bucky.
+        - Se ajustează poziția tărgii astfel încât marginea costală inferioară a pacientului să coincidă cu linia centrală verticală a Bucky, iar planul mediosagital să fie paralel cu caseta.
+        - Bucky trebuie ridicat sau coborât astfel încât planul coronal median al pacientului să coincidă cu linia mediană a casetei în interiorul Bucky, de-a lungul axei sale longitudinale.
+        - Dacă este posibil, brațele trebuie ridicate deasupra capului.
+        - Această incidență poate fi efectuată în decubit dorsal, dar este cel mai frecvent efectuată în ortostatism, cu pacientul așezat pe un scaun sau pe un taburet, cu una dintre laturi sprijinită de stativul vertical Bucky.
+        - Poziția așezat este preferată, deoarece flexia și extensia aparentă a regiunii lombare este mai puțin probabil să se datoreze mișcării articulațiilor șoldurilor atunci când se utilizează poziția în ortostatism.
+        - Suprafața dorsală a trunchiului trebuie să fie perpendiculară pe casetă, iar coloana vertebrală paralelă cu caseta.
+        - Pentru prima expunere, pacientul se apleacă înainte, flectând regiunea lombară cât mai mult posibil, și se prinde de partea anterioară a șezutului pentru a ajuta la menținerea poziției.
+        - Pentru a doua expunere, pacientul se apleacă apoi înapoi, extinzând regiunea lombară cât mai mult posibil, și se prinde de partea posterioară a șezutului sau de un alt suport plasat în spatele pacientului.
+        - Caseta este centrată la nivelul marginii costale inferioare, iar expunerea se efectuează în apnee la sfârșitul expirului complet.
+    - **Punct de Centrare Fascicul:**
+        - Se direcționează raza centrală orizontală paralel cu linia care unește spinele iliace anterosuperioare și spre un punct situat la 7.5 cm anterior de procesul spinos al celei de-a treia vertebre lombare, la nivelul marginii costale inferioare.
+        - Se orientează raza centrală perpendicular pe filmul radiologic și spre un punct situat la 7.5 cm anterior de procesul spinos al celei de-a treia vertebre lombare, la nivelul marginii costale inferioare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -210,6 +215,7 @@ title: Radiografie a coloanei lombare – profil (lateral) – fascicul orizonta
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

@@ -145,6 +145,7 @@ position: Decubit ventral sau oblic 30° pe masa chirurgicală radiotransparent�
             - **Nivel de Iradiere Estimată:** `Clasa 2 (Medie 1 - 5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient & Substanță de Contrast__
 
     ---

@@ -2,41 +2,49 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular la Femur și orientat la midpoint de receptorul de imagine
+centering: perpendicular pe femur și orientat la mijlocul receptorului de imagine
 clinical_indications:
-- Mid și distal Femur, including Genunchi articulație, pentru detection și evaluation
-  de suspiciune de fractură și/sau bone lesions
+- Treimea mijlocie și distală a femurului, inclusiv articulația genunchiului, pentru
+  detectarea și evaluarea suspiciunii de fractură și/sau a leziunilor osoase
 images:
-- caption: Fig. 7.38 Mediolateral mid și distal Femur.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 7.38 Mediolateral
-    mid și distal femur.)
+- caption: Fig. 7.38 Femurul mijlociu și distal în incidență mediolaterală.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 7.38 Femurul
+    mijlociu și distal în incidență mediolaterală.)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_1.jpeg
-- caption: Fig. 7.39 traumatism acuttism / Regim Urgență lateromedial (orizontal fascicul)
-    incidență.
+- caption: Fig. 7.39 Incidență lateromedială pentru traumatism acut / în regim de
+    urgență (fascicul orizontal).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.39
-    Trauma lateromedial (orizontal fascicul) incidență.)
+    Incidență lateromedială pentru traumatism acut (fascicul orizontal).)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_2.jpeg
-- caption: 'Fig. 7.40 lateral—mid și distal Femur. (de la Fagan R, Furey AJ:'
+- caption: 'Fig. 7.40 Femurul mijlociu și distal în profil. (de la Fagan R, Furey
+    AJ:'
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.40
-    lateral—mid și distal femur. (de la Fagan R, Furey AJ:)
+    Femurul mijlociu și distal în profil. (de la Fagan R, Furey AJ:)
   url: assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: When physical grilă este used, care trebuie să fie taken la prevent grilă cutoff.
-position: 'Pacient: Place pacient în lateral Decubit poziție, sau Decubit dorsal pentru
-  traumatism acuttism / Regim Urgență pacient.; Regiune anatomică: lateral Decubit
-  (Fig. 7.38) WARninG: Do nu attempt this poziție if pacient has severe traumatism
-  acuttism / Regim Urgență. Flex Genunchi approximately 45 grade cu pacient pe affected
-  side, și align Femur la linia mediană mesei sau receptorul de imagine. Place unaffected
-  membru inferior behind affected membru inferior la prevent overrotation. Adjust
-  receptorul de imagine la include Genunchi articulație (lower receptorul de imagine
-  margin trebuie să fie approximately 2 inches [5 cm] below Genunchi articulație).
-  second receptorul de imagine pentru include proximal Femur și Șold generally will
-  fie required pe adult (see pp. 282 și 294). traumatism acuttism / Regim Urgență
-  Lateromedial incidență (Fig. 7.39) Place support under affected membru inferior
-  și Genunchi și support Picior și Gleznă (Articulație Talocrurală) în true AP poziție.
-  Place receptorul de imagine pe edge against medial aspect de thigh la include Genunchi,
-  cu orizontal xray fascicul orientat de la lateral side.'
+notes: Când se utilizează o grilă fizică, aceasta trebuie poziționată pentru a preveni
+  tăierea grilei.
+position: 'Pacient: Așezați pacientul în decubit lateral sau în decubit dorsal pentru
+  pacient cu traumatism acut / în regim de urgență.; Regiune anatomică: decubit lateral
+  (Fig. 7.38) AVERTISMENT: Nu încercați această poziție dacă pacientul prezintă un
+  traumatism acut sever / este în regim de urgență. Flectați genunchiul la aproximativ
+  45 de grade, cu pacientul pe partea afectată, și aliniați femurul cu linia mediană
+  a mesei sau a receptorului de imagine. Așezați membrul inferior neafectat în spatele
+  membrului inferior afectat pentru a preveni suprarotația. Ajustați receptorul de
+  imagine pentru a include articulația genunchiului (marginea inferioară a receptorului
+  de imagine trebuie să fie la aproximativ 2 țoli [5 cm] sub articulația genunchiului).
+  Pentru adult, va fi necesar, în general, un al doilea receptor de imagine pentru
+  a include femurul proximal și șoldul (vezi pp. 282 și 294). Incidență lateromedială
+  pentru traumatism acut / în regim de urgență (Fig. 7.39) Așezați un suport sub membrul
+  inferior și genunchiul afectat și susțineți piciorul și glezna (articulația talocrurală)
+  în poziție AP adevărată. Așezați receptorul de imagine pe muchie, lipit de aspectul
+  medial al coapsei, pentru a include genunchiul, cu fasciculul de raze X orizontal
+  orientat dinspre partea laterală.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -44,41 +52,44 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- distal twothirds de distal Femur, including Genunchi articulație, este vizualizat.
-- 'Genunchi articulație will nu appear open, și distal margins de femoral condyles
-  will nu fie superimposed because de divergent xray fascicul (Fig. 7.40). poziție,
-  True lateral:'
-- anterior și posterior margins de medial și lateral femoral condyles trebuie să fie
-  superimposed și aliniat cu open patellofemoral spații articulare.
-- Femur trebuie să fie centrat pe collimation field size cu Genunchi spații articulare
-  minimum de 1 inch (2.5 cm) de la distal receptorul de imagine margin.
-- 'Collimation field size la aria de interes diagnostic. expunere:'
-- optim expunere cu correct use de anode heel effect sau use de compensating filter
-  will result în near uniformity.
-- optim receptorul de imagine expunere și contrast de entire Femur.
-- 'fără mișcare este present; fine trabecular markings trebuie să fie clear și net
-  throughout length de Femur. 35 43 L Fig. 7.40 lateral—mid și distal Femur. (de la
-  Fagan R, Furey AJ: Use de large osteochondral allografts în reconstruction de traumatism
-  acuttic uncontained distal femoral defects. J Orthopaed 11(1): 43–47, 2014.)'
+- Sunt vizualizate cele două treimi distale ale femurului distal, inclusiv articulația
+  genunchiului.
+- 'Articulația genunchiului nu va apărea deschisă, iar marginile distale ale condililor
+  femurali nu vor fi suprapuse din cauza fasciculului de raze X divergent (Fig. 7.40).
+  Poziție, profil adevărat:'
+- Marginile anterioare și posterioare ale condililor femurali medial și lateral trebuie
+  să fie suprapuse și aliniate, cu spațiile articulare patelofemurale deschise.
+- Femurul trebuie centrat în câmpul de colimare, cu spațiile articulare ale genunchiului
+  la minimum 1 țol (2.5 cm) de marginea distală a receptorului de imagine.
+- 'Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:'
+- Expunerea optimă, cu utilizarea corectă a efectului anodo-călcâi sau a unui filtru
+  compensator, va avea ca rezultat o uniformitate aproape completă.
+- optimă a expunerii receptorului de imagine și a contrastului întregului femur.
+- 'Nu este prezentă nicio mișcare; marcajele trabeculare fine trebuie să fie clare
+  și nete pe toată lungimea femurului. 35 43 L Fig. 7.40 femurul mijlociu și distal
+  în profil. (de la Fagan R, Furey AJ: Utilizarea grefelor osteocondrale alogene de
+  mari dimensiuni în reconstrucția defectelor femurale distale traumatice, necontenute.
+  J Orthopaed 11(1): 43–47, 2014.)'
 sid_dff: 100 cm
 slug: rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 295
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate closely pe ambele părți (bilateral) la Femur cu end collimation
-    field size la receptorul de imagine margini. Femur—Mid și distal ROUTINE AP lateral
-    Fig. 7.38 Mediolateral mid și distal Femur. Fig. 7.39 traumatism acuttism / Regim
-    Urgență lateromedial (orizontal fascicul) incidență.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați strâns pe ambele părți ale femurului, până la marginile receptorului
+    de imagine ale câmpului de colimare. Femur — mijlociu și distal, DE RUTINĂ, AP,
+    profil. Fig. 7.38 Femurul mijlociu și distal în incidență mediolaterală. Fig.
+    7.39 Incidență lateromedială pentru traumatism acut / în regim de urgență (fascicul
+    orizontal).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (- Femur - MID AND DISTAL)
+title: Rx mediolateral SAU incidență lateromedială — PROFIL (femur — mijlociu și distal)
 ---
-# Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (- Femur - MID AND DISTAL)
+# Rx mediolateral SAU incidență lateromedială — PROFIL (femur — mijlociu și distal)
 
 
 <div class="rx-meta-bar">
@@ -97,22 +108,23 @@ title: Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (- Femur - MID A
 
     === "Indicații Clinice"
 
-        - Mid și distal Femur, including Genunchi articulație, pentru detection și evaluation de suspiciune de fractură și/sau bone lesions
+        - Treimea mijlocie și distală a femurului, inclusiv articulația genunchiului, pentru detectarea și evaluarea suspiciunii de fractură și/sau a leziunilor osoase
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient în lateral Decubit poziție, sau Decubit dorsal pentru traumatism acuttism / Regim Urgență pacient.; Regiune anatomică: lateral Decubit (Fig. 7.38) WARninG: Do nu attempt this poziție if pacient has severe traumatism acuttism / Regim Urgență. Flex Genunchi approximately 45 grade cu pacient pe affected side, și align Femur la linia mediană mesei sau receptorul de imagine. Place unaffected membru inferior behind affected membru inferior la prevent overrotation. Adjust receptorul de imagine la include Genunchi articulație (lower receptorul de imagine margin trebuie să fie approximately 2 inches [5 cm] below Genunchi articulație). second receptorul de imagine pentru include proximal Femur și Șold generally will fie required pe adult (see pp. 282 și 294). traumatism acuttism / Regim Urgență Lateromedial incidență (Fig. 7.39) Place support under affected membru inferior și Genunchi și support Picior și Gleznă (Articulație Talocrurală) în true AP poziție. Place receptorul de imagine pe edge against medial aspect de thigh la include Genunchi, cu orizontal xray fascicul orientat de la lateral side.
-    - **Punct de Centrare Fascicul:** perpendicular la Femur și orientat la midpoint de receptorul de imagine
+    - **Poziție Pacient:** Pacient: Așezați pacientul în decubit lateral sau în decubit dorsal pentru pacient cu traumatism acut / în regim de urgență.; Regiune anatomică: decubit lateral (Fig. 7.38) AVERTISMENT: Nu încercați această poziție dacă pacientul prezintă un traumatism acut sever / este în regim de urgență. Flectați genunchiul la aproximativ 45 de grade, cu pacientul pe partea afectată, și aliniați femurul cu linia mediană a mesei sau a receptorului de imagine. Așezați membrul inferior neafectat în spatele membrului inferior afectat pentru a preveni suprarotația. Ajustați receptorul de imagine pentru a include articulația genunchiului (marginea inferioară a receptorului de imagine trebuie să fie la aproximativ 2 țoli [5 cm] sub articulația genunchiului). Pentru adult, va fi necesar, în general, un al doilea receptor de imagine pentru a include femurul proximal și șoldul (vezi pp. 282 și 294). Incidență lateromedială pentru traumatism acut / în regim de urgență (Fig. 7.39) Așezați un suport sub membrul inferior și genunchiul afectat și susțineți piciorul și glezna (articulația talocrurală) în poziție AP adevărată. Așezați receptorul de imagine pe muchie, lipit de aspectul medial al coapsei, pentru a include genunchiul, cu fasciculul de raze X orizontal orientat dinspre partea laterală.
+    - **Punct de Centrare Fascicul:** perpendicular pe femur și orientat la mijlocul receptorului de imagine
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -127,22 +139,22 @@ title: Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (- Femur - MID A
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate closely pe ambele părți (bilateral) la Femur cu end collimation field size la receptorul de imagine margini. Femur—Mid și distal ROUTINE AP lateral Fig. 7.38 Mediolateral mid și distal Femur. Fig. 7.39 traumatism acuttism / Regim Urgență lateromedial (orizontal fascicul) incidență. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați strâns pe ambele părți ale femurului, până la marginile receptorului de imagine ale câmpului de colimare. Femur — mijlociu și distal, DE RUTINĂ, AP, profil. Fig. 7.38 Femurul mijlociu și distal în incidență mediolaterală. Fig. 7.39 Incidență lateromedială pentru traumatism acut / în regim de urgență (fascicul orizontal). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal twothirds de distal Femur, including Genunchi articulație, este vizualizat.
-    - Genunchi articulație will nu appear open, și distal margins de femoral condyles will nu fie superimposed because de divergent xray fascicul (Fig. 7.40). poziție, True lateral:
-    - anterior și posterior margins de medial și lateral femoral condyles trebuie să fie superimposed și aliniat cu open patellofemoral spații articulare.
-    - Femur trebuie să fie centrat pe collimation field size cu Genunchi spații articulare minimum de 1 inch (2.5 cm) de la distal receptorul de imagine margin.
-    - Collimation field size la aria de interes diagnostic. expunere:
-    - optim expunere cu correct use de anode heel effect sau use de compensating filter will result în near uniformity.
-    - optim receptorul de imagine expunere și contrast de entire Femur.
-    - fără mișcare este present; fine trabecular markings trebuie să fie clear și net throughout length de Femur. 35 43 L Fig. 7.40 lateral—mid și distal Femur. (de la Fagan R, Furey AJ: Use de large osteochondral allografts în reconstruction de traumatism acuttic uncontained distal femoral defects. J Orthopaed 11(1): 43–47, 2014.)
+    - Sunt vizualizate cele două treimi distale ale femurului distal, inclusiv articulația genunchiului.
+    - Articulația genunchiului nu va apărea deschisă, iar marginile distale ale condililor femurali nu vor fi suprapuse din cauza fasciculului de raze X divergent (Fig. 7.40). Poziție, profil adevărat:
+    - Marginile anterioare și posterioare ale condililor femurali medial și lateral trebuie să fie suprapuse și aliniate, cu spațiile articulare patelofemurale deschise.
+    - Femurul trebuie centrat în câmpul de colimare, cu spațiile articulare ale genunchiului la minimum 1 țol (2.5 cm) de marginea distală a receptorului de imagine.
+    - Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:
+    - Expunerea optimă, cu utilizarea corectă a efectului anodo-călcâi sau a unui filtru compensator, va avea ca rezultat o uniformitate aproape completă.
+    - optimă a expunerii receptorului de imagine și a contrastului întregului femur.
+    - Nu este prezentă nicio mișcare; marcajele trabeculare fine trebuie să fie clare și nete pe toată lungimea femurului. 35 43 L Fig. 7.40 femurul mijlociu și distal în profil. (de la Fagan R, Furey AJ: Utilizarea grefelor osteocondrale alogene de mari dimensiuni în reconstrucția defectelor femurale distale traumatice, necontenute. J Orthopaed 11(1): 43–47, 2014.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -154,8 +166,9 @@ title: Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (- Femur - MID A
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    When physical grilă este used, care trebuie să fie taken la prevent grilă cutoff.
+    Când se utilizează o grilă fizică, aceasta trebuie poziționată pentru a preveni tăierea grilei.
 
 
 ### 🖼️ Imagini
@@ -164,25 +177,25 @@ title: Rx Medio-Lateral OR Incidență Latero-MedialăS LATERAL (- Femur - MID A
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.38 Mediolateral mid și distal Femur.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_1.jpeg)
+![Fig. 7.38 Femurul mijlociu și distal în incidență mediolaterală.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 7.38 Mediolateral mid și distal Femur.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 7.38 Mediolateral mid și distal femur.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 7.39 traumatism acuttism / Regim Urgență lateromedial (orizontal fascicul) incidență.](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 7.39 traumatism acuttism / Regim Urgență lateromedial (orizontal fascicul) incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.39 Trauma lateromedial (orizontal fascicul) incidență.)</span></figcaption>
+<figcaption><strong>Fig. 7.38 Femurul mijlociu și distal în incidență mediolaterală.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 7.38 Femurul mijlociu și distal în incidență mediolaterală.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 7.40 lateral—mid și distal Femur. (de la Fagan R, Furey AJ:](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_3.jpeg)
+![Fig. 7.39 Incidență lateromedială pentru traumatism acut / în regim de urgență (fascicul orizontal).](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 7.40 lateral—mid și distal Femur. (de la Fagan R, Furey AJ:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.40 lateral—mid și distal femur. (de la Fagan R, Furey AJ:)</span></figcaption>
+<figcaption><strong>Fig. 7.39 Incidență lateromedială pentru traumatism acut / în regim de urgență (fascicul orizontal).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.39 Incidență lateromedială pentru traumatism acut (fascicul orizontal).)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 7.40 Femurul mijlociu și distal în profil. (de la Fagan R, Furey AJ:](../../assets/images/protocols/bontrager/rx-mediolateral-or-lateromedial-projections-lateral-femur-mid-and-distal-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 7.40 Femurul mijlociu și distal în profil. (de la Fagan R, Furey AJ:</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 7.40 Femurul mijlociu și distal în profil. (de la Fagan R, Furey AJ:)</span></figcaption>
 
 </figure>
 

@@ -2,7 +2,8 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: perpendicular pe midportion de Humerus și center de receptorul de imagine
+centering: Perpendicular pe porțiunea mediană a humerusului și centrat la receptorul
+  de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,27 +13,33 @@ images:
 - caption: Merrill — pagina 354, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-humerus-incidenta-antero-posterioara-ap-upright-positioned-quickly-and-accurately-with-minimal-discomfort-to-the-patient-p352-merrill/p354_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Poziție Șezândă-în ortostatism sau în ortostatism
-  poziție facing x-ray tube.; se ajustează height de receptorul de imagine la place
-  its upper margin approximately 1½ inches (3.8 cm) deasupra nivelului cap humeral.
-  Abduct braț slightly și supinate Mână. plan coronal passing through epicondyles
-  trebuie să fie paralel cu receptorul de imagine plane pentru AP (sau PA) incidență
-  (see Fig. 5.151). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în poziție șezândă-în ortostatism sau în ortostatism,
+  cu fața spre tubul de raze X. Se ajustează înălțimea receptorului de imagine pentru
+  a plasa marginea sa superioară la aproximativ 1½ țoli (3.8 cm) deasupra nivelului
+  capului humeral. Se abduce ușor brațul și se supinează mâna. Planul coronal care
+  trece prin epicondili trebuie să fie paralel cu planul receptorului de imagine pentru
+  incidența AP (sau PA) (vezi Fig. 5.151). Se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Cot și Umăr articulații vizibil but slightly distorted due la fascicul divergence
-- Humeral epicondyles fără rotație
-- cap humeral și mare tuberozitate humerală (trohiter) în profile
-- Outline de mică tuberozitate humerală (trohin), located între cap humeral și mare
-  tuberozitate humerală (trohiter)
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulațiile cotului și umărului sunt vizibile, dar ușor deformate din cauza divergenței
+  fasciculului.
+- Epicondilii humerali fără rotație.
+- Capul humeral și tuberozitatea mare humerală (trohiterul) în profil.
+- Conturul tuberozității mici humerale (trohinul), situată între capul humeral și
+  tuberozitatea mare humerală (trohiterul).
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-humerus-incidenta-antero-posterioara-ap-upright-positioned-quickly-and-accurately-with-minimal-discomfort-to-the-patient-p352-merrill
 source_pages:
@@ -40,54 +47,56 @@ source_pages:
 - 353
 - 354
 source_sections:
-  anatomy: AP incidență shows entire length de humerus. accuracy de poziție este vizualizat
-    prin epicondyles (Fig. 5.152).
-  collimation: '• Adjust câmp de iradiere la 2 inches (5 cm) distal la cot articulație
-    și superior la umăr și 1 inch (2.5 cm) pe sides. Place
+  anatomy: Incidența AP evidențiază întreaga lungime a humerusului. Corectitudinea
+    poziționării este vizualizată prin epicondili (Fig. 5.152).
+  collimation: • Se ajustează câmpul de iradiere la 2 țoli (5 cm) distal față de articulația
+    cotului și superior față de umăr și la 1 țol (2.5 cm) pe laturi. Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe porțiunea mijlocie a humerusului și centrat pe receptorul
+    de imagine.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular pe midportion de humerus și center de receptorul de imagine
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulațiile cotului și umărului sunt vizibile, dar ușor deformate din cauza
+    divergenței fasciculului
 
-    • cot și umăr articulații vizibil but slightly distorted due la fascicul divergence
+    • Epicondilii humerali fără rotație
 
-    • Humeral epicondyles fără rotație
+    • Capul humeral și tuberozitatea mare humerală (trohiterul) în profil
 
-    • cap humeral și mare tuberozitate humerală (trohiter) în profile
+    • Conturul tuberozității mici humerale (trohinul), situată între capul humeral
+    și tuberozitatea mare humerală (trohiterul)
 
-    • Outline de mică tuberozitate humerală (trohin), located între cap humeral și
-    mare tuberozitate humerală (trohiter)
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  part_pos: '• Se ajustează înălțimea receptorului de imagine pentru a plasa marginea
+    sa superioară la aproximativ 1½ țoli (3.8 cm) deasupra nivelului capului humeral.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează height de receptorul de imagine la place its upper margin
-    approximately 1½ inches (3.8 cm) deasupra nivelului cap humeral.
+    • Se abduce ușor brațul și se supinează mâna.
 
-    • Abduct braț slightly și supinate mână.
+    • Planul coronal care trece prin epicondili trebuie să fie paralel cu planul receptorului
+    de imagine pentru incidența AP (sau PA) (vezi Fig. 5.151).
 
-    • plan coronal passing through epicondyles trebuie să fie paralel cu receptorul
-    de imagine plane pentru AP (sau PA) incidență (see Fig. 5.151).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în așezat pe scaun-în ortostatism sau în ortostatism
-    poziție facing x-ray tube.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în poziție șezândă-în ortostatism sau în ortostatism,
+    cu fața spre tubul de raze X.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 352–354
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2 inches (5 cm) distal la Cot articulație
-    și superior la Umăr și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Humerus — Incidență Antero-Posterioară (AP) — UpProfil Drepted quickly and
-  accurately with minimal discomfort to the patient. (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 2 țoli (5 cm) distal față de articulația
+    cotului și superior față de umăr și la 1 țol (2.5 cm) pe laturi. Se plasează markerul
+    de lateralitate în câmpul colimat.
+title: Rx Humerus — Incidență anteroposterioară (AP) — UpProfil [fragment deteriorat
+  în sursă] (Merrill)
 ---
-# Rx Humerus — Incidență Antero-Posterioară (AP) — UpProfil Drepted quickly and accurately with minimal discomfort to the patient. (Merrill)
+# Rx Humerus — Incidență anteroposterioară (AP) — UpProfil [fragment deteriorat în sursă] (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -111,17 +120,18 @@ title: Rx Humerus — Incidență Antero-Posterioară (AP) — UpProfil Drepted 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Poziție Șezândă-în ortostatism sau în ortostatism poziție facing x-ray tube.; se ajustează height de receptorul de imagine la place its upper margin approximately 1½ inches (3.8 cm) deasupra nivelului cap humeral. Abduct braț slightly și supinate Mână. plan coronal passing through epicondyles trebuie să fie paralel cu receptorul de imagine plane pentru AP (sau PA) incidență (see Fig. 5.151). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midportion de Humerus și center de receptorul de imagine
+    - **Poziție Pacient:** Se așază pacientul în poziție șezândă-în ortostatism sau în ortostatism, cu fața spre tubul de raze X. Se ajustează înălțimea receptorului de imagine pentru a plasa marginea sa superioară la aproximativ 1½ țoli (3.8 cm) deasupra nivelului capului humeral. Se abduce ușor brațul și se supinează mâna. Planul coronal care trece prin epicondili trebuie să fie paralel cu planul receptorului de imagine pentru incidența AP (sau PA) (vezi Fig. 5.151). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe porțiunea mediană a humerusului și centrat la receptorul de imagine
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -137,20 +147,20 @@ title: Rx Humerus — Incidență Antero-Posterioară (AP) — UpProfil Drepted 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2 inches (5 cm) distal la Cot articulație și superior la Umăr și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 2 țoli (5 cm) distal față de articulația cotului și superior față de umăr și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Cot și Umăr articulații vizibil but slightly distorted due la fascicul divergence
-    - Humeral epicondyles fără rotație
-    - cap humeral și mare tuberozitate humerală (trohiter) în profile
-    - Outline de mică tuberozitate humerală (trohin), located între cap humeral și mare tuberozitate humerală (trohiter)
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulațiile cotului și umărului sunt vizibile, dar ușor deformate din cauza divergenței fasciculului.
+    - Epicondilii humerali fără rotație.
+    - Capul humeral și tuberozitatea mare humerală (trohiterul) în profil.
+    - Conturul tuberozității mici humerale (trohinul), situată între capul humeral și tuberozitatea mare humerală (trohiterul).
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,6 +169,7 @@ title: Rx Humerus — Incidență Antero-Posterioară (AP) — UpProfil Drepted 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -198,48 +209,3 @@ title: Rx Humerus — Incidență Antero-Posterioară (AP) — UpProfil Drepted 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 352–354](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP incidență shows entire length de humerus. accuracy de poziție este vizualizat prin epicondyles (Fig. 5.152).
-
-### collimation
-
-• Adjust câmp de iradiere la 2 inches (5 cm) distal la cot articulație și superior la umăr și 1 inch (2.5 cm) pe sides. Place
-marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe midportion de humerus și center de receptorul de imagine
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cot și umăr articulații vizibil but slightly distorted due la fascicul divergence
-• Humeral epicondyles fără rotație
-• cap humeral și mare tuberozitate humerală (trohiter) în profile
-• Outline de mică tuberozitate humerală (trohin), located între cap humeral și mare tuberozitate humerală (trohiter)
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează height de receptorul de imagine la place its upper margin approximately 1½ inches (3.8 cm) deasupra nivelului cap humeral.
-• Abduct braț slightly și supinate mână.
-• plan coronal passing through epicondyles trebuie să fie paralel cu receptorul de imagine plane pentru AP (sau PA) incidență (see Fig. 5.151).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în așezat pe scaun-în ortostatism sau în ortostatism poziție facing x-ray tube.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
-

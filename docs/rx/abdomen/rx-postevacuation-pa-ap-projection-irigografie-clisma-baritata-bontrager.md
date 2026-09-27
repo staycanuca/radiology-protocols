@@ -18,6 +18,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.82
     PA după evacuare.)
   url: assets/images/protocols/bontrager/rx-postevacuation-pa-ap-projection-irigografie-clisma-baritata-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Imaginea trebuie obținută după ce pacientul a avut suficient timp pentru
@@ -90,11 +94,12 @@ title: Rx Incidență PA (AP) după evacuare (Irigografie (Clismă Baritată))
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -137,6 +142,7 @@ title: Rx Incidență PA (AP) după evacuare (Irigografie (Clismă Baritată))
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Imaginea trebuie obținută după ce pacientul a avut suficient timp pentru o evacuare adecvată. Dacă radiografia arată o evacuare insuficientă pentru vizualizarea clară a reliefului mucoasei, trebuie obținută o a doua radiografie după o evacuare suplimentară. Uneori se poate administra cafea sau ceai ca stimulent în acest scop. Includeți ampula rectală la marginea inferioară a radiografiei. Utilizați un kVp mai mic pentru a preveni penetrarea excesivă, întrucât în intestinul gros (colon) rămâne doar substanță de contrast reziduală. După evacuare. Irigografie (Clismă Baritată). DE RUTINĂ. PA sau AP. RAO. LAO. LPO sau RPO. Rect în incidență de profil. Decubit lateral R și L (examinare cu dublu contrast). PA după evacuare. Fig. 13.83 PA după evacuare. Fig. 13.82 PA după evacuare.

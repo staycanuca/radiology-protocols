@@ -3,28 +3,32 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: pediatrie
-centering: '• vertical central fascicul este orientat la drept-angles la middle de
-  caseta la nivelul T8 (mid-Stern).
+centering: '• fasciculul central vertical este orientat la unghi drept față de mijlocul
+  casetei, la nivelul T8 (mijlocul sternului).
 
-  • pentru babies cu very hyperinflated barrel chest (due la bronchiolitis sau asthma),
-  tubul este also înclinat five la 10 grade caudally la avoid Lordotică incidență.'
+  • Pentru sugarii cu torace în butoi foarte hiperinsuflat (din cauza bronșiolitei
+  sau astmului), tubul este, de asemenea, înclinat cu five până la 10 grade caudal
+  pentru a evita incidența lordotică.'
 clinical_indications:
-- Special attention este required when imaging baby’s chest. cu toracele being conical
-  în shape, positioning baby Decubit dorsal cu back against casetă results în Lordotică
-  incidență, cu clavicles projected above Vârfuri Pulmonare (Apexuri) și large part
-  de lower lobes superimposed pe abdomenul. Cord și Siluetă Cardiovasculară also appears
-  foreshortened. în correct incidență, anterior rib ends will fie projected inferiorly
-  la posterior rib ends, și clavicles will fie seen superimposed pe lung Vârfuri Pulmonare
-  (Apexuri). This poate fie accomplished either prin leaning baby forward sau prin
-  angling X-ray tube caudally, sau ambele. incidență este often performed ca part
-  de mobile X-ray examination pe children de toate ages. casetă size este selected
-  depending pe size de child.
+- Este necesară o atenție specială la efectuarea imagisticii toracelui sugarului.
+  Deoarece toracele are formă conică, poziționarea sugarului în decubit dorsal, cu
+  spatele sprijinit pe casetă, determină o incidență lordotică, cu claviculele proiectate
+  deasupra vârfurilor pulmonare și cu o mare parte a lobilor inferiori suprapusă peste
+  abdomen. Cordul și silueta cardiovasculară apar, de asemenea, scurtate. În incidența
+  corectă, extremitățile anterioare ale coastelor vor fi proiectate inferior față
+  de extremitățile posterioare, iar claviculele vor fi vizibile suprapuse peste vârfurile
+  pulmonare. Acest lucru poate fi realizat fie prin aplecarea sugarului înainte, fie
+  prin înclinarea caudală a tubului radiogen, fie prin ambele metode. Incidența este
+  efectuată frecvent ca parte a examinării radiografice mobile la copii de toate vârstele.
+  Dimensiunea casetei este selectată în funcție de dimensiunea copilului.
 images:
-- caption: correctly exposed radiografie, Torace (Câmpuri Pulmonare) sunt fully evidențiat
-    cu the
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: radiografie expusă corect, câmpurile pulmonare sunt evidențiate complet
+    cu
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark/fig_1.jpeg
-- caption: radiografie cu excessive lordosis de toracele, rib ends appear la
+- caption: radiografie cu lordoză toracică excesivă, extremitățile coastelor apar
+    la
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark/fig_2.jpeg
@@ -32,26 +36,31 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark/fig_3.jpeg
+iris_reference:
+  chapter: Pediatrie — Torace, pulmon, cord
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Care trebuie să fie taken nu la have lung Vârfuri Pulmonare (Apexuri) being
-  obscured prin bărbia.
+notes: '• Trebuie avut grijă ca vârfurile pulmonare să nu fie mascate de bărbie.
 
-  • Lead-rubber coverage de abdomenul în immediate proximity la fascicul este recommended.'
-position: '• child este poziționat Decubit dorsal pe casetă, cu upper edge poziționat
-  above lung Vârfuri Pulmonare (Apexuri).
+  • Se recomandă acoperirea cu cauciuc plumbat a abdomenului aflat în imediata proximitate
+  a fasciculului.'
+position: '• copilul este poziționat în decubit dorsal pe casetă, cu marginea superioară
+  poziționată deasupra vârfurilor pulmonare.
 
-  • When examining baby, a 15-grade foam pad este poziționat între Torace și caseta
-  (thick end under upper Torace) la avoid Lordotică incidență. small foam pad este
-  also plasat under child’s cap pentru comfort.
+  • La examinarea sugarului, un suport din spumă de 15 grade este poziționat între
+  torace și casetă (capătul gros sub toracele superior) pentru a evita incidența lordotică.
+  Un suport mic din spumă este, de asemenea, plasat sub capul copilului pentru confort.
 
-  • planul mediosagital este ajustat la drept-angles la middle de caseta. la avoid
-  rotație, capul, chest și Bazin (bazin (pelvis)) sunt straight.
+  • planul mediosagital este ajustat perpendicular pe mijlocul casetei. Pentru a evita
+  rotația, capul, toracele și bazinul sunt menținute drepte.
 
-  • child’s brațe sunt held, cu coate flectat, pe fiecare side de capul.
+  • brațele copilului sunt ținute, cu coatele flectate, de fiecare parte a capului.
 
-  • suitable appliance, e.g. Bucky band sau Velcro band, este secured over baby’s
-  Abdomen și săculeți cu nisip sunt plasat next la thighs la prevent rotație.'
+  • un dispozitiv adecvat, de exemplu o bandă Bucky sau o bandă Velcro, este fixat
+  peste abdomenul sugarului, iar săculeții cu nisip sunt plasați lângă coapse pentru
+  a preveni rotația.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -60,35 +69,37 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Erori de evitat / remedii: Tilted, cu clavicles high above lung Vârfuri Pulmonare
-  (Apexuri). This Lordotică incidență results în lower lobes de Torace (Câmpuri Pulmonare)
-  being obscured prin cupole diafragmatice. pneumonie / infiltrate pulmonare și other
-  lung pathology poate 396 fie missed. See poziție de pacient și casetă pentru how
-  la correct this fault. pacient poziționat pentru Antero-posterior (AP) Decubit dorsal
-  chest imagine de Antero-posterior (AP) Decubit dorsal chest cu large drept lobe
-  de thymus R L Very Lordotică poziție de toracele due la pacientul having marked
-  hyperinflation ca result de bronchiolitis. Clavicles sunt well above lung Vârfuri
-  Pulmonare (Apexuri). cupole diafragmatice could obscure basal pneumonie / infiltrate
-  pulmonare. Note that în correctly exposed radiografie, Torace (Câmpuri Pulmonare)
-  sunt fully evidențiat cu anterior rib ends inferior la posterior ends. în incorrectly
-  poziționat radiografie cu excessive lordosis de toracele, rib ends appear la fie
-  pe same level sau poate fie above posterior Coaste (Grilaj Costal)'
+- 'Erori de evitat / remedii: înclinare, cu claviculele situate mult deasupra vârfurilor
+  pulmonare (apexurilor). Această incidență lordotică face ca lobii inferiori pulmonari
+  să fie mascați de cupolele diafragmatice. Pneumonia / infiltratele pulmonare și
+  alte afecțiuni pulmonare pot trece neobservate. 396 Consultați poziționarea pacientului
+  și a casetei pentru corectarea acestei erori. Pacient poziționat pentru radiografia
+  toracică antero-posterioară (AP) în decubit dorsal. Imagine toracică antero-posterioară
+  (AP) în decubit dorsal, cu lobul drept al timusului mărit. R L Poziție foarte lordotică
+  a toracelui, datorată hiperinflației marcate a pacientului ca urmare a bronșiolitei.
+  Claviculele sunt situate mult deasupra vârfurilor pulmonare (apexurilor). Cupolele
+  diafragmatice ar putea masca pneumonia / infiltratele pulmonare bazale. Observați
+  că, pe radiografia expusă corect, câmpurile pulmonare sunt evidențiate în întregime,
+  cu extremitățile costale anterioare situate inferior față de cele posterioare. Pe
+  radiografia cu poziționare incorectă și lordoză toracică excesivă, extremitățile
+  costale par să fie la același nivel sau pot fi situate deasupra coastelor posterioare
+  (grilajului costal).'
 sid_dff: 100 cm
 slug: rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 411
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Torace Pediatric (Post-Neonatal) Antero-Posterior (AP) - Decubit Dorsal
+  mas: Conform AEC / grosimii anatomice
+title: Rx torace pediatric (post-neonatal) anteroposterior (AP) – decubit dorsal
 ---
-# Rx Torace Pediatric (Post-Neonatal) Antero-Posterior (AP) - Decubit Dorsal
+# Rx torace pediatric (post-neonatal) anteroposterior (AP) – decubit dorsal
 
 
 <div class="rx-meta-bar">
@@ -107,27 +118,30 @@ title: Rx Torace Pediatric (Post-Neonatal) Antero-Posterior (AP) - Decubit Dorsa
 
     === "Indicații Clinice"
 
-        - Special attention este required when imaging baby’s chest. cu toracele being conical în shape, positioning baby Decubit dorsal cu back against casetă results în Lordotică incidență, cu clavicles projected above Vârfuri Pulmonare (Apexuri) și large part de lower lobes superimposed pe abdomenul. Cord și Siluetă Cardiovasculară also appears foreshortened. în correct incidență, anterior rib ends will fie projected inferiorly la posterior rib ends, și clavicles will fie seen superimposed pe lung Vârfuri Pulmonare (Apexuri). This poate fie accomplished either prin leaning baby forward sau prin angling X-ray tube caudally, sau ambele. incidență este often performed ca part de mobile X-ray examination pe children de toate ages. casetă size este selected depending pe size de child.
+        - Este necesară o atenție specială la efectuarea imagisticii toracelui sugarului. Deoarece toracele are formă conică, poziționarea sugarului în decubit dorsal, cu spatele sprijinit pe casetă, determină o incidență lordotică, cu claviculele proiectate deasupra vârfurilor pulmonare și cu o mare parte a lobilor inferiori suprapusă peste abdomen. Cordul și silueta cardiovasculară apar, de asemenea, scurtate. În incidența corectă, extremitățile anterioare ale coastelor vor fi proiectate inferior față de extremitățile posterioare, iar claviculele vor fi vizibile suprapuse peste vârfurile pulmonare. Acest lucru poate fi realizat fie prin aplecarea sugarului înainte, fie prin înclinarea caudală a tubului radiogen, fie prin ambele metode. Incidența este efectuată frecvent ca parte a examinării radiografice mobile la copii de toate vârstele. Dimensiunea casetei este selectată în funcție de dimensiunea copilului.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Torace, pulmon, cord*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • child este poziționat Decubit dorsal pe casetă, cu upper edge poziționat above lung Vârfuri Pulmonare (Apexuri).
-• When examining baby, a 15-grade foam pad este poziționat între Torace și caseta (thick end under upper Torace) la avoid Lordotică incidență. small foam pad este also plasat under child’s cap pentru comfort.
-• planul mediosagital este ajustat la drept-angles la middle de caseta. la avoid rotație, capul, chest și Bazin (bazin (pelvis)) sunt straight.
-• child’s brațe sunt held, cu coate flectat, pe fiecare side de capul.
-• suitable appliance, e.g. Bucky band sau Velcro band, este secured over baby’s Abdomen și săculeți cu nisip sunt plasat next la thighs la prevent rotație.
-    - **Punct de Centrare Fascicul:** • vertical central fascicul este orientat la drept-angles la middle de caseta la nivelul T8 (mid-Stern).
-• pentru babies cu very hyperinflated barrel chest (due la bronchiolitis sau asthma), tubul este also înclinat five la 10 grade caudally la avoid Lordotică incidență.
+    - **Poziție Pacient:**
+        - copilul este poziționat în decubit dorsal pe casetă, cu marginea superioară poziționată deasupra vârfurilor pulmonare.
+        - La examinarea sugarului, un suport din spumă de 15 grade este poziționat între torace și casetă (capătul gros sub toracele superior) pentru a evita incidența lordotică. Un suport mic din spumă este, de asemenea, plasat sub capul copilului pentru confort.
+        - planul mediosagital este ajustat perpendicular pe mijlocul casetei. Pentru a evita rotația, capul, toracele și bazinul sunt menținute drepte.
+        - brațele copilului sunt ținute, cu coatele flectate, de fiecare parte a capului.
+        - un dispozitiv adecvat, de exemplu o bandă Bucky sau o bandă Velcro, este fixat peste abdomenul sugarului, iar săculeții cu nisip sunt plasați lângă coapse pentru a preveni rotația.
+    - **Punct de Centrare Fascicul:**
+        - fasciculul central vertical este orientat la unghi drept față de mijlocul casetei, la nivelul T8 (mijlocul sternului).
+        - Pentru sugarii cu torace în butoi foarte hiperinsuflat (din cauza bronșiolitei sau astmului), tubul este, de asemenea, înclinat cu five până la 10 grade caudal pentru a evita incidența lordotică.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -138,19 +152,19 @@ title: Rx Torace Pediatric (Post-Neonatal) Antero-Posterior (AP) - Decubit Dorsa
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Erori de evitat / remedii: Tilted, cu clavicles high above lung Vârfuri Pulmonare (Apexuri). This Lordotică incidență results în lower lobes de Torace (Câmpuri Pulmonare) being obscured prin cupole diafragmatice. pneumonie / infiltrate pulmonare și other lung pathology poate 396 fie missed. See poziție de pacient și casetă pentru how la correct this fault. pacient poziționat pentru Antero-posterior (AP) Decubit dorsal chest imagine de Antero-posterior (AP) Decubit dorsal chest cu large drept lobe de thymus R L Very Lordotică poziție de toracele due la pacientul having marked hyperinflation ca result de bronchiolitis. Clavicles sunt well above lung Vârfuri Pulmonare (Apexuri). cupole diafragmatice could obscure basal pneumonie / infiltrate pulmonare. Note that în correctly exposed radiografie, Torace (Câmpuri Pulmonare) sunt fully evidențiat cu anterior rib ends inferior la posterior ends. în incorrectly poziționat radiografie cu excessive lordosis de toracele, rib ends appear la fie pe same level sau poate fie above posterior Coaste (Grilaj Costal)
+    - Erori de evitat / remedii: înclinare, cu claviculele situate mult deasupra vârfurilor pulmonare (apexurilor). Această incidență lordotică face ca lobii inferiori pulmonari să fie mascați de cupolele diafragmatice. Pneumonia / infiltratele pulmonare și alte afecțiuni pulmonare pot trece neobservate. 396 Consultați poziționarea pacientului și a casetei pentru corectarea acestei erori. Pacient poziționat pentru radiografia toracică antero-posterioară (AP) în decubit dorsal. Imagine toracică antero-posterioară (AP) în decubit dorsal, cu lobul drept al timusului mărit. R L Poziție foarte lordotică a toracelui, datorată hiperinflației marcate a pacientului ca urmare a bronșiolitei. Claviculele sunt situate mult deasupra vârfurilor pulmonare (apexurilor). Cupolele diafragmatice ar putea masca pneumonia / infiltratele pulmonare bazale. Observați că, pe radiografia expusă corect, câmpurile pulmonare sunt evidențiate în întregime, cu extremitățile costale anterioare situate inferior față de cele posterioare. Pe radiografia cu poziționare incorectă și lordoză toracică excesivă, extremitățile costale par să fie la același nivel sau pot fi situate deasupra coastelor posterioare (grilajului costal).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -162,9 +176,10 @@ title: Rx Torace Pediatric (Post-Neonatal) Antero-Posterior (AP) - Decubit Dorsa
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Care trebuie să fie taken nu la have lung Vârfuri Pulmonare (Apexuri) being obscured prin bărbia.
-• Lead-rubber coverage de abdomenul în immediate proximity la fascicul este recommended.
+    - Trebuie avut grijă ca vârfurile pulmonare să nu fie mascate de bărbie.
+    - Se recomandă acoperirea cu cauciuc plumbat a abdomenului aflat în imediata proximitate a fasciculului.
 
 
 ### 🖼️ Imagini
@@ -173,17 +188,17 @@ title: Rx Torace Pediatric (Post-Neonatal) Antero-Posterior (AP) - Decubit Dorsa
 
 <figure class="protocol-image-card" markdown>
 
-![correctly exposed radiografie, Torace (Câmpuri Pulmonare) sunt fully evidențiat cu the](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark/fig_1.jpeg)
+![radiografie expusă corect, câmpurile pulmonare sunt evidențiate complet cu](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark/fig_1.jpeg)
 
-<figcaption><strong>correctly exposed radiografie, Torace (Câmpuri Pulmonare) sunt fully evidențiat cu the</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografie expusă corect, câmpurile pulmonare sunt evidențiate complet cu</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie cu excessive lordosis de toracele, rib ends appear la](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark/fig_2.jpeg)
+![radiografie cu lordoză toracică excesivă, extremitățile coastelor apar la](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-antero-posterior-decubit-dorsal-p411-clark/fig_2.jpeg)
 
-<figcaption><strong>radiografie cu excessive lordosis de toracele, rib ends appear la</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografie cu lordoză toracică excesivă, extremitățile coastelor apar la</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

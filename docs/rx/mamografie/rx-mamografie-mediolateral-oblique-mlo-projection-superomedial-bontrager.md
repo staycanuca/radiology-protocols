@@ -1,63 +1,69 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: instructions will vary depending pe whether conventional sau 3D units sunt
-  used.
+breathing: Instrucțiunile vor varia în funcție de utilizarea unor unități convenționale
+  sau 3D.
 category: mamografie
-centering: perpendicular, centrat pe base de Mamografie (Sân), Torace perete edge
-  de receptorul de imagine; raza centrală nu movable
+centering: perpendiculară, centrată pe baza sânului, marginea peretelui toracic a
+  receptorului de imagine; raza centrală nu este mobilă
 clinical_indications:
-- Detection sau evaluation de calcifications, cysts, carcinomas, și other abnormalities
-  sau changes în deep lateral aspect de Mamografie (Sân) tissue
-- Breasts sunt imaged separately pentru comparison.
+- Detectarea sau evaluarea calcificărilor, chisturilor, carcinoamelor și a altor anomalii
+  sau modificări din aspectul lateral profund al țesutului mamar
+- Sânii sunt examinați separat pentru comparație.
 images:
-- caption: Fig. 20.70 MLO incidență. PNL trebuie să
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 20.70 MLO incidență.
-    PNL trebuie să)
+- caption: Fig. 20.70 Incidență MLO. PNL trebuie să
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 20.70 Incidență
+    MLO. PNL trebuie să)
   url: assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_1.jpeg
-- caption: Fig. 20.67 MLO incidență.
+- caption: Fig. 20.67 Incidență MLO.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.67
-    MLO incidență.)
+    Incidență MLO.)
   url: assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_2.jpeg
-- caption: Fig. 20.68 MLO incidență. (Note x-
+- caption: Fig. 20.68 Incidență MLO. (Rețineți că tubul
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.68
-    MLO incidență. (Note x-)
+    Incidență MLO. (Rețineți că tubul)
   url: assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_3.jpeg
-- caption: Fig. 20.69 MLO incidență.
+- caption: Fig. 20.69 Incidență MLO.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.69
-    MLO incidență.)
+    Incidență MLO.)
   url: assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Sân
+  radiation_dose: Clasa 1 (Minimă < 0.4 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: la show toate Mamografie (Sân) tissue pe this incidență cu Mamografie (Sân)
-  de increased size two imagini poate fie needed, one poziționat higher la get toate
-  de axillary region și second poziționat lower pentru include main part de Mamografie
-  (Sân). If applicable, place AEC chamber la appropriate poziție la ensure adecvat
-  expunere de various tissue densities. Nipple Glandular tissue Fatty tissue PNL Pectoral
-  muscle Fig. 20.70 MLO incidență. PNL trebuie să fie within 1 cm de PNL de CC incidență.
-  40°-70° 45° receptorul de imagine (end incidență) Compression paddle Fig. 20.67
-  MLO incidență. Fig. 20.68 MLO incidență. (Note xray tube/film radiologic unit este
-  înclinat about 45°; see Fig. 20.70.) Fig. 20.69 MLO incidență.
-position: 'Pacient: Ortostatism, if possible; Regiune anatomică: Tube și receptorul
-  de imagine remain la drept angles la fiecare other; raza centrală enters Mamografie
-  (Sân) medially, perpendicular pe pacient’s pectoral muscle. corect assessment ca
-  la angle de pectoral muscle pe pacientul’s Torace perete este trebuie să if imagine
-  este going la evidențiază maximum amount de Mamografie (Sân) tissue. This angle
-  poate fie properly determined prin technologist using extins palm along lateral
-  aspect de Mamografie (Sân) și lifting it slightly away de la corp și matching angle
-  de palm (Fig. 20.67). Adjust receptorul de imagine height astfel încât top de receptorul
-  de imagine este la nivelul axilla. cu pacientul facing unit și picioarele forward
-  exactly ca în CC incidență, place braț de side being imaged along top de receptorul
-  de imagine, în relaxat state. Pull Mamografie (Sân) tissue și pectoral muscle anteriorly
-  și medially away de la Torace perete. Assess angle de pectoral muscle și se ajustează
-  unit accordingly. Push pacientul slightly spre înclinat receptorul de imagine until
-  inferolateral aspect de Mamografie (Sân) este touching receptorul de imagine. nipple
-  trebuie să fie în profile. Apply compression slowly cu Mamografie (Sân) held away
-  de la Torace perete și up la prevent sagging și present region de IMF (Fig. 20.68).
-  upper edge de compression device rests under Claviculă, și lower edge includes IMF.
-  Wrinkles și folds pe Mamografie (Sân) trebuie să fie smoothed out și compression
-  applied until taut. If necessary, Se instruiește pacientul să gently retract opposite
-  Mamografie (Sân) cu other Mână la prevent superimposition. R sau L incidență marker
-  (RMLO, LMLO) trebuie să fie plasat high near axilla.'
+notes: Pentru a evidenția întregul țesut mamar în această incidență, în cazul sânilor
+  de dimensiuni mai mari pot fi necesare două imagini, una poziționată mai sus pentru
+  a include întreaga regiune axilară și a doua poziționată mai jos pentru a include
+  partea principală a sânului. Dacă este cazul, plasați camera AEC în poziția corespunzătoare
+  pentru a asigura expunerea adecvată a diferitelor densități tisulare. Mamelon Țesut
+  glandular Țesut adipos PNL Mușchi pectoral Fig. 20.70 Incidență MLO. PNL trebuie
+  să se afle la 1 cm de PNL din incidența CC. 40°-70° 45° Receptorul de imagine (capătul
+  incidenței) Platou de compresie Fig. 20.67 Incidență MLO. Fig. 20.68 Incidență MLO.
+  (Rețineți că tubul radiogen/unitatea radiologică cu film este înclinată la aproximativ
+  45°; consultați Fig. 20.70.) Fig. 20.69 Incidență MLO.
+position: 'Pacient: Ortostatism, dacă este posibil; Regiune anatomică: Tubul și receptorul
+  de imagine rămân la unghiuri drepte unul față de celălalt; raza centrală pătrunde
+  medial în sân, perpendicular pe mușchiul pectoral al pacientei. Evaluarea corectă
+  a unghiului mușchiului pectoral față de peretele toracic al pacientei este necesară
+  pentru ca imaginea să evidențieze cantitatea maximă de țesut mamar. Acest unghi
+  poate fi determinat corect de tehnician folosind palma întinsă de-a lungul aspectului
+  lateral al sânului și ridicând-o ușor de la corp, potrivind unghiul palmei (Fig.
+  20.67). Reglați înălțimea receptorului de imagine astfel încât partea superioară
+  a receptorului de imagine să fie la nivelul axilei. Cu pacienta orientată spre unitate
+  și cu picioarele înainte, exact ca în incidența CC, așezați brațul de pe partea
+  examinată de-a lungul părții superioare a receptorului de imagine, în stare relaxată.
+  Trageți anterior și medial țesutul mamar și mușchiul pectoral, îndepărtându-le de
+  peretele toracic. Evaluați unghiul mușchiului pectoral și reglați unitatea în consecință.
+  Împingeți ușor pacienta spre receptorul de imagine înclinat până când aspectul inferolateral
+  al sânului atinge receptorul de imagine. Mamelonul trebuie să fie în profil. Aplicați
+  lent compresia, menținând sânul îndepărtat de peretele toracic și ridicat pentru
+  a preveni lăsarea și pentru a prezenta regiunea IMF (Fig. 20.68). Marginea superioară
+  a dispozitivului de compresie se sprijină sub claviculă, iar marginea inferioară
+  include IMF. Cutele și pliurile sânului trebuie netezite, iar compresia aplicată
+  până când acesta devine întins. Dacă este necesar, instruiți pacienta să retragă
+  ușor sânul opus cu cealaltă mână pentru a preveni suprapunerea. Markerul pentru
+  incidența R sau L (RMLO, LMLO) trebuie plasat sus, în apropierea axilei.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -65,26 +71,25 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Entire Mamografie (Sân) tissue este vizibil, de la pectoral muscle la level de nipple
-  (Figs. 20.69 și 20.70).
-- IMF trebuie să fie seen, și Mamografie (Sân) trebuie să nu fie drooping. poziție
-  și Compression
-- Nipple este seen în profile.
-- Mamografie (Sân) este seen la fie pulled out și away de la Torace cu even thickness
-  indicating optim compression.
+- Întregul țesut mamar este vizibil, de la mușchiul pectoral până la nivelul mamelonului
+  (Fig. 20.69 și 20.70).
+- IMF trebuie să fie vizibil, iar sânul nu trebuie să fie lăsat să atârne. Poziționare
+  și compresie
+- Mamelonul este vizualizat de profil.
+- Sânul este vizibil tras în afară și îndepărtat de torace, cu grosime uniformă, indicând
+  o compresie optimă.
 sid_dff: 60 cm
 slug: rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 791
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: și raza centrală raza centrală și collimation sunt fixed și sunt centrat
-    correctly if Mamografie (Sân) tissue este correctly centrat și visualized pe receptorul
-    de imagine. expunere Dense areas sunt adequately penetrated, resulting în optim
-    contrast. net tissue markings indicate fără mișcare. R sau L incidență marker
-    și pacient information sunt correctly plasat la axillary side. fără artifacts
-    sunt vizibil.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: 'Raza centrală și colimarea sunt fixe și centrate corect dacă țesutul
+    mamar este centrat corect și vizualizat pe receptorul de imagine. Expunere: zonele
+    dense sunt penetrate adecvat, rezultând un contrast optim. Marcajele tisulare
+    clare indică absența mișcării. Markerul pentru incidența R sau L și informațiile
+    despre pacientă sunt plasate corect pe partea axilară. Nu sunt vizibili artefacte.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -111,25 +116,26 @@ title: Rx Mamografie Oblică Medio-Laterală (MLO) (SUPEROMEDIAL)
 
     === "Indicații Clinice"
 
-        - Detection sau evaluation de calcifications, cysts, carcinomas, și other abnormalities sau changes în deep lateral aspect de Mamografie (Sân) tissue
-        - Breasts sunt imaged separately pentru comparison.
+        - Detectarea sau evaluarea calcificărilor, chisturilor, carcinoamelor și a altor anomalii sau modificări din aspectul lateral profund al țesutului mamar
+        - Sânii sunt examinați separat pentru comparație.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Sân*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.4 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, if possible; Regiune anatomică: Tube și receptorul de imagine remain la drept angles la fiecare other; raza centrală enters Mamografie (Sân) medially, perpendicular pe pacient’s pectoral muscle. corect assessment ca la angle de pectoral muscle pe pacientul’s Torace perete este trebuie să if imagine este going la evidențiază maximum amount de Mamografie (Sân) tissue. This angle poate fie properly determined prin technologist using extins palm along lateral aspect de Mamografie (Sân) și lifting it slightly away de la corp și matching angle de palm (Fig. 20.67). Adjust receptorul de imagine height astfel încât top de receptorul de imagine este la nivelul axilla. cu pacientul facing unit și picioarele forward exactly ca în CC incidență, place braț de side being imaged along top de receptorul de imagine, în relaxat state. Pull Mamografie (Sân) tissue și pectoral muscle anteriorly și medially away de la Torace perete. Assess angle de pectoral muscle și se ajustează unit accordingly. Push pacientul slightly spre înclinat receptorul de imagine until inferolateral aspect de Mamografie (Sân) este touching receptorul de imagine. nipple trebuie să fie în profile. Apply compression slowly cu Mamografie (Sân) held away de la Torace perete și up la prevent sagging și present region de IMF (Fig. 20.68). upper edge de compression device rests under Claviculă, și lower edge includes IMF. Wrinkles și folds pe Mamografie (Sân) trebuie să fie smoothed out și compression applied until taut. If necessary, Se instruiește pacientul să gently retract opposite Mamografie (Sân) cu other Mână la prevent superimposition. R sau L incidență marker (RMLO, LMLO) trebuie să fie plasat high near axilla.
-    - **Punct de Centrare Fascicul:** perpendicular, centrat pe base de Mamografie (Sân), Torace perete edge de receptorul de imagine; raza centrală nu movable
+    - **Poziție Pacient:** Pacient: Ortostatism, dacă este posibil; Regiune anatomică: Tubul și receptorul de imagine rămân la unghiuri drepte unul față de celălalt; raza centrală pătrunde medial în sân, perpendicular pe mușchiul pectoral al pacientei. Evaluarea corectă a unghiului mușchiului pectoral față de peretele toracic al pacientei este necesară pentru ca imaginea să evidențieze cantitatea maximă de țesut mamar. Acest unghi poate fi determinat corect de tehnician folosind palma întinsă de-a lungul aspectului lateral al sânului și ridicând-o ușor de la corp, potrivind unghiul palmei (Fig. 20.67). Reglați înălțimea receptorului de imagine astfel încât partea superioară a receptorului de imagine să fie la nivelul axilei. Cu pacienta orientată spre unitate și cu picioarele înainte, exact ca în incidența CC, așezați brațul de pe partea examinată de-a lungul părții superioare a receptorului de imagine, în stare relaxată. Trageți anterior și medial țesutul mamar și mușchiul pectoral, îndepărtându-le de peretele toracic. Evaluați unghiul mușchiului pectoral și reglați unitatea în consecință. Împingeți ușor pacienta spre receptorul de imagine înclinat până când aspectul inferolateral al sânului atinge receptorul de imagine. Mamelonul trebuie să fie în profil. Aplicați lent compresia, menținând sânul îndepărtat de peretele toracic și ridicat pentru a preveni lăsarea și pentru a prezenta regiunea IMF (Fig. 20.68). Marginea superioară a dispozitivului de compresie se sprijină sub claviculă, iar marginea inferioară include IMF. Cutele și pliurile sânului trebuie netezite, iar compresia aplicată până când acesta devine întins. Dacă este necesar, instruiți pacienta să retragă ușor sânul opus cu cealaltă mână pentru a preveni suprapunerea. Markerul pentru incidența R sau L (RMLO, LMLO) trebuie plasat sus, în apropierea axilei.
+    - **Punct de Centrare Fascicul:** perpendiculară, centrată pe baza sânului, marginea peretelui toracic a receptorului de imagine; raza centrală nu este mobilă
     - **Distanță Focar-Film (DFF / SID):** 60 cm
-    - **Comandă Respiratorie:** instructions will vary depending pe whether conventional sau 3D units sunt used.
+    - **Comandă Respiratorie:** Instrucțiunile vor varia în funcție de utilizarea unor unități convenționale sau 3D.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -142,18 +148,18 @@ title: Rx Mamografie Oblică Medio-Laterală (MLO) (SUPEROMEDIAL)
     | **Distanță Focar-Film (DFF / SID)** | 60 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | și raza centrală raza centrală și collimation sunt fixed și sunt centrat correctly if Mamografie (Sân) tissue este correctly centrat și visualized pe receptorul de imagine. expunere Dense areas sunt adequately penetrated, resulting în optim contrast. net tissue markings indicate fără mișcare. R sau L incidență marker și pacient information sunt correctly plasat la axillary side. fără artifacts sunt vizibil. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Raza centrală și colimarea sunt fixe și centrate corect dacă țesutul mamar este centrat corect și vizualizat pe receptorul de imagine. Expunere: zonele dense sunt penetrate adecvat, rezultând un contrast optim. Marcajele tisulare clare indică absența mișcării. Markerul pentru incidența R sau L și informațiile despre pacientă sunt plasate corect pe partea axilară. Nu sunt vizibili artefacte. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Mamografie (Sân) tissue este vizibil, de la pectoral muscle la level de nipple (Figs. 20.69 și 20.70).
-    - IMF trebuie să fie seen, și Mamografie (Sân) trebuie să nu fie drooping. poziție și Compression
-    - Nipple este seen în profile.
-    - Mamografie (Sân) este seen la fie pulled out și away de la Torace cu even thickness indicating optim compression.
+    - Întregul țesut mamar este vizibil, de la mușchiul pectoral până la nivelul mamelonului (Fig. 20.69 și 20.70).
+    - IMF trebuie să fie vizibil, iar sânul nu trebuie să fie lăsat să atârne. Poziționare și compresie
+    - Mamelonul este vizualizat de profil.
+    - Sânul este vizibil tras în afară și îndepărtat de torace, cu grosime uniformă, indicând o compresie optimă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -165,8 +171,9 @@ title: Rx Mamografie Oblică Medio-Laterală (MLO) (SUPEROMEDIAL)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la show toate Mamografie (Sân) tissue pe this incidență cu Mamografie (Sân) de increased size two imagini poate fie needed, one poziționat higher la get toate de axillary region și second poziționat lower pentru include main part de Mamografie (Sân). If applicable, place AEC chamber la appropriate poziție la ensure adecvat expunere de various tissue densities. Nipple Glandular tissue Fatty tissue PNL Pectoral muscle Fig. 20.70 MLO incidență. PNL trebuie să fie within 1 cm de PNL de CC incidență. 40°-70° 45° receptorul de imagine (end incidență) Compression paddle Fig. 20.67 MLO incidență. Fig. 20.68 MLO incidență. (Note xray tube/film radiologic unit este înclinat about 45°; see Fig. 20.70.) Fig. 20.69 MLO incidență.
+    Pentru a evidenția întregul țesut mamar în această incidență, în cazul sânilor de dimensiuni mai mari pot fi necesare două imagini, una poziționată mai sus pentru a include întreaga regiune axilară și a doua poziționată mai jos pentru a include partea principală a sânului. Dacă este cazul, plasați camera AEC în poziția corespunzătoare pentru a asigura expunerea adecvată a diferitelor densități tisulare. Mamelon Țesut glandular Țesut adipos PNL Mușchi pectoral Fig. 20.70 Incidență MLO. PNL trebuie să se afle la 1 cm de PNL din incidența CC. 40°-70° 45° Receptorul de imagine (capătul incidenței) Platou de compresie Fig. 20.67 Incidență MLO. Fig. 20.68 Incidență MLO. (Rețineți că tubul radiogen/unitatea radiologică cu film este înclinată la aproximativ 45°; consultați Fig. 20.70.) Fig. 20.69 Incidență MLO.
 
 
 ### 🖼️ Imagini
@@ -175,33 +182,33 @@ title: Rx Mamografie Oblică Medio-Laterală (MLO) (SUPEROMEDIAL)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.70 MLO incidență. PNL trebuie să](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_1.jpeg)
+![Fig. 20.70 Incidență MLO. PNL trebuie să](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 20.70 MLO incidență. PNL trebuie să</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 20.70 MLO incidență. PNL trebuie să)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 20.67 MLO incidență.](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 20.67 MLO incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.67 MLO incidență.)</span></figcaption>
+<figcaption><strong>Fig. 20.70 Incidență MLO. PNL trebuie să</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 20.70 Incidență MLO. PNL trebuie să)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.68 MLO incidență. (Note x-](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_3.jpeg)
+![Fig. 20.67 Incidență MLO.](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 20.68 MLO incidență. (Note x-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.68 MLO incidență. (Note x-)</span></figcaption>
+<figcaption><strong>Fig. 20.67 Incidență MLO.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.67 Incidență MLO.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.69 MLO incidență.](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_4.jpeg)
+![Fig. 20.68 Incidență MLO. (Rețineți că tubul](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 20.69 MLO incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.69 MLO incidență.)</span></figcaption>
+<figcaption><strong>Fig. 20.68 Incidență MLO. (Rețineți că tubul</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.68 Incidență MLO. (Rețineți că tubul)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 20.69 Incidență MLO.](../../assets/images/protocols/bontrager/rx-mamografie-mediolateral-oblique-mlo-projection-superomedial-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 20.69 Incidență MLO.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.69 Incidență MLO.)</span></figcaption>
 
 </figure>
 

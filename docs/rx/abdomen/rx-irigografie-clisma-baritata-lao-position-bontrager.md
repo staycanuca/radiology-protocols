@@ -23,6 +23,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.69
     poziție oblică anterioară stângă (OAS / LAO).)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lao-position-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: La majoritatea pacienților adulți este necesară centrarea cu aproximativ 2
@@ -102,11 +106,12 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Stângă (OAS / LA
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -153,6 +158,7 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Stângă (OAS / LA
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     La majoritatea pacienților adulți este necesară centrarea cu aproximativ 2 țoli (5 cm) mai sus pentru a include flexura colică stângă, ceea ce exclude în general porțiunea inferioară a intestinului gros (colon); este necesară o a doua imagine, centrată cu 2 sau 3 țoli (5 la 7.5 cm) mai jos, pentru a include regiunea rectală. Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO LAO

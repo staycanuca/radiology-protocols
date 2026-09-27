@@ -6,10 +6,10 @@ breathing: Apnee pe durata expunerii. Fig. 11.119 SMV la masă, cu casetă cu gr
   SMV
 category: craniu-saf
 centering: Este perpendicular pe linia infraorbitomeatală (LIOM) (linia infraorbitomeatală
-  (LIOM)). Se centrează la 1½ inch (4 cm) inferior față de simfiza mandibulară sau
-  la jumătatea distanței dintre gonioane (aproximativ ¾ inch [2 cm] anterior față
-  de nivelul conductului auditiv extern (CAE)). Se centrează receptorul de imagine
-  pe raza centrală.
+  (LIOM)). Se centrează la 1½ țol (4 cm) inferior față de simfiza mandibulară sau
+  la jumătatea distanței dintre gonioane (aproximativ ¾ țol [2 cm] anterior față de
+  nivelul conductului auditiv extern (CAE)). Se centrează receptorul de imagine pe
+  raza centrală.
 clinical_indications:
 - Patologie osoasă avansată a structurilor osoase temporale interne (baza craniului)
 - Posibilă suspiciune de fractură bazală a craniului
@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.120
     SMV.)
   url: assets/images/protocols/bontrager/rx-craniu-series-submentovertical-smv-projection-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Această poziție este incomodă pentru pacienții în ortostatism sau decubit dorsal;
@@ -119,17 +123,18 @@ title: Rx Craniu SERIE SUBMENTOVERTICALĂ (SMV), incidență
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: se îndepărtează toate obiectele metalice, din plastic și alte obiecte detașabile de la nivelul capului pacientului. Se efectuează radiografia cu pacientul în ortostatism sau în decubit dorsal. Poziția în ortostatism este recomandată folosind masa de ortostatism sau dispozitivul de imagistică pentru ortostatism (Fig. 11.119, detaliu). Se poate folosi și un scaun rulant. Scaunul rulant oferă sprijin pentru spate și asigură o stabilitate mai mare la menținerea poziției. (Asigurați-vă că roțile sunt blocate înainte de poziționarea pacientului.) Regiune anatomică: se ridică bărbia pacientului și se hiperextinde gâtul, dacă este posibil, până când linia infraorbitomeatală (LIOM) este paralelă cu receptorul de imagine (a se vedea NOTA). Capul pacientului se sprijină pe vertex. Se aliniază MSP perpendicular pe linia mediană a grilei sau a suprafeței mesei/dispozitivului de imagistică, evitând înclinarea sau rotația. Decubit dorsal: cu pacientul în decubit dorsal, se extinde capul pacientului peste capătul mesei și se sprijină caseta cu grilă antidifuzoare și capul, după cum este prezentat în Fig. 11.119, menținând linia infraorbitomeatală (LIOM) paralelă cu receptorul de imagine și perpendiculară pe raza centrală. Se plasează un burete/o pernă de poziționare sub spatele pacientului pentru susținerea extensiei gâtului. Ortostatism: dacă pacientul nu poate extinde suficient gâtul, se compensează prin angularea razei centrale pentru a rămâne perpendiculară pe linia infraorbitomeatală (LIOM). În funcție de echipamentul utilizat, receptorul de imagine poate fi și înclinat pentru a menține relația perpendiculară cu raza centrală (de exemplu, cu un dispozitiv de imagistică reglabil pentru ortostatism).
-    - **Punct de Centrare Fascicul:** Este perpendicular pe linia infraorbitomeatală (LIOM) (linia infraorbitomeatală (LIOM)). Se centrează la 1½ inch (4 cm) inferior față de simfiza mandibulară sau la jumătatea distanței dintre gonioane (aproximativ ¾ inch [2 cm] anterior față de nivelul conductului auditiv extern (CAE)). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Este perpendicular pe linia infraorbitomeatală (LIOM) (linia infraorbitomeatală (LIOM)). Se centrează la 1½ țol (4 cm) inferior față de simfiza mandibulară sau la jumătatea distanței dintre gonioane (aproximativ ¾ țol [2 cm] anterior față de nivelul conductului auditiv extern (CAE)). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii. Fig. 11.119 SMV la masă, cu casetă cu grilă antidifuzoare (detaliul evidențiază utilizarea dispozitivului de imagistică în ortostatism). Raza centrală perpendiculară pe linia infraorbitomeatală (LIOM). Craniu SERIE SPECIALĂ SMV
 
@@ -170,6 +175,7 @@ title: Rx Craniu SERIE SUBMENTOVERTICALĂ (SMV), incidență
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Această poziție este incomodă pentru pacienții în ortostatism sau decubit dorsal; efectuați-o cât mai rapid posibil.

@@ -18,6 +18,10 @@ images:
 - caption: Merrill — pagina 217, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-antero-posterioara-ap-decubit-dorsal-upright-p215-merrill/p217_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -196,11 +200,12 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Decubit Dorsal; O
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -254,6 +259,7 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Decubit Dorsal; O
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -300,68 +306,3 @@ title: Rx Abdomen — Incidență Antero-Posterioară (AP) — Decubit Dorsal; O
 ## Surse de documentare
 
 - [Merrill’s Atlas, 4. Abdomen, pagini 215–217](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidența AP a abdomenului evidențiază dimensiunile și forma ficatului, splinei și rinichilor, precum și calcificările intraabdominale sau semnele de
-mase tumorale (Fig. 4.13). Exemple suplimentare de incidențe abdominale în decubit dorsal și în ortostatism sunt prezentate în Fig. 4.9 și 4.10.
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• Perpendicular pe receptorul de imagine la nivelul crestelor iliace (L4-L5) pentru poziția în decubit dorsal.
-• Fascicul orizontal centrat la 5 cm (2 inchi) deasupra crestelor iliace, pentru a include cupolele diafragmatice în ortostatism.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare corectă vizibilă și prezența markerului de lateralitate (D/S) și de ortostatism, poziționate în afara ariei anatomice de interes
-• Cuprinderea ariei anatomice de la simfiza pubiană până la cupolele diafragmatice (pot fi necesare două expuneri dacă pacientul este înalt/corpolent)
-• Aliniere anatomică corectă a pacientului față de receptorul de imagine
-• Coloana vertebrală centrată pe linia mediană a imaginii
-• Simetrie bilaterală perfectă: coastele, oasele iliace și articulațiile coxofemurale la distanțe egale față de marginile colimate
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Procesele spinoase centrate pe mijlocul corpurilor vertebrale lombare
-• Spinele ischiatice ale bazinului sunt perfect simetrice bilateral
-• Aripile oaselor iliace sunt perfect simetrice bilateral (absența rotației bazinului)
-• Parametri de expunere suficienți pentru a evidenția următoarele:
-• Peretele abdominal lateral și banda grăsoasă properitoneală (linia flancului) vizibile clar
-• Contururile mușchilor psoas, marginea inferioară hepatică și polii renali bine diferențiați
-• Arcurile costale inferioare vizibile net
-• Procesele transverse ale vertebrelor lombare vizibile clar
-• Cupole diafragmatice nete, fără estompare cinetică produsă de mișcarea respiratorie în ortostatism
-
-### part_pos
-
-• Se centrează planul mediosagital al corpului pe linia mediană a dispozitivului Bucky/grilei.
-• În ortostatism, greutatea corporală este distribuită în mod egal pe ambele picioare.
-• Brațele pacientului se poziționează în afara ariei de expunere, pentru a nu proiecta umbre pe imagine.
-• În decubit dorsal, se plasează o pernă/suport sub genunchi pentru relaxarea peretelui abdominal și confortul pacientului.
-• În decubit dorsal, receptorul de imagine și câmpul colimat se centrează la nivelul crestelor iliace (L4-L5), asigurând includerea simfizei pubiene (Fig.
-4.11).
-• În ortostatism, se centrează receptorul de imagine/câmpul colimat la 2 inchi (5 cm) deasupra nivelului crestelor iliace sau suficient de sus pentru a include
-cupolele diafragmatice (Fig. 4.12).
-• Dacă vezica urinară trebuie inclusă pe imaginea în ortostatism, centrarea se face la nivelul crestelor iliace.
-• Dacă pacientul este înalt și aria pelviană nu este cuprinsă integral, se realizează a doua expunere centrată pe vezica urinară. Un receptor de imagine sau un câmp colimat de 10 × 12 inchi (24 ×
-30 cm) este orientat transversal și centrat la 2 până la 3 inchi (5 până la 7.6 cm) deasupra marginii superioare a simfizei
-pubiene.
-
-### patient_pos
-
-• Pentru radiografia abdominală simplă (AP / KUB), pacientul este așezat în decubit dorsal sau în ortostatism. Poziția de decubit dorsal este
-preferată pentru majoritatea examinărilor inițiale ale abdomenului.
-
-### respirație
-
-Apnee la sfârșitul expirului complet, pentru a preveni compresia organelor abdominale și a ridica diafragmul.
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
-

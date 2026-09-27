@@ -1,0 +1,25 @@
+{
+  "protocols": 1687,
+  "modalities": {
+    "ct": 937,
+    "eco": 22,
+    "fluoro": 13,
+    "irm": 37,
+    "rx": 678
+  },
+  "contrast_states": {
+    "contrast": 900,
+    "native": 55,
+    "variable": 24,
+    "unknown": 708
+  },
+  "native_entries": 3368,
+  "native_bytes": 10662730,
+  "omnisearch_bytes": 1789429,
+  "pages_with_worker_checked": 1740,
+  "workers": [
+    "protocol-search.79501baf6563.js"
+  ],
+  "errors": [],
+  "visual_check": "No browser connected; DOM and real native worker tested locally"
+}

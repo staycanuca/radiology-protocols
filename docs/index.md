@@ -1,9 +1,21 @@
 ---
-title: Protocoale Radio-Imagistice & Ghidul IRIS
+title: Protocoale de radiologie CT, IRM, RX, ecografie și ghidul IRIS
+description: Explorează protocoale de radiologie în limba română pentru CT, IRM, RX, ecografie și fluoroscopie, organizate pe regiuni anatomice, alături de ghidul IRIS.
 hide:
   - navigation
   - toc
 ---
+
+# Protocoale de radiologie și imagistică medicală
+
+Consultă protocoale pentru **tomografie computerizată (CT)**, **rezonanță magnetică (IRM)**,
+**radiografie (RX)**, **ecografie** și **fluoroscopie**, organizate pe regiuni anatomice.
+Ghidul se adresează profesioniștilor din radiologie și oferă acces la parametri tehnici,
+pregătirea examinării, comparația protocoalelor și ghidul IRIS.
+
+Bibliotecă compilată din manuale și resurse externe. Fiecare protocol afișează
+sursele declarate și stadiul documentării verificărilor.
+[Despre proiect și metodologia editorială](despre-proiect.md).
 
 <!-- =======================================================================
      OMNISEARCH — MOTOR DE CĂUTARE ȘI FILTRARE INSTANTANEE (SUB BARA DE MENIU)
@@ -48,7 +60,7 @@ hide:
     </a>
     <span style="color: #cbd5e1;">|</span>
     <a href="ai/" style="font-weight: 600; color: #0284c7; text-decoration: none;">
-      Consultă Asistentul AI Clinic ➔
+      Deschide Asistentul de documentare AI ➔
     </a>
   </div>
 </div>
@@ -243,9 +255,9 @@ hide:
   <div class="role-card iris-card-hl" style="border-left-color: #0284c7;">
     <span class="role-icon">🤖</span>
     <div>
-      <strong>Asistentul AI Clinic &amp; RAG</strong>
+      <strong>Asistent de documentare AI</strong>
       <p style="margin: 4px 0 0; font-size: 0.85rem; opacity: 0.9;">
-        Modul inteligent care analizează indicația clinică a pacientului, caută recomandările din Ghidul IRIS și propune protocolul optim din baza de date a spitalului.
+        Caută în catalogul IRIS și în protocoalele CT, IRM, RX, ecografie și fluoroscopie. Vezi sursele și stadiul revizuirii; alege explicit un furnizor AI pentru o sinteză documentară.
       </p>
       <div style="margin-top: 8px;">
         <a href="ai/" style="font-weight: 600; font-size: 0.85rem; color: #0284c7;">Lansează Asistentul AI ➔</a>

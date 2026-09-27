@@ -108,6 +108,8 @@ def render_catalog(directory: Path) -> str:
 
 
 def on_page_markdown(markdown, page, config, files):
+    if getattr(page, 'meta', {}).get('catalog_manual'):
+        return markdown
     relative = Path(page.file.src_path)
     if len(relative.parts) == 3 and relative.parts[0] == 'rx' and relative.name == 'index.md':
         return render_catalog(Path(config['docs_dir']) / relative.parent)
@@ -118,6 +120,8 @@ if __name__ == '__main__':
     for directory in sorted((ROOT / 'docs/rx').iterdir()):
         if directory.is_dir() and any(directory.glob('*.md')):
             target = directory / 'index.md'
+            if target.exists() and read_metadata(target).get('catalog_manual'):
+                continue
             content = render_catalog(directory)
             if not target.exists() or target.read_text(encoding='utf-8') != content:
                 target.write_text(content, encoding='utf-8')

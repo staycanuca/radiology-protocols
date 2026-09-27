@@ -3,37 +3,45 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• Raza centrală verticală este centrată pe cap de fifth metacarpal.
+centering: '• Raza centrală verticală este centrată pe capul celui de-al cincilea
+  metacarpian.
 
-  • tubul este then înclinat astfel încât raza centrală passes through capul de third
-  metacarpal, enabling reduction în size de field.'
+  • Tubul este apoi înclinat astfel încât raza centrală să treacă prin capul celui
+  de-al treilea metacarpian, permițând reducerea dimensiunii câmpului.'
 clinical_indications:
-- Evaluare radiografică regiunii Mână Oblică Anterioară - dorsi - palmar (Oblică).
+- Evaluarea radiografică a regiunii mâinii în incidență oblică anterioară dorso-palmară
+  (oblică).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: Normal Oblică Anterioară radiografie de stâng Mână
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie oblică anterioară normală a mâinii stângi
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_1.jpeg
-- caption: Oblică Anterioară radiografie de drept Mână evidențiind suspiciune de fractură
+- caption: Radiografie oblică anterioară a mâinii drepte evidențiind suspiciune de
+    fractură
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_2.jpeg
-- caption: neck de fifth metacarpal (Boxer’s suspiciune de fractură)
+- caption: Colul celui de-al cincilea metacarpian (suspiciune de fractură de boxer)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• de la basic Postero-anterior (PA) poziție, Mână este externally rotit
-  45 grade cu Degete Mână extins.
+position: '• Din poziția postero-anterioară (PA) de bază, mâna este rotită extern
+  la 45 grade, cu degetele mâinii extinse.
 
-  • Degete Mână trebuie să fie separated slightly și Mână sprijinit pe a 45-grade
-  non-opaque pad.
+  • Degetele mâinii trebuie să fie ușor depărtate, iar mâna sprijinită pe un suport
+  radiotransparent la 45 grade.
 
-  • săculeți cu nisip este plasat over lower end de Antebraț (Radius și Ulna) pentru
-  imobilizare.'
+  • Săculețul cu nisip este plasat peste extremitatea inferioară a antebrațului (radiusul
+  și ulna) pentru imobilizare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -42,13 +50,15 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază toate falange, including părți moi de fingertips,
-  carpal și oase metacarpiene, și extremitatea distală radius și ulna.
-- correct grade de rotație has been achieved when heads de first și second oase metacarpiene
-  sunt seen separated whilst those de fourth și fifth sunt just superimposed. 42 Normal
-  Oblică Anterioară radiografie de stâng Mână Oblică Anterioară radiografie de drept
-  Mână evidențiind suspiciune de fractură neck de fifth metacarpal (Boxer’s suspiciune
-  de fractură)
+- Imaginea trebuie să evidențieze toate falangele, inclusiv părțile moi ale vârfurilor
+  degetelor, oasele carpiene și metacarpiene, precum și extremitatea distală a radiusului
+  și ulnei.
+- Gradul corect de rotație a fost obținut atunci când capetele primului și celui de-al
+  doilea metacarpian sunt vizibile separat, în timp ce cele ale celui de-al patrulea
+  și celui de-al cincilea sunt doar suprapuse. 42 Radiografie oblică anterioară normală
+  a mâinii stângi. Radiografie oblică anterioară a mâinii drepte evidențiind suspiciune
+  de fractură a colului celui de-al cincilea metacarpian (suspiciune de fractură de
+  boxer).
 sid_dff: 100 cm
 slug: rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark
 sources:
@@ -57,14 +67,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Mână Oblică Anterioară - Dorso-Palmar Oblică
+  mas: Conform AEC / grosimii anatomice
+title: Rx mână — oblică anterioară — dorso-palmară oblică
 ---
-# Rx Mână Oblică Anterioară - Dorso-Palmar Oblică
+# Rx mână — oblică anterioară — dorso-palmară oblică
 
 
 <div class="rx-meta-bar">
@@ -83,27 +93,30 @@ title: Rx Mână Oblică Anterioară - Dorso-Palmar Oblică
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Mână Oblică Anterioară - dorsi - palmar (Oblică).
+        - Evaluarea radiografică a regiunii mâinii în incidență oblică anterioară dorso-palmară (oblică).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • de la basic Postero-anterior (PA) poziție, Mână este externally rotit 45 grade cu Degete Mână extins.
-• Degete Mână trebuie să fie separated slightly și Mână sprijinit pe a 45-grade non-opaque pad.
-• săculeți cu nisip este plasat over lower end de Antebraț (Radius și Ulna) pentru imobilizare.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe cap de fifth metacarpal.
-• tubul este then înclinat astfel încât raza centrală passes through capul de third metacarpal, enabling reduction în size de field.
+    - **Poziție Pacient:**
+        - Din poziția postero-anterioară (PA) de bază, mâna este rotită extern la 45 grade, cu degetele mâinii extinse.
+        - Degetele mâinii trebuie să fie ușor depărtate, iar mâna sprijinită pe un suport radiotransparent la 45 grade.
+        - Săculețul cu nisip este plasat peste extremitatea inferioară a antebrațului (radiusul și ulna) pentru imobilizare.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este centrată pe capul celui de-al cincilea metacarpian.
+        - Tubul este apoi înclinat astfel încât raza centrală să treacă prin capul celui de-al treilea metacarpian, permițând reducerea dimensiunii câmpului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -114,20 +127,20 @@ title: Rx Mână Oblică Anterioară - Dorso-Palmar Oblică
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază toate falange, including părți moi de fingertips, carpal și oase metacarpiene, și extremitatea distală radius și ulna.
-    - correct grade de rotație has been achieved when heads de first și second oase metacarpiene sunt seen separated whilst those de fourth și fifth sunt just superimposed. 42 Normal Oblică Anterioară radiografie de stâng Mână Oblică Anterioară radiografie de drept Mână evidențiind suspiciune de fractură neck de fifth metacarpal (Boxer’s suspiciune de fractură)
+    - Imaginea trebuie să evidențieze toate falangele, inclusiv părțile moi ale vârfurilor degetelor, oasele carpiene și metacarpiene, precum și extremitatea distală a radiusului și ulnei.
+    - Gradul corect de rotație a fost obținut atunci când capetele primului și celui de-al doilea metacarpian sunt vizibile separat, în timp ce cele ale celui de-al patrulea și celui de-al cincilea sunt doar suprapuse. 42 Radiografie oblică anterioară normală a mâinii stângi. Radiografie oblică anterioară a mâinii drepte evidențiind suspiciune de fractură a colului celui de-al cincilea metacarpian (suspiciune de fractură de boxer).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -139,6 +152,7 @@ title: Rx Mână Oblică Anterioară - Dorso-Palmar Oblică
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -149,25 +163,25 @@ title: Rx Mână Oblică Anterioară - Dorso-Palmar Oblică
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Oblică Anterioară radiografie de stâng Mână](../../assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_1.jpeg)
+![Radiografie oblică anterioară normală a mâinii stângi](../../assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Oblică Anterioară radiografie de stâng Mână</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Oblică Anterioară radiografie de drept Mână evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_2.jpeg)
-
-<figcaption><strong>Oblică Anterioară radiografie de drept Mână evidențiind suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică anterioară normală a mâinii stângi</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![neck de fifth metacarpal (Boxer’s suspiciune de fractură)](../../assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_3.jpeg)
+![Radiografie oblică anterioară a mâinii drepte evidențiind suspiciune de fractură](../../assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_2.jpeg)
 
-<figcaption><strong>neck de fifth metacarpal (Boxer’s suspiciune de fractură)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică anterioară a mâinii drepte evidențiind suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Colul celui de-al cincilea metacarpian (suspiciune de fractură de boxer)](../../assets/images/protocols/clark/rx-mana-oblica-anterioara-dorsi-palmar-oblica-p57-clark/fig_3.jpeg)
+
+<figcaption><strong>Colul celui de-al cincilea metacarpian (suspiciune de fractură de boxer)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

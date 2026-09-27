@@ -1,12 +1,12 @@
 ---
 author: Referință Merrill
-breathing: apnee (oprirea respirației) la end de exhalation pentru more uniform densitate
-  optică.
+breathing: Apnee (oprirea respirației) la sfârșitul expirului, pentru o densitate
+  optică mai uniformă.
 category: membru-superior
-centering: orientat la enter proces coracoid la un unghi de 15 la 45 grade cranial.
-  Kwak et al. 18 recommended angle de 30 grade. grade de angulation depends pe shape
-  de pacientul’s back. Round-shouldered pacienți require greater angulation (Fig.
-  6.80).
+centering: Orientată pentru a intra în procesul coracoid la un unghi de 15 la 45 de
+  grade cranial. Kwak et al. 18 au recomandat un unghi de 30 de grade. Gradul de angulație
+  depinde de forma spatelui pacientului. Pacienții cu umerii rotunjiți necesită o
+  angulație mai mare (Fig. 6.80).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -25,24 +25,29 @@ images:
 - caption: Merrill — pagina 438, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-coracoid-process-incidenta-ap-axiala-p435-merrill/p438_fig5.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție cu brațele along sides de corp.;
-  se ajustează poziție de corp la se centrează afected proces coracoid la linia mediană
-  grilă. poziție receptorul de imagine astfel încât midpoint de receptorul de imagine
-  coincides cu înclinat raza centrală. se ajustează umeri la lie în same plan orizontal.
-  Abduct braț de afected side slightly, și supinate Mână, immobilizing it cu săculeți
-  cu nisip across palm (Fig. 6.79). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal, cu brațele de-a lungul corpului; se
+  ajustează poziția corpului pentru a centra procesul coracoid afectat pe linia mediană
+  a grilei. Se poziționează receptorul de imagine astfel încât punctul său median
+  să coincidă cu raza centrală înclinată. Se ajustează umerii pentru a se afla în
+  același plan orizontal. Se abduce ușor brațul de partea afectată și se supinează
+  mâna, imobilizând-o cu săculeți cu nisip peste palmă (Fig. 6.79). Se efectuează
+  ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- proces coracoid cu minimal self-superimposition
-- Claviculă slightly superimposing proces coracoid
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Proces coracoid cu suprapunere minimă
+- Clavicula se suprapune ușor peste procesul coracoid
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-coracoid-process-incidenta-ap-axiala-p435-merrill
 source_pages:
@@ -51,43 +56,44 @@ source_pages:
 - 437
 - 438
 source_sections:
-  anatomy: proces coracoid în its entirety cu some superimposition prin clavicle (Fig.
-    6.81).
+  anatomy: Procesul coracoid în întregime, cu o anumită suprapunere prin claviculă
+    (Fig. 6.81).
   collimation: • Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • orientat la enter proces coracoid la un unghi de 15 la 45 grade cranial. Kwak
-    et al. 18 recommended angle de 30 grade. grade de angulation depends pe shape
-    de pacientul’s back. Round-shouldered pacienți require greater angulation (Fig.
-    6.80).
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • Orientată pentru a intra în procesul coracoid la un unghi de 15 la 45 de grade
+    cranial. Kwak et al. 18 au recomandat un unghi de 30 de grade. Gradul de angulație
+    depinde de forma spatelui pacientului. Pacienții cu umerii rotunjiți necesită
+    o angulație mai mare (Fig. 6.80).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • proces coracoid cu minimal self-superimposition
+    • Proces coracoid cu suprapunere minimă
 
-    • Clavicle slightly superimposing proces coracoid
+    • Clavicula se suprapune ușor peste procesul coracoid
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează poziție de corp la se centrează afected proces coracoid
-    la linia mediană grilă.
+    • Detalii osoase trabeculare și țesuturi moi adiacente'
+  part_pos: '• Se ajustează poziția corpului pentru a centra procesul coracoid afectat
+    pe linia mediană a grilei.
 
-    • poziție receptorul de imagine astfel încât midpoint de receptorul de imagine
-    coincides cu înclinat raza centrală.
+    • Se poziționează receptorul de imagine astfel încât punctul său median să coincidă
+    cu raza centrală înclinată.
 
-    • se ajustează umeri la lie în same plan orizontal.
+    • Se ajustează umerii pentru a se afla în același plan orizontal.
 
-    • Abduct braț de afected side slightly, și supinate mână, immobilizing it cu săculeți
-    cu nisip across palm (Fig. 6.79).
+    • Se abduce ușor brațul de partea afectată și se supinează mâna, imobilizând-o
+    cu săculeți cu nisip peste palmă (Fig. 6.79).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit dorsal cu brațele along sides de corp.
-  respiration: apnee (oprirea respirației) la end de exhalation pentru more uniform
-    densitate optică.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în decubit dorsal, cu brațele de-a lungul corpului.
+  respiration: Apnee (oprirea respirației) la sfârșitul expirului, pentru o densitate
+    optică mai uniformă.
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placă pentru receptorul de imagine: 10
+    × 12 țoli (24 ×
 
-    30 cm) transversal'
+    30 cm), transversal'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 435–438
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -95,9 +101,9 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Coracoid Process — Incidență AP Axială (Merrill)
+title: Rx proces coracoid — incidență AP axială (Merrill)
 ---
-# Rx Coracoid Process — Incidență AP Axială (Merrill)
+# Rx proces coracoid — incidență AP axială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -121,19 +127,20 @@ title: Rx Coracoid Process — Incidență AP Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție cu brațele along sides de corp.; se ajustează poziție de corp la se centrează afected proces coracoid la linia mediană grilă. poziție receptorul de imagine astfel încât midpoint de receptorul de imagine coincides cu înclinat raza centrală. se ajustează umeri la lie în same plan orizontal. Abduct braț de afected side slightly, și supinate Mână, immobilizing it cu săculeți cu nisip across palm (Fig. 6.79). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la enter proces coracoid la un unghi de 15 la 45 grade cranial. Kwak et al. 18 recommended angle de 30 grade. grade de angulation depends pe shape de pacientul’s back. Round-shouldered pacienți require greater angulation (Fig. 6.80).
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal, cu brațele de-a lungul corpului; se ajustează poziția corpului pentru a centra procesul coracoid afectat pe linia mediană a grilei. Se poziționează receptorul de imagine astfel încât punctul său median să coincidă cu raza centrală înclinată. Se ajustează umerii pentru a se afla în același plan orizontal. Se abduce ușor brațul de partea afectată și se supinează mâna, imobilizând-o cu săculeți cu nisip peste palmă (Fig. 6.79). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată pentru a intra în procesul coracoid la un unghi de 15 la 45 de grade cranial. Kwak et al. 18 au recomandat un unghi de 30 de grade. Gradul de angulație depinde de forma spatelui pacientului. Pacienții cu umerii rotunjiți necesită o angulație mai mare (Fig. 6.80).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** apnee (oprirea respirației) la end de exhalation pentru more uniform densitate optică.
+    - **Comandă Respiratorie:** Apnee (oprirea respirației) la sfârșitul expirului, pentru o densitate optică mai uniformă.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -154,11 +161,11 @@ title: Rx Coracoid Process — Incidență AP Axială (Merrill)
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - proces coracoid cu minimal self-superimposition
-    - Claviculă slightly superimposing proces coracoid
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Proces coracoid cu suprapunere minimă
+    - Clavicula se suprapune ușor peste procesul coracoid
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -167,6 +174,7 @@ title: Rx Coracoid Process — Incidență AP Axială (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -230,47 +238,3 @@ title: Rx Coracoid Process — Incidență AP Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 435–438](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-proces coracoid în its entirety cu some superimposition prin clavicle (Fig. 6.81).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• orientat la enter proces coracoid la un unghi de 15 la 45 grade cranial. Kwak et al. 18 recommended angle de 30 grade. grade de angulation depends pe shape de pacientul’s back. Round-shouldered pacienți require greater angulation (Fig. 6.80).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• proces coracoid cu minimal self-superimposition
-• Clavicle slightly superimposing proces coracoid
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează poziție de corp la se centrează afected proces coracoid la linia mediană grilă.
-• poziție receptorul de imagine astfel încât midpoint de receptorul de imagine coincides cu înclinat raza centrală.
-• se ajustează umeri la lie în same plan orizontal.
-• Abduct braț de afected side slightly, și supinate mână, immobilizing it cu săculeți cu nisip across palm (Fig. 6.79).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal cu brațele along sides de corp.
-
-### respiration
-
-apnee (oprirea respirației) la end de exhalation pentru more uniform densitate optică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) transversal
-

@@ -14,6 +14,10 @@ images:
 - caption: Merrill — pagina 223, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-r-or-l-position-p221-merrill/p223_fig2.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -119,11 +123,12 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -168,6 +173,7 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -206,48 +212,3 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
 ## Surse de documentare
 
 - [Merrill’s Atlas, 4. Abdomen, pagini 221–223](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidența de profil a abdomenului evidențiază spațiul prevertebral ocupat de aorta abdominală și orice calcificări intraabdominale sau
-mase tumorale. Radiografia de profil a abdomenului este utilizată și pentru a evidenția poziționarea corectă a grefelor pentru AAA și a altor dispozitive pentru intervenții vasculare (Fig. 4.18).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• perpendicular pe receptorul de imagine (RI), pătrunzând în planul mediocoronal la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor iliace dacă se includ cupolele diafragmatice.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Oasele iliace suprapuse
-• Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
-• o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
-• Conținutul abdominal vizibil fără substanță de contrast
-
-### part_pos
-
-• Se flectează genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
-• Se plasează suporturi între genunchi și între glezne.
-• Se flectează coatele și se plasează mâinile sub capul pacientului (Fig. 4.17).
-• Se centrează receptorul de imagine la nivelul crestelor iliace sau la 2 țoli (5 cm) deasupra crestelor pentru a include cupolele diafragmatice.
-
-### patient_pos
-
-• Se întoarce pacientul în decubit lateral pe partea dreaptă sau stângă.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
-

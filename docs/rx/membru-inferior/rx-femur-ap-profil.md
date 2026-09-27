@@ -8,6 +8,10 @@ clinical_indications:
   femurale.
 clinical_status: draft_not_for_clinical_use
 images: []
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Poziționarea se coordonează cu echipa clinică; suspiciunea de fractură nu justifică
@@ -71,12 +75,12 @@ standard_views:
 - centering: Femur integral, șold și genunchi; achiziții suprapuse dacă detectorul
     nu acoperă lungimea.
   condition: Parte a setului inițial justificat de radiolog
-  name: AP femur
+  name: Femur AP
   position: Decubit dorsal; membrul susținut în poziția tolerată.
   quality: Continuitatea segmentului, fără zonă omisă între imagini.
 - centering: Segmentul complet, inclusiv extremitățile articulare.
   condition: Parte a setului inițial justificat de radiolog
-  name: Profil femur
+  name: Femur — profil
   position: Adaptat durerii și imobilizării; rază orizontală dacă mobilizarea nu este
     permisă.
   quality: Acoperire și orientare documentate; detaliu osos util.
@@ -87,13 +91,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx RX femur — AP și profil
+title: Rx corp femural — AP și profil
 workbench_transfer:
   draft_id: 84ed5de01fd35eab849b7ad1b81e068a
   purpose: review_in_main_application
   transferred_at: '2026-09-15T08:50:31.215594+00:00'
 ---
-# Rx RX femur — AP și profil
+# Rx corp femural — AP și profil
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -120,11 +124,12 @@ workbench_transfer:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -165,12 +170,13 @@ workbench_transfer:
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Poziționarea se coordonează cu echipa clinică; suspiciunea de fractură nu justifică rotații sau flexii forțate.
 
 ## Incidențe și criterii de acceptare
 
-### AP femur
+### Femur AP
 
 **Selecție:** Parte a setului inițial justificat de radiolog
 
@@ -180,7 +186,7 @@ workbench_transfer:
 
 **Criterii de acceptare:** Continuitatea segmentului, fără zonă omisă între imagini.
 
-### Profil femur
+### Femur — profil
 
 **Selecție:** Parte a setului inițial justificat de radiolog
 

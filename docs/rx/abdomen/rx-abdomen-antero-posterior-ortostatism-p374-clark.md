@@ -34,6 +34,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-antero-posterior-ortostatism-p374-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -96,19 +100,21 @@ title: Rx Abdomen Antero-Posterior (AP) - Ortostatism
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este menținut în decubit lateral stâng timp de 10-20 minute, permițând acumularea aerului liber spre flancul drept pentru a evita suprapunerea pe bula gastrică, o problemă de diagnostic diferențial când aerul este prezent în partea stângă a abdomenului, în regiunea stomacului.
-• Caseta cu grilă antidifuzoare este sprijinită vertical, în unghi drept față de raza centrală orizontală, și este poziționată pe / sprijinită de fața posterioară a pacientului, astfel încât să includă partea dreaptă a cupolelor diafragmatice.
-    - **Punct de Centrare Fascicul:** • Raza centrală orizontală este orientată perpendicular pe centrul casetei, utilizând o casetă cu grilă antidifuzoare de 35 × 43 cm.
-Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism, evidențiind ocluzie intestinală la nivelul intestinului subțire (nivele hidroaerice centrale), cu gaz în peretele intestinal (cadranul superior drept), indicând o perforație iminentă. Imagine a abdomenului în incidență antero-posterioară (AP), în decubit lateral stâng, evidențiind aer liber în cavitatea abdominală.
+    - **Poziție Pacient:**
+        - Pacientul este menținut în decubit lateral stâng timp de 10-20 minute, permițând acumularea aerului liber spre flancul drept pentru a evita suprapunerea pe bula gastrică, o problemă de diagnostic diferențial când aerul este prezent în partea stângă a abdomenului, în regiunea stomacului.
+        - Caseta cu grilă antidifuzoare este sprijinită vertical, în unghi drept față de raza centrală orizontală, și este poziționată pe / sprijinită de fața posterioară a pacientului, astfel încât să includă partea dreaptă a cupolelor diafragmatice.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală orizontală este orientată perpendicular pe centrul casetei, utilizând o casetă cu grilă antidifuzoare de 35 × 43 cm. Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism, evidențiind ocluzie intestinală la nivelul intestinului subțire (nivele hidroaerice centrale), cu gaz în peretele intestinal (cadranul superior drept), indicând o perforație iminentă. Imagine a abdomenului în incidență antero-posterioară (AP), în decubit lateral stâng, evidențiind aer liber în cavitatea abdominală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -144,6 +150,7 @@ Radiografie de abdomen în incidență antero-posterioară (AP), în ortostatism
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

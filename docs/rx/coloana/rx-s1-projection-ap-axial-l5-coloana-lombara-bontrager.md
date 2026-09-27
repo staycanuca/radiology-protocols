@@ -19,6 +19,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.44
     AP axial L5–S1.)
   url: assets/images/protocols/bontrager/rx-s1-projection-ap-axial-l5-coloana-lombara-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Incidența anteroposterioară (AP) înclinată „deschide” articulația L5–S1.
@@ -90,11 +94,12 @@ title: Rx S1 Incidență AP AXIALĂ L5 (Coloana lombară)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -139,6 +144,7 @@ title: Rx S1 Incidență AP AXIALĂ L5 (Coloana lombară)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Incidența anteroposterioară (AP) înclinată „deschide” articulația L5–S1. Incidența laterală a L5–S1 oferă în general mai multe informații decât incidența anteroposterioară (AP). Această incidență poate fi efectuată și în decubit ventral, cu angulație caudală a razei centrale (crește distanța obiect–receptorul de imagine [OID]). Coloana lombară SPECIALĂ AP axială L5–S1 30°-35°

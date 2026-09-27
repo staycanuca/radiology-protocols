@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe Pumn (Articulație Radiocarpiană) articulație
+centering: Perpendicular pe articulația pumnului (articulația radiocarpiană)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,35 +18,39 @@ images:
 - caption: Merrill — pagina 295, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-pumn-articulatie-radiocarpiana-incidenta-de-profil-lateral-lateromedial-p292-merrill/p295_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Burman et al. 17 suСested that Incidență de Profil (lateral) de scaphoid trebuie
-  să fie obtained cu Pumn (Articulație Radiocarpiană) în palmar flexion because this
-  action rotates bone anteriorly into dorsovolar poziție (Fig. 5.76). However, this
-  poziție este valuable only when suficient flexion este permitted. Fiolle 18, 19
-  was first la describe small bony growth occurring pe dorsal surface de third articulații
-  carpometacarpiene (CMC). He termed condition carpe bossu (carpal boss) și found
-  that it este vizualizat best în Incidență de Profil (lateral) cu Pumn (Articulație
-  Radiocarpiană) în palmar flexion (see Fig. 5.76).
-position: se așază pacientul pe scaun la end de masa radiologică. Se instruiește pacientul
-  să rest braț și Antebraț pe masa de examinare la ensure upper extremity este aliniat
-  în same plane.; Se instruiește pacientul să se flectează Cot 90 grade la se rotește
-  ulna la Incidență de Profil (lateral). se centrează receptorul de imagine la Pumn
-  (Articulație Radiocarpiană) (radiocarpal) articulație. se ajustează Antebraț și
-  Mână, placing humeral epicondyles și styloid processes superimposed și perpendicular
-  pe receptorul de imagine (RI), astfel încât Pumn (Articulație Radiocarpiană) este
-  în true Incidență de Profil (lateral) (Fig. 5.73). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+notes: Burman et al. 17 au sugerat că incidența de profil (lateral) a scafoidului
+  trebuie obținută cu pumnul în flexie palmară, deoarece această acțiune rotește osul
+  anterior, în poziție dorsovolară (Fig. 5.76). Totuși, această poziție este valoroasă
+  numai atunci când este permisă o flexie suficientă. Fiolle 18, 19 a fost primul
+  care a descris mica excrescență osoasă apărută pe suprafața dorsală a celei de-a
+  treia articulații carpometacarpiene (CMC). El a denumit afecțiunea carpe bossu (proeminență
+  carpiană) și a constatat că aceasta este vizualizată cel mai bine în incidență de
+  profil (lateral), cu pumnul în flexie palmară (vezi Fig. 5.76).
+position: Se așază pacientul pe scaun la capătul mesei radiologice. Se instruiește
+  pacientul să sprijine brațul și antebrațul pe masa de examinare pentru a se asigura
+  că extremitatea superioară este aliniată în același plan.; Se instruiește pacientul
+  să flecteze cotul la 90 de grade pentru a roti ulna în incidență de profil (lateral).
+  Se centrează receptorul de imagine pe articulația pumnului (articulația radiocarpiană).
+  Se ajustează antebrațul și mâna, plasând epicondilii humerali și procesele stiloide
+  suprapuși și perpendiculari pe receptorul de imagine (RI), astfel încât pumnul să
+  fie în incidență de profil (lateral) adevărată (Fig. 5.73). Se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-- Superimposed distal radius și ulna
-- Superimposed oase metacarpiene
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+- Radius și ulna distale suprapuse
+- Oase metacarpiene suprapuse
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-pumn-articulatie-radiocarpiana-incidenta-de-profil-lateral-lateromedial-p292-merrill
 source_pages:
@@ -55,67 +59,62 @@ source_pages:
 - 294
 - 295
 source_sections:
-  anatomy: 'lateral incidență de proximal oase metacarpiene, oase carpiene, și distal
-    radius și ulna (Fig. 5.74). imagine obtained cu radial surface against
-
-    receptorul de imagine (Fig. 5.75) este vizualizat pentru comparison. This poziție
-    poate also fie used la show anterior sau posterior displacement în suspiciune
-    de fractură.'
-  collimation: '• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal
-    la wrist articulație și 1 inch (2.5 cm) pe palmar și dorsal surfaces.
+  anatomy: Incidența laterală a oaselor metacarpiene proximale, a oaselor carpiene
+    și a radiusului și ulnei distale (Fig. 5.74). Imaginea obținută cu suprafața radială
+    în contact cu receptorul de imagine (Fig. 5.75) este vizualizată pentru comparație.
+    Această poziție poate fi utilizată și pentru evidențierea deplasării anterioare
+    sau posterioare în suspiciunea de fractură.
+  collimation: '• Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația pumnului și la 1 țol (2.5 cm) pe suprafețele palmară și dorsală.
 
     Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • perpendicular pe wrist articulație
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • perpendicular pe articulația pumnului
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
+    • radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
 
-    • Superimposed distal radius și ulna
+    • Suprapunerea radiusului și ulnei distale
 
-    • Superimposed oase metacarpiene
+    • Suprapunerea oaselor metacarpiene
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'Burman et al. 17 suСested that poziție de profil (lateral) de scaphoid trebuie
-    să fie obtained cu wrist în palmar flexion because this
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: 'Burman et al. 17 au sugerat că poziția de profil a scafoidului trebuie obținută
+    cu pumnul în flexie palmară, deoarece această acțiune rotește osul anterior, în
+    poziție dorsovolară (Fig. 5.76). Totuși, această poziție este valoroasă numai
+    atunci când este permisă o flexie suficientă.
 
-    action rotates bone anteriorly into dorsovolar poziție (Fig. 5.76). However, this
-    poziție este valuable only when suficient flexion este
+    Fiolle 18, 19 a fost primul care a descris mica excrescență osoasă de pe suprafața
+    dorsală a celei de-a treia articulații carpometacarpiene (CMC). El a denumit afecțiunea
+    carpe bossu (boss carpian) și a constatat că aceasta este vizualizată cel mai
+    bine în poziție de profil, cu pumnul în flexie palmară (vezi Fig. 5.76).'
+  part_pos: '• Se instruiește pacientul să flecteze cotul la 90 grade și să rotească
+    ulna în poziție de profil.
 
-    permitted.
+    • Se centrează receptorul de imagine la articulația pumnului (radiocarpiană).
 
-    Fiolle 18, 19 was first la describe small bony growth occurring pe dorsal surface
-    de third articulații carpometacarpiene (CMC). He termed condition
+    • Se ajustează antebrațul și mâna, plasând epicondilii humerali și procesele stiloide
+    suprapuși și perpendicular pe receptorul de imagine (RI), astfel încât pumnul
+    să fie în adevărată poziție de profil (Fig. 5.73).
 
-    carpe bossu (carpal boss) și found that it este vizualizat best în poziție de
-    profil (lateral) cu wrist în palmar flexion (see Fig. 5.76).'
-  part_pos: '• Se instruiește pacientul să se flectează cot 90 grade la se rotește
-    ulna la poziție de profil (lateral).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul pe scaun la capătul mesei radiologice.
 
-    • se centrează receptorul de imagine la wrist (radiocarpal) articulație.
-
-    • se ajustează forearm și mână, placing humeral epicondyles și styloid processes
-    superimposed și perpendicular pe receptorul de imagine (RI), so that
-
-    wrist este în true poziție de profil (lateral) (Fig. 5.73).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică.
-
-    • Se instruiește pacientul să rest braț și forearm pe masa de examinare la ensure
-    upper extremity este aliniat în same plane.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal'
+    • Se instruiește pacientul să sprijine brațul și antebrațul pe masa de examinare,
+    pentru a asigura alinierea extremității superioare în același plan.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptor de imagine plat: 10 × 12 țoli
+    (24 × 30 cm), longitudinal'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 292–295
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
-    Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe palmar și dorsal
-    surfaces. Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față
+    de articulația pumnului (radiocarpiană) și la 1 țol (2.5 cm) pe suprafețele palmară
+    și dorsală. Se plasează markerul de lateralitate în câmpul colimat.
 title: Rx Pumn (Articulație Radiocarpiană) — Incidență de Profil (Lateral) — Latero-Medial
   (Merrill)
 ---
@@ -143,17 +142,18 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență de Profil (Lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică. Se instruiește pacientul să rest braț și Antebraț pe masa de examinare la ensure upper extremity este aliniat în same plane.; Se instruiește pacientul să se flectează Cot 90 grade la se rotește ulna la Incidență de Profil (lateral). se centrează receptorul de imagine la Pumn (Articulație Radiocarpiană) (radiocarpal) articulație. se ajustează Antebraț și Mână, placing humeral epicondyles și styloid processes superimposed și perpendicular pe receptorul de imagine (RI), astfel încât Pumn (Articulație Radiocarpiană) este în true Incidență de Profil (lateral) (Fig. 5.73). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Pumn (Articulație Radiocarpiană) articulație
+    - **Poziție Pacient:** Se așază pacientul pe scaun la capătul mesei radiologice. Se instruiește pacientul să sprijine brațul și antebrațul pe masa de examinare pentru a se asigura că extremitatea superioară este aliniată în același plan.; Se instruiește pacientul să flecteze cotul la 90 de grade pentru a roti ulna în incidență de profil (lateral). Se centrează receptorul de imagine pe articulația pumnului (articulația radiocarpiană). Se ajustează antebrațul și mâna, plasând epicondilii humerali și procesele stiloide suprapuși și perpendiculari pe receptorul de imagine (RI), astfel încât pumnul să fie în incidență de profil (lateral) adevărată (Fig. 5.73). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe articulația pumnului (articulația radiocarpiană)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -169,19 +169,19 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență de Profil (Lateral)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe palmar și dorsal surfaces. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația pumnului (radiocarpiană) și la 1 țol (2.5 cm) pe suprafețele palmară și dorsală. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-    - Superimposed distal radius și ulna
-    - Superimposed oase metacarpiene
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+    - Radius și ulna distale suprapuse
+    - Oase metacarpiene suprapuse
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -191,8 +191,9 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență de Profil (Lateral)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Burman et al. 17 suСested that Incidență de Profil (lateral) de scaphoid trebuie să fie obtained cu Pumn (Articulație Radiocarpiană) în palmar flexion because this action rotates bone anteriorly into dorsovolar poziție (Fig. 5.76). However, this poziție este valuable only when suficient flexion este permitted. Fiolle 18, 19 was first la describe small bony growth occurring pe dorsal surface de third articulații carpometacarpiene (CMC). He termed condition carpe bossu (carpal boss) și found that it este vizualizat best în Incidență de Profil (lateral) cu Pumn (Articulație Radiocarpiană) în palmar flexion (see Fig. 5.76).
+    Burman et al. 17 au sugerat că incidența de profil (lateral) a scafoidului trebuie obținută cu pumnul în flexie palmară, deoarece această acțiune rotește osul anterior, în poziție dorsovolară (Fig. 5.76). Totuși, această poziție este valoroasă numai atunci când este permisă o flexie suficientă. Fiolle 18, 19 a fost primul care a descris mica excrescență osoasă apărută pe suprafața dorsală a celei de-a treia articulații carpometacarpiene (CMC). El a denumit afecțiunea carpe bossu (proeminență carpiană) și a constatat că aceasta este vizualizată cel mai bine în incidență de profil (lateral), cu pumnul în flexie palmară (vezi Fig. 5.76).
 
 
 ### 🖼️ Imagini
@@ -245,54 +246,3 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență de Profil (Lateral)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 292–295](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență de proximal oase metacarpiene, oase carpiene, și distal radius și ulna (Fig. 5.74). imagine obtained cu radial surface against
-receptorul de imagine (Fig. 5.75) este vizualizat pentru comparison. This poziție poate also fie used la show anterior sau posterior displacement în suspiciune de fractură.
-
-### collimation
-
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe palmar și dorsal surfaces.
-Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe wrist articulație
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-• Superimposed distal radius și ulna
-• Superimposed oase metacarpiene
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Burman et al. 17 suСested that poziție de profil (lateral) de scaphoid trebuie să fie obtained cu wrist în palmar flexion because this
-action rotates bone anteriorly into dorsovolar poziție (Fig. 5.76). However, this poziție este valuable only when suficient flexion este
-permitted.
-Fiolle 18, 19 was first la describe small bony growth occurring pe dorsal surface de third articulații carpometacarpiene (CMC). He termed condition
-carpe bossu (carpal boss) și found that it este vizualizat best în poziție de profil (lateral) cu wrist în palmar flexion (see Fig. 5.76).
-
-### part_pos
-
-• Se instruiește pacientul să se flectează cot 90 grade la se rotește ulna la poziție de profil (lateral).
-• se centrează receptorul de imagine la wrist (radiocarpal) articulație.
-• se ajustează forearm și mână, placing humeral epicondyles și styloid processes superimposed și perpendicular pe receptorul de imagine (RI), so that
-wrist este în true poziție de profil (lateral) (Fig. 5.73).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-• Se instruiește pacientul să rest braț și forearm pe masa de examinare la ensure upper extremity este aliniat în same plane.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal
-

@@ -13,6 +13,10 @@ images:
 - caption: Merrill — pagina 700, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-antero-posterioara-ap-ottonello-method-p698-merrill/p700_fig2.png
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -128,11 +132,12 @@ title: Rx Coloană Cervicală — Incidență Antero-Posterioară (AP) — Metod
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -175,6 +180,7 @@ title: Rx Coloană Cervicală — Incidență Antero-Posterioară (AP) — Metod
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -213,52 +219,3 @@ title: Rx Coloană Cervicală — Incidență Antero-Posterioară (AP) — Metod
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 698–700](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Întreaga coloană vertebrală cervicală, cu imaginea mandibulei estompată sau ștearsă (Fig. 9.57 și 9.58).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Perpendiculară la nivelul C4; raza centrală pătrunde la nivelul punctului cel mai proeminent al cartilajului tiroid (mărul lui Adam).
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
-• Toate cele șapte vertebre cervicale
-• Imaginea estompată a mandibulei, care permite vizualizarea atlasului și axisului subiacente
-• Detalii trabeculare osoase și țesuturile moi înconjurătoare
-
-### part_pos
-
-• Se ajustează capul pacientului astfel încât MSP să fie aliniat cu partea inferioară a corpului și să fie perpendicular pe masă.
-• Se ridică bărbia pacientului suficient pentru a aduce suprafața ocluzală a incisivilor superiori și vârfurile mastoidelor în același plan vertical.
-• Se imobilizează capul pacientului și se instruiește pacientul să exerseze deschiderea și închiderea gurii până când mandibula poate fi mișcată lin, fără
-ca dinții să se lovească între ei (Fig. 9.56).
-• Se așază receptorul de imagine în tăvița Bucky și se centrează la nivelul C4.
-• Pentru a estompa imaginea mandibulei, se utilizează o tehnică de expunere cu intensitate mică a curentului (mA) și timp lung de expunere (minimum 1 secundă).
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-• Se centrează MCP al corpului pe linia mediană a grilei.
-• Se poziționează brațele pacientului de-a lungul corpului și se ajustează umerii astfel încât să se afle în același plan orizontal.
-• Se așază un suport sub genunchi pentru confortul pacientului.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
-× 30 cm), longitudinal.
-

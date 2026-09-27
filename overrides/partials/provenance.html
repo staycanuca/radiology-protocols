@@ -1,0 +1,60 @@
+<section class="protocol-provenance" aria-labelledby="protocol-provenance-title" data-search-exclude>
+  <h2 id="protocol-provenance-title">Sursă și prelucrare editorială</h2>
+  {% if provenance.publication %}<p class="provenance-publication">{{ provenance.publication }}</p>{% endif %}
+  <dl class="provenance-summary">
+    <div><dt>Proveniență</dt><dd>{{ provenance.source_label }}</dd></div>
+    <div><dt>Fidelitatea preluării</dt><dd>{{ provenance.fidelity.label }}</dd></div>
+    <div><dt>Revizuire medicală</dt><dd>{{ provenance.medical.label }}</dd></div>
+  </dl>
+  {% if provenance.sources %}
+    <ul class="provenance-sources">
+    {% for source in provenance.sources %}
+      <li>{% if source.url %}<a href="{{ source.url }}" rel="noopener noreferrer">{{ source.title }}</a>{% else %}{{ source.title }}{% endif %}</li>
+    {% endfor %}
+    </ul>
+  {% else %}
+    <p>Documentul original și localizarea exactă nu sunt precizate în evidența acestei pagini.</p>
+  {% endif %}
+  <p class="provenance-note">Referințele declarate nu confirmă singure fidelitatea preluării sau aprobarea protocolului pentru utilizare locală.</p>
+  <details class="provenance-details">
+    <summary>Detalii despre surse și verificări</summary>
+    {% for source in provenance.sources %}
+    <div class="provenance-source-detail">
+      <h3>{{ source.title }}</h3>
+      <dl class="provenance-fields">
+        {% if source.institution %}<dt>Autor / instituție în referință</dt><dd>{{ source.institution }}</dd>{% endif %}
+        <dt>Ediție / versiune a sursei</dt><dd>{% if source.edition %}Ediția {{ source.edition }}{% if source.version %} · {{ source.version }}{% endif %}{% else %}{{ source.version or 'Neprecizată' }}{% endif %}{% if source.edition_ambiguous %} — ediția exactă necesită clarificare{% endif %}</dd>
+        <dt>Pagină / secțiune</dt><dd>{{ source.locator or 'Neprecizată' }}</dd>
+        <dt>Relația cu protocolul</dt><dd>{{ source.relationship or 'Nedocumentată: poate fi sursă de preluare sau referință suplimentară.' }}</dd>
+        <dt>Data consultării</dt><dd>{{ source.consulted_on or 'Nedocumentată' }}</dd>
+        {% if source.recorded_on %}<dt>Dată tehnică în evidența sursei</dt><dd>{{ source.recorded_on }} — nu reprezintă data revizuirii medicale sau dovada consultării.</dd>{% endif %}
+        {% if not source.url %}<dt>Link public</dt><dd>Lipsește sau nu este un URL web acceptat.</dd>{% endif %}
+      </dl>
+    </div>
+    {% endfor %}
+    <h3>Prelucrarea acestei pagini</h3>
+    <dl class="provenance-fields">
+      <dt>Mod de prelucrare</dt><dd>{{ provenance.processing | join('; ') or 'Nedocumentat pentru această pagină' }}</dd>
+      <dt>Adaptări față de sursă</dt><dd>{{ provenance.adaptations | join('; ') or 'Nedocumentate; absența evidenței nu confirmă o preluare integrală.' }}</dd>
+      <dt>Responsabil pentru prelucrare</dt><dd>{{ provenance.editor or 'Neprecizat' }}</dd>
+      {% if provenance.existing_attribution %}<dt>Atribuire existentă în pagină</dt><dd>{{ provenance.existing_attribution }}. Această atribuire nu identifică automat autorul sursei sau revizorul medical.</dd>{% endif %}
+      {% if provenance.source_pages %}<dt>Pagini în evidența preluării</dt><dd>{{ provenance.source_pages }}. Numerotarea și sursa corespunzătoare trebuie confruntate cu originalul.</dd>{% endif %}
+      <dt>Versiunea paginii</dt><dd>{{ provenance.version or 'Neînregistrată' }}</dd>
+      <dt>Actualizare declarată a paginii</dt><dd>{{ provenance.updated or 'Neprecizată' }} — distinctă de revizuirea medicală.</dd>
+    </dl>
+    {% for label, review in [('Verificarea fidelității', provenance.fidelity), ('Revizuirea medicală', provenance.medical)] %}
+      <h3>{{ label }}: {{ review.label }}</h3>
+      {% if review.reviewer or review.date or review.scope %}
+      <dl class="provenance-fields">
+        <dt>Persoană declarată</dt><dd>{% if review.profile_url %}<a href="{{ review.profile_url }}" rel="noopener noreferrer">{{ review.reviewer or 'Nume neprecizat' }}</a>{% else %}{{ review.reviewer or 'Neprecizată' }}{% endif %}</dd>
+        {% if review.qualification %}<dt>Calificare declarată</dt><dd>{{ review.qualification }}</dd>{% endif %}
+        <dt>Data revizuirii</dt><dd>{{ review.date or 'Neprecizată sau nevalidă' }}</dd>
+        <dt>Ce s-a verificat</dt><dd>{{ review.scope or 'Neprecizat' }}</dd>
+        <dt>Versiunea verificată</dt><dd>{{ review.version or 'Neprecizată' }}</dd>
+      </dl>
+      {% endif %}
+    {% endfor %}
+    {% if provenance.legacy_note %}<p>{{ provenance.legacy_note }}</p>{% endif %}
+  </details>
+  <div class="provenance-actions"><a href="{{ links.methodology }}">Despre proiect și metodologia editorială</a><a href="{{ links.feedback }}">Semnalează o problemă a acestui protocol</a></div>
+</section>

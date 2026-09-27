@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.47
     PA în ortostatism—36-)
   url: assets/images/protocols/bontrager/rx-scolioza-vicii-de-postura-ale-coloanei-series-pa-postero-anterior-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Incidența PA, în locul incidenței antero-posterioare (AP), este recomandată
@@ -31,7 +35,7 @@ notes: 'S: Incidența PA, în locul incidenței antero-posterioare (AP), este re
   9.45 PA în ortostatism. Ecrane pentru sâni Ecrane pentru gonade Fig. 9.46 Filtre
   compensatoare clare, echivalente plumbului, cu ecrane pentru sâni și gonade atașate
   la partea inferioară a colimatorului cu magneți. (Cu amabilitatea Nuclear Associates,
-  Carle Place, NY.) Fig. 9.47 PA în ortostatism—receptor de imagine de 36inch (90cm).
+  Carle Place, NY.) Fig. 9.47 PA în ortostatism—receptor de imagine de 36 țol (90cm).
   (din Bachmann KR: Deformări spinale la sportivul adolescent. Clin Sports Med 40[3]:541–554,
   2021.) Scolioza / viciile de postură ale coloanei necesită în general examinări
   repetate pe parcursul mai multor ani, în special la pacienții pediatrici. Trebuie
@@ -45,7 +49,7 @@ position: 'Pacient: Poziție în ortostatism și decubit. Se plasează pacientul
   față de linia proceselor spinoase ale toracelui sau bazinului, dacă este posibil.
   Scolioza / viciile de postură ale coloanei pot determina torsionarea și rotația
   vertebrelor, făcând inevitabilă o anumită rotație. Se plasează marginea inferioară
-  a receptorului de imagine la minimum 1 la 2 inches (3 la 5 cm) sub creasta iliacă
+  a receptorului de imagine la minimum 1 la 2 țoli (3 la 5 cm) sub creasta iliacă
   (corespunzător L4-L5) (înălțimea centrării determinată prin dimensiunea recomandată
   a câmpului și/sau zona de scolioză / vicii de postură ale coloanei).'
 protection:
@@ -99,16 +103,17 @@ title: Rx scolioză / vicii de postură ale coloanei SERIE PA (postero-anterioar
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Poziție în ortostatism și decubit. Se plasează pacientul în poziție de ortostatism și decubit, cu brațele pe lângă corp. Greutatea se distribuie uniform pe ambele picioare pentru poziția în ortostatism.; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.45). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă este posibil. Scolioza / viciile de postură ale coloanei pot determina torsionarea și rotația vertebrelor, făcând inevitabilă o anumită rotație. Se plasează marginea inferioară a receptorului de imagine la minimum 1 la 2 inches (3 la 5 cm) sub creasta iliacă (corespunzător L4-L5) (înălțimea centrării determinată prin dimensiunea recomandată a câmpului și/sau zona de scolioză / vicii de postură ale coloanei).
+    - **Poziție Pacient:** Pacient: Poziție în ortostatism și decubit. Se plasează pacientul în poziție de ortostatism și decubit, cu brațele pe lângă corp. Greutatea se distribuie uniform pe ambele picioare pentru poziția în ortostatism.; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și linia mediană a mesei și/sau receptorul de imagine (Fig. 9.45). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă este posibil. Scolioza / viciile de postură ale coloanei pot determina torsionarea și rotația vertebrelor, făcând inevitabilă o anumită rotație. Se plasează marginea inferioară a receptorului de imagine la minimum 1 la 2 țoli (3 la 5 cm) sub creasta iliacă (corespunzător L4-L5) (înălțimea centrării determinată prin dimensiunea recomandată a câmpului și/sau zona de scolioză / vicii de postură ale coloanei).
     - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 150 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, la sfârșitul expirului.
@@ -146,8 +151,9 @@ title: Rx scolioză / vicii de postură ale coloanei SERIE PA (postero-anterioar
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    S: Incidența PA, în locul incidenței antero-posterioare (AP), este recomandată cu insistență datorită dozei semnificativ reduse în zonele radiosensibile, cum ar fi sânii și glanda tiroidă. Studiile au arătat că această incidență determină o reducere de aproximativ 90% a dozei la nivelul sânilor.4 Scolioză / vicii de postură ale coloanei SERIE DE RUTINĂ PA Ortostatism și/sau decubit Ortostatism lateral Fig. 9.45 PA în ortostatism. Ecrane pentru sâni Ecrane pentru gonade Fig. 9.46 Filtre compensatoare clare, echivalente plumbului, cu ecrane pentru sâni și gonade atașate la partea inferioară a colimatorului cu magneți. (Cu amabilitatea Nuclear Associates, Carle Place, NY.) Fig. 9.47 PA în ortostatism—receptor de imagine de 36inch (90cm). (din Bachmann KR: Deformări spinale la sportivul adolescent. Clin Sports Med 40[3]:541–554, 2021.) Scolioza / viciile de postură ale coloanei necesită în general examinări repetate pe parcursul mai multor ani, în special la pacienții pediatrici. Trebuie luate măsuri pentru asigurarea unei ecranări atente. Fig. 9.46 evidențiază un exemplu de
+    S: Incidența PA, în locul incidenței antero-posterioare (AP), este recomandată cu insistență datorită dozei semnificativ reduse în zonele radiosensibile, cum ar fi sânii și glanda tiroidă. Studiile au arătat că această incidență determină o reducere de aproximativ 90% a dozei la nivelul sânilor.4 Scolioză / vicii de postură ale coloanei SERIE DE RUTINĂ PA Ortostatism și/sau decubit Ortostatism lateral Fig. 9.45 PA în ortostatism. Ecrane pentru sâni Ecrane pentru gonade Fig. 9.46 Filtre compensatoare clare, echivalente plumbului, cu ecrane pentru sâni și gonade atașate la partea inferioară a colimatorului cu magneți. (Cu amabilitatea Nuclear Associates, Carle Place, NY.) Fig. 9.47 PA în ortostatism—receptor de imagine de 36 țol (90cm). (din Bachmann KR: Deformări spinale la sportivul adolescent. Clin Sports Med 40[3]:541–554, 2021.) Scolioza / viciile de postură ale coloanei necesită în general examinări repetate pe parcursul mai multor ani, în special la pacienții pediatrici. Trebuie luate măsuri pentru asigurarea unei ecranări atente. Fig. 9.46 evidențiază un exemplu de
 
 
 ### 🖼️ Imagini

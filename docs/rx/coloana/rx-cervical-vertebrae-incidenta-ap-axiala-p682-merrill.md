@@ -17,6 +17,10 @@ images:
 - caption: Merrill — pagina 685, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-ap-axiala-p682-merrill/p685_fig3.png
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -155,11 +159,12 @@ title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -205,6 +210,7 @@ title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -252,58 +258,3 @@ title: Rx Coloană Cervicală — Incidență AP Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 682–685](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Corpurile celor cinci vertebre cervicale inferioare și ale celor două sau trei vertebre toracice superioare, spațiile interpediculare, procesele transverse și articulare
-suprapuse și spațiile discale intervertebrale (Fig. 9.41). Această incidență este utilizată și pentru a evidenția prezența sau absența coastelor cervicale.
-
-### colimare
-
-• Se ajustează câmpul de iradiere la 10 țoli (25 cm) longitudinal și la 1 țol (2.5 cm) dincolo de conturul cutanat pe laturi. Se plasează markerul de lateralitate (D/S) în
-câmpul de expunere colimat.
-
-### raza centrală
-
-• Orientată prin C4 la un unghi de 15 la 20 grade cranial. Raza centrală pătrunde la nivelul sau ușor inferior de punctul cel mai proeminent
-al cartilajului tiroid (mărul lui Adam), numit în mod obișnuit „mărul lui Adam”.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
-• Regiunea de la porțiunea superioară a C3 până la T2 și părțile moi înconjurătoare
-• Umbrele mandibulei și occiputului suprapuse peste atlas și cea mai mare parte a axisului
-• Spații discale intervertebrale deschise
-• MSP al capului și gâtului perpendicular pe planul receptorului de imagine, fără înclinare sau rotație
-• Procesele spinoase echidistante față de pediculi și aliniate cu linia mediană a corpurilor vertebrale cervicale
-• Unghiurile mandibulare și procesele mastoide echidistante față de vertebre
-• Detalii trabeculare osoase și țesuturile moi înconjurătoare
-
-### part_pos
-
-• Se centrează MSP al corpului pacientului pe linia mediană a mesei sau a stativului vertical Bucky.
-• Se ridică bărbia suficient astfel încât planul ocluzal să fie perpendicular pe blatul mesei. Aceasta previne suprapunerea mandibulei peste
-vertebrele cervicale mijlocii (Fig. 9.39 și 9.40).
-• Se centrează receptorul de imagine la nivelul C4.
-• Se ajustează capul astfel încât MSP să fie aliniat drept și perpendicular pe receptorul de imagine (RI).
-• Se asigură un suport pentru capul oricărui pacient care prezintă o curbură lordotică pronunțată. Acest suport ajută la compensarea curburii
-și reduce distorsiunea imaginii.
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele pe / sprijinit de suportul receptorului de imagine.
-• Se ajustează umerii pacientului astfel încât să se afle în același plan orizontal pentru a preveni rotația.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

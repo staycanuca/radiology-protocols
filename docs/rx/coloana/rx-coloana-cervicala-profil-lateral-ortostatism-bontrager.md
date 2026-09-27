@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.56
     în ortostatism stâng lateral.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-profil-lateral-ortostatism-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Adăugarea unor greutăți (5–10 lb [2.3–4.5 kg]) cu benzi suspendate de la fiecare
@@ -34,13 +38,13 @@ position: 'Pacient: Incidență de profil, poziția pacientului în ortostatism.
   imagine vertical. Regiune anatomică: Aliniați planul mediocoronal cu raza centrală
   și cu linia mediană a mesei și/sau receptorul de imagine. Centrați receptorul de
   imagine pe raza centrală, care trebuie să plaseze partea superioară a receptorului
-  de imagine la aproximativ 1 la 2 inches (2.5 la 5 cm) deasupra meatului auditiv
-  extern (conduct auditiv extern (CAE)) (Fig. 8.56). Coborâți umerii (pentru greutăți
-  egale la ambele brațe [consultați NOTA 2]). Cereți pacientului să se relaxeze și
-  să lase umerii în jos și înainte cât mai mult posibil. (Faceți aceasta ca ultim
-  pas înainte de expunere, deoarece această poziție este dificil de menținut.) Ridicați
-  bărbia pentru a plasa linia acantiomeatală (LAM) paralelă cu podeaua. Proiectați
-  bărbia anterior (pentru a preveni suprapunerea mandibulei peste vertebrele superioare).'
+  de imagine la aproximativ 1 la 2 țoli (2.5 la 5 cm) deasupra meatului auditiv extern
+  (conduct auditiv extern (CAE)) (Fig. 8.56). Coborâți umerii (pentru greutăți egale
+  la ambele brațe [consultați NOTA 2]). Cereți pacientului să se relaxeze și să lase
+  umerii în jos și înainte cât mai mult posibil. (Faceți aceasta ca ultim pas înainte
+  de expunere, deoarece această poziție este dificil de menținut.) Ridicați bărbia
+  pentru a plasa linia acantiomeatală (LAM) paralelă cu podeaua. Proiectați bărbia
+  anterior (pentru a preveni suprapunerea mandibulei peste vertebrele superioare).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -102,16 +106,17 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Incidență de profil, poziția pacientului în ortostatism. Incidență de profil, fie așezat, fie în ortostatism, cu umărul sprijinit de receptorul de imagine vertical. Regiune anatomică: Aliniați planul mediocoronal cu raza centrală și cu linia mediană a mesei și/sau receptorul de imagine. Centrați receptorul de imagine pe raza centrală, care trebuie să plaseze partea superioară a receptorului de imagine la aproximativ 1 la 2 inches (2.5 la 5 cm) deasupra meatului auditiv extern (conduct auditiv extern (CAE)) (Fig. 8.56). Coborâți umerii (pentru greutăți egale la ambele brațe [consultați NOTA 2]). Cereți pacientului să se relaxeze și să lase umerii în jos și înainte cât mai mult posibil. (Faceți aceasta ca ultim pas înainte de expunere, deoarece această poziție este dificil de menținut.) Ridicați bărbia pentru a plasa linia acantiomeatală (LAM) paralelă cu podeaua. Proiectați bărbia anterior (pentru a preveni suprapunerea mandibulei peste vertebrele superioare).
+    - **Poziție Pacient:** Pacient: Incidență de profil, poziția pacientului în ortostatism. Incidență de profil, fie așezat, fie în ortostatism, cu umărul sprijinit de receptorul de imagine vertical. Regiune anatomică: Aliniați planul mediocoronal cu raza centrală și cu linia mediană a mesei și/sau receptorul de imagine. Centrați receptorul de imagine pe raza centrală, care trebuie să plaseze partea superioară a receptorului de imagine la aproximativ 1 la 2 țoli (2.5 la 5 cm) deasupra meatului auditiv extern (conduct auditiv extern (CAE)) (Fig. 8.56). Coborâți umerii (pentru greutăți egale la ambele brațe [consultați NOTA 2]). Cereți pacientului să se relaxeze și să lase umerii în jos și înainte cât mai mult posibil. (Faceți aceasta ca ultim pas înainte de expunere, deoarece această poziție este dificil de menținut.) Ridicați bărbia pentru a plasa linia acantiomeatală (LAM) paralelă cu podeaua. Proiectați bărbia anterior (pentru a preveni suprapunerea mandibulei peste vertebrele superioare).
     - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Orientați raza centrală orizontal spre C4 (la nivelul marginii superioare a cartilajului tiroid (mărul lui Adam)). Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii în expir complet (pentru depresia maximă a umărului).
@@ -153,6 +158,7 @@ title: Rx Coloană Cervicală Profil (Lateral) (Ortostatism)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Adăugarea unor greutăți (5–10 lb [2.3–4.5 kg]) cu benzi suspendate de la fiecare pumn (articulație radiocarpiană) poate ajuta la coborârea umerilor. Coloană cervicală DE RUTINĂ AP gură deschisă (transorală) (C1 și C2) AP axial oblic lateral Fig. 8.57 stâng lateral. Proces odontoid (C2) arc posterior (C1) articulație intervertebrală (C6-7) pilier articular (C7) articulație zigapofizară (C4-5) proces spinos (C2) Fig. 8.58 stâng lateral. Fig. 8.56 ortostatism stâng lateral.

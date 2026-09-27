@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.59
     AP—înclinare spre dreapta.)
   url: assets/images/protocols/bontrager/rx-right-and-left-bending-pa-ap-projection-scolioza-vicii-de-postura-ale-coloanei-series-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Bazinul trebuie să rămână cât mai staționar posibil în timpul poziționării.
@@ -41,7 +45,7 @@ position: 'Pacient: Pacient în ortostatism sau decubit, ortostatism (preferat) 
   a receptorului de imagine. Se verifică absența rotației: claviculele sunt riguros
   echidistante față de linia proceselor spinoase ale toracelui sau ale bazinului,
   dacă acesta este prezent, pe cât posibil. Se plasează marginea inferioară a receptorului
-  de imagine la 1 la 2 inches (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5).
+  de imagine la 1 la 2 țoli (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5).
   Cu bazinul acționând ca punct de sprijin, se cere pacientului să se încline lateral
   (flexie laterală) cât mai mult posibil spre fiecare parte (Fig. 9.56 și 9.57). Dacă
   pacientul este în decubit, se deplasează simultan partea superioară a trunchiului
@@ -54,7 +58,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Coloana toracică și lombară, inclusiv 1 la 2 inches (2.5 la 5 cm) din creasta iliacă
+- Coloana toracică și lombară, inclusiv 1 la 2 țoli (2.5 la 5 cm) din creasta iliacă
   (corespunzător L4-L5) (Fig. 9.58 și 9.59). poziție
 - Coloana vertebrală este aliniată paralel cu receptorul de imagine (RI), după cum
   indică deschiderea găurilor intervertebrale și a spațiilor articulare intervertebrale.
@@ -108,16 +112,17 @@ title: Rx INCIDENȚĂ PA PENTRU ÎNCLINARE SPRE DREAPTA ȘI STÂNGA (AP) (SERIE 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Pacient în ortostatism sau decubit, ortostatism (preferat) sau decubit (în decubit dorsal), cu brațele pe lângă corp (vezi NOTE).; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau ale bazinului, dacă acesta este prezent, pe cât posibil. Se plasează marginea inferioară a receptorului de imagine la 1 la 2 inches (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5). Cu bazinul acționând ca punct de sprijin, se cere pacientului să se încline lateral (flexie laterală) cât mai mult posibil spre fiecare parte (Fig. 9.56 și 9.57). Dacă pacientul este în decubit, se deplasează simultan partea superioară a trunchiului și membrele inferioare pentru a obține flexia laterală maximă. Se repetă pașii de mai sus pentru partea opusă.
+    - **Poziție Pacient:** Pacient: Pacient în ortostatism sau decubit, ortostatism (preferat) sau decubit (în decubit dorsal), cu brațele pe lângă corp (vezi NOTE).; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau ale bazinului, dacă acesta este prezent, pe cât posibil. Se plasează marginea inferioară a receptorului de imagine la 1 la 2 țoli (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5). Cu bazinul acționând ca punct de sprijin, se cere pacientului să se încline lateral (flexie laterală) cât mai mult posibil spre fiecare parte (Fig. 9.56 și 9.57). Dacă pacientul este în decubit, se deplasează simultan partea superioară a trunchiului și membrele inferioare pentru a obține flexia laterală maximă. Se repetă pașii de mai sus pentru partea opusă.
     - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 150 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, la sfârșitul expirului.
@@ -141,7 +146,7 @@ title: Rx INCIDENȚĂ PA PENTRU ÎNCLINARE SPRE DREAPTA ȘI STÂNGA (AP) (SERIE 
 
     ---
 
-    - Coloana toracică și lombară, inclusiv 1 la 2 inches (2.5 la 5 cm) din creasta iliacă (corespunzător L4-L5) (Fig. 9.58 și 9.59). poziție
+    - Coloana toracică și lombară, inclusiv 1 la 2 țoli (2.5 la 5 cm) din creasta iliacă (corespunzător L4-L5) (Fig. 9.58 și 9.59). poziție
     - Coloana vertebrală este aliniată paralel cu receptorul de imagine (RI), după cum indică deschiderea găurilor intervertebrale și a spațiilor articulare intervertebrale.
     - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, indicată prin suprapunerea incizurilor sciatice mari și a corpilor vertebrali posteriori.
     - Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
@@ -157,6 +162,7 @@ title: Rx INCIDENȚĂ PA PENTRU ÎNCLINARE SPRE DREAPTA ȘI STÂNGA (AP) (SERIE 
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Bazinul trebuie să rămână cât mai staționar posibil în timpul poziționării. Bazinul acționează ca punct de sprijin în timpul modificărilor de poziție. Incidențele PA sunt recomandate când sunt efectuate în ortostatism pentru a reduce semnificativ expunerea organelor radiosensibile. Fig. 9.58 AP—înclinare spre stânga. Incidența pentru scolioză / vicii de postură ale coloanei SPECIALĂ PA—incidența pentru scolioză / joncțiunea L5-S1 (metoda Ferguson) PA—înclinare spre dreapta și stânga

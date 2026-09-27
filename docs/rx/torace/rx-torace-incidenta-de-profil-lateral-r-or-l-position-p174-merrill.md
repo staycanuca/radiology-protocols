@@ -1,11 +1,11 @@
 ---
 author: Referință Merrill
-breathing: Inspir profund complet. expunere este made after second Inspir profund
-  complet la ensure maximum expansion de plămânii.
+breathing: Inspir profund complet. Expunerea se efectuează după al doilea inspir profund
+  complet pentru a asigura expansiunea maximă a plămânilor.
 category: torace
-centering: perpendicular pe centrul receptorului de imagine. raza centrală enters
-  pacientul pe planul mediocoronal la nivelul T7 sau la inferior aspect de Omoplat
-  (Scapulă).
+centering: Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde
+  în pacient în planul mediocoronal, la nivelul T7 sau al extremității inferioare
+  a omoplatului (scapulei).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -27,53 +27,59 @@ images:
 - caption: Merrill — pagina 178, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-de-profil-lateral-r-or-l-position-p174-merrill/p178_fig6.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: If possible, always examine pacientul în ortostatism, either în ortostatism
-  sau Poziție Șezândă, astfel încât cupole diafragmatice este la its lowest poziție,
-  și air și nivele hidroaerice poate fie seen. Engorgement de pulmonary vessels este
-  also avoided. Turn pacientul la true Incidență de Profil (lateral), cu brațe prin
-  sides. la show cordul și stâng lung, use stâng Incidență de Profil (lateral) cu
-  pacientul’s stâng side pe / sprijinit de receptorul de imagine. Use drept Incidență
-  de Profil (lateral) la best show drept lung.; se ajustează poziție de pacientul
-  astfel încât plan mediosagital de corp este paralel cu receptorul de imagine și
-  adjacent Umăr este touching grila device. se centrează thorax la grila; planul mediocoronal
-  trebuie să fie perpendicular și centrat pe linia mediană grilă. Se instruiește pacientul
-  să se extinde brațe directly upward, se flectează coate, și cu forearms resting
-  pe capul, hold brațele în poziție (Fig. 3.41). Place intravenous catheter stand
-  în front de unsteady pacient. Se instruiește pacientul să se extinde brațe și grasp
-  stand ca high ca possible pentru support. se ajustează height de receptorul de imagine
-  astfel încât upper margine este 1.5 la 2 inches (3.8 la 5 cm) above umerii. Recheck
-  poziție de corp; planul mediosagital trebuie să fie vertical. Depending pe width
-  de umerii, lower part de thorax și hips poate fie greater distance de la receptorul
-  de imagine, but this corp poziție este necessary pentru true Incidență de Profil
-  (lateral). Having pacientul lean pe / sprijinit de grilă device (foreshortening)
-  results în distortion de toate thoracic structures (Fig. 3.42). Forward bending
-  also results în distorted structural outlines (Fig. 3.43). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Dacă este posibil, pacientul se examinează întotdeauna cu trunchiul vertical,
+  în ortostatism sau așezat pe scaun, astfel încât cupolele diafragmatice să fie în
+  poziția cea mai joasă și să se poată vizualiza aerul și nivelurile hidroaerice.
+  Se evită și congestia vaselor pulmonare. Se rotește pacientul într-o poziție de
+  profil strict, cu brațele pe lângă corp. Pentru a evidenția cordul și plămânul stâng,
+  se utilizează poziția de profil stâng, cu partea stângă a pacientului sprijinită
+  de receptorul de imagine. Se utilizează poziția de profil drept pentru a evidenția
+  cel mai bine plămânul drept. Se ajustează poziția pacientului astfel încât planul
+  mediosagital al corpului să fie paralel cu receptorul de imagine, iar umărul apropiat
+  să atingă dispozitivul cu grilă. Se centrează toracele pe grilă; planul mediocoronal
+  trebuie să fie perpendicular pe grilă și centrat pe linia mediană a acesteia. Se
+  instruiește pacientul să întindă brațele direct în sus, să flecteze coatele și,
+  cu antebrațele sprijinite pe cap, să mențină brațele în poziție (Fig. 3.41). Se
+  plasează un stativ pentru perfuzii în fața pacientului instabil. Se instruiește
+  pacientul să întindă brațele și să apuce stativul cât mai sus posibil pentru sprijin.
+  Se ajustează înălțimea receptorului de imagine astfel încât marginea superioară
+  să fie la 1.5 până la 2 inci (3.8 până la 5 cm) deasupra umerilor. Se verifică din
+  nou poziția corpului; planul mediosagital trebuie să fie vertical. În funcție de
+  lățimea umerilor, partea inferioară a toracelui și șoldurile pot fi mai îndepărtate
+  de receptorul de imagine, dar această poziție a corpului este necesară pentru o
+  incidență de profil strict. Înclinarea pacientului spre dispozitivul cu grilă (scurtare
+  în proiecție) produce distorsiunea tuturor structurilor toracice (Fig. 3.42). Aplecarea
+  înainte produce, de asemenea, distorsiunea contururilor structurilor (Fig. 3.43).
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- braț sau its soft tissues nu overlapping superior câmpuri pulmonare
-- sinusuri costodiafragmatice și portions de pulmonary apexuri (vârfuri pulmonare)
-  nu obscured prin brațele și umeri
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Brațul sau părțile moi ale acestuia nu se suprapun peste câmpurile pulmonare superioare
+- Sinusurile costodiafragmatice și porțiuni ale apexurilor pulmonare (vârfurilor pulmonare)
+  nu sunt mascate de brațe și umeri
 - Absența rotației anatomice (simetrie bilaterală perfectă)
-- Hila în approximate center de radiografie
-- Superimposition de Coaste (Grilaj Costal) posterior la coloană vertebrală
-- Stern în profile
-- Trachea vizibil în linia mediană
-- axa longitudinală de câmpuri pulmonare vizualizat în vertical poziție, fără forward
-  sau backward leaning
-- Open thoracic intervertebral spații articulare și intervertebral foramina, except
-  în pacienți cu scoliosis
-- net outlines de heart și cupole diafragmatice
-- Pulmonary vascular markings de la hilar regions la periphery de plămânii
-sid_dff: Minimum SID of 72 inches (183 cm) is recommended to decrease magnification
-  of the heart and increase spatial resolution of the thoracic structures.
+- Hilurile situate aproximativ în centrul radiografiei
+- Suprapunerea coastelor (grilajului costal) posterior de coloana vertebrală
+- Sternul văzut din profil
+- Traheea vizibilă pe linia mediană
+- Axa longitudinală a câmpurilor pulmonare vizualizată în poziție verticală, fără
+  înclinare înainte sau înapoi
+- Spațiile articulare intervertebrale toracice și foramenele intervertebrale deschise,
+  cu excepția pacienților cu scolioză
+- Contururi nete ale cordului și cupolelor diafragmatice
+- Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
+sid_dff: Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea
+  inimii și a crește rezoluția spațială a structurilor toracice.
 slug: rx-torace-incidenta-de-profil-lateral-r-or-l-position-p174-merrill
 source_pages:
 - 174
@@ -82,115 +88,104 @@ source_pages:
 - 177
 - 178
 source_sections:
-  anatomy: 'preliminary stâng lateral chest poziție este used la show cordul, aorta,
-    și stâng-sided pulmonary lesions (Figs. 3.44 și 3.45). drept
+  anatomy: Poziția preliminară de profil stâng a toracelui se utilizează pentru a
+    evidenția cordul, aorta și leziunile pulmonare din partea stângă (Fig. 3.44 și
+    3.45). Poziția de profil drept a toracelui se utilizează pentru a evidenția leziunile
+    pulmonare din partea dreaptă (Fig. 3.46). Aceste incidențe de profil sunt utilizate
+    frecvent pentru a evidenția fisurile interlobare, a diferenția lobii și a localiza
+    leziunile pulmonare.
+  collimation: • Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de contururile anterior și posterior, dar fără a depăși
+    14 inci (35 cm). Dimensiunea verticală poate fi mai mică la pacienții de talie
+    mică. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde în
+    pacient în planul mediocoronal, la nivelul T7 sau al extremității inferioare a
+    scapulei.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    lateral chest poziție este used la show drept-sided pulmonary lesions (Fig. 3.46).
-    These lateral incidențe sunt used extensively la show interlobar fissures, la
-    diferitiate lobes, și la localize pulmonary lesions.'
-  collimation: '• Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch
-    (2.5 cm) beyond anterior și posterior shadows but fără more than
+    • Colimare corectă vizibilă și prezența markerului de lateralitate (D/S), plasat
+    în afara anatomiei de interes
 
-    14 inches (35 cm). vertical dimension poate fie less pentru smaller pacienți.
-    Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• perpendicular pe centrul receptorului de imagine. raza centrală enters pacientul
-    pe planul mediocoronal la nivelul T7 sau la inferior aspect de
+    • Brațul sau părțile moi ale acestuia nu se suprapun peste câmpurile pulmonare
+    superioare
 
-    scapula.'
-  criteria: 'Criterii radiologice de calitate imaginii:
-
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
-
-    • braț sau its soft tissues nu overlapping superior câmpuri pulmonare
-
-    • sinusuri costodiafragmatice și portions de pulmonary apexuri (vârfuri pulmonare)
-    nu obscured prin brațele și umeri
+    • Sinusurile costodiafragmatice și porțiuni ale apexurilor pulmonare (vârfurilor
+    pulmonare) nu sunt mascate de brațe și umeri
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • Hila în approximate center de radiografie
+    • Hilurile situate aproximativ în centrul radiografiei
 
-    • Superimposition de coaste posterior la coloană vertebrală
+    • Suprapunerea coastelor posterior de coloana vertebrală
 
-    • Sternum în profile
+    • Sternul văzut din profil
 
-    • Trachea vizibil în linia mediană
+    • Traheea vizibilă pe linia mediană
 
-    • axa longitudinală de câmpuri pulmonare vizualizat în vertical poziție, fără
-    forward sau backward leaning
+    • Axa longitudinală a câmpurilor pulmonare vizualizată în poziție verticală, fără
+    înclinare înainte sau înapoi
 
-    • Open thoracic intervertebral spații articulare și intervertebral foramina, except
-    în pacienți cu scoliosis
+    • Spațiile articulare intervertebrale toracice și foramenele intervertebrale deschise,
+    cu excepția pacienților cu scolioză
 
-    • net outlines de heart și cupole diafragmatice
+    • Contururi nete ale cordului și cupolelor diafragmatice
 
-    • Pulmonary vascular markings de la hilar regions la periphery de plămânii'
-  part_pos: '• se ajustează poziție de pacientul astfel încât plan mediosagital de
-    corp este paralel cu receptorul de imagine și adjacent umăr este touching
+    • Desenul vascular pulmonar, de la regiunile hilare până la periferia plămânilor'
+  part_pos: '• Se ajustează poziția pacientului astfel încât planul mediosagital al
+    corpului să fie paralel cu receptorul de imagine, iar umărul apropiat să atingă
+    dispozitivul cu grilă.
 
-    grila device.
+    • Se centrează toracele pe grilă; planul mediocoronal trebuie să fie perpendicular
+    pe grilă și centrat pe linia mediană a acesteia.
 
-    • se centrează thorax la grila; planul mediocoronal trebuie să fie perpendicular
-    și centrat pe linia mediană grilă.
+    • Se instruiește pacientul să întindă brațele direct în sus, să flecteze coatele
+    și, cu antebrațele sprijinite pe cap, să mențină brațele în poziție (Fig. 3.41).
 
-    • Se instruiește pacientul să se extinde brațe directly upward, se flectează coate,
-    și cu forearms resting pe capul, hold brațele în poziție
+    • Se plasează un stativ pentru perfuzii în fața pacientului instabil. Se instruiește
+    pacientul să întindă brațele și să apuce stativul cât mai sus posibil pentru sprijin.
 
-    (Fig. 3.41).
+    • Se ajustează înălțimea receptorului de imagine astfel încât marginea superioară
+    să fie la 1.5 până la 2 inci (3.8 până la 5 cm) deasupra umerilor.
 
-    • Place intravenous catheter stand în front de unsteady pacient. Se instruiește
-    pacientul să se extinde brațe și grasp stand ca high ca
+    • Se verifică din nou poziția corpului; planul mediosagital trebuie să fie vertical.
+    În funcție de lățimea umerilor, partea inferioară a toracelui și șoldurile pot
+    fi mai îndepărtate de receptorul de imagine, dar această poziție a corpului este
+    necesară pentru o incidență de profil strict. Înclinarea pacientului spre dispozitivul
+    cu grilă (scurtare în proiecție) produce distorsiunea tuturor structurilor toracice
+    (Fig. 3.42). Aplecarea înainte produce, de asemenea, distorsiunea contururilor
+    structurilor (Fig. 3.43).
 
-    possible pentru support.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Dacă este posibil, pacientul se examinează întotdeauna cu trunchiul
+    vertical, în ortostatism sau așezat pe scaun, astfel încât cupolele diafragmatice
+    să fie în poziția cea mai joasă și să se poată vizualiza aerul și nivelurile hidroaerice.
+    Se evită și congestia vaselor pulmonare.
 
-    • se ajustează height de receptorul de imagine astfel încât upper margine este
-    1.5 la 2 inches (3.8 la 5 cm) above umerii.
+    • Se rotește pacientul într-o poziție de profil strict, cu brațele pe lângă corp.
 
-    • Recheck poziție de corp; planul mediosagital trebuie să fie vertical. Depending
-    pe width de umerii, lower part de
+    • Pentru a evidenția cordul și plămânul stâng, se utilizează poziția de profil
+    stâng, cu partea stângă a pacientului sprijinită de receptorul de imagine.
 
-    thorax și hips poate fie greater distance de la receptorul de imagine, but this
-    corp poziție este necessary pentru true lateral incidență. Having pacient lean
-    pe / sprijinit de grilă device (foreshortening) results în distortion de toate
-    thoracic structures (Fig. 3.42). Forward bending also
+    • Se utilizează poziția de profil drept pentru a evidenția cel mai bine plămânul
+    drept.'
+  respiration: Inspir profund complet. Expunerea se efectuează după al doilea inspir
+    profund complet pentru a asigura expansiunea maximă a plămânilor.
+  sid: O SID minimă de 72 țoli (183 cm) este recomandată pentru a reduce magnifierea
+    cordului și a crește rezoluția spațială a structurilor toracice.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    results în distorted structural outlines (Fig. 3.43).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• If possible, always examine pacientul în ortostatism, either în
-    ortostatism sau așezat pe scaun, astfel încât cupole diafragmatice este la its
-    lowest poziție,
-
-    și air și nivele hidroaerice poate fie seen. Engorgement de pulmonary vessels
-    este also avoided.
-
-    • Turn pacientul la true poziție de profil (lateral), cu brațe prin sides.
-
-    • la show cordul și stâng lung, use stâng poziție de profil (lateral) cu pacientul’s
-    stâng side pe / sprijinit de receptorul de imagine.
-
-    • Use drept poziție de profil (lateral) la best show drept lung.'
-  respiration: Inspir profund complet. expunere este made after second Inspir profund
-    complet la ensure maximum expansion de plămânii.
-  sid: 'Minimum SID de 72 inches (183 cm) este recommended la decrease magnification
-    de cordul și increase spatial resolution de thoracic
-
-    structures.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    174–178'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 174–178'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch
-    (2.5 cm) beyond anterior și posterior shadows but fără more than 14 inches (35
-    cm). vertical dimension poate fie less pentru smaller pacienți. Place marker de
-    lateralitate (D/S) în collimated expunere field.
+  collimation: Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de contururile anterior și posterior, dar fără a depăși
+    14 inci (35 cm). Dimensiunea verticală poate fi mai mică la pacienții de talie
+    mică. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng (Merrill)
 ---
 # Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng (Merrill)
@@ -217,19 +212,20 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** If possible, always examine pacientul în ortostatism, either în ortostatism sau Poziție Șezândă, astfel încât cupole diafragmatice este la its lowest poziție, și air și nivele hidroaerice poate fie seen. Engorgement de pulmonary vessels este also avoided. Turn pacientul la true Incidență de Profil (lateral), cu brațe prin sides. la show cordul și stâng lung, use stâng Incidență de Profil (lateral) cu pacientul’s stâng side pe / sprijinit de receptorul de imagine. Use drept Incidență de Profil (lateral) la best show drept lung.; se ajustează poziție de pacientul astfel încât plan mediosagital de corp este paralel cu receptorul de imagine și adjacent Umăr este touching grila device. se centrează thorax la grila; planul mediocoronal trebuie să fie perpendicular și centrat pe linia mediană grilă. Se instruiește pacientul să se extinde brațe directly upward, se flectează coate, și cu forearms resting pe capul, hold brațele în poziție (Fig. 3.41). Place intravenous catheter stand în front de unsteady pacient. Se instruiește pacientul să se extinde brațe și grasp stand ca high ca possible pentru support. se ajustează height de receptorul de imagine astfel încât upper margine este 1.5 la 2 inches (3.8 la 5 cm) above umerii. Recheck poziție de corp; planul mediosagital trebuie să fie vertical. Depending pe width de umerii, lower part de thorax și hips poate fie greater distance de la receptorul de imagine, but this corp poziție este necessary pentru true Incidență de Profil (lateral). Having pacientul lean pe / sprijinit de grilă device (foreshortening) results în distortion de toate thoracic structures (Fig. 3.42). Forward bending also results în distorted structural outlines (Fig. 3.43). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe centrul receptorului de imagine. raza centrală enters pacientul pe planul mediocoronal la nivelul T7 sau la inferior aspect de Omoplat (Scapulă).
-    - **Distanță Focar-Film (DFF / SID):** Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures.
-    - **Comandă Respiratorie:** Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
+    - **Poziție Pacient:** Dacă este posibil, pacientul se examinează întotdeauna cu trunchiul vertical, în ortostatism sau așezat pe scaun, astfel încât cupolele diafragmatice să fie în poziția cea mai joasă și să se poată vizualiza aerul și nivelurile hidroaerice. Se evită și congestia vaselor pulmonare. Se rotește pacientul într-o poziție de profil strict, cu brațele pe lângă corp. Pentru a evidenția cordul și plămânul stâng, se utilizează poziția de profil stâng, cu partea stângă a pacientului sprijinită de receptorul de imagine. Se utilizează poziția de profil drept pentru a evidenția cel mai bine plămânul drept. Se ajustează poziția pacientului astfel încât planul mediosagital al corpului să fie paralel cu receptorul de imagine, iar umărul apropiat să atingă dispozitivul cu grilă. Se centrează toracele pe grilă; planul mediocoronal trebuie să fie perpendicular pe grilă și centrat pe linia mediană a acesteia. Se instruiește pacientul să întindă brațele direct în sus, să flecteze coatele și, cu antebrațele sprijinite pe cap, să mențină brațele în poziție (Fig. 3.41). Se plasează un stativ pentru perfuzii în fața pacientului instabil. Se instruiește pacientul să întindă brațele și să apuce stativul cât mai sus posibil pentru sprijin. Se ajustează înălțimea receptorului de imagine astfel încât marginea superioară să fie la 1.5 până la 2 inci (3.8 până la 5 cm) deasupra umerilor. Se verifică din nou poziția corpului; planul mediosagital trebuie să fie vertical. În funcție de lățimea umerilor, partea inferioară a toracelui și șoldurile pot fi mai îndepărtate de receptorul de imagine, dar această poziție a corpului este necesară pentru o incidență de profil strict. Înclinarea pacientului spre dispozitivul cu grilă (scurtare în proiecție) produce distorsiunea tuturor structurilor toracice (Fig. 3.42). Aplecarea înainte produce, de asemenea, distorsiunea contururilor structurilor (Fig. 3.43). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde în pacient în planul mediocoronal, la nivelul T7 sau al extremității inferioare a omoplatului (scapulei).
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.
+    - **Comandă Respiratorie:** Inspir profund complet. Expunerea se efectuează după al doilea inspir profund complet pentru a asigura expansiunea maximă a plămânilor.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -239,30 +235,30 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond anterior și posterior shadows but fără more than 14 inches (35 cm). vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și la 1 țol (2.5 cm) dincolo de contururile anterior și posterior, dar fără a depăși 14 inci (35 cm). Dimensiunea verticală poate fi mai mică la pacienții de talie mică. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - braț sau its soft tissues nu overlapping superior câmpuri pulmonare
-    - sinusuri costodiafragmatice și portions de pulmonary apexuri (vârfuri pulmonare) nu obscured prin brațele și umeri
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Brațul sau părțile moi ale acestuia nu se suprapun peste câmpurile pulmonare superioare
+    - Sinusurile costodiafragmatice și porțiuni ale apexurilor pulmonare (vârfurilor pulmonare) nu sunt mascate de brațe și umeri
     - Absența rotației anatomice (simetrie bilaterală perfectă)
-    - Hila în approximate center de radiografie
-    - Superimposition de Coaste (Grilaj Costal) posterior la coloană vertebrală
-    - Stern în profile
-    - Trachea vizibil în linia mediană
-    - axa longitudinală de câmpuri pulmonare vizualizat în vertical poziție, fără forward sau backward leaning
-    - Open thoracic intervertebral spații articulare și intervertebral foramina, except în pacienți cu scoliosis
-    - net outlines de heart și cupole diafragmatice
-    - Pulmonary vascular markings de la hilar regions la periphery de plămânii
+    - Hilurile situate aproximativ în centrul radiografiei
+    - Suprapunerea coastelor (grilajului costal) posterior de coloana vertebrală
+    - Sternul văzut din profil
+    - Traheea vizibilă pe linia mediană
+    - Axa longitudinală a câmpurilor pulmonare vizualizată în poziție verticală, fără înclinare înainte sau înapoi
+    - Spațiile articulare intervertebrale toracice și foramenele intervertebrale deschise, cu excepția pacienților cu scolioză
+    - Contururi nete ale cordului și cupolelor diafragmatice
+    - Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -271,6 +267,7 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -334,7 +331,7 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and increase spatial resolution of the thoracic structures.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -342,74 +339,3 @@ title: Rx Torace — Incidență de Profil (Lateral) — Profil Drept sau Stâng
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 174–178](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-preliminary stâng lateral chest poziție este used la show cordul, aorta, și stâng-sided pulmonary lesions (Figs. 3.44 și 3.45). drept
-lateral chest poziție este used la show drept-sided pulmonary lesions (Fig. 3.46). These lateral incidențe sunt used extensively la show interlobar fissures, la diferitiate lobes, și la localize pulmonary lesions.
-
-### collimation
-
-• Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond anterior și posterior shadows but fără more than
-14 inches (35 cm). vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe centrul receptorului de imagine. raza centrală enters pacientul pe planul mediocoronal la nivelul T7 sau la inferior aspect de
-scapula.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• braț sau its soft tissues nu overlapping superior câmpuri pulmonare
-• sinusuri costodiafragmatice și portions de pulmonary apexuri (vârfuri pulmonare) nu obscured prin brațele și umeri
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Hila în approximate center de radiografie
-• Superimposition de coaste posterior la coloană vertebrală
-• Sternum în profile
-• Trachea vizibil în linia mediană
-• axa longitudinală de câmpuri pulmonare vizualizat în vertical poziție, fără forward sau backward leaning
-• Open thoracic intervertebral spații articulare și intervertebral foramina, except în pacienți cu scoliosis
-• net outlines de heart și cupole diafragmatice
-• Pulmonary vascular markings de la hilar regions la periphery de plămânii
-
-### part_pos
-
-• se ajustează poziție de pacientul astfel încât plan mediosagital de corp este paralel cu receptorul de imagine și adjacent umăr este touching
-grila device.
-• se centrează thorax la grila; planul mediocoronal trebuie să fie perpendicular și centrat pe linia mediană grilă.
-• Se instruiește pacientul să se extinde brațe directly upward, se flectează coate, și cu forearms resting pe capul, hold brațele în poziție
-(Fig. 3.41).
-• Place intravenous catheter stand în front de unsteady pacient. Se instruiește pacientul să se extinde brațe și grasp stand ca high ca
-possible pentru support.
-• se ajustează height de receptorul de imagine astfel încât upper margine este 1.5 la 2 inches (3.8 la 5 cm) above umerii.
-• Recheck poziție de corp; planul mediosagital trebuie să fie vertical. Depending pe width de umerii, lower part de
-thorax și hips poate fie greater distance de la receptorul de imagine, but this corp poziție este necessary pentru true lateral incidență. Having pacient lean pe / sprijinit de grilă device (foreshortening) results în distortion de toate thoracic structures (Fig. 3.42). Forward bending also
-results în distorted structural outlines (Fig. 3.43).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• If possible, always examine pacientul în ortostatism, either în ortostatism sau așezat pe scaun, astfel încât cupole diafragmatice este la its lowest poziție,
-și air și nivele hidroaerice poate fie seen. Engorgement de pulmonary vessels este also avoided.
-• Turn pacientul la true poziție de profil (lateral), cu brațe prin sides.
-• la show cordul și stâng lung, use stâng poziție de profil (lateral) cu pacientul’s stâng side pe / sprijinit de receptorul de imagine.
-• Use drept poziție de profil (lateral) la best show drept lung.
-
-### respiration
-
-Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
-
-### sid
-
-Minimum SID de 72 inches (183 cm) este recommended la decrease magnification de cordul și increase spatial resolution de thoracic
-structures.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
-

@@ -1,13 +1,13 @@
 ---
 author: Referință Merrill
-breathing: When Tehnică de estompare prin respirație superficială (respirație technique)
-  este la fie used, Se instruiește pacientul să take slow, shallow breaths during
-  expunere. When short expunere time este la fie used, Se instruiește pacientul să
-  apnee (oprirea respirației) respirație la end de expiration la minimize visibility
-  de pulmonary vasculature.
+breathing: Când se utilizează tehnica de estompare prin respirație superficială, se
+  instruiește pacientul să respire lent și superficial în timpul expunerii. Când se
+  utilizează un timp scurt de expunere, se instruiește pacientul să țină apnee la
+  sfârșitul expirului pentru a minimiza vizibilitatea vascularizației pulmonare.
 category: torace
-centering: perpendicular pe receptorul de imagine. raza centrală enters ridicat side
-  de posterior thorax la nivelul T7 și approximately 1 inch (2.5 cm) lateral la MSP.
+centering: perpendiculară pe receptorul de imagine. Raza centrală intră prin partea
+  ridicată a toracelui posterior la nivelul T7 și la aproximativ 1 țol (2.5 cm) lateral
+  de MSP.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -17,127 +17,127 @@ images:
 - caption: Merrill — pagina 800, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill/p800_fig2.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: This poziție poate fie dificult la perform pe Traumatism / Regim Urgență pacienți.
-  Use ortostatism if possible. pentru Traumatism / Regim Urgență pacienți who sunt
-  Decubit și unable la lie Decubit ventral, obtain this incidență cu pacientul în
-  stâng posterior oblic (LPO) poziție, resulting în AP Incidență Oblică.
-position: cu pacientul Decubit ventral sau în ortostatism facing receptorul de imagine,
-  se ajustează corp into poziție oblică anterioară dreaptă (OAD / RAO) la use cordul
-  pentru contrast ca previously described. Se instruiește pacientul să support corp
-  pe Antebraț și flectat Genunchi, if Decubit.; se ajustează elevation de stâng Umăr
-  și Șold astfel încât thorax este rotit just enough la prevent superimposition de
-  vertebre și Stern. Estimate amount de rotație cu suficient accuracy prin placing
-  one Mână pe pacientul’s Stern și other Mână pe coloană toracală la act ca guides
-  while adjusting grade de obliquity. average rotație este approximately 15 la 20
-  grade (Fig. 10.15). se aliniază pacient’s corp astfel încât axa longitudinală de
-  Stern este centrat pe linia mediană grilă. Place top de receptorul de imagine approximately
-  1½ inches (3.8 cm) above incizură jugulară (furculiță sternală). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+notes: Această poziție poate fi dificil de efectuat la pacienții cu traumatism/în
+  regim de urgență. Se utilizează ortostatismul dacă este posibil. Pentru pacienții
+  cu traumatism/în regim de urgență care se află în decubit și nu pot sta în decubit
+  ventral, se obține această incidență cu pacientul în poziție oblică posterioară
+  stângă (LPO), rezultând o incidență oblică AP.
+position: Cu pacientul în decubit ventral sau în ortostatism, cu fața către receptorul
+  de imagine, se ajustează corpul în poziție oblică anterioară dreaptă (OAD / RAO),
+  utilizând cordul pentru contrast, conform descrierii anterioare. Se instruiește
+  pacientul să-și sprijine corpul pe antebraț și genunchiul flectat, dacă se află
+  în decubit.; se ajustează ridicarea umărului și șoldului stâng astfel încât toracele
+  să fie rotit doar atât cât este necesar pentru a preveni suprapunerea vertebrelor
+  și sternului. Se estimează gradul de rotație cu suficientă precizie prin plasarea
+  unei mâini pe sternul pacientului și a celeilalte pe coloana toracică, acestea servind
+  drept repere în timpul ajustării gradului de oblicitate. Rotația medie este de aproximativ
+  15 la 20 grade (Fig. 10.15). Se aliniază corpul pacientului astfel încât axa longitudinală
+  a sternului să fie centrată pe linia mediană a grilei. Se plasează partea superioară
+  a receptorului de imagine la aproximativ 1½ țoli (3.8 cm) deasupra incizurii jugulare
+  (furculiței sternale). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire Stern de la incizură jugulară (furculiță sternală) la tip de apendice xifoid
-- Stern projected over cordul, but liber de superimposition de la Coloană Toracală
-- 'Minimally rotit Stern și thorax, ca vizualizat prin following:'
-- Stern projected just liber de superimposition de la coloană vertebrală
-- Minimally obliqued vertebre la prevent excessive rotație de Stern
-- lateral portion de manubriu sternal și articulații sternoclaviculare liber de superimposition
-  prin vertebre
-- Blurred pulmonary markings, if Tehnică de estompare prin respirație superficială
-  (respirație technique) was used
-- Bony detalii trabeculare osoase și surrounding soft tissues
-sid_dff: A 30-inch (76-cm) SID is recommended to blur the posterior Coaste (Grilaj
-  Costal). See p. 28, Chapter 1, for information on use of a 30-inch (76-cm) SID.
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Sternul în întregime, de la incizura jugulară (furculița sternală) până la vârful
+  apendicelui xifoid
+- Sternul proiectat peste cord, dar liber de suprapunerea coloanei toracice
+- 'Sternul și toracele rotite minim, după cum se evidențiază prin următoarele:'
+- Sternul proiectat aproape liber de suprapunerea coloanei vertebrale
+- Vertebre ușor oblice pentru a preveni rotația excesivă a sternului
+- Porțiunea laterală a manubriului sternal și articulațiile sternoclaviculare libere
+  de suprapunerea vertebrelor
+- Desen pulmonar estompat, dacă s-a utilizat tehnica de estompare prin respirație
+  superficială
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
+sid_dff: Se recomandă o SID de 30 inci (76 cm), pentru a estompa coastele posterioare
+  (grilajul costal). Consultați p. 28, capitolul 1, pentru informații privind utilizarea
+  unei SID de 30 inci (76 cm).
 slug: rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-rao-position-p798-merrill
 source_pages:
 - 798
 - 799
 - 800
 source_sections:
-  anatomy: 'slightly oblic incidență de sternum (Fig. 10.16). detail depends largely
-    pe technical procedure used. If Tehnică de estompare prin respirație superficială
-    (respirație technique) este
-
-    used, pulmonary markings sunt obliterated.'
+  anatomy: incidență ușor oblică a sternului (Fig. 10.16). Detaliul depinde în mare
+    măsură de procedura tehnică utilizată. Dacă se utilizează tehnica de estompare
+    prin respirație superficială, desenul pulmonar este șters.
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe receptorul de imagine. raza centrală enters ridicat side
-    de posterior thorax la nivelul T7 și approximately 1 inch (2.5 cm) lateral
-
-    la MSP.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • perpendiculară pe receptorul de imagine. Raza centrală intră prin partea ridicată
+    a toracelui posterior la nivelul T7 și la aproximativ 1 țol (2.5 cm) lateral de
+    MSP.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar față de anatomia de interes
 
-    • Entire sternum de la incizură jugulară (furculiță sternală) la tip de apendice
-    xifoid
+    • Sternul în întregime, de la incizura jugulară (furculița sternală) până la vârful
+    apendicelui xifoid
 
-    • Sternum projected over cordul, but liber de superimposition de la thoracic coloană
-    vertebrală
+    • Sternul proiectat peste cord, dar liber de suprapunerea coloanei vertebrale
+    toracale
 
-    • Minimally rotit sternum și thorax, ca vizualizat prin following:
+    • Stern și torace rotite minim, după cum se observă prin următoarele:
 
-    • Sternum projected just liber de superimposition de la coloană vertebrală
+    • Sternul proiectat imediat liber de suprapunerea coloanei vertebrale
 
-    • Minimally obliqued vertebre la prevent excessive rotație de sternum
+    • Vertebre minim oblicitate pentru a preveni rotația excesivă a sternului
 
-    • lateral portion de manubriu sternal și articulații sternoclaviculare liber de
-    superimposition prin vertebre
+    • Porțiunea laterală a manubriului sternal și articulațiile sternoclaviculare
+    libere de suprapunerea vertebrelor
 
-    • Blurred pulmonary markings, if Tehnică de estompare prin respirație superficială
-    (respirație technique) was used
+    • Desen pulmonar estompat, dacă a fost utilizată tehnica de estompare prin respirație
+    superficială (tehnica respirației)
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'This poziție poate fie dificult la perform pe trauma pacienți. Use ortostatism
-    if possible.
+    • Detalii trabeculare osoase și țesuturile moi din jur'
+  notes: 'Această poziție poate fi dificil de efectuat la pacienții traumatizați.
+    Se utilizează ortostatismul dacă este posibil.
 
-    pentru trauma pacienți who sunt recumbent și unable la lie în decubit ventral,
-    obtain this incidență cu pacientul în stâng posterior oblic
+    Pentru pacienții traumatizați care sunt în decubit dorsal și nu pot sta în decubit
+    ventral, se obține această incidență cu pacientul în poziție oblică posterioară
+    stângă (LPO), rezultând o incidență oblică AP.'
+  part_pos: '• Se ajustează ridicarea umărului și șoldului stâng astfel încât toracele
+    să fie rotit suficient pentru a preveni suprapunerea vertebrelor și sternului.
 
-    (LPO) poziție, resulting în AP oblic incidență.'
-  part_pos: '• se ajustează elevation de stâng umăr și hip astfel încât thorax este
-    rotit just enough la prevent superimposition de vertebre
+    • Se estimează gradul de rotație cu suficientă precizie prin plasarea unei mâini
+    pe sternul pacientului și a celeilalte mâini pe coloana toracală, pentru a servi
+    drept ghid în timpul ajustării gradului de oblicitate. Rotația medie este de aproximativ
+    15 până la 20 de grade (Fig. 10.15).
 
-    și sternum.
+    • Se aliniază corpul pacientului astfel încât axa longitudinală a sternului să
+    fie centrată pe linia mediană a grilei.
 
-    • Estimate amount de rotație cu suficient accuracy prin placing one mână pe pacientul’s
-    sternum și other mână pe coloană toracală la act ca guides while adjusting grade
-    de obliquity. average rotație este approximately 15 la 20 grade (Fig.
+    • Se plasează partea superioară a receptorului de imagine la aproximativ 1½ țoli
+    (3.8 cm) deasupra incizurii jugulare (furculiței sternale).
 
-    10.15).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Cu pacientul în decubit ventral sau în ortostatism, cu fața spre
+    receptorul de imagine, se ajustează corpul în poziție oblică anterioară dreaptă
+    (OAD / RAO), utilizând cordul pentru contrast, după cum s-a descris anterior.
 
-    • se aliniază pacient’s corp astfel încât axa longitudinală de sternum este centrat
-    pe linia mediană grilă.
+    • Pacientul este instruit să-și susțină corpul pe antebraț și să-și flecteze genunchii,
+    dacă este în decubit.'
+  respiration: Când se utilizează tehnica de estompare prin respirație superficială,
+    se instruiește pacientul să respire lent și superficial în timpul expunerii. Când
+    se utilizează un timp scurt de expunere, se instruiește pacientul să țină apnee
+    la sfârșitul expirului pentru a minimiza vizibilitatea vascularizației pulmonare.
+  sid: Un SID de 30 țoli (76 cm) este recomandat pentru estomparea coastelor posterioare.
+    A se vedea p. 28, Capitolul 1, pentru informații privind utilizarea unui SID de
+    30 țoli (76 cm).
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    • Place top de receptorul de imagine approximately 1½ inches (3.8 cm) above incizură
-    jugulară (furculiță sternală).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• cu pacientul în decubit ventral sau în ortostatism facing receptorul
-    de imagine, se ajustează corp into poziție oblică anterioară dreaptă (OAD / RAO)
-    la use cordul pentru contrast ca previously
-
-    described.
-
-    • Se instruiește pacientul să support corp pe forearm și flectat genunchi, if
-    recumbent.'
-  respiration: When Tehnică de estompare prin respirație superficială (respirație
-    technique) este la fie used, Se instruiește pacientul să take slow, shallow breaths
-    during expunere. When short expunere time este la fie used, Se instruiește pacientul
-    să apnee (oprirea respirației) respirație la end de expiration la minimize visibility
-    de pulmonary vasculature.
-  sid: A 30-inch (76-cm) SID este recommended la blur posterior coaste. See p. 28,
-    Chapter 1, pentru information pe use de a 30-inch (76-cm) SID.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 10. Bony Thorax, pagini 798–800
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -145,10 +145,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblică Anterioară
-  Dreaptă (OAD / RAO) (Merrill)
+title: Rx grilaj costal și stern — oblică postero-anterioară (PA) — oblică anterioară
+  dreaptă (OAD / RAO) (Merrill)
 ---
-# Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblică Anterioară Dreaptă (OAD / RAO) (Merrill)
+# Rx grilaj costal și stern — oblică postero-anterioară (PA) — oblică anterioară dreaptă (OAD / RAO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -172,19 +172,20 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** cu pacientul Decubit ventral sau în ortostatism facing receptorul de imagine, se ajustează corp into poziție oblică anterioară dreaptă (OAD / RAO) la use cordul pentru contrast ca previously described. Se instruiește pacientul să support corp pe Antebraț și flectat Genunchi, if Decubit.; se ajustează elevation de stâng Umăr și Șold astfel încât thorax este rotit just enough la prevent superimposition de vertebre și Stern. Estimate amount de rotație cu suficient accuracy prin placing one Mână pe pacientul’s Stern și other Mână pe coloană toracală la act ca guides while adjusting grade de obliquity. average rotație este approximately 15 la 20 grade (Fig. 10.15). se aliniază pacient’s corp astfel încât axa longitudinală de Stern este centrat pe linia mediană grilă. Place top de receptorul de imagine approximately 1½ inches (3.8 cm) above incizură jugulară (furculiță sternală). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. raza centrală enters ridicat side de posterior thorax la nivelul T7 și approximately 1 inch (2.5 cm) lateral la MSP.
-    - **Distanță Focar-Film (DFF / SID):** A 30-inch (76-cm) SID is recommended to blur the posterior Coaste (Grilaj Costal). See p. 28, Chapter 1, for information on use of a 30-inch (76-cm) SID.
-    - **Comandă Respiratorie:** When Tehnică de estompare prin respirație superficială (respirație technique) este la fie used, Se instruiește pacientul să take slow, shallow breaths during expunere. When short expunere time este la fie used, Se instruiește pacientul să apnee (oprirea respirației) respirație la end de expiration la minimize visibility de pulmonary vasculature.
+    - **Poziție Pacient:** Cu pacientul în decubit ventral sau în ortostatism, cu fața către receptorul de imagine, se ajustează corpul în poziție oblică anterioară dreaptă (OAD / RAO), utilizând cordul pentru contrast, conform descrierii anterioare. Se instruiește pacientul să-și sprijine corpul pe antebraț și genunchiul flectat, dacă se află în decubit.; se ajustează ridicarea umărului și șoldului stâng astfel încât toracele să fie rotit doar atât cât este necesar pentru a preveni suprapunerea vertebrelor și sternului. Se estimează gradul de rotație cu suficientă precizie prin plasarea unei mâini pe sternul pacientului și a celeilalte pe coloana toracică, acestea servind drept repere în timpul ajustării gradului de oblicitate. Rotația medie este de aproximativ 15 la 20 grade (Fig. 10.15). Se aliniază corpul pacientului astfel încât axa longitudinală a sternului să fie centrată pe linia mediană a grilei. Se plasează partea superioară a receptorului de imagine la aproximativ 1½ țoli (3.8 cm) deasupra incizurii jugulare (furculiței sternale). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendiculară pe receptorul de imagine. Raza centrală intră prin partea ridicată a toracelui posterior la nivelul T7 și la aproximativ 1 țol (2.5 cm) lateral de MSP.
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID de 30 inci (76 cm), pentru a estompa coastele posterioare (grilajul costal). Consultați p. 28, capitolul 1, pentru informații privind utilizarea unei SID de 30 inci (76 cm).
+    - **Comandă Respiratorie:** Când se utilizează tehnica de estompare prin respirație superficială, se instruiește pacientul să respire lent și superficial în timpul expunerii. Când se utilizează un timp scurt de expunere, se instruiește pacientul să țină apnee la sfârșitul expirului pentru a minimiza vizibilitatea vascularizației pulmonare.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -194,7 +195,7 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | A 30-inch (76-cm) SID is recommended to blur the posterior Coaste (Grilaj Costal). See p. 28, Chapter 1, for information on use of a 30-inch (76-cm) SID. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID de 30 inci (76 cm), pentru a estompa coastele posterioare (grilajul costal). Consultați p. 28, capitolul 1, pentru informații privind utilizarea unei SID de 30 inci (76 cm). |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
@@ -205,16 +206,16 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Stern de la incizură jugulară (furculiță sternală) la tip de apendice xifoid
-    - Stern projected over cordul, but liber de superimposition de la Coloană Toracală
-    - Minimally rotit Stern și thorax, ca vizualizat prin following:
-    - Stern projected just liber de superimposition de la coloană vertebrală
-    - Minimally obliqued vertebre la prevent excessive rotație de Stern
-    - lateral portion de manubriu sternal și articulații sternoclaviculare liber de superimposition prin vertebre
-    - Blurred pulmonary markings, if Tehnică de estompare prin respirație superficială (respirație technique) was used
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Sternul în întregime, de la incizura jugulară (furculița sternală) până la vârful apendicelui xifoid
+    - Sternul proiectat peste cord, dar liber de suprapunerea coloanei toracice
+    - Sternul și toracele rotite minim, după cum se evidențiază prin următoarele:
+    - Sternul proiectat aproape liber de suprapunerea coloanei vertebrale
+    - Vertebre ușor oblice pentru a preveni rotația excesivă a sternului
+    - Porțiunea laterală a manubriului sternal și articulațiile sternoclaviculare libere de suprapunerea vertebrelor
+    - Desen pulmonar estompat, dacă s-a utilizat tehnica de estompare prin respirație superficială
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -224,8 +225,9 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    This poziție poate fie dificult la perform pe Traumatism / Regim Urgență pacienți. Use ortostatism if possible. pentru Traumatism / Regim Urgență pacienți who sunt Decubit și unable la lie Decubit ventral, obtain this incidență cu pacientul în stâng posterior oblic (LPO) poziție, resulting în AP Incidență Oblică.
+    Această poziție poate fi dificil de efectuat la pacienții cu traumatism/în regim de urgență. Se utilizează ortostatismul dacă este posibil. Pentru pacienții cu traumatism/în regim de urgență care se află în decubit și nu pot sta în decubit ventral, se obține această incidență cu pacientul în poziție oblică posterioară stângă (LPO), rezultând o incidență oblică AP.
 
 
 ### 🖼️ Imagini
@@ -254,7 +256,7 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (A 30-inch (76-cm) SID is recommended to blur the posterior Coaste (Grilaj Costal). See p. 28, Chapter 1, for information on use of a 30-inch (76-cm) SID.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID de 30 inci (76 cm), pentru a estompa coastele posterioare (grilajul costal). Consultați p. 28, capitolul 1, pentru informații privind utilizarea unei SID de 30 inci (76 cm).).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -262,68 +264,3 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Oblic
 ## Surse de documentare
 
 - [Merrill’s Atlas, 10. Bony Thorax, pagini 798–800](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-slightly oblic incidență de sternum (Fig. 10.16). detail depends largely pe technical procedure used. If Tehnică de estompare prin respirație superficială (respirație technique) este
-used, pulmonary markings sunt obliterated.
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe receptorul de imagine. raza centrală enters ridicat side de posterior thorax la nivelul T7 și approximately 1 inch (2.5 cm) lateral
-la MSP.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire sternum de la incizură jugulară (furculiță sternală) la tip de apendice xifoid
-• Sternum projected over cordul, but liber de superimposition de la thoracic coloană vertebrală
-• Minimally rotit sternum și thorax, ca vizualizat prin following:
-• Sternum projected just liber de superimposition de la coloană vertebrală
-• Minimally obliqued vertebre la prevent excessive rotație de sternum
-• lateral portion de manubriu sternal și articulații sternoclaviculare liber de superimposition prin vertebre
-• Blurred pulmonary markings, if Tehnică de estompare prin respirație superficială (respirație technique) was used
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-This poziție poate fie dificult la perform pe trauma pacienți. Use ortostatism if possible.
-pentru trauma pacienți who sunt recumbent și unable la lie în decubit ventral, obtain this incidență cu pacientul în stâng posterior oblic
-(LPO) poziție, resulting în AP oblic incidență.
-
-### part_pos
-
-• se ajustează elevation de stâng umăr și hip astfel încât thorax este rotit just enough la prevent superimposition de vertebre
-și sternum.
-• Estimate amount de rotație cu suficient accuracy prin placing one mână pe pacientul’s sternum și other mână pe coloană toracală la act ca guides while adjusting grade de obliquity. average rotație este approximately 15 la 20 grade (Fig.
-10.15).
-• se aliniază pacient’s corp astfel încât axa longitudinală de sternum este centrat pe linia mediană grilă.
-• Place top de receptorul de imagine approximately 1½ inches (3.8 cm) above incizură jugulară (furculiță sternală).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• cu pacientul în decubit ventral sau în ortostatism facing receptorul de imagine, se ajustează corp into poziție oblică anterioară dreaptă (OAD / RAO) la use cordul pentru contrast ca previously
-described.
-• Se instruiește pacientul să support corp pe forearm și flectat genunchi, if recumbent.
-
-### respiration
-
-When Tehnică de estompare prin respirație superficială (respirație technique) este la fie used, Se instruiește pacientul să take slow, shallow breaths during expunere. When short expunere time este la fie used, Se instruiește pacientul să apnee (oprirea respirației) respirație la end de expiration la minimize visibility de pulmonary vasculature.
-
-### sid
-
-A 30-inch (76-cm) SID este recommended la blur posterior coaste. See p. 28, Chapter 1, pentru information pe use de a 30-inch (76-cm) SID.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-

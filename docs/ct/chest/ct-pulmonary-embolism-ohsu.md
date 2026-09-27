@@ -14,6 +14,10 @@ contrast:
   timing: Bolus tracking în trunchiul arterei pulmonare, trigger 100 HU
   trigger: 100 HU
   volume: 60-75 mL
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 3 (Moderată 5 - 10 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 notes:
   additional_recons: MIP axial și coronal cu grosime de 5-10 mm pentru analiza ramurilor
@@ -102,10 +106,14 @@ title: CT Angiografie Pulmonară / TEP (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 5 - 10 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

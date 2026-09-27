@@ -2,38 +2,43 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Angle raza centrală 45° anteriorly și orientat through posterior surface
-  de flectat Gleznă (Articulație Talocrurală) Raza centrală se orientează spre emerge
-  la nivelul base de 5th metatarsal.
+centering: 'Unghiul razei centrale: 45° anterior și orientată prin suprafața posterioară
+  a gleznei (articulației talocrurale) flectate. Raza centrală este orientată astfel
+  încât să iasă la nivelul bazei celui de-al 5-lea metatarsian.'
 clinical_indications:
-- Pathologies sau suspiciune de fractură cu medial sau lateral displacement
-- Evaluate talocalcaneal coalition under weightbearing conditions4
+- Patologii sau suspiciune de fractură cu deplasare medială sau laterală
+- Evaluarea coaliției talocalcaneene în condiții de încărcare4
 images:
-- caption: Fig. 6.78 Dorsoplantar (axial) weight-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.78 Dorsoplantar
-    (axial) weight-)
+- caption: Fig. 6.78 Incidență dorsoplantară (axială) în încărcare-
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.78 Incidență
+    dorsoplantară (axială) în încărcare-)
   url: assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_1.jpeg
-- caption: Fig. 6.79 Dorsoplantar (axial) weight-
+- caption: Fig. 6.79 Incidență dorsoplantară (axială) în încărcare-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.79
-    Dorsoplantar (axial) weight-)
+    Incidență dorsoplantară (axială) în încărcare-)
   url: assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_2.jpeg
-- caption: Fig. 6.80 Dorsoplantar (axial) weight-
+- caption: Fig. 6.80 Incidență dorsoplantară (axială) în încărcare-
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.80
-    Dorsoplantar (axial) weight-)
+    Incidență dorsoplantară (axială) în încărcare-)
   url: assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_3.jpeg
 - caption: Figura 4
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Place pacient în ortostatism ortostatism cu weight plasat pe affected
-  Picior. Se instruiește pacientul să place opposite Picior one step forward și lean
-  forward ca far ca possible while still maintaining full contact de plantar surface
-  de affected Picior cu receptorul de imagine.; Regiune anatomică: se centrează receptorul
-  de imagine la axa longitudinală de Calcaneu cu posterior surface de heel la edge
-  de receptorul de imagine (Fig. 6.78)'
+position: 'Pacient: Se plasează pacientul în ortostatism, cu greutatea plasată pe
+  piciorul afectat. Pacientul este instruit să plaseze piciorul opus cu un pas înainte
+  și să se aplece înainte cât mai mult posibil, menținând în același timp contactul
+  complet al suprafeței plantare a piciorului afectat cu receptorul de imagine.; Regiune
+  anatomică: se centrează receptorul de imagine pe axa longitudinală a calcaneului,
+  cu suprafața posterioară a călcâiului la marginea receptorului de imagine (Fig.
+  6.78)'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -41,23 +46,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Calcaneu trebuie să fie visualized de la tuberosity posteriorly la talocalcaneal
-  articulație anteriorly ( Figs. 6.79 și 6.80). poziție:'
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase;
-  portion de sustentaculum tali trebuie să appear în profile medially.'
-- cu Picior în corect flexion, correct alignment și angulation de raza centrală sunt
-  evidenced prin open talocalcaneal spații articulare, fără distortion de calcaneal
-  tuberosity, și adecvat elongation de Calcaneu.
-- 'Collimation la aria de interes diagnostic. expunere:'
-- 'optim receptorul de imagine expunere și contrast cu fără mișcare la evidențiază
-  net bony margins și trabecular markings și la least faintly visualize talocalcaneal
-  articulație fără overexposing distal tuberosity area. L Fig. 6.79 Dorsoplantar (axial)
-  weightbearing incidență: calcaneusradiograph. (Adapted de la Rollins J, Long BW,
-  Curtis T, et al: Merrill’s atlas de radiographic positioning și procedures, ed 15,
-  St Louis, 2023, Elsevier.) lateral process Tuberosity Sustentaculum tali Trochlea
-  L Fig. 6.80 Dorsoplantar (axial) weightbearing incidență: calcaneusradiograph. (Adapted
-  de la Rollins J, Long BW, Curtis T, et al: Merrill’s atlas de radiographic positioning
-  și procedures, ed 15, St Louis, 2023, Elsevier.)'
+- 'Întregul calcaneu trebuie să fie vizualizat de la tuberozitatea posterioară până
+  la articulația talocalcaneană anterioară (Fig. 6.79 și 6.80). Poziție:'
+- 'Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase;
+  porțiunea de sustentaculum tali trebuie să apară în profil medial.'
+- Cu piciorul în flexie corectă, alinierea corectă și angulația razei centrale sunt
+  evidențiate prin spații articulare talocalcaneene deschise, fără deformarea tuberozității
+  calcaneene și cu alungirea adecvată a calcaneului.
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- 'Expunere și contrast optime ale receptorului de imagine, fără mișcare, pentru a
+  evidenția clar marginile osoase și marcajele trabeculare și pentru a vizualiza cel
+  puțin vag articulația talocalcaneană, fără supraexpunerea zonei tuberozității distale.
+  L Fig. 6.79 Incidență dorsoplantară (axială) în încărcare: radiografie a calcaneului.
+  (Adaptat după Rollins J, Long BW, Curtis T et al.: Merrill’s atlas de poziționare
+  și proceduri radiografice, ed. 15, St Louis, 2023, Elsevier.) Proces lateral; Tuberozitate;
+  Sustentaculum tali; Trohlee. L Fig. 6.80 Incidență dorsoplantară (axială) în încărcare:
+  radiografie a calcaneului. (Adaptat după Rollins J, Long BW, Curtis T et al.: Merrill’s
+  atlas de poziționare și proceduri radiografice, ed. 15, St Louis, 2023, Elsevier.)'
 sid_dff: 100 cm
 slug: rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager
 sources:
@@ -65,17 +70,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'Collimate closely la region de Calcaneu. Calcaneu SPECIAL Dorsoplantar
-    (axial) weightbearing Fig. 6.78 Dorsoplantar (axial) weightbearing incidență:
-    calcaneuspositioning.'
+  collimation: 'Se colimează strâns la nivelul regiunii calcaneului. Calcaneu SPECIAL
+    Dorsoplantară (axială) în încărcare Fig. 6.78 Incidență dorsoplantară (axială)
+    în încărcare: poziționarea calcaneului.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 65-75
   mas: DE CONFIGURAT PE APARAT
-title: Rx Calcaneu DORSOPLANTAR (AXIAL) În Încărcare (Ortostatism) Incidență
+title: Rx calcaneu — incidență DORSOPLANTARĂ (AXIALĂ) în ÎNCĂRCARE (ORTOSTATISM)
 ---
-# Rx Calcaneu DORSOPLANTAR (AXIAL) În Încărcare (Ortostatism) Incidență
+# Rx calcaneu — incidență DORSOPLANTARĂ (AXIALĂ) în ÎNCĂRCARE (ORTOSTATISM)
 
 
 <div class="rx-meta-bar">
@@ -94,23 +99,24 @@ title: Rx Calcaneu DORSOPLANTAR (AXIAL) În Încărcare (Ortostatism) Incidenț�
 
     === "Indicații Clinice"
 
-        - Pathologies sau suspiciune de fractură cu medial sau lateral displacement
-        - Evaluate talocalcaneal coalition under weightbearing conditions4
+        - Patologii sau suspiciune de fractură cu deplasare medială sau laterală
+        - Evaluarea coaliției talocalcaneene în condiții de încărcare4
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient în ortostatism ortostatism cu weight plasat pe affected Picior. Se instruiește pacientul să place opposite Picior one step forward și lean forward ca far ca possible while still maintaining full contact de plantar surface de affected Picior cu receptorul de imagine.; Regiune anatomică: se centrează receptorul de imagine la axa longitudinală de Calcaneu cu posterior surface de heel la edge de receptorul de imagine (Fig. 6.78)
-    - **Punct de Centrare Fascicul:** Angle raza centrală 45° anteriorly și orientat through posterior surface de flectat Gleznă (Articulație Talocrurală) Raza centrală se orientează spre emerge la nivelul base de 5th metatarsal.
+    - **Poziție Pacient:** Pacient: Se plasează pacientul în ortostatism, cu greutatea plasată pe piciorul afectat. Pacientul este instruit să plaseze piciorul opus cu un pas înainte și să se aplece înainte cât mai mult posibil, menținând în același timp contactul complet al suprafeței plantare a piciorului afectat cu receptorul de imagine.; Regiune anatomică: se centrează receptorul de imagine pe axa longitudinală a calcaneului, cu suprafața posterioară a călcâiului la marginea receptorului de imagine (Fig. 6.78)
+    - **Punct de Centrare Fascicul:** Unghiul razei centrale: 45° anterior și orientată prin suprafața posterioară a gleznei (articulației talocrurale) flectate. Raza centrală este orientată astfel încât să iasă la nivelul bazei celui de-al 5-lea metatarsian.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -126,18 +132,18 @@ title: Rx Calcaneu DORSOPLANTAR (AXIAL) În Încărcare (Ortostatism) Incidenț�
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate closely la region de Calcaneu. Calcaneu SPECIAL Dorsoplantar (axial) weightbearing Fig. 6.78 Dorsoplantar (axial) weightbearing incidență: calcaneuspositioning. |
+    | **Colimare Fascicul** | Se colimează strâns la nivelul regiunii calcaneului. Calcaneu SPECIAL Dorsoplantară (axială) în încărcare Fig. 6.78 Incidență dorsoplantară (axială) în încărcare: poziționarea calcaneului. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Calcaneu trebuie să fie visualized de la tuberosity posteriorly la talocalcaneal articulație anteriorly ( Figs. 6.79 și 6.80). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase; portion de sustentaculum tali trebuie să appear în profile medially.
-    - cu Picior în corect flexion, correct alignment și angulation de raza centrală sunt evidenced prin open talocalcaneal spații articulare, fără distortion de calcaneal tuberosity, și adecvat elongation de Calcaneu.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare la evidențiază net bony margins și trabecular markings și la least faintly visualize talocalcaneal articulație fără overexposing distal tuberosity area. L Fig. 6.79 Dorsoplantar (axial) weightbearing incidență: calcaneusradiograph. (Adapted de la Rollins J, Long BW, Curtis T, et al: Merrill’s atlas de radiographic positioning și procedures, ed 15, St Louis, 2023, Elsevier.) lateral process Tuberosity Sustentaculum tali Trochlea L Fig. 6.80 Dorsoplantar (axial) weightbearing incidență: calcaneusradiograph. (Adapted de la Rollins J, Long BW, Curtis T, et al: Merrill’s atlas de radiographic positioning și procedures, ed 15, St Louis, 2023, Elsevier.)
+    - Întregul calcaneu trebuie să fie vizualizat de la tuberozitatea posterioară până la articulația talocalcaneană anterioară (Fig. 6.79 și 6.80). Poziție:
+    - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase; porțiunea de sustentaculum tali trebuie să apară în profil medial.
+    - Cu piciorul în flexie corectă, alinierea corectă și angulația razei centrale sunt evidențiate prin spații articulare talocalcaneene deschise, fără deformarea tuberozității calcaneene și cu alungirea adecvată a calcaneului.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunere și contrast optime ale receptorului de imagine, fără mișcare, pentru a evidenția clar marginile osoase și marcajele trabeculare și pentru a vizualiza cel puțin vag articulația talocalcaneană, fără supraexpunerea zonei tuberozității distale. L Fig. 6.79 Incidență dorsoplantară (axială) în încărcare: radiografie a calcaneului. (Adaptat după Rollins J, Long BW, Curtis T et al.: Merrill’s atlas de poziționare și proceduri radiografice, ed. 15, St Louis, 2023, Elsevier.) Proces lateral; Tuberozitate; Sustentaculum tali; Trohlee. L Fig. 6.80 Incidență dorsoplantară (axială) în încărcare: radiografie a calcaneului. (Adaptat după Rollins J, Long BW, Curtis T et al.: Merrill’s atlas de poziționare și proceduri radiografice, ed. 15, St Louis, 2023, Elsevier.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,25 +163,25 @@ title: Rx Calcaneu DORSOPLANTAR (AXIAL) În Încărcare (Ortostatism) Incidenț�
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.78 Dorsoplantar (axial) weight-](../../assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_1.jpeg)
+![Fig. 6.78 Incidență dorsoplantară (axială) în încărcare-](../../assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.78 Dorsoplantar (axial) weight-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.78 Dorsoplantar (axial) weight-)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.79 Dorsoplantar (axial) weight-](../../assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.79 Dorsoplantar (axial) weight-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.79 Dorsoplantar (axial) weight-)</span></figcaption>
+<figcaption><strong>Fig. 6.78 Incidență dorsoplantară (axială) în încărcare-</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.78 Incidență dorsoplantară (axială) în încărcare-)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.80 Dorsoplantar (axial) weight-](../../assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_3.jpeg)
+![Fig. 6.79 Incidență dorsoplantară (axială) în încărcare-](../../assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.80 Dorsoplantar (axial) weight-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.80 Dorsoplantar (axial) weight-)</span></figcaption>
+<figcaption><strong>Fig. 6.79 Incidență dorsoplantară (axială) în încărcare-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.79 Incidență dorsoplantară (axială) în încărcare-)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.80 Incidență dorsoplantară (axială) în încărcare-](../../assets/images/protocols/bontrager/rx-calcaneu-dorsoplantar-axial-in-incarcare-ortostatism-projection-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.80 Incidență dorsoplantară (axială) în încărcare-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.80 Incidență dorsoplantară (axială) în încărcare-)</span></figcaption>
 
 </figure>
 

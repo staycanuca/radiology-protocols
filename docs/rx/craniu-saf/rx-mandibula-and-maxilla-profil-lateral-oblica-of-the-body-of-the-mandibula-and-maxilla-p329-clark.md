@@ -48,6 +48,10 @@ clinical_indications:
 - Raza centrală este perpendiculară pe filmul radiologic, dar oblică față de planul
   mediosagital.
 images: []
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -136,28 +140,30 @@ title: Radiografie oblică de profil a mandibulei și maxilei
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical.
-• Se utilizează o casetă de 13 × 18 cm, cu marker de film radiologic detașabil atașat, pentru a indica partea mandibulei care urmează să fie reprezentată.
-• Caseta este poziționată pe obrazul pacientului / sprijinită de obrazul pacientului, deasupra regiunii mandibulei examinate, cu marginea inferioară paralelă cu marginea inferioară a mandibulei, dar situată la cel puțin 2 cm sub aceasta.
-• Poziționarea realizează un unghi de separare de 10 grade între planul mediosagital și filmul radiologic.
-• Pacientul este instruit să stabilizeze caseta în această poziție.
-• Capul pacientului este rotit spre partea de interes. Această poziție deplasează ramura ascendentă contralaterală înainte și mărește spațiul dintre gât și umăr pentru a permite poziționarea tubului de raze X.
-• Bărbia este ridicată ușor pentru a mări spațiul dintre aspectul posterior al mandibulei și coloana vertebrală cervicală.
-• Pacientului i se cere să proiecteze mandibula înainte.
-    - **Punct de Centrare Fascicul:** • se orientează raza centrală spre un punct situat la 2 cm sub și posterior de unghiul părții contralaterale a mandibulei (a se vedea figura).
-• Poziționarea tubului depinde de regiunea de interes clinic, de exemplu:
-– regiunea molarului trei pentru evaluarea poziției molarilor trei și a unei posibile patologii în această regiune; – regiunea premolară pentru evaluarea dentiției în dezvoltare; – regiunea caninului inferior dacă există dovezi de suspiciune de fractură mandibulară sau de altă patologie.
-• alegerea angulației fasciculului variază între 10 grade în sus și 10 grade în jos (a se vedea p. 315).
-• raza centrală este perpendiculară pe planul filmului radiologic.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical.
+        - Se utilizează o casetă de 13 × 18 cm, cu marker de film radiologic detașabil atașat, pentru a indica partea mandibulei care urmează să fie reprezentată.
+        - Caseta este poziționată pe obrazul pacientului / sprijinită de obrazul pacientului, deasupra regiunii mandibulei examinate, cu marginea inferioară paralelă cu marginea inferioară a mandibulei, dar situată la cel puțin 2 cm sub aceasta.
+        - Poziționarea realizează un unghi de separare de 10 grade între planul mediosagital și filmul radiologic.
+        - Pacientul este instruit să stabilizeze caseta în această poziție.
+        - Capul pacientului este rotit spre partea de interes. Această poziție deplasează ramura ascendentă contralaterală înainte și mărește spațiul dintre gât și umăr pentru a permite poziționarea tubului de raze X.
+        - Bărbia este ridicată ușor pentru a mări spațiul dintre aspectul posterior al mandibulei și coloana vertebrală cervicală.
+        - Pacientului i se cere să proiecteze mandibula înainte.
+    - **Punct de Centrare Fascicul:**
+        - se orientează raza centrală spre un punct situat la 2 cm sub și posterior de unghiul părții contralaterale a mandibulei (a se vedea figura).
+        - Poziționarea tubului depinde de regiunea de interes clinic, de exemplu: – regiunea molarului trei pentru evaluarea poziției molarilor trei și a unei posibile patologii în această regiune; – regiunea premolară pentru evaluarea dentiției în dezvoltare; – regiunea caninului inferior dacă există dovezi de suspiciune de fractură mandibulară sau de altă patologie.
+        - alegerea angulației fasciculului variază între 10 grade în sus și 10 grade în jos (a se vedea p. 315).
+        - raza centrală este perpendiculară pe planul filmului radiologic.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -193,6 +199,7 @@ title: Radiografie oblică de profil a mandibulei și maxilei
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

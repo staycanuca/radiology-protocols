@@ -25,6 +25,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.76
     AP „mandibulă oscilantă”.)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-ap-wagging-jaw-projection-ottonello-method-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Exersați cu pacientul înainte de expunere pentru a vă asigura că numai mandibula
@@ -104,11 +108,12 @@ title: Rx Coloană Cervicală AP „MANDIBULĂ OSCILANTĂ” (METODA OTTONELLO)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -152,6 +157,7 @@ title: Rx Coloană Cervicală AP „MANDIBULĂ OSCILANTĂ” (METODA OTTONELLO)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Exersați cu pacientul înainte de expunere pentru a vă asigura că numai mandibula se mișcă continuu și că dinții nu intră în contact. 24 R fără AEC din cauza expunerii lungi Coloană Cervicală SPECIALĂ Laterală cervicotoracică (Swimmer) laterală—hiperflexie și hiperextensie AP (metoda Fuchs), PA (metoda Judd) AP în mișcare sau „mandibulă oscilantă” (metoda Ottonello) Fig. 8.73 Poziție pentru AP „mandibulă oscilantă”. Fig. 8.74 AP „mandibulă oscilantă”.

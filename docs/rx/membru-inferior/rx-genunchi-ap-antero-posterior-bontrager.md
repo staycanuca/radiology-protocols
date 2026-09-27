@@ -2,46 +2,53 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: Align raza centrală paralel la articular facets (platou tibial); pentru
-  averagesized pacient, raza centrală este perpendicular pe receptorul de imagine
-  (see NOTE). Raza centrală se orientează spre point ½ inch (1.25 cm) distal la apex
-  de Rotulă (Patelă).
+centering: Aliniați raza centrală paralel cu fațetele articulare (platoul tibial);
+  pentru un pacient de talie medie, raza centrală este perpendiculară pe receptorul
+  de imagine (consultați NOTA). Raza centrală este orientată spre un punct situat
+  la ½ țol (1.25 cm) distal față de apexul rotulei (patela).
 clinical_indications:
-- suspiciune de fractură, lesions, sau bony changes related la degenerative articulație
-  disease involving distal Femur, proximal tibia și fibula, Rotulă (Patelă), și Genunchi
-  articulație
+- suspiciune de fractură, leziuni sau modificări osoase asociate bolii articulare
+  degenerative care implică femurul distal, tibia și fibula proximale, rotula (patela)
+  și articulația genunchiului
 images:
-- caption: Fig. 6.103 AP Genunchi—Raza centrală (RC) perpendiculară pe receptorul
-    de imagine (average pacient—19 la
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.103 AP genunchi—raza
-    centrală perpendicular pe receptorul de imagine (average pacient—19 la)
+- caption: Fig. 6.103 Genunchi AP—raza centrală (RC) perpendiculară pe receptorul
+    de imagine (pacient mediu—19 la
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.103 genunchi
+    AP—raza centrală perpendiculară pe receptorul de imagine (pacient mediu—19 la)
   url: assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 6.104 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 6.104 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz,
+    DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.104
-    AP genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.))
+    genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_2.jpeg
-- caption: Fig. 6.105 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.)
+- caption: Fig. 6.105 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz,
+    DO.)
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.105
-    AP genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.))
+    genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.))
   url: assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: 'suggested guideline pentru determining that raza centrală este paralel la
-  articular facets (platou tibial) pentru open spații articulare este la measure distance
-  de la anterior superior iliac spines (spină iliacă antero-superioară (SIAS)) la
-  tabletop la determine raza centrală angle ca follows6: <19 cm: 5° caudal (thin thighs
-  și buttocks) 19 la 24 cm: 0° angle (average thighs și buttocks) >24 cm: 5° cranial
-  (thick thighs și buttocks) Genunchi ROUTINE AP oblic (medial și lateral) lateral
-  Fig. 6.103 AP Genunchi—Raza centrală (RC) perpendiculară pe receptorul de imagine
-  (average pacient—19 la 24 cm).'
-position: 'Pacient: Place pacient în Decubit dorsal poziție cu Absența rotației anatomice:
-  clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis));
-  provide pillow pentru pacient’s cap; membru inferior trebuie să fie fully extins.;
-  Regiune anatomică: Align și center membru inferior și Genunchi la raza centrală
-  și la linia mediană mesei sau receptorul de imagine (Fig. 6.103). Rotate membru
-  inferior internally 3° la 5° pentru true AP Genunchi (sau until interepicondylar
-  line este paralel la plane de receptorul de imagine). Place săculeți cu nisip prin
-  Picior și Gleznă (Articulație Talocrurală) la stabilize if needed.'
+notes: 'Ghidul sugerat pentru determinarea faptului că raza centrală este paralelă
+  cu fațetele articulare (platoul tibial), pentru spații articulare deschise, constă
+  în măsurarea distanței de la spinele iliace anterosuperioare (SIAS) la masa radiologică,
+  pentru determinarea unghiului razei centrale, după cum urmează6: <19 cm: 5° caudal
+  (coapse și fese subțiri) 19 la 24 cm: unghi de 0° (coapse și fese medii) >24 cm:
+  5° cranial (coapse și fese groase) Genunchi INCIDENȚĂ AP DE RUTINĂ oblică (medială
+  și laterală) laterală Fig. 6.103 AP genunchi — raza centrală (RC) perpendiculară
+  pe receptorul de imagine (pacient mediu — 19 la 24 cm).'
+position: 'Pacient: Așezați pacientul în decubit dorsal, cu absența rotației anatomice:
+  claviculele echidistante față de linia apofizelor spinoase ale bazinului (bazin
+  (pelvis)); asigurați o pernă pentru capul pacientului; membrul inferior trebuie
+  să fie complet extins.; Regiune anatomică: Aliniați și centrați membrul inferior
+  și genunchiul la raza centrală și la linia mediană a mesei sau a receptorului de
+  imagine (Fig. 6.103). Rotiți intern membrul inferior cu 3° la 5° pentru un genunchi
+  AP adevărat (sau până când linia interepicondiliană este paralelă cu planul receptorului
+  de imagine). Așezați săculeți cu nisip peste picior și gleznă (articulația talocrurală)
+  pentru stabilizare, dacă este necesar.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -49,25 +56,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- distal Femur și proximal tibia și fibula sunt vizualizat.
-- 'Femorotibial spații articulare trebuie să fie open, cu articular facets de tibia
-  seen pe end cu only minimal surface area visualized (Figs. 6.104 și 6.105). poziție:'
+- Femurul distal și tibia și fibula proximale sunt vizualizate.
+- 'Spațiile articulare femorotibiale trebuie să fie deschise, cu fațetele articulare
+  ale tibiei vizibile la extremitate, cu doar o suprafață minimă vizualizată (Fig.
+  6.104 și 6.105). Poziție:'
 - 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase,
-  ca evidenced prin simetric appearance de femoral și tibial condyles și spații articulare.'
-- approximate medial half de cap peronier (fibular) trebuie să fie superimposed prin
-  tibia.
-- intercondylar eminence este seen în center de intercondylar fossa.
-- 'Center de collimation field (raza centrală) trebuie să fie la midknee spații articulare.
-  expunere:'
-- optim receptorul de imagine expunere și contrast visualizes outline de Rotulă (Patelă)
-  through distal Femur, și cap peronier (fibular) și neck do nu appear overexposed.
-- fără mișcare trebuie să occur; trabecular markings de toate bones trebuie să fie
-  vizibil și appear net.
-- părți moi detail trebuie să fie vizibil. Fig. 6.104 AP Genunchi—0° raza centrală.
-  (Courtesy Joss Wertz, DO.) epicondil lateral epicondil medial (epitrohlee) Rotulă
-  (Patelă) cap de fibula Tibia Femorotibial spații articulare Articular facets (platou
-  tibial) medial condyle lateral condyle Fig. 6.105 AP Genunchi—0° raza centrală.
-  (Courtesy Joss Wertz, DO.)
+  evidențiată prin aspectul simetric al condililor femurali și tibiali și al spațiilor
+  articulare.'
+- Aproximativ jumătatea medială a capului peronier (fibular) trebuie să fie suprapusă
+  de tibie.
+- Eminența intercondiliană este vizibilă în centrul fosei intercondiliene.
+- 'Centrul câmpului de colimare (raza centrală) trebuie să fie la nivelul spațiilor
+  articulare ale genunchiului. Expunere:'
+- Expunerea optimă a receptorului de imagine și contrastul vizualizează conturul rotulei
+  (patelă) prin femurul distal, iar capul și colul peronier (fibular) nu apar supraexpuse.
+- Nu trebuie să apară mișcare; desenul trabecular al tuturor oaselor trebuie să fie
+  vizibil și să apară clar.
+- Detaliile părților moi trebuie să fie vizibile. Fig. 6.104 Genunchi AP—raza centrală
+  0°. (Cu amabilitatea lui Joss Wertz, DO.) Epicondil lateral; epicondil medial (epitrohlee);
+  rotulă (patelă); capul fibulei; tibie; spațiile articulare femorotibiale; fațete
+  articulare (platou tibial); condil medial; condil lateral. Fig. 6.105 Genunchi AP—raza
+  centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.)
 sid_dff: 100 cm
 slug: rx-genunchi-ap-antero-posterior-bontrager
 sources:
@@ -75,16 +84,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Collimate pe ambele părți (bilateral) la skin margins la ends la receptorul
-    de imagine margini.
+  collimation: Colimați pe ambele părți până la marginile cutanate, la capetele marginilor
+    receptorului de imagine.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 65-80
   mas: DE CONFIGURAT PE APARAT
-title: Rx Genunchi AP (Antero-Posterior)
+title: Rx genunchi AP (anteroposterior)
 ---
-# Rx Genunchi AP (Antero-Posterior)
+# Rx genunchi AP (anteroposterior)
 
 
 <div class="rx-meta-bar">
@@ -103,22 +112,23 @@ title: Rx Genunchi AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură, lesions, sau bony changes related la degenerative articulație disease involving distal Femur, proximal tibia și fibula, Rotulă (Patelă), și Genunchi articulație
+        - suspiciune de fractură, leziuni sau modificări osoase asociate bolii articulare degenerative care implică femurul distal, tibia și fibula proximale, rotula (patela) și articulația genunchiului
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient în Decubit dorsal poziție cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase de Bazin (bazin (pelvis)); provide pillow pentru pacient’s cap; membru inferior trebuie să fie fully extins.; Regiune anatomică: Align și center membru inferior și Genunchi la raza centrală și la linia mediană mesei sau receptorul de imagine (Fig. 6.103). Rotate membru inferior internally 3° la 5° pentru true AP Genunchi (sau until interepicondylar line este paralel la plane de receptorul de imagine). Place săculeți cu nisip prin Picior și Gleznă (Articulație Talocrurală) la stabilize if needed.
-    - **Punct de Centrare Fascicul:** Align raza centrală paralel la articular facets (platou tibial); pentru averagesized pacient, raza centrală este perpendicular pe receptorul de imagine (see NOTE). Raza centrală se orientează spre point ½ inch (1.25 cm) distal la apex de Rotulă (Patelă).
+    - **Poziție Pacient:** Pacient: Așezați pacientul în decubit dorsal, cu absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase ale bazinului (bazin (pelvis)); asigurați o pernă pentru capul pacientului; membrul inferior trebuie să fie complet extins.; Regiune anatomică: Aliniați și centrați membrul inferior și genunchiul la raza centrală și la linia mediană a mesei sau a receptorului de imagine (Fig. 6.103). Rotiți intern membrul inferior cu 3° la 5° pentru un genunchi AP adevărat (sau până când linia interepicondiliană este paralelă cu planul receptorului de imagine). Așezați săculeți cu nisip peste picior și gleznă (articulația talocrurală) pentru stabilizare, dacă este necesar.
+    - **Punct de Centrare Fascicul:** Aliniați raza centrală paralel cu fațetele articulare (platoul tibial); pentru un pacient de talie medie, raza centrală este perpendiculară pe receptorul de imagine (consultați NOTA). Raza centrală este orientată spre un punct situat la ½ țol (1.25 cm) distal față de apexul rotulei (patela).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -134,22 +144,22 @@ title: Rx Genunchi AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Collimate pe ambele părți (bilateral) la skin margins la ends la receptorul de imagine margini. |
+    | **Colimare Fascicul** | Colimați pe ambele părți până la marginile cutanate, la capetele marginilor receptorului de imagine. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal Femur și proximal tibia și fibula sunt vizualizat.
-    - Femorotibial spații articulare trebuie să fie open, cu articular facets de tibia seen pe end cu only minimal surface area visualized (Figs. 6.104 și 6.105). poziție:
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, ca evidenced prin simetric appearance de femoral și tibial condyles și spații articulare.
-    - approximate medial half de cap peronier (fibular) trebuie să fie superimposed prin tibia.
-    - intercondylar eminence este seen în center de intercondylar fossa.
-    - Center de collimation field (raza centrală) trebuie să fie la midknee spații articulare. expunere:
-    - optim receptorul de imagine expunere și contrast visualizes outline de Rotulă (Patelă) through distal Femur, și cap peronier (fibular) și neck do nu appear overexposed.
-    - fără mișcare trebuie să occur; trabecular markings de toate bones trebuie să fie vizibil și appear net.
-    - părți moi detail trebuie să fie vizibil. Fig. 6.104 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.) epicondil lateral epicondil medial (epitrohlee) Rotulă (Patelă) cap de fibula Tibia Femorotibial spații articulare Articular facets (platou tibial) medial condyle lateral condyle Fig. 6.105 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.)
+    - Femurul distal și tibia și fibula proximale sunt vizualizate.
+    - Spațiile articulare femorotibiale trebuie să fie deschise, cu fațetele articulare ale tibiei vizibile la extremitate, cu doar o suprafață minimă vizualizată (Fig. 6.104 și 6.105). Poziție:
+    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, evidențiată prin aspectul simetric al condililor femurali și tibiali și al spațiilor articulare.
+    - Aproximativ jumătatea medială a capului peronier (fibular) trebuie să fie suprapusă de tibie.
+    - Eminența intercondiliană este vizibilă în centrul fosei intercondiliene.
+    - Centrul câmpului de colimare (raza centrală) trebuie să fie la nivelul spațiilor articulare ale genunchiului. Expunere:
+    - Expunerea optimă a receptorului de imagine și contrastul vizualizează conturul rotulei (patelă) prin femurul distal, iar capul și colul peronier (fibular) nu apar supraexpuse.
+    - Nu trebuie să apară mișcare; desenul trabecular al tuturor oaselor trebuie să fie vizibil și să apară clar.
+    - Detaliile părților moi trebuie să fie vizibile. Fig. 6.104 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.) Epicondil lateral; epicondil medial (epitrohlee); rotulă (patelă); capul fibulei; tibie; spațiile articulare femorotibiale; fațete articulare (platou tibial); condil medial; condil lateral. Fig. 6.105 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -161,8 +171,9 @@ title: Rx Genunchi AP (Antero-Posterior)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    suggested guideline pentru determining that raza centrală este paralel la articular facets (platou tibial) pentru open spații articulare este la measure distance de la anterior superior iliac spines (spină iliacă antero-superioară (SIAS)) la tabletop la determine raza centrală angle ca follows6: <19 cm: 5° caudal (thin thighs și buttocks) 19 la 24 cm: 0° angle (average thighs și buttocks) >24 cm: 5° cranial (thick thighs și buttocks) Genunchi ROUTINE AP oblic (medial și lateral) lateral Fig. 6.103 AP Genunchi—Raza centrală (RC) perpendiculară pe receptorul de imagine (average pacient—19 la 24 cm).
+    Ghidul sugerat pentru determinarea faptului că raza centrală este paralelă cu fațetele articulare (platoul tibial), pentru spații articulare deschise, constă în măsurarea distanței de la spinele iliace anterosuperioare (SIAS) la masa radiologică, pentru determinarea unghiului razei centrale, după cum urmează6: <19 cm: 5° caudal (coapse și fese subțiri) 19 la 24 cm: unghi de 0° (coapse și fese medii) >24 cm: 5° cranial (coapse și fese groase) Genunchi INCIDENȚĂ AP DE RUTINĂ oblică (medială și laterală) laterală Fig. 6.103 AP genunchi — raza centrală (RC) perpendiculară pe receptorul de imagine (pacient mediu — 19 la 24 cm).
 
 
 ### 🖼️ Imagini
@@ -171,25 +182,25 @@ title: Rx Genunchi AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.103 AP Genunchi—Raza centrală (RC) perpendiculară pe receptorul de imagine (average pacient—19 la](../../assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 6.103 Genunchi AP—raza centrală (RC) perpendiculară pe receptorul de imagine (pacient mediu—19 la](../../assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.103 AP Genunchi—Raza centrală (RC) perpendiculară pe receptorul de imagine (average pacient—19 la</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.103 AP genunchi—raza centrală perpendicular pe receptorul de imagine (average pacient—19 la)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.104 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.104 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.104 AP genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 6.103 Genunchi AP—raza centrală (RC) perpendiculară pe receptorul de imagine (pacient mediu—19 la</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.103 genunchi AP—raza centrală perpendiculară pe receptorul de imagine (pacient mediu—19 la)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.105 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_3.jpeg)
+![Fig. 6.104 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.105 AP Genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.105 AP genunchi—0° raza centrală. (Courtesy Joss Wertz, DO.))</span></figcaption>
+<figcaption><strong>Fig. 6.104 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.104 genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.))</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.105 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.)](../../assets/images/protocols/bontrager/rx-genunchi-ap-antero-posterior-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.105 Genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.)</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.105 genunchi AP—raza centrală 0°. (Cu amabilitatea lui Joss Wertz, DO.))</span></figcaption>
 
 </figure>
 

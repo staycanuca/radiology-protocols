@@ -43,6 +43,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-antero-posterior-decubit-dorsal-p373-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Radiografiile pot fi efectuate utilizând o tehnică cu kVp ridicat pentru
@@ -118,21 +122,22 @@ title: Rx Abdomen Antero-Posterior (AP) - Decubit Dorsal
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Cu pacientul în decubit dorsal, caseta cu grilă antidifuzoare este poziționată cu grijă sub abdomen. Pacientul poate fi ridicat utilizând o tehnică de ridicare bine exersată și sigură, în timp ce caseta este strecurată sub el. Trebuie avut grijă să nu se provoace durere pacientului prin forțarea casetei în poziție sau prin utilizarea unei casete reci, care ar putea provoca un șoc pacientului.
-• Caseta cu grilă antidifuzoare trebuie poziționată astfel încât să includă simfiza pubiană la marginea inferioară a imaginii. Caseta trebuie, de asemenea, să fie în poziție orizontală pe pat și să nu fie înclinată. Dacă nu este așezată orizontal, grila poate atenua fasciculul de radiații, ceea ce poate crea aspectul unei leziuni cu radioopacitate crescută, precum o masă intraabdominală, din cauza scăderii densității optice a imaginii.
-    - **Punct de Centrare Fascicul:** • Se orientează raza centrală perpendicular pe casetă, pe linia mediană, la nivelul crestelor iliace.
-• Expunerea se efectuează în apnee la sfârșitul expirului complet.
-358 Radiografie de abdomen cu aparat mobil, în decubit dorsal, evidențiind ocluzie intestinală la nivelul intestinului subțire (nivele hidroaerice centrale).
-Se observă, de asemenea, un stent ureteral drept cu capăt în buclă, deoarece pacientul avea carcinom cu celule tranziționale al vezicii urinare. Radiografie de abdomen cu aparat mobil, în decubit dorsal, evidențiind obstrucție colonică distală. Distensie gazoasă. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Pneumoperitoneu (aer liber subdiafragmatic) în cavitatea peritoneală. Torace în incidență antero-posterioară (AP), pacient în ortostatism. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Incidență antero-posterioară (AP)/postero-anterioară în decubit lateral stâng. Nivele hidroaerice. Abdomen în incidență antero-posterioară (AP), pacient în ortostatism. Corp străin radiopac. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Anevrism aortic. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Incidență de profil (decubit dorsal).
+    - **Poziție Pacient:**
+        - Cu pacientul în decubit dorsal, caseta cu grilă antidifuzoare este poziționată cu grijă sub abdomen. Pacientul poate fi ridicat utilizând o tehnică de ridicare bine exersată și sigură, în timp ce caseta este strecurată sub el. Trebuie avut grijă să nu se provoace durere pacientului prin forțarea casetei în poziție sau prin utilizarea unei casete reci, care ar putea provoca un șoc pacientului.
+        - Caseta cu grilă antidifuzoare trebuie poziționată astfel încât să includă simfiza pubiană la marginea inferioară a imaginii. Caseta trebuie, de asemenea, să fie în poziție orizontală pe pat și să nu fie înclinată. Dacă nu este așezată orizontal, grila poate atenua fasciculul de radiații, ceea ce poate crea aspectul unei leziuni cu radioopacitate crescută, precum o masă intraabdominală, din cauza scăderii densității optice a imaginii.
+    - **Punct de Centrare Fascicul:**
+        - Se orientează raza centrală perpendicular pe casetă, pe linia mediană, la nivelul crestelor iliace.
+        - Expunerea se efectuează în apnee la sfârșitul expirului complet. 358 Radiografie de abdomen cu aparat mobil, în decubit dorsal, evidențiind ocluzie intestinală la nivelul intestinului subțire (nivele hidroaerice centrale). Se observă, de asemenea, un stent ureteral drept cu capăt în buclă, deoarece pacientul avea carcinom cu celule tranziționale al vezicii urinare. Radiografie de abdomen cu aparat mobil, în decubit dorsal, evidențiind obstrucție colonică distală. Distensie gazoasă. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Pneumoperitoneu (aer liber subdiafragmatic) în cavitatea peritoneală. Torace în incidență antero-posterioară (AP), pacient în ortostatism. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Incidență antero-posterioară (AP)/postero-anterioară în decubit lateral stâng. Nivele hidroaerice. Abdomen în incidență antero-posterioară (AP), pacient în ortostatism. Corp străin radiopac. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Anevrism aortic. Abdomen în incidență antero-posterioară (AP), pacient în decubit dorsal. Incidență de profil (decubit dorsal).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în apnee la sfârșitul expirului complet
 
@@ -169,9 +174,10 @@ Se observă, de asemenea, un stent ureteral drept cu capăt în buclă, deoarece
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Radiografiile pot fi efectuate utilizând o tehnică cu kVp ridicat pentru a scurta timpul de expunere și a reduce neclaritatea cauzată de mișcare, deși radiația difuză crescută poate deteriora contrastul și poate reduce vizibilitatea contururilor organelor.
-• Se pot utiliza suporturi din spumă pentru a preveni rotația pacientului.
+    - Radiografiile pot fi efectuate utilizând o tehnică cu kVp ridicat pentru a scurta timpul de expunere și a reduce neclaritatea cauzată de mișcare, deși radiația difuză crescută poate deteriora contrastul și poate reduce vizibilitatea contururilor organelor.
+    - Se pot utiliza suporturi din spumă pentru a preveni rotația pacientului.
 
 
 ### 🖼️ Imagini

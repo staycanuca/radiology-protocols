@@ -10,6 +10,10 @@ images:
 - caption: Merrill — pagina 1270, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-bladder-incidenta-de-profil-lateral-right-or-left-position-p1269-merrill/p1270_fig1.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -107,11 +111,12 @@ title: Rx Vezică Urinară — Incidență de Profil (Laterală) — Profil (Dre
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -155,6 +160,7 @@ title: Rx Vezică Urinară — Incidență de Profil (Laterală) — Profil (Dre
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -185,46 +191,3 @@ title: Rx Vezică Urinară — Incidență de Profil (Laterală) — Profil (Dre
 ## Surse de documentare
 
 - [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1269–1270](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Imaginea de profil evidențiază vezica urinară umplută cu substanță de contrast. Dacă este prezent refluxul, se vizualizează și porțiunile distale ale ureterelor. Incidențele de profil evidențiază pereții anterior și posterior ai vezicii urinare și baza acesteia (Fig. 16.70).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal. Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe receptorul de imagine (RI), la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene, în planul mediocoronal
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
-• Regiunile porțiunilor distale ale ureterelor, vezicii urinare și porțiunii proximale a uretrei
-• Substanță de contrast în vezica urinară, porțiunile distale ale ureterelor și porțiunea proximală a uretrei
-• Vezica urinară și porțiunile distale ale ureterelor vizibile prin bazin
-• Șoldurile și femurele suprapuse
-
-### part_pos
-
-• se flectează ușor genunchii pacientului într-o poziție confortabilă și se ajustează poziția corpului astfel încât planul mediocoronal să fie centrat pe linia mediană a grilei.
-• se flectează coatele pacientului și se așază mâinile sub cap (Fig. 16.69).
-• se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene, în planul mediocoronal.
-
-### patient_pos
-
-• se așază pacientul în decubit lateral drept sau stâng, conform indicației.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

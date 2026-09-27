@@ -3,24 +3,27 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: pediatrie
-centering: '• raza centrală verticală centrală este orientat midway între malleoli
-  și la drept-angles la imaginary line joining malleoli.
+centering: '• Raza centrală verticală este orientată la jumătatea distanței dintre
+  maleole și la unghi drept față de linia imaginară care unește maleolele.
 
-  • raza centrală poate fie înclinat five la 10 grade cephalic la avoid tibiae overlapping
-  hind picioare.
+  • Raza centrală poate fi înclinată cu cinci până la 10 grade cefalic, pentru a evita
+  suprapunerea tibiei peste partea posterioară a piciorului.
 
 
-  • raza centrală este orientat la Profil (lateral)/maleolă medială (tibială) la drept-angles
-  la axis de tibia. pentru toddlers, fascicul este Orientat orizontal.'
+  • Raza centrală este orientată spre profil (lateral) / maleola medială (tibială),
+  la unghi drept față de axul tibiei. Pentru copiii mici, fasciculul este orientat
+  orizontal.'
 clinical_indications:
-- talipes (congenital Picior deformity present la birth);
-- painful flat Picior. Dorso-Plantară – În Încărcare (Ortostatism) casetă este selected
-  that este large enough pentru include Picior. 425 14 picioare – sprijinit/ În Încărcare
-  (Ortostatism) incidențe Profil (lateral) – În Încărcare (Ortostatism) casetă este
-  selected that este large enough pentru include Picior.
+- talipes (deformare congenitală a piciorului, prezentă la naștere);
+- picior plat dureros. Dorsoplantară – în încărcare (ortostatism); caseta este selectată
+  astfel încât să fie suficient de mare pentru a include piciorul. 425 14 picioare
+  – sprijinit / în încărcare (ortostatism); incidențe de profil (lateral) – în încărcare
+  (ortostatism); caseta este selectată astfel încât să fie suficient de mare pentru
+  a include piciorul.
 images:
-- caption: examinare radiografică de picioarele, cu child în ortostatism
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: examinare radiografică a picioarelor, cu copilul în ortostatism
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-picior-in-incarcare-ortostatism-projections-p439-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -58,52 +61,55 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-picior-in-incarcare-ortostatism-projections-p439-clark/fig_10.jpeg
+iris_reference:
+  chapter: Pediatrie — Aparat locomotor
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: 'Babies
+position: 'Sugari
 
-  • baby este sprijinit Decubit dorsal pe masa radiologică, și Genunchi de partea
-  afectată este flectat astfel încât Picior rests pe casetă.
+  • Sugarul este susținut în decubit dorsal pe masa radiologică, iar genunchiul de
+  partea afectată este flectat astfel încât piciorul să se sprijine pe casetă.
 
-  • Picior este ajustat astfel încât tibia este perpendicular pe casetă.
+  • Piciorul este ajustat astfel încât tibia să fie perpendiculară pe casetă.
 
-  • Ambele Picioare poate fie examined together, cu genunchii held together.
+  • Ambele picioare pot fi examinate împreună, cu genunchii ținuți apropiați.
 
-  • Pressure trebuie să fie applied la bent Genunchi la simulate În Încărcare (Ortostatism).
+  • Se aplică presiune asupra genunchiului flectat pentru a simula încărcarea (ortostatismul).
 
-  Toddlers
+  Copii mici
 
-  • toddler este așezat pe scaun în special seat, cu Ambele Picioare resting pe casetă
-  în similar way ca that described above. sau, if child este old enough, they adopt
-  în ortostatism poziție.
+  • Copilul mic este așezat pe un scaun cu șezut special, cu ambele picioare sprijinite
+  pe casetă în mod similar celui descris mai sus. Sau, dacă este suficient de mare,
+  adoptă poziția în ortostatism.
 
-  • Downward pressure este applied la Ambii Genunchi.
+  • Se aplică presiune în jos asupra ambilor genunchi.
 
-  • fără attempt trebuie să fie made la correct alignment de forefeet.
+  • Nu trebuie făcută nicio încercare de corectare a alinierii antepiciorului.
 
 
-  Babies
+  Sugari
 
-  • cu baby Decubit dorsal pe imaging couch, membrul inferior afectat este preferably
-  internally rotit astfel încât inner margine de Picior este plasat sprijinit pe casetă
-  cu Gleznă (Articulație Talocrurală) (nu forefoot) în true Profil (lateral) poziție.
-  Alternatively, membru inferior este externally rotit, cu Profil (lateral) aspect
-  de Picior sprijinit pe casetă.
+  • Cu sugarul în decubit dorsal pe masa de examinare, membrul inferior afectat este
+  preferabil rotit intern, astfel încât marginea medială a piciorului să fie plasată
+  și sprijinită pe casetă, cu glezna (nu antepiciorul) în poziție de profil (lateral)
+  adevărat. Ca alternativă, membrul inferior este rotit extern, cu fața laterală a
+  piciorului sprijinită pe casetă.
 
-  • wooden block support este poziționat beneath sole de Picior, cu dorsiflexion pressure
-  applied during expunere la evidențiază reducibility de orice equinus deformity la
-  Gleznă (Articulație Talocrurală).
+  • Un bloc de lemn este poziționat sub talpa piciorului, aplicându-se presiune de
+  dorsiflexie în timpul expunerii pentru a evidenția reductibilitatea oricărei deformări
+  în equinus la nivelul gleznei (articulației talocrurale).
 
-  Toddlers
+  Copii mici
 
-  • child poate fie examined în ortostatism, cu casetă plasat în groove pe / sprijinit
-  de inner Picior.
+  • Copilul poate fi examinat în ortostatism, cu caseta plasată în șanțul de lângă
+  / sprijinită de partea medială a piciorului.
 
-  • la stop Picior de la being inverted, membru inferior trebuie să nu fie externally
-  rotit.
+  • Pentru a împiedica inversia piciorului, membrul inferior nu trebuie rotit extern.
 
-  • Forced dorsi-/plantarflexion incidențe poate also fie required.'
+  • Pot fi necesare și incidențe în dorsiflexie / flexie plantară forțată.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -112,39 +118,41 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- alignment de astragal (talus) și calcaneu de hind Picior trebuie să fie clearly
-  vizibil, cu fără overlapping prin shins.
-- Visualization de bones de picioarele consistent cu age.
-- Visualization de părți moi planes.
-- 'Reproduction de spongiosa și cortex. 424 Basic Dorso-Plantară (Antero-posterior
-  (AP)) – În Încărcare (Ortostatism) Profil (lateral) – În Încărcare (Ortostatism)
-  Supplementary Profil (lateral) – cu forced dorsiflexion Dorso-Plantară Oblică Baby
-  poziționat pentru Dorso-Plantară incidență de picioare cu picioare support imagine
-  de Dorso-Plantară picioare în baby cu talipes equinovarus. Note calcaneu și astragal
-  (talus) sunt paralel și superimposed stâng: older child poziționat pentru În Încărcare
-  (Ortostatism), Dorso-Plantară incidență de picioare. Note slight posterior lean
-  la avoid long bones overlying și obscuring hind picioare. drept: imagine de 4-year-old
-  boy’s Picior cu corrected CTEV și residual varus de forefoot'
-- alignment de astragal (talus) și calcaneu în true Profil (lateral) poziție trebuie
-  să fie clearly vizibil.
-- sole de Picior trebuie să fie flat pe / sprijinit de block, cu fără elevation de
-  heel.
-- See Dorso-Plantară incidență characteristics, above.
-- 'Erori de evitat / remedii: pentru Dorso-Plantară incidență, shins often obscure
-  hind picioare. Angle fascicul 10 grade cranial la overcome this problem.'
-- 'Erori de evitat / remedii: densitate optică de imagine (Dorso-Plantară) este correctly
-  appropriate pentru forefeet but does nu evidențiază hind-Picior, which este more
-  important. wedge poate fie used la avoid overpenetration de forefeet.'
-- 'Erori de evitat / remedii: pentru Profil (lateral) incidență, care trebuie să fie
-  taken la avoid Oblică incidență de Picior ca this could simulate valgus/varus poziție.
-  Baby poziționat pentru Profil (lateral) incidență de Picior cu pressure applied
-  prin wood block support în order la try și correct orice equinus deformity de Gleznă
-  (Articulație Talocrurală) imagine de Profil (lateral) Picior în neonate și older
-  child cu talipes equinovarus evidențiind astragal (talus) și calcaneu paralel în
-  former și dorsal luxație articulară de navicular în corrected Picior de latter Phototograph
-  de older child în ortostatism pentru Profil (lateral) incidență de Picior imagine
-  de Profil (lateral) Picior de child hind Picior valgus și almost vertical astragal
-  (talus) în pacient cu cerebral palsy'
+- Alinierea astragalului (talusului) și calcaneului piciorului posterior trebuie să
+  fie clar vizibilă, fără suprapunere prin gambe.
+- Vizualizarea oaselor picioarelor, în concordanță cu vârsta.
+- Vizualizarea planurilor de țesuturi moi.
+- 'Reproducerea spongioasei și corticalei. 424 Dorsoplantară de bază (antero-posterioară
+  (AP)) – în încărcare (ortostatism); profil (lateral) – în încărcare (ortostatism);
+  profil (lateral) suplimentar – cu dorsiflexie forțată; dorsoplantară oblică; sugar
+  poziționat pentru incidența dorsoplantară a picioarelor, cu suport pentru picioare;
+  imagine dorsoplantară a picioarelor la un sugar cu talipes equinovarus. Se observă
+  că calcaneul și astragalul (talusul) sunt paralele și suprapuse. Stânga: copil mai
+  mare poziționat în ortostatism pentru incidența dorsoplantară în încărcare a picioarelor.
+  Se observă o ușoară înclinare posterioară pentru a evita suprapunerea și obscurarea
+  oaselor lungi peste picioarele posterioare. Dreapta: imagine a piciorului unui băiat
+  de 4 ani cu CTEV corectat și varus rezidual al antepiciorului'
+- Alinierea astragalului (talusului) și calcaneului în poziție de profil (lateral)
+  adevărat trebuie să fie clar vizibilă.
+- Talpa piciorului trebuie să fie plată pe / sprijinită de bloc, fără ridicarea călcâiului.
+- Consultați caracteristicile incidenței dorsoplantare de mai sus.
+- 'Erori de evitat / remedii: pentru incidența dorsoplantară, gambele obscurizează
+  adesea picioarele posterioare. Înclinați fasciculul cu 10 grade cranial pentru a
+  depăși această problemă.'
+- 'Erori de evitat / remedii: densitatea optică a imaginii (dorsoplantară) este corect
+  adecvată pentru antepicior, dar nu evidențiază piciorul posterior, care este mai
+  important. Se poate utiliza o pană pentru a evita supraexpunerea antepiciorului.'
+- 'Erori de evitat / remedii: pentru incidența de profil (lateral), aceasta trebuie
+  efectuată pentru a evita o incidență oblică a piciorului, deoarece aceasta ar putea
+  simula o poziție în valgus/varus. Sugar poziționat pentru incidența de profil (lateral)
+  a piciorului, cu presiune aplicată prin suportul din lemn pentru a încerca să corecteze
+  orice deformare în equinus a gleznei (articulației talocrurale); imagine de profil
+  (lateral) a piciorului la un nou-născut și la un copil mai mare cu talipes equinovarus,
+  evidențiind astragalul (talusul) și calcaneul paralele la primul și luxația dorsală
+  a articulației naviculare la piciorul corectat al celui de-al doilea; fotografie
+  a unui copil mai mare în ortostatism pentru incidența de profil (lateral) a piciorului;
+  imagine de profil (lateral) a piciorului unui copil cu valgus al piciorului posterior
+  și astragal (talus) aproape vertical la un pacient cu paralizie cerebrală'
 sid_dff: 100 cm
 slug: rx-picior-in-incarcare-ortostatism-projections-p439-clark
 sources:
@@ -153,14 +161,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Picior În Încărcare (Ortostatism) Incidență
+  mas: Conform AEC / grosimii anatomice
+title: Rx picior în încărcare (ortostatism) incidență
 ---
-# Rx Picior În Încărcare (Ortostatism) Incidență
+# Rx picior în încărcare (ortostatism) incidență
 
 
 <div class="rx-meta-bar">
@@ -179,42 +187,43 @@ title: Rx Picior În Încărcare (Ortostatism) Incidență
 
     === "Indicații Clinice"
 
-        - talipes (congenital Picior deformity present la birth);
-        - painful flat Picior. Dorso-Plantară – În Încărcare (Ortostatism) casetă este selected that este large enough pentru include Picior. 425 14 picioare – sprijinit/ În Încărcare (Ortostatism) incidențe Profil (lateral) – În Încărcare (Ortostatism) casetă este selected that este large enough pentru include Picior.
+        - talipes (deformare congenitală a piciorului, prezentă la naștere);
+        - picior plat dureros. Dorsoplantară – în încărcare (ortostatism); caseta este selectată astfel încât să fie suficient de mare pentru a include piciorul. 425 14 picioare – sprijinit / în încărcare (ortostatism); incidențe de profil (lateral) – în încărcare (ortostatism); caseta este selectată astfel încât să fie suficient de mare pentru a include piciorul.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Aparat locomotor*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Babies
-• baby este sprijinit Decubit dorsal pe masa radiologică, și Genunchi de partea afectată este flectat astfel încât Picior rests pe casetă.
-• Picior este ajustat astfel încât tibia este perpendicular pe casetă.
-• Ambele Picioare poate fie examined together, cu genunchii held together.
-• Pressure trebuie să fie applied la bent Genunchi la simulate În Încărcare (Ortostatism).
-Toddlers
-• toddler este așezat pe scaun în special seat, cu Ambele Picioare resting pe casetă în similar way ca that described above. sau, if child este old enough, they adopt în ortostatism poziție.
-• Downward pressure este applied la Ambii Genunchi.
-• fără attempt trebuie să fie made la correct alignment de forefeet.
+    - **Poziție Pacient:**
+        Sugari
 
-Babies
-• cu baby Decubit dorsal pe imaging couch, membrul inferior afectat este preferably internally rotit astfel încât inner margine de Picior este plasat sprijinit pe casetă cu Gleznă (Articulație Talocrurală) (nu forefoot) în true Profil (lateral) poziție. Alternatively, membru inferior este externally rotit, cu Profil (lateral) aspect de Picior sprijinit pe casetă.
-• wooden block support este poziționat beneath sole de Picior, cu dorsiflexion pressure applied during expunere la evidențiază reducibility de orice equinus deformity la Gleznă (Articulație Talocrurală).
-Toddlers
-• child poate fie examined în ortostatism, cu casetă plasat în groove pe / sprijinit de inner Picior.
-• la stop Picior de la being inverted, membru inferior trebuie să nu fie externally rotit.
-• Forced dorsi-/plantarflexion incidențe poate also fie required.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este orientat midway între malleoli și la drept-angles la imaginary line joining malleoli.
-• raza centrală poate fie înclinat five la 10 grade cephalic la avoid tibiae overlapping hind picioare.
+        - Sugarul este susținut în decubit dorsal pe masa radiologică, iar genunchiul de partea afectată este flectat astfel încât piciorul să se sprijine pe casetă.
+        - Piciorul este ajustat astfel încât tibia să fie perpendiculară pe casetă.
+        - Ambele picioare pot fi examinate împreună, cu genunchii ținuți apropiați.
+        - Se aplică presiune asupra genunchiului flectat pentru a simula încărcarea (ortostatismul). Copii mici
+        - Copilul mic este așezat pe un scaun cu șezut special, cu ambele picioare sprijinite pe casetă în mod similar celui descris mai sus. Sau, dacă este suficient de mare, adoptă poziția în ortostatism.
+        - Se aplică presiune în jos asupra ambilor genunchi.
+        - Nu trebuie făcută nicio încercare de corectare a alinierii antepiciorului.
+        Sugari
 
-• raza centrală este orientat la Profil (lateral)/maleolă medială (tibială) la drept-angles la axis de tibia. pentru toddlers, fascicul este Orientat orizontal.
+        - Cu sugarul în decubit dorsal pe masa de examinare, membrul inferior afectat este preferabil rotit intern, astfel încât marginea medială a piciorului să fie plasată și sprijinită pe casetă, cu glezna (nu antepiciorul) în poziție de profil (lateral) adevărat. Ca alternativă, membrul inferior este rotit extern, cu fața laterală a piciorului sprijinită pe casetă.
+        - Un bloc de lemn este poziționat sub talpa piciorului, aplicându-se presiune de dorsiflexie în timpul expunerii pentru a evidenția reductibilitatea oricărei deformări în equinus la nivelul gleznei (articulației talocrurale). Copii mici
+        - Copilul poate fi examinat în ortostatism, cu caseta plasată în șanțul de lângă / sprijinită de partea medială a piciorului.
+        - Pentru a împiedica inversia piciorului, membrul inferior nu trebuie rotit extern.
+        - Pot fi necesare și incidențe în dorsiflexie / flexie plantară forțată.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată la jumătatea distanței dintre maleole și la unghi drept față de linia imaginară care unește maleolele.
+        - Raza centrală poate fi înclinată cu cinci până la 10 grade cefalic, pentru a evita suprapunerea tibiei peste partea posterioară a piciorului.
+        - Raza centrală este orientată spre profil (lateral) / maleola medială (tibială), la unghi drept față de axul tibiei. Pentru copiii mici, fasciculul este orientat orizontal.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -225,28 +234,28 @@ Toddlers
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - alignment de astragal (talus) și calcaneu de hind Picior trebuie să fie clearly vizibil, cu fără overlapping prin shins.
-    - Visualization de bones de picioarele consistent cu age.
-    - Visualization de părți moi planes.
-    - Reproduction de spongiosa și cortex. 424 Basic Dorso-Plantară (Antero-posterior (AP)) – În Încărcare (Ortostatism) Profil (lateral) – În Încărcare (Ortostatism) Supplementary Profil (lateral) – cu forced dorsiflexion Dorso-Plantară Oblică Baby poziționat pentru Dorso-Plantară incidență de picioare cu picioare support imagine de Dorso-Plantară picioare în baby cu talipes equinovarus. Note calcaneu și astragal (talus) sunt paralel și superimposed stâng: older child poziționat pentru În Încărcare (Ortostatism), Dorso-Plantară incidență de picioare. Note slight posterior lean la avoid long bones overlying și obscuring hind picioare. drept: imagine de 4-year-old boy’s Picior cu corrected CTEV și residual varus de forefoot
-    - alignment de astragal (talus) și calcaneu în true Profil (lateral) poziție trebuie să fie clearly vizibil.
-    - sole de Picior trebuie să fie flat pe / sprijinit de block, cu fără elevation de heel.
-    - See Dorso-Plantară incidență characteristics, above.
-    - Erori de evitat / remedii: pentru Dorso-Plantară incidență, shins often obscure hind picioare. Angle fascicul 10 grade cranial la overcome this problem.
-    - Erori de evitat / remedii: densitate optică de imagine (Dorso-Plantară) este correctly appropriate pentru forefeet but does nu evidențiază hind-Picior, which este more important. wedge poate fie used la avoid overpenetration de forefeet.
-    - Erori de evitat / remedii: pentru Profil (lateral) incidență, care trebuie să fie taken la avoid Oblică incidență de Picior ca this could simulate valgus/varus poziție. Baby poziționat pentru Profil (lateral) incidență de Picior cu pressure applied prin wood block support în order la try și correct orice equinus deformity de Gleznă (Articulație Talocrurală) imagine de Profil (lateral) Picior în neonate și older child cu talipes equinovarus evidențiind astragal (talus) și calcaneu paralel în former și dorsal luxație articulară de navicular în corrected Picior de latter Phototograph de older child în ortostatism pentru Profil (lateral) incidență de Picior imagine de Profil (lateral) Picior de child hind Picior valgus și almost vertical astragal (talus) în pacient cu cerebral palsy
+    - Alinierea astragalului (talusului) și calcaneului piciorului posterior trebuie să fie clar vizibilă, fără suprapunere prin gambe.
+    - Vizualizarea oaselor picioarelor, în concordanță cu vârsta.
+    - Vizualizarea planurilor de țesuturi moi.
+    - Reproducerea spongioasei și corticalei. 424 Dorsoplantară de bază (antero-posterioară (AP)) – în încărcare (ortostatism); profil (lateral) – în încărcare (ortostatism); profil (lateral) suplimentar – cu dorsiflexie forțată; dorsoplantară oblică; sugar poziționat pentru incidența dorsoplantară a picioarelor, cu suport pentru picioare; imagine dorsoplantară a picioarelor la un sugar cu talipes equinovarus. Se observă că calcaneul și astragalul (talusul) sunt paralele și suprapuse. Stânga: copil mai mare poziționat în ortostatism pentru incidența dorsoplantară în încărcare a picioarelor. Se observă o ușoară înclinare posterioară pentru a evita suprapunerea și obscurarea oaselor lungi peste picioarele posterioare. Dreapta: imagine a piciorului unui băiat de 4 ani cu CTEV corectat și varus rezidual al antepiciorului
+    - Alinierea astragalului (talusului) și calcaneului în poziție de profil (lateral) adevărat trebuie să fie clar vizibilă.
+    - Talpa piciorului trebuie să fie plată pe / sprijinită de bloc, fără ridicarea călcâiului.
+    - Consultați caracteristicile incidenței dorsoplantare de mai sus.
+    - Erori de evitat / remedii: pentru incidența dorsoplantară, gambele obscurizează adesea picioarele posterioare. Înclinați fasciculul cu 10 grade cranial pentru a depăși această problemă.
+    - Erori de evitat / remedii: densitatea optică a imaginii (dorsoplantară) este corect adecvată pentru antepicior, dar nu evidențiază piciorul posterior, care este mai important. Se poate utiliza o pană pentru a evita supraexpunerea antepiciorului.
+    - Erori de evitat / remedii: pentru incidența de profil (lateral), aceasta trebuie efectuată pentru a evita o incidență oblică a piciorului, deoarece aceasta ar putea simula o poziție în valgus/varus. Sugar poziționat pentru incidența de profil (lateral) a piciorului, cu presiune aplicată prin suportul din lemn pentru a încerca să corecteze orice deformare în equinus a gleznei (articulației talocrurale); imagine de profil (lateral) a piciorului la un nou-născut și la un copil mai mare cu talipes equinovarus, evidențiind astragalul (talusul) și calcaneul paralele la primul și luxația dorsală a articulației naviculare la piciorul corectat al celui de-al doilea; fotografie a unui copil mai mare în ortostatism pentru incidența de profil (lateral) a piciorului; imagine de profil (lateral) a piciorului unui copil cu valgus al piciorului posterior și astragal (talus) aproape vertical la un pacient cu paralizie cerebrală
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -258,6 +267,7 @@ Toddlers
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -268,9 +278,9 @@ Toddlers
 
 <figure class="protocol-image-card" markdown>
 
-![examinare radiografică de picioarele, cu child în ortostatism](../../assets/images/protocols/clark/rx-picior-in-incarcare-ortostatism-projections-p439-clark/fig_1.jpeg)
+![examinare radiografică a picioarelor, cu copilul în ortostatism](../../assets/images/protocols/clark/rx-picior-in-incarcare-ortostatism-projections-p439-clark/fig_1.jpeg)
 
-<figcaption><strong>examinare radiografică de picioarele, cu child în ortostatism</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>examinare radiografică a picioarelor, cu copilul în ortostatism</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

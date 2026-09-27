@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.66
     RAO (pentru a include ampula rectală).)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-rao-position-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Asigurați-vă că ampula rectală este inclusă la marginea inferioară a receptorului
@@ -110,11 +114,12 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Dreaptă (OAD / RA
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -161,6 +166,7 @@ title: Rx Irigografie (Clismă Baritată) Oblică Anterioară Dreaptă (OAD / RA
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Asigurați-vă că ampula rectală este inclusă la marginea inferioară a receptorului de imagine. Aceasta poate necesita centrarea cu 1 la 2 țoli (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5) la pacienții mai corpolenți și efectuarea unei a doua imagini centrate cu 1 la 2 țoli (2.5 la 5 cm) deasupra crestei pentru a include flexura colică dreaptă (Fig. 13.64 la 13.66). Irigografie (Clismă Baritată) DE RUTINĂ PA sau AP RAO Fig. 13.63 RAO—35° la 45°. Fig. 13.64 RAO (centrată sus pentru a include flexurile colice dreaptă și stângă). Colon ascendent Colon transvers Colon descendent Colon sigmoid Rect Fig. 13.66 RAO (pentru a include ampula rectală).

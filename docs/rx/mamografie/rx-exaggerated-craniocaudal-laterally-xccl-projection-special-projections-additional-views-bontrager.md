@@ -1,44 +1,51 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: apnee (oprirea respirației) respirație.
+breathing: Apnee (oprirea respirației) respirație.
 category: mamografie
-centering: perpendicular, centrat pe base de Mamografie (Sân), Torace perete edge
-  de receptorul de imagine; raza centrală nu movable
+centering: perpendiculară, centrată pe baza sânului, marginea peretelui toracic a
+  receptorului de imagine; raza centrală nu este mobilă
 clinical_indications:
-- Potential Mamografie (Sân) pathologic condition sau change în Mamografie (Sân) tissue;
-  also emphasizes axillary tissue
-- Most frequently requested optional incidență when CC incidență does nu show toate
-  axillary tissue sau when lesion este seen pe MLO but nu pe CC
+- Posibilă afecțiune sau modificare patologică a sânului ori a țesutului mamar; evidențiază,
+  de asemenea, țesutul axilar
+- Cea mai frecvent solicitată incidență opțională atunci când incidența CC nu evidențiază
+  întregul țesut axilar sau când leziunea este observată pe MLO, dar nu pe CC
 images:
-- caption: 'Fig. 20.73 XCCL incidență. NOTE: pacient este turned so that axillary'
-  description: 'Poziționare pacient conform Ghidului Bontrager (Fig. 20.73 XCCL incidență.
-    NOTE: pacient este turned so that axillary)'
+- caption: 'Fig. 20.73 Incidență XCCL. NOTĂ: pacientul este rotit astfel încât țesutul
+    axilar'
+  description: 'Poziționarea pacientului conform Ghidului Bontrager (Fig. 20.73 Incidență
+    XCCL. NOTĂ: pacientul este rotit astfel încât țesutul axilar'
   url: assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_1.jpeg
-- caption: Fig. 20.74 XCCL incidență.
+- caption: Fig. 20.74 Incidență XCCL.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.74
-    XCCL incidență.)
+    Incidență XCCL.)
   url: assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_2.jpeg
-- caption: Fig. 20.75 XCCL incidență.
+- caption: Fig. 20.75 Incidență XCCL.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.75
-    XCCL incidență.)
+    Incidență XCCL.)
   url: assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Sân
+  radiation_dose: Clasa 1 (Minimă < 0.4 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: 'S: If lesion este deeper sau superior, la incidență este required. If lesion
-  este nu found pe lateral aspect de Mamografie (Sân), medially exaggerated craniocaudal
-  incidență trebuie să fie performed. poziție AEC chamber la appropriate poziție la
-  ensure adecvat expunere de various tissue densities. Fig. 20.73 XCCL incidență.
-  NOTE: pacient este turned so that axillary tissue este included pe imagine. braț
-  și Mână sunt forward pentru ease în turning corp. Fig. 20.74 XCCL incidență.'
-position: 'Pacient: Ortostatism, if possible; Regiune anatomică: Begin ca if la do
-  CC incidență, then se rotește corp away de la receptorul de imagine slightly ca
-  needed la include more de axillary aspect de Mamografie (Sân) onto receptorul de
-  imagine (Fig. 20.73). Put pacientul’s Mână pe bar spre front și relax Umăr (some
-  recommend angling unit 5° lateromedially). capul este turned away de la side that
-  este being imaged (facing technologist). Mamografie (Sân) este pulled forward onto
-  receptorul de imagine, wrinkles și folds trebuie să fie smoothed out, și compression
-  este applied until taut. nipple trebuie să fie în profile (Fig. 20.74). R sau L
-  incidență marker este always plasat pe axillary side.'
+notes: 'S: Dacă leziunea este mai profundă sau superioară, este necesară această incidență.
+  Dacă leziunea nu este identificată pe aspectul lateral al sânului, trebuie efectuată
+  o incidență cranio-caudală exagerată medial. Poziționați camera AEC în poziția adecvată
+  pentru a asigura o expunere adecvată a diferitelor densități tisulare. Fig. 20.73
+  Incidență XCCL. NOTĂ: Pacienta este rotită astfel încât țesutul axilar să fie inclus
+  în imagine. Brațul și mâna sunt poziționate anterior pentru a ușura rotirea corpului.
+  Fig. 20.74 Incidență XCCL.'
+position: 'Pacient: În ortostatism, dacă este posibil; Regiune anatomică: Începeți
+  ca pentru efectuarea incidenței CC, apoi rotiți ușor corpul în sens opus față de
+  receptorul de imagine, după cum este necesar, pentru a include mai mult din aspectul
+  axilar al sânului pe receptorul de imagine (Fig. 20.73). Așezați mâna pacientei
+  pe bara anterioară și relaxați umărul (unii recomandă înclinarea unității cu 5°
+  lateromedial). Capul este rotit în sens opus față de partea examinată (cu fața spre
+  tehnician). Sânul este tras anterior pe receptorul de imagine; cutele și pliurile
+  trebuie netezite, iar compresia se aplică până când sânul este întins. Mamelonul
+  trebuie să fie de profil (Fig. 20.74). Markerul de incidență R sau L este plasat
+  întotdeauna pe partea axilară.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,34 +53,33 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Axillary Mamografie (Sân) tissue, pectoral muscle, și central și subareolar tissues
-  sunt included (Figs. 20.74 și 20.75). poziție și Compression
-- Nipple este seen în profile.
-- Tissue thickness este evenly distributed, indicating optim compression.
-- Axillary tissues, including pectoral muscle, sunt visualized, indicating correct
-  positioning cu sufficient corp rotație.
+- Sunt incluse țesutul mamar axilar, mușchiul pectoral și țesuturile centrale și subareolare
+  (Fig. 20.74 și 20.75). Poziție și compresie
+- Mamelonul este vizualizat de profil.
+- Grosimea țesutului este distribuită uniform, indicând o compresie optimă.
+- Țesuturile axilare, inclusiv mușchiul pectoral, sunt vizualizate, indicând poziționarea
+  corectă cu rotație suficientă a corpului.
 sid_dff: 60 cm
 slug: rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 793
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: și raza centrală raza centrală și collimation sunt fixed și sunt centrat
-    correctly if Mamografie (Sân) tissue este correctly centrat și visualized pe receptorul
-    de imagine. expunere Dense areas sunt adequately penetrated, resulting în optim
-    contrast. net tissue markings indicate fără mișcare. R și L markeri și pacient
-    information sunt correctly plasat la axillary side de receptorul de imagine. fără
-    artifacts sunt vizibil. Nipple Glandular tissue Fatty tissue Pectoral muscle Fig.
-    20.75 XCCL incidență.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: 'Raza centrală și colimarea sunt fixe și corect centrate dacă țesutul
+    mamar este corect centrat și vizualizat pe receptorul de imagine. Expunere: Zonele
+    dense sunt penetr ate adecvat, rezultând un contrast optim. Marcajele tisulare
+    nete indică absența mișcării. Markerii R și L și informațiile despre pacient sunt
+    plasați corect pe partea axilară a receptorului de imagine. Nu sunt vizibili artefacte.
+    Mamelon Țesut glandular Țesut adipos Mușchi pectoral Fig. 20.75 Incidență XCCL.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx EXAGGERATED CRANIOCAUDAL (LATERALLY) (XCCL) Incidență
+title: Rx INCIDENȚĂ CRANIO-CAUDALĂ EXAGERATĂ (LATERAL) (XCCL) A SÂNULUI (MAMOGRAFIE)
 ---
-# Rx EXAGGERATED CRANIOCAUDAL (LATERALLY) (XCCL) Incidență
+# Rx INCIDENȚĂ CRANIO-CAUDALĂ EXAGERATĂ (LATERAL) (XCCL) A SÂNULUI (MAMOGRAFIE)
 
 
 <div class="rx-meta-bar">
@@ -92,25 +98,26 @@ title: Rx EXAGGERATED CRANIOCAUDAL (LATERALLY) (XCCL) Incidență
 
     === "Indicații Clinice"
 
-        - Potential Mamografie (Sân) pathologic condition sau change în Mamografie (Sân) tissue; also emphasizes axillary tissue
-        - Most frequently requested optional incidență when CC incidență does nu show toate axillary tissue sau when lesion este seen pe MLO but nu pe CC
+        - Posibilă afecțiune sau modificare patologică a sânului ori a țesutului mamar; evidențiază, de asemenea, țesutul axilar
+        - Cea mai frecvent solicitată incidență opțională atunci când incidența CC nu evidențiază întregul țesut axilar sau când leziunea este observată pe MLO, dar nu pe CC
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Sân*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.4 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism, if possible; Regiune anatomică: Begin ca if la do CC incidență, then se rotește corp away de la receptorul de imagine slightly ca needed la include more de axillary aspect de Mamografie (Sân) onto receptorul de imagine (Fig. 20.73). Put pacientul’s Mână pe bar spre front și relax Umăr (some recommend angling unit 5° lateromedially). capul este turned away de la side that este being imaged (facing technologist). Mamografie (Sân) este pulled forward onto receptorul de imagine, wrinkles și folds trebuie să fie smoothed out, și compression este applied until taut. nipple trebuie să fie în profile (Fig. 20.74). R sau L incidență marker este always plasat pe axillary side.
-    - **Punct de Centrare Fascicul:** perpendicular, centrat pe base de Mamografie (Sân), Torace perete edge de receptorul de imagine; raza centrală nu movable
+    - **Poziție Pacient:** Pacient: În ortostatism, dacă este posibil; Regiune anatomică: Începeți ca pentru efectuarea incidenței CC, apoi rotiți ușor corpul în sens opus față de receptorul de imagine, după cum este necesar, pentru a include mai mult din aspectul axilar al sânului pe receptorul de imagine (Fig. 20.73). Așezați mâna pacientei pe bara anterioară și relaxați umărul (unii recomandă înclinarea unității cu 5° lateromedial). Capul este rotit în sens opus față de partea examinată (cu fața spre tehnician). Sânul este tras anterior pe receptorul de imagine; cutele și pliurile trebuie netezite, iar compresia se aplică până când sânul este întins. Mamelonul trebuie să fie de profil (Fig. 20.74). Markerul de incidență R sau L este plasat întotdeauna pe partea axilară.
+    - **Punct de Centrare Fascicul:** perpendiculară, centrată pe baza sânului, marginea peretelui toracic a receptorului de imagine; raza centrală nu este mobilă
     - **Distanță Focar-Film (DFF / SID):** 60 cm
-    - **Comandă Respiratorie:** apnee (oprirea respirației) respirație.
+    - **Comandă Respiratorie:** Apnee (oprirea respirației) respirație.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -123,18 +130,18 @@ title: Rx EXAGGERATED CRANIOCAUDAL (LATERALLY) (XCCL) Incidență
     | **Distanță Focar-Film (DFF / SID)** | 60 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | și raza centrală raza centrală și collimation sunt fixed și sunt centrat correctly if Mamografie (Sân) tissue este correctly centrat și visualized pe receptorul de imagine. expunere Dense areas sunt adequately penetrated, resulting în optim contrast. net tissue markings indicate fără mișcare. R și L markeri și pacient information sunt correctly plasat la axillary side de receptorul de imagine. fără artifacts sunt vizibil. Nipple Glandular tissue Fatty tissue Pectoral muscle Fig. 20.75 XCCL incidență. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Raza centrală și colimarea sunt fixe și corect centrate dacă țesutul mamar este corect centrat și vizualizat pe receptorul de imagine. Expunere: Zonele dense sunt penetr ate adecvat, rezultând un contrast optim. Marcajele tisulare nete indică absența mișcării. Markerii R și L și informațiile despre pacient sunt plasați corect pe partea axilară a receptorului de imagine. Nu sunt vizibili artefacte. Mamelon Țesut glandular Țesut adipos Mușchi pectoral Fig. 20.75 Incidență XCCL. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Axillary Mamografie (Sân) tissue, pectoral muscle, și central și subareolar tissues sunt included (Figs. 20.74 și 20.75). poziție și Compression
-    - Nipple este seen în profile.
-    - Tissue thickness este evenly distributed, indicating optim compression.
-    - Axillary tissues, including pectoral muscle, sunt visualized, indicating correct positioning cu sufficient corp rotație.
+    - Sunt incluse țesutul mamar axilar, mușchiul pectoral și țesuturile centrale și subareolare (Fig. 20.74 și 20.75). Poziție și compresie
+    - Mamelonul este vizualizat de profil.
+    - Grosimea țesutului este distribuită uniform, indicând o compresie optimă.
+    - Țesuturile axilare, inclusiv mușchiul pectoral, sunt vizualizate, indicând poziționarea corectă cu rotație suficientă a corpului.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -146,8 +153,9 @@ title: Rx EXAGGERATED CRANIOCAUDAL (LATERALLY) (XCCL) Incidență
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    S: If lesion este deeper sau superior, la incidență este required. If lesion este nu found pe lateral aspect de Mamografie (Sân), medially exaggerated craniocaudal incidență trebuie să fie performed. poziție AEC chamber la appropriate poziție la ensure adecvat expunere de various tissue densities. Fig. 20.73 XCCL incidență. NOTE: pacient este turned so that axillary tissue este included pe imagine. braț și Mână sunt forward pentru ease în turning corp. Fig. 20.74 XCCL incidență.
+    S: Dacă leziunea este mai profundă sau superioară, este necesară această incidență. Dacă leziunea nu este identificată pe aspectul lateral al sânului, trebuie efectuată o incidență cranio-caudală exagerată medial. Poziționați camera AEC în poziția adecvată pentru a asigura o expunere adecvată a diferitelor densități tisulare. Fig. 20.73 Incidență XCCL. NOTĂ: Pacienta este rotită astfel încât țesutul axilar să fie inclus în imagine. Brațul și mâna sunt poziționate anterior pentru a ușura rotirea corpului. Fig. 20.74 Incidență XCCL.
 
 
 ### 🖼️ Imagini
@@ -156,25 +164,25 @@ title: Rx EXAGGERATED CRANIOCAUDAL (LATERALLY) (XCCL) Incidență
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.73 XCCL incidență. NOTE: pacient este turned so that axillary](../../assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_1.jpeg)
+![Fig. 20.73 Incidență XCCL. NOTĂ: pacientul este rotit astfel încât țesutul axilar](../../assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 20.73 XCCL incidență. NOTE: pacient este turned so that axillary</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 20.73 XCCL incidență. NOTE: pacient este turned so that axillary)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 20.74 XCCL incidență.](../../assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 20.74 XCCL incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.74 XCCL incidență.)</span></figcaption>
+<figcaption><strong>Fig. 20.73 Incidență XCCL. NOTĂ: pacientul este rotit astfel încât țesutul axilar</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 20.73 Incidență XCCL. NOTĂ: pacientul este rotit astfel încât țesutul axilar</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 20.75 XCCL incidență.](../../assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_3.jpeg)
+![Fig. 20.74 Incidență XCCL.](../../assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 20.75 XCCL incidență.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.75 XCCL incidență.)</span></figcaption>
+<figcaption><strong>Fig. 20.74 Incidență XCCL.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.74 Incidență XCCL.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 20.75 Incidență XCCL.](../../assets/images/protocols/bontrager/rx-exaggerated-craniocaudal-laterally-xccl-projection-special-projections-additional-views-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 20.75 Incidență XCCL.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 20.75 Incidență XCCL.)</span></figcaption>
 
 </figure>
 

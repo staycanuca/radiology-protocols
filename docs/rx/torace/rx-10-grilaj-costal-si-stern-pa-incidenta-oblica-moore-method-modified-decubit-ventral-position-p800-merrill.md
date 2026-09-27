@@ -1,19 +1,19 @@
 ---
 author: Referință Merrill
-breathing: shallow Tehnică de estompare prin respirație superficială (respirație technique)
-  produces best results. Se instruiește pacientul să take slow, shallow breaths during
-  expunere. low mA setting și expunere time de 1 la 3 seconds sunt recommended. When
-  low mA setting și long expunere time cannot fie employed, Se instruiește pacientul
-  să Apnee pe durata expunerii la end de expiration la minimize visibility de pulmonary
-  vasculature.
+breathing: Tehnica de estompare prin respirație superficială oferă cele mai bune rezultate.
+  Se instruiește pacientul să respire lent și superficial în timpul expunerii. Se
+  recomandă o setare mA redusă și un timp de expunere de 1 la 3 secunde. Când nu pot
+  fi utilizate o setare mA redusă și un timp de expunere lung, se instruiește pacientul
+  să țină apnee pe durata expunerii, la sfârșitul expirului, pentru a minimiza vizibilitatea
+  vascularizației pulmonare.
 category: torace
-centering: raza centrală este already înclinat 25 grade și centrat pe receptorul de
-  imagine. If pacient positioning este precis, raza centrală enters la nivelul T7
-  și approximately 2 inches (5 cm) la drept de coloană vertebrală. This angulation
-  places Stern over lung la maintain maximum contrast de Stern. x-ray tube angulation
-  poate fie ajustat pentru extremely large sau small pacienți. Large pacienți require
-  less angulation și thin pacienți require more angulation than standard 25-grade
-  angle.
+centering: Raza centrală este deja înclinată la 25 grade și centrată pe receptorul
+  de imagine. Dacă poziționarea pacientului este precisă, raza centrală intră la nivelul
+  T7 și la aproximativ 2 țoli (5 cm) la dreapta coloanei vertebrale. Această angulație
+  proiectează sternul peste plămân pentru a menține contrastul maxim al sternului.
+  Angulația tubului radiogen poate fi ajustată pentru pacienți extrem de voluminoși
+  sau foarte slabi. Pacienții voluminoși necesită o angulație mai mică, iar pacienții
+  slabi necesită o angulație mai mare decât unghiul standard de 25 grade.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -23,126 +23,117 @@ images:
 - caption: Merrill — pagina 802, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-moore-method-modified-decubit-ventral-position-p800-merrill/p802_fig2.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Before positioning pacientul, place receptorul de imagine transversal în
-  tăvița Bucky. Place x-ray tube la a 30-inch (76-cm) SID, angle it 25 grade, și se
-  orientează raza centrală centrală la center de receptorul de imagine. x-ray tube
-  este poziționat over pacientul’s drept side. Place marker pe tabletop near pacientul’s
-  cap la indicate exact center de receptorul de imagine. Se instruiește pacientul
-  să stand la side de masa radiologică directly în front de tăvița Bucky. Se instruiește
-  pacientul să bend la waist, și place Stern în center de masa de examinare directly
-  over previously poziționat receptorul de imagine.; se poziționează pacientul’s brațe
-  above umerii și palms down pe masa de examinare. brațele act ca support pentru side
-  de capul (Fig. 10.17). Ensure that pacientul este în true Decubit ventral poziție
-  și that midsternal area este la center de masa radiologică. se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Înainte de poziționarea pacientului, se plasează receptorul de imagine transversal
+  în tăvița Bucky. Se plasează tubul radiogen la un SID de 30 țol (76-cm), se angulează
+  la 25 grade și se orientează raza centrală către centrul receptorului de imagine.
+  Tubul radiogen este poziționat deasupra părții drepte a pacientului. Se plasează
+  markerul pe masa radiologică, lângă capul pacientului, pentru a indica centrul exact
+  al receptorului de imagine. Se instruiește pacientul să stea lângă masa radiologică,
+  direct în fața tăviței Bucky. Se instruiește pacientul să se aplece din talie și
+  să plaseze sternul în centrul mesei de examinare, direct deasupra receptorului de
+  imagine poziționat anterior.; se poziționează brațele pacientului deasupra umerilor,
+  cu palmele în jos pe masa de examinare. Brațele servesc drept sprijin pentru părțile
+  laterale ale capului (Fig. 10.17). Se verifică dacă pacientul se află în adevărat
+  decubit ventral și dacă regiunea midsternală se află în centrul mesei radiologice.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire Stern de la incizură jugulară (furculiță sternală) la tip de apendice xifoid
-- Stern projected liber de superimposition de la Coloană Toracală
-- Blurred pulmonary markings if Tehnică de estompare prin respirație superficială
-  (respirație technique) was used
-- Blurred posterior Coaste (Grilaj Costal) if reduced SID was used
-- Bony detalii trabeculare osoase și surrounding soft tissues
-sid_dff: A 30-inch (76-cm) SID is recommended. This short distance assists in blurring
-  the posterior Coaste (Grilaj Costal). Radiography of the Stern can be diВcult to
-  perform on an Pacient Mobil / Cooperant (Ortostatism) who is having acute pain.
-  The alternative positioning method described by Moore 1 uses a modified Decubit
-  Ventral position, which makes it possible to produce a high-quality Stern image
-  in a more comfortable manner for the patient.
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Sternul în întregime, de la incizura jugulară (furculița sternală) până la vârful
+  apendicelui xifoid
+- Sternul proiectat liber de suprapunerea coloanei toracice
+- Desen pulmonar estompat dacă s-a utilizat tehnica de estompare prin respirație superficială
+- Coaste posterioare estompate dacă s-a utilizat un SID redus
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
+sid_dff: Se recomandă o SID de 30 inci (76 cm). Această distanță scurtă contribuie
+  la estomparea coastelor posterioare (grilajul costal). Radiografia sternului poate
+  fi dificil de efectuat la un pacient mobil / cooperant (în ortostatism) care prezintă
+  durere acută. Metoda alternativă de poziționare descrisă de Moore 1 utilizează o
+  poziție modificată de decubit ventral, care permite obținerea unei imagini de înaltă
+  calitate a sternului într-un mod mai confortabil pentru pacient.
 slug: rx-10-grilaj-costal-si-stern-pa-incidenta-oblica-moore-method-modified-decubit-ventral-position-p800-merrill
 source_pages:
 - 800
 - 801
 - 802
 source_sections:
-  anatomy: 'slightly oblic incidență de sternum (Fig. 10.18). grade de detail vizualizat
-    depends largely pe technique used. If respirație
-
-    technique este used, pulmonary markings sunt obliterated.'
+  anatomy: incidență ușor oblică a sternului (Fig. 10.18). Gradul de detaliu vizualizat
+    depinde în mare măsură de tehnica utilizată. Dacă se utilizează tehnica de respirație,
+    desenul pulmonar este șters.
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• raza centrală este already înclinat 25 grade și centrat pe receptorul de
-    imagine. If pacient positioning este precis, raza centrală enters la nivelul T7
-    și
+  cr: '• Raza centrală este deja înclinată la 25 grade și centrată pe receptorul de
+    imagine. Dacă poziționarea pacientului este precisă, raza centrală intră la nivelul
+    T7 și la aproximativ 2 țoli (5 cm) la dreapta coloanei vertebrale. Această angulație
+    proiectează sternul peste plămân pentru a menține contrastul maxim al sternului.
 
-    approximately 2 inches (5 cm) la drept de coloană vertebrală. This angulation
-    places sternum over lung la maintain maximum
+    • Angulația tubului radiogen poate fi ajustată pentru pacienți extrem de voluminoși
+    sau foarte slabi. Pacienții voluminoși necesită o angulație mai mică, iar pacienții
+    slabi necesită o angulație mai mare decât unghiul standard de 25 grade.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    contrast de sternum.
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • x-ray tube angulation poate fie ajustat pentru extremely large sau small pacienți.
-    Large pacienți require less angulation și thin pacienți
+    • Sternul în întregime, de la incizura jugulară (furculița sternală) până la vârful
+    apendicelui xifoid
 
-    require more angulation than standard 25-grade angle.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Sternul proiectat liber de suprapunerea coloanei toracice
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Desen pulmonar estompat dacă s-a utilizat tehnica de estompare prin respirație
+    superficială
 
-    • Entire sternum de la incizură jugulară (furculiță sternală) la tip de apendice
-    xifoid
+    • Coaste posterioare estompate dacă s-a utilizat un SID redus
 
-    • Sternum projected liber de superimposition de la thoracic coloană vertebrală
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• se poziționează brațele pacientului deasupra umerilor, cu palmele în
+    jos pe masa de examinare. Brațele servesc drept sprijin pentru părțile laterale
+    ale capului (Fig. 10.17).
 
-    • Blurred pulmonary markings if Tehnică de estompare prin respirație superficială
-    (respirație technique) was used
-
-    • Blurred posterior coaste if reduced SID was used
-
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se poziționează pacientul’s brațe above umerii și palms down pe masa
-    de examinare. brațele act ca support pentru side de capul (Fig.
-
-    10.17).
-
-    • Ensure that pacientul este în true decubit ventral și that midsternal area este
-    la center de masa radiologică.
+    • Se verifică dacă pacientul se află în adevărat decubit ventral și dacă regiunea
+    midsternală se află în centrul mesei radiologice.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Before positioning pacientul, place receptorul de imagine transversal
-    în tăvița Bucky. Place x-ray tube la a 30-inch (76-cm) SID, angle it 25
+  patient_pos: '• Înainte de poziționarea pacientului, se plasează receptorul de imagine
+    transversal în tăvița Bucky. Se plasează tubul radiogen la un SID de 30 țol (76-cm),
+    se angulează la 25 grade și se orientează raza centrală către centrul receptorului
+    de imagine. Tubul radiogen este poziționat deasupra părții drepte a pacientului.
 
-    grade, și se orientează raza centrală centrală la center de receptorul de imagine.
-    x-ray tube este poziționat over pacientul’s drept side.
+    • Se plasează markerul pe masa radiologică, lângă capul pacientului, pentru a
+    indica centrul exact al receptorului de imagine.
 
-    • Place marker pe tabletop near pacientul’s cap la indicate exact center de receptorul
-    de imagine.
+    • Se instruiește pacientul să stea lângă masa radiologică, direct în fața tăviței
+    Bucky.
 
-    • Se instruiește pacientul să stand la side de masa radiologică directly în front
-    de tăvița Bucky.
+    • Se instruiește pacientul să se aplece din talie și să plaseze sternul în centrul
+    mesei de examinare, direct deasupra receptorului de imagine poziționat anterior.'
+  respiration: Tehnica de estompare prin respirație superficială oferă cele mai bune
+    rezultate. Se instruiește pacientul să respire lent și superficial în timpul expunerii.
+    Se recomandă o setare mA redusă și un timp de expunere de 1 la 3 secunde. Când
+    nu pot fi utilizate o setare mA redusă și un timp de expunere lung, se instruiește
+    pacientul să țină apnee pe durata expunerii, la sfârșitul expirului, pentru a
+    minimiza vizibilitatea vascularizației pulmonare.
+  sid: Se recomandă un SID de 30 țol (76-cm). Această distanță scurtă ajută la estomparea
+    coastelor posterioare. Radiografia sternului poate fi dificil de efectuat la un
+    pacient ambulator care prezintă durere acută. Metoda alternativă de poziționare
+    descrisă de Moore 1 utilizează decubitul ventral modificat, ceea ce face posibilă
+    obținerea unei imagini de calitate a sternului într-un mod mai confortabil pentru
+    pacient.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    • Se instruiește pacientul să bend la waist, și place sternum în center de masa
-    de examinare directly over previously poziționat receptorul de imagine.'
-  respiration: 'shallow Tehnică de estompare prin respirație superficială (respirație
-    technique) produces best results. Se instruiește pacientul să take slow, shallow
-    breaths during expunere. low mA setting și expunere time de 1 la 3 seconds sunt
-    recommended. When low mA setting și long expunere time
-
-    cannot fie employed, Se instruiește pacientul să Apnee pe durata expunerii la
-    end de expiration la minimize visibility de pulmonary
-
-    vasculature.'
-  sid: 'A 30-inch (76-cm) SID este recommended. This short distance assists în blurring
-    posterior coaste.
-
-    radiografie de sternum poate fie dificult la perform pe ambulatory pacient who
-    este having acute pain. alternative positioning
-
-    method described prin Moore 1 uses modified decubit ventral, which makes it possible
-    la produce high-quality sternum imagine în more
-
-    comfortable manner pentru pacientul.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 10. Bony Thorax, pagini 800–802
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -150,10 +141,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metoda Moore Modificată
-  Decubit Ventral Poziționare (Merrill)
+title: Rx Grilaj costal și stern — Incidență oblică postero-anterioară (PA) — Metoda
+  Moore modificată, poziționare în decubit ventral (Merrill)
 ---
-# Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metoda Moore Modificată Decubit Ventral Poziționare (Merrill)
+# Rx Grilaj costal și stern — Incidență oblică postero-anterioară (PA) — Metoda Moore modificată, poziționare în decubit ventral (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -177,19 +168,20 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metod
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Before positioning pacientul, place receptorul de imagine transversal în tăvița Bucky. Place x-ray tube la a 30-inch (76-cm) SID, angle it 25 grade, și se orientează raza centrală centrală la center de receptorul de imagine. x-ray tube este poziționat over pacientul’s drept side. Place marker pe tabletop near pacientul’s cap la indicate exact center de receptorul de imagine. Se instruiește pacientul să stand la side de masa radiologică directly în front de tăvița Bucky. Se instruiește pacientul să bend la waist, și place Stern în center de masa de examinare directly over previously poziționat receptorul de imagine.; se poziționează pacientul’s brațe above umerii și palms down pe masa de examinare. brațele act ca support pentru side de capul (Fig. 10.17). Ensure that pacientul este în true Decubit ventral poziție și that midsternal area este la center de masa radiologică. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** raza centrală este already înclinat 25 grade și centrat pe receptorul de imagine. If pacient positioning este precis, raza centrală enters la nivelul T7 și approximately 2 inches (5 cm) la drept de coloană vertebrală. This angulation places Stern over lung la maintain maximum contrast de Stern. x-ray tube angulation poate fie ajustat pentru extremely large sau small pacienți. Large pacienți require less angulation și thin pacienți require more angulation than standard 25-grade angle.
-    - **Distanță Focar-Film (DFF / SID):** A 30-inch (76-cm) SID is recommended. This short distance assists in blurring the posterior Coaste (Grilaj Costal). Radiography of the Stern can be diВcult to perform on an Pacient Mobil / Cooperant (Ortostatism) who is having acute pain. The alternative positioning method described by Moore 1 uses a modified Decubit Ventral position, which makes it possible to produce a high-quality Stern image in a more comfortable manner for the patient.
-    - **Comandă Respiratorie:** shallow Tehnică de estompare prin respirație superficială (respirație technique) produces best results. Se instruiește pacientul să take slow, shallow breaths during expunere. low mA setting și expunere time de 1 la 3 seconds sunt recommended. When low mA setting și long expunere time cannot fie employed, Se instruiește pacientul să Apnee pe durata expunerii la end de expiration la minimize visibility de pulmonary vasculature.
+    - **Poziție Pacient:** Înainte de poziționarea pacientului, se plasează receptorul de imagine transversal în tăvița Bucky. Se plasează tubul radiogen la un SID de 30 țol (76-cm), se angulează la 25 grade și se orientează raza centrală către centrul receptorului de imagine. Tubul radiogen este poziționat deasupra părții drepte a pacientului. Se plasează markerul pe masa radiologică, lângă capul pacientului, pentru a indica centrul exact al receptorului de imagine. Se instruiește pacientul să stea lângă masa radiologică, direct în fața tăviței Bucky. Se instruiește pacientul să se aplece din talie și să plaseze sternul în centrul mesei de examinare, direct deasupra receptorului de imagine poziționat anterior.; se poziționează brațele pacientului deasupra umerilor, cu palmele în jos pe masa de examinare. Brațele servesc drept sprijin pentru părțile laterale ale capului (Fig. 10.17). Se verifică dacă pacientul se află în adevărat decubit ventral și dacă regiunea midsternală se află în centrul mesei radiologice. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Raza centrală este deja înclinată la 25 grade și centrată pe receptorul de imagine. Dacă poziționarea pacientului este precisă, raza centrală intră la nivelul T7 și la aproximativ 2 țoli (5 cm) la dreapta coloanei vertebrale. Această angulație proiectează sternul peste plămân pentru a menține contrastul maxim al sternului. Angulația tubului radiogen poate fi ajustată pentru pacienți extrem de voluminoși sau foarte slabi. Pacienții voluminoși necesită o angulație mai mică, iar pacienții slabi necesită o angulație mai mare decât unghiul standard de 25 grade.
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID de 30 inci (76 cm). Această distanță scurtă contribuie la estomparea coastelor posterioare (grilajul costal). Radiografia sternului poate fi dificil de efectuat la un pacient mobil / cooperant (în ortostatism) care prezintă durere acută. Metoda alternativă de poziționare descrisă de Moore 1 utilizează o poziție modificată de decubit ventral, care permite obținerea unei imagini de înaltă calitate a sternului într-un mod mai confortabil pentru pacient.
+    - **Comandă Respiratorie:** Tehnica de estompare prin respirație superficială oferă cele mai bune rezultate. Se instruiește pacientul să respire lent și superficial în timpul expunerii. Se recomandă o setare mA redusă și un timp de expunere de 1 la 3 secunde. Când nu pot fi utilizate o setare mA redusă și un timp de expunere lung, se instruiește pacientul să țină apnee pe durata expunerii, la sfârșitul expirului, pentru a minimiza vizibilitatea vascularizației pulmonare.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -199,7 +191,7 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metod
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | A 30-inch (76-cm) SID is recommended. This short distance assists in blurring the posterior Coaste (Grilaj Costal). Radiography of the Stern can be diВcult to perform on an Pacient Mobil / Cooperant (Ortostatism) who is having acute pain. The alternative positioning method described by Moore 1 uses a modified Decubit Ventral position, which makes it possible to produce a high-quality Stern image in a more comfortable manner for the patient. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID de 30 inci (76 cm). Această distanță scurtă contribuie la estomparea coastelor posterioare (grilajul costal). Radiografia sternului poate fi dificil de efectuat la un pacient mobil / cooperant (în ortostatism) care prezintă durere acută. Metoda alternativă de poziționare descrisă de Moore 1 utilizează o poziție modificată de decubit ventral, care permite obținerea unei imagini de înaltă calitate a sternului într-un mod mai confortabil pentru pacient. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
@@ -210,13 +202,13 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metod
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Stern de la incizură jugulară (furculiță sternală) la tip de apendice xifoid
-    - Stern projected liber de superimposition de la Coloană Toracală
-    - Blurred pulmonary markings if Tehnică de estompare prin respirație superficială (respirație technique) was used
-    - Blurred posterior Coaste (Grilaj Costal) if reduced SID was used
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Sternul în întregime, de la incizura jugulară (furculița sternală) până la vârful apendicelui xifoid
+    - Sternul proiectat liber de suprapunerea coloanei toracice
+    - Desen pulmonar estompat dacă s-a utilizat tehnica de estompare prin respirație superficială
+    - Coaste posterioare estompate dacă s-a utilizat un SID redus
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -225,6 +217,7 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metod
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -256,7 +249,7 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metod
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (A 30-inch (76-cm) SID is recommended. This short distance assists in blurring the posterior Coaste (Grilaj Costal). Radiography of the Stern can be diВcult to perform on an Pacient Mobil / Cooperant (Ortostatism) who is having acute pain. The alternative positioning method described by Moore 1 uses a modified Decubit Ventral position, which makes it possible to produce a high-quality Stern image in a more comfortable manner for the patient.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID de 30 inci (76 cm). Această distanță scurtă contribuie la estomparea coastelor posterioare (grilajul costal). Radiografia sternului poate fi dificil de efectuat la un pacient mobil / cooperant (în ortostatism) care prezintă durere acută. Metoda alternativă de poziționare descrisă de Moore 1 utilizează o poziție modificată de decubit ventral, care permite obținerea unei imagini de înaltă calitate a sternului într-un mod mai confortabil pentru pacient.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -264,66 +257,3 @@ title: Rx Grilaj Costal și Stern — Oblică Postero-Anterioară (PA) — Metod
 ## Surse de documentare
 
 - [Merrill’s Atlas, 10. Bony Thorax, pagini 800–802](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-slightly oblic incidență de sternum (Fig. 10.18). grade de detail vizualizat depends largely pe technique used. If respirație
-technique este used, pulmonary markings sunt obliterated.
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• raza centrală este already înclinat 25 grade și centrat pe receptorul de imagine. If pacient positioning este precis, raza centrală enters la nivelul T7 și
-approximately 2 inches (5 cm) la drept de coloană vertebrală. This angulation places sternum over lung la maintain maximum
-contrast de sternum.
-• x-ray tube angulation poate fie ajustat pentru extremely large sau small pacienți. Large pacienți require less angulation și thin pacienți
-require more angulation than standard 25-grade angle.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire sternum de la incizură jugulară (furculiță sternală) la tip de apendice xifoid
-• Sternum projected liber de superimposition de la thoracic coloană vertebrală
-• Blurred pulmonary markings if Tehnică de estompare prin respirație superficială (respirație technique) was used
-• Blurred posterior coaste if reduced SID was used
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se poziționează pacientul’s brațe above umerii și palms down pe masa de examinare. brațele act ca support pentru side de capul (Fig.
-10.17).
-• Ensure that pacientul este în true decubit ventral și that midsternal area este la center de masa radiologică.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Before positioning pacientul, place receptorul de imagine transversal în tăvița Bucky. Place x-ray tube la a 30-inch (76-cm) SID, angle it 25
-grade, și se orientează raza centrală centrală la center de receptorul de imagine. x-ray tube este poziționat over pacientul’s drept side.
-• Place marker pe tabletop near pacientul’s cap la indicate exact center de receptorul de imagine.
-• Se instruiește pacientul să stand la side de masa radiologică directly în front de tăvița Bucky.
-• Se instruiește pacientul să bend la waist, și place sternum în center de masa de examinare directly over previously poziționat receptorul de imagine.
-
-### respiration
-
-shallow Tehnică de estompare prin respirație superficială (respirație technique) produces best results. Se instruiește pacientul să take slow, shallow breaths during expunere. low mA setting și expunere time de 1 la 3 seconds sunt recommended. When low mA setting și long expunere time
-cannot fie employed, Se instruiește pacientul să Apnee pe durata expunerii la end de expiration la minimize visibility de pulmonary
-vasculature.
-
-### sid
-
-A 30-inch (76-cm) SID este recommended. This short distance assists în blurring posterior coaste.
-radiografie de sternum poate fie dificult la perform pe ambulatory pacient who este having acute pain. alternative positioning
-method described prin Moore 1 uses modified decubit ventral, which makes it possible la produce high-quality sternum imagine în more
-comfortable manner pentru pacientul.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-

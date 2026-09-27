@@ -25,6 +25,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-ap-transorala-gura-deschisa-c1-c2-c1-and-c2-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Asigurați-vă că, atunci când pacientul este instruit să deschidă gura, se mișcă
@@ -62,7 +66,7 @@ quality_criteria:
   a gâtului sau înclinați ușor cefalic raza centrală.
 - Dacă baza craniului se suprapune peste densul superior, repoziționați printr-o ușoară
   hiperflexie a gâtului sau înclinați ușor caudal raza centrală (baza craniului și/sau
-  incisivii superiori vor fi proiectați cu aproximativ 1 inch [2.5 cm] pentru fiecare
+  incisivii superiori vor fi proiectați cu aproximativ 1 țol [2.5 cm] pentru fiecare
   5° de angulație caudală).
 - 'Absența rotației anatomice: claviculele sunt echidistante față de linia proceselor
   spinoase, indicată prin distanțe egale față de masele laterale și/sau procesele
@@ -116,11 +120,12 @@ title: Rx Coloană Cervicală AP Transorală (Gură Deschisă C1-C2) (C1 și C2)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -152,7 +157,7 @@ title: Rx Coloană Cervicală AP Transorală (Gură Deschisă C1-C2) (C1 și C2)
     - Procesul odontoid (densul) și corpul vertebral al C2, masele laterale și procesele transverse ale C1, precum și articulațiile atlantoaxiale sunt evidențiate prin gura deschisă (transoral) (Fig. 8.47 și 8.48). poziție
     - flexia/extensia optimă a gâtului, indicată prin suprapunerea marginii inferioare a incisivilor superiori peste baza craniului. Nici dinții, nici baza craniului nu trebuie să se suprapună peste dens.
     - Dacă dinții se suprapun peste densul superior, repoziționați printr-o ușoară hiperextensie a gâtului sau înclinați ușor cefalic raza centrală.
-    - Dacă baza craniului se suprapune peste densul superior, repoziționați printr-o ușoară hiperflexie a gâtului sau înclinați ușor caudal raza centrală (baza craniului și/sau incisivii superiori vor fi proiectați cu aproximativ 1 inch [2.5 cm] pentru fiecare 5° de angulație caudală).
+    - Dacă baza craniului se suprapune peste densul superior, repoziționați printr-o ușoară hiperflexie a gâtului sau înclinați ușor caudal raza centrală (baza craniului și/sau incisivii superiori vor fi proiectați cu aproximativ 1 țol [2.5 cm] pentru fiecare 5° de angulație caudală).
     - Absența rotației anatomice: claviculele sunt echidistante față de linia proceselor spinoase, indicată prin distanțe egale față de masele laterale și/sau procesele transverse ale C1 și condilii mandibulei, precum și prin alinierea centrală a procesului spinos al C2. Rotația poate imita patologia prin producerea unor spații inegale între masele laterale și dens.
     - Colimare la aria de interes diagnostic. Expunere
     - Expunere optimă a receptorului de imagine și contrast optim. Evidențiere clară a contururilor părților moi, a contururilor osoase și a trabeculației osoase a coloanei cervicale.
@@ -167,6 +172,7 @@ title: Rx Coloană Cervicală AP Transorală (Gură Deschisă C1-C2) (C1 și C2)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Asigurați-vă că, atunci când pacientul este instruit să deschidă gura, se mișcă numai mandibula. Instruiți pacientul să mențină limba în mandibulă pentru a preveni suprapunerea umbrei acesteia peste atlas și axis. Dacă procesul odontoid superior nu poate fi evidențiat prin poziționarea corectă, efectuați metoda Fuchs sau Judd (p. 325). Coloană Cervicală RUTINĂ AP gură deschisă (transorală) (C1 și C2) AP axială oblică laterală Fig. 8.46 AP gură deschisă (transorală)—C1 până la C2.

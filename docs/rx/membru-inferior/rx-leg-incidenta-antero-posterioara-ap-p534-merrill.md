@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe center de membru inferior.
+centering: perpendiculară pe centrul membrului inferior.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,27 +12,31 @@ images:
 - caption: Merrill — pagina 536, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-leg-incidenta-antero-posterioara-ap-p534-merrill/p536_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție.; se ajustează pacient’s corp
-  astfel încât Bazin (bazin (pelvis)) este nu rotit. se ajustează membru inferior
-  astfel încât femoral condyles sunt paralel cu receptorul de imagine și Picior este
-  vertical (Fig. 7.111). se flectează Gleznă (Articulație Talocrurală) until Picior
-  este în vertical poziție. If necessary, place săculeți cu nisip pe / sprijinit de
-  plantar surface de Picior la immobilize it în correct poziție. se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: se așază pacientul în decubit dorsal.; se ajustează corpul pacientului astfel
+  încât bazinul (pelvisul) să nu fie rotit. se ajustează membrul inferior astfel încât
+  condilii femurali să fie paraleli cu receptorul de imagine, iar piciorul să fie
+  vertical (Fig. 7.111). se flectează glezna până când piciorul este în poziție verticală.
+  Dacă este necesar, se plasează săculeți cu nisip pe / sprijiniți de suprafața plantară
+  a piciorului pentru a-l imobiliza în poziția corectă. se efectuează ecranarea gonadelor
+  cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Gleznă (Articulație Talocrurală) și Genunchi articulații pe one sau more imagini
-- Entire membru inferior fără rotație
-- proximal și distal articulations de tibia și fibula moderately overlapped
-- Fibular midshaft liber de tibial superimposition
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Articulațiile gleznei (talocrurale) și genunchiului pe una sau mai multe imagini
+- Întregul membru inferior fără rotație
+- articulațiile proximală și distală ale tibiei și fibulei suprapuse moderat
+- Diafiza mijlocie a fibulei liberă de suprapunerea tibiei
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-leg-incidenta-antero-posterioara-ap-p534-merrill
 source_pages:
@@ -40,55 +44,52 @@ source_pages:
 - 535
 - 536
 source_sections:
-  anatomy: tibia, fibula, și adjacent articulații (Fig. 7.112).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½
-    inches (3.8 cm) beyond ankle și genunchi articulații. Place marker de lateralitate
-    (D/S) în
+  anatomy: tibia, fibula și articulațiile adiacente (Fig. 7.112).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părți și la
+    1½ țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendiculară pe centrul membrului inferior.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    collimated expunere field.'
-  cr: • perpendicular pe center de membru inferior.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • articulațiile gleznei și genunchiului pe una sau mai multe imagini
 
-    • Ankle și genunchi articulații pe one sau more imagini
+    • întregul membru inferior fără rotație
 
-    • Entire membru inferior fără rotație
+    • articulațiile proximală și distală ale tibiei și fibulei suprapuse moderat
 
-    • proximal și distal articulations de tibia și fibula moderately overlapped
+    • diafiza mijlocie a fibulei liberă de suprapunerea tibiei
 
-    • Fibular midshaft liber de tibial superimposition
+    • detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• se ajustează corpul pacientului astfel încât bazinul (pelvisul) să
+    nu fie rotit.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează pacient’s corp astfel încât bazin (pelvis) este nu rotit.
+    • se ajustează membrul inferior astfel încât condilii femurali să fie paraleli
+    cu receptorul de imagine, iar piciorul să fie vertical (Fig. 7.111).
 
-    • se ajustează membru inferior astfel încât femoral condyles sunt paralel cu receptorul
-    de imagine și picior este vertical (Fig. 7.111).
+    • se flectează glezna până când piciorul este în poziție verticală.
 
-    • se flectează ankle until picior este în vertical poziție.
-
-    • If necessary, place săculeți cu nisip pe / sprijinit de plantar surface de picior
-    la immobilize it în correct poziție.
+    • Dacă este necesar, se plasează săculeți cu nisip pe / sprijiniți de suprafața
+    plantară a piciorului pentru a-l imobiliza în poziția corectă.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit dorsal.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal
-    sau
-
-    diagonal.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 țoli (35
+    × 43 cm), longitudinal sau diagonal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 534–536
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches
-    (3.8 cm) beyond Gleznă (Articulație Talocrurală) și Genunchi articulații. Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Leg — Incidență Antero-Posterioară (AP) (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părți și la 1½
+    țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx gambă — Incidență anteroposterioară (AP) (Merrill)
 ---
-# Rx Leg — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx gambă — Incidență anteroposterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -112,17 +113,18 @@ title: Rx Leg — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție.; se ajustează pacient’s corp astfel încât Bazin (bazin (pelvis)) este nu rotit. se ajustează membru inferior astfel încât femoral condyles sunt paralel cu receptorul de imagine și Picior este vertical (Fig. 7.111). se flectează Gleznă (Articulație Talocrurală) until Picior este în vertical poziție. If necessary, place săculeți cu nisip pe / sprijinit de plantar surface de Picior la immobilize it în correct poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe center de membru inferior.
+    - **Poziție Pacient:** se așază pacientul în decubit dorsal.; se ajustează corpul pacientului astfel încât bazinul (pelvisul) să nu fie rotit. se ajustează membrul inferior astfel încât condilii femurali să fie paraleli cu receptorul de imagine, iar piciorul să fie vertical (Fig. 7.111). se flectează glezna până când piciorul este în poziție verticală. Dacă este necesar, se plasează săculeți cu nisip pe / sprijiniți de suprafața plantară a piciorului pentru a-l imobiliza în poziția corectă. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendiculară pe centrul membrului inferior.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -138,20 +140,20 @@ title: Rx Leg — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches (3.8 cm) beyond Gleznă (Articulație Talocrurală) și Genunchi articulații. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părți și la 1½ țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Gleznă (Articulație Talocrurală) și Genunchi articulații pe one sau more imagini
-    - Entire membru inferior fără rotație
-    - proximal și distal articulations de tibia și fibula moderately overlapped
-    - Fibular midshaft liber de tibial superimposition
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Articulațiile gleznei (talocrurale) și genunchiului pe una sau mai multe imagini
+    - Întregul membru inferior fără rotație
+    - articulațiile proximală și distală ale tibiei și fibulei suprapuse moderat
+    - Diafiza mijlocie a fibulei liberă de suprapunerea tibiei
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,6 +162,7 @@ title: Rx Leg — Incidență Antero-Posterioară (AP) (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -199,46 +202,3 @@ title: Rx Leg — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 534–536](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-tibia, fibula, și adjacent articulații (Fig. 7.112).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches (3.8 cm) beyond ankle și genunchi articulații. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe center de membru inferior.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Ankle și genunchi articulații pe one sau more imagini
-• Entire membru inferior fără rotație
-• proximal și distal articulations de tibia și fibula moderately overlapped
-• Fibular midshaft liber de tibial superimposition
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează pacient’s corp astfel încât bazin (pelvis) este nu rotit.
-• se ajustează membru inferior astfel încât femoral condyles sunt paralel cu receptorul de imagine și picior este vertical (Fig. 7.111).
-• se flectează ankle until picior este în vertical poziție.
-• If necessary, place săculeți cu nisip pe / sprijinit de plantar surface de picior la immobilize it în correct poziție.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal sau
-diagonal.
-

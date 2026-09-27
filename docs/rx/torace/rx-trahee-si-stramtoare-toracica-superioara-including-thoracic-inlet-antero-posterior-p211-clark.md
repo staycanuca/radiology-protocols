@@ -1,44 +1,47 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made pe forced expiration
+breathing: Expunerea se efectuează în expir forțat.
 category: torace
-centering: '• Direct vertical ray în linia mediană la nivelul incizură jugulară (furculiță
-  sternală).
+centering: '• Raza verticală directă în linia mediană la nivelul incizurii jugulare
+  (furculița sternală).
 
-  • expunere este made pe forced expiration.
+  • Expunerea se efectuează în expir forțat.
 
 
-  • raza centrală orizontală centrală este orientat la caseta la nivelul incizură
-  jugulară (furculiță sternală).
+  • Raza centrală orizontală este orientată spre casetă la nivelul incizurii jugulare
+  (furculița sternală).
 
-  • expunere este made pe forced expiration.'
+  • Expunerea se efectuează în expir forțat.'
 clinical_indications:
-- This incidență este sometimes helpful în confirming retrosternal extension de thyroid
-  gland. Most assessments de trachea itself will fie prin bronchoscopy și/sau CT (especially
-  multislice CT cu MPR reconstructions și virtual bronchoscopy).
-- anterior mediastinal mass (e.g. retrosternal thyroid) causes increased densitate
-  optică de anterior mediastinal window. This poate also fie mimicked prin superimposed
-  părți moi if pacientul’s brațe sunt nu pulled backwards sufficiently away de la
-  aria de interes diagnostic. Trachea 6th CV Profil (lateral) radiografie evidențiind
-  normal air-filled trachea Profil (lateral) radiografie evidențiind compression și
-  posterior deviation de trachea prin enlarged thyroid.
+- Această incidență este uneori utilă pentru confirmarea extensiei retrosternale a
+  glandei tiroide. Majoritatea evaluărilor traheei propriu-zise se efectuează prin
+  bronhoscopie și/sau CT (în special CT multislice cu reconstrucții MPR și bronhoscopie
+  virtuală).
+- O masă mediastinală anterioară (de exemplu, tiroidă retrosternală) determină creșterea
+  densității optice a ferestrei mediastinale anterioare. Aceasta poate fi mimată și
+  de țesuturi moi suprapuse dacă brațele pacientului nu sunt retrase suficient în
+  afara ariei de interes diagnostic. Trahee la nivelul celei de-a 6-a vertebre cervicale.
+  Radiografie de profil evidențiind trahee normală umplută cu aer. Radiografie de
+  profil evidențiind compresia și deviația posterioară a traheei de către tiroida
+  mărită.
 images:
-- caption: Plain radiografie este requested la investigate presence de
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografia simplă este solicitată pentru investigarea prezenței
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_1.jpeg
-- caption: și la bring radiographic baseline la angle de 20 grade
+- caption: și pentru a aduce linia de bază radiografică la un unghi de 20 grade
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_2.jpeg
-- caption: Antero-posterior (AP) radiografie evidențiind normal trachea
+- caption: Radiografie antero-posterioară (AP) evidențiind trahee normală
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_3.jpeg
-- caption: Profil (lateral) radiografie evidențiind normal
+- caption: Radiografie de profil (lateral) evidențiind normal
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_4.jpeg
-- caption: Profil (lateral) radiografie evidențiind
+- caption: Radiografie de profil (lateral) evidențiind
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_5.jpeg
@@ -46,31 +49,36 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_6.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: la ideal poziție și humeral heads just overlap trachea
-position: '• pacientul este culcat Decubit dorsal, cu planul mediosagital ajustat
-  la coincide cu central axa longitudinală de imaging couch.
+notes: În poziția ideală, capetele humerale se suprapun ușor peste trahee
+position: '• Pacientul este culcat în decubit dorsal, cu planul mediosagital ajustat
+  să coincidă cu axa longitudinală centrală a mesei de examinare.
 
-  • bărbia este raised la show soft tissues below Mandibulă și la bring radiographic
-  baseline la angle de 20 grade de la vertical.
+  • Bărbia este ridicată pentru a evidenția țesuturile moi de sub mandibulă și pentru
+  a aduce linia de bază radiografică la un unghi de 20 grade față de verticală.
 
-  • caseta este centred la nivelul incizură jugulară (furculiță sternală).
+  • Caseta este centrată la nivelul incizurii jugulare (furculița sternală).
 
 
-  • pacientul stă în ortostatism sau sits cu either Umăr against stativ vertical Bucky.
+  • Pacientul stă în ortostatism sau șezând, cu un umăr lipit de stativul vertical
+  Bucky.
 
-  • planul mediosagital de trunk și cap sunt paralel cu casetă.
+  • Planul mediosagital al trunchiului și capului este paralel cu caseta.
 
-  • caseta trebuie să fie large enough la include de la lower faringe la lower end
-  de trachea la nivelul sternal angle.
+  • Caseta trebuie să fie suficient de mare pentru a include de la faringele inferior
+  până la capătul inferior al traheei, la nivelul unghiului sternal.
 
-  • umerii sunt pulled well backwards la enable visualization de trachea.
+  • Umerii sunt trași bine posterior pentru a permite vizualizarea traheei.
 
-  • This poziție este aided prin pacientul clasping their mâini behind back și pulling
-  their brațe backwards.
+  • Această poziție este facilitată prin faptul că pacientul își ține mâinile împreunate
+  în spatele spatelui și își trage brațele posterior.
 
-  • caseta este centred la nivelul incizură jugulară (furculiță sternală).'
+  • Caseta este centrată la nivelul incizurii jugulare (furculița sternală).'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -79,27 +87,27 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- fascicul trebuie să fie collimated pentru include full length de trachea. 196 Antero-posterior
-  (AP) radiografie evidențiind normal trachea Antero-posterior (AP) radiografie de
-  trachea evidențiind paratracheal lymph node mass (arrows). arrowheads indicate aortic
-  arch
+- Fasciculul trebuie colimat pentru a include întreaga lungime a traheei. 196 Radiografie
+  antero-posterioară (AP) evidențiind trahee normală. Radiografie antero-posterioară
+  (AP) a traheei evidențiind o masă ganglionară paratraheală (săgeți). Vârfurile săgeților
+  indică arcul aortic
 sid_dff: 100 cm
 slug: rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 211
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Trahee și Strâmtoare Toracică Superioară (including thoracic inlet) Antero-Posterior
-  (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie antero-posterioară (AP) a traheei și a strâmtorii toracice superioare
+  (incluzând apertura toracică superioară)
 ---
-# Rx Trahee și Strâmtoare Toracică Superioară (including thoracic inlet) Antero-Posterior (AP)
+# Radiografie antero-posterioară (AP) a traheei și a strâmtorii toracice superioare (incluzând apertura toracică superioară)
 
 
 <div class="rx-meta-bar">
@@ -118,38 +126,39 @@ title: Rx Trahee și Strâmtoare Toracică Superioară (including thoracic inlet
 
     === "Indicații Clinice"
 
-        - This incidență este sometimes helpful în confirming retrosternal extension de thyroid gland. Most assessments de trachea itself will fie prin bronchoscopy și/sau CT (especially multislice CT cu MPR reconstructions și virtual bronchoscopy).
-        - anterior mediastinal mass (e.g. retrosternal thyroid) causes increased densitate optică de anterior mediastinal window. This poate also fie mimicked prin superimposed părți moi if pacientul’s brațe sunt nu pulled backwards sufficiently away de la aria de interes diagnostic. Trachea 6th CV Profil (lateral) radiografie evidențiind normal air-filled trachea Profil (lateral) radiografie evidențiind compression și posterior deviation de trachea prin enlarged thyroid.
+        - Această incidență este uneori utilă pentru confirmarea extensiei retrosternale a glandei tiroide. Majoritatea evaluărilor traheei propriu-zise se efectuează prin bronhoscopie și/sau CT (în special CT multislice cu reconstrucții MPR și bronhoscopie virtuală).
+        - O masă mediastinală anterioară (de exemplu, tiroidă retrosternală) determină creșterea densității optice a ferestrei mediastinale anterioare. Aceasta poate fi mimată și de țesuturi moi suprapuse dacă brațele pacientului nu sunt retrase suficient în afara ariei de interes diagnostic. Trahee la nivelul celei de-a 6-a vertebre cervicale. Radiografie de profil evidențiind trahee normală umplută cu aer. Radiografie de profil evidențiind compresia și deviația posterioară a traheei de către tiroida mărită.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal, cu planul mediosagital ajustat la coincide cu central axa longitudinală de imaging couch.
-• bărbia este raised la show soft tissues below Mandibulă și la bring radiographic baseline la angle de 20 grade de la vertical.
-• caseta este centred la nivelul incizură jugulară (furculiță sternală).
-
-• pacientul stă în ortostatism sau sits cu either Umăr against stativ vertical Bucky.
-• planul mediosagital de trunk și cap sunt paralel cu casetă.
-• caseta trebuie să fie large enough la include de la lower faringe la lower end de trachea la nivelul sternal angle.
-• umerii sunt pulled well backwards la enable visualization de trachea.
-• This poziție este aided prin pacientul clasping their mâini behind back și pulling their brațe backwards.
-• caseta este centred la nivelul incizură jugulară (furculiță sternală).
-    - **Punct de Centrare Fascicul:** • Direct vertical ray în linia mediană la nivelul incizură jugulară (furculiță sternală).
-• expunere este made pe forced expiration.
-
-• raza centrală orizontală centrală este orientat la caseta la nivelul incizură jugulară (furculiță sternală).
-• expunere este made pe forced expiration.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal, cu planul mediosagital ajustat să coincidă cu axa longitudinală centrală a mesei de examinare.
+        - Bărbia este ridicată pentru a evidenția țesuturile moi de sub mandibulă și pentru a aduce linia de bază radiografică la un unghi de 20 grade față de verticală.
+        - Caseta este centrată la nivelul incizurii jugulare (furculița sternală).
+        - Pacientul stă în ortostatism sau șezând, cu un umăr lipit de stativul vertical Bucky.
+        - Planul mediosagital al trunchiului și capului este paralel cu caseta.
+        - Caseta trebuie să fie suficient de mare pentru a include de la faringele inferior până la capătul inferior al traheei, la nivelul unghiului sternal.
+        - Umerii sunt trași bine posterior pentru a permite vizualizarea traheei.
+        - Această poziție este facilitată prin faptul că pacientul își ține mâinile împreunate în spatele spatelui și își trage brațele posterior.
+        - Caseta este centrată la nivelul incizurii jugulare (furculița sternală).
+    - **Punct de Centrare Fascicul:**
+        - Raza verticală directă în linia mediană la nivelul incizurii jugulare (furculița sternală).
+        - Expunerea se efectuează în expir forțat.
+        - Raza centrală orizontală este orientată spre casetă la nivelul incizurii jugulare (furculița sternală).
+        - Expunerea se efectuează în expir forțat.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made pe forced expiration
+    - **Comandă Respiratorie:** Expunerea se efectuează în expir forțat.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -158,19 +167,19 @@ title: Rx Trahee și Strâmtoare Toracică Superioară (including thoracic inlet
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - fascicul trebuie să fie collimated pentru include full length de trachea. 196 Antero-posterior (AP) radiografie evidențiind normal trachea Antero-posterior (AP) radiografie de trachea evidențiind paratracheal lymph node mass (arrows). arrowheads indicate aortic arch
+    - Fasciculul trebuie colimat pentru a include întreaga lungime a traheei. 196 Radiografie antero-posterioară (AP) evidențiind trahee normală. Radiografie antero-posterioară (AP) a traheei evidențiind o masă ganglionară paratraheală (săgeți). Vârfurile săgeților indică arcul aortic
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -182,8 +191,9 @@ title: Rx Trahee și Strâmtoare Toracică Superioară (including thoracic inlet
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la ideal poziție și humeral heads just overlap trachea
+    În poziția ideală, capetele humerale se suprapun ușor peste trahee
 
 
 ### 🖼️ Imagini
@@ -192,41 +202,41 @@ title: Rx Trahee și Strâmtoare Toracică Superioară (including thoracic inlet
 
 <figure class="protocol-image-card" markdown>
 
-![Plain radiografie este requested la investigate presence de](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_1.jpeg)
+![Radiografia simplă este solicitată pentru investigarea prezenței](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_1.jpeg)
 
-<figcaption><strong>Plain radiografie este requested la investigate presence de</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![și la bring radiographic baseline la angle de 20 grade](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_2.jpeg)
-
-<figcaption><strong>și la bring radiographic baseline la angle de 20 grade</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografia simplă este solicitată pentru investigarea prezenței</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie evidențiind normal trachea](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_3.jpeg)
+![și pentru a aduce linia de bază radiografică la un unghi de 20 grade](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie evidențiind normal trachea</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Profil (lateral) radiografie evidențiind normal](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_4.jpeg)
-
-<figcaption><strong>Profil (lateral) radiografie evidențiind normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>și pentru a aduce linia de bază radiografică la un unghi de 20 grade</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie evidențiind](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_5.jpeg)
+![Radiografie antero-posterioară (AP) evidențiind trahee normală](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_3.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie evidențiind</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară (AP) evidențiind trahee normală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil (lateral) evidențiind normal](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie de profil (lateral) evidențiind normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil (lateral) evidențiind](../../assets/images/protocols/clark/rx-trahee-si-stramtoare-toracica-superioara-including-thoracic-inlet-antero-posterior-p211-clark/fig_5.jpeg)
+
+<figcaption><strong>Radiografie de profil (lateral) evidențiind</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -34,6 +34,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.78
     AP axial 15 grade, metoda Caldwell inversă — raza centrală 15 grade)
   url: assets/images/protocols/bontrager/rx-craniu-ap-ap-axial-15-degrees-reverse-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Scanarea CT dinamică este disponibilă pe scară largă în majoritatea spitalelor
@@ -98,11 +102,12 @@ title: Rx craniu AP, AP axială la 15 grade (incidență occipito-frontală inve
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -144,6 +149,7 @@ title: Rx craniu AP, AP axială la 15 grade (incidență occipito-frontală inve
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Scanarea CT dinamică este disponibilă pe scară largă în majoritatea spitalelor care tratează pacienți cu traumatisme craniene; astfel, utilizarea de rutină a CT a fost susținută ca instrument de screening pentru triajul pacienților cu traumatisme craniene minore sau ușoare care necesită internare sau intervenție chirurgicală, dintre cei care pot fi externați în siguranță fără internare.13

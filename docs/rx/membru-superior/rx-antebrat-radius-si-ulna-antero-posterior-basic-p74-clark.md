@@ -3,33 +3,37 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală verticală centrală este centred în linia mediană Antebraț
-  (Radius și Ulna) la point midway între Pumn (Articulație Radiocarpiană) și Cot articulații.
+centering: '• raza centrală verticală este centrată pe linia mediană a antebrațului
+  (radius și ulna), la jumătatea distanței dintre articulația radiocarpiană și articulația
+  cotului.
 
 
-  • raza centrală verticală centrală este centred în linia mediană Antebraț (Radius
-  și Ulna) la point midway între Pumn (Articulație Radiocarpiană) și Cot articulații.'
+  • raza centrală verticală este centrată pe linia mediană a antebrațului (radius
+  și ulna), la jumătatea distanței dintre articulația radiocarpiană și articulația
+  cotului.'
 clinical_indications:
-- When two sau more bones such ca radius și ulna form ring, suspiciune de fractură
-  de one de bones este often associated cu suspiciune de fractură sau luxație articulară
-  elsewhere în ring, especially if suspiciune de fractură este displaced sau bone
-  ends overlap. în Galeazzi suspiciune de fractură there este suspiciune de fractură
-  de radius cu luxație articulară de distal ulna, while în Monteggia suspiciune de
-  fractură there este suspiciune de fractură de ulna cu luxație articulară de capul
-  de radius. în Antebraț (Radius și Ulna) suspiciune de fractură, therefore, ambele
-  ends de ambele bones, ca well ca proximal și distal radio-ulnar articulații, trebuie
-  să fie evidențiat.
-- General Antebraț (Radius și Ulna) incidențe do nu give adecvat incidențe de Cot
-  și trebuie să nu fie relied upon pentru diagnosis de cap radial injury.
-- If Cot articulație effusion este vizualizat, formal incidențe de Cot articulație
-  will fie required. 60 Normal basic Profil (lateral) radiografie de Antebraț (Radius
-  și Ulna) Profil (lateral) incidență Antero-posterior (AP) incidență radiografii
-  de Antebraț (Radius și Ulna) evidențiind Galeazzi suspiciune de fractură
+- Când două sau mai multe oase, precum radiusul și ulna, formează un inel, suspiciunea
+  de fractură a unuia dintre oase este adesea asociată cu suspiciunea de fractură
+  sau luxație articulară în altă parte a inelului, în special dacă fractura este deplasată
+  sau capetele osoase se suprapun. În fractura Galeazzi există o fractură a radiusului
+  cu luxația ulnei distale, în timp ce în fractura Monteggia există o fractură a ulnei
+  cu luxația capului radiusului. Prin urmare, în cazul unei fracturi de antebraț (radius
+  și ulna), ambele extremități ale ambelor oase, precum și articulațiile radioulnare
+  proximală și distală, trebuie evidențiate.
+- Incidențele generale ale antebrațului (radius și ulna) nu oferă incidențe adecvate
+  ale cotului și nu trebuie utilizate pentru diagnosticarea unei leziuni a capului
+  radial.
+- Dacă este vizibil un revărsat în articulația cotului, vor fi necesare incidențe
+  formale ale articulației cotului. 60 Radiografie normală de bază a antebrațului
+  (radius și ulna), de profil; incidență de profil; incidență anteroposterioară (AP);
+  radiografii ale antebrațului (radius și ulna) care evidențiază o fractură Galeazzi
 images:
-- caption: incidențe sunt normally acquired pe one film radiologic, cu half de
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidențele sunt obținute în mod normal pe o singură peliculă radiologică,
+    cu jumătate din
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_1.jpeg
-- caption: Normal Antero-posterior (AP) radiografie de Antebraț (Radius și Ulna)
+- caption: Radiografie normală anteroposterioară (AP) a antebrațului (radius și ulna)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_2.jpeg
@@ -37,77 +41,86 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_3.jpeg
-- caption: ring, suspiciune de fractură de one de bones este often associated cu frac-
+- caption: inelul, suspiciunea de fractură a unuia dintre oase este adesea asociată
+    cu o fractură de
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_4.jpeg
-- caption: ture este displaced sau bone ends overlap. în Galeazzi suspiciune de fractură
+- caption: fractură care este deplasată sau cu suprapunerea capetelor osoase. În fractura
+    Galeazzi
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_5.jpeg
-- caption: there este suspiciune de fractură de radius cu luxație articulară de distal
+- caption: există o fractură a radiusului cu luxația ulnei distale
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_6.jpeg
-- caption: ulna, while în Monteggia suspiciune de fractură there este suspiciune de
-    fractură de ulna
+- caption: ulna, în timp ce în fractura Monteggia există o fractură a ulnei
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_7.jpeg
-- caption: Normal basic Profil (lateral) radiografie de Antebraț (Radius și Ulna)
+- caption: Radiografie normală de bază, de profil, a antebrațului (radius și ulna)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_8.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'Postero-anterior (PA) incidență de Antebraț (Radius și Ulna) cu Pumn (Articulație
-  Radiocarpiană) în pronație este nu satisfactory because, în this incidență, radius
-  este superimposed over ulna pentru part de its length.
+notes: 'Incidența posteroanterioară (PA) a antebrațului (radius și ulna), cu articulația
+  radiocarpiană în pronație, nu este satisfăcătoare deoarece, în această incidență,
+  radiusul este suprapus peste ulnă pe o parte a lungimii sale.
 
-  Normal Antero-posterior (AP) radiografie de Antebraț (Radius și Ulna) Example de
-  incorrect technique – radius este superimposed în Postero-anterior (PA) incidență
+  Radiografie normală anteroposterioară (AP) a antebrațului (radius și ulna)
+
+  Exemplu de tehnică incorectă – radiusul este suprapus în incidența posteroanterioară
+  (PA)
 
 
-  • în trauma cases, it poate fie impossible la move braț into poziții described,
-  și modified technique poate need la fie employed la ensure that two incidențe la
-  drept-angles la fiecare other sunt obtained.
+  • În cazurile de traumatism, poate fi imposibilă deplasarea brațului în pozițiile
+  descrise, iar pentru a obține două incidențe perpendiculare una pe cealaltă poate
+  fi necesară utilizarea unei tehnici modificate.
 
-  • If limb cannot fie moved through 90 grade, then Fascicul Orizontal trebuie să
-  fie used.
+  • Dacă membrul nu poate fi deplasat la 90 de grade, trebuie utilizat fasciculul
+  orizontal.
 
-  • ambele articulații trebuie să fie included pe fiecare imagine.
+  • Ambele articulații trebuie incluse în fiecare imagine.
 
-  • fără attempt trebuie să fie made la se rotește pacient’s Mână.'
+  • Nu trebuie încercată rotirea mâinii pacientului.'
 position: '• Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată
   sprijinită pe masă.
 
-  • braț este în abducție și Cot articulație este fully extins, cu în supinație Antebraț
-  (Radius și Ulna) resting pe masa de examinare.
+  • Brațul este în abducție, iar articulația cotului este complet extinsă, cu antebrațul
+  (radius și ulna) în supinație și sprijinit pe masa de examinare.
 
-  • Umăr este lowered la same level ca Cot articulație.
+  • Umărul este coborât la același nivel cu articulația cotului.
 
-  • caseta este plasat under Antebraț (Radius și Ulna) pentru include Pumn (Articulație
-  Radiocarpiană) articulație și Cot articulație.
+  • Caseta este plasată sub antebrațul (radius și ulna) pentru a include articulația
+  radiocarpiană și articulația cotului.
 
-  • braț este ajustat astfel încât radial și ulnar styloid processes și medial și
-  Profil (lateral) epicondyles sunt echidistant față de caseta.
+  • Brațul este ajustat astfel încât procesele stiloide radial și ulnar și epicondilii
+  medial și lateral să fie echidistanți față de casetă.
 
-  • lower end de Humerus și Mână sunt imobilizat using săculeți cu nisip.
+  • Extremitatea inferioară a humerusului și mâna sunt imobilizate cu săculeți cu
+  nisip.
 
 
-  • de la Antero-posterior (AP) poziție, Cot este flectat la 90 grade.
+  • Din poziția anteroposterioară (AP), cotul este flectat la 90 de grade.
 
-  • Humerus este internally rotit la 90 grade la bring medial aspect de upper braț,
-  Cot, Antebraț (Radius și Ulna), Pumn (Articulație Radiocarpiană) și Mână into contact
+  • Humerusul este rotit intern la 90 de grade pentru a aduce aspectul medial al brațului,
+  cotul, antebrațul (radius și ulna), articulația radiocarpiană și mâna în contact
   cu masa de examinare.
 
-  • caseta este plasat under Antebraț (Radius și Ulna) pentru include Pumn (Articulație
-  Radiocarpiană) articulație și Cot articulație.
+  • Caseta este plasată sub antebrațul (radius și ulna) pentru a include articulația
+  radiocarpiană și articulația cotului.
 
-  • braț este ajustat astfel încât radial și ulnar styloid processes și medial și
-  Profil (lateral) epicondyles sunt superimposed.
+  • Brațul este ajustat astfel încât procesele stiloide radial și ulnar și epicondilii
+  medial și lateral să fie suprapuși.
 
-  • lower end de Humerus și Mână sunt imobilizat using săculeți cu nisip.'
+  • Extremitatea inferioară a humerusului și mâna sunt imobilizate cu săculeți cu
+  nisip.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -116,15 +129,13 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- ambele Cot și Pumn (Articulație Radiocarpiană) articulație trebuie să fie evidențiat
-  pe casetă.
-- ambele articulații trebuie să fie seen în true Antero-posterior (AP) poziție, cu
-  radial și ulnar styloid processes și epicondyles de Humerus echidistant față de
-  caseta.
-- ambele Cot și Pumn (Articulație Radiocarpiană) articulație trebuie să fie evidențiat
-  pe imagine.
-- ambele articulații trebuie să fie seen în true Profil (lateral) poziție, cu radial
-  și ulnar styloid processes și epicondyles de Humerus superimposed.
+- Ambele articulații, cotul și articulația radiocarpiană, trebuie evidențiate pe casetă.
+- Ambele articulații trebuie vizualizate în poziție anteroposterioară (AP) adevărată,
+  cu procesele stiloide radial și ulnar și epicondilii humerusului echidistanți față
+  de casetă.
+- Ambele articulații, cotul și articulația radiocarpiană, trebuie evidențiate pe imagine.
+- Ambele articulații trebuie vizualizate în poziție de profil adevărată, cu procesele
+  stiloide radial și ulnar și epicondilii humerusului suprapuși.
 sid_dff: 100 cm
 slug: rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark
 sources:
@@ -133,14 +144,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Antebraț (Radius și Ulna) Antero-Posterior (AP) - basic
+  mas: Conform AEC / grosimii anatomice
+title: Rx antebraț (radius și ulna) anteroposterior (AP) – de bază
 ---
-# Rx Antebraț (Radius și Ulna) Antero-Posterior (AP) - basic
+# Rx antebraț (radius și ulna) anteroposterior (AP) – de bază
 
 
 <div class="rx-meta-bar">
@@ -159,37 +170,38 @@ title: Rx Antebraț (Radius și Ulna) Antero-Posterior (AP) - basic
 
     === "Indicații Clinice"
 
-        - When two sau more bones such ca radius și ulna form ring, suspiciune de fractură de one de bones este often associated cu suspiciune de fractură sau luxație articulară elsewhere în ring, especially if suspiciune de fractură este displaced sau bone ends overlap. în Galeazzi suspiciune de fractură there este suspiciune de fractură de radius cu luxație articulară de distal ulna, while în Monteggia suspiciune de fractură there este suspiciune de fractură de ulna cu luxație articulară de capul de radius. în Antebraț (Radius și Ulna) suspiciune de fractură, therefore, ambele ends de ambele bones, ca well ca proximal și distal radio-ulnar articulații, trebuie să fie evidențiat.
-        - General Antebraț (Radius și Ulna) incidențe do nu give adecvat incidențe de Cot și trebuie să nu fie relied upon pentru diagnosis de cap radial injury.
-        - If Cot articulație effusion este vizualizat, formal incidențe de Cot articulație will fie required. 60 Normal basic Profil (lateral) radiografie de Antebraț (Radius și Ulna) Profil (lateral) incidență Antero-posterior (AP) incidență radiografii de Antebraț (Radius și Ulna) evidențiind Galeazzi suspiciune de fractură
+        - Când două sau mai multe oase, precum radiusul și ulna, formează un inel, suspiciunea de fractură a unuia dintre oase este adesea asociată cu suspiciunea de fractură sau luxație articulară în altă parte a inelului, în special dacă fractura este deplasată sau capetele osoase se suprapun. În fractura Galeazzi există o fractură a radiusului cu luxația ulnei distale, în timp ce în fractura Monteggia există o fractură a ulnei cu luxația capului radiusului. Prin urmare, în cazul unei fracturi de antebraț (radius și ulna), ambele extremități ale ambelor oase, precum și articulațiile radioulnare proximală și distală, trebuie evidențiate.
+        - Incidențele generale ale antebrațului (radius și ulna) nu oferă incidențe adecvate ale cotului și nu trebuie utilizate pentru diagnosticarea unei leziuni a capului radial.
+        - Dacă este vizibil un revărsat în articulația cotului, vor fi necesare incidențe formale ale articulației cotului. 60 Radiografie normală de bază a antebrațului (radius și ulna), de profil; incidență de profil; incidență anteroposterioară (AP); radiografii ale antebrațului (radius și ulna) care evidențiază o fractură Galeazzi
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
-• braț este în abducție și Cot articulație este fully extins, cu în supinație Antebraț (Radius și Ulna) resting pe masa de examinare.
-• Umăr este lowered la same level ca Cot articulație.
-• caseta este plasat under Antebraț (Radius și Ulna) pentru include Pumn (Articulație Radiocarpiană) articulație și Cot articulație.
-• braț este ajustat astfel încât radial și ulnar styloid processes și medial și Profil (lateral) epicondyles sunt echidistant față de caseta.
-• lower end de Humerus și Mână sunt imobilizat using săculeți cu nisip.
-
-• de la Antero-posterior (AP) poziție, Cot este flectat la 90 grade.
-• Humerus este internally rotit la 90 grade la bring medial aspect de upper braț, Cot, Antebraț (Radius și Ulna), Pumn (Articulație Radiocarpiană) și Mână into contact cu masa de examinare.
-• caseta este plasat under Antebraț (Radius și Ulna) pentru include Pumn (Articulație Radiocarpiană) articulație și Cot articulație.
-• braț este ajustat astfel încât radial și ulnar styloid processes și medial și Profil (lateral) epicondyles sunt superimposed.
-• lower end de Humerus și Mână sunt imobilizat using săculeți cu nisip.
-    - **Punct de Centrare Fascicul:** • raza centrală verticală centrală este centred în linia mediană Antebraț (Radius și Ulna) la point midway între Pumn (Articulație Radiocarpiană) și Cot articulații.
-
-• raza centrală verticală centrală este centred în linia mediană Antebraț (Radius și Ulna) la point midway între Pumn (Articulație Radiocarpiană) și Cot articulații.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
+        - Brațul este în abducție, iar articulația cotului este complet extinsă, cu antebrațul (radius și ulna) în supinație și sprijinit pe masa de examinare.
+        - Umărul este coborât la același nivel cu articulația cotului.
+        - Caseta este plasată sub antebrațul (radius și ulna) pentru a include articulația radiocarpiană și articulația cotului.
+        - Brațul este ajustat astfel încât procesele stiloide radial și ulnar și epicondilii medial și lateral să fie echidistanți față de casetă.
+        - Extremitatea inferioară a humerusului și mâna sunt imobilizate cu săculeți cu nisip.
+        - Din poziția anteroposterioară (AP), cotul este flectat la 90 de grade.
+        - Humerusul este rotit intern la 90 de grade pentru a aduce aspectul medial al brațului, cotul, antebrațul (radius și ulna), articulația radiocarpiană și mâna în contact cu masa de examinare.
+        - Caseta este plasată sub antebrațul (radius și ulna) pentru a include articulația radiocarpiană și articulația cotului.
+        - Brațul este ajustat astfel încât procesele stiloide radial și ulnar și epicondilii medial și lateral să fie suprapuși.
+        - Extremitatea inferioară a humerusului și mâna sunt imobilizate cu săculeți cu nisip.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală verticală este centrată pe linia mediană a antebrațului (radius și ulna), la jumătatea distanței dintre articulația radiocarpiană și articulația cotului.
+        - raza centrală verticală este centrată pe linia mediană a antebrațului (radius și ulna), la jumătatea distanței dintre articulația radiocarpiană și articulația cotului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -200,22 +212,22 @@ title: Rx Antebraț (Radius și Ulna) Antero-Posterior (AP) - basic
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - ambele Cot și Pumn (Articulație Radiocarpiană) articulație trebuie să fie evidențiat pe casetă.
-    - ambele articulații trebuie să fie seen în true Antero-posterior (AP) poziție, cu radial și ulnar styloid processes și epicondyles de Humerus echidistant față de caseta.
-    - ambele Cot și Pumn (Articulație Radiocarpiană) articulație trebuie să fie evidențiat pe imagine.
-    - ambele articulații trebuie să fie seen în true Profil (lateral) poziție, cu radial și ulnar styloid processes și epicondyles de Humerus superimposed.
+    - Ambele articulații, cotul și articulația radiocarpiană, trebuie evidențiate pe casetă.
+    - Ambele articulații trebuie vizualizate în poziție anteroposterioară (AP) adevărată, cu procesele stiloide radial și ulnar și epicondilii humerusului echidistanți față de casetă.
+    - Ambele articulații, cotul și articulația radiocarpiană, trebuie evidențiate pe imagine.
+    - Ambele articulații trebuie vizualizate în poziție de profil adevărată, cu procesele stiloide radial și ulnar și epicondilii humerusului suprapuși.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -227,14 +239,18 @@ title: Rx Antebraț (Radius și Ulna) Antero-Posterior (AP) - basic
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    Postero-anterior (PA) incidență de Antebraț (Radius și Ulna) cu Pumn (Articulație Radiocarpiană) în pronație este nu satisfactory because, în this incidență, radius este superimposed over ulna pentru part de its length.
-Normal Antero-posterior (AP) radiografie de Antebraț (Radius și Ulna) Example de incorrect technique – radius este superimposed în Postero-anterior (PA) incidență
 
-• în trauma cases, it poate fie impossible la move braț into poziții described, și modified technique poate need la fie employed la ensure that two incidențe la drept-angles la fiecare other sunt obtained.
-• If limb cannot fie moved through 90 grade, then Fascicul Orizontal trebuie să fie used.
-• ambele articulații trebuie să fie included pe fiecare imagine.
-• fără attempt trebuie să fie made la se rotește pacient’s Mână.
+!!! note "Observații Clinice & Tehnice"
+    Incidența posteroanterioară (PA) a antebrațului (radius și ulna), cu articulația radiocarpiană în pronație, nu este satisfăcătoare deoarece, în această incidență, radiusul este suprapus peste ulnă pe o parte a lungimii sale.
+
+    Radiografie normală anteroposterioară (AP) a antebrațului (radius și ulna)
+
+    Exemplu de tehnică incorectă – radiusul este suprapus în incidența posteroanterioară (PA)
+
+    - În cazurile de traumatism, poate fi imposibilă deplasarea brațului în pozițiile descrise, iar pentru a obține două incidențe perpendiculare una pe cealaltă poate fi necesară utilizarea unei tehnici modificate.
+    - Dacă membrul nu poate fi deplasat la 90 de grade, trebuie utilizat fasciculul orizontal.
+    - Ambele articulații trebuie incluse în fiecare imagine.
+    - Nu trebuie încercată rotirea mâinii pacientului.
 
 
 ### 🖼️ Imagini
@@ -243,17 +259,17 @@ Normal Antero-posterior (AP) radiografie de Antebraț (Radius și Ulna) Example 
 
 <figure class="protocol-image-card" markdown>
 
-![incidențe sunt normally acquired pe one film radiologic, cu half de](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_1.jpeg)
+![Incidențele sunt obținute în mod normal pe o singură peliculă radiologică, cu jumătate din](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_1.jpeg)
 
-<figcaption><strong>incidențe sunt normally acquired pe one film radiologic, cu half de</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidențele sunt obținute în mod normal pe o singură peliculă radiologică, cu jumătate din</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Antero-posterior (AP) radiografie de Antebraț (Radius și Ulna)](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_2.jpeg)
+![Radiografie normală anteroposterioară (AP) a antebrațului (radius și ulna)](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_2.jpeg)
 
-<figcaption><strong>Normal Antero-posterior (AP) radiografie de Antebraț (Radius și Ulna)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală anteroposterioară (AP) a antebrațului (radius și ulna)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -267,41 +283,41 @@ Normal Antero-posterior (AP) radiografie de Antebraț (Radius și Ulna) Example 
 
 <figure class="protocol-image-card" markdown>
 
-![ring, suspiciune de fractură de one de bones este often associated cu frac-](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_4.jpeg)
+![inelul, suspiciunea de fractură a unuia dintre oase este adesea asociată cu o fractură de](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_4.jpeg)
 
-<figcaption><strong>ring, suspiciune de fractură de one de bones este often associated cu frac-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![ture este displaced sau bone ends overlap. în Galeazzi suspiciune de fractură](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_5.jpeg)
-
-<figcaption><strong>ture este displaced sau bone ends overlap. în Galeazzi suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>inelul, suspiciunea de fractură a unuia dintre oase este adesea asociată cu o fractură de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![there este suspiciune de fractură de radius cu luxație articulară de distal](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_6.jpeg)
+![fractură care este deplasată sau cu suprapunerea capetelor osoase. În fractura Galeazzi](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_5.jpeg)
 
-<figcaption><strong>there este suspiciune de fractură de radius cu luxație articulară de distal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![ulna, while în Monteggia suspiciune de fractură there este suspiciune de fractură de ulna](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_7.jpeg)
-
-<figcaption><strong>ulna, while în Monteggia suspiciune de fractură there este suspiciune de fractură de ulna</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>fractură care este deplasată sau cu suprapunerea capetelor osoase. În fractura Galeazzi</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal basic Profil (lateral) radiografie de Antebraț (Radius și Ulna)](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_8.jpeg)
+![există o fractură a radiusului cu luxația ulnei distale](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_6.jpeg)
 
-<figcaption><strong>Normal basic Profil (lateral) radiografie de Antebraț (Radius și Ulna)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>există o fractură a radiusului cu luxația ulnei distale</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![ulna, în timp ce în fractura Monteggia există o fractură a ulnei](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_7.jpeg)
+
+<figcaption><strong>ulna, în timp ce în fractura Monteggia există o fractură a ulnei</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie normală de bază, de profil, a antebrațului (radius și ulna)](../../assets/images/protocols/clark/rx-antebrat-radius-si-ulna-antero-posterior-basic-p74-clark/fig_8.jpeg)
+
+<figcaption><strong>Radiografie normală de bază, de profil, a antebrațului (radius și ulna)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

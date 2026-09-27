@@ -21,6 +21,10 @@ images:
 - caption: Merrill — pagina 1269, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-bladder-ap-incidenta-oblica-rpo-or-lpo-position-p1267-merrill/p1269_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -150,11 +154,12 @@ title: Rx Vezică Urinară — Oblică Antero-Posterioară (AP) — RPO sau Obli
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -202,6 +207,7 @@ title: Rx Vezică Urinară — Oblică Antero-Posterioară (AP) — RPO sau Obli
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -248,55 +254,3 @@ title: Rx Vezică Urinară — Oblică Antero-Posterioară (AP) — RPO sau Obli
 ## Surse de documentare
 
 - [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1267–1269](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidențele oblice evidențiază vezica urinară umplută cu substanță de contrast. Dacă este prezent refluxul, sunt vizualizate și ureterele distale (Fig. 16.67 și 16.68).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal. Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
-
-### raza centrală
-
-• Perpendicular pe centrul receptorului de imagine. Raza centrală pătrunde la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la 2 țoli
-(5 cm) medial de spina iliacă antero-superioară (SIAS) aflată deasupra. Când colul vezical și uretra proximală sunt principalele zone de interes, o angulare caudală de 10 grade
-a razei centrale este de obicei suficientă pentru a proiecta oasele pubiene sub acestea.
-• Perpendicular la nivelul simfizei pubiene pentru examinările micționale.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără suprapunere peste structurile anatomice de interes
-• Regiunile extremităților distale ale ureterelor și ale vezicii urinare și porțiunea proximală a uretrei
-• Oasele pubiene proiectate sub colul vezical și uretra proximală
-• Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
-• Structurile anatomice înconjurătoare
-• Fără suprapunerea coapsei aflate deasupra peste vezica urinară
-Examinări micționale
-• Întreaga uretră vizibilă și umplută cu substanță de contrast
-• Uretra suprapusă peste coapsă în incidențele oblice pentru o vizibilitate mai bună
-• Uretra situată posterior de ramurile pubiene și ischiatice suprapuse de pe partea aflată dedesubt în incidențele oblice
-
-### part_pos
-
-• se rotește pacientul cu 40 la 60 grade în RPO sau LPO, conform preferinței medicului examinator (Fig. 16.66).
-• se ajustează poziția pacientului astfel încât arcul pubian cel mai apropiat de masă să fie aliniat deasupra liniei mediane a grilei.
-• se extinde și se abduce coapsa de deasupra suficient pentru a preveni suprapunerea acesteia peste regiunea vezicii urinare.
-• se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene și la aproximativ 2 țoli (5 cm) medial de spina iliacă antero-superioară (SIAS) de deasupra (sau la nivelul simfizei pubiene pentru examinările micționale).
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal pe masa radiologică.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

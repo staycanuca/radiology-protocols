@@ -12,6 +12,10 @@ contrast:
   timing: Urmărire bolus (Bolus Tracking)
   trigger: 180 HU
   volume: 1.6 mL/kg
+iris_reference:
+  chapter: Aparat cardiovascular (Cord)
+  radiation_dose: Clasa 3 (Moderată 4 - 8 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-01-01'
 notes:
   additional_recons: Reconstrucții dedicate pe inelul aortic (plan dublu oblic 'en
@@ -84,6 +88,21 @@ series:
   start: Diafragm
   thickness: 1 mm
 slug: gated-cta-tavr
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: ACR / SCCT
+  kind: Standard de practică cardiovasculară
+  sha256: 16bdb917dce22c0f1620d70ff041aa5d8e0fb7f9d2139d1b15479b41a9f34a32
+  source_region: US
+  title: SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — Cardiovascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms:
 - TAVR, Transcatheter aortic valve replacement
 tech_params:
@@ -96,21 +115,6 @@ tech_params:
   scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
   slice_thickness: 0.625 mm
 title: Angio-CT Sincronizat ECG Planificare TAVR (Implantare Valvulară Aortică Transcateter)
-sources:
-- title: SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography
-  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf
-  institution: ACR / SCCT
-  source_region: US
-  kind: Standard de practică cardiovasculară
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 16bdb917dce22c0f1620d70ff041aa5d8e0fb7f9d2139d1b15479b41a9f34a32
-- title: UT Southwestern Radiology — Cardiovascular CT Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Sincronizat ECG Planificare TAVR (Implantare Valvulară Aortică Transcateter)
@@ -142,10 +146,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+            - **Capitol Ghid IRIS:** *Aparat cardiovascular (Cord)*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 4 - 8 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -233,6 +241,7 @@ sources:
     | Axial | Angio-CT Flash AP | Abdomen-Pelvis | 1.5 mm/1.5 mm | Vascular |  | Evaluarea calibrului vaselor de acces iliofemurale |
     | Double oblique | Angio-CT Torace Sincronizat | Cord | 0.75 mm/0.75 mm | Cardiac |  | Plan dublu oblic 'en face' pe inelul aortic pentru dimensionare |
     | 3D VR | Angio-CT Flash AP | Abdomen-Pelvis | 1 mm/1 mm | Vascular |  | Randare 3D a traiectului vascular de abord |
+
 
 ## Surse și revizuire
 

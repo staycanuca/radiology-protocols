@@ -26,6 +26,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.128
     profil masiv facial (oase ale feței).)
   url: assets/images/protocols/bontrager/rx-right-or-left-lateral-profil-lateral-masiv-facial-oase-ale-fetei-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Utilizați un suport radiotransparent sub cap, dacă este necesar, pentru a aduce
@@ -107,11 +111,12 @@ title: Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (MASIV FACIAL (OASE ALE FEȚEI))
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -157,6 +162,7 @@ title: Rx PROFIL DREAPTA SAU STÂNGA (Lateral) (MASIV FACIAL (OASE ALE FEȚEI))
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Utilizați un suport radiotransparent sub cap, dacă este necesar, pentru a aduce linia interpupilară (LIP) perpendicular pe masa radiologică la pacientul cu torace voluminos. Fig. 11.125 profil drept — ortostatism. Fig. 11.126 profil drept, în decubit semipron. MASIV FACIAL (OASE ALE FEȚEI) DE RUTINĂ profil Parietoacantial (incidență occipito-mentonieră (metoda Waters)) PA axială (incidență occipito-frontală (metoda Caldwell))

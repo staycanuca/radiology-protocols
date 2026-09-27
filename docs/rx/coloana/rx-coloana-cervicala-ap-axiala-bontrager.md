@@ -30,6 +30,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-coloana-cervicala-ap-axiala-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Angulația cefalică direcționează fasciculul între corpurile vertebrale cervicale
@@ -110,11 +114,12 @@ title: Rx Coloană Cervicală AP Axială
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -159,6 +164,7 @@ title: Rx Coloană Cervicală AP Axială
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Angulația cefalică direcționează fasciculul între corpurile vertebrale cervicale suprapuse pentru a evidenția mai bine spațiile discale intervertebrale. Se înclină raza centrală la 15° când pacientul este în decubit dorsal sau dacă există o curbură lordotică mai redusă. Se înclină raza centrală la 20° când pacientul este în ortostatism sau când este evidentă o curbură lordotică mai accentuată. Pacientul cifotic (cu o curbură exagerată a Coloanei Toracale) va necesita o înclinare mai mare de 20°. Coloană Cervicală RUTINĂ AP gură deschisă (transorală) (C1 și C2) AP axială oblică laterală Fig. 8.50 AP axială, unghi cranial de 15°. Fig. 8.49 AP axială, unghi cranial de 15°. Imagine inserată, raza centrală la 20°, paralelă cu planurile spațiilor discale intervertebrale, centrată pe C4.

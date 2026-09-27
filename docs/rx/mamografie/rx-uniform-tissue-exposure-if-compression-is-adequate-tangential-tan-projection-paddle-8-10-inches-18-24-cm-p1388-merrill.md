@@ -2,9 +2,10 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: mamografie
-centering: perpendicular pe aria de interes diagnostic perpendicular pe imaging plate.
-  perpendicular pe base de Mamografie (Sân) perpendicular pe receptorul de imagine
-  (RI) angle de C-braț apparatus este determined prin slope de pacientul’s la.
+centering: perpendicular pe aria de interes diagnostic, perpendicular pe placa de
+  imagistică. perpendicular pe baza sânului perpendicular pe receptorul de imagine
+  (RI); unghiul aparatului cu C-braț este determinat prin panta pacientei către [fragment
+  deteriorat în sursă]
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -44,134 +45,150 @@ images:
 - caption: Merrill — pagina 1399, imaginea 12
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-uniform-tissue-exposure-if-compression-is-adequate-tangential-tan-projection-paddle-8-10-inches-18-24-cm-p1388-merrill/p1399_fig12.png
+iris_reference:
+  chapter: Sân
+  radiation_dose: Clasa 1 (Minimă < 0.4 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Se instruiește pacientul să stand facing receptorul de imagine sau se așază
-  pacientul pe scaun pe adjustable stool facing unit. Se instruiește pacientul să
-  stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable
-  stool facing unit. Se instruiește pacientul să stand facing receptorul de imagine.
-  Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul
-  pe scaun pe adjustable stool facing unit. Se instruiește pacientul să stand facing
-  receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing
-  unit.; pentru palpable mass TAN incidență este most often performed cu use de magnification
-  technique. Select standard, quadrant, sau spot compression paddle, ca appropriate.
-  Place AEC detector la Torace perete. Locate aria de interes diagnostic prin palpating
-  pacientul’s Mamografie (Sân). Place radiopaque marker sau BB pe mass, sau Se instruiește
-  pacientul să place BB pe area de concern. Using imaginary line între nipple și BB
-  ca angle reference (Fig. 18.58), se rotește C-braț apparatus paralel la this line.
-  raza centrală este orientat tangențial pe Mamografie (Sân) la point identified prin
-  BB marker. Place Mamografie (Sân) pe receptorul de imagine sau magnification stand
-  cu aria de interes diagnostic marked prin BB pe edge de skin. “shadow” de BB will
-  fie projected onto receptorul de imagine surface. Using appropriate compression
-  paddle, compress Mamografie (Sân) while ensuring that enough Mamografie (Sân) tissue
-  covers AEC detector area. Se aplică progresiv compresia până când glanda mamară
-  este ferm fixată. Se instruiește pacientul să indicate if compression becomes uncomfortable.
-  When full compression este achieved, Se instruiește pacientul să stop respirație
-  (Figs. 18.59 și 18.60). Se declanșează expunerea. Se decomprimă sânul imediat după
-  efectuarea expunerii. Place magnification platform designed pentru use cu dedicated
-  Mamografie unit pe equipment. Place lead BB over palpable mass. Using your mâini,
-  determine incidență most likely la imagine lump cu fără superimposition de other
-  tissue. Place area de clinical concern la edge de Mamografie (Sân) în tangent plane
-  la imaging plate. palpable area de clinical concern este captured cu corner de wire
-  coat-hanger sau inverted spot compression device. fără additional compression este
-  needed. It poate fie necessary la use manual technique if amount de tissue captured
-  within coat-hanger sau inverted compression device does nu cover AEC detector. se
-  rotește C-braț apparatus 180 grade de la rotație used pentru routine CC incidență.
-  tubul cap will fie near floor și receptorul de imagine will fie above pacientul’s
-  Mamografie (Sân). în ortostatism pe medial side de Mamografie (Sân) la fie imaged,
-  elevate inframammary fold la its maximal height. se ajustează height de C-braț astfel
-  încât receptorul de imagine este în contact cu superior Mamografie (Sân) tissue.
-  Lean pacientul slightly forward while gently pulling ridicat Mamografie (Sân) out
-  și perpendicular pe Torace perete. Hold Mamografie (Sân) în poziție. Se instruiește
-  pacientul să rest afected braț over top de receptorul de imagine. Se informează
-  pacienta cu privire la aplicarea compresiei pe glanda mamară. Bring compression
-  paddle de la below into contact cu pacientul’s Mamografie (Sân) while sliding Mână
-  spre nipple. Se aplică progresiv compresia până când glanda mamară este ferm fixată.
-  Se instruiește pacientul să indicate if compression becomes uncomfortable. la ensure
-  that pacientul’s Abdomen este nu superimposed over path de fascicul, Se instruiește
-  pacientul să pull în abdomenul sau move șoldurile back slightly. When full compression
-  este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul
-  să stop respirație (Fig. 18.64). Se declanșează expunerea. Se decomprimă sânul imediat
-  după efectuarea expunerii. Determine grade de obliquity de C-braț apparatus prin
-  rotating tubul until long edge de receptorul de imagine este paralel cu la de afected
-  side. grade de obliquity varies între 10 și 35 grade. se ajustează height de C-braț
-  astfel încât superior margine de receptorul de imagine este just under axilla. Se
-  instruiește pacientul să elevate braț de afected side over corner de receptorul
-  de imagine și la rest Mână pe adjacent handgrip. pacientul’s Cot trebuie să fie
-  flectat. Se instruiește pacientul să relax afected Umăr și lean it slightly anterior.
-  Using flat surface de Mână, gently pull tail de Mamografie (Sân) anteriorly și medially
-  onto receptorul de imagine, keeping skin și tissue smooth și liber de wrinkles.
-  Se instruiește pacientul să turn capul away de la side being examined și la rest
-  capul pe / sprijinit de face guard. Se informează pacienta cu privire la aplicarea
-  compresiei pe glanda mamară. Continue la hold Mamografie (Sân) în poziție while
-  sliding Mână spre nipple ca compression paddle este brought into contact cu la (Fig.
-  18.66). Se aplică progresiv compresia până când glanda mamară este ferm fixată.
-  corner de compression paddle trebuie să fie inferior la Claviculă. la avoid pacient
-  discomfort caused prin corner de paddle și la facilitate even compression, remind
-  pacientul la keep Umăr relaxat. Se instruiește pacientul să indicate if compression
-  becomes uncomfortable. When full compression este achieved, move AEC detector la
-  appropriate poziție, și Se instruiește pacientul să stop respirație. It poate fie
-  necessary la increase parametri de expunere if compression este nu ca taut ca în
-  routine incidențe. Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea
-  expunerii. se rotește C-braț la approximately 70 grade. se ajustează height de C-braț
-  astfel încât superior edge de receptorul de imagine este even cu top de pacientul’s
-  Umăr. Select appropriate compression device. quadrant paddle will capture more deep
-  axillary tissue; standard 18 × 24 cm compression paddle will capture additional
-  lateral tissue și la. Se instruiește pacientul să elevate braț de afected side so
-  that it este perpendicular pe corp. Place braț pe / sprijinit de receptorul de imagine
-  astfel încât posterior aspect de Umăr este resting pe / sprijinit de receptorul
-  de imagine. pacientul’s braț este draped across receptorul de imagine cu Antebraț
-  resting pe grip bar. Se instruiește pacientul să relax afected Umăr și lean slightly
-  anterior. Using flat surface de Mână plasat under axillary region, gently pull tail
-  de Mamografie (Sân) anteriorly și medially onto receptorul de imagine, keeping skin
-  și tissue smooth și liber de wrinkles. Se informează pacienta cu privire la aplicarea
-  compresiei pe glanda mamară. Slowly bring compression down along pacientul’s Coaste
-  (Grilaj Costal), cu top edge de compression paddle skimming lower edge de pacientul’s
-  upper braț. Slowly apply compression until axillary tissue feels taut. corner de
-  compression paddle trebuie să fie inferior la Claviculă. la avoid pacient discomfort
-  caused prin corner de paddle și la facilitate even compression, remind pacientul
-  la keep Umăr relaxat. Se instruiește pacientul să indicate if compression becomes
-  uncomfortable. Vigorous compression este nu necessary pentru this incidență (Fig.
-  18.68). When full compression este achieved, move AEC detector la appropriate poziție,
-  și Se instruiește pacientul să stop respirație. It poate fie necessary la increase
-  parametri de expunere if compression este nu ca taut ca în routine incidențe. Se
-  declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
+position: Se instruiește pacientul să stea cu fața spre receptorul de imagine sau
+  se așază pacientul pe un scaun, pe un taburet reglabil, cu fața spre aparat. Se
+  instruiește pacientul să stea cu fața spre receptorul de imagine sau se așază pacientul
+  pe un scaun, pe un taburet reglabil, cu fața spre aparat. Se instruiește pacientul
+  să stea cu fața spre receptorul de imagine. Se instruiește pacientul să stea cu
+  fața spre receptorul de imagine sau se așază pacientul pe un scaun, pe un taburet
+  reglabil, cu fața spre aparat. Se instruiește pacientul să stea cu fața spre receptorul
+  de imagine sau se așază pacientul pe un scaun, pe un taburet reglabil, cu fața spre
+  aparat.; pentru o masă palpabilă, incidența TAN este efectuată cel mai frecvent
+  folosind tehnica de magnificație. Se selectează paleta standard, paleta pentru cadran
+  sau paleta pentru compresie focalizată, după caz. Se plasează detectorul AEC la
+  nivelul peretelui toracic. Se localizează aria de interes diagnostic prin palparea
+  sânului pacientei. Se plasează un marker radiopac sau o bilă BB pe masă sau se instruiește
+  pacienta să plaseze bila BB pe aria de interes. Folosind linia imaginară dintre
+  mamelon și bila BB ca reper unghiular (Fig. 18.58), se rotește aparatul cu braț
+  C paralel cu această linie. Raza centrală este orientată tangențial către sân, la
+  punctul identificat prin markerul BB. Se plasează sânul pe receptorul de imagine
+  sau pe suportul de magnificație, cu aria de interes diagnostic marcată prin bila
+  BB la marginea tegumentului. „Umbra” bilei BB va fi proiectată pe suprafața receptorului
+  de imagine. Folosind paleta de compresie adecvată, se comprimă sânul, asigurându-se
+  că o cantitate suficientă de țesut mamar acoperă aria detectorului AEC. Se aplică
+  progresiv compresia până când glanda mamară este ferm fixată. Se instruiește pacienta
+  să indice dacă compresia devine neconfortabilă. Când se obține compresia completă,
+  se instruiește pacienta să oprească respirația (Figs. 18.59 și 18.60). Se declanșează
+  expunerea. Se decomprimă sânul imediat după efectuarea expunerii. Se plasează pe
+  aparat platforma de magnificație destinată utilizării cu unitatea de mamografie
+  dedicată. Se plasează bila BB de plumb peste masa palpabilă. Folosind mâinile, se
+  determină incidența cu cea mai mare probabilitate de a evidenția masa fără suprapunerea
+  altui țesut. Se plasează aria de interes clinic la marginea sânului, în plan tangent
+  față de placa de imagine. Aria palpabilă de interes clinic este captată cu colțul
+  unui dispozitiv din sârmă în formă de umeraș sau cu un dispozitiv de compresie focalizată
+  inversat. Nu este necesară compresie suplimentară. Poate fi necesară utilizarea
+  tehnicii manuale dacă volumul de țesut captat în dispozitivul tip umeraș sau în
+  dispozitivul de compresie inversat nu acoperă detectorul AEC. Se rotește aparatul
+  cu braț C la 180 de grade față de rotația utilizată pentru incidența CC de rutină.
+  Capul tubului va fi aproape de podea, iar receptorul de imagine va fi deasupra sânului
+  pacientei. În ortostatism, pe partea medială a sânului care urmează să fie examinat,
+  se ridică pliul inframamar la înălțimea maximă. Se ajustează înălțimea brațului
+  C astfel încât receptorul de imagine să fie în contact cu țesutul mamar superior.
+  Pacienta se apleacă ușor înainte în timp ce sânul ridicat este tras cu blândețe
+  în afară și perpendicular pe peretele toracic. Se menține sânul în poziție. Se instruiește
+  pacienta să sprijine brațul de partea afectată peste partea superioară a receptorului
+  de imagine. Se informează pacienta cu privire la aplicarea compresiei pe glanda
+  mamară. Se aduce paleta de compresie de jos până la contactul cu sânul pacientei,
+  în timp ce mâna este deplasată spre mamelon. Se aplică progresiv compresia până
+  când glanda mamară este ferm fixată. Se instruiește pacienta să indice dacă compresia
+  devine neconfortabilă. Pentru a se asigura că abdomenul pacientei nu este suprapus
+  peste traiectul fasciculului, se instruiește pacienta să-și retragă abdomenul sau
+  să-și deplaseze ușor șoldurile posterior. Când se obține compresia completă, se
+  deplasează detectorul AEC în poziția adecvată și se instruiește pacienta să oprească
+  respirația (Fig. 18.64). Se declanșează expunerea. Se decomprimă sânul imediat după
+  efectuarea expunerii. Se determină gradul de oblicitate al aparatului cu braț C
+  prin rotirea tubului până când marginea lungă a receptorului de imagine este paralelă
+  cu partea afectată. Gradul de oblicitate variază între 10 și 35 de grade. Se ajustează
+  înălțimea brațului C astfel încât marginea superioară a receptorului de imagine
+  să fie chiar sub axilă. Se instruiește pacienta să ridice brațul de partea afectată
+  peste colțul receptorului de imagine și să-și sprijine mâna pe mânerul adiacent.
+  Cotul pacientei trebuie să fie flectat. Se instruiește pacienta să relaxeze umărul
+  afectat și să-l aplece ușor anterior. Folosind suprafața palmei, se trage ușor coada
+  sânului anterior și medial pe receptorul de imagine, menținând tegumentul și țesutul
+  netede și fără pliuri. Se instruiește pacienta să întoarcă capul în partea opusă
+  celei examinate și să-și sprijine capul pe apărătoarea facială. Se informează pacienta
+  cu privire la aplicarea compresiei pe glanda mamară. Se continuă menținerea sânului
+  în poziție în timp ce mâna este deplasată spre mamelon, pe măsură ce paleta de compresie
+  este adusă în contact cu acesta (Fig. 18.66). Se aplică progresiv compresia până
+  când glanda mamară este ferm fixată. Colțul paletei de compresie trebuie să fie
+  inferior claviculei. Pentru a evita disconfortul pacientei cauzat de colțul paletei
+  și pentru a facilita o compresie uniformă, i se reamintește pacientei să mențină
+  umărul relaxat. Se instruiește pacienta să indice dacă compresia devine neconfortabilă.
+  Când se obține compresia completă, se deplasează detectorul AEC în poziția adecvată
+  și se instruiește pacienta să oprească respirația. Poate fi necesară creșterea parametrilor
+  de expunere dacă nivelul compresiei nu este la fel de ferm ca în incidențele de
+  rutină. Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
+  Se rotește brațul C la aproximativ 70 de grade. Se ajustează înălțimea brațului
+  C astfel încât marginea superioară a receptorului de imagine să fie la același nivel
+  cu partea superioară a umărului pacientei. Se selectează dispozitivul de compresie
+  adecvat. Paleta pentru cadran va capta mai mult țesut axilar profund; paleta standard
+  de compresie de 18 × 24 cm va capta țesut lateral suplimentar și [fragment deteriorat
+  în sursă]. Se instruiește pacienta să ridice brațul de partea afectată astfel încât
+  acesta să fie perpendicular pe corp. Se plasează brațul pe receptorul de imagine
+  astfel încât aspectul posterior al umărului să fie sprijinit pe receptorul de imagine.
+  Brațul pacientei este așezat peste receptorul de imagine, cu antebrațul sprijinit
+  pe bara de prindere. Se instruiește pacienta să relaxeze umărul afectat și să se
+  aplece ușor anterior. Folosind suprafața palmei plasată sub regiunea axilară, se
+  trage ușor coada sânului anterior și medial pe receptorul de imagine, menținând
+  tegumentul și țesutul netede și fără pliuri. Se informează pacienta cu privire la
+  aplicarea compresiei pe glanda mamară. Se aduce lent compresia de-a lungul coastelor
+  pacientei, cu marginea superioară a paletei de compresie alunecând pe marginea inferioară
+  a brațului superior al pacientei. Se aplică lent compresia până când țesutul axilar
+  devine tensionat. Colțul paletei de compresie trebuie să fie inferior claviculei.
+  Pentru a evita disconfortul pacientei cauzat de colțul paletei și pentru a facilita
+  o compresie uniformă, i se reamintește pacientei să mențină umărul relaxat. Se instruiește
+  pacienta să indice dacă compresia devine neconfortabilă. Compresia viguroasă nu
+  este necesară pentru această incidență (Fig. 18.68). Când se obține compresia completă,
+  se deplasează detectorul AEC în poziția adecvată și se instruiește pacienta să oprească
+  respirația. Poate fi necesară creșterea parametrilor de expunere dacă nivelul compresiei
+  nu este la fel de ferm ca în incidențele de rutină. Se declanșează expunerea. Se
+  decomprimă sânul imediat după efectuarea expunerii.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'following trebuie să fie clearly vizualizat:'
-- Palpable lesion visualized over subcutaneous fat
-- TAN radiopaque marker sau BB marker accurately correlated cu palpable lesion
-- Minimal overlapping de adjacent parenchyma
-- Calcification în parenchyma sau skin
-- 'Uniform tissue expunere if compression este adecvat following trebuie să fie clearly
-  vizualizat:'
-- 'aria de interes diagnostic within collimated și self-compressed margins following
-  trebuie să fie clearly vizualizat:'
-- superior Mamografie (Sân) tissue și lesions clearly visualized
-- pentru needle localization imagini, inferior lesion visualized within specialized
-  fenestrated compression plate
-- pacient’s Abdomen projected clear de imagine
-- Inclusion de fixed posterior tissue de superior aspect de Mamografie (Sân)
-- PNL extending posteriorly la edge de imagine, measuring within ⅓ inch (1 cm) de
-  depth de PNL pe MLO incidență
-- toate medial tissue included ca vizualizat prin visualization de medial retroglandular
-  fat și absence de fibroglandular tissue extending la posteromedial edge de imagine
-- Nipple în profile, if possible, și la midline, indicating fără exaСeration de positioning
-- Some lateral tissue possibly excluded la emphasize medial tissue
-- Slight medial skin reflection la cleavage, ensuring that posterior medial tissue
-  este adequately included
-- 'Uniform tissue expunere if compression este adecvat Mediolateral Incidență Oblică
-  pentru Axillary Tail (la) Paddle: 8 × 10 inches (18 × 24 cm) sau 10 × 12 inches
-  (24 × 30 cm). following trebuie să fie clearly vizualizat:'
-- la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.67)
-- Uniform tissue expunere if compression este adecvat
-- 'Slight skin reflection de afected braț pe superior margine de imagine following
-  trebuie să fie clearly vizualizat:'
-- la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.69)
-- Uniform tissue expunere if compression este adecvat
-- Slight skin reflection de afected braț pe superior margine de imagine
+- 'Următoarele trebuie să fie clar vizualizate:'
+- Leziune palpabilă vizualizată peste țesutul adipos subcutanat
+- Markerul radiopac TAN sau markerul BB corelat exact cu leziunea palpabilă
+- Suprapunere minimă a parenchimului adiacent
+- Calcificare în parenchim sau tegument
+- 'Expunere uniformă a țesutului dacă este aplicată o compresie adecvată; următoarele
+  trebuie să fie clar vizualizate:'
+- 'Aria de interes diagnostic din marginile colimate și autocompresate trebuie să
+  fie vizualizată clar:'
+- Țesutul mamar superior și leziunile vizualizate clar
+- Pentru imaginile de localizare a acului, leziunea inferioară vizualizată în interiorul
+  plăcii de compresie fenestrate specializate
+- Abdomenul pacientei proiectat în afara imaginii
+- Includerea țesutului posterior fix al aspectului superior al sânului
+- PNL extins posterior până la marginea imaginii, măsurând în limita a ⅓ țol (1 cm)
+  din profunzimea PNL pe incidența MLO
+- Toate țesuturile mediale incluse, evidențiate prin vizualizarea grăsimii retroglandulare
+  mediale și absența țesutului fibroglandular care se extinde până la marginea posteromedială
+  a imaginii
+- Mamelonul în profil, dacă este posibil, și pe linia mediană, indicând absența exagerării
+  poziționării
+- O parte din țesutul lateral poate fi exclusă pentru a evidenția țesutul medial
+- Ușoară reflexie cutanată medială la nivelul clivajului, asigurând includerea adecvată
+  a țesutului posteromedial
+- 'Expunere uniformă a țesutului dacă este asigurată compresia adecvată. Incidență
+  mediolaterală oblică pentru coada axilară. Paletă: 8 × 10 țoli (18 × 24 cm) sau
+  10 × 12 țoli (24 × 30 cm). Următoarele trebuie să fie vizualizate clar:'
+- '[fragment deteriorat în sursă], cu includerea ganglionilor limfatici axilari sub
+  compresie focalizată (Fig. 18.67)'
+- Expunere tisulară uniformă dacă compresia este adecvată
+- 'Ușoară reflexie cutanată a brațului afectat pe marginea superioară a imaginii.
+  Următoarele trebuie să fie vizualizate clar:'
+- '[fragment deteriorat în sursă], cu includerea ganglionilor limfatici axilari sub
+  compresie focalizată (Fig. 18.69)'
+- Expunere tisulară uniformă dacă compresia este adecvată
+- Ușoară reflexie cutanată a brațului afectat pe marginea superioară a imaginii
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-uniform-tissue-exposure-if-compression-is-adequate-tangential-tan-projection-paddle-8-10-inches-18-24-cm-p1388-merrill
 source_pages:
@@ -188,313 +205,292 @@ source_pages:
 - 1398
 - 1399
 source_sections:
-  anatomy: 'This incidență shows superficial lesions close la skin surface cu minimal
-    parenchymal overlapping. It also shows skin calcifications sau
+  anatomy: 'Această incidență evidențiază leziuni superficiale apropiate de suprafața
+    tegumentului, cu suprapunere parenchimatoasă minimă. De asemenea, evidențiază
+    calcificări cutanate sau leziuni palpabile proiectate peste țesutul adipos subcutanat
+    (Fig. 18.61).
 
-    palpable lesions projected over subcutaneous fat (Fig. 18.61).
+    Aria de interes clinic este identificată și vizualizată pozitiv, beneficiind de
+    avantajele mamografiei de magnificație.
 
-    area de clinical concern este positively identified și visualized cu advantages
-    de magnification mammography.
+    Această incidență evidențiază incidența inferosuperioară a sânului pentru o vizualizare
+    îmbunătățită a leziunilor localizate în aspectul superior, ca rezultat al reducerii
+    distanței obiect–receptor de imagine. Incidența FB poate facilita un traseu mai
+    scurt pentru introducerea acului-ghid pentru localizarea leziunii inferioare (Fig.
+    18.65) sau în timpul biopsiei stereotactice cu ac gros, în decubit ventral. Incidența
+    poate fi utilizată și ca înlocuitor al incidenței CC standard la pacienții cu
+    mușchi pectorali proeminenți sau cifoză.
 
-    This incidență shows inferosuperior incidență de breast pentru improved visualization
-    de lesions located în superior aspect ca result de
+    Această incidență evidențiază [fragment deteriorat în sursă] a sânului, cu accent
+    pe aspectul său lateral.
 
-    reduced object–la–receptorul de imagine distance. FB incidență poate facilitate
-    shorter route pentru needle-wire insertion la localize inferior lesion (Fig. 18.65)
-
-    sau during în decubit ventral stereotactic core biopsy. incidență poate also fie
-    used ca replacement pentru standard CC incidență în pacienți cu
-
-    prominent pectoral muscles sau kyphosis.
-
-    This incidență shows la de breast, cu emphasis pe its lateral aspect.
-
-    This incidență shows axilla și la de breast, cu emphasis pe its lateral aspect.'
+    Această incidență evidențiază axila și [fragment deteriorat în sursă] sânului,
+    cu accent pe aspectul său lateral.'
   cr: '• perpendicular pe aria de interes diagnostic
 
-    • perpendicular pe imaging plate.
+    • perpendicular pe placa de imagine.
 
-    • perpendicular pe base de breast
+    • perpendicular pe baza sânului
 
     • perpendicular pe receptorul de imagine (RI)
 
-    • angle de C-braț apparatus este determined prin slope de pacientul’s la.'
-  criteria: 'following trebuie să fie clearly vizualizat:
+    • unghiul aparatului cu braț C este determinat prin panta [fragment deteriorat
+    în sursă] a pacientei.'
+  criteria: 'următoarele trebuie să fie vizualizate clar:
 
-    • Palpable lesion visualized over subcutaneous fat
+    • Leziunea palpabilă vizualizată deasupra țesutului adipos subcutanat
 
-    • TAN radiopaque marker sau BB marker accurately correlated cu palpable lesion
+    • Markerul radiopac TAN sau markerul BB corelat cu exactitate cu leziunea palpabilă
 
-    • Minimal overlapping de adjacent parenchyma
+    • Suprapunere minimă a parenchimului adiacent
 
-    • Calcification în parenchyma sau skin
+    • Calcificare în parenchim sau piele
 
-    • Uniform tissue expunere if compression este adecvat
+    • Expunere uniformă a țesutului dacă este adecvată compresia
 
-    following trebuie să fie clearly vizualizat:
+    următoarele trebuie să fie vizualizate clar:
 
-    • aria de interes diagnostic within collimated și self-compressed margins
+    • aria de interes diagnostic în interiorul marginilor colimate și autocomprimate
 
-    following trebuie să fie clearly vizualizat:
+    următoarele trebuie să fie vizualizate clar:
 
-    • superior breast tissue și lesions clearly visualized
+    • țesutul mamar superior și leziunile vizualizate clar
 
-    • pentru needle localization imagini, inferior lesion visualized within specialized
-    fenestrated compression plate
+    • pentru imaginile de localizare cu ac, leziunea inferioară vizualizată în interiorul
+    plăcii de compresie specializate, fenestrate
 
-    • pacient’s abdomen projected clear de imagine
+    • abdomenul pacientei proiectat în afara imaginii
 
-    • Inclusion de fixed posterior tissue de superior aspect de breast
+    • includerea țesutului posterior fixat de aspectul superior al sânului
 
-    • PNL extending posteriorly la edge de imagine, measuring within ⅓ inch (1 cm)
-    de depth de PNL pe MLO incidență
+    • PNL extins posterior până la marginea imaginii, măsurând în limita a ⅓ țol (1
+    cm) de profunzimea PNL pe incidența MLO
 
-    • toate medial tissue included ca vizualizat prin visualization de medial retroglandular
-    fat și absence de fibroglandular tissue extending la
+    • toate țesuturile mediale incluse, evidențiate prin vizualizarea grăsimii retroglandulare
+    mediale și absența țesutului fibroglandular care se extinde până la marginea posteromedială
+    a imaginii
 
-    posteromedial edge de imagine
+    • mamelonul în profil, dacă este posibil, și pe linia mediană, indicând absența
+    exagerării poziționării
 
-    • Nipple în profile, if possible, și la midline, indicating fără exaСeration de
-    positioning
+    • Unele țesuturi laterale pot fi excluse pentru a accentua țesutul medial
 
-    • Some lateral tissue possibly excluded la emphasize medial tissue
+    • Ușoară reflexie cutanată medială la nivelul șanțului intermamar, asigurând includerea
+    adecvată a țesutului posteromedial
 
-    • Slight medial skin reflection la cleavage, ensuring that posterior medial tissue
-    este adequately included
+    • Expunere uniformă a țesutului dacă este adecvată compresia
 
-    • Uniform tissue expunere if compression este adecvat
-
-    Mediolateral oblic incidență pentru Axillary Tail (la)
+    Incidență mediolaterală oblică pentru coada axilară (la)
 
     Paddle:
 
-    8 × 10 inches (18 × 24 cm) sau 10 × 12 inches (24 × 30 cm).
+    8 × 10 țoli (18 × 24 cm) sau 10 × 12 țoli (24 × 30 cm).
 
-    following trebuie să fie clearly vizualizat:
+    următoarele trebuie să fie vizualizate clar:
 
-    • la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.67)
+    • la cu includerea ganglionilor limfatici axilari sub compresie focalizată (Fig.
+    18.67)
 
-    • Uniform tissue expunere if compression este adecvat
+    • Expunere uniformă a țesutului dacă este adecvată compresia
 
-    • Slight skin reflection de afected braț pe superior margine de imagine
+    • Ușoară reflexie cutanată a brațului afectat pe marginea superioară a imaginii
 
-    following trebuie să fie clearly vizualizat:
+    următoarele trebuie să fie vizualizate clar:
 
-    • la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.69)
+    • la cu includerea ganglionilor limfatici axilari sub compresie focalizată (Fig.
+    18.69)
 
-    • Uniform tissue expunere if compression este adecvat
+    • Expunere uniformă a țesutului dacă este adecvată compresia
 
-    • Slight skin reflection de afected braț pe superior margine de imagine'
-  part_pos: 'pentru palpable mass
+    • Ușoară reflexie cutanată a brațului afectat pe marginea superioară a imaginii'
+  part_pos: 'pentru o masă palpabilă
 
-    TAN incidență este most often performed cu use de magnification technique.
+    Incidența TAN se efectuează cel mai frecvent utilizând tehnica de mărire.
 
-    • Select standard, quadrant, sau spot compression paddle, ca appropriate.
+    • Selectați paleta standard, pentru cadran sau pentru compresie punctuală, după
+    caz.
 
-    • Place AEC detector la toracele perete.
+    • Plasați detectorul AEC la nivelul peretelui toracic.
 
-    • Locate aria de interes diagnostic prin palpating pacientul’s breast.
+    • Localizați aria de interes diagnostic prin palparea sânului pacientei.
 
-    • Place radiopaque marker sau BB pe mass, sau Se instruiește pacientul să place
-    BB pe area de concern.
+    • Plasați markerul radiopac sau BB pe masă ori instruiți pacienta să plaseze BB
+    pe aria de interes.
 
-    • Using imaginary line între nipple și BB ca angle reference (Fig. 18.58), se
-    rotește C-braț apparatus paralel la this
+    • Utilizând linia imaginară dintre mamelon și BB ca reper unghiular (Fig. 18.58),
+    rotiți aparatul cu braț C paralel cu această linie. Raza centrală este orientată
+    tangențial pe sân, la punctul identificat prin markerul BB.
 
-    line. raza centrală este orientat tangențial pe breast la point identified prin
-    BB marker.
+    • Plasați sânul pe receptorul de imagine sau pe suportul pentru mărire, cu aria
+    de interes diagnostic marcată prin BB la marginea pielii.
 
-    • Place breast pe receptorul de imagine sau magnification stand cu aria de interes
-    diagnostic marked prin BB pe edge de skin.
+    • „Umbra” BB va fi proiectată pe suprafața receptorului de imagine.
 
-    • “shadow” de BB will fie projected onto receptorul de imagine surface.
+    • Utilizând paleta de compresie adecvată, comprimați sânul, asigurându-vă că o
+    cantitate suficientă de țesut mamar acoperă aria detectorului AEC.
 
-    • Using appropriate compression paddle, compress breast while ensuring that enough
-    breast tissue covers AEC detector area.
+    • Aplicați progresiv compresia până când glanda mamară este ferm fixată.
 
-    • Se aplică progresiv compresia până când glanda mamară este ferm fixată.
+    • Instruiți pacienta să indice dacă compresia devine inconfortabilă.
 
-    • Se instruiește pacientul să indicate if compression becomes uncomfortable.
+    • Când este obținută compresia completă, instruiți pacienta să oprească respirația
+    (Fig. 18.59 și 18.60).
 
-    • When full compression este achieved, Se instruiește pacientul să stop respirație
-    (Figs. 18.59 și 18.60).
+    • Declanșați expunerea.
 
-    • Se declanșează expunerea.
+    • Decomprimați sânul imediat după efectuarea expunerii.
 
-    • Se decomprimă sânul imediat după efectuarea expunerii.
+    • Plasați platforma pentru mărire, concepută pentru utilizarea cu unitatea de
+    mamografie dedicată, pe echipament.
 
-    • Place magnification platform designed pentru use cu dedicated mammography unit
-    pe equipment.
+    • Plasați BB-ul de plumb peste masa palpabilă.
 
-    • Place lead BB over palpable mass.
+    • Folosindu-vă mâinile, determinați incidența cu cea mai mare probabilitate de
+    a evidenția nodulul fără suprapunerea altui țesut. Plasați aria de interes clinic
+    la marginea sânului, în plan tangențial față de placa de imagine.
 
-    • Using your mâini, determine incidență most likely la imagine lump cu fără superimposition
-    de other tissue. Place area de
+    • Aria palpabilă de interes clinic este captată cu colțul unui fir metalic tip
+    umeraș sau cu un dispozitiv de compresie punctuală inversat. Nu este necesară
+    compresie suplimentară.
 
-    clinical concern la edge de breast în tangent plane la imaging plate.
+    • Poate fi necesară utilizarea tehnicii manuale dacă volumul de țesut captat în
+    dispozitivul tip umeraș sau în dispozitivul de compresie inversat nu acoperă detectorul
+    AEC.
 
-    • palpable area de clinical concern este captured cu corner de wire coat-hanger
-    sau inverted spot compression device. fără
+    • Rotiți aparatul cu braț C la 180 de grade față de rotația utilizată pentru incidența
+    CC de rutină. Capul tubului va fi aproape de podea, iar receptorul de imagine
+    va fi deasupra sânului pacientei.
 
-    additional compression este needed.
+    • În ortostatism, pe partea medială a sânului care urmează să fie examinat, ridicați
+    pliul inframamar la înălțimea maximă.
 
-    • It poate fie necessary la use manual technique if amount de tissue captured
-    within coat-hanger sau inverted compression device
+    • Ajustați înălțimea brațului C astfel încât receptorul de imagine să fie în contact
+    cu țesutul mamar superior.
 
-    does nu cover AEC detector.
+    • Înclinați pacienta ușor înainte, trăgând delicat sânul ridicat în afară și perpendicular
+    pe peretele toracic. Mențineți sânul în poziție.
 
-    • se rotește C-braț apparatus 180 grade de la rotație used pentru routine CC incidență.
-    tubul cap will fie near floor și
+    • Instruiți pacienta să așeze brațul afectat peste partea superioară a receptorului
+    de imagine.
 
-    receptorul de imagine will fie above pacientul’s breast.
+    • Informați pacienta cu privire la aplicarea compresiei pe glanda mamară. Aduceți
+    paleta de compresie de jos până la contactul cu sânul pacientei, glisând mâna
+    spre mamelon.
 
-    • în ortostatism pe medial side de breast la fie imaged, elevate inframammary
-    fold la its maximal height.
+    • Aplicați progresiv compresia până când glanda mamară este ferm fixată.
 
-    • se ajustează height de C-braț astfel încât receptorul de imagine este în contact
-    cu superior breast tissue.
+    • Instruiți pacienta să indice dacă compresia devine inconfortabilă.
 
-    • Lean pacientul slightly forward while gently pulling ridicat breast out și perpendicular
-    pe chest perete. Hold breast în
+    • Pentru a vă asigura că abdomenul pacientei nu se suprapune peste traiectul fasciculului,
+    instruiți pacienta să-și retragă abdomenul sau să-și deplaseze ușor șoldurile
+    posterior.
 
-    poziție.
+    • Când este obținută compresia completă, deplasați detectorul AEC în poziția adecvată
+    și instruiți pacienta să oprească respirația (Fig. 18.64).
 
-    • Se instruiește pacientul să rest afected braț over top de receptorul de imagine.
+    • Declanșați expunerea.
 
-    • Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară.
-    Bring compression paddle de la below into contact cu pacient’s breast while sliding
-    mână spre nipple.
+    • Decomprimați sânul imediat după efectuarea expunerii.
 
-    • Se aplică progresiv compresia până când glanda mamară este ferm fixată.
+    • Determinați gradul de oblicitate al aparatului cu braț C prin rotirea tubului
+    până când marginea lungă a receptorului de imagine este paralelă cu partea afectată.
+    Gradul de oblicitate variază între 10 și 35 de grade.
 
-    • Se instruiește pacientul să indicate if compression becomes uncomfortable.
+    • Ajustați înălțimea brațului C astfel încât marginea superioară a receptorului
+    de imagine să fie imediat sub axilă.
 
-    • la ensure that pacientul’s abdomen este nu superimposed over path de fascicul,
-    Se instruiește pacientul să pull în abdomenul sau move hips back slightly.
-
-    • When full compression este achieved, move AEC detector la appropriate poziție,
-    și Se instruiește pacientul să stop respirație (Fig.
-
-    18.64).
-
-    • Se declanșează expunerea.
-
-    • Se decomprimă sânul imediat după efectuarea expunerii.
-
-    • Determine grade de obliquity de C-braț apparatus prin rotating tubul until long
-    edge de receptorul de imagine este paralel cu la de
-
-    afected side. grade de obliquity varies între 10 și 35 grade.
-
-    • se ajustează height de C-braț astfel încât superior margine de receptorul de
-    imagine este just under axilla.
-
-    • Se instruiește pacientul să elevate braț de afected side over corner de receptorul
-    de imagine și la rest mână pe adjacent handgrip. pacient’s cot trebuie să fie
+    • Instruiți pacienta să ridice brațul de partea afectată peste colțul receptorului
+    de imagine și să așeze mâna pe mânerul adiacent. Cotul pacientei trebuie să fie
     flectat.
 
-    • Se instruiește pacientul să relax afected umăr și lean it slightly anterior.
-    Using flat surface de mână, gently pull tail de breast anteriorly și medially
-    onto receptorul de imagine, keeping skin și tissue smooth și liber de wrinkles.
+    • Instruiți pacienta să relaxeze umărul afectat și să-l încline ușor anterior.
+    Folosind suprafața palmei, trageți delicat coada sânului anterior și medial pe
+    receptorul de imagine, menținând pielea și țesutul netede și fără pliuri.
 
-    • Se instruiește pacientul să turn capul away de la side being examined și la
-    rest capul pe / sprijinit de face guard.
+    • Instruiți pacienta să-și întoarcă capul în partea opusă celei examinate și să-și
+    așeze capul pe suportul facial.
 
-    • Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară.
-    Continue la hold breast în poziție while sliding mână spre
+    • Informați pacienta cu privire la aplicarea compresiei pe glanda mamară. Continuați
+    să mențineți sânul în poziție în timp ce glisați mâna spre mamelon, pe măsură
+    ce paleta de compresie este adusă în contact cu sânul (Fig. 18.66).
 
-    nipple ca compression paddle este brought into contact cu la (Fig. 18.66).
+    • Aplicați progresiv compresia până când glanda mamară este ferm fixată. Colțul
+    paletei de compresie trebuie să fie inferior claviculei. Pentru a evita disconfortul
+    pacientei cauzat de colțul paletei și pentru a facilita compresia uniformă, reamintiți-i
+    pacientei să mențină umărul relaxat.
 
-    • Se aplică progresiv compresia până când glanda mamară este ferm fixată. corner
-    de compression paddle trebuie să fie inferior la clavicle. la avoid
+    • Instruiți pacienta să indice dacă compresia devine inconfortabilă.
 
-    pacient discomfort caused prin corner de paddle și la facilitate even compression,
-    remind pacientul la keep umăr
+    • Când este obținută compresia completă, deplasați detectorul AEC în poziția adecvată
+    și instruiți pacienta să oprească respirația. Poate fi necesară creșterea parametrilor
+    de expunere dacă compresia nu este la fel de fermă ca în incidențele de rutină.
 
-    relaxat.
+    • Declanșați expunerea.
 
-    • Se instruiește pacientul să indicate if compression becomes uncomfortable.
+    • Decomprimați sânul imediat după efectuarea expunerii.
 
-    • When full compression este achieved, move AEC detector la appropriate poziție,
-    și Se instruiește pacientul să stop respirație. It
+    • Rotiți brațul C la aproximativ 70 de grade.
 
-    poate fie necessary la increase parametri de expunere if compression este nu ca
-    taut ca în routine incidențe.
+    • Ajustați înălțimea brațului C astfel încât marginea superioară a receptorului
+    de imagine să fie la același nivel cu partea superioară a umărului pacientei.
 
-    • Se declanșează expunerea.
+    • Selectați dispozitivul de compresie adecvat. Paleta pentru cadran va capta mai
+    mult țesut axilar profund; paleta standard de compresie de 18 × 24 cm va capta
+    țesut lateral suplimentar și la.
 
-    • Se decomprimă sânul imediat după efectuarea expunerii.
+    • Instruiți pacienta să ridice brațul de partea afectată astfel încât acesta să
+    fie perpendicular pe corp.
 
-    • se rotește C-braț la approximately 70 grade.
+    • Așezați brațul pe receptorul de imagine, astfel încât aspectul posterior al
+    umărului să se sprijine pe receptorul de imagine. Brațul pacientei este așezat
+    peste receptorul de imagine, cu antebrațul sprijinit pe bara mânerului.
 
-    • se ajustează height de C-braț astfel încât superior edge de receptorul de imagine
-    este even cu top de pacientul’s umăr.
+    • Instruiți pacienta să relaxeze umărul afectat și să se încline ușor anterior.
+    Folosind suprafața palmei plasată sub regiunea axilară, trageți delicat coada
+    sânului anterior și medial pe receptorul de imagine, menținând pielea și țesutul
+    netede și fără pliuri.
 
-    • Select appropriate compression device. quadrant paddle will capture more deep
-    axillary tissue; standard 18 × 24 cm compression
+    • Informați pacienta cu privire la aplicarea compresiei pe glanda mamară. Coborâți
+    lent compresia de-a lungul coastelor pacientei, cu marginea superioară a paletei
+    de compresie alunecând pe marginea inferioară a brațului superior al pacientei.
 
-    paddle will capture additional lateral tissue și la.
+    • Aplicați lent compresia până când țesutul axilar devine ferm. Colțul paletei
+    de compresie trebuie să fie inferior claviculei. Pentru a evita disconfortul pacientei
+    cauzat de colțul paletei și pentru a facilita compresia uniformă, reamintiți-i
+    pacientei să mențină umărul relaxat.
 
-    • Se instruiește pacientul să elevate braț de afected side so that it este perpendicular
-    pe corp.
+    • Instruiți pacienta să indice dacă compresia devine inconfortabilă. Compresia
+    viguroasă nu este necesară pentru această incidență (Fig. 18.68).
 
-    • Place braț pe / sprijinit de receptorul de imagine astfel încât posterior aspect
-    de umăr este resting pe / sprijinit de receptorul de imagine. pacientul’s braț
-    este draped across receptorul de imagine cu forearm resting pe grip bar.
+    • Când este obținută compresia completă, deplasați detectorul AEC în poziția adecvată
+    și instruiți pacienta să oprească respirația. Poate fi necesară creșterea parametrilor
+    de expunere dacă compresia nu este la fel de fermă ca în incidențele de rutină.
 
-    • Se instruiește pacientul să relax afected umăr și lean slightly anterior. Using
-    flat surface de mână plasat under axillary
+    • Declanșați expunerea.
 
-    region, gently pull tail de breast anteriorly și medially onto receptorul de imagine,
-    keeping skin și tissue smooth și liber de wrinkles.
+    • Decomprimați sânul imediat după efectuarea expunerii.'
+  patient_pos: '• Instruiți pacientul să stea cu fața către receptorul de imagine
+    sau așezați pacientul pe un scaun reglabil, cu fața către aparat.
 
-    • Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară.
-    Slowly bring compression down along pacientul’s coaste, cu top
+    • Instruiți pacientul să stea cu fața către receptorul de imagine sau așezați
+    pacientul pe un scaun reglabil, cu fața către aparat.
 
-    edge de compression paddle skimming lower edge de pacientul’s upper braț.
+    • Instruiți pacientul să stea cu fața către receptorul de imagine.
 
-    • Slowly apply compression until axillary tissue feels taut. corner de compression
-    paddle trebuie să fie inferior la clavicle. la
+    • Instruiți pacientul să stea cu fața către receptorul de imagine sau așezați
+    pacientul pe un scaun reglabil, cu fața către aparat.
 
-    avoid pacient discomfort caused prin corner de paddle și la facilitate even compression,
-    remind pacientul la keep umăr relaxat.
-
-    • Se instruiește pacientul să indicate if compression becomes uncomfortable. Vigorous
-    compression este nu necessary pentru this incidență (Fig.
-
-    18.68).
-
-    • When full compression este achieved, move AEC detector la appropriate poziție,
-    și Se instruiește pacientul să stop respirație. It
-
-    poate fie necessary la increase parametri de expunere if compression este nu ca
-    taut ca în routine incidențe.
-
-    • Se declanșează expunerea.
-
-    • Se decomprimă sânul imediat după efectuarea expunerii.'
-  patient_pos: '• Se instruiește pacientul să stand facing receptorul de imagine sau
-    se așază pacientul pe scaun pe adjustable stool facing unit.
-
-    • Se instruiește pacientul să stand facing receptorul de imagine sau se așază
-    pacientul pe scaun pe adjustable stool facing unit.
-
-    • Se instruiește pacientul să stand facing receptorul de imagine.
-
-    • Se instruiește pacientul să stand facing receptorul de imagine sau se așază
-    pacientul pe scaun pe adjustable stool facing unit.
-
-    • Se instruiește pacientul să stand facing receptorul de imagine sau se așază
-    pacientul pe scaun pe adjustable stool facing unit.'
+    • Instruiți pacientul să stea cu fața către receptorul de imagine sau așezați
+    pacientul pe un scaun reglabil, cu fața către aparat.'
 sources:
 - title: Merrill’s Atlas, 18. Mammography, pagini 1388–1399
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx ▪ Incidență cu Compresie Focalizată — Incidență Tangențială (TAN) (Merrill)
+title: Rx ▪ Incidență cu compresie focalizată — Incidență tangențială (TAN) (Merrill)
 ---
-# Rx ▪ Incidență cu Compresie Focalizată — Incidență Tangențială (TAN) (Merrill)
+# Rx ▪ Incidență cu compresie focalizată — Incidență tangențială (TAN) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -518,17 +514,18 @@ title: Rx ▪ Incidență cu Compresie Focalizată — Incidență Tangențială
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Sân*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.4 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit. Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit. Se instruiește pacientul să stand facing receptorul de imagine. Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit. Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit.; pentru palpable mass TAN incidență este most often performed cu use de magnification technique. Select standard, quadrant, sau spot compression paddle, ca appropriate. Place AEC detector la Torace perete. Locate aria de interes diagnostic prin palpating pacientul’s Mamografie (Sân). Place radiopaque marker sau BB pe mass, sau Se instruiește pacientul să place BB pe area de concern. Using imaginary line între nipple și BB ca angle reference (Fig. 18.58), se rotește C-braț apparatus paralel la this line. raza centrală este orientat tangențial pe Mamografie (Sân) la point identified prin BB marker. Place Mamografie (Sân) pe receptorul de imagine sau magnification stand cu aria de interes diagnostic marked prin BB pe edge de skin. “shadow” de BB will fie projected onto receptorul de imagine surface. Using appropriate compression paddle, compress Mamografie (Sân) while ensuring that enough Mamografie (Sân) tissue covers AEC detector area. Se aplică progresiv compresia până când glanda mamară este ferm fixată. Se instruiește pacientul să indicate if compression becomes uncomfortable. When full compression este achieved, Se instruiește pacientul să stop respirație (Figs. 18.59 și 18.60). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii. Place magnification platform designed pentru use cu dedicated Mamografie unit pe equipment. Place lead BB over palpable mass. Using your mâini, determine incidență most likely la imagine lump cu fără superimposition de other tissue. Place area de clinical concern la edge de Mamografie (Sân) în tangent plane la imaging plate. palpable area de clinical concern este captured cu corner de wire coat-hanger sau inverted spot compression device. fără additional compression este needed. It poate fie necessary la use manual technique if amount de tissue captured within coat-hanger sau inverted compression device does nu cover AEC detector. se rotește C-braț apparatus 180 grade de la rotație used pentru routine CC incidență. tubul cap will fie near floor și receptorul de imagine will fie above pacientul’s Mamografie (Sân). în ortostatism pe medial side de Mamografie (Sân) la fie imaged, elevate inframammary fold la its maximal height. se ajustează height de C-braț astfel încât receptorul de imagine este în contact cu superior Mamografie (Sân) tissue. Lean pacientul slightly forward while gently pulling ridicat Mamografie (Sân) out și perpendicular pe Torace perete. Hold Mamografie (Sân) în poziție. Se instruiește pacientul să rest afected braț over top de receptorul de imagine. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Bring compression paddle de la below into contact cu pacientul’s Mamografie (Sân) while sliding Mână spre nipple. Se aplică progresiv compresia până când glanda mamară este ferm fixată. Se instruiește pacientul să indicate if compression becomes uncomfortable. la ensure that pacientul’s Abdomen este nu superimposed over path de fascicul, Se instruiește pacientul să pull în abdomenul sau move șoldurile back slightly. When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație (Fig. 18.64). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii. Determine grade de obliquity de C-braț apparatus prin rotating tubul until long edge de receptorul de imagine este paralel cu la de afected side. grade de obliquity varies între 10 și 35 grade. se ajustează height de C-braț astfel încât superior margine de receptorul de imagine este just under axilla. Se instruiește pacientul să elevate braț de afected side over corner de receptorul de imagine și la rest Mână pe adjacent handgrip. pacientul’s Cot trebuie să fie flectat. Se instruiește pacientul să relax afected Umăr și lean it slightly anterior. Using flat surface de Mână, gently pull tail de Mamografie (Sân) anteriorly și medially onto receptorul de imagine, keeping skin și tissue smooth și liber de wrinkles. Se instruiește pacientul să turn capul away de la side being examined și la rest capul pe / sprijinit de face guard. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Continue la hold Mamografie (Sân) în poziție while sliding Mână spre nipple ca compression paddle este brought into contact cu la (Fig. 18.66). Se aplică progresiv compresia până când glanda mamară este ferm fixată. corner de compression paddle trebuie să fie inferior la Claviculă. la avoid pacient discomfort caused prin corner de paddle și la facilitate even compression, remind pacientul la keep Umăr relaxat. Se instruiește pacientul să indicate if compression becomes uncomfortable. When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație. It poate fie necessary la increase parametri de expunere if compression este nu ca taut ca în routine incidențe. Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii. se rotește C-braț la approximately 70 grade. se ajustează height de C-braț astfel încât superior edge de receptorul de imagine este even cu top de pacientul’s Umăr. Select appropriate compression device. quadrant paddle will capture more deep axillary tissue; standard 18 × 24 cm compression paddle will capture additional lateral tissue și la. Se instruiește pacientul să elevate braț de afected side so that it este perpendicular pe corp. Place braț pe / sprijinit de receptorul de imagine astfel încât posterior aspect de Umăr este resting pe / sprijinit de receptorul de imagine. pacientul’s braț este draped across receptorul de imagine cu Antebraț resting pe grip bar. Se instruiește pacientul să relax afected Umăr și lean slightly anterior. Using flat surface de Mână plasat under axillary region, gently pull tail de Mamografie (Sân) anteriorly și medially onto receptorul de imagine, keeping skin și tissue smooth și liber de wrinkles. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Slowly bring compression down along pacientul’s Coaste (Grilaj Costal), cu top edge de compression paddle skimming lower edge de pacientul’s upper braț. Slowly apply compression until axillary tissue feels taut. corner de compression paddle trebuie să fie inferior la Claviculă. la avoid pacient discomfort caused prin corner de paddle și la facilitate even compression, remind pacientul la keep Umăr relaxat. Se instruiește pacientul să indicate if compression becomes uncomfortable. Vigorous compression este nu necessary pentru this incidență (Fig. 18.68). When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație. It poate fie necessary la increase parametri de expunere if compression este nu ca taut ca în routine incidențe. Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
-    - **Punct de Centrare Fascicul:** perpendicular pe aria de interes diagnostic perpendicular pe imaging plate. perpendicular pe base de Mamografie (Sân) perpendicular pe receptorul de imagine (RI) angle de C-braț apparatus este determined prin slope de pacientul’s la.
+    - **Poziție Pacient:** Se instruiește pacientul să stea cu fața spre receptorul de imagine sau se așază pacientul pe un scaun, pe un taburet reglabil, cu fața spre aparat. Se instruiește pacientul să stea cu fața spre receptorul de imagine sau se așază pacientul pe un scaun, pe un taburet reglabil, cu fața spre aparat. Se instruiește pacientul să stea cu fața spre receptorul de imagine. Se instruiește pacientul să stea cu fața spre receptorul de imagine sau se așază pacientul pe un scaun, pe un taburet reglabil, cu fața spre aparat. Se instruiește pacientul să stea cu fața spre receptorul de imagine sau se așază pacientul pe un scaun, pe un taburet reglabil, cu fața spre aparat.; pentru o masă palpabilă, incidența TAN este efectuată cel mai frecvent folosind tehnica de magnificație. Se selectează paleta standard, paleta pentru cadran sau paleta pentru compresie focalizată, după caz. Se plasează detectorul AEC la nivelul peretelui toracic. Se localizează aria de interes diagnostic prin palparea sânului pacientei. Se plasează un marker radiopac sau o bilă BB pe masă sau se instruiește pacienta să plaseze bila BB pe aria de interes. Folosind linia imaginară dintre mamelon și bila BB ca reper unghiular (Fig. 18.58), se rotește aparatul cu braț C paralel cu această linie. Raza centrală este orientată tangențial către sân, la punctul identificat prin markerul BB. Se plasează sânul pe receptorul de imagine sau pe suportul de magnificație, cu aria de interes diagnostic marcată prin bila BB la marginea tegumentului. „Umbra” bilei BB va fi proiectată pe suprafața receptorului de imagine. Folosind paleta de compresie adecvată, se comprimă sânul, asigurându-se că o cantitate suficientă de țesut mamar acoperă aria detectorului AEC. Se aplică progresiv compresia până când glanda mamară este ferm fixată. Se instruiește pacienta să indice dacă compresia devine neconfortabilă. Când se obține compresia completă, se instruiește pacienta să oprească respirația (Figs. 18.59 și 18.60). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii. Se plasează pe aparat platforma de magnificație destinată utilizării cu unitatea de mamografie dedicată. Se plasează bila BB de plumb peste masa palpabilă. Folosind mâinile, se determină incidența cu cea mai mare probabilitate de a evidenția masa fără suprapunerea altui țesut. Se plasează aria de interes clinic la marginea sânului, în plan tangent față de placa de imagine. Aria palpabilă de interes clinic este captată cu colțul unui dispozitiv din sârmă în formă de umeraș sau cu un dispozitiv de compresie focalizată inversat. Nu este necesară compresie suplimentară. Poate fi necesară utilizarea tehnicii manuale dacă volumul de țesut captat în dispozitivul tip umeraș sau în dispozitivul de compresie inversat nu acoperă detectorul AEC. Se rotește aparatul cu braț C la 180 de grade față de rotația utilizată pentru incidența CC de rutină. Capul tubului va fi aproape de podea, iar receptorul de imagine va fi deasupra sânului pacientei. În ortostatism, pe partea medială a sânului care urmează să fie examinat, se ridică pliul inframamar la înălțimea maximă. Se ajustează înălțimea brațului C astfel încât receptorul de imagine să fie în contact cu țesutul mamar superior. Pacienta se apleacă ușor înainte în timp ce sânul ridicat este tras cu blândețe în afară și perpendicular pe peretele toracic. Se menține sânul în poziție. Se instruiește pacienta să sprijine brațul de partea afectată peste partea superioară a receptorului de imagine. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Se aduce paleta de compresie de jos până la contactul cu sânul pacientei, în timp ce mâna este deplasată spre mamelon. Se aplică progresiv compresia până când glanda mamară este ferm fixată. Se instruiește pacienta să indice dacă compresia devine neconfortabilă. Pentru a se asigura că abdomenul pacientei nu este suprapus peste traiectul fasciculului, se instruiește pacienta să-și retragă abdomenul sau să-și deplaseze ușor șoldurile posterior. Când se obține compresia completă, se deplasează detectorul AEC în poziția adecvată și se instruiește pacienta să oprească respirația (Fig. 18.64). Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii. Se determină gradul de oblicitate al aparatului cu braț C prin rotirea tubului până când marginea lungă a receptorului de imagine este paralelă cu partea afectată. Gradul de oblicitate variază între 10 și 35 de grade. Se ajustează înălțimea brațului C astfel încât marginea superioară a receptorului de imagine să fie chiar sub axilă. Se instruiește pacienta să ridice brațul de partea afectată peste colțul receptorului de imagine și să-și sprijine mâna pe mânerul adiacent. Cotul pacientei trebuie să fie flectat. Se instruiește pacienta să relaxeze umărul afectat și să-l aplece ușor anterior. Folosind suprafața palmei, se trage ușor coada sânului anterior și medial pe receptorul de imagine, menținând tegumentul și țesutul netede și fără pliuri. Se instruiește pacienta să întoarcă capul în partea opusă celei examinate și să-și sprijine capul pe apărătoarea facială. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Se continuă menținerea sânului în poziție în timp ce mâna este deplasată spre mamelon, pe măsură ce paleta de compresie este adusă în contact cu acesta (Fig. 18.66). Se aplică progresiv compresia până când glanda mamară este ferm fixată. Colțul paletei de compresie trebuie să fie inferior claviculei. Pentru a evita disconfortul pacientei cauzat de colțul paletei și pentru a facilita o compresie uniformă, i se reamintește pacientei să mențină umărul relaxat. Se instruiește pacienta să indice dacă compresia devine neconfortabilă. Când se obține compresia completă, se deplasează detectorul AEC în poziția adecvată și se instruiește pacienta să oprească respirația. Poate fi necesară creșterea parametrilor de expunere dacă nivelul compresiei nu este la fel de ferm ca în incidențele de rutină. Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii. Se rotește brațul C la aproximativ 70 de grade. Se ajustează înălțimea brațului C astfel încât marginea superioară a receptorului de imagine să fie la același nivel cu partea superioară a umărului pacientei. Se selectează dispozitivul de compresie adecvat. Paleta pentru cadran va capta mai mult țesut axilar profund; paleta standard de compresie de 18 × 24 cm va capta țesut lateral suplimentar și [fragment deteriorat în sursă]. Se instruiește pacienta să ridice brațul de partea afectată astfel încât acesta să fie perpendicular pe corp. Se plasează brațul pe receptorul de imagine astfel încât aspectul posterior al umărului să fie sprijinit pe receptorul de imagine. Brațul pacientei este așezat peste receptorul de imagine, cu antebrațul sprijinit pe bara de prindere. Se instruiește pacienta să relaxeze umărul afectat și să se aplece ușor anterior. Folosind suprafața palmei plasată sub regiunea axilară, se trage ușor coada sânului anterior și medial pe receptorul de imagine, menținând tegumentul și țesutul netede și fără pliuri. Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Se aduce lent compresia de-a lungul coastelor pacientei, cu marginea superioară a paletei de compresie alunecând pe marginea inferioară a brațului superior al pacientei. Se aplică lent compresia până când țesutul axilar devine tensionat. Colțul paletei de compresie trebuie să fie inferior claviculei. Pentru a evita disconfortul pacientei cauzat de colțul paletei și pentru a facilita o compresie uniformă, i se reamintește pacientei să mențină umărul relaxat. Se instruiește pacienta să indice dacă compresia devine neconfortabilă. Compresia viguroasă nu este necesară pentru această incidență (Fig. 18.68). Când se obține compresia completă, se deplasează detectorul AEC în poziția adecvată și se instruiește pacienta să oprească respirația. Poate fi necesară creșterea parametrilor de expunere dacă nivelul compresiei nu este la fel de ferm ca în incidențele de rutină. Se declanșează expunerea. Se decomprimă sânul imediat după efectuarea expunerii.
+    - **Punct de Centrare Fascicul:** perpendicular pe aria de interes diagnostic, perpendicular pe placa de imagistică. perpendicular pe baza sânului perpendicular pe receptorul de imagine (RI); unghiul aparatului cu C-braț este determinat prin panta pacientei către [fragment deteriorat în sursă]
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -551,29 +548,29 @@ title: Rx ▪ Incidență cu Compresie Focalizată — Incidență Tangențială
 
     ---
 
-    - following trebuie să fie clearly vizualizat:
-    - Palpable lesion visualized over subcutaneous fat
-    - TAN radiopaque marker sau BB marker accurately correlated cu palpable lesion
-    - Minimal overlapping de adjacent parenchyma
-    - Calcification în parenchyma sau skin
-    - Uniform tissue expunere if compression este adecvat following trebuie să fie clearly vizualizat:
-    - aria de interes diagnostic within collimated și self-compressed margins following trebuie să fie clearly vizualizat:
-    - superior Mamografie (Sân) tissue și lesions clearly visualized
-    - pentru needle localization imagini, inferior lesion visualized within specialized fenestrated compression plate
-    - pacient’s Abdomen projected clear de imagine
-    - Inclusion de fixed posterior tissue de superior aspect de Mamografie (Sân)
-    - PNL extending posteriorly la edge de imagine, measuring within ⅓ inch (1 cm) de depth de PNL pe MLO incidență
-    - toate medial tissue included ca vizualizat prin visualization de medial retroglandular fat și absence de fibroglandular tissue extending la posteromedial edge de imagine
-    - Nipple în profile, if possible, și la midline, indicating fără exaСeration de positioning
-    - Some lateral tissue possibly excluded la emphasize medial tissue
-    - Slight medial skin reflection la cleavage, ensuring that posterior medial tissue este adequately included
-    - Uniform tissue expunere if compression este adecvat Mediolateral Incidență Oblică pentru Axillary Tail (la) Paddle: 8 × 10 inches (18 × 24 cm) sau 10 × 12 inches (24 × 30 cm). following trebuie să fie clearly vizualizat:
-    - la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.67)
-    - Uniform tissue expunere if compression este adecvat
-    - Slight skin reflection de afected braț pe superior margine de imagine following trebuie să fie clearly vizualizat:
-    - la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.69)
-    - Uniform tissue expunere if compression este adecvat
-    - Slight skin reflection de afected braț pe superior margine de imagine
+    - Următoarele trebuie să fie clar vizualizate:
+    - Leziune palpabilă vizualizată peste țesutul adipos subcutanat
+    - Markerul radiopac TAN sau markerul BB corelat exact cu leziunea palpabilă
+    - Suprapunere minimă a parenchimului adiacent
+    - Calcificare în parenchim sau tegument
+    - Expunere uniformă a țesutului dacă este aplicată o compresie adecvată; următoarele trebuie să fie clar vizualizate:
+    - Aria de interes diagnostic din marginile colimate și autocompresate trebuie să fie vizualizată clar:
+    - Țesutul mamar superior și leziunile vizualizate clar
+    - Pentru imaginile de localizare a acului, leziunea inferioară vizualizată în interiorul plăcii de compresie fenestrate specializate
+    - Abdomenul pacientei proiectat în afara imaginii
+    - Includerea țesutului posterior fix al aspectului superior al sânului
+    - PNL extins posterior până la marginea imaginii, măsurând în limita a ⅓ țol (1 cm) din profunzimea PNL pe incidența MLO
+    - Toate țesuturile mediale incluse, evidențiate prin vizualizarea grăsimii retroglandulare mediale și absența țesutului fibroglandular care se extinde până la marginea posteromedială a imaginii
+    - Mamelonul în profil, dacă este posibil, și pe linia mediană, indicând absența exagerării poziționării
+    - O parte din țesutul lateral poate fi exclusă pentru a evidenția țesutul medial
+    - Ușoară reflexie cutanată medială la nivelul clivajului, asigurând includerea adecvată a țesutului posteromedial
+    - Expunere uniformă a țesutului dacă este asigurată compresia adecvată. Incidență mediolaterală oblică pentru coada axilară. Paletă: 8 × 10 țoli (18 × 24 cm) sau 10 × 12 țoli (24 × 30 cm). Următoarele trebuie să fie vizualizate clar:
+    - [fragment deteriorat în sursă], cu includerea ganglionilor limfatici axilari sub compresie focalizată (Fig. 18.67)
+    - Expunere tisulară uniformă dacă compresia este adecvată
+    - Ușoară reflexie cutanată a brațului afectat pe marginea superioară a imaginii. Următoarele trebuie să fie vizualizate clar:
+    - [fragment deteriorat în sursă], cu includerea ganglionilor limfatici axilari sub compresie focalizată (Fig. 18.69)
+    - Expunere tisulară uniformă dacă compresia este adecvată
+    - Ușoară reflexie cutanată a brațului afectat pe marginea superioară a imaginii
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -582,6 +579,7 @@ title: Rx ▪ Incidență cu Compresie Focalizată — Incidență Tangențială
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -701,144 +699,3 @@ title: Rx ▪ Incidență cu Compresie Focalizată — Incidență Tangențială
 ## Surse de documentare
 
 - [Merrill’s Atlas, 18. Mammography, pagini 1388–1399](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This incidență shows superficial lesions close la skin surface cu minimal parenchymal overlapping. It also shows skin calcifications sau
-palpable lesions projected over subcutaneous fat (Fig. 18.61).
-area de clinical concern este positively identified și visualized cu advantages de magnification mammography.
-This incidență shows inferosuperior incidență de breast pentru improved visualization de lesions located în superior aspect ca result de
-reduced object–la–receptorul de imagine distance. FB incidență poate facilitate shorter route pentru needle-wire insertion la localize inferior lesion (Fig. 18.65)
-sau during în decubit ventral stereotactic core biopsy. incidență poate also fie used ca replacement pentru standard CC incidență în pacienți cu
-prominent pectoral muscles sau kyphosis.
-This incidență shows la de breast, cu emphasis pe its lateral aspect.
-This incidență shows axilla și la de breast, cu emphasis pe its lateral aspect.
-
-### cr
-
-• perpendicular pe aria de interes diagnostic
-• perpendicular pe imaging plate.
-• perpendicular pe base de breast
-• perpendicular pe receptorul de imagine (RI)
-• angle de C-braț apparatus este determined prin slope de pacientul’s la.
-
-### criteria
-
-following trebuie să fie clearly vizualizat:
-• Palpable lesion visualized over subcutaneous fat
-• TAN radiopaque marker sau BB marker accurately correlated cu palpable lesion
-• Minimal overlapping de adjacent parenchyma
-• Calcification în parenchyma sau skin
-• Uniform tissue expunere if compression este adecvat
-following trebuie să fie clearly vizualizat:
-• aria de interes diagnostic within collimated și self-compressed margins
-following trebuie să fie clearly vizualizat:
-• superior breast tissue și lesions clearly visualized
-• pentru needle localization imagini, inferior lesion visualized within specialized fenestrated compression plate
-• pacient’s abdomen projected clear de imagine
-• Inclusion de fixed posterior tissue de superior aspect de breast
-• PNL extending posteriorly la edge de imagine, measuring within ⅓ inch (1 cm) de depth de PNL pe MLO incidență
-• toate medial tissue included ca vizualizat prin visualization de medial retroglandular fat și absence de fibroglandular tissue extending la
-posteromedial edge de imagine
-• Nipple în profile, if possible, și la midline, indicating fără exaСeration de positioning
-• Some lateral tissue possibly excluded la emphasize medial tissue
-• Slight medial skin reflection la cleavage, ensuring that posterior medial tissue este adequately included
-• Uniform tissue expunere if compression este adecvat
-Mediolateral oblic incidență pentru Axillary Tail (la)
-Paddle:
-8 × 10 inches (18 × 24 cm) sau 10 × 12 inches (24 × 30 cm).
-following trebuie să fie clearly vizualizat:
-• la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.67)
-• Uniform tissue expunere if compression este adecvat
-• Slight skin reflection de afected braț pe superior margine de imagine
-following trebuie să fie clearly vizualizat:
-• la cu inclusion de axillary lymph nodes under focal compression (Fig. 18.69)
-• Uniform tissue expunere if compression este adecvat
-• Slight skin reflection de afected braț pe superior margine de imagine
-
-### part_pos
-
-pentru palpable mass
-TAN incidență este most often performed cu use de magnification technique.
-• Select standard, quadrant, sau spot compression paddle, ca appropriate.
-• Place AEC detector la toracele perete.
-• Locate aria de interes diagnostic prin palpating pacientul’s breast.
-• Place radiopaque marker sau BB pe mass, sau Se instruiește pacientul să place BB pe area de concern.
-• Using imaginary line între nipple și BB ca angle reference (Fig. 18.58), se rotește C-braț apparatus paralel la this
-line. raza centrală este orientat tangențial pe breast la point identified prin BB marker.
-• Place breast pe receptorul de imagine sau magnification stand cu aria de interes diagnostic marked prin BB pe edge de skin.
-• “shadow” de BB will fie projected onto receptorul de imagine surface.
-• Using appropriate compression paddle, compress breast while ensuring that enough breast tissue covers AEC detector area.
-• Se aplică progresiv compresia până când glanda mamară este ferm fixată.
-• Se instruiește pacientul să indicate if compression becomes uncomfortable.
-• When full compression este achieved, Se instruiește pacientul să stop respirație (Figs. 18.59 și 18.60).
-• Se declanșează expunerea.
-• Se decomprimă sânul imediat după efectuarea expunerii.
-• Place magnification platform designed pentru use cu dedicated mammography unit pe equipment.
-• Place lead BB over palpable mass.
-• Using your mâini, determine incidență most likely la imagine lump cu fără superimposition de other tissue. Place area de
-clinical concern la edge de breast în tangent plane la imaging plate.
-• palpable area de clinical concern este captured cu corner de wire coat-hanger sau inverted spot compression device. fără
-additional compression este needed.
-• It poate fie necessary la use manual technique if amount de tissue captured within coat-hanger sau inverted compression device
-does nu cover AEC detector.
-• se rotește C-braț apparatus 180 grade de la rotație used pentru routine CC incidență. tubul cap will fie near floor și
-receptorul de imagine will fie above pacientul’s breast.
-• în ortostatism pe medial side de breast la fie imaged, elevate inframammary fold la its maximal height.
-• se ajustează height de C-braț astfel încât receptorul de imagine este în contact cu superior breast tissue.
-• Lean pacientul slightly forward while gently pulling ridicat breast out și perpendicular pe chest perete. Hold breast în
-poziție.
-• Se instruiește pacientul să rest afected braț over top de receptorul de imagine.
-• Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Bring compression paddle de la below into contact cu pacient’s breast while sliding mână spre nipple.
-• Se aplică progresiv compresia până când glanda mamară este ferm fixată.
-• Se instruiește pacientul să indicate if compression becomes uncomfortable.
-• la ensure that pacientul’s abdomen este nu superimposed over path de fascicul, Se instruiește pacientul să pull în abdomenul sau move hips back slightly.
-• When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație (Fig.
-18.64).
-• Se declanșează expunerea.
-• Se decomprimă sânul imediat după efectuarea expunerii.
-• Determine grade de obliquity de C-braț apparatus prin rotating tubul until long edge de receptorul de imagine este paralel cu la de
-afected side. grade de obliquity varies între 10 și 35 grade.
-• se ajustează height de C-braț astfel încât superior margine de receptorul de imagine este just under axilla.
-• Se instruiește pacientul să elevate braț de afected side over corner de receptorul de imagine și la rest mână pe adjacent handgrip. pacient’s cot trebuie să fie flectat.
-• Se instruiește pacientul să relax afected umăr și lean it slightly anterior. Using flat surface de mână, gently pull tail de breast anteriorly și medially onto receptorul de imagine, keeping skin și tissue smooth și liber de wrinkles.
-• Se instruiește pacientul să turn capul away de la side being examined și la rest capul pe / sprijinit de face guard.
-• Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Continue la hold breast în poziție while sliding mână spre
-nipple ca compression paddle este brought into contact cu la (Fig. 18.66).
-• Se aplică progresiv compresia până când glanda mamară este ferm fixată. corner de compression paddle trebuie să fie inferior la clavicle. la avoid
-pacient discomfort caused prin corner de paddle și la facilitate even compression, remind pacientul la keep umăr
-relaxat.
-• Se instruiește pacientul să indicate if compression becomes uncomfortable.
-• When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație. It
-poate fie necessary la increase parametri de expunere if compression este nu ca taut ca în routine incidențe.
-• Se declanșează expunerea.
-• Se decomprimă sânul imediat după efectuarea expunerii.
-• se rotește C-braț la approximately 70 grade.
-• se ajustează height de C-braț astfel încât superior edge de receptorul de imagine este even cu top de pacientul’s umăr.
-• Select appropriate compression device. quadrant paddle will capture more deep axillary tissue; standard 18 × 24 cm compression
-paddle will capture additional lateral tissue și la.
-• Se instruiește pacientul să elevate braț de afected side so that it este perpendicular pe corp.
-• Place braț pe / sprijinit de receptorul de imagine astfel încât posterior aspect de umăr este resting pe / sprijinit de receptorul de imagine. pacientul’s braț este draped across receptorul de imagine cu forearm resting pe grip bar.
-• Se instruiește pacientul să relax afected umăr și lean slightly anterior. Using flat surface de mână plasat under axillary
-region, gently pull tail de breast anteriorly și medially onto receptorul de imagine, keeping skin și tissue smooth și liber de wrinkles.
-• Se informează pacienta cu privire la aplicarea compresiei pe glanda mamară. Slowly bring compression down along pacientul’s coaste, cu top
-edge de compression paddle skimming lower edge de pacientul’s upper braț.
-• Slowly apply compression until axillary tissue feels taut. corner de compression paddle trebuie să fie inferior la clavicle. la
-avoid pacient discomfort caused prin corner de paddle și la facilitate even compression, remind pacientul la keep umăr relaxat.
-• Se instruiește pacientul să indicate if compression becomes uncomfortable. Vigorous compression este nu necessary pentru this incidență (Fig.
-18.68).
-• When full compression este achieved, move AEC detector la appropriate poziție, și Se instruiește pacientul să stop respirație. It
-poate fie necessary la increase parametri de expunere if compression este nu ca taut ca în routine incidențe.
-• Se declanșează expunerea.
-• Se decomprimă sânul imediat după efectuarea expunerii.
-
-### patient_pos
-
-• Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit.
-• Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit.
-• Se instruiește pacientul să stand facing receptorul de imagine.
-• Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit.
-• Se instruiește pacientul să stand facing receptorul de imagine sau se așază pacientul pe scaun pe adjustable stool facing unit.
-

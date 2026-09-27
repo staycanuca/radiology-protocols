@@ -5,8 +5,8 @@ breathing: Apnee pe durata expunerii în expir. Expirul reduce volumul de aer di
   DE RUTINĂ AP profil Fig. 8.80 AP Coloană Toracală.
 category: coloana
 centering: perpendicular pe receptorul de imagine. Raza centrală se orientează spre
-  T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 1 la
-  2 inches [2.5 la 5 cm] sub unghiul sternal). Centrarea este similară cu cea utilizată
+  T7 (3 la 4 țoli [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 1 la
+  2 țoli [2.5 la 5 cm] sub unghiul sternal). Centrarea este similară cu cea utilizată
   pentru AP Torace. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Patologie care implică Coloana Toracală, cum ar fi compresia, suspiciunea de fractură,
@@ -28,6 +28,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-ap-antero-posterior-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -100,17 +104,18 @@ title: Rx Coloană Toracală AP (Antero-Posterior)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: poziția pacientului în Decubit și Ortostatism Decubit dorsal (preferat), cu brațele pe lângă corp și capul pe masă sau pe o pernă subțire. Dacă pacientul nu poate tolera poziția în Decubit dorsal, se plasează în Ortostatism, cu brațele pe lângă corp și greutatea distribuită uniform pe ambele picioare. Efectul de călcâi al anodului va crea o expunere mai uniformă a receptorului pe întreaga Coloană Toracală. Se poziționează pacientul astfel încât aspectul mai intens al fasciculului (partea catodică) să fie deasupra regiunii toracolombare a coloanei vertebrale.; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine (Fig. 8.80). Se flectează genunchii și șoldurile pentru a reduce curbura toracică. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau Bazinului (bazin (pelvis)) exists.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 1 la 2 inches [2.5 la 5 cm] sub unghiul sternal). Centrarea este similară cu cea utilizată pentru AP Torace. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre T7 (3 la 4 țoli [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 1 la 2 țoli [2.5 la 5 cm] sub unghiul sternal). Centrarea este similară cu cea utilizată pentru AP Torace. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii în expir. Expirul reduce volumul de aer din torace pentru o luminozitate și un contrast mai uniforme ale imaginii. Coloană Toracală DE RUTINĂ AP profil Fig. 8.80 AP Coloană Toracală.
 

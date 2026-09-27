@@ -3,15 +3,16 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • în fiecare case, raza centrală orizontală centrală este orientat la capul
-  de Humerus și la centre de film radiologic.
+centering: • în fiecare caz, raza centrală orizontală este orientată spre capul humerusului
+  și spre centrul receptorului de imagine.
 clinical_indications:
-- Evaluare radiografică regiunii Calcified tendons (Antero - posterior).
+- Evaluarea radiografică a regiunii tendoanelor calcificate (anteroposterioră).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: calcificări patologice moves în relation la Humerus.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: calcificările patologice se deplasează în raport cu humerusul.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-p107-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -33,28 +34,35 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-p107-clark/fig_6.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul stă în ortostatism cu affected Umăr pe / sprijinit de vertical
-  casetă holder și rotit 15 grade la bring plane de Omoplat (Scapulă) paralel cu casetă.
+position: '• pacientul stă în ortostatism, cu umărul afectat sprijinit de suportul
+  vertical pentru casetă și rotit 15 grade, pentru a aduce planul omoplatului paralel
+  cu caseta.
 
-  • caseta este poziționat so that its upper margine este la least 5 cm above Umăr
-  la ensure that Oblică rays do nu project Umăr off film radiologic.
+  • caseta este poziționată astfel încât marginea sa superioară să fie la cel puțin
+  5 cm deasupra umărului, pentru a se asigura că razele oblice nu proiectează umărul
+  în afara receptorului de imagine.
 
-  poziție de braț
+  poziția brațului
 
-  • braț este în supinație la pacientul’s side, palm facing forwards, cu line joining
-  medial și Profil (lateral) epicondyles de Humerus paralel cu vertical casetă holder.
+  • brațul este în supinație, de partea pacientului, cu palma orientată anterior,
+  iar linia care unește epicondilii medial și lateral ai humerusului este paralelă
+  cu suportul vertical pentru casetă.
 
-  • cu Cot flectat, braț este partially în abducție și medially rotit, cu dorsum de
-  Mână resting pe rear waistline. line joining medial și Profil (lateral) epicondyles
-  de Humerus este now perpendicular pe vertical casetă holder.
+  • cu cotul flectat, brațul este parțial în abducție și rotat medial, cu dosul mâinii
+  sprijinit pe partea posterioară a taliei. Linia care unește epicondilii medial și
+  lateral ai humerusului este acum perpendiculară pe suportul vertical pentru casetă.
 
-  • cu Cot flectat, braț este în abducție și Rotație Externă (Laterală), cu Mână raised
-  above Umăr. palm de Mână faces forward, cu Profil (lateral) epicondyle facing backwards.
-  line joining medial și Profil (lateral) epicondyles de Humerus trebuie să fie perpendicular
-  pe vertical casetă holder.'
+  • cu cotul flectat, brațul este în abducție și rotație externă (laterală), cu mâna
+  ridicată deasupra umărului. Palma este orientată anterior, iar epicondilul lateral
+  este orientat posterior. Linia care unește epicondilii medial și lateral ai humerusului
+  trebuie să fie perpendiculară pe suportul vertical pentru casetă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -63,16 +71,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- în fiecare case, imagine trebuie să evidențiază extremitatea proximală Humerus în
-  profile la tendon under examination.
-- Different grade de rotație will evidențiază whether calcificări patologice moves
-  în relation la Humerus.
-- expunere trebuie să fie ajustat la show părți moi details – usually 5 kVp less than
-  pentru general imagini. 92 Profil (lateral) rotație (braț în poziție 3) Absența
-  rotației anatomice (simetrie bilaterală perfectă) (braț în poziție 1) rotație internă
-  (medială) (braț în poziție 2) Profil (lateral) rotație (braț în poziție 3) Absența
-  rotației anatomice (simetrie bilaterală perfectă) (braț în poziție 1) rotație internă
-  (medială) (braț în poziție 2)
+- în fiecare caz, imaginea trebuie să evidențieze extremitatea proximală a humerusului
+  în profil față de tendonul examinat.
+- Gradele diferite de rotație vor evidenția dacă calcificările patologice se deplasează
+  în raport cu humerusul.
+- Expunerea trebuie ajustată pentru a evidenția detaliile părților moi – de obicei
+  cu 5 kVp mai puțin decât pentru imaginile generale. 92 Rotație laterală (brațul
+  în poziția 3) Absența rotației anatomice (simetrie bilaterală perfectă) (brațul
+  în poziția 1) Rotație internă (medială) (brațul în poziția 2) Rotație laterală (brațul
+  în poziția 3) Absența rotației anatomice (simetrie bilaterală perfectă) (brațul
+  în poziția 1) Rotație internă (medială) (brațul în poziția 2)
 sid_dff: 100 cm
 slug: rx-calcified-tendons-antero-posterior-p107-clark
 sources:
@@ -81,14 +89,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: '5'
-  mas: Conform AEC / grosime anatomică
-title: Rx Calcified tendons Antero-Posterior (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Rx tendoane calcificate anteroposterioră (AP)
 ---
-# Rx Calcified tendons Antero-Posterior (AP)
+# Rx tendoane calcificate anteroposterioră (AP)
 
 
 <div class="rx-meta-bar">
@@ -107,29 +115,30 @@ title: Rx Calcified tendons Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Calcified tendons (Antero - posterior).
+        - Evaluarea radiografică a regiunii tendoanelor calcificate (anteroposterioră).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism cu affected Umăr pe / sprijinit de vertical casetă holder și rotit 15 grade la bring plane de Omoplat (Scapulă) paralel cu casetă.
-• caseta este poziționat so that its upper margine este la least 5 cm above Umăr la ensure that Oblică rays do nu project Umăr off film radiologic.
-poziție de braț
-• braț este în supinație la pacientul’s side, palm facing forwards, cu line joining medial și Profil (lateral) epicondyles de Humerus paralel cu vertical casetă holder.
-• cu Cot flectat, braț este partially în abducție și medially rotit, cu dorsum de Mână resting pe rear waistline. line joining medial și Profil (lateral) epicondyles de Humerus este now perpendicular pe vertical casetă holder.
-• cu Cot flectat, braț este în abducție și Rotație Externă (Laterală), cu Mână raised above Umăr. palm de Mână faces forward, cu Profil (lateral) epicondyle facing backwards. line joining medial și Profil (lateral) epicondyles de Humerus trebuie să fie perpendicular pe vertical casetă holder.
-    - **Punct de Centrare Fascicul:** • în fiecare case, raza centrală orizontală centrală este orientat la capul de Humerus și la centre de film radiologic.
+    - **Poziție Pacient:**
+        - pacientul stă în ortostatism, cu umărul afectat sprijinit de suportul vertical pentru casetă și rotit 15 grade, pentru a aduce planul omoplatului paralel cu caseta.
+        - caseta este poziționată astfel încât marginea sa superioară să fie la cel puțin 5 cm deasupra umărului, pentru a se asigura că razele oblice nu proiectează umărul în afara receptorului de imagine. poziția brațului
+        - brațul este în supinație, de partea pacientului, cu palma orientată anterior, iar linia care unește epicondilii medial și lateral ai humerusului este paralelă cu suportul vertical pentru casetă.
+        - cu cotul flectat, brațul este parțial în abducție și rotat medial, cu dosul mâinii sprijinit pe partea posterioară a taliei. Linia care unește epicondilii medial și lateral ai humerusului este acum perpendiculară pe suportul vertical pentru casetă.
+        - cu cotul flectat, brațul este în abducție și rotație externă (laterală), cu mâna ridicată deasupra umărului. Palma este orientată anterior, iar epicondilul lateral este orientat posterior. Linia care unește epicondilii medial și lateral ai humerusului trebuie să fie perpendiculară pe suportul vertical pentru casetă.
+    - **Punct de Centrare Fascicul:** • în fiecare caz, raza centrală orizontală este orientată spre capul humerusului și spre centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -140,21 +149,21 @@ poziție de braț
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | 5 kV |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - în fiecare case, imagine trebuie să evidențiază extremitatea proximală Humerus în profile la tendon under examination.
-    - Different grade de rotație will evidențiază whether calcificări patologice moves în relation la Humerus.
-    - expunere trebuie să fie ajustat la show părți moi details – usually 5 kVp less than pentru general imagini. 92 Profil (lateral) rotație (braț în poziție 3) Absența rotației anatomice (simetrie bilaterală perfectă) (braț în poziție 1) rotație internă (medială) (braț în poziție 2) Profil (lateral) rotație (braț în poziție 3) Absența rotației anatomice (simetrie bilaterală perfectă) (braț în poziție 1) rotație internă (medială) (braț în poziție 2)
+    - în fiecare caz, imaginea trebuie să evidențieze extremitatea proximală a humerusului în profil față de tendonul examinat.
+    - Gradele diferite de rotație vor evidenția dacă calcificările patologice se deplasează în raport cu humerusul.
+    - Expunerea trebuie ajustată pentru a evidenția detaliile părților moi – de obicei cu 5 kVp mai puțin decât pentru imaginile generale. 92 Rotație laterală (brațul în poziția 3) Absența rotației anatomice (simetrie bilaterală perfectă) (brațul în poziția 1) Rotație internă (medială) (brațul în poziția 2) Rotație laterală (brațul în poziția 3) Absența rotației anatomice (simetrie bilaterală perfectă) (brațul în poziția 1) Rotație internă (medială) (brațul în poziția 2)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,6 +175,7 @@ poziție de braț
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -176,9 +186,9 @@ poziție de braț
 
 <figure class="protocol-image-card" markdown>
 
-![calcificări patologice moves în relation la Humerus.](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-p107-clark/fig_1.jpeg)
+![calcificările patologice se deplasează în raport cu humerusul.](../../assets/images/protocols/clark/rx-calcified-tendons-antero-posterior-p107-clark/fig_1.jpeg)
 
-<figcaption><strong>calcificări patologice moves în relation la Humerus.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>calcificările patologice se deplasează în raport cu humerusul.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

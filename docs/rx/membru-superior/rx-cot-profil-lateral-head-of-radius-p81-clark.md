@@ -3,29 +3,30 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • în fiecare case, raza centrală verticală centrală este centred la Profil
-  (lateral) epicondyle de Humerus.
+centering: • În fiecare caz, raza centrală verticală este centrată pe epicondilul
+  lateral al humerusului.
 clinical_indications:
-- Cot este poziționat ca pentru Profil (lateral) Cot. Mână este then moved through
-  different grade de rotație, enabling visualization de small fissure suspiciune de
-  fractură through capul de radius.
+- Cotul este poziționat ca pentru incidența de profil a cotului. Mâna este apoi deplasată
+  prin grade diferite de rotație, permițând vizualizarea unei mici fisuri, suspecte
+  de fractură, prin capul radial.
 images:
-- caption: alization de small fissure suspiciune de fractură through capul de radius.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: alizarea unei mici fisuri suspecte de fractură prin capul radial.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_1.jpeg
-- caption: la enable fine suspiciune de fractură la fie detected.
+- caption: pentru a permite detectarea unei fisuri fine suspecte de fractură.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_2.jpeg
-- caption: Profil (lateral) radiografie de Cot pentru cap de
+- caption: Radiografie de profil a cotului pentru capul radial –
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_3.jpeg
-- caption: Profil (lateral) radiografie de Cot pentru cap de
+- caption: Radiografie de profil a cotului pentru capul radial –
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_4.jpeg
-- caption: Profil (lateral) radiografie de Cot pentru cap de
+- caption: Radiografie de profil a cotului pentru capul radial –
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_5.jpeg
@@ -33,21 +34,26 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_6.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pentru first incidență, pacientul este poziționat ca pentru Profil (lateral)
-  Cot incidență, cu palm de Mână vertical.
+position: '• Pentru prima incidență, pacientul este poziționat ca pentru incidența
+  de profil a cotului, cu palma mâinii verticală.
 
   Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
 
-  • pentru second expunere, upper braț și Cot sunt maintained în same poziție, whilst
-  Mână este rotit medially until palm de Mână rests pe masa de examinare. Antebrațul
-  este imobilizat cu ajutorul unui săculeț cu nisip.
+  • Pentru a doua expunere, brațul și cotul sunt menținute în aceeași poziție, în
+  timp ce mâna este rotită medial până când palma mâinii se sprijină pe masa de examinare.
+  Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
 
-  • pentru third expunere, upper braț și Cot sunt maintained în same poziție, whilst
-  Mână este rotit further medially, until palm de Mână este vertical, facing away
-  de la corp. Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.'
+  • Pentru a treia expunere, brațul și cotul sunt menținute în aceeași poziție, în
+  timp ce mâna este rotită în continuare medial, până când palma mâinii este verticală,
+  orientată în sens opus corpului. Antebrațul este imobilizat cu ajutorul unui săculeț
+  cu nisip.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -56,13 +62,13 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Cot articulație trebuie să fie seen în true Profil (lateral) poziție în fiecare
-  incidență.
-- Sufficient detail de bony trabeculae trebuie să fie evidențiat la enable fine suspiciune
-  de fractură la fie detected. 66 Profil (lateral) radiografie de Cot pentru cap de
-  radius – palm în unghi drept față de table Profil (lateral) radiografie de Cot pentru
-  cap de radius – palm în contact cu masa de examinare Profil (lateral) radiografie
-  de Cot pentru cap de radius – palm facing away de la trunk
+- Articulația cotului trebuie să fie vizualizată în poziție de profil adevărată la
+  fiecare incidență.
+- Trebuie evidențiat un detaliu suficient al trabeculelor osoase pentru a permite
+  detectarea unei fisuri fine suspecte de fractură. 66 Radiografie de profil a cotului
+  pentru capul radial – palma în unghi drept față de masă; radiografie de profil a
+  cotului pentru capul radial – palma în contact cu masa de examinare; radiografie
+  de profil a cotului pentru capul radial – palma orientată în sens opus trunchiului
 sid_dff: 100 cm
 slug: rx-cot-profil-lateral-head-of-radius-p81-clark
 sources:
@@ -71,14 +77,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cot Profil (Lateral) head of radius
+  mas: Conform AEC / grosimii anatomice
+title: Rx cot profil (lateral) – cap radial
 ---
-# Rx Cot Profil (Lateral) head of radius
+# Rx cot profil (lateral) – cap radial
 
 
 <div class="rx-meta-bar">
@@ -97,25 +103,26 @@ title: Rx Cot Profil (Lateral) head of radius
 
     === "Indicații Clinice"
 
-        - Cot este poziționat ca pentru Profil (lateral) Cot. Mână este then moved through different grade de rotație, enabling visualization de small fissure suspiciune de fractură through capul de radius.
+        - Cotul este poziționat ca pentru incidența de profil a cotului. Mâna este apoi deplasată prin grade diferite de rotație, permițând vizualizarea unei mici fisuri, suspecte de fractură, prin capul radial.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pentru first incidență, pacientul este poziționat ca pentru Profil (lateral) Cot incidență, cu palm de Mână vertical.
-Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
-• pentru second expunere, upper braț și Cot sunt maintained în same poziție, whilst Mână este rotit medially until palm de Mână rests pe masa de examinare. Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
-• pentru third expunere, upper braț și Cot sunt maintained în same poziție, whilst Mână este rotit further medially, until palm de Mână este vertical, facing away de la corp. Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
-    - **Punct de Centrare Fascicul:** • în fiecare case, raza centrală verticală centrală este centred la Profil (lateral) epicondyle de Humerus.
+    - **Poziție Pacient:**
+        - Pentru prima incidență, pacientul este poziționat ca pentru incidența de profil a cotului, cu palma mâinii verticală. Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
+        - Pentru a doua expunere, brațul și cotul sunt menținute în aceeași poziție, în timp ce mâna este rotită medial până când palma mâinii se sprijină pe masa de examinare. Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
+        - Pentru a treia expunere, brațul și cotul sunt menținute în aceeași poziție, în timp ce mâna este rotită în continuare medial, până când palma mâinii este verticală, orientată în sens opus corpului. Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
+    - **Punct de Centrare Fascicul:** • În fiecare caz, raza centrală verticală este centrată pe epicondilul lateral al humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -126,20 +133,20 @@ Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Cot articulație trebuie să fie seen în true Profil (lateral) poziție în fiecare incidență.
-    - Sufficient detail de bony trabeculae trebuie să fie evidențiat la enable fine suspiciune de fractură la fie detected. 66 Profil (lateral) radiografie de Cot pentru cap de radius – palm în unghi drept față de table Profil (lateral) radiografie de Cot pentru cap de radius – palm în contact cu masa de examinare Profil (lateral) radiografie de Cot pentru cap de radius – palm facing away de la trunk
+    - Articulația cotului trebuie să fie vizualizată în poziție de profil adevărată la fiecare incidență.
+    - Trebuie evidențiat un detaliu suficient al trabeculelor osoase pentru a permite detectarea unei fisuri fine suspecte de fractură. 66 Radiografie de profil a cotului pentru capul radial – palma în unghi drept față de masă; radiografie de profil a cotului pentru capul radial – palma în contact cu masa de examinare; radiografie de profil a cotului pentru capul radial – palma orientată în sens opus trunchiului
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -151,6 +158,7 @@ Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -161,41 +169,41 @@ Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
 
 <figure class="protocol-image-card" markdown>
 
-![alization de small fissure suspiciune de fractură through capul de radius.](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_1.jpeg)
+![alizarea unei mici fisuri suspecte de fractură prin capul radial.](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_1.jpeg)
 
-<figcaption><strong>alization de small fissure suspiciune de fractură through capul de radius.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![la enable fine suspiciune de fractură la fie detected.](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_2.jpeg)
-
-<figcaption><strong>la enable fine suspiciune de fractură la fie detected.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>alizarea unei mici fisuri suspecte de fractură prin capul radial.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Cot pentru cap de](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_3.jpeg)
+![pentru a permite detectarea unei fisuri fine suspecte de fractură.](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_2.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Cot pentru cap de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Profil (lateral) radiografie de Cot pentru cap de](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_4.jpeg)
-
-<figcaption><strong>Profil (lateral) radiografie de Cot pentru cap de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>pentru a permite detectarea unei fisuri fine suspecte de fractură.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Cot pentru cap de](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_5.jpeg)
+![Radiografie de profil a cotului pentru capul radial –](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_3.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Cot pentru cap de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de profil a cotului pentru capul radial –</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil a cotului pentru capul radial –](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie de profil a cotului pentru capul radial –</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil a cotului pentru capul radial –](../../assets/images/protocols/clark/rx-cot-profil-lateral-head-of-radius-p81-clark/fig_5.jpeg)
+
+<figcaption><strong>Radiografie de profil a cotului pentru capul radial –</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

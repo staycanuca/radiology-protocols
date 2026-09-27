@@ -3,24 +3,25 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• pentru lower end de Humerus și olecran de ulna, raza centrală verticală
-  centrală este centred 5 cm distal la olecran.
+centering: '• pentru extremitatea inferioară a humerusului și olecranul ulnei, raza
+  centrală verticală este centrată la 5 cm distal de olecran.
 
-  • pentru proximal ends de radius și ulna, including radio-humeral articulație, raza
-  centrală este orientat la drept-angles la Antebraț (Radius și Ulna) și centred 5
-  cm distal la olecran.'
+  • pentru extremitățile proximale ale radiusului și ulnei, inclusiv articulația radiohumerală,
+  raza centrală este orientată în unghi drept față de antebraț (radius și ulna) și
+  centrată la 5 cm distal de olecran.'
 clinical_indications:
-- It este preferable pentru pacientul’s upper braț la fie în contact cu caseta pentru
-  examination de extremitatea distală Humerus și olecran de ulna, și pentru Antebraț
-  (Radius și Ulna) la fie în contact cu caseta if proximal ends de radius și ulna
-  sunt la fie examined. în either de these cases, bones de Antebraț (Radius și Ulna)
-  will fie superimposed pe Humerus. However, gross injury și general alignment poate
-  fie evidențiat. Axială – upper braț în contact
+- Este de preferat ca brațul superior al pacientului să fie în contact cu caseta pentru
+  examinarea extremității distale a humerusului și a olecranului ulnei, iar antebrațul
+  (radius și ulna) să fie în contact cu caseta dacă se examinează extremitățile proximale
+  ale radiusului și ulnei. În ambele cazuri, oasele antebrațului (radius și ulna)
+  vor fi suprapuse peste humerus. Totuși, leziunile importante și alinierea generală
+  pot fi evidențiate. Axială – brațul superior în contact
 images:
-- caption: Axială radiografie de Cot – upper braț în contact cu caseta
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie axială de cot – brațul superior în contact cu caseta
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cot-full-flexion-p79-clark/fig_1.jpeg
-- caption: Axială radiografie de Cot – braț în plaster cast cu upper braț în
+- caption: Radiografie axială de cot – braț în aparat gipsat, cu brațul superior în
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-full-flexion-p79-clark/fig_2.jpeg
@@ -28,19 +29,23 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-full-flexion-p79-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 position: '• Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată
   sprijinită pe masă.
 
-  • Cot este fully flectat, și palm de Mână este facing Umăr.
+  • Cotul este flectat complet, iar palma mâinii este orientată spre umăr.
 
-  • posterior aspect de upper braț este plasat pe casetă, cu braț paralel cu axa longitudinală
-  de caseta.
+  • aspectul posterior al brațului superior este plasat pe casetă, cu brațul paralel
+  cu axa longitudinală a casetei.
 
-  • pacientul’s trunk este ajustat în order la bring medial și Profil (lateral) epicondyles
-  de Humerus echidistant față de caseta.'
+  • trunchiul pacientului este ajustat pentru a aduce epicondilii medial și lateral
+  ai humerusului la distanță egală față de casetă.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -49,11 +54,11 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine will include olecran și lower third de radius și ulna superimposed pe lower
-  third de Humerus.
-- expunere trebuie să fie adecvat la visualize toate three bones. 64 Axială radiografie
-  de Cot – upper braț în contact cu caseta Axială radiografie de Cot – braț în plaster
-  cast cu upper braț în contact cu caseta
+- imaginea va include olecranul și treimea inferioară a radiusului și ulnei, suprapuse
+  peste treimea inferioară a humerusului.
+- Expunerea trebuie să fie adecvată pentru vizualizarea tuturor celor trei oase. 64
+  Radiografie axială de cot – brațul superior în contact cu caseta Radiografie axială
+  de cot – braț în aparat gipsat, cu brațul superior în contact cu caseta
 sid_dff: 100 cm
 slug: rx-cot-full-flexion-p79-clark
 sources:
@@ -62,14 +67,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cot Full flexion
+  mas: Conform AEC / grosimii anatomice
+title: Rx Cot în flexie completă
 ---
-# Rx Cot Full flexion
+# Rx Cot în flexie completă
 
 
 <div class="rx-meta-bar">
@@ -88,26 +93,29 @@ title: Rx Cot Full flexion
 
     === "Indicații Clinice"
 
-        - It este preferable pentru pacientul’s upper braț la fie în contact cu caseta pentru examination de extremitatea distală Humerus și olecran de ulna, și pentru Antebraț (Radius și Ulna) la fie în contact cu caseta if proximal ends de radius și ulna sunt la fie examined. în either de these cases, bones de Antebraț (Radius și Ulna) will fie superimposed pe Humerus. However, gross injury și general alignment poate fie evidențiat. Axială – upper braț în contact
+        - Este de preferat ca brațul superior al pacientului să fie în contact cu caseta pentru examinarea extremității distale a humerusului și a olecranului ulnei, iar antebrațul (radius și ulna) să fie în contact cu caseta dacă se examinează extremitățile proximale ale radiusului și ulnei. În ambele cazuri, oasele antebrațului (radius și ulna) vor fi suprapuse peste humerus. Totuși, leziunile importante și alinierea generală pot fi evidențiate. Axială – brațul superior în contact
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
-• Cot este fully flectat, și palm de Mână este facing Umăr.
-• posterior aspect de upper braț este plasat pe casetă, cu braț paralel cu axa longitudinală de caseta.
-• pacientul’s trunk este ajustat în order la bring medial și Profil (lateral) epicondyles de Humerus echidistant față de caseta.
-    - **Punct de Centrare Fascicul:** • pentru lower end de Humerus și olecran de ulna, raza centrală verticală centrală este centred 5 cm distal la olecran.
-• pentru proximal ends de radius și ulna, including radio-humeral articulație, raza centrală este orientat la drept-angles la Antebraț (Radius și Ulna) și centred 5 cm distal la olecran.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
+        - Cotul este flectat complet, iar palma mâinii este orientată spre umăr.
+        - aspectul posterior al brațului superior este plasat pe casetă, cu brațul paralel cu axa longitudinală a casetei.
+        - trunchiul pacientului este ajustat pentru a aduce epicondilii medial și lateral ai humerusului la distanță egală față de casetă.
+    - **Punct de Centrare Fascicul:**
+        - pentru extremitatea inferioară a humerusului și olecranul ulnei, raza centrală verticală este centrată la 5 cm distal de olecran.
+        - pentru extremitățile proximale ale radiusului și ulnei, inclusiv articulația radiohumerală, raza centrală este orientată în unghi drept față de antebraț (radius și ulna) și centrată la 5 cm distal de olecran.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -118,20 +126,20 @@ title: Rx Cot Full flexion
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine will include olecran și lower third de radius și ulna superimposed pe lower third de Humerus.
-    - expunere trebuie să fie adecvat la visualize toate three bones. 64 Axială radiografie de Cot – upper braț în contact cu caseta Axială radiografie de Cot – braț în plaster cast cu upper braț în contact cu caseta
+    - imaginea va include olecranul și treimea inferioară a radiusului și ulnei, suprapuse peste treimea inferioară a humerusului.
+    - Expunerea trebuie să fie adecvată pentru vizualizarea tuturor celor trei oase. 64 Radiografie axială de cot – brațul superior în contact cu caseta Radiografie axială de cot – braț în aparat gipsat, cu brațul superior în contact cu caseta
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,6 +151,7 @@ title: Rx Cot Full flexion
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -153,17 +162,17 @@ title: Rx Cot Full flexion
 
 <figure class="protocol-image-card" markdown>
 
-![Axială radiografie de Cot – upper braț în contact cu caseta](../../assets/images/protocols/clark/rx-cot-full-flexion-p79-clark/fig_1.jpeg)
+![Radiografie axială de cot – brațul superior în contact cu caseta](../../assets/images/protocols/clark/rx-cot-full-flexion-p79-clark/fig_1.jpeg)
 
-<figcaption><strong>Axială radiografie de Cot – upper braț în contact cu caseta</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie axială de cot – brațul superior în contact cu caseta</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Axială radiografie de Cot – braț în plaster cast cu upper braț în](../../assets/images/protocols/clark/rx-cot-full-flexion-p79-clark/fig_2.jpeg)
+![Radiografie axială de cot – braț în aparat gipsat, cu brațul superior în](../../assets/images/protocols/clark/rx-cot-full-flexion-p79-clark/fig_2.jpeg)
 
-<figcaption><strong>Axială radiografie de Cot – braț în plaster cast cu upper braț în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie axială de cot – braț în aparat gipsat, cu brațul superior în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

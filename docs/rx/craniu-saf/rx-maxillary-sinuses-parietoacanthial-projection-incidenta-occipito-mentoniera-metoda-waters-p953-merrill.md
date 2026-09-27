@@ -15,6 +15,10 @@ images:
 - caption: Merrill — pagina 954, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-maxillary-sinuses-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-p953-merrill/p954_fig3.png
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -67,7 +71,7 @@ source_sections:
     grilă.'
   respiration: apnee (oprirea respirației).
   tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
-    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
     (24 ×
 
     30 cm), longitudinal.
@@ -113,11 +117,12 @@ title: Radiografia sinusurilor maxilare — incidență parietoacantială — in
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -155,6 +160,7 @@ title: Radiografia sinusurilor maxilare — incidență parietoacantială — in
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -202,38 +208,3 @@ title: Radiografia sinusurilor maxilare — incidență parietoacantială — in
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 953–954](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### colimare
-
-
-
-### raza centrală
-
-• Orizontal față de receptorul de imagine și ieșind la acantion
-
-### part_pos
-
-• Deoarece această poziție este inconfortabilă pentru pacient pentru menținere, receptorul de imagine și echipamentul trebuie să fie în poziție astfel încât examinarea să poată fi efectuată rapid.
-• Hiperextindeți gâtul pacientului până la poziția corectă aproximativă, apoi centrați receptorul de imagine la acantion.
-• Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel încât MSP să fie perpendicular pe planul receptorului de imagine.
-• Folosind raportorul ca ghid, ajustați capul astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 grade față de planul receptorului de imagine (vezi Fig. 11.174 și 11.176). Ca verificare a poziționării pentru un craniu de formă medie, linia mentomeatală (LMM) trebuie să fie aproximativ perpendiculară pe planul receptorului de imagine (RI).
-• Imobilizați capul pacientului.
-
-### patient_pos
-
-• Se poziționează pacientul așezat pe scaun, în ortostatism, cu fața către stativul vertical Bucky.
-• Se centrează MSP al capului pacientului pe linia mediană a dispozitivului cu grilă.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches (24 ×
-30 cm), longitudinal.
-Pentru metoda Waters, 13, 14 scopul este hiperextinderea gâtului pacientului suficient pentru a plasa stâncile pietroase imediat sub planșeele sinusurilor maxilare (Fig. 11.174). Când gâtul este extins insuficient, stâncile pietroase sunt proiectate peste porțiunile inferioare ale sinusurilor maxilare și ascund condițiile patologice subiacente (Fig. 11.175). Când gâtul este extins excesiv, sinusurile maxilare sunt scurtate,
-iar planșeele antrale nu sunt vizualizate.
-

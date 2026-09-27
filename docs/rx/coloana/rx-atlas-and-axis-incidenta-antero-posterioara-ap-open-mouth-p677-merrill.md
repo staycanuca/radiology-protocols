@@ -24,6 +24,10 @@ images:
 - caption: Merrill — pagina 680, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-atlas-and-axis-incidenta-antero-posterioara-ap-open-mouth-p677-merrill/p680_fig5.png
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -188,11 +192,12 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Tr
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -240,6 +245,7 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Tr
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -303,60 +309,3 @@ title: Rx Atlas și Axis (C1-C2) — Incidență Antero-Posterioară (AP) — Tr
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 677–680](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidență AP a atlasului și axisului prin gura deschisă (transorală) (Fig. 9.33 și 9.34). Dacă pacientul are capul cu un diametru antero-posterior mare sau mandibula lungă, atlasul nu va fi vizualizat în întregime. Când umbrele suprafeței ocluzale a incisivilor centrali superiori și ale bazei craniului sunt suprapuse exact și aliniate cu cele ale vârfurilor proceselor mastoidiene, poziția nu poate fi îmbunătățită. Dacă pacientul nu poate deschide gura, poate fi necesară tomografia (Fig. 9.35).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 13 × 13 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe centrul receptorului de imagine, pătrunzând prin mijlocul gurii deschise (transoral)
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
-• Procesul odontoid, atlasul, axisul și articulațiile dintre prima și a doua vertebră cervicală
-• Suprafețele articulare ale atlasului și axisului în întregime (pentru a verifica deplasarea laterală)
-• Gura larg deschisă
-• Suprapunerea planului ocluzal al incisivilor centrali superiori și a bazei craniului, evidențiind flexia corectă a gâtului
-• Dacă incisivii superiori se proiectează peste procesul odontoid, gâtul este flectat prea mult spre torace.
-• Dacă baza craniului se proiectează peste procesul odontoid, gâtul este extins prea mult.
-• Umbra limbii nu se proiectează peste atlas și axis
-• Ramurile mandibulare sunt echidistante față de procesul odontoid, evidențiind rotația corectă a capului
-• Detalii trabeculare osoase și țesuturile moi înconjurătoare
-
-### part_pos
-
-• Se așază receptorul de imagine în tăvița Bucky și se centrează la nivelul axisului.
-• Se ajustează poziția capului pacientului astfel încât MSP să fie perpendicular pe planul mesei de examinare (Fig. 9.31 și 9.32).
-• Se selectează parametrii de expunere și se aduce tubul de raze X în poziție, astfel încât orice modificare minoră să poată fi efectuată rapid după ajustarea finală a poziției capului pacientului. Deși această poziție nu este ușor de menținut, pacientul poate de obicei să coopereze pe deplin, cu condiția să nu fie menținut prea mult timp în poziția finală, solicitantă.
-• Se instruiește pacientul să deschidă gura cât mai larg posibil, apoi se ajustează poziția capului astfel încât linia de la marginea inferioară a incisivilor superiori până la vârful procesului mastoidian (planul ocluzal) să fie perpendiculară pe receptorul de imagine (RI). Poate fi necesar un suport mic sub partea posterioară a capului pentru a facilita deschiderea gurii, menținând alinierea corectă a incisivilor superiori și a vârfurilor proceselor mastoidiene.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-• se centrează MSP al corpului pe linia mediană a grilei.
-• se poziționează brațele pacientului de-a lungul corpului și se ajustează umerii astfel încât să fie în același plan orizontal.
-• Se așază un suport sub genunchii pacientului pentru confort.
-
-### respirație
-
-Se instruiește pacientul să țină gura larg deschisă și să pronunțe încet „ah” în timpul expunerii, pentru a poziționa limba pe planșeul bucal, astfel încât aceasta să nu se proiecteze peste atlas și axis, și pentru a preveni mișcarea mandibulei.
-
-### sid
-
-Se poate utiliza un SID de 30 țoli (76 cm) pentru această incidență, pentru a mări câmpul de vizualizare al regiunii odontoide. Consultați Capitolul 1 pentru utilizarea unui SID de 30 țoli (76 cm).
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
-× 30 cm).
-

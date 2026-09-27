@@ -2,42 +2,46 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-inferior
-centering: perpendicular pe receptorul de imagine, orientat la point midway între
-  malleoli
+centering: perpendicular pe receptorul de imagine, orientat la punctul situat la jumătatea
+  distanței dintre maleole
 clinical_indications:
-- Bony lesions sau diseases involving Gleznă (Articulație Talocrurală) articulație,
-  distal tibia și fibula, proximal astragal (talus), și proximal fifth metatarsal
-  lateral portion de Gleznă (Articulație Talocrurală) spații articulare trebuie să
-  nu appear open pe this incidență—(see AP Mortise incidență).
+- Leziunile osoase sau bolile care implică articulația gleznei, tibia și fibula distale,
+  astragalul proximal și porțiunea laterală a celui de-al cincilea metatarsian proximal
+  nu trebuie să apară cu spațiile articulare deschise pe această incidență—(vezi incidența
+  AP mortisă).
 images:
-- caption: Fig. 6.81 AP Gleznă (Articulație Talocrurală).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 6.81 AP ankle.)
+- caption: Fig. 6.81 AP gleznă.
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.81 AP gleznă.)
   url: assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_1.jpeg
-- caption: Fig. 6.82 AP Gleznă (Articulație Talocrurală). (Courtesy E.
+- caption: Fig. 6.82 AP gleznă. (Cu amabilitatea E.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.82
-    AP ankle. (Courtesy E.)
+    AP gleznă. (Cu amabilitatea E.)
   url: assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_2.jpeg
-- caption: Fig. 6.83 AP Gleznă (Articulație Talocrurală). (Courtesy E.
+- caption: Fig. 6.83 AP gleznă. (Cu amabilitatea E.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.83
-    AP ankle. (Courtesy E.)
+    AP gleznă. (Cu amabilitatea E.)
   url: assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: malleoli sunt nu same distance de la receptorul de imagine în anatomic poziție
-  cu true Incidență Antero-Posterioară (AP). (maleolă laterală (fibulară) este approximately
-  15° more posterior.) lateral portion de mortise articulație trebuie să nu appear
-  open. If this portion de Gleznă (Articulație Talocrurală) articulație does appear
-  open pe true AP, it poate suggest spread de Gleznă (Articulație Talocrurală) mortise
-  de la ruptured ligaments.1 Gleznă (Articulație Talocrurală) ROUTINE AP AP mortise
-  (15°) lateral SPECIAL oblic (45°) AP stress Fig. 6.81 AP Gleznă (Articulație Talocrurală).
-position: 'Pacient: Place pacient în Decubit dorsal poziție; place pillow under pacient’s
-  cap; membre inferioare trebuie să fie fully extins.; Regiune anatomică: Center și
-  align Gleznă (Articulație Talocrurală) articulație la raza centrală și la axa longitudinală
-  de portion de receptorul de imagine being exposed (Fig. 6.81). Do nu force dorsiflexion
-  de Picior; allow it la remain în its natural poziție (see NOTE 1). se ajustează
-  Picior și Gleznă (Articulație Talocrurală) pentru true Incidență Antero-Posterioară
-  (AP). Ensure that entire Gambă este nu rotit. intermalleolar line trebuie să nu
-  fie paralel cu receptorul de imagine (see NOTE 2).'
+notes: Maleolele nu se află la aceeași distanță față de receptorul de imagine în poziția
+  anatomică cu adevărata incidență anteroposterioară (AP). (Maleola laterală (fibulară)
+  este situată cu aproximativ 15° mai posterior.) Porțiunea laterală a mortisei articulare
+  nu trebuie să apară deschisă. Dacă această porțiune a articulației gleznei apare
+  deschisă pe o incidență AP adevărată, aceasta poate sugera lărgirea mortisei gleznei
+  din cauza ligamentelor rupte.1 GLEZNĂ DE RUTINĂ AP; AP mortisă (15°); laterală;
+  specială oblică (45°); AP de stres; Fig. 6.81 AP gleznă.
+position: 'Pacient: Așezați pacientul în decubit dorsal; plasați o pernă sub capul
+  pacientului; membrele inferioare trebuie să fie complet extinse. Regiune anatomică:
+  Centrați și aliniați articulația gleznei la raza centrală și la axa longitudinală
+  a porțiunii receptorului de imagine expuse (Fig. 6.81). Nu forțați dorsiflexia piciorului;
+  permiteți-i să rămână în poziția sa naturală (vezi NOTA 1). Ajustați piciorul și
+  glezna pentru o adevărată incidență anteroposterioară (AP). Asigurați-vă că întreaga
+  gambă nu este rotită. Linia intermalleolară nu trebuie să fie paralelă cu receptorul
+  de imagine (vezi NOTA 2).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -45,10 +49,10 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'distal onethird de tibiafibula, lateral și medial malleoli, și astragal (talus)
-  și proximal half de oase metatarsiene trebuie să fie evidențiat (Figs. 6.82 și 6.83).
-  poziție:'
-- axa longitudinală de membru inferior trebuie să fie aliniat la
+- 'Treimea distală a tibiei și fibulei, maleolele laterală și medială, astragalul
+  și jumătatea proximală a oaselor metatarsiene trebuie să fie evidențiate (Fig. 6.82
+  și 6.83). Poziție:'
+- Axa longitudinală a membrului inferior trebuie să fie aliniată la
 sid_dff: 100 cm
 slug: rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager
 sources:
@@ -56,27 +60,27 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'field și la receptorul de imagine. Absența rotației anatomice: clavicule
-    echidistante față de linia apofizelor spinoase if medial mortise articulație este
-    open și lateral mortise este closed. Some superimposition de distal fibula prin
-    distal tibia și astragal (talus) exists. Foursided collimation trebuie să include
-    distal onethird de Gambă la proximal half de oase metatarsiene. toate surrounding
-    părți moi also trebuie să fie included. expunere: optim receptorul de imagine
-    expunere și contrast cu fără mișcare la evidențiază clear bony margins și trabecular
-    markings. astragal (talus) trebuie să fie penetrated enough la evidențiază cortical
-    margins și trabeculae de bone. părți moi structures also trebuie să fie vizibil.
-    Fig. 6.82 AP Gleznă (Articulație Talocrurală). (Courtesy E. Frank, RT[R], FASRT.)
-    Base de 5th metatarsal maleolă laterală (fibulară) astragal (talus) maleolă medială
-    (tibială) Fig. 6.83 AP Gleznă (Articulație Talocrurală). (Courtesy E. Frank, RT[R],
-    FASRT.)'
+  collimation: 'câmp și la receptorul de imagine. Absența rotației anatomice: claviculele
+    sunt echidistante față de linia apofizelor spinoase dacă mortisa medială articulară
+    este deschisă și mortisa laterală este închisă. Există o anumită suprapunere a
+    fibulei distale de către tibia distală și astragal. Colimarea pe patru laturi
+    trebuie să includă treimea distală a gambei până la jumătatea proximală a oaselor
+    metatarsiene. De asemenea, trebuie incluse toate părțile moi înconjurătoare. Expunere:
+    expunere optimă a receptorului de imagine și contrast fără mișcare, pentru a evidenția
+    clar marginile osoase și desenul trabecular. Astragalul trebuie penetrat suficient
+    pentru a evidenția marginile corticale și trabeculele osoase. Structurile părților
+    moi trebuie, de asemenea, să fie vizibile. Fig. 6.82 AP gleznă. (Cu amabilitatea
+    E. Frank, RT[R], FASRT.) Baza celui de-al 5-lea metatarsian; maleola laterală
+    (fibulară); astragal; maleola medială (tibială); Fig. 6.83 AP gleznă. (Cu amabilitatea
+    E. Frank, RT[R], FASRT.)'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 60-75
   mas: DE CONFIGURAT PE APARAT
-title: Rx Gleznă (Articulație Talocrurală) AP (Antero-Posterior)
+title: Rx gleznă AP (anteroposterior)
 ---
-# Rx Gleznă (Articulație Talocrurală) AP (Antero-Posterior)
+# Rx gleznă AP (anteroposterior)
 
 
 <div class="rx-meta-bar">
@@ -95,22 +99,23 @@ title: Rx Gleznă (Articulație Talocrurală) AP (Antero-Posterior)
 
     === "Indicații Clinice"
 
-        - Bony lesions sau diseases involving Gleznă (Articulație Talocrurală) articulație, distal tibia și fibula, proximal astragal (talus), și proximal fifth metatarsal lateral portion de Gleznă (Articulație Talocrurală) spații articulare trebuie să nu appear open pe this incidență—(see AP Mortise incidență).
+        - Leziunile osoase sau bolile care implică articulația gleznei, tibia și fibula distale, astragalul proximal și porțiunea laterală a celui de-al cincilea metatarsian proximal nu trebuie să apară cu spațiile articulare deschise pe această incidență—(vezi incidența AP mortisă).
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Place pacient în Decubit dorsal poziție; place pillow under pacient’s cap; membre inferioare trebuie să fie fully extins.; Regiune anatomică: Center și align Gleznă (Articulație Talocrurală) articulație la raza centrală și la axa longitudinală de portion de receptorul de imagine being exposed (Fig. 6.81). Do nu force dorsiflexion de Picior; allow it la remain în its natural poziție (see NOTE 1). se ajustează Picior și Gleznă (Articulație Talocrurală) pentru true Incidență Antero-Posterioară (AP). Ensure that entire Gambă este nu rotit. intermalleolar line trebuie să nu fie paralel cu receptorul de imagine (see NOTE 2).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la point midway între malleoli
+    - **Poziție Pacient:** Pacient: Așezați pacientul în decubit dorsal; plasați o pernă sub capul pacientului; membrele inferioare trebuie să fie complet extinse. Regiune anatomică: Centrați și aliniați articulația gleznei la raza centrală și la axa longitudinală a porțiunii receptorului de imagine expuse (Fig. 6.81). Nu forțați dorsiflexia piciorului; permiteți-i să rămână în poziția sa naturală (vezi NOTA 1). Ajustați piciorul și glezna pentru o adevărată incidență anteroposterioară (AP). Asigurați-vă că întreaga gambă nu este rotită. Linia intermalleolară nu trebuie să fie paralelă cu receptorul de imagine (vezi NOTA 2).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la punctul situat la jumătatea distanței dintre maleole
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -126,15 +131,15 @@ title: Rx Gleznă (Articulație Talocrurală) AP (Antero-Posterior)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | field și la receptorul de imagine. Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase if medial mortise articulație este open și lateral mortise este closed. Some superimposition de distal fibula prin distal tibia și astragal (talus) exists. Foursided collimation trebuie să include distal onethird de Gambă la proximal half de oase metatarsiene. toate surrounding părți moi also trebuie să fie included. expunere: optim receptorul de imagine expunere și contrast cu fără mișcare la evidențiază clear bony margins și trabecular markings. astragal (talus) trebuie să fie penetrated enough la evidențiază cortical margins și trabeculae de bone. părți moi structures also trebuie să fie vizibil. Fig. 6.82 AP Gleznă (Articulație Talocrurală). (Courtesy E. Frank, RT[R], FASRT.) Base de 5th metatarsal maleolă laterală (fibulară) astragal (talus) maleolă medială (tibială) Fig. 6.83 AP Gleznă (Articulație Talocrurală). (Courtesy E. Frank, RT[R], FASRT.) |
+    | **Colimare Fascicul** | câmp și la receptorul de imagine. Absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase dacă mortisa medială articulară este deschisă și mortisa laterală este închisă. Există o anumită suprapunere a fibulei distale de către tibia distală și astragal. Colimarea pe patru laturi trebuie să includă treimea distală a gambei până la jumătatea proximală a oaselor metatarsiene. De asemenea, trebuie incluse toate părțile moi înconjurătoare. Expunere: expunere optimă a receptorului de imagine și contrast fără mișcare, pentru a evidenția clar marginile osoase și desenul trabecular. Astragalul trebuie penetrat suficient pentru a evidenția marginile corticale și trabeculele osoase. Structurile părților moi trebuie, de asemenea, să fie vizibile. Fig. 6.82 AP gleznă. (Cu amabilitatea E. Frank, RT[R], FASRT.) Baza celui de-al 5-lea metatarsian; maleola laterală (fibulară); astragal; maleola medială (tibială); Fig. 6.83 AP gleznă. (Cu amabilitatea E. Frank, RT[R], FASRT.) |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal onethird de tibiafibula, lateral și medial malleoli, și astragal (talus) și proximal half de oase metatarsiene trebuie să fie evidențiat (Figs. 6.82 și 6.83). poziție:
-    - axa longitudinală de membru inferior trebuie să fie aliniat la
+    - Treimea distală a tibiei și fibulei, maleolele laterală și medială, astragalul și jumătatea proximală a oaselor metatarsiene trebuie să fie evidențiate (Fig. 6.82 și 6.83). Poziție:
+    - Axa longitudinală a membrului inferior trebuie să fie aliniată la
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -146,8 +151,9 @@ title: Rx Gleznă (Articulație Talocrurală) AP (Antero-Posterior)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    malleoli sunt nu same distance de la receptorul de imagine în anatomic poziție cu true Incidență Antero-Posterioară (AP). (maleolă laterală (fibulară) este approximately 15° more posterior.) lateral portion de mortise articulație trebuie să nu appear open. If this portion de Gleznă (Articulație Talocrurală) articulație does appear open pe true AP, it poate suggest spread de Gleznă (Articulație Talocrurală) mortise de la ruptured ligaments.1 Gleznă (Articulație Talocrurală) ROUTINE AP AP mortise (15°) lateral SPECIAL oblic (45°) AP stress Fig. 6.81 AP Gleznă (Articulație Talocrurală).
+    Maleolele nu se află la aceeași distanță față de receptorul de imagine în poziția anatomică cu adevărata incidență anteroposterioară (AP). (Maleola laterală (fibulară) este situată cu aproximativ 15° mai posterior.) Porțiunea laterală a mortisei articulare nu trebuie să apară deschisă. Dacă această porțiune a articulației gleznei apare deschisă pe o incidență AP adevărată, aceasta poate sugera lărgirea mortisei gleznei din cauza ligamentelor rupte.1 GLEZNĂ DE RUTINĂ AP; AP mortisă (15°); laterală; specială oblică (45°); AP de stres; Fig. 6.81 AP gleznă.
 
 
 ### 🖼️ Imagini
@@ -156,25 +162,25 @@ title: Rx Gleznă (Articulație Talocrurală) AP (Antero-Posterior)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.81 AP Gleznă (Articulație Talocrurală).](../../assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_1.jpeg)
+![Fig. 6.81 AP gleznă.](../../assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 6.81 AP Gleznă (Articulație Talocrurală).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 6.81 AP ankle.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 6.82 AP Gleznă (Articulație Talocrurală). (Courtesy E.](../../assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 6.82 AP Gleznă (Articulație Talocrurală). (Courtesy E.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.82 AP ankle. (Courtesy E.)</span></figcaption>
+<figcaption><strong>Fig. 6.81 AP gleznă.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 6.81 AP gleznă.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 6.83 AP Gleznă (Articulație Talocrurală). (Courtesy E.](../../assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_3.jpeg)
+![Fig. 6.82 AP gleznă. (Cu amabilitatea E.](../../assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 6.83 AP Gleznă (Articulație Talocrurală). (Courtesy E.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.83 AP ankle. (Courtesy E.)</span></figcaption>
+<figcaption><strong>Fig. 6.82 AP gleznă. (Cu amabilitatea E.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.82 AP gleznă. (Cu amabilitatea E.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 6.83 AP gleznă. (Cu amabilitatea E.](../../assets/images/protocols/bontrager/rx-glezna-articulatie-talocrurala-ap-antero-posterior-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 6.83 AP gleznă. (Cu amabilitatea E.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 6.83 AP gleznă. (Cu amabilitatea E.)</span></figcaption>
 
 </figure>
 

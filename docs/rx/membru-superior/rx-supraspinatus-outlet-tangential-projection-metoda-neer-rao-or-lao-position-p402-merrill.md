@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: Înclinat 10–15 grade caudal (spre picioare), entering superior aspect de
-  cap humeral (see Table 6.3)
+centering: Înclinat 10–15 grade caudal (spre picioare), intrând prin aspectul superior
+  al capului humeral (vezi Tabelul 6.3)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -16,27 +16,31 @@ images:
 - caption: Merrill — pagina 404, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-supraspinatus-outlet-tangential-projection-metoda-neer-rao-or-lao-position-p402-merrill/p404_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Poziție Șezândă sau în ortostatism poziție facing
-  stativ vertical Bucky.; cu pacientul’s afected Umăr centrat și în contact cu receptorul
-  de imagine, se rotește pacient’s unafected side away de la receptorul de imagine.
-  Palpate flat aspect de afected Omoplat (Scapulă), și place it perpendicular pe receptorul
-  de imagine (RI). grade de pacient obliquity varies de la pacient la pacient. average
-  grade de pacient rotație varies de la 45 la 60 grade de la plane de receptorul de
-  imagine (Fig. 6.40). se poziționează pacientul’s braț la pacientul’s side. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în poziție șezândă sau în ortostatism, cu fața spre stativul
+  vertical Bucky. Cu umărul afectat al pacientului centrat și în contact cu receptorul
+  de imagine, se rotește partea neafectată a pacientului în direcție opusă receptorului
+  de imagine. Se palpează aspectul plat al scapulei afectate și se așază perpendicular
+  pe receptorul de imagine (RI). Gradul de oblicitate al pacientului variază de la
+  un pacient la altul. Gradul mediu de rotație a pacientului variază de la 45 la 60
+  grade față de planul receptorului de imagine (Fig. 6.40). Se poziționează brațul
+  pacientului de-a lungul corpului. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- cap humeral projected below articulații acromioclaviculare
-- cap humeral și articulații acromioclaviculare cu bony detail
-- Humerus și scapular corp, generally paralel
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- capul humeral proiectat sub articulațiile acromioclaviculare
+- capul humeral și articulațiile acromioclaviculare cu detalii osoase
+- humerusul și corpul scapulei, în general paralele
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-supraspinatus-outlet-tangential-projection-metoda-neer-rao-or-lao-position-p402-merrill
 source_pages:
@@ -44,60 +48,56 @@ source_pages:
 - 403
 - 404
 source_sections:
-  anatomy: 'tangențial outlet imagine shows posterior surface de acromion și articulații
-    acromioclaviculare identified ca superior margine de coracoacromial
+  anatomy: imaginea tangențială a ieșirii evidențiază suprafața posterioară a acromionului
+    și articulațiile acromioclaviculare, identificate ca marginea superioară a ieșirii
+    coracoacromiale (Fig. 6.41 și 6.42).
+  collimation: • Ajustați câmpul de iradiere la 12 țoli (30 cm) în lungime pe colimator
+    și la 1 țol (2.5 cm) dincolo de marginea laterală. Plasați markerul de lateralitate
+    în câmpul de expunere colimat.
+  cr: • Înclinat 10–15 grade caudal (spre picioare), intrând prin aspectul superior
+    al capului humeral (vezi Tabelul 6.3)
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    outlet (Figs. 6.41 și 6.42).'
-  collimation: '• Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator
-    și la 1 inch (2.5 cm) beyond lateral shadow. Place side
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    marker în collimated expunere field.'
-  cr: • Înclinat 10–15 grade caudal (spre picioare), entering superior aspect de cap
-    humeral (see Table 6.3)
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • capul humeral proiectat sub articulațiile acromioclaviculare
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • capul humeral și articulațiile acromioclaviculare cu detalii osoase
 
-    • cap humeral projected below articulații acromioclaviculare
+    • humerusul și corpul scapulei, în general paralele
 
-    • cap humeral și articulații acromioclaviculare cu bony detail
+    • detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Cu umărul afectat al pacientului centrat și în contact cu receptorul
+    de imagine, se rotește partea neafectată a pacientului în direcție opusă receptorului
+    de imagine. Se palpează aspectul plat al scapulei afectate și se așază perpendicular
+    pe receptorul de imagine (RI). Gradul de oblicitate al pacientului variază de
+    la un pacient la altul. Gradul mediu de rotație a pacientului variază de la 45
+    la 60 grade față de planul receptorului de imagine (Fig. 6.40).
 
-    • Humerus și scapular corp, generally paralel
+    • Se poziționează brațul pacientului de-a lungul corpului.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• cu pacientul’s afected umăr centrat și în contact cu receptorul de
-    imagine, se rotește pacient’s unafected side away de la receptorul de imagine.
-    Palpate
-
-    flat aspect de afected scapula, și place it perpendicular pe receptorul de imagine
-    (RI). grade de pacient obliquity varies de la pacient la
-
-    pacient. average grade de pacient rotație varies de la 45 la 60 grade de la plane
-    de receptorul de imagine (Fig. 6.40).
-
-    • se poziționează pacientul’s braț la pacientul’s side.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în așezat pe scaun sau în ortostatism poziție
-    facing stativ vertical Bucky.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul pe scaun sau în ortostatism, cu fața spre stativul
+    vertical Bucky.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 402–404
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator
-    și la 1 inch (2.5 cm) beyond lateral shadow. Se plasează markerul de lateralitate
+  collimation: Ajustați câmpul de iradiere la 12 țoli (30 cm) în lungime pe colimator
+    și la 1 țol (2.5 cm) dincolo de marginea laterală. Se plasează markerul de lateralitate
     în câmpul colimat.
-title: Rx Supraspinatus “Outlet” — Tangential Incidență — Metoda Neer RAO or Oblică
-  Anterioară Stângă (OAS / LAO) (Merrill)
+title: Rx supraspinos „ieșire” — incidență tangențială — metoda Neer, RAO sau oblică
+  anterioară stângă (OAS / LAO) (Merrill)
 ---
-# Rx Supraspinatus “Outlet” — Tangential Incidență — Metoda Neer RAO or Oblică Anterioară Stângă (OAS / LAO) (Merrill)
+# Rx supraspinos „ieșire” — incidență tangențială — metoda Neer, RAO sau oblică anterioară stângă (OAS / LAO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -121,17 +121,18 @@ title: Rx Supraspinatus “Outlet” — Tangential Incidență — Metoda Neer 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Poziție Șezândă sau în ortostatism poziție facing stativ vertical Bucky.; cu pacientul’s afected Umăr centrat și în contact cu receptorul de imagine, se rotește pacient’s unafected side away de la receptorul de imagine. Palpate flat aspect de afected Omoplat (Scapulă), și place it perpendicular pe receptorul de imagine (RI). grade de pacient obliquity varies de la pacient la pacient. average grade de pacient rotație varies de la 45 la 60 grade de la plane de receptorul de imagine (Fig. 6.40). se poziționează pacientul’s braț la pacientul’s side. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Înclinat 10–15 grade caudal (spre picioare), entering superior aspect de cap humeral (see Table 6.3)
+    - **Poziție Pacient:** Se așază pacientul în poziție șezândă sau în ortostatism, cu fața spre stativul vertical Bucky. Cu umărul afectat al pacientului centrat și în contact cu receptorul de imagine, se rotește partea neafectată a pacientului în direcție opusă receptorului de imagine. Se palpează aspectul plat al scapulei afectate și se așază perpendicular pe receptorul de imagine (RI). Gradul de oblicitate al pacientului variază de la un pacient la altul. Gradul mediu de rotație a pacientului variază de la 45 la 60 grade față de planul receptorului de imagine (Fig. 6.40). Se poziționează brațul pacientului de-a lungul corpului. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Înclinat 10–15 grade caudal (spre picioare), intrând prin aspectul superior al capului humeral (vezi Tabelul 6.3)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -147,19 +148,19 @@ title: Rx Supraspinatus “Outlet” — Tangential Incidență — Metoda Neer 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator și la 1 inch (2.5 cm) beyond lateral shadow. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 12 țoli (30 cm) în lungime pe colimator și la 1 țol (2.5 cm) dincolo de marginea laterală. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - cap humeral projected below articulații acromioclaviculare
-    - cap humeral și articulații acromioclaviculare cu bony detail
-    - Humerus și scapular corp, generally paralel
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - capul humeral proiectat sub articulațiile acromioclaviculare
+    - capul humeral și articulațiile acromioclaviculare cu detalii osoase
+    - humerusul și corpul scapulei, în general paralele
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -168,6 +169,7 @@ title: Rx Supraspinatus “Outlet” — Tangential Incidență — Metoda Neer 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -215,50 +217,3 @@ title: Rx Supraspinatus “Outlet” — Tangential Incidență — Metoda Neer 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 402–404](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-tangențial outlet imagine shows posterior surface de acromion și articulații acromioclaviculare identified ca superior margine de coracoacromial
-outlet (Figs. 6.41 și 6.42).
-
-### collimation
-
-• Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator și la 1 inch (2.5 cm) beyond lateral shadow. Place side
-marker în collimated expunere field.
-
-### cr
-
-• Înclinat 10–15 grade caudal (spre picioare), entering superior aspect de cap humeral (see Table 6.3)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cap humeral projected below articulații acromioclaviculare
-• cap humeral și articulații acromioclaviculare cu bony detail
-• Humerus și scapular corp, generally paralel
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• cu pacientul’s afected umăr centrat și în contact cu receptorul de imagine, se rotește pacient’s unafected side away de la receptorul de imagine. Palpate
-flat aspect de afected scapula, și place it perpendicular pe receptorul de imagine (RI). grade de pacient obliquity varies de la pacient la
-pacient. average grade de pacient rotație varies de la 45 la 60 grade de la plane de receptorul de imagine (Fig. 6.40).
-• se poziționează pacientul’s braț la pacientul’s side.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în așezat pe scaun sau în ortostatism poziție facing stativ vertical Bucky.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

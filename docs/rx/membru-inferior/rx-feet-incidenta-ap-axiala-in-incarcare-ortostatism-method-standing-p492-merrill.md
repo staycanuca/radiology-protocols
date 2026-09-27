@@ -2,98 +2,103 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: înclinat 10 grade spre heel este optim. minimum de 15 grade este usually
-  necessary la have enough room la poziție tubul și allow pacientul la stand. raza
-  centrală este poziționat între picioare și la nivelul base de third metatarsal.
+centering: Înclinarea cu 10 grade spre călcâi este optimă. Este de obicei necesară
+  o înclinare de minimum 15 grade pentru a avea suficient spațiu pentru poziționarea
+  tubului și pentru a permite pacientului să stea în picioare. Raza centrală este
+  poziționată între picioare și la nivelul bazei celui de-al treilea metatarsian.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 493, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-feet-incidenta-ap-axiala-in-incarcare-ortostatism-method-standing-p492-merrill/p493_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în ortostatism-ortostatism.; Place receptorul de imagine
-  pe floor și Se instruiește pacientul să stand pe receptorul de imagine cu picioarele
-  centrat pe fiecare side. Pull pacientul’s pant membre inferioare up la Genunchi
-  level, if necessary. Ensure that drept și stâng markeri și în ortostatism marker
-  sunt plasat pe receptorul de imagine. Ensure that pacientul’s weight este distributed
-  equally pe fiecare Picior (Fig. 7.57). pacientul poate hold x-ray tube crane pentru
-  stability. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în ortostatism. Se plasează receptorul de imagine pe
+  podea și se instruiește pacientul să stea pe receptorul de imagine, cu picioarele
+  centrate de fiecare parte. Se ridică pantalonii pacientului până la nivelul genunchilor,
+  dacă este necesar. Se verifică plasarea markerilor drept și stâng și a markerului
+  de ortostatism pe receptorul de imagine. Se verifică distribuirea egală a greutății
+  pacientului pe fiecare picior (Fig. 7.57). Pacientul se poate ține de brațul macaralei
+  tubului de raze X pentru stabilitate. Se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- ambele picioare centrat pe one imagine
-- Anatomy de la Degete Picior la oase tarsiene; poate include portions de astragal
-  (talus) și Calcaneu
-- Correct drept și stâng marker placement și În Încărcare (Ortostatism) marker
-- Bony detalii trabeculare osoase și surrounding soft tissues
-sid_dff: 48 inches (122 cm). This SID is used to reduce magnification and improve
-  spatial resolution in the image.
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Ambele picioare centrate pe o singură imagine
+- Anatomia de la degetele piciorului până la oasele tarsiene; poate include porțiuni
+  ale astragalului (talusului) și calcaneului
+- Plasarea corectă a markerilor drept și stâng și a markerului de încărcare
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
+sid_dff: 48 inci (122 cm). Această SID se utilizează pentru a reduce magnificarea
+  și a îmbunătăți rezoluția spațială a imaginii.
 slug: rx-feet-incidenta-ap-axiala-in-incarcare-ortostatism-method-standing-p492-merrill
 source_pages:
 - 492
 - 493
 source_sections:
-  anatomy: weight-bearing AP axial incidență de ambele picioare, permitting precis
-    evaluation și comparison de oase tarsiene și oase metatarsiene (Fig. 7.58).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    și 1 inch (2.5 cm) beyond calcaneu și distal tip de toes. Place side
+  anatomy: Incidență AP axială în încărcare a ambelor picioare, permițând evaluarea
+    precisă și compararea oaselor tarsiene și metatarsiene (Fig. 7.58).
+  collimation: • Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile și
+    la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor. Plasați
+    markerul lateral în câmpul de expunere colimat.
+  cr: • Înclinarea cu 10 grade spre călcâi este optimă. Este de obicei necesară o
+    înclinare de minimum 15 grade pentru a avea suficient spațiu pentru poziționarea
+    tubului și pentru a permite pacientului să stea în picioare. Raza centrală este
+    poziționată între picioare și la nivelul bazei celui de-al treilea metatarsian.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker în collimated expunere field.'
-  cr: '• înclinat 10 grade spre heel este optim. minimum de 15 grade este usually
-    necessary la have enough room la poziție tubul
+    • Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    și allow pacientul la stand. raza centrală este poziționat între picioare și la
-    nivelul base de third metatarsal.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Ambele picioare centrate pe o singură imagine
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Anatomia de la degetele piciorului până la oasele tarsiene; poate include porțiuni
+    ale astragalului (talusului) și calcaneului
 
-    • ambele picioare centrat pe one imagine
+    • Plasarea corectă a markerilor drept și stâng și a markerului de încărcare
 
-    • Anatomy de la toes la oase tarsiene; poate include portions de astragal (talus)
-    și calcaneu
+    • Detaliile trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se plasează receptorul de imagine pe podea și se instruiește pacientul
+    să stea pe receptorul de imagine, cu picioarele centrate de fiecare parte.
 
-    • Correct drept și stâng marker placement și weight-bearing marker
+    • Se ridică pantalonii pacientului până la nivelul genunchilor, dacă este necesar.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place receptorul de imagine pe floor și Se instruiește pacientul să
-    stand pe receptorul de imagine cu picioarele centrat pe fiecare side.
+    • Se verifică plasarea markerilor drept și stâng și a markerului de ortostatism
+    pe receptorul de imagine.
 
-    • Pull pacientul’s pant membre inferioare up la genunchi level, if necessary.
-
-    • Ensure that drept și stâng markeri și în ortostatism marker sunt plasat pe receptorul
-    de imagine.
-
-    • Ensure that pacientul’s weight este distributed equally pe fiecare picior (Fig.
+    • Se verifică distribuirea egală a greutății pacientului pe fiecare picior (Fig.
     7.57).
 
-    • pacientul poate hold x-ray tube crane pentru stability.
+    • Pacientul se poate ține de brațul macaralei tubului de raze X pentru stabilitate.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în ortostatism-ortostatism.
-  sid: 48 inches (122 cm). This SID este used la reduce magnification și improve spatial
-    resolution în imagine.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 ×12 inches (24 × 30 cm) transversal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în ortostatism.
+  sid: 48 țoli (122 cm). Această SID este utilizată pentru a reduce magnificația și
+    a îmbunătăți rezoluția spațială a imaginii.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru afișarea corectă a orientării anatomice; receptor de imagine: 10 ×12 țoli
+    (24 × 30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 492–493
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și
-    1 inch (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Place marker de
-    lateralitate (D/S) în collimated expunere field.
-title: Rx Feet — Incidență AP Axială — În Încărcare (Ortostatism) Method Standing
-  (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    și la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx picioare — incidență AP axială — în încărcare (ortostatism) — metoda în
+  ortostatism (Merrill)
 ---
-# Rx Feet — Incidență AP Axială — În Încărcare (Ortostatism) Method Standing (Merrill)
+# Rx picioare — incidență AP axială — în încărcare (ortostatism) — metoda în ortostatism (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -117,18 +122,19 @@ title: Rx Feet — Incidență AP Axială — În Încărcare (Ortostatism) Meth
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism-ortostatism.; Place receptorul de imagine pe floor și Se instruiește pacientul să stand pe receptorul de imagine cu picioarele centrat pe fiecare side. Pull pacientul’s pant membre inferioare up la Genunchi level, if necessary. Ensure that drept și stâng markeri și în ortostatism marker sunt plasat pe receptorul de imagine. Ensure that pacientul’s weight este distributed equally pe fiecare Picior (Fig. 7.57). pacientul poate hold x-ray tube crane pentru stability. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** înclinat 10 grade spre heel este optim. minimum de 15 grade este usually necessary la have enough room la poziție tubul și allow pacientul la stand. raza centrală este poziționat între picioare și la nivelul base de third metatarsal.
-    - **Distanță Focar-Film (DFF / SID):** 48 inches (122 cm). This SID is used to reduce magnification and improve spatial resolution in the image.
+    - **Poziție Pacient:** Se așază pacientul în ortostatism. Se plasează receptorul de imagine pe podea și se instruiește pacientul să stea pe receptorul de imagine, cu picioarele centrate de fiecare parte. Se ridică pantalonii pacientului până la nivelul genunchilor, dacă este necesar. Se verifică plasarea markerilor drept și stâng și a markerului de ortostatism pe receptorul de imagine. Se verifică distribuirea egală a greutății pacientului pe fiecare picior (Fig. 7.57). Pacientul se poate ține de brațul macaralei tubului de raze X pentru stabilitate. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Înclinarea cu 10 grade spre călcâi este optimă. Este de obicei necesară o înclinare de minimum 15 grade pentru a avea suficient spațiu pentru poziționarea tubului și pentru a permite pacientului să stea în picioare. Raza centrală este poziționată între picioare și la nivelul bazei celui de-al treilea metatarsian.
+    - **Distanță Focar-Film (DFF / SID):** 48 inci (122 cm). Această SID se utilizează pentru a reduce magnificarea și a îmbunătăți rezoluția spațială a imaginii.
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
 -   __3. Parametri Tehnici Expunere__
@@ -139,23 +145,23 @@ title: Rx Feet — Incidență AP Axială — În Încărcare (Ortostatism) Meth
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | 48 inches (122 cm). This SID is used to reduce magnification and improve spatial resolution in the image. |
+    | **Distanță Focar-Film (DFF / SID)** | 48 inci (122 cm). Această SID se utilizează pentru a reduce magnificarea și a îmbunătăți rezoluția spațială a imaginii. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și 1 inch (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile și la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - ambele picioare centrat pe one imagine
-    - Anatomy de la Degete Picior la oase tarsiene; poate include portions de astragal (talus) și Calcaneu
-    - Correct drept și stâng marker placement și În Încărcare (Ortostatism) marker
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Ambele picioare centrate pe o singură imagine
+    - Anatomia de la degetele piciorului până la oasele tarsiene; poate include porțiuni ale astragalului (talusului) și calcaneului
+    - Plasarea corectă a markerilor drept și stâng și a markerului de încărcare
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -164,6 +170,7 @@ title: Rx Feet — Incidență AP Axială — În Încărcare (Ortostatism) Meth
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -187,7 +194,7 @@ title: Rx Feet — Incidență AP Axială — În Încărcare (Ortostatism) Meth
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (48 inches (122 cm). This SID is used to reduce magnification and improve spatial resolution in the image.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (48 inci (122 cm). Această SID se utilizează pentru a reduce magnificarea și a îmbunătăți rezoluția spațială a imaginii.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -195,50 +202,3 @@ title: Rx Feet — Incidență AP Axială — În Încărcare (Ortostatism) Meth
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 492–493](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-weight-bearing AP axial incidență de ambele picioare, permitting precis evaluation și comparison de oase tarsiene și oase metatarsiene (Fig. 7.58).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și 1 inch (2.5 cm) beyond calcaneu și distal tip de toes. Place side
-marker în collimated expunere field.
-
-### cr
-
-• înclinat 10 grade spre heel este optim. minimum de 15 grade este usually necessary la have enough room la poziție tubul
-și allow pacientul la stand. raza centrală este poziționat între picioare și la nivelul base de third metatarsal.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• ambele picioare centrat pe one imagine
-• Anatomy de la toes la oase tarsiene; poate include portions de astragal (talus) și calcaneu
-• Correct drept și stâng marker placement și weight-bearing marker
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Place receptorul de imagine pe floor și Se instruiește pacientul să stand pe receptorul de imagine cu picioarele centrat pe fiecare side.
-• Pull pacientul’s pant membre inferioare up la genunchi level, if necessary.
-• Ensure that drept și stâng markeri și în ortostatism marker sunt plasat pe receptorul de imagine.
-• Ensure that pacientul’s weight este distributed equally pe fiecare picior (Fig. 7.57).
-• pacientul poate hold x-ray tube crane pentru stability.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în ortostatism-ortostatism.
-
-### sid
-
-48 inches (122 cm). This SID este used la reduce magnification și improve spatial resolution în imagine.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 ×12 inches (24 × 30 cm) transversal.
-

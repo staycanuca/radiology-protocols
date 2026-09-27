@@ -102,3 +102,15 @@ Protocoale de tomografie computerizată cardiacă, CCTA, evaluare pre-TAVI și b
 | [Angio-CT Sincronizat ECG Planificare TAVR (Implantare Valvulară Aortică Transcateter)](gated-cta-tavr.md) | Nativ | None |
 | [Angio-CT Sincronizat ECG Planificare TMVR (Implantare Valvulară Mitrală Transcateter)](gated-cta-tmvr.md) | Nativ | Departamentul de Radiologie |
 | [Angio-CT Sincronizat ECG Planificare TTVR (Implantare Valvulară Tricuspidă Transcateter)](gated-cta-ttvr.md) | Nativ | Departamentul de Radiologie |
+
+<!-- mcb-modalities:start -->
+## Documente MCB Radiology
+
+- [Artere coronare](ct-artere-coronare-mcb.md) — Protocol
+- [Planificare Converge](ct-planificare-converge-mcb.md) — Protocol
+- [Planificare TAVR](ct-planificare-tavr-mcb.md) — Protocol
+- [Planificare TMVR (Encircle)](ct-planificare-tmvr-encircle-mcb.md) — Protocol
+- [Planificare Watchman](ct-planificare-watchman-mcb.md) — Protocol
+- [Planificare aMaze / Lariat](ct-planificare-amaze-lariat-mcb.md) — Protocol
+- [Scor de calciu coronarian](ct-scor-de-calciu-coronarian-mcb.md) — Protocol
+<!-- mcb-modalities:end -->

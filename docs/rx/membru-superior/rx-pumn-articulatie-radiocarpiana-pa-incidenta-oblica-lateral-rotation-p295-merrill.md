@@ -2,9 +2,10 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe midcarpal area; it enters just distal la radius perpendicular
-  pe midcarpal area; it enters anterior surface de Pumn (Articulație Radiocarpiană)
-  midway între its medial și lateral margini
+centering: perpendicular pe regiunea mediocarpiană; intră imediat distal de radius,
+  perpendicular pe regiunea mediocarpiană; intră pe suprafața anterioară a Pumnului
+  (Articulației Radiocarpiene), la jumătatea distanței dintre marginile sale medială
+  și laterală
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -26,49 +27,54 @@ images:
 - caption: Merrill — pagina 299, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-pumn-articulatie-radiocarpiana-pa-incidenta-oblica-lateral-rotation-p295-merrill/p299_fig6.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică, placing axilla în
-  contact cu masa de examinare. se așază pacientul pe scaun la end de masa radiologică.
-  Se instruiește pacientul să rest Antebraț pe masa de examinare în Decubit dorsal
-  poziție.; Rest palmar surface de Pumn (Articulație Radiocarpiană) pe receptorul
-  de imagine. se ajustează receptorul de imagine so that its center point este under
-  scaphoid when Pumn (Articulație Radiocarpiană) este rotit de la în pronație poziție.
-  de la în pronație poziție, se rotește Pumn (Articulație Radiocarpiană) laterally
-  (externally) until plan coronal forms angle de approximately 45 grade cu plane de
-  receptorul de imagine. pentru exact positioning și la ensure duplication în follow-up
-  examinations, place a 45-grade foam wedge under ridicat side de Pumn (Articulație
-  Radiocarpiană). se extinde Pumn (Articulație Radiocarpiană) slightly, și if falange
-  do nu touch masa de examinare, support them în place (Fig. 5.77). When scaphoid
-  este under examination, se ajustează Pumn (Articulație Radiocarpiană) în ulnar deviation.
-  Place săculeți cu nisip across Antebraț. se efectuează ecranarea gonadelor cu șorț
-  plumbat. Place receptorul de imagine under Pumn (Articulație Radiocarpiană), și
-  center it la dorsal surface de Pumn (Articulație Radiocarpiană). se rotește Pumn
-  (Articulație Radiocarpiană) medially (internally) until plan coronal forms angle
-  de approximately 45 grade la plane de receptorul de imagine (Fig. 5.80). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: pacientul se așază pe scaun la capătul mesei radiologice, plasând axila
+  în contact cu masa de examinare. Pacientul se așază pe scaun la capătul mesei radiologice.
+  Pacientului i se indică să-și sprijine Antebrațul pe masa de examinare în decubit
+  dorsal.; se sprijină suprafața palmară a Pumnului (Articulației Radiocarpiene) pe
+  receptorul de imagine. Se ajustează receptorul de imagine astfel încât punctul său
+  central să fie sub scafoid când Pumnul (Articulația Radiocarpiană) este rotit din
+  poziția de pronație. Din poziția de pronație, se rotește Pumnul (Articulația Radiocarpiană)
+  lateral (extern) până când planul coronal formează un unghi de aproximativ 45 grade
+  cu planul receptorului de imagine. Pentru poziționare exactă și pentru a asigura
+  duplicarea la examinările de urmărire, se plasează o pană de spumă de 45 grade sub
+  partea ridicată a Pumnului (Articulației Radiocarpiene). Se extinde ușor Pumnul
+  (Articulația Radiocarpiană), iar dacă falangele nu ating masa de examinare, se sprijină
+  în poziție (Fig. 5.77). Când scafoidul este examinat, se ajustează Pumnul (Articulația
+  Radiocarpiană) în deviație ulnară. Se plasează săculeți cu nisip peste Antebraț.
+  Se efectuează ecranarea gonadelor cu șorț plumbat. Se plasează receptorul de imagine
+  sub Pumnul (Articulația Radiocarpiană) și se centrează pe suprafața dorsală a Pumnului
+  (Articulației Radiocarpiene). Se rotește Pumnul (Articulația Radiocarpiană) medial
+  (intern) până când planul coronal formează un unghi de aproximativ 45 grade cu planul
+  receptorului de imagine (Fig. 5.80). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-- 45-grade rotație de anatomy
-- Slight interosseous space între third, fourth, și fifth metacarpal corpuri
-- Slight overlap de distal radius și ulna
-- oase carpiene pe lateral side de Pumn (Articulație Radiocarpiană)
-- Trapezium și distal half de scaphoid fără superimposition
-- Open trapeziotrapezoid și scaphotrapezial spații articulare
-- 'Bony detalii trabeculare osoase și surrounding soft tissues Criterii radiologice
-  de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-- oase carpiene pe medial side de Pumn (Articulație Radiocarpiană)
-- Triquetrum, hook de hamate, și pisiform liber de superimposition și în profile
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+- rotație de 45 grade a anatomiei
+- spațiu interosos ușor între corpurile metacarpienelor al treilea, al patrulea și
+  al cincilea
+- ușoară suprapunere a radiusului și ulnei distale
+- oasele carpiene de pe partea laterală a Pumnului (Articulației Radiocarpiene)
+- Trapezul și jumătatea distală a scafoidului fără suprapunere
+- spațiile articulare trapezo-trapezoidiene și scafo-trapeziene deschise
+- 'detalii osoase trabeculare și țesuturile moi înconjurătoare. Criterii radiologice
+  de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+- oasele carpiene de pe partea medială a Pumnului (Articulației Radiocarpiene)
+- Triquetrumul, cârligul hamatului și pisiformul libere de suprapunere și în profil
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-pumn-articulatie-radiocarpiana-pa-incidenta-oblica-lateral-rotation-p295-merrill
 source_pages:
@@ -78,112 +84,106 @@ source_pages:
 - 298
 - 299
 source_sections:
-  anatomy: 'oase carpiene pe lateral side de wrist, particularly trapezium și scaphoid.
-    scaphoid este superimposed pe itself în direct PA
+  anatomy: oasele carpiene de pe partea laterală a Pumnului, în special trapezul și
+    scafoidul. Scafoidul este suprapus peste el însuși în incidența PA directă (Fig.
+    5.78 și 5.79). Această poziție separă pisiformul de oasele carpiene adiacente.
+    De asemenea, oferă o imagine radiografică mai distinctă a triquetrumului și hamatului
+    (comparați Fig. 5.81 și 5.82).
+  collimation: '• Se ajustează câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația Pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
 
-    incidență (Figs. 5.78 și 5.79).
+    • Se ajustează câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de
+    articulația Pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.'
+  cr: '• perpendicular pe regiunea mediocarpiană; intră imediat distal de radius
 
-    This poziție separates pisiform de la adjacent oase carpiene. It also provides
-    more distinct radiografie de triquetrum și hamate
+    • perpendicular pe regiunea mediocarpiană; intră pe suprafața anterioară a Pumnului,
+    la jumătatea distanței dintre marginile sale medială și laterală'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    (compare Figs. 5.81 și 5.82).'
-  collimation: '• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal
-    la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate
-    (D/S) în
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    collimated expunere field.
+    • radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
 
-    • Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație
-    și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
+    • rotație de 45 grade a anatomiei
 
-    collimated expunere field.'
-  cr: '• perpendicular pe midcarpal area; it enters just distal la radius
+    • spațiu interosos ușor între corpurile metacarpienelor al treilea, al patrulea
+    și al cincilea
 
-    • perpendicular pe midcarpal area; it enters anterior surface de wrist midway
-    între its medial și lateral margini'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • ușoară suprapunere a radiusului și ulnei distale
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • oasele carpiene de pe partea laterală a Pumnului
 
-    • distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
+    • trapezul și jumătatea distală a scafoidului fără suprapunere
 
-    • 45-grade rotație de anatomy
+    • spațiile articulare trapezo-trapezoidiene și scafo-trapeziene deschise
 
-    • Slight interosseous space între third, fourth, și fifth metacarpal corpuri
+    • detalii trabeculare osoase și țesuturile moi înconjurătoare
 
-    • Slight overlap de distal radius și ulna
+    Criterii radiologice de calitate a imaginii:
 
-    • oase carpiene pe lateral side de wrist
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Trapezium și distal half de scaphoid fără superimposition
+    • radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
 
-    • Open trapeziotrapezoid și scaphotrapezial spații articulare
+    • oasele carpiene de pe partea medială a Pumnului
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • triquetrumul, cârligul hamatului și pisiformul libere de suprapunere și în profil
 
-    Criterii radiologice de calitate imaginii:
+    • detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se sprijină suprafața palmară a Pumnului pe receptorul de imagine.
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Se ajustează receptorul de imagine astfel încât punctul său central să fie sub
+    scafoid când Pumnul este rotit din poziția de pronație.
 
-    • distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
+    • Din poziția de pronație, se rotește Pumnul lateral (extern) până când planul
+    coronal formează un unghi de aproximativ 45 grade cu planul receptorului de imagine.
+    Pentru poziționare exactă și pentru a asigura duplicarea la examinările de urmărire,
+    se plasează o pană de spumă de 45 grade sub partea ridicată a Pumnului.
 
-    • oase carpiene pe medial side de wrist
+    • Se extinde ușor Pumnul, iar dacă falangele nu ating masa de examinare, se sprijină
+    în poziție (Fig. 5.77).
 
-    • Triquetrum, hook de hamate, și pisiform liber de superimposition și în profile
+    • Când scafoidul este examinat, se ajustează Pumnul în deviație ulnară. Se plasează
+    săculeți cu nisip peste Antebraț.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Rest palmar surface de wrist pe receptorul de imagine.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.
 
-    • se ajustează receptorul de imagine so that its center point este under scaphoid
-    when wrist este rotit de la în pronație poziție.
+    • Se plasează receptorul de imagine sub Pumn și se centrează pe suprafața dorsală
+    a Pumnului.
 
-    • de la în pronație poziție, se rotește wrist laterally (externally) until plan
-    coronal forms angle de approximately 45 grade
+    • Se rotește Pumnul medial (intern) până când planul coronal formează un unghi
+    de aproximativ 45 grade cu planul receptorului de imagine (Fig. 5.80).
 
-    cu plane de receptorul de imagine. pentru exact positioning și la ensure duplication
-    în follow-up examinations, place a 45-grade foam wedge
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Pacientul se așază pe scaun la capătul mesei radiologice, plasând
+    axila în contact cu masa de examinare.
 
-    under ridicat side de wrist.
+    • Pacientul se așază pe scaun la capătul mesei radiologice.
 
-    • se extinde wrist slightly, și if falange do nu touch masa de examinare, support
-    them în place (Fig. 5.77).
+    • Pacientului i se indică să-și sprijine Antebrațul pe masa de examinare în decubit
+    dorsal.'
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomice; placă «raza centrală» [formulare ambiguă
+    în sursă]: 10 × 12 țoli (24 × 30 cm), longitudinal.
 
-    • When scaphoid este under examination, se ajustează wrist în ulnar deviation.
-    Place săculeți cu nisip across forearm.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.
-
-    • Place receptorul de imagine under wrist, și center it la dorsal surface de wrist.
-
-    • se rotește wrist medially (internally) until plan coronal forms angle de approximately
-    45 grade la plane de receptorul de imagine (Fig.
-
-    5.80).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică, placing
-    axilla în contact cu masa de examinare.
-
-    • se așază pacientul pe scaun la end de masa radiologică.
-
-    • Se instruiește pacientul să rest forearm pe masa de examinare în decubit dorsal.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-
-    poziționat prin manufacturer sau department protocol pentru corect anatomy display
-    orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    Poziționat conform protocolului producătorului sau al departamentului pentru orientarea
+    corectă a afișării anatomice; placă «raza centrală» [formulare ambiguă în sursă]:
+    10 × 12 țoli (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 295–299
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
-    Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează
-    markerul de lateralitate în câmpul colimat. Adjust câmp de iradiere la 2.5 inches
-    (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1
-    inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat.
+  collimation: Se ajustează câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația Pumnului (Articulației Radiocarpiene) și la 1 țol (2.5 cm)
+    pe laturi. Se plasează markerul de lateralitate în câmpul colimat. Se ajustează
+    câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația Pumnului
+    (Articulației Radiocarpiene) și la 1 țol (2.5 cm) pe laturi. Se plasează markerul
+    de lateralitate în câmpul colimat.
 title: Rx Pumn (Articulație Radiocarpiană) — Oblică Postero-Anterioară (PA) — Rotație
   Externă (Laterală) (Merrill)
 ---
@@ -211,17 +211,18 @@ title: Rx Pumn (Articulație Radiocarpiană) — Oblică Postero-Anterioară (PA
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică, placing axilla în contact cu masa de examinare. se așază pacientul pe scaun la end de masa radiologică. Se instruiește pacientul să rest Antebraț pe masa de examinare în Decubit dorsal poziție.; Rest palmar surface de Pumn (Articulație Radiocarpiană) pe receptorul de imagine. se ajustează receptorul de imagine so that its center point este under scaphoid when Pumn (Articulație Radiocarpiană) este rotit de la în pronație poziție. de la în pronație poziție, se rotește Pumn (Articulație Radiocarpiană) laterally (externally) until plan coronal forms angle de approximately 45 grade cu plane de receptorul de imagine. pentru exact positioning și la ensure duplication în follow-up examinations, place a 45-grade foam wedge under ridicat side de Pumn (Articulație Radiocarpiană). se extinde Pumn (Articulație Radiocarpiană) slightly, și if falange do nu touch masa de examinare, support them în place (Fig. 5.77). When scaphoid este under examination, se ajustează Pumn (Articulație Radiocarpiană) în ulnar deviation. Place săculeți cu nisip across Antebraț. se efectuează ecranarea gonadelor cu șorț plumbat. Place receptorul de imagine under Pumn (Articulație Radiocarpiană), și center it la dorsal surface de Pumn (Articulație Radiocarpiană). se rotește Pumn (Articulație Radiocarpiană) medially (internally) until plan coronal forms angle de approximately 45 grade la plane de receptorul de imagine (Fig. 5.80). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midcarpal area; it enters just distal la radius perpendicular pe midcarpal area; it enters anterior surface de Pumn (Articulație Radiocarpiană) midway între its medial și lateral margini
+    - **Poziție Pacient:** pacientul se așază pe scaun la capătul mesei radiologice, plasând axila în contact cu masa de examinare. Pacientul se așază pe scaun la capătul mesei radiologice. Pacientului i se indică să-și sprijine Antebrațul pe masa de examinare în decubit dorsal.; se sprijină suprafața palmară a Pumnului (Articulației Radiocarpiene) pe receptorul de imagine. Se ajustează receptorul de imagine astfel încât punctul său central să fie sub scafoid când Pumnul (Articulația Radiocarpiană) este rotit din poziția de pronație. Din poziția de pronație, se rotește Pumnul (Articulația Radiocarpiană) lateral (extern) până când planul coronal formează un unghi de aproximativ 45 grade cu planul receptorului de imagine. Pentru poziționare exactă și pentru a asigura duplicarea la examinările de urmărire, se plasează o pană de spumă de 45 grade sub partea ridicată a Pumnului (Articulației Radiocarpiene). Se extinde ușor Pumnul (Articulația Radiocarpiană), iar dacă falangele nu ating masa de examinare, se sprijină în poziție (Fig. 5.77). Când scafoidul este examinat, se ajustează Pumnul (Articulația Radiocarpiană) în deviație ulnară. Se plasează săculeți cu nisip peste Antebraț. Se efectuează ecranarea gonadelor cu șorț plumbat. Se plasează receptorul de imagine sub Pumnul (Articulația Radiocarpiană) și se centrează pe suprafața dorsală a Pumnului (Articulației Radiocarpiene). Se rotește Pumnul (Articulația Radiocarpiană) medial (intern) până când planul coronal formează un unghi de aproximativ 45 grade cu planul receptorului de imagine (Fig. 5.80). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe regiunea mediocarpiană; intră imediat distal de radius, perpendicular pe regiunea mediocarpiană; intră pe suprafața anterioară a Pumnului (Articulației Radiocarpiene), la jumătatea distanței dintre marginile sale medială și laterală
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -237,28 +238,28 @@ title: Rx Pumn (Articulație Radiocarpiană) — Oblică Postero-Anterioară (PA
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația Pumnului (Articulației Radiocarpiene) și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. Se ajustează câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația Pumnului (Articulației Radiocarpiene) și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-    - 45-grade rotație de anatomy
-    - Slight interosseous space între third, fourth, și fifth metacarpal corpuri
-    - Slight overlap de distal radius și ulna
-    - oase carpiene pe lateral side de Pumn (Articulație Radiocarpiană)
-    - Trapezium și distal half de scaphoid fără superimposition
-    - Open trapeziotrapezoid și scaphotrapezial spații articulare
-    - Bony detalii trabeculare osoase și surrounding soft tissues Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-    - oase carpiene pe medial side de Pumn (Articulație Radiocarpiană)
-    - Triquetrum, hook de hamate, și pisiform liber de superimposition și în profile
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+    - rotație de 45 grade a anatomiei
+    - spațiu interosos ușor între corpurile metacarpienelor al treilea, al patrulea și al cincilea
+    - ușoară suprapunere a radiusului și ulnei distale
+    - oasele carpiene de pe partea laterală a Pumnului (Articulației Radiocarpiene)
+    - Trapezul și jumătatea distală a scafoidului fără suprapunere
+    - spațiile articulare trapezo-trapezoidiene și scafo-trapeziene deschise
+    - detalii osoase trabeculare și țesuturile moi înconjurătoare. Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+    - oasele carpiene de pe partea medială a Pumnului (Articulației Radiocarpiene)
+    - Triquetrumul, cârligul hamatului și pisiformul libere de suprapunere și în profil
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -267,6 +268,7 @@ title: Rx Pumn (Articulație Radiocarpiană) — Oblică Postero-Anterioară (PA
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -338,70 +340,3 @@ title: Rx Pumn (Articulație Radiocarpiană) — Oblică Postero-Anterioară (PA
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 295–299](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-oase carpiene pe lateral side de wrist, particularly trapezium și scaphoid. scaphoid este superimposed pe itself în direct PA
-incidență (Figs. 5.78 și 5.79).
-This poziție separates pisiform de la adjacent oase carpiene. It also provides more distinct radiografie de triquetrum și hamate
-(compare Figs. 5.81 și 5.82).
-
-### collimation
-
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe midcarpal area; it enters just distal la radius
-• perpendicular pe midcarpal area; it enters anterior surface de wrist midway între its medial și lateral margini
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-• 45-grade rotație de anatomy
-• Slight interosseous space între third, fourth, și fifth metacarpal corpuri
-• Slight overlap de distal radius și ulna
-• oase carpiene pe lateral side de wrist
-• Trapezium și distal half de scaphoid fără superimposition
-• Open trapeziotrapezoid și scaphotrapezial spații articulare
-• Bony detalii trabeculare osoase și surrounding soft tissues
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-• oase carpiene pe medial side de wrist
-• Triquetrum, hook de hamate, și pisiform liber de superimposition și în profile
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Rest palmar surface de wrist pe receptorul de imagine.
-• se ajustează receptorul de imagine so that its center point este under scaphoid when wrist este rotit de la în pronație poziție.
-• de la în pronație poziție, se rotește wrist laterally (externally) until plan coronal forms angle de approximately 45 grade
-cu plane de receptorul de imagine. pentru exact positioning și la ensure duplication în follow-up examinations, place a 45-grade foam wedge
-under ridicat side de wrist.
-• se extinde wrist slightly, și if falange do nu touch masa de examinare, support them în place (Fig. 5.77).
-• When scaphoid este under examination, se ajustează wrist în ulnar deviation. Place săculeți cu nisip across forearm.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-• Place receptorul de imagine under wrist, și center it la dorsal surface de wrist.
-• se rotește wrist medially (internally) until plan coronal forms angle de approximately 45 grade la plane de receptorul de imagine (Fig.
-5.80).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică, placing axilla în contact cu masa de examinare.
-• se așază pacientul pe scaun la end de masa radiologică.
-• Se instruiește pacientul să rest forearm pe masa de examinare în decubit dorsal.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

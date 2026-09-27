@@ -26,7 +26,8 @@ clinical_indications:
 images:
 - caption: Suspiciune de fractură supracondiliană a humerusului, când incidențele
     standard…
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_1.jpeg
 - caption: • Raza centrală trebuie să traverseze spațiile articulare la 90 de grade.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -36,6 +37,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -75,14 +80,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cot Profil (Lateral)
+  mas: Conform AEC / grosimii anatomice
+title: Rx cot profil (lateral)
 ---
-# Rx Cot Profil (Lateral)
+# Rx cot profil (lateral)
 
 
 <div class="rx-meta-bar">
@@ -106,20 +111,22 @@ title: Rx Cot Profil (Lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
-• Cotul este flectat la 90 de grade, iar palma este rotită astfel încât să fie perpendiculară pe suprafața mesei.
-• Umărul este coborât la nivelul cotului și al pumnului, astfel încât fața medială a întregului membru superior să fie în contact cu suprafața mesei.
-• Jumătatea de casetă utilizată este plasată sub cotul pacientului, cu centrul la nivelul articulației cotului și axa scurtă paralelă cu antebrațul.
-• Membrul este imobilizat cu săculeți cu nisip.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
+        - Cotul este flectat la 90 de grade, iar palma este rotită astfel încât să fie perpendiculară pe suprafața mesei.
+        - Umărul este coborât la nivelul cotului și al pumnului, astfel încât fața medială a întregului membru superior să fie în contact cu suprafața mesei.
+        - Jumătatea de casetă utilizată este plasată sub cotul pacientului, cu centrul la nivelul articulației cotului și axa scurtă paralelă cu antebrațul.
+        - Membrul este imobilizat cu săculeți cu nisip.
     - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe epicondilul lateral al humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -131,13 +138,13 @@ title: Rx Cot Profil (Lateral)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
@@ -156,6 +163,7 @@ title: Rx Cot Profil (Lateral)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -168,7 +176,7 @@ title: Rx Cot Profil (Lateral)
 
 ![Suspiciune de fractură supracondiliană a humerusului, când incidențele standard…](../../assets/images/protocols/clark/rx-cot-profil-lateral-p76-clark/fig_1.jpeg)
 
-<figcaption><strong>Suspiciune de fractură supracondiliană a humerusului, când incidențele standard…</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Suspiciune de fractură supracondiliană a humerusului, când incidențele standard…</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

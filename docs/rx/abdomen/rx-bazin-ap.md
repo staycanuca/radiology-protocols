@@ -100,6 +100,7 @@ title: Rx Bazin Antero-Posterior (AP)
             - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -141,6 +142,7 @@ title: Rx Bazin Antero-Posterior (AP)
     - La femei, ecranarea poate masca sacrul sau oasele pubiene; se aplică strict dacă nu obstrucționează zona de interes
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     În traumatisme severe cu suspiciune de fractură instabilă de bazin sau col femural luxat, NU se forțează rotația internă a membrelor inferioare!

@@ -23,6 +23,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.191
     Incidență PA—sinusuri.)
   url: assets/images/protocols/bontrager/rx-sinuses-pa-postero-anterior-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'pentru a evalua cu acuratețe nivelurile aer-lichid, raza centrală trebuie
@@ -113,11 +117,12 @@ title: Rx SINUSURI PA (Postero-Anterioară) (Incidență Occipito-Frontală (Met
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -163,6 +168,7 @@ title: Rx SINUSURI PA (Postero-Anterioară) (Incidență Occipito-Frontală (Met
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     pentru a evalua cu acuratețe nivelurile aer-lichid, raza centrală trebuie să fie orizontală, iar pacientul trebuie să fie în ortostatism. Metodă alternativă: dacă dispozitivul de imagistică poate fi înclinat la 15°, este vizualizat (vezi Fig. 11.189, inserție). Fruntea și nasul pacientului pot fi sprijinite direct pe/de dispozitivul de imagistică, cu linia orbitomeatală (LOM) perpendiculară pe suprafața dispozitivului de imagistică și la 15° față de raza centrală orizontală. SINUSURI DE RUTINĂ PA laterală (Incidență Occipito-Frontală (Metoda Caldwell)) Parietoacantială (Incidență Occipito-Mentonieră (Metoda Waters)) Fig. 11.189 Rază centrală orizontală, linie orbitomeatală (LOM) la 15° față de raza centrală (dacă nu poate fi înclinat). Inserție: dacă pacientul este în ortostatism, dispozitivul de imagistică poate fi înclinat la 15°.

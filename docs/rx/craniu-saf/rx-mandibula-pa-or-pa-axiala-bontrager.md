@@ -30,6 +30,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-mandibula-pa-or-pa-axiala-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'Pentru incidența postero-anterioară (PA) a corpului mandibular (dacă aceasta
@@ -110,11 +114,12 @@ title: Rx Mandibulă — Incidență PA sau PA axială
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -160,6 +165,7 @@ title: Rx Mandibulă — Incidență PA sau PA axială
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pentru incidența postero-anterioară (PA) a corpului mandibular (dacă aceasta este aria de interes diagnostic), se ridică bărbia pentru a aduce linia acantiomeatală (LAM) perpendicular pe receptorul de imagine (RI). Raza centrală este orientată perpendicular pe receptorul de imagine (RI), ieșind la nivelul comisurii buzelor. Fără AEC. Mandibulă. DE RUTINĂ: axiolaterală oblică PA (sau PA axială); AP axială (incidență AP axială (metoda Towne)).

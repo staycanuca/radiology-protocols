@@ -3,33 +3,35 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• Raza centrală verticală este centrată pe proximal articulații interfalangiene
-  (IF) de affected finger.
+centering: '• Raza centrală verticală este centrată pe articulația interfalangiană
+  proximală (IF) a degetului afectat.
 
-  46 Postero-anterior (PA) radiografie de index și middle Degete Mână Profil (lateral)
-  radiografie de index și middle Degete Mână
+  46 Radiografie postero-anterioară (PA) a degetului arătător și a degetului mijlociu
+  al mâinii; radiografie de profil (laterală) a degetului arătător și a degetului
+  mijlociu al mâinii
 
 
-  • Raza centrală verticală este centrată pe proximal articulații interfalangiene
-  (IF) de affected finger.'
+  • Raza centrală verticală este centrată pe articulația interfalangiană proximală
+  (IF) a degetului afectat.'
 clinical_indications:
-- Scleroderma (one cause de Raynaud’s disease) causes wasting și calcificări patologice
-  de părți moi de finger pulp.
-- Chip suspiciune de fractură de base de dorsal aspect de distal phalanx este associated
-  cu avulsion de insertion de extensor digitorum tendon, leading la mallet finger
-  deformity. Profil (lateral) radiografie de middle finger evidențiind suspiciune
-  de fractură de middle phalanx Profil (lateral) radiografie de little finger evidențiind
-  luxație articulară de distal articulații interfalangiene (IF) Normal Profil (lateral)
-  radiografie de ring și little Degete Mână
+- Sclerodermia (o cauză a bolii Raynaud) determină atrofie și calcificări patologice
+  ale părților moi ale pulpei degetului.
+- O suspiciune de fractură prin smulgere la baza aspectului dorsal al falangei distale
+  este asociată cu avulsia inserției tendonului extensor lung al degetului, ducând
+  la deformarea în deget în ciocan. Radiografie de profil (laterală) a degetului mijlociu,
+  evidențiind o suspiciune de fractură a falangei mijlocii; radiografie de profil
+  (laterală) a degetului mic, evidențiind luxația articulației interfalangiene distale
+  (IF); radiografie normală de profil (laterală) a degetelor inelar și mic ale mâinii
 images:
-- caption: Postero-anterior (PA) radiografie de the
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie postero-anterioară (PA) a degetului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_1.jpeg
-- caption: Profil (lateral) radiografie de
+- caption: Radiografie de profil (laterală) a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_2.jpeg
-- caption: volar plate suspiciune de fractură.
+- caption: Suspiciune de fractură a plăcii palmare.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_3.jpeg
@@ -37,50 +39,57 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_4.jpeg
-- caption: tring over proximal inter-phalangeal articulație de index finger.
+- caption: Centrare pe articulația interfalangiană proximală a degetului arătător.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_5.jpeg
-- caption: și calcificări patologice de părți moi de finger pulp.
+- caption: și calcificări patologice ale părților moi ale pulpei degetului.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_6.jpeg
-- caption: • Chip suspiciune de fractură de base de dorsal aspect de distal pha-
+- caption: • Suspiciune de fractură prin smulgere la baza aspectului dorsal al falangei
+    distale
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_7.jpeg
-- caption: Profil (lateral) radiografie de
+- caption: Radiografie de profil (laterală) a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_8.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: în cases de severe trauma, when Degete Mână cannot fie flectat, it poate fie
-  necessary la take Profil (lateral) incidență de toate Degete Mână superimposed,
-  ca pentru Profil (lateral) incidență de Mână, but centring over proximal inter-phalangeal
-  articulație de index finger.
-position: '• Pacientul este așezat pe scaun lângă masa de examinare cu braț în abducție
-  și medially rotit la bring Profil (lateral) aspect de index finger into contact
-  cu caseta.
+notes: În cazurile de traumatism sever, când degetele mâinii nu pot fi flectate, poate
+  fi necesară efectuarea unei incidențe de profil (laterală) a tuturor degetelor mâinii
+  suprapuse, ca pentru incidența de profil (laterală) a mâinii, dar cu centrarea pe
+  articulația interfalangiană proximală a degetului arătător.
+position: '• Pacientul este așezat pe scaun lângă masa de examinare, cu brațul în
+  abducție și rotit medial, pentru a aduce aspectul de profil (lateral) al degetului
+  arătător în contact cu caseta.
 
-  • raised Antebraț (Radius și Ulna) este sprijinit.
+  • Antebrațul ridicat (radiusul și ulna) este sprijinit.
 
-  • index finger este fully extins și middle finger slightly flectat la avoid superimposition.
+  • Degetul arătător este complet extins, iar degetul mijlociu este ușor flectat pentru
+  a evita suprapunerea.
 
-  • middle finger este sprijinit pe non-opaque pad.
+  • Degetul mijlociu este sprijinit pe un suport radiotransparent.
 
-  • remaining Degete Mână sunt fully flectat into palm de Mână și held there prin
-  Police.
+  • Celelalte degete ale mâinii sunt complet flectate în palma mâinii și menținute
+  acolo cu ajutorul policelui.
 
 
-  • Pacientul este așezat pe scaun lângă masa de examinare cu palm de Mână la drept-angles
-  la masa de examinare și medial aspect de little finger în contact cu film radiologic.
+  • Pacientul este așezat pe scaun lângă masa de examinare, cu palma mâinii perpendiculară
+  pe masa de examinare și cu aspectul medial al degetului mic în contact cu filmul
+  radiologic.
 
-  • affected finger este extins și remaining Degete Mână sunt fully flectat into palm
-  de Mână și held there prin Police în order la prevent superimposition.
+  • Degetul afectat este extins, iar celelalte degete ale mâinii sunt complet flectate
+  în palma mâinii și menținute acolo cu ajutorul policelui, pentru a preveni suprapunerea.
 
-  • It poate fie necessary la support ring finger pe nonopaque pad la ensure that
-  it este paralel cu film radiologic.'
+  • Poate fi necesară sprijinirea degetului inelar pe un suport radiotransparent pentru
+  a asigura paralelismul acestuia cu filmul radiologic.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -89,10 +98,10 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include fingertip și distal third de oase metacarpiene.
-- condyles trebuie să fie superimposed la avoid obscuring volar plate suspiciune de
-  fractură.
-- imagine trebuie să include tip de finger și distal third de oase metacarpiene.
+- Imaginea trebuie să includă vârful degetului și treimea distală a oaselor metacarpiene.
+- Condilii trebuie să fie suprapuși pentru a evita mascarea suspiciunii de fractură
+  a plăcii palmare.
+- Imaginea trebuie să includă vârful degetului și treimea distală a oaselor metacarpiene.
 sid_dff: 100 cm
 slug: rx-degete-mana-incidente-standard-de-baza-p61-clark
 sources:
@@ -101,14 +110,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Degete Mână Incidențe Standard de Bază
+  mas: Conform AEC / grosimii anatomice
+title: Rx degete ale mâinii — incidențe standard de bază
 ---
-# Rx Degete Mână Incidențe Standard de Bază
+# Rx degete ale mâinii — incidențe standard de bază
 
 
 <div class="rx-meta-bar">
@@ -127,34 +136,34 @@ title: Rx Degete Mână Incidențe Standard de Bază
 
     === "Indicații Clinice"
 
-        - Scleroderma (one cause de Raynaud’s disease) causes wasting și calcificări patologice de părți moi de finger pulp.
-        - Chip suspiciune de fractură de base de dorsal aspect de distal phalanx este associated cu avulsion de insertion de extensor digitorum tendon, leading la mallet finger deformity. Profil (lateral) radiografie de middle finger evidențiind suspiciune de fractură de middle phalanx Profil (lateral) radiografie de little finger evidențiind luxație articulară de distal articulații interfalangiene (IF) Normal Profil (lateral) radiografie de ring și little Degete Mână
+        - Sclerodermia (o cauză a bolii Raynaud) determină atrofie și calcificări patologice ale părților moi ale pulpei degetului.
+        - O suspiciune de fractură prin smulgere la baza aspectului dorsal al falangei distale este asociată cu avulsia inserției tendonului extensor lung al degetului, ducând la deformarea în deget în ciocan. Radiografie de profil (laterală) a degetului mijlociu, evidențiind o suspiciune de fractură a falangei mijlocii; radiografie de profil (laterală) a degetului mic, evidențiind luxația articulației interfalangiene distale (IF); radiografie normală de profil (laterală) a degetelor inelar și mic ale mâinii
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat pe scaun lângă masa de examinare cu braț în abducție și medially rotit la bring Profil (lateral) aspect de index finger into contact cu caseta.
-• raised Antebraț (Radius și Ulna) este sprijinit.
-• index finger este fully extins și middle finger slightly flectat la avoid superimposition.
-• middle finger este sprijinit pe non-opaque pad.
-• remaining Degete Mână sunt fully flectat into palm de Mână și held there prin Police.
-
-• Pacientul este așezat pe scaun lângă masa de examinare cu palm de Mână la drept-angles la masa de examinare și medial aspect de little finger în contact cu film radiologic.
-• affected finger este extins și remaining Degete Mână sunt fully flectat into palm de Mână și held there prin Police în order la prevent superimposition.
-• It poate fie necessary la support ring finger pe nonopaque pad la ensure that it este paralel cu film radiologic.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe proximal articulații interfalangiene (IF) de affected finger.
-46 Postero-anterior (PA) radiografie de index și middle Degete Mână Profil (lateral) radiografie de index și middle Degete Mână
-
-• Raza centrală verticală este centrată pe proximal articulații interfalangiene (IF) de affected finger.
+    - **Poziție Pacient:**
+        - Pacientul este așezat pe scaun lângă masa de examinare, cu brațul în abducție și rotit medial, pentru a aduce aspectul de profil (lateral) al degetului arătător în contact cu caseta.
+        - Antebrațul ridicat (radiusul și ulna) este sprijinit.
+        - Degetul arătător este complet extins, iar degetul mijlociu este ușor flectat pentru a evita suprapunerea.
+        - Degetul mijlociu este sprijinit pe un suport radiotransparent.
+        - Celelalte degete ale mâinii sunt complet flectate în palma mâinii și menținute acolo cu ajutorul policelui.
+        - Pacientul este așezat pe scaun lângă masa de examinare, cu palma mâinii perpendiculară pe masa de examinare și cu aspectul medial al degetului mic în contact cu filmul radiologic.
+        - Degetul afectat este extins, iar celelalte degete ale mâinii sunt complet flectate în palma mâinii și menținute acolo cu ajutorul policelui, pentru a preveni suprapunerea.
+        - Poate fi necesară sprijinirea degetului inelar pe un suport radiotransparent pentru a asigura paralelismul acestuia cu filmul radiologic.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este centrată pe articulația interfalangiană proximală (IF) a degetului afectat. 46 Radiografie postero-anterioară (PA) a degetului arătător și a degetului mijlociu al mâinii; radiografie de profil (laterală) a degetului arătător și a degetului mijlociu al mâinii
+        - Raza centrală verticală este centrată pe articulația interfalangiană proximală (IF) a degetului afectat.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -165,21 +174,21 @@ title: Rx Degete Mână Incidențe Standard de Bază
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include fingertip și distal third de oase metacarpiene.
-    - condyles trebuie să fie superimposed la avoid obscuring volar plate suspiciune de fractură.
-    - imagine trebuie să include tip de finger și distal third de oase metacarpiene.
+    - Imaginea trebuie să includă vârful degetului și treimea distală a oaselor metacarpiene.
+    - Condilii trebuie să fie suprapuși pentru a evita mascarea suspiciunii de fractură a plăcii palmare.
+    - Imaginea trebuie să includă vârful degetului și treimea distală a oaselor metacarpiene.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -191,8 +200,9 @@ title: Rx Degete Mână Incidențe Standard de Bază
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    în cases de severe trauma, when Degete Mână cannot fie flectat, it poate fie necessary la take Profil (lateral) incidență de toate Degete Mână superimposed, ca pentru Profil (lateral) incidență de Mână, but centring over proximal inter-phalangeal articulație de index finger.
+    În cazurile de traumatism sever, când degetele mâinii nu pot fi flectate, poate fi necesară efectuarea unei incidențe de profil (laterală) a tuturor degetelor mâinii suprapuse, ca pentru incidența de profil (laterală) a mâinii, dar cu centrarea pe articulația interfalangiană proximală a degetului arătător.
 
 
 ### 🖼️ Imagini
@@ -201,25 +211,25 @@ title: Rx Degete Mână Incidențe Standard de Bază
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) radiografie de the](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_1.jpeg)
+![Radiografie postero-anterioară (PA) a degetului](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_1.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) radiografie de the</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Profil (lateral) radiografie de](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_2.jpeg)
-
-<figcaption><strong>Profil (lateral) radiografie de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie postero-anterioară (PA) a degetului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![volar plate suspiciune de fractură.](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_3.jpeg)
+![Radiografie de profil (laterală) a](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_2.jpeg)
 
-<figcaption><strong>volar plate suspiciune de fractură.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de profil (laterală) a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Suspiciune de fractură a plăcii palmare.](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_3.jpeg)
+
+<figcaption><strong>Suspiciune de fractură a plăcii palmare.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -233,33 +243,33 @@ title: Rx Degete Mână Incidențe Standard de Bază
 
 <figure class="protocol-image-card" markdown>
 
-![tring over proximal inter-phalangeal articulație de index finger.](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_5.jpeg)
+![Centrare pe articulația interfalangiană proximală a degetului arătător.](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_5.jpeg)
 
-<figcaption><strong>tring over proximal inter-phalangeal articulație de index finger.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![și calcificări patologice de părți moi de finger pulp.](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_6.jpeg)
-
-<figcaption><strong>și calcificări patologice de părți moi de finger pulp.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Centrare pe articulația interfalangiană proximală a degetului arătător.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• Chip suspiciune de fractură de base de dorsal aspect de distal pha-](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_7.jpeg)
+![și calcificări patologice ale părților moi ale pulpei degetului.](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_6.jpeg)
 
-<figcaption><strong>• Chip suspiciune de fractură de base de dorsal aspect de distal pha-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>și calcificări patologice ale părților moi ale pulpei degetului.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_8.jpeg)
+![• Suspiciune de fractură prin smulgere la baza aspectului dorsal al falangei distale](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_7.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Suspiciune de fractură prin smulgere la baza aspectului dorsal al falangei distale</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil (laterală) a](../../assets/images/protocols/clark/rx-degete-mana-incidente-standard-de-baza-p61-clark/fig_8.jpeg)
+
+<figcaption><strong>Radiografie de profil (laterală) a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

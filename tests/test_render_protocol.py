@@ -293,3 +293,23 @@ def test_images_section_across_all_modalities():
     assert "protocol-gallery" in render_eco_document(eco_fm)
 
 
+def test_ct_iris_reference_when_present(base_fm):
+    """When iris_reference is present in CT front matter, render chapter, grade, and dose."""
+    fm = copy.deepcopy(base_fm)
+    fm['iris_reference'] = {
+        'chapter': 'Torace & Pulmon',
+        'recommendation_grade': 'Grad A',
+        'radiation_dose': 'Clasa 3 (Moderată 5 - 10 mSv)',
+    }
+    doc = render_document(fm)
+    assert 'Ghid Național IRIS' in doc
+    assert 'Capitol Ghid IRIS:' in doc
+    assert 'Torace & Pulmon' in doc
+    assert 'Grad de Recomandare:' in doc
+    assert 'Grad A' in doc
+    assert 'Nivel de Iradiere Estimată:' in doc
+    assert 'Clasa 3 (Moderată 5 - 10 mSv)' in doc
+    assert '\n\n-   __2. Pregătire Pacient__' in doc
+
+
+

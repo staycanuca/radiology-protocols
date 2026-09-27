@@ -3,53 +3,62 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: pediatrie
-centering: '• raza centrală orizontală centrală este orientat spre point midway între
-  Genunchi articulații.
+centering: '• raza centrală orizontală este orientată spre punctul situat la jumătatea
+  distanței dintre articulațiile genunchilor.
 
-  • X-ray fascicul este collimated la include ambele lower limbs de la Șold articulații
-  la Gleznă (Articulație Talocrurală) articulații.'
+  • Fasciculul de raze X este colimat pentru a include ambele membre inferioare, de
+  la articulațiile șoldurilor la articulațiile gleznelor (articulațiile talocrurale).'
 clinical_indications:
-- cu this technique, divergent fascicul will magnify limbs. However, inaccuracy de
-  measurement de difference în length due la magnification will probably fie less
-  than 5%, i.e. inaccuracy de less than 2.5 mm when difference în actual length este
-  50 mm. This grade de inaccuracy poate fie considered surgically insignificant. Alternatively,
-  when examining baby sau small child, especially when they cannot stand și poate
-  fie uncooperative, smaller casetă este selected la match length de limbs. If possible,
-  child este examined pe imaging table provided large enough FFD poate fie obtained.
+- Cu această tehnică, fasciculul divergent va mări membrele. Totuși, inexactitatea
+  măsurării diferenței de lungime datorată măririi va fi probabil mai mică de 5%,
+  adică o inexactitate mai mică de 2,5 mm atunci când diferența de lungime reală este
+  de 50 mm. Acest grad de inexactitate poate fi considerat nesemnificativ din punct
+  de vedere chirurgical. Ca alternativă, la examinarea unui sugar sau a unui copil
+  mic, mai ales când acesta nu poate sta în picioare și poate fi necooperantă, se
+  selectează o casetă mai mică, potrivită lungimii membrelor. Dacă este posibil, copilul
+  este examinat pe o masă de radiologie suficient de mare pentru a obține o DFF.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-masurare-lungime-membre-inferioare-telemetrie-metoda-expunere-unica-format-lung-p433-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masurare-lungime-membre-inferioare-telemetrie-metoda-expunere-unica-format-lung-p433-clark/fig_2.jpeg
+iris_reference:
+  chapter: Pediatrie — Aparat locomotor
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: "• pentru raza centrală acquisition, three 35 \x02 43-cm casete, cu slight\
-  \ overlap, sunt held în adjustable vertical casetă holder.\n• pentru Axa Membrelor\
-  \ Inferioare (Ortostatism) studies, picioarele de la hips la ankles trebuie să fie\
-  \ included și orice clinical defect trebuie să nu fie corrected.\nPhotograph de\
-  \ tube poziționat pentru Ortostatism membru inferior length single expunere technique\
-  \ imagine de ambele membre inferioare taken Ortostatism cu wooden block under drept\
-  \ Picior la correct pelvic tilt"
-position: '• pacientul stă în ortostatism cu posterior aspect de picioarele pe / sprijinit
-  de long casetă și ideally cu brațele folded across Torace.
+notes: '• Pentru achiziția cu raza centrală, trei casete de 35 × 43 cm, cu o ușoară
+  suprapunere, sunt susținute într-un suport vertical reglabil pentru casete.
 
-  • anterior superior iliac spines trebuie să fie echidistant față de caseta și medial
-  plan sagital trebuie să fie vertical și coincident cu central longitudinal axis
-  de caseta.
+  • Pentru examinările axei membrelor inferioare (în ortostatism), picioarele, de
+  la șolduri la glezne, trebuie să fie incluse și orice defect clinic nu trebuie corectat.
 
-  • picioarele trebuie să fie, ca far ca possible, în similar relationship la Bazin
-  (bazin (pelvis)), cu picioarele separated astfel încât distance între Gleznă (Articulație
-  Talocrurală) articulații este similar la distance între Șold articulații, cu Rotulă
-  (Patelă) de fiecare Genunchi facing forwards.
+  Fotografie a tubului poziționat pentru tehnica de măsurare a lungimii unui membru
+  inferior în ortostatism, cu expunere unică; imagine a ambelor membre inferioare
+  efectuată în ortostatism, cu un bloc de lemn sub piciorul drept pentru corectarea
+  înclinării bazinului'
+position: '• Pacientul stă în ortostatism, cu fața posterioară a picioarelor pe /
+  sprijinită de caseta lungă și, ideal, cu brațele încrucișate peste torace.
 
-  • Foam pads și săculeți cu nisip sunt used la stabilize picioarele și ensure that
-  they sunt straight.
+  • Spinele iliace antero-superioare trebuie să fie echidistante față de casetă, iar
+  planul sagital median trebuie să fie vertical și coincident cu axa longitudinală
+  centrală a casetei.
 
-  • If necessary, block este poziționat below shortened membru inferior la ensure
-  that there este fără pelvic tilt și that limbs sunt aliniat adequately.'
+  • Picioarele trebuie să fie, pe cât posibil, într-o relație similară cu bazinul,
+  cu picioarele depărtate astfel încât distanța dintre articulațiile gleznelor să
+  fie similară cu distanța dintre articulațiile șoldurilor, cu rotula fiecărui genunchi
+  orientată anterior.
+
+  • Pernele de spumă și săculeții cu nisip sunt utilizați pentru stabilizarea picioarelor
+  și pentru a asigura menținerea lor drepte.
+
+  • Dacă este necesar, blocul este poziționat sub membrul inferior scurtat pentru
+  a asigura absența înclinării bazinului și alinierea corespunzătoare a membrelor.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -58,8 +67,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Erori de evitat / remedii: Reduce magnification prin placing corp parts ca close
-  ca possible la caseta și increasing FFD la maximum distance (180–200 cm). 418'
+- 'Erori de evitat / remedii: Reduceți mărirea prin plasarea părților corpului cât
+  mai aproape posibil de casetă și prin creșterea DFF la distanța maximă (180–200
+  cm). 418'
 sid_dff: 100 cm
 slug: rx-masurare-lungime-membre-inferioare-telemetrie-metoda-expunere-unica-format-lung-p433-clark
 sources:
@@ -67,16 +77,16 @@ sources:
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Colimare strictă adaptată pe receptor 35 x 105 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  collimation: Colimare strictă adaptată receptorului de 35 x 105 cm
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Măsurare Lungime Membre Inferioare (Telemetrie) Metoda Expunere Unică (Format
-  Lung)
+  mas: Conform AEC / grosimii anatomice
+title: Rx măsurarea lungimii membrelor inferioare (telemetrie) metoda expunerii unice
+  (format lung)
 ---
-# Rx Măsurare Lungime Membre Inferioare (Telemetrie) Metoda Expunere Unică (Format Lung)
+# Rx măsurarea lungimii membrelor inferioare (telemetrie) metoda expunerii unice (format lung)
 
 
 <div class="rx-meta-bar">
@@ -95,27 +105,30 @@ title: Rx Măsurare Lungime Membre Inferioare (Telemetrie) Metoda Expunere Unic�
 
     === "Indicații Clinice"
 
-        - cu this technique, divergent fascicul will magnify limbs. However, inaccuracy de measurement de difference în length due la magnification will probably fie less than 5%, i.e. inaccuracy de less than 2.5 mm when difference în actual length este 50 mm. This grade de inaccuracy poate fie considered surgically insignificant. Alternatively, when examining baby sau small child, especially when they cannot stand și poate fie uncooperative, smaller casetă este selected la match length de limbs. If possible, child este examined pe imaging table provided large enough FFD poate fie obtained.
+        - Cu această tehnică, fasciculul divergent va mări membrele. Totuși, inexactitatea măsurării diferenței de lungime datorată măririi va fi probabil mai mică de 5%, adică o inexactitate mai mică de 2,5 mm atunci când diferența de lungime reală este de 50 mm. Acest grad de inexactitate poate fi considerat nesemnificativ din punct de vedere chirurgical. Ca alternativă, la examinarea unui sugar sau a unui copil mic, mai ales când acesta nu poate sta în picioare și poate fi necooperantă, se selectează o casetă mai mică, potrivită lungimii membrelor. Dacă este posibil, copilul este examinat pe o masă de radiologie suficient de mare pentru a obține o DFF.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Aparat locomotor*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism cu posterior aspect de picioarele pe / sprijinit de long casetă și ideally cu brațele folded across Torace.
-• anterior superior iliac spines trebuie să fie echidistant față de caseta și medial plan sagital trebuie să fie vertical și coincident cu central longitudinal axis de caseta.
-• picioarele trebuie să fie, ca far ca possible, în similar relationship la Bazin (bazin (pelvis)), cu picioarele separated astfel încât distance între Gleznă (Articulație Talocrurală) articulații este similar la distance între Șold articulații, cu Rotulă (Patelă) de fiecare Genunchi facing forwards.
-• Foam pads și săculeți cu nisip sunt used la stabilize picioarele și ensure that they sunt straight.
-• If necessary, block este poziționat below shortened membru inferior la ensure that there este fără pelvic tilt și that limbs sunt aliniat adequately.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat spre point midway între Genunchi articulații.
-• X-ray fascicul este collimated la include ambele lower limbs de la Șold articulații la Gleznă (Articulație Talocrurală) articulații.
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism, cu fața posterioară a picioarelor pe / sprijinită de caseta lungă și, ideal, cu brațele încrucișate peste torace.
+        - Spinele iliace antero-superioare trebuie să fie echidistante față de casetă, iar planul sagital median trebuie să fie vertical și coincident cu axa longitudinală centrală a casetei.
+        - Picioarele trebuie să fie, pe cât posibil, într-o relație similară cu bazinul, cu picioarele depărtate astfel încât distanța dintre articulațiile gleznelor să fie similară cu distanța dintre articulațiile șoldurilor, cu rotula fiecărui genunchi orientată anterior.
+        - Pernele de spumă și săculeții cu nisip sunt utilizați pentru stabilizarea picioarelor și pentru a asigura menținerea lor drepte.
+        - Dacă este necesar, blocul este poziționat sub membrul inferior scurtat pentru a asigura absența înclinării bazinului și alinierea corespunzătoare a membrelor.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală orizontală este orientată spre punctul situat la jumătatea distanței dintre articulațiile genunchilor.
+        - Fasciculul de raze X este colimat pentru a include ambele membre inferioare, de la articulațiile șoldurilor la articulațiile gleznelor (articulațiile talocrurale).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -126,19 +139,19 @@ title: Rx Măsurare Lungime Membre Inferioare (Telemetrie) Metoda Expunere Unic�
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 35 x 105 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Colimare Fascicul** | Colimare strictă adaptată receptorului de 35 x 105 cm |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Erori de evitat / remedii: Reduce magnification prin placing corp parts ca close ca possible la caseta și increasing FFD la maximum distance (180–200 cm). 418
+    - Erori de evitat / remedii: Reduceți mărirea prin plasarea părților corpului cât mai aproape posibil de casetă și prin creșterea DFF la distanța maximă (180–200 cm). 418
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -150,10 +163,10 @@ title: Rx Măsurare Lungime Membre Inferioare (Telemetrie) Metoda Expunere Unic�
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • pentru raza centrală acquisition, three 35  43-cm casete, cu slight overlap, sunt held în adjustable vertical casetă holder.
-• pentru Axa Membrelor Inferioare (Ortostatism) studies, picioarele de la hips la ankles trebuie să fie included și orice clinical defect trebuie să nu fie corrected.
-Photograph de tube poziționat pentru Ortostatism membru inferior length single expunere technique imagine de ambele membre inferioare taken Ortostatism cu wooden block under drept Picior la correct pelvic tilt
+    - Pentru achiziția cu raza centrală, trei casete de 35 × 43 cm, cu o ușoară suprapunere, sunt susținute într-un suport vertical reglabil pentru casete.
+    - Pentru examinările axei membrelor inferioare (în ortostatism), picioarele, de la șolduri la glezne, trebuie să fie incluse și orice defect clinic nu trebuie corectat. Fotografie a tubului poziționat pentru tehnica de măsurare a lungimii unui membru inferior în ortostatism, cu expunere unică; imagine a ambelor membre inferioare efectuată în ortostatism, cu un bloc de lemn sub piciorul drept pentru corectarea înclinării bazinului
 
 
 ### 🖼️ Imagini
@@ -164,7 +177,7 @@ Photograph de tube poziționat pentru Ortostatism membru inferior length single 
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-masurare-lungime-membre-inferioare-telemetrie-metoda-expunere-unica-format-lung-p433-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

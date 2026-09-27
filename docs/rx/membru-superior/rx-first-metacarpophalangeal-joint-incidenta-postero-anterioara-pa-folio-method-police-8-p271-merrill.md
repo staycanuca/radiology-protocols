@@ -2,97 +2,104 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular la point midway între ambele mâini la nivelul articulații
-  metacarpofalangiene (MCF)
+centering: perpendicular la punctul situat la mijloc între ambele mâini, la nivelul
+  articulațiilor metacarpofalangiene (MCF)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 272, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-first-metacarpophalangeal-joint-incidenta-postero-anterioara-pa-folio-method-police-8-p271-merrill/p272_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: la avoid mișcare, have correct technical factors set pe generator și fie ready
-  la Se declanșează expunerea before instructing pacientul la pull thumbs apart.
-position: se așază pacientul pe scaun la end de masa radiologică.; se poziționează
-  pacientul’s mâini pe receptorul de imagine, resting them pe their medial aspects.
-  Tightly wrap rubber band around distal portion de ambele thumbs și place roll de
-  medical tape între corpuri de first oase metacarpiene. Ensure thumbs remain în PA
-  plane prin keeping thumbnails paralel cu receptorul de imagine (RI) (Fig. 5.51).
-  Before expunere, Se instruiește pacientul să pull thumbs apart și hold. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+notes: pentru a evita mișcarea, se stabilesc factorii tehnici corecți pe generator
+  și se este pregătit pentru declanșarea expunerii înainte de a instrui pacientul
+  să îndepărteze policele.
+position: se așază pacientul pe scaun la capătul mesei radiologice.; se poziționează
+  mâinile pacientului pe receptorul de imagine, sprijinindu-le pe aspectele lor mediale.
+  Se înfășoară strâns o bandă elastică în jurul porțiunii distale a ambelor police
+  și se plasează o rolă de bandă medicală între corpurile primelor oase metacarpiene.
+  Se verifică menținerea policelor în plan PA, ținând unghiile paralele cu receptorul
+  de imagine (RI) (Fig. 5.51). Înainte de expunere, se instruiește pacientul să îndepărteze
+  policele și să mențină poziția. se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Thumbs în Incidență Postero-Anterioară (PA) cu Absența rotației anatomice (simetrie
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Police în incidență posteroanterioară (PA), cu absența rotației anatomice (simetrie
   bilaterală perfectă)
-- First oase metacarpiene
-- First articulații metacarpofalangiene (MCF)
-- Rubber band și medical tape în correct poziție
-- Thumbs centrat pe center de imagine
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- Primele oase metacarpiene
+- Primele articulații metacarpofalangiene (MCF)
+- Bandă elastică și bandă medicală în poziție corectă
+- Police centrate în centrul imaginii
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-first-metacarpophalangeal-joint-incidenta-postero-anterioara-pa-folio-method-police-8-p271-merrill
 source_pages:
 - 271
 - 272
 source_sections:
-  anatomy: articulații metacarpofalangiene (MCF) și MCP angles bilaterally (Fig. 5.52).
-  collimation: • Adjust câmp de iradiere pentru include third oase metacarpiene pe
-    sides, bases de thumbs proximally și 1 inch (2.5 cm) distal la thumbnails. Se
-    plasează markerul de lateralitate în câmpul colimat.
-  cr: • perpendicular la point midway între ambele mâini la nivelul articulații metacarpofalangiene
-    (MCF)
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: articulațiile metacarpofalangiene (MCF) și unghiurile MCP bilateral (Fig.
+    5.52).
+  collimation: • Se ajustează câmpul de iradiere pentru a include al treilea os metacarpian
+    pe laturi, bazele policelor proximal și 1 țol (2.5 cm) distal față de unghii.
+    Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • perpendicular la punctul situat la mijloc între ambele mâini, la nivelul articulațiilor
+    metacarpofalangiene (MCF)
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Thumbs în PA incidență cu Absența rotației anatomice (simetrie bilaterală perfectă)
+    • Police în incidență PA, cu absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • First oase metacarpiene
+    • Primele oase metacarpiene
 
-    • First articulații metacarpofalangiene (MCF)
+    • Primele articulații metacarpofalangiene (MCF)
 
-    • Rubber band și medical tape în correct poziție
+    • Bandă elastică și bandă medicală în poziție corectă
 
-    • Thumbs centrat pe center de imagine
+    • Police centrate în centrul imaginii
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: la avoid mișcare, have correct technical factors set pe generator și fie
-    ready la Se declanșează expunerea before instructing pacient la pull thumbs apart.
-  part_pos: '• se poziționează pacientul’s mâini pe receptorul de imagine, resting
-    them pe their medial aspects.
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: pentru a evita mișcarea, se stabilesc factorii tehnici corecți pe generator
+    și se este pregătit pentru declanșarea expunerii înainte de a instrui pacientul
+    să îndepărteze policele.
+  part_pos: '• se poziționează mâinile pacientului pe receptorul de imagine, sprijinindu-le
+    pe aspectele lor mediale.
 
-    • Tightly wrap rubber band around distal portion de ambele thumbs și place roll
-    de medical tape între corpuri de first
+    • Se înfășoară strâns o bandă elastică în jurul porțiunii distale a ambelor police
+    și se plasează o rolă de bandă medicală între corpurile primelor oase metacarpiene.
 
-    oase metacarpiene.
-
-    • Ensure thumbs remain în PA plane prin keeping thumbnails paralel cu receptorul
+    • Se verifică menținerea policelor în plan PA, ținând unghiile paralele cu receptorul
     de imagine (RI) (Fig. 5.51).
 
-    • Before expunere, Se instruiește pacientul să pull thumbs apart și hold.
+    • Înainte de expunere, se instruiește pacientul să îndepărteze policele și să
+    mențină poziția.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) transversal.'
+  patient_pos: • Se așază pacientul pe scaun, la capătul mesei radiologice.
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru afișarea corectă a anatomiei; placă pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 271–272
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere pentru include third oase metacarpiene pe sides,
-    bases de thumbs proximally și 1 inch (2.5 cm) distal la thumbnails. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx First Metacarpophalangeal Joint — Incidență Postero-Anterioară (PA) — Folio
-  Method Police.” 8 (Merrill)
+  collimation: Se ajustează câmpul de iradiere pentru a include al treilea os metacarpian
+    pe laturi, bazele policelor proximal și 1 țol (2.5 cm) distal față de unghii.
+    Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx prima articulație metacarpofalangiană — Incidență posteroanterioară (PA)
+  — Metoda Folio pentru police.” 8 (Merrill)
 ---
-# Rx First Metacarpophalangeal Joint — Incidență Postero-Anterioară (PA) — Folio Method Police.” 8 (Merrill)
+# Rx prima articulație metacarpofalangiană — Incidență posteroanterioară (PA) — Metoda Folio pentru police.” 8 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -116,17 +123,18 @@ title: Rx First Metacarpophalangeal Joint — Incidență Postero-Anterioară (P
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică.; se poziționează pacientul’s mâini pe receptorul de imagine, resting them pe their medial aspects. Tightly wrap rubber band around distal portion de ambele thumbs și place roll de medical tape între corpuri de first oase metacarpiene. Ensure thumbs remain în PA plane prin keeping thumbnails paralel cu receptorul de imagine (RI) (Fig. 5.51). Before expunere, Se instruiește pacientul să pull thumbs apart și hold. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular la point midway între ambele mâini la nivelul articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** se așază pacientul pe scaun la capătul mesei radiologice.; se poziționează mâinile pacientului pe receptorul de imagine, sprijinindu-le pe aspectele lor mediale. Se înfășoară strâns o bandă elastică în jurul porțiunii distale a ambelor police și se plasează o rolă de bandă medicală între corpurile primelor oase metacarpiene. Se verifică menținerea policelor în plan PA, ținând unghiile paralele cu receptorul de imagine (RI) (Fig. 5.51). Înainte de expunere, se instruiește pacientul să îndepărteze policele și să mențină poziția. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular la punctul situat la mijloc între ambele mâini, la nivelul articulațiilor metacarpofalangiene (MCF)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -142,21 +150,21 @@ title: Rx First Metacarpophalangeal Joint — Incidență Postero-Anterioară (P
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere pentru include third oase metacarpiene pe sides, bases de thumbs proximally și 1 inch (2.5 cm) distal la thumbnails. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a include al treilea os metacarpian pe laturi, bazele policelor proximal și 1 țol (2.5 cm) distal față de unghii. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Thumbs în Incidență Postero-Anterioară (PA) cu Absența rotației anatomice (simetrie bilaterală perfectă)
-    - First oase metacarpiene
-    - First articulații metacarpofalangiene (MCF)
-    - Rubber band și medical tape în correct poziție
-    - Thumbs centrat pe center de imagine
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Police în incidență posteroanterioară (PA), cu absența rotației anatomice (simetrie bilaterală perfectă)
+    - Primele oase metacarpiene
+    - Primele articulații metacarpofalangiene (MCF)
+    - Bandă elastică și bandă medicală în poziție corectă
+    - Police centrate în centrul imaginii
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -166,8 +174,9 @@ title: Rx First Metacarpophalangeal Joint — Incidență Postero-Anterioară (P
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la avoid mișcare, have correct technical factors set pe generator și fie ready la Se declanșează expunerea before instructing pacientul la pull thumbs apart.
+    pentru a evita mișcarea, se stabilesc factorii tehnici corecți pe generator și se este pregătit pentru declanșarea expunerii înainte de a instrui pacientul să îndepărteze policele.
 
 
 ### 🖼️ Imagini
@@ -196,50 +205,3 @@ title: Rx First Metacarpophalangeal Joint — Incidență Postero-Anterioară (P
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 271–272](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-articulații metacarpofalangiene (MCF) și MCP angles bilaterally (Fig. 5.52).
-
-### collimation
-
-• Adjust câmp de iradiere pentru include third oase metacarpiene pe sides, bases de thumbs proximally și 1 inch (2.5 cm) distal la thumbnails. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular la point midway între ambele mâini la nivelul articulații metacarpofalangiene (MCF)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Thumbs în PA incidență cu Absența rotației anatomice (simetrie bilaterală perfectă)
-• First oase metacarpiene
-• First articulații metacarpofalangiene (MCF)
-• Rubber band și medical tape în correct poziție
-• Thumbs centrat pe center de imagine
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-la avoid mișcare, have correct technical factors set pe generator și fie ready la Se declanșează expunerea before instructing pacient la pull thumbs apart.
-
-### part_pos
-
-• se poziționează pacientul’s mâini pe receptorul de imagine, resting them pe their medial aspects.
-• Tightly wrap rubber band around distal portion de ambele thumbs și place roll de medical tape între corpuri de first
-oase metacarpiene.
-• Ensure thumbs remain în PA plane prin keeping thumbnails paralel cu receptorul de imagine (RI) (Fig. 5.51).
-• Before expunere, Se instruiește pacientul să pull thumbs apart și hold.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) transversal.
-

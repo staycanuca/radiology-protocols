@@ -22,6 +22,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-mastoid-profil-lateral-oblica-p267-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Se examinează ambele părți (bilateral) pentru comparație.
@@ -96,22 +100,25 @@ title: Rx Craniu Mastoidă - Profil (Lateral) Oblică
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat cu fața spre stativul Bucky vertical. Capul este apoi rotit astfel încât planul mediosagital să fie paralel cu stativul Bucky, iar linia interorbitară să fie perpendiculară pe acesta.
-• Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
-• Pavilionul urechii de pe partea adiacentă mesei de examinare este pliat înainte, astfel încât conturul său de părți moi să nu se suprapună peste regiunea de interes.
-• Se poziționează procesul mastoidian în centrul stativului Bucky.
-• O casetă de 18 × 24 cm este poziționată longitudinal în stativul Bucky și centrată astfel încât să coincidă cu raza centrală și cu procesul mastoidian.
-    - **Punct de Centrare Fascicul:** • se utilizează o angulație caudală de 25 grade și se centrează la 5 cm deasupra și 2.5 cm posterior de conductul auditiv extern, la distanță de casetă.
-• Se colimează la aria examinată.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat cu fața spre stativul Bucky vertical. Capul este apoi rotit astfel încât planul mediosagital să fie paralel cu stativul Bucky, iar linia interorbitară să fie perpendiculară pe acesta.
+        - Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
+        - Pavilionul urechii de pe partea adiacentă mesei de examinare este pliat înainte, astfel încât conturul său de părți moi să nu se suprapună peste regiunea de interes.
+        - Se poziționează procesul mastoidian în centrul stativului Bucky.
+        - O casetă de 18 × 24 cm este poziționată longitudinal în stativul Bucky și centrată astfel încât să coincidă cu raza centrală și cu procesul mastoidian.
+    - **Punct de Centrare Fascicul:**
+        - se utilizează o angulație caudală de 25 grade și se centrează la 5 cm deasupra și 2.5 cm posterior de conductul auditiv extern, la distanță de casetă.
+        - Se colimează la aria examinată.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -148,9 +155,9 @@ title: Rx Craniu Mastoidă - Profil (Lateral) Oblică
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Se examinează ambele părți (bilateral) pentru comparație.
-Conduct auditiv extern (CAE) Celule mastoidiene aerice
+    Se examinează ambele părți (bilateral) pentru comparație. Conduct auditiv extern (CAE) Celule mastoidiene aerice
 
 
 ### 🖼️ Imagini

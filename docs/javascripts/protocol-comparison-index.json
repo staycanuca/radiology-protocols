@@ -5343,6 +5343,68 @@
     "gantt": null
   },
   {
+    "filepath": "ct\\abdomen\\ct-colonography-virtual-dartmouth.md",
+    "title": "CT Colonografie Virtual\u0103 - Preg\u0103tire & Scanare (Protocol Dartmouth Hitchcock)",
+    "category": "Abdomen",
+    "slug": "",
+    "contrast": {
+      "agent": "N/A (F\u0103r\u0103 contrast intravenos standard)",
+      "volume": "F\u0103r\u0103 contrast IV",
+      "flow_rate": "N/A",
+      "duration": "N/A",
+      "timing": "N/A",
+      "roi": "N/A",
+      "trigger": "N/A",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "64 \u00d7 0.625 mm sau 128 \u00d7 0.6 mm",
+      "kv": "100 - 120 kVp",
+      "mas": "30 - 50 mAs (Supine) / 25 - 40 mAs (Prone) \u2014 Protocol ultra low-dose",
+      "pitch": "1.2 - 1.4",
+      "rotation_time": "0.5 s",
+      "scan_mode": "Elicoidal ultra-rapid",
+      "slice_thickness": "1.0 - 1.25 mm"
+    },
+    "series": [
+      {
+        "name": "Scanare 1: Decubit Dorsal (Supine)",
+        "start": "Cupole diafragmatice",
+        "end": "Simfiz\u0103 pubian\u0103 / canal anal",
+        "delay": "Dup\u0103 confirmarea distensiei colice optime pe topogram\u0103",
+        "thickness": "1.0 mm",
+        "notes": "Insuficare automat\u0103 cu CO2 sau pomp\u0103 manual\u0103 cu aer p\u00e2n\u0103 la toleran\u021b\u0103 \u0219i distensie complet\u0103 a celor 6 segmente colice",
+        "delay_seconds": 0,
+        "phase_type": "other",
+        "coverage": "Cupole diafragmatice \u2192 Simfiz\u0103 pubian\u0103 / canal anal"
+      },
+      {
+        "name": "Scanare 2: Decubit Ventral (Prone)",
+        "start": "Cupole diafragmatice",
+        "end": "Simfiz\u0103 pubian\u0103",
+        "delay": "Imediat dup\u0103 rotirea pacientului",
+        "thickness": "1.0 mm",
+        "notes": "Mobilizarea polipilor vs. resturi fecale \u0219i redistribuirea aerului \u00een segmentele dependente (rect, cecum)",
+        "delay_seconds": 5,
+        "phase_type": "other",
+        "coverage": "Cupole diafragmatice \u2192 Simfiz\u0103 pubian\u0103"
+      }
+    ],
+    "summary": [
+      {
+        "series": "Scanare 1: Decubit Dorsal (Supine)",
+        "phase": "Dup\u0103 confirmarea distensiei colice optime pe topogram\u0103",
+        "coverage": "Cupole diafragmatice \u2192 Simfiz\u0103 pubian\u0103 / canal anal"
+      },
+      {
+        "series": "Scanare 2: Decubit Ventral (Prone)",
+        "phase": "Imediat dup\u0103 rotirea pacientului",
+        "coverage": "Cupole diafragmatice \u2192 Simfiz\u0103 pubian\u0103"
+      }
+    ],
+    "gantt": null
+  },
+  {
     "filepath": "ct\\abdomen\\ct-mdct-colonoscopy-philips-256-slice-3.md",
     "title": "CT Colonoscopy (Philips \u2013 256-slice)",
     "category": "Abdomen",
@@ -13529,6 +13591,478 @@
     "gantt": null
   },
   {
+    "filepath": "ct\\abdomen\\ct-abdomen-de-rutina-mcb.md",
+    "title": "CT \u2014 Abdomen de rutin\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-abdomen-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-abdomen-si-pelvis-de-rutina-mcb.md",
+    "title": "CT \u2014 Abdomen \u0219i pelvis de rutin\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-abdomen-si-pelvis-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-cistografie-mcb.md",
+    "title": "CT \u2014 Cistografie (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-cistografie-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-enterografie-monofazica-mcb.md",
+    "title": "CT \u2014 Enterografie monofazic\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-enterografie-monofazica-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-enterografie-multifazica-mcb.md",
+    "title": "CT \u2014 Enterografie multifazic\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-enterografie-multifazica-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-ficat-mcb.md",
+    "title": "CT \u2014 Ficat (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-ficat-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-ficat-inainte-de-sirt-mcb.md",
+    "title": "CT \u2014 Ficat \u00eenainte de SIRT (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-ficat-inainte-de-sirt-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-hemoragie-acuta-mcb.md",
+    "title": "CT \u2014 Hemoragie acut\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-hemoragie-acuta-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-ischemie-mezenterica-mcb.md",
+    "title": "CT \u2014 Ischemie mezenteric\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-ischemie-mezenterica-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-litiaza-renala-mcb.md",
+    "title": "CT \u2014 Litiaz\u0103 renal\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-litiaza-renala-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-pancreas-mcb.md",
+    "title": "CT \u2014 Pancreas (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-pancreas-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-pancreatita-mcb.md",
+    "title": "CT \u2014 Pancreatit\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-pancreatita-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-pelvis-de-rutina-mcb.md",
+    "title": "CT \u2014 Pelvis de rutin\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-pelvis-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-rinichi-mcb.md",
+    "title": "CT \u2014 Rinichi (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-rinichi-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-suprarenale-mcb.md",
+    "title": "CT \u2014 Suprarenale (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-suprarenale-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-torace-si-abdomen-de-rutina-mcb.md",
+    "title": "CT \u2014 Torace \u0219i abdomen de rutin\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-torace-si-abdomen-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-torace-abdomen-si-pelvis-de-rutina-mcb.md",
+    "title": "CT \u2014 Torace, abdomen \u0219i pelvis de rutin\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-torace-abdomen-si-pelvis-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-urografie-de-rutina-mcb.md",
+    "title": "CT \u2014 Urografie de rutin\u0103 (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-urografie-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-urografie-split-bolus-mcb.md",
+    "title": "CT \u2014 Urografie split-bolus (MCB)",
+    "category": "Abdomen",
+    "slug": "ct-urografie-split-bolus-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-cta-dieap-flap-dartmouth.md",
+    "title": "CTA Abdomen & Pelvis DIEP Flap (Protocol Dartmouth Hitchcock)",
+    "category": "Abdomen",
+    "slug": "",
+    "contrast": {
+      "agent": "Omnipaque 350 / Isovue 370",
+      "volume": "150 mL contrast + 50 mL flush salin",
+      "flow_rate": "5.0 mL/s",
+      "duration": "30s",
+      "timing": "Smart Prep pe artera femural\u0103 comun\u0103 la nivelul simfizei pubiene",
+      "roi": "Lumenul arterei femurale comune (zoom pe imaginea de monitorizare pentru plasare precis\u0103 a ROI)",
+      "trigger": "150 HU",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "128 \u00d7 0.6 mm sau 64 \u00d7 0.625 mm",
+      "kv": "100 - 120 kVp",
+      "mas": "AEC CAREDose4D / SureExposure",
+      "pitch": "0.8 - 0.9",
+      "rotation_time": "0.5 s",
+      "scan_mode": "Elicoidal fin",
+      "slice_thickness": "0.625 mm"
+    },
+    "series": [
+      {
+        "name": "CTA Arterial DIEAP Abdomen & Pelvis",
+        "start": "Sub simfiza pubian\u0103 (nivel inghinal)",
+        "end": "Imediat deasupra diafragmului (direc\u021bie CAUDO-CRANIAL\u0102)",
+        "delay": "Trigger Smart Prep femural",
+        "thickness": "0.625 mm",
+        "notes": "Direc\u021bia caudo-cranial\u0103 optimizeaz\u0103 sincronizarea cu bolusul arterial \u00een peretele abdominal inferior",
+        "delay_seconds": 0,
+        "phase_type": "arterial",
+        "coverage": "Sub simfiza pubian\u0103 (nivel inghinal) \u2192 Imediat deasupra diafragmului (direc\u021bie CAUDO-CRANIAL\u0102)"
+      }
+    ],
+    "summary": [
+      {
+        "series": "CTA Arterial DIEAP Abdomen & Pelvis",
+        "phase": "Trigger Smart Prep femural",
+        "coverage": "Sub simfiza pubian\u0103 (nivel inghinal) \u2192 Imediat deasupra diafragmului (direc\u021bie CAUDO-CRANIAL\u0102)"
+      }
+    ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-cta-mesenteric-ischemia-dartmouth.md",
+    "title": "CTA Ischemie Mezenteric\u0103 - Split Bolus (Protocol Dartmouth Hitchcock)",
+    "category": "Abdomen",
+    "slug": "",
+    "contrast": {
+      "agent": "Omnipaque 350 / Isovue 370 (Tehnic\u0103 Split-Bolus 150 mL)",
+      "volume": "150 mL total: 100 mL la prima faz\u0103 + 50 mL la a doua faz\u0103",
+      "flow_rate": "4.0 mL/s",
+      "duration": "Bipazic cu pauz\u0103 de 25s \u00eentre inject\u0103ri",
+      "timing": "Injectare 100 mL contrast -> pauz\u0103 25s -> injectare restul de 50 mL cu Smart Prep pe aort\u0103",
+      "roi": "Aorta abdominal\u0103 deasupra trunchiului celiac",
+      "trigger": "150 HU",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "64 \u00d7 0.625 mm sau 128 \u00d7 0.6 mm",
+      "kv": "100 - 120 kVp (AEC activ)",
+      "mas": "Modulare automat\u0103 de doz\u0103",
+      "pitch": "0.9 - 1.1",
+      "rotation_time": "0.5 s",
+      "scan_mode": "Elicoidal rapid",
+      "slice_thickness": "0.625 - 1.25 mm"
+    },
+    "series": [
+      {
+        "name": "CTA Abdomen & Pelvis Split-Bolus",
+        "start": "Deasupra cupolelor diafragmatice",
+        "end": "Sub simfiza pubian\u0103",
+        "delay": "Trigger Smart Prep pe aort\u0103",
+        "thickness": "0.625 mm",
+        "notes": "Tehnica split-bolus DHMC realizeaz\u0103 opacifiere arterial\u0103 intens\u0103 concomitent cu faza venoas\u0103 mezenteric\u0103 \u0219i parietal\u0103",
+        "delay_seconds": 0,
+        "phase_type": "other",
+        "coverage": "Deasupra cupolelor diafragmatice \u2192 Sub simfiza pubian\u0103"
+      }
+    ],
+    "summary": [
+      {
+        "series": "CTA Abdomen & Pelvis Split-Bolus",
+        "phase": "Trigger Smart Prep pe aort\u0103",
+        "coverage": "Deasupra cupolelor diafragmatice \u2192 Sub simfiza pubian\u0103"
+      }
+    ],
+    "gantt": null
+  },
+  {
     "filepath": "ct\\abdomen\\ct-cystogram.md",
     "title": "Cisto-CT (Cistografie CT Retrograd\u0103)",
     "category": "Abdomen",
@@ -13671,6 +14205,72 @@
     "gantt": null
   },
   {
+    "filepath": "ct\\abdomen\\ct-oral-contrast-guidelines-dartmouth.md",
+    "title": "Ghid Clinic de Administrare a Contrastului Oral \u00een CT (Ghid Dartmouth Geisel 2026)",
+    "category": "Abdomen",
+    "slug": "",
+    "contrast": {
+      "agent": "Contrast oral selectat specific + Contrast IV conform indica\u021biei",
+      "volume": "500 - 1000 mL oral conform matricei de decizie",
+      "flow_rate": "Oral frac\u021bionat",
+      "duration": "45-90 min pre-scanare",
+      "timing": "Frac\u021bionat: 1/3 la 60-90 min, 1/3 la 30-45 min, 1/3 chiar \u00eenainte de scanare",
+      "roi": "Conform protocolului primar",
+      "trigger": "Conform protocolului primar",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "Standard",
+      "kv": "Conform protocolului primar",
+      "mas": "Conform protocolului primar",
+      "pitch": "Conform protocolului primar",
+      "rotation_time": "0.5 s",
+      "scan_mode": "Elicoidal",
+      "slice_thickness": "Conform protocolului primar"
+    },
+    "series": [
+      {
+        "name": "Matrice de Decizie Contrast Oral Dartmouth Geisel",
+        "start": "N/A",
+        "end": "N/A",
+        "delay": "N/A",
+        "thickness": "N/A",
+        "notes": "Tabel clinic de selec\u021bie rapid\u0103 pentru radiologi \u0219i tehnicieni",
+        "delay_seconds": 0,
+        "phase_type": "other",
+        "coverage": "N/A \u2192 N/A"
+      }
+    ],
+    "summary": [
+      {
+        "series": "Matrice de Decizie Contrast Oral Dartmouth Geisel",
+        "phase": "N/A",
+        "coverage": "N/A \u2192 N/A"
+      }
+    ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\abdomen\\ct-enterografie-intestin-subtire.md",
+    "title": "Protocol CT Enterografie (Evaluare Intestin Sub\u021bire & Boal\u0103 Crohn)",
+    "category": "Abdomen",
+    "slug": "ct-enterografie-intestin-subtire",
+    "contrast": {
+      "agent": "Substan\u021b\u0103 de contrast iodat\u0103 non-ionic\u0103 (300 - 350 mg I/mL) IV + Contrast enteric oral neutru",
+      "volume": "80 - 100 mL contrast IV; 1000 - 1500 mL contrast oral neutru (ap\u0103 cu manitol / sorbitol sau Volumen)",
+      "flow_rate": "4.0 mL/s",
+      "duration": "",
+      "timing": "Faz\u0103 enteric\u0103 capilar\u0103 mucosal\u0103 la 60 secunde \u00eent\u00e2rziere de la debutul inject\u0103rii",
+      "roi": "F\u0103r\u0103 ROI de tracking; \u00eent\u00e2rziere fix\u0103",
+      "trigger": "60 secunde delay fix",
+      "type": "IV Contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
     "filepath": "ct\\abdomen\\ct-ivp-intravenous-pyelogram.md",
     "title": "Uro-CT (Urografie CT / Pielografie Intravenoas\u0103)",
     "category": "Abdomen",
@@ -13747,6 +14347,186 @@
         "coverage": "Polul superior renal \u2192 Simfiz\u0103 pubian\u0103"
       }
     ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-definition-as-64-protocols-vb20-mcb.md",
+    "title": "CT \u2014 Parametri aparat: Definition AS 64 Protocols (VB20) (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-definition-as-64-protocols-vb20-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-drive-128-protocols-vb20-mcb.md",
+    "title": "CT \u2014 Parametri aparat: Drive 128 Protocols (VB20) (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-drive-128-protocols-vb20-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-force-192-protocols-vb20-mcb.md",
+    "title": "CT \u2014 Parametri aparat: Force 192 Protocols (VB20) (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-force-192-protocols-vb20-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-ge-ls-vct-64-protocols-mcb.md",
+    "title": "CT \u2014 Parametri aparat: GE LS VCT 64 Protocols (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-ge-ls-vct-64-protocols-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-ge-lightspeed-16-protocols-mcb.md",
+    "title": "CT \u2014 Parametri aparat: GE LightSpeed 16 Protocols (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-ge-lightspeed-16-protocols-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-ge-revolution-ascend-plus-128-protocols-mcb.md",
+    "title": "CT \u2014 Parametri aparat: GE Revolution Ascend Plus 128 Protocols (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-ge-revolution-ascend-plus-128-protocols-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-ge-revolution-maxima-64-protocols-mcb.md",
+    "title": "CT \u2014 Parametri aparat: GE Revolution Maxima 64 Protocols (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-ge-revolution-maxima-64-protocols-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-go-top-128-protocols-va40-mcb.md",
+    "title": "CT \u2014 Parametri aparat: Go Top 128 Protocols (VA40) (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-go-top-128-protocols-va40-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\aparate\\ct-parametri-aparat-philips-incisive-128-protocols-mcb.md",
+    "title": "CT \u2014 Parametri aparat: Philips Incisive 128 Protocols (MCB)",
+    "category": "Aparate",
+    "slug": "ct-parametri-aparat-philips-incisive-128-protocols-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
     "gantt": null
   },
   {
@@ -17852,6 +18632,146 @@
     "gantt": null
   },
   {
+    "filepath": "ct\\cardiac\\ct-artere-coronare-mcb.md",
+    "title": "CT \u2014 Artere coronare (MCB)",
+    "category": "Cardiac",
+    "slug": "ct-artere-coronare-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\cardiac\\ct-planificare-converge-mcb.md",
+    "title": "CT \u2014 Planificare Converge (MCB)",
+    "category": "Cardiac",
+    "slug": "ct-planificare-converge-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\cardiac\\ct-planificare-tavr-mcb.md",
+    "title": "CT \u2014 Planificare TAVR (MCB)",
+    "category": "Cardiac",
+    "slug": "ct-planificare-tavr-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\cardiac\\ct-planificare-tmvr-encircle-mcb.md",
+    "title": "CT \u2014 Planificare TMVR (Encircle) (MCB)",
+    "category": "Cardiac",
+    "slug": "ct-planificare-tmvr-encircle-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\cardiac\\ct-planificare-watchman-mcb.md",
+    "title": "CT \u2014 Planificare Watchman (MCB)",
+    "category": "Cardiac",
+    "slug": "ct-planificare-watchman-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\cardiac\\ct-planificare-amaze-lariat-mcb.md",
+    "title": "CT \u2014 Planificare aMaze / Lariat (MCB)",
+    "category": "Cardiac",
+    "slug": "ct-planificare-amaze-lariat-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\cardiac\\ct-scor-de-calciu-coronarian-mcb.md",
+    "title": "CT \u2014 Scor de calciu coronarian (MCB)",
+    "category": "Cardiac",
+    "slug": "ct-scor-de-calciu-coronarian-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
     "filepath": "ct\\chest\\ct-pulmonary-embolism-ohsu.md",
     "title": "CT Angiografie Pulmonar\u0103 / TEP (Protocol OHSU)",
     "category": "Chest",
@@ -21231,6 +22151,468 @@
     "gantt": null
   },
   {
+    "filepath": "ct\\chest\\ct-pectus-excavatum-dartmouth.md",
+    "title": "CT Torace Pectus Excavatum (Protocol Dartmouth Hitchcock)",
+    "category": "Chest",
+    "slug": "",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "F\u0103r\u0103 contrast",
+      "flow_rate": "N/A",
+      "duration": "N/A",
+      "timing": "N/A",
+      "roi": "N/A",
+      "trigger": "N/A",
+      "type": "Non-contrast"
+    },
+    "tech_params": {
+      "collimation": "64 \u00d7 0.625 mm sau 128 \u00d7 0.6 mm",
+      "kv": "80 - 100 kVp (Protocol pediatric / t\u00e2n\u0103r adult low-dose)",
+      "mas": "30 - 50 mAs (Optimizat ALARA pentru reducere maxim\u0103 de doz\u0103)",
+      "pitch": "1.2 - 1.4",
+      "rotation_time": "0.33 - 0.5 s",
+      "scan_mode": "Elicoidal ultra-rapid",
+      "slice_thickness": "1.0 - 1.25 mm"
+    },
+    "series": [
+      {
+        "name": "CT Torace \u00een Apnee Inspiratorie",
+        "start": "Imediat deasupra apexurilor pulmonare",
+        "end": "Baza toracelui (la nivelul recesurilor costodiafragmatice)",
+        "delay": "0 sec",
+        "thickness": "1.0 mm",
+        "notes": "Scanare \u00een inspir profund pentru calculul standard Haller",
+        "delay_seconds": 0,
+        "phase_type": "other",
+        "coverage": "Imediat deasupra apexurilor pulmonare \u2192 Baza toracelui (la nivelul recesurilor costodiafragmatice)"
+      },
+      {
+        "name": "CT Torace Focussat \u00een Expir (Op\u021bional)",
+        "start": "Nivelul unghiului Louis sternal",
+        "end": "Sub apendicele xifoid",
+        "delay": "0 sec",
+        "thickness": "1.25 mm",
+        "notes": "Expirul eviden\u021biaz\u0103 compresia maxim\u0103 sternovertebral\u0103 \u0219i poate cre\u0219te indicele Haller",
+        "delay_seconds": 0,
+        "phase_type": "other",
+        "coverage": "Nivelul unghiului Louis sternal \u2192 Sub apendicele xifoid"
+      }
+    ],
+    "summary": [
+      {
+        "series": "CT Torace \u00een Apnee Inspiratorie",
+        "phase": "0 sec",
+        "coverage": "Imediat deasupra apexurilor pulmonare \u2192 Baza toracelui (la nivelul recesurilor costodiafragmatice)"
+      },
+      {
+        "series": "CT Torace Focussat \u00een Expir (Op\u021bional)",
+        "phase": "0 sec",
+        "coverage": "Nivelul unghiului Louis sternal \u2192 Sub apendicele xifoid"
+      }
+    ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-esofagografie-mcb.md",
+    "title": "CT \u2014 Esofagografie (MCB)",
+    "category": "Chest",
+    "slug": "ct-esofagografie-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-hrct-complet-mcb.md",
+    "title": "CT \u2014 HRCT complet (MCB)",
+    "category": "Chest",
+    "slug": "ct-hrct-complet-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-hrct-de-rutina-mcb.md",
+    "title": "CT \u2014 HRCT de rutin\u0103 (MCB)",
+    "category": "Chest",
+    "slug": "ct-hrct-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-screening-cancer-pulmonar-mcb.md",
+    "title": "CT \u2014 Screening cancer pulmonar (MCB)",
+    "category": "Chest",
+    "slug": "ct-screening-cancer-pulmonar-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-cu-doza-redusa-mcb.md",
+    "title": "CT \u2014 Torace cu doz\u0103 redus\u0103 (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-cu-doza-redusa-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-de-rutina-mcb.md",
+    "title": "CT \u2014 Torace de rutin\u0103 (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-ion-mcb.md",
+    "title": "CT \u2014 Torace: ION (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-ion-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-olympus-mcb.md",
+    "title": "CT \u2014 Torace: Olympus (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-olympus-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-pulmonx-zephyr-mcb.md",
+    "title": "CT \u2014 Torace: Pulmonx Zephyr (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-pulmonx-zephyr-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-teton-mcb.md",
+    "title": "CT \u2014 Torace: Teton (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-teton-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-vida-mcb.md",
+    "title": "CT \u2014 Torace: VIDA (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-vida-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-torace-veran-mcb.md",
+    "title": "CT \u2014 Torace: Veran (MCB)",
+    "category": "Chest",
+    "slug": "ct-torace-veran-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-trahee-mcb.md",
+    "title": "CT \u2014 Trahee (MCB)",
+    "category": "Chest",
+    "slug": "ct-trahee-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-cta-thorax-dissection-dartmouth.md",
+    "title": "CTA Disec\u021bie Aort\u0103 Toracic\u0103 (Protocol Dartmouth Hitchcock)",
+    "category": "Chest",
+    "slug": "",
+    "contrast": {
+      "agent": "Omnipaque 350 / Isovue 370",
+      "volume": "100-120 mL (adaptat la greutate)",
+      "flow_rate": "4.0 - 5.0 mL/s",
+      "duration": "20-25s",
+      "timing": "Bolus tracking pe aorta descendent\u0103 / crosa aortic\u0103; trigger la 120-150 HU",
+      "roi": "Lumenul aortei descendente la nivelul bifurca\u021biei traheale",
+      "trigger": "120-150 HU",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "128 \u00d7 0.6 mm / 64 \u00d7 0.625 mm",
+      "kv": "100 - 120 kVp (AEC activ)",
+      "mas": "CAREDose4D / SmartmA modulare automat\u0103",
+      "pitch": "0.8 - 1.0",
+      "rotation_time": "0.33 - 0.5 s",
+      "scan_mode": "Elicoidal sincronizat ECG (ECG-gated op\u021bional la r\u0103d\u0103cina aortic\u0103)",
+      "slice_thickness": "0.625 - 1.25 mm"
+    },
+    "series": [
+      {
+        "name": "CT Torace Nativ (Pre-contrast)",
+        "start": "Deasupra apexurilor pulmonare",
+        "end": "Sub diafragm / glande suprarenale",
+        "delay": "0 sec",
+        "thickness": "2.5 mm",
+        "notes": "Esen\u021bial pentru eviden\u021bierea hematomului intramural hiperdens \u0219i a deplas\u0103rii calcific\u0103rilor intimale",
+        "delay_seconds": -10,
+        "phase_type": "non-contrast",
+        "coverage": "Deasupra apexurilor pulmonare \u2192 Sub diafragm / glande suprarenale"
+      },
+      {
+        "name": "CTA Aort\u0103 Toracic\u0103 Angiografic\u0103",
+        "start": "Deasupra apexurilor pulmonare",
+        "end": "Sub diafragm (sau extins pelvin p\u00e2n\u0103 la arterele femurale comune dac\u0103 disec\u021bia este extins\u0103)",
+        "delay": "Trigger + 3-5 sec",
+        "thickness": "0.625 mm",
+        "notes": "Opacifiere dens\u0103 a lumenului adev\u0103rat \u0219i fals (> 300 HU); identificare fald intimal \u0219i orificiu de intrare",
+        "delay_seconds": 3,
+        "phase_type": "other",
+        "coverage": "Deasupra apexurilor pulmonare \u2192 Sub diafragm (sau extins pelvin p\u00e2n\u0103 la arterele femurale comune dac\u0103 disec\u021bia este extins\u0103)"
+      }
+    ],
+    "summary": [
+      {
+        "series": "CT Torace Nativ (Pre-contrast)",
+        "phase": "0 sec",
+        "coverage": "Deasupra apexurilor pulmonare \u2192 Sub diafragm / glande suprarenale"
+      },
+      {
+        "series": "CTA Aort\u0103 Toracic\u0103 Angiografic\u0103",
+        "phase": "Trigger + 3-5 sec",
+        "coverage": "Deasupra apexurilor pulmonare \u2192 Sub diafragm (sau extins pelvin p\u00e2n\u0103 la arterele femurale comune dac\u0103 disec\u021bia este extins\u0103)"
+      }
+    ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-cta-tavr-dartmouth.md",
+    "title": "CTA Planificare Transcateter TAVR / TAVI (Protocol Dartmouth Hitchcock)",
+    "category": "Chest",
+    "slug": "",
+    "contrast": {
+      "agent": "Omnipaque 350 / Isovue 370",
+      "volume": "80-100 mL la prima faz\u0103 cardiac\u0103 + 40-50 mL la faza thoraco-abdominal\u0103",
+      "flow_rate": "4.5 - 5.0 mL/s",
+      "duration": "18-22s",
+      "timing": "Bolus tracking pe aorta descendent\u0103 / r\u0103d\u0103cina aortic\u0103",
+      "roi": "Aorta descendent\u0103 la nivelul carinei",
+      "trigger": "120-150 HU",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "128 \u00d7 0.6 mm",
+      "kv": "100 - 120 kVp",
+      "mas": "Modulare adaptiv\u0103 cardiac\u0103",
+      "pitch": "ECG gated elicoidal sau Flash spiral",
+      "rotation_time": "0.28 - 0.33 s",
+      "scan_mode": "Cardio ECG-gated pentru r\u0103d\u0103cina aortic\u0103 + Spiral\u0103 rapid\u0103 pentru acces vascular",
+      "slice_thickness": "0.625 mm"
+    },
+    "series": [
+      {
+        "name": "Calcium Score Cardiac (Nativ)",
+        "start": "Nivelul carinei traheale",
+        "end": "Sub baza cordului / diafragm",
+        "delay": "F\u0103r\u0103 \u00eent\u00e2rziere",
+        "thickness": "2.5 - 3.0 mm",
+        "notes": "Gated ECG prospectiv la 70-75% din ciclul R-R; cuantificare scor calciu Agatston valvular",
+        "delay_seconds": -10,
+        "phase_type": "non-contrast",
+        "coverage": "Nivelul carinei traheale \u2192 Sub baza cordului / diafragm"
+      },
+      {
+        "name": "CTA Angio-Cardiac TAVR (Gated ECG)",
+        "start": "Carin\u0103",
+        "end": "Sub cord",
+        "delay": "Trigger + 4 sec",
+        "thickness": "0.625 mm",
+        "notes": "Achizi\u021bie sincronizat\u0103 ECG multipafazic\u0103 (30-80% din ciclu) pentru analiza dinamicii sistolo-diastolice a inelului aortic",
+        "delay_seconds": 4,
+        "phase_type": "other",
+        "coverage": "Carin\u0103 \u2192 Sub cord"
+      },
+      {
+        "name": "CTA Aort\u0103 Toraco-Abdomino-Pelvin\u0103 (CAP Access)",
+        "start": "Apexuri pulmonare",
+        "end": "Sub simfiza pubian\u0103 (arterele femurale comune)",
+        "delay": "Continuare imediat\u0103 f\u0103r\u0103 pauz\u0103",
+        "thickness": "1.0 - 1.25 mm",
+        "notes": "Evaluare calibru minim, tortuozitate \u0219i calcific\u0103ri circumferen\u021biale ale arterelor iliace \u0219i femurale",
+        "delay_seconds": 9,
+        "phase_type": "other",
+        "coverage": "Apexuri pulmonare \u2192 Sub simfiza pubian\u0103 (arterele femurale comune)"
+      }
+    ],
+    "summary": [
+      {
+        "series": "Calcium Score Cardiac (Nativ)",
+        "phase": "F\u0103r\u0103 \u00eent\u00e2rziere",
+        "coverage": "Nivelul carinei traheale \u2192 Sub baza cordului / diafragm"
+      },
+      {
+        "series": "CTA Angio-Cardiac TAVR (Gated ECG)",
+        "phase": "Trigger + 4 sec",
+        "coverage": "Carin\u0103 \u2192 Sub cord"
+      },
+      {
+        "series": "CTA Aort\u0103 Toraco-Abdomino-Pelvin\u0103 (CAP Access)",
+        "phase": "Continuare imediat\u0103 f\u0103r\u0103 pauz\u0103",
+        "coverage": "Apexuri pulmonare \u2192 Sub simfiza pubian\u0103 (arterele femurale comune)"
+      }
+    ],
+    "gantt": null
+  },
+  {
     "filepath": "ct\\chest\\non-volumetric-hrct-1-respiratory-phase.md",
     "title": "HRCT Non-Volumetric 1 Faz\u0103 Respiratorie",
     "category": "Chest",
@@ -21526,6 +22908,72 @@
         "coverage": "V\u00e2rfuri pulmonare \u2192 Sinusuri costodiafragmatice"
       }
     ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\chest\\ct-embolie-pulmonara-sarcina-medford.md",
+    "title": "Protocol Angio-CT Torace & Algoritm Suspiciune Embolie Pulmonar\u0103 \u00een Sarcin\u0103 (MRG / ACR)",
+    "category": "Chest",
+    "slug": "",
+    "contrast": {
+      "agent": "Substan\u021b\u0103 de contrast iodat\u0103 non-ionic\u0103 (Optiray 350 / Omnipaque 350 / Isovue 370)",
+      "volume": "60 - 70 mL + 40 mL flush salin",
+      "flow_rate": "4.0 - 4.5 mL/s",
+      "duration": "12-14s",
+      "timing": "Bolus tracking automat cu ROI \u00een trunchiul arterei pulmonare (trigger 100 HU)",
+      "roi": "Trunchiul arterei pulmonare principale",
+      "trigger": "100 HU",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "128 \u00d7 0.6 mm sau 64 \u00d7 0.625 mm",
+      "kv": "80 - 100 kVp (ajustat \u00een func\u021bie de greutatea pacientei)",
+      "mas": "Modulare automat\u0103 a curentului de tub (CAREDose4D / SmartmA / SUREExposure)",
+      "pitch": "1.2 - 1.4",
+      "rotation_time": "0.28 - 0.33 s",
+      "scan_mode": "Elicoidal ultra-rapid",
+      "slice_thickness": "0.625 mm"
+    },
+    "series": [
+      {
+        "name": "Angio-CT Pulmonar Doz\u0103 Redus\u0103 (Low-kV)",
+        "start": "Baza pl\u0103m\u00e2nilor (unghiurile costo-diafragmatice posterioare)",
+        "end": "V\u00e2rfuri pulmonare (deasupra apicilor)",
+        "delay": "Bolus tracking (trigger 100 HU + 3s)",
+        "thickness": "0.625 mm",
+        "notes": "Opacifiere intens\u0103 a arterelor pulmonare (> 300 HU datorit\u0103 K-edge la 80-100 kVp)",
+        "delay_seconds": 12,
+        "phase_type": "other",
+        "coverage": "Baza pl\u0103m\u00e2nilor (unghiurile costo-diafragmatice posterioare) \u2192 V\u00e2rfuri pulmonare (deasupra apicilor)"
+      }
+    ],
+    "summary": [
+      {
+        "series": "Angio-CT Pulmonar Doz\u0103 Redus\u0103 (Low-kV)",
+        "phase": "Bolus tracking (trigger 100 HU + 3s)",
+        "coverage": "Baza pl\u0103m\u00e2nilor (unghiurile costo-diafragmatice posterioare) \u2192 V\u00e2rfuri pulmonare (deasupra apicilor)"
+      }
+    ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\parametri-aparate-scanner-defaults.md",
+    "title": "Parametri Impliciti Scanere CT (Siemens, GE, Philips)",
+    "category": "Ct",
+    "slug": "parametri-aparate-scanner-defaults",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
     "gantt": null
   },
   {
@@ -22216,6 +23664,446 @@
         "coverage": "Creste iliace \u2192 Mici trohanteri"
       }
     ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-antepicior-mcb.md",
+    "title": "CT \u2014 Antepicior (MCB)",
+    "category": "Msk",
+    "slug": "ct-antepicior-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-bazin-osos-mcb.md",
+    "title": "CT \u2014 Bazin osos (MCB)",
+    "category": "Msk",
+    "slug": "ct-bazin-osos-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-clavicula-mcb.md",
+    "title": "CT \u2014 Clavicul\u0103 (MCB)",
+    "category": "Msk",
+    "slug": "ct-clavicula-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-cot-mcb.md",
+    "title": "CT \u2014 Cot (MCB)",
+    "category": "Msk",
+    "slug": "ct-cot-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-genunchi-mcb.md",
+    "title": "CT \u2014 Genunchi (MCB)",
+    "category": "Msk",
+    "slug": "ct-genunchi-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-genunchi-depuy-mcb.md",
+    "title": "CT \u2014 Genunchi DePuy (MCB)",
+    "category": "Msk",
+    "slug": "ct-genunchi-depuy-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-genunchi-mako-mcb.md",
+    "title": "CT \u2014 Genunchi Mako (MCB)",
+    "category": "Msk",
+    "slug": "ct-genunchi-mako-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-genunchi-restor3d-conformis-mcb.md",
+    "title": "CT \u2014 Genunchi Restor3D Conformis (MCB)",
+    "category": "Msk",
+    "slug": "ct-genunchi-restor3d-conformis-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-genunchi-zimmer-mcb.md",
+    "title": "CT \u2014 Genunchi Zimmer (MCB)",
+    "category": "Msk",
+    "slug": "ct-genunchi-zimmer-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-glezna-maven-mcb.md",
+    "title": "CT \u2014 Glezn\u0103 MAVEN (MCB)",
+    "category": "Msk",
+    "slug": "ct-glezna-maven-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-glezna-prophecy-mcb.md",
+    "title": "CT \u2014 Glezn\u0103 Prophecy (MCB)",
+    "category": "Msk",
+    "slug": "ct-glezna-prophecy-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-glezna-si-retropicior-mcb.md",
+    "title": "CT \u2014 Glezn\u0103 \u0219i retropicior (MCB)",
+    "category": "Msk",
+    "slug": "ct-glezna-si-retropicior-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-mana-mcb.md",
+    "title": "CT \u2014 M\u00e2n\u0103 (MCB)",
+    "category": "Msk",
+    "slug": "ct-mana-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-masurarea-lungimii-membrelor-mcb.md",
+    "title": "CT \u2014 M\u0103surarea lungimii membrelor (MCB)",
+    "category": "Msk",
+    "slug": "ct-masurarea-lungimii-membrelor-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-oase-lungi-mcb.md",
+    "title": "CT \u2014 Oase lungi (MCB)",
+    "category": "Msk",
+    "slug": "ct-oase-lungi-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-pumn-mcb.md",
+    "title": "CT \u2014 Pumn (MCB)",
+    "category": "Msk",
+    "slug": "ct-pumn-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-umar-mcb.md",
+    "title": "CT \u2014 Um\u0103r (MCB)",
+    "category": "Msk",
+    "slug": "ct-umar-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-umar-arthrex-mcb.md",
+    "title": "CT \u2014 Um\u0103r Arthrex (MCB)",
+    "category": "Msk",
+    "slug": "ct-umar-arthrex-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-umar-catalyst-mcb.md",
+    "title": "CT \u2014 Um\u0103r Catalyst (MCB)",
+    "category": "Msk",
+    "slug": "ct-umar-catalyst-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-umar-stryker-mcb.md",
+    "title": "CT \u2014 Um\u0103r Stryker (MCB)",
+    "category": "Msk",
+    "slug": "ct-umar-stryker-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-sold-mcb.md",
+    "title": "CT \u2014 \u0218old (MCB)",
+    "category": "Msk",
+    "slug": "ct-sold-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\msk\\ct-sold-mako-mcb.md",
+    "title": "CT \u2014 \u0218old Mako (MCB)",
+    "category": "Msk",
+    "slug": "ct-sold-mako-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
     "gantt": null
   },
   {
@@ -26342,6 +28230,52 @@
         "series": "Achizi\u021bie 40-slice",
         "phase": "Bolus tracking / SureStart",
         "coverage": "C2 through the frontal sinuses or higher as needed \u2192 C2 through the frontal sinuses or higher as needed"
+      }
+    ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-face-trauma-dartmouth.md",
+    "title": "CT Masiv Facial Traum\u0103 (Protocol Dartmouth Hitchcock)",
+    "category": "Neuro",
+    "slug": "",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "F\u0103r\u0103 contrast",
+      "flow_rate": "N/A",
+      "duration": "N/A",
+      "timing": "N/A",
+      "roi": "N/A",
+      "trigger": "N/A",
+      "type": "Non-contrast"
+    },
+    "tech_params": {
+      "collimation": "64 \u00d7 0.625 mm sau 128 \u00d7 0.6 mm",
+      "kv": "120 kVp",
+      "mas": "CAREDose4D / SureExposure (Ref 180-220 mAs)",
+      "pitch": "0.8 - 0.9",
+      "rotation_time": "0.5 s",
+      "scan_mode": "Elicoidal fin izotrop",
+      "slice_thickness": "0.625 mm"
+    },
+    "series": [
+      {
+        "name": "CT Masiv Facial Nativ",
+        "start": "Imediat deasupra sinusurilor frontale",
+        "end": "Sub marginea inferioar\u0103 a mandibulei (simfiz\u0103 mentonier\u0103)",
+        "delay": "0 sec",
+        "thickness": "0.625 mm",
+        "notes": "Acoperire complet\u0103 a tuturor structurilor scheletice faciale \u0219i cavit\u0103\u021bilor aeriene",
+        "delay_seconds": 0,
+        "phase_type": "non-contrast",
+        "coverage": "Imediat deasupra sinusurilor frontale \u2192 Sub marginea inferioar\u0103 a mandibulei (simfiz\u0103 mentonier\u0103)"
+      }
+    ],
+    "summary": [
+      {
+        "series": "CT Masiv Facial Nativ",
+        "phase": "0 sec",
+        "coverage": "Imediat deasupra sinusurilor frontale \u2192 Sub marginea inferioar\u0103 a mandibulei (simfiz\u0103 mentonier\u0103)"
       }
     ],
     "gantt": null
@@ -31881,6 +33815,366 @@
     "gantt": null
   },
   {
+    "filepath": "ct\\neuro\\ct-angio-ct-cerebral-mcb.md",
+    "title": "CT \u2014 Angio-CT cerebral (MCB)",
+    "category": "Neuro",
+    "slug": "ct-angio-ct-cerebral-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-angio-ct-cerebral-si-cervical-mcb.md",
+    "title": "CT \u2014 Angio-CT cerebral \u0219i cervical (MCB)",
+    "category": "Neuro",
+    "slug": "ct-angio-ct-cerebral-si-cervical-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-angio-ct-cervical-mcb.md",
+    "title": "CT \u2014 Angio-CT cervical (MCB)",
+    "category": "Neuro",
+    "slug": "ct-angio-ct-cervical-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-cisternografie-mcb.md",
+    "title": "CT \u2014 Cisternografie (MCB)",
+    "category": "Neuro",
+    "slug": "ct-cisternografie-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-coloana-cervicala-mcb.md",
+    "title": "CT \u2014 Coloan\u0103 cervical\u0103 (MCB)",
+    "category": "Neuro",
+    "slug": "ct-coloana-cervicala-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-coloana-lombara-mcb.md",
+    "title": "CT \u2014 Coloan\u0103 lombar\u0103 (MCB)",
+    "category": "Neuro",
+    "slug": "ct-coloana-lombara-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-coloana-lombara-preoperator-mcb.md",
+    "title": "CT \u2014 Coloan\u0103 lombar\u0103 preoperator (MCB)",
+    "category": "Neuro",
+    "slug": "ct-coloana-lombara-preoperator-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-coloana-toracica-mcb.md",
+    "title": "CT \u2014 Coloan\u0103 toracic\u0103 (MCB)",
+    "category": "Neuro",
+    "slug": "ct-coloana-toracica-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-conducte-auditive-interne-si-oase-temporale-mcb.md",
+    "title": "CT \u2014 Conducte auditive interne \u0219i oase temporale (MCB)",
+    "category": "Neuro",
+    "slug": "ct-conducte-auditive-interne-si-oase-temporale-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-craniu-de-rutina-mcb.md",
+    "title": "CT \u2014 Craniu de rutin\u0103 (MCB)",
+    "category": "Neuro",
+    "slug": "ct-craniu-de-rutina-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-craniu-preoperator-mcb.md",
+    "title": "CT \u2014 Craniu preoperator (MCB)",
+    "category": "Neuro",
+    "slug": "ct-craniu-preoperator-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-masiv-facial-si-orbite-mcb.md",
+    "title": "CT \u2014 Masiv facial \u0219i orbite (MCB)",
+    "category": "Neuro",
+    "slug": "ct-masiv-facial-si-orbite-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-mielografie-mcb.md",
+    "title": "CT \u2014 Mielografie (MCB)",
+    "category": "Neuro",
+    "slug": "ct-mielografie-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-paratiroide-mcb.md",
+    "title": "CT \u2014 Paratiroide (MCB)",
+    "category": "Neuro",
+    "slug": "ct-paratiroide-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-perfuzie-cerebrala-mcb.md",
+    "title": "CT \u2014 Perfuzie cerebral\u0103 (MCB)",
+    "category": "Neuro",
+    "slug": "ct-perfuzie-cerebrala-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-parti-moi-cervicale-mcb.md",
+    "title": "CT \u2014 P\u0103r\u021bi moi cervicale (MCB)",
+    "category": "Neuro",
+    "slug": "ct-parti-moi-cervicale-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-sinusuri-mcb.md",
+    "title": "CT \u2014 Sinusuri (MCB)",
+    "category": "Neuro",
+    "slug": "ct-sinusuri-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-venografie-cerebrala-mcb.md",
+    "title": "CT \u2014 Venografie cerebral\u0103 (MCB)",
+    "category": "Neuro",
+    "slug": "ct-venografie-cerebrala-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
     "filepath": "ct\\neuro\\cta-head-neck-ohsu.md",
     "title": "CTA Cap & G\u00e2t cu Contrast (Protocol OHSU)",
     "category": "Neuro",
@@ -31922,6 +34216,52 @@
         "series": "CTA Cap & G\u00e2t",
         "phase": "Trigger + 3-4 sec",
         "coverage": "Nivelul crosei aortice (sub baza nasului) \u2192 Deasupra vertexului (inclusiv \u021besuturi moi)"
+      }
+    ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-cta-carotids-circle-of-willis-dartmouth.md",
+    "title": "CTA Carotide \u0219i Poligonul lui Willis (Protocol Dartmouth Hitchcock)",
+    "category": "Neuro",
+    "slug": "",
+    "contrast": {
+      "agent": "Omnipaque 350 / Isovue 370",
+      "volume": "70-80 mL contrast + 40-50 mL flush salin",
+      "flow_rate": "4.5 - 5.0 mL/s",
+      "duration": "15-18s",
+      "timing": "Bolus tracking pe crosa aortic\u0103 sau artera carotid\u0103 comun\u0103; trigger 120-150 HU",
+      "roi": "Crosa aortic\u0103 / artera carotid\u0103 comun\u0103 la nivel C4-C5",
+      "trigger": "120-150 HU",
+      "type": "IV Contrast"
+    },
+    "tech_params": {
+      "collimation": "64 \u00d7 0.625 mm sau 128 \u00d7 0.6 mm",
+      "kv": "100 - 120 kVp",
+      "mas": "Modulare automat\u0103 de doz\u0103 neuro",
+      "pitch": "0.8 - 1.0",
+      "rotation_time": "0.33 - 0.5 s",
+      "scan_mode": "Elicoidal rapid cranio-caudal sau caudo-cranial",
+      "slice_thickness": "0.625 mm"
+    },
+    "series": [
+      {
+        "name": "CTA Crosa Aortic\u0103 p\u00e2n\u0103 la Vertex",
+        "start": "Nivelul crosei aortice (baza g\u00e2tului)",
+        "end": "Vertex (cre\u0219tetul craniului)",
+        "delay": "Trigger + 3-4 sec",
+        "thickness": "0.625 mm",
+        "notes": "Opacifiere dens\u0103 de la originile vaselor mari supraaortice p\u00e2n\u0103 la ramurile distale M2/M3 \u0219i A2/A3",
+        "delay_seconds": 3,
+        "phase_type": "other",
+        "coverage": "Nivelul crosei aortice (baza g\u00e2tului) \u2192 Vertex (cre\u0219tetul craniului)"
+      }
+    ],
+    "summary": [
+      {
+        "series": "CTA Crosa Aortic\u0103 p\u00e2n\u0103 la Vertex",
+        "phase": "Trigger + 3-4 sec",
+        "coverage": "Nivelul crosei aortice (baza g\u00e2tului) \u2192 Vertex (cre\u0219tetul craniului)"
       }
     ],
     "gantt": null
@@ -32159,6 +34499,266 @@
         "coverage": "Baza craniului \u2192 Vertex"
       }
     ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\neuro\\ct-brain-attack-avc-acut.md",
+    "title": "Protocol CT Brain Attack \u2014 AVC Ischemic Acut (CT Nativ + Angio-CT Craniu & G\u00e2t)",
+    "category": "Neuro",
+    "slug": "ct-brain-attack-avc-acut",
+    "contrast": {
+      "agent": "Substan\u021b\u0103 de contrast iodat\u0103 non-ionic\u0103 (350 - 370 mg I/mL)",
+      "volume": "100 mL contrast + 40 mL bolus ser fiziologic (Saline Chaser)",
+      "flow_rate": "4.0 - 5.0 mL/s",
+      "duration": "",
+      "timing": "CT Nativ urmat de Angio-CT de la crosa aortei la vertex cu export VizAI",
+      "roi": "Arc aortic sau artera carotid\u0103 comun\u0103 (SmartPrep / Bolus tracking)",
+      "trigger": "100 - 120 HU prag automat",
+      "type": "IV Contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-abdomen-si-pelvis-la-copil-mcb.md",
+    "title": "CT \u2014 Abdomen \u0219i pelvis la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-abdomen-si-pelvis-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-bazin-osos-la-copil-mcb.md",
+    "title": "CT \u2014 Bazin osos la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-bazin-osos-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-coloana-cervicala-la-copil-mcb.md",
+    "title": "CT \u2014 Coloan\u0103 cervical\u0103 la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-coloana-cervicala-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-coloana-lombara-la-copil-mcb.md",
+    "title": "CT \u2014 Coloan\u0103 lombar\u0103 la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-coloana-lombara-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-coloana-toracica-la-copil-mcb.md",
+    "title": "CT \u2014 Coloan\u0103 toracic\u0103 la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-coloana-toracica-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-craniu-pediatric-mcb.md",
+    "title": "CT \u2014 Craniu pediatric (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-craniu-pediatric-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-extremitati-la-copil-mcb.md",
+    "title": "CT \u2014 Extremit\u0103\u021bi la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-extremitati-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-masiv-facial-si-orbite-la-copil-mcb.md",
+    "title": "CT \u2014 Masiv facial \u0219i orbite la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-masiv-facial-si-orbite-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-regiune-cervicala-la-copil-mcb.md",
+    "title": "CT \u2014 Regiune cervical\u0103 la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-regiune-cervicala-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-sinusuri-la-copil-mcb.md",
+    "title": "CT \u2014 Sinusuri la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-sinusuri-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-torace-pediatric-mcb.md",
+    "title": "CT \u2014 Torace pediatric (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-torace-pediatric-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\pediatrie\\ct-torace-abdomen-si-pelvis-la-copil-mcb.md",
+    "title": "CT \u2014 Torace, abdomen \u0219i pelvis la copil (MCB)",
+    "category": "Pediatrie",
+    "slug": "ct-torace-abdomen-si-pelvis-la-copil-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
     "gantt": null
   },
   {
@@ -45279,6 +47879,246 @@
     "gantt": null
   },
   {
+    "filepath": "ct\\vascular\\ct-angio-ct-membre-inferioare-mcb.md",
+    "title": "CT \u2014 Angio-CT membre inferioare (MCB)",
+    "category": "Vascular",
+    "slug": "ct-angio-ct-membre-inferioare-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-angio-ct-membre-superioare-mcb.md",
+    "title": "CT \u2014 Angio-CT membre superioare (MCB)",
+    "category": "Vascular",
+    "slug": "ct-angio-ct-membre-superioare-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-angiografie-runoff-mcb.md",
+    "title": "CT \u2014 Angiografie runoff (MCB)",
+    "category": "Vascular",
+    "slug": "ct-angiografie-runoff-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-aorta-abdominala-mcb.md",
+    "title": "CT \u2014 Aort\u0103 abdominal\u0103 (MCB)",
+    "category": "Vascular",
+    "slug": "ct-aorta-abdominala-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-aorta-completa-torace-abdomen-si-pelvis-mcb.md",
+    "title": "CT \u2014 Aort\u0103 complet\u0103 (torace, abdomen \u0219i pelvis) (MCB)",
+    "category": "Vascular",
+    "slug": "ct-aorta-completa-torace-abdomen-si-pelvis-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-aorta-toracica-mcb.md",
+    "title": "CT \u2014 Aort\u0103 toracic\u0103 (MCB)",
+    "category": "Vascular",
+    "slug": "ct-aorta-toracica-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-artere-renale-mcb.md",
+    "title": "CT \u2014 Artere renale (MCB)",
+    "category": "Vascular",
+    "slug": "ct-artere-renale-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-embolie-pulmonara-mcb.md",
+    "title": "CT \u2014 Embolie pulmonar\u0103 (MCB)",
+    "category": "Vascular",
+    "slug": "ct-embolie-pulmonara-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-reconstructie-mamara-diep-mcb.md",
+    "title": "CT \u2014 Reconstruc\u021bie mamar\u0103 DIEP (MCB)",
+    "category": "Vascular",
+    "slug": "ct-reconstructie-mamara-diep-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-venografie-membre-inferioare-mcb.md",
+    "title": "CT \u2014 Venografie membre inferioare (MCB)",
+    "category": "Vascular",
+    "slug": "ct-venografie-membre-inferioare-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-vena-cava-inferioara-mcb.md",
+    "title": "CT \u2014 Ven\u0103 cav\u0103 inferioar\u0103 (MCB)",
+    "category": "Vascular",
+    "slug": "ct-vena-cava-inferioara-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-vena-cava-superioara-mcb.md",
+    "title": "CT \u2014 Ven\u0103 cav\u0103 superioar\u0103 (MCB)",
+    "category": "Vascular",
+    "slug": "ct-vena-cava-superioara-mcb",
+    "contrast": {
+      "agent": "N/A",
+      "volume": "",
+      "flow_rate": "",
+      "duration": "",
+      "timing": "",
+      "roi": "",
+      "trigger": "",
+      "type": "Non-contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
+    "gantt": null
+  },
+  {
     "filepath": "ct\\vascular\\cta-acute-gi-bleed-ohsu.md",
     "title": "CTA Hemoragie Digestiv\u0103 Acut\u0103 (Protocol OHSU)",
     "category": "Vascular",
@@ -45540,6 +48380,26 @@
         "coverage": "Apertura toracic\u0103 superioar\u0103 \u2192 Femur proximal"
       }
     ],
+    "gantt": null
+  },
+  {
+    "filepath": "ct\\vascular\\ct-aorta-endoproteza-evar.md",
+    "title": "Protocol CT Supraveghere Endoprotez\u0103 Aortic\u0103 (EVAR / TEVAR Trifazic)",
+    "category": "Vascular",
+    "slug": "ct-aorta-endoproteza-evar",
+    "contrast": {
+      "agent": "Substan\u021b\u0103 de contrast iodat\u0103 non-ionic\u0103 (350 - 370 mg I/mL)",
+      "volume": "100 - 120 mL contrast + 40 mL ser fiziologic",
+      "flow_rate": "4.0 mL/s",
+      "duration": "",
+      "timing": "Protocol trifazic: 1) Nativ; 2) Faz\u0103 arterial\u0103 angiografic\u0103 (CTA); 3) Faz\u0103 tardiv\u0103 venoas\u0103 la 120-180 secunde",
+      "roi": "Aorta proximal\u0103 deasupra grefonului (SmartPrep / Bolus tracking)",
+      "trigger": "150 HU prag automat",
+      "type": "IV Contrast"
+    },
+    "tech_params": {},
+    "series": [],
+    "summary": [],
     "gantt": null
   }
 ]

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe PIP articulație de afected falange
+centering: perpendicular pe articulația PIP a falangei afectate
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -30,31 +30,36 @@ images:
 - caption: Merrill — pagina 248, imaginea 8
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-digits-second-through-fifth-incidenta-postero-anterioara-pa-p243-merrill/p248_fig8.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: falange that cannot fie extins poate fie examined în small sections. When articulație
-  injury este suspected, Incidență Antero-Posterioară (AP) instead de Incidență Postero-Anterioară
-  (PA) este recommended.
-position: 'se așază pacientul pe scaun la end de masa radiologică.; When radiographing
-  individual falange (except first), take following steps: Place extins falange cu
-  palmar surface down pe receptorul de imagine. Separate falange slightly, și se centrează
-  falange under examination la center de receptorul de imagine. se centrează PIP articulație
-  la receptorul de imagine (Figs. 5.13 through 5.15). se efectuează ecranarea gonadelor
-  cu șorț plumbat.'
+notes: Falangele care nu pot fi extinse pot fi examinate în secțiuni mici. Când se
+  suspectează o leziune articulară, se recomandă incidența anteroposterioară (AP)
+  în locul incidenței posteroanterioare (PA).
+position: 'Pacientul se așază pe scaun la capătul mesei radiologice.; La radiografierea
+  unei falange individuale (cu excepția primei), urmați pașii următori: Așezați falanga
+  extinsă cu suprafața palmară în jos pe receptorul de imagine. Separați ușor falangele
+  și centrați falanga examinată la centrul receptorului de imagine. Centrați articulația
+  PIP la receptorul de imagine (Figs. 5.13 până la 5.15). Se efectuează ecranarea
+  gonadelor cu șorț plumbat.'
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire falange de la fingertip la distal portion de adjoining metacarpal
-- fără părți moi overlap de la adjacent falange
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întreaga falangă, de la vârful degetului până la porțiunea distală a metacarpianului
+  adiacent
+- fără suprapunerea părților moi ale falangelor adiacente
 - 'Absența rotației anatomice (simetrie bilaterală perfectă):'
-- Equal concavity pe ambele părți (bilateral) de phalangeal corpuri
-- Equal amount de părți moi pe ambele părți (bilateral) de falange
-- Fingernail, if seen, centrat over distal phalanx
-- Open IP și articulații metacarpofalangiene (MCF) spaces
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- Concavitate egală de ambele părți ale corpurilor falangelor
+- Cantitate egală de părți moi de ambele părți ale falangei
+- Unghia, dacă este vizibilă, centrată deasupra falangei distale
+- Spații articulare IP și metacarpofalangiene (MCF) deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-digits-second-through-fifth-incidenta-postero-anterioara-pa-p243-merrill
 source_pages:
@@ -65,78 +70,76 @@ source_pages:
 - 247
 - 248
 source_sections:
-  anatomy: PA incidență de appropriate falange și adjoining distal metacarpal (Figs.
-    5.16 through 5.19).
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Place
-    marker de lateralitate (D/S)
+  anatomy: Incidența PA a falangei corespunzătoare și a metacarpianului distal adiacent
+    (Figs. 5.16 până la 5.19).
+  collimation: '• Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene
+    (MCF). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
 
-    în collimated expunere field.
+    Radiografie computerizată
 
-    Computed radiografie
+    Pentru toate incidențele, falanga trebuie centrată pe placă sau pe secțiunea plăcii,
+    cu patru margini ale colimatorului. Două sau mai multe imagini pot fi proiectate
+    pe un singur IP transversal; totuși, trebuie să existe patru margini ale colimatorului
+    pentru fiecare incidență. Ecranul plumbat trebuie să acopere partea neexpusă atunci
+    când se efectuează mai multe imagini pe un singur IP.'
+  cr: • perpendicular pe articulația PIP a falangei afectate
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    pentru toate incidențe, falange trebuie să fie centrat pe plate sau plate section
-    cu four collimator margins. Two sau more imagini poate fie projected
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    în afara anatomiei de interes
 
-    pe one transversal IP; however, there trebuie să fie four collimator margins pentru
-    fiecare incidență. lead blocker trebuie să cover unexposed side when
+    • Întreaga falangă, de la vârful degetului până la porțiunea distală a metacarpianului
+    adiacent
 
-    multiple imagini sunt made pe one IP.'
-  cr: • perpendicular pe PIP articulație de afected falange
-  criteria: 'Criterii radiologice de calitate imaginii:
-
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
-
-    • Entire falange de la fingertip la distal portion de adjoining metacarpal
-
-    • fără părți moi overlap de la adjacent falange
+    • Fără suprapunerea părților moi ale falangelor adiacente
 
     • Absența rotației anatomice (simetrie bilaterală perfectă):
 
-    • Equal concavity pe ambele părți (bilateral) de phalangeal corpuri
+    • Concavitate egală de ambele părți ale corpurilor falangelor
 
-    • Equal amount de părți moi pe ambele părți (bilateral) de falange
+    • Cantitate egală de părți moi de ambele părți ale falangei
 
-    • Fingernail, if seen, centrat over distal phalanx
+    • Unghia, dacă este vizibilă, centrată deasupra falangei distale
 
-    • Open IP și articulații metacarpofalangiene (MCF) spaces
+    • Spații articulare IF și metacarpofalangiene (MCF) deschise
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'falange that cannot fie extins poate fie examined în small sections. When
-    articulație injury este suspected, AP incidență instead de PA
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  notes: Falangele care nu pot fi extinse pot fi examinate în secțiuni mici. Când
+    se suspectează o leziune articulară, se recomandă incidența AP în locul incidenței
+    PA.
+  part_pos: 'La radiografierea unei falange individuale (cu excepția primei), urmați
+    pașii următori:
 
-    incidență este recommended.'
-  part_pos: 'When radiographing individual falange (except first), take following
-    steps:
+    • Așezați falanga extinsă cu suprafața palmară în jos pe receptorul de imagine.
 
-    • Place extins falange cu palmar surface down pe receptorul de imagine.
+    • Separați ușor falanga și centrați falanga examinată la centrul receptorului
+    de imagine.
 
-    • Separate falange slightly, și se centrează falange under examination la center
-    de receptorul de imagine.
+    • Centrați articulația PIP la receptorul de imagine (Figs. 5.13 până la 5.15).
 
-    • se centrează PIP articulație la receptorul de imagine (Figs. 5.13 through 5.15).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul pe scaun, la capătul mesei radiologice.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 243–248
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Se
-    plasează markerul de lateralitate în câmpul colimat. Computed radiografie pentru
-    toate incidențe, falange trebuie să fie centrat pe plate sau plate section cu
-    four collimator margins. Two sau more imagini poate fie projected pe one transversal
-    IP; however, there trebuie să fie four collimator margins pentru fiecare incidență.
-    lead blocker trebuie să cover unexposed side when multiple imagini sunt made pe
-    one IP.
-title: Rx Digits (Second Through Fifth) — Incidență Postero-Anterioară (PA) (Merrill)
+  collimation: 'Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangei,
+    inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene (MCF).
+    Se plasează markerul de lateralitate în câmpul colimat. Radiografie computerizată:
+    pentru toate incidențele, falanga trebuie să fie centrată pe placă sau pe secțiunea
+    plăcii, cu patru margini ale colimatorului. Două sau mai multe imagini pot fi
+    proiectate pe un singur IP transversal; totuși, trebuie să existe patru margini
+    ale colimatorului pentru fiecare incidență. Ecranul plumbat trebuie să acopere
+    partea neexpusă atunci când se efectuează mai multe imagini pe un singur IP.'
+title: Rx Degete (al doilea până la al cincilea) — Incidență postero-anterioară (PA)
+  (Merrill)
 ---
-# Rx Digits (Second Through Fifth) — Incidență Postero-Anterioară (PA) (Merrill)
+# Rx Degete (al doilea până la al cincilea) — Incidență postero-anterioară (PA) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -160,17 +163,18 @@ title: Rx Digits (Second Through Fifth) — Incidență Postero-Anterioară (PA)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică.; When radiographing individual falange (except first), take following steps: Place extins falange cu palmar surface down pe receptorul de imagine. Separate falange slightly, și se centrează falange under examination la center de receptorul de imagine. se centrează PIP articulație la receptorul de imagine (Figs. 5.13 through 5.15). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe PIP articulație de afected falange
+    - **Poziție Pacient:** Pacientul se așază pe scaun la capătul mesei radiologice.; La radiografierea unei falange individuale (cu excepția primei), urmați pașii următori: Așezați falanga extinsă cu suprafața palmară în jos pe receptorul de imagine. Separați ușor falangele și centrați falanga examinată la centrul receptorului de imagine. Centrați articulația PIP la receptorul de imagine (Figs. 5.13 până la 5.15). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulația PIP a falangei afectate
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -186,23 +190,23 @@ title: Rx Digits (Second Through Fifth) — Incidență Postero-Anterioară (PA)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Se plasează markerul de lateralitate în câmpul colimat. Computed radiografie pentru toate incidențe, falange trebuie să fie centrat pe plate sau plate section cu four collimator margins. Two sau more imagini poate fie projected pe one transversal IP; however, there trebuie să fie four collimator margins pentru fiecare incidență. lead blocker trebuie să cover unexposed side when multiple imagini sunt made pe one IP. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene (MCF). Se plasează markerul de lateralitate în câmpul colimat. Radiografie computerizată: pentru toate incidențele, falanga trebuie să fie centrată pe placă sau pe secțiunea plăcii, cu patru margini ale colimatorului. Două sau mai multe imagini pot fi proiectate pe un singur IP transversal; totuși, trebuie să existe patru margini ale colimatorului pentru fiecare incidență. Ecranul plumbat trebuie să acopere partea neexpusă atunci când se efectuează mai multe imagini pe un singur IP. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire falange de la fingertip la distal portion de adjoining metacarpal
-    - fără părți moi overlap de la adjacent falange
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întreaga falangă, de la vârful degetului până la porțiunea distală a metacarpianului adiacent
+    - fără suprapunerea părților moi ale falangelor adiacente
     - Absența rotației anatomice (simetrie bilaterală perfectă):
-    - Equal concavity pe ambele părți (bilateral) de phalangeal corpuri
-    - Equal amount de părți moi pe ambele părți (bilateral) de falange
-    - Fingernail, if seen, centrat over distal phalanx
-    - Open IP și articulații metacarpofalangiene (MCF) spaces
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Concavitate egală de ambele părți ale corpurilor falangelor
+    - Cantitate egală de părți moi de ambele părți ale falangei
+    - Unghia, dacă este vizibilă, centrată deasupra falangei distale
+    - Spații articulare IP și metacarpofalangiene (MCF) deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -212,8 +216,9 @@ title: Rx Digits (Second Through Fifth) — Incidență Postero-Anterioară (PA)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    falange that cannot fie extins poate fie examined în small sections. When articulație injury este suspected, Incidență Antero-Posterioară (AP) instead de Incidență Postero-Anterioară (PA) este recommended.
+    Falangele care nu pot fi extinse pot fi examinate în secțiuni mici. Când se suspectează o leziune articulară, se recomandă incidența anteroposterioară (AP) în locul incidenței posteroanterioare (PA).
 
 
 ### 🖼️ Imagini
@@ -298,57 +303,3 @@ title: Rx Digits (Second Through Fifth) — Incidență Postero-Anterioară (PA)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 243–248](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-PA incidență de appropriate falange și adjoining distal metacarpal (Figs. 5.16 through 5.19).
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Place marker de lateralitate (D/S)
-în collimated expunere field.
-Computed radiografie
-pentru toate incidențe, falange trebuie să fie centrat pe plate sau plate section cu four collimator margins. Two sau more imagini poate fie projected
-pe one transversal IP; however, there trebuie să fie four collimator margins pentru fiecare incidență. lead blocker trebuie să cover unexposed side when
-multiple imagini sunt made pe one IP.
-
-### cr
-
-• perpendicular pe PIP articulație de afected falange
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire falange de la fingertip la distal portion de adjoining metacarpal
-• fără părți moi overlap de la adjacent falange
-• Absența rotației anatomice (simetrie bilaterală perfectă):
-• Equal concavity pe ambele părți (bilateral) de phalangeal corpuri
-• Equal amount de părți moi pe ambele părți (bilateral) de falange
-• Fingernail, if seen, centrat over distal phalanx
-• Open IP și articulații metacarpofalangiene (MCF) spaces
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-falange that cannot fie extins poate fie examined în small sections. When articulație injury este suspected, AP incidență instead de PA
-incidență este recommended.
-
-### part_pos
-
-When radiographing individual falange (except first), take following steps:
-• Place extins falange cu palmar surface down pe receptorul de imagine.
-• Separate falange slightly, și se centrează falange under examination la center de receptorul de imagine.
-• se centrează PIP articulație la receptorul de imagine (Figs. 5.13 through 5.15).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

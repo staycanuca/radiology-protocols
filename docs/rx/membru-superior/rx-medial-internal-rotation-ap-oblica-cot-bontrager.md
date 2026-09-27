@@ -2,40 +2,47 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la midelbow articulație
-  (approximately ¾ inch [2 cm] distal la midpoint de line între epicondyles ca viewed
-  de la xray tube)
+centering: Perpendicular pe receptorul de imagine, orientat către articulația cotului,
+  la aproximativ ¾ țol [2 cm] distal față de punctul median al liniei dintre epicondili,
+  după cum este vizualizat de la tubul radiogen.
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de Cot, primarily proces
-  coronoid
-- Certain pathologic processes, such ca osteoporosis și arthritis medial (intern rotație)
-  oblic Best visualizes proces coronoid de ulna și trochlea în profile.
+- Suspiciune de fractură și luxație / subluxație articulară a cotului, în principal
+  a procesului coronoid
+- Anumite procese patologice, precum osteoporoza și artrita. Incidența oblică medială
+  (rotație internă) evidențiază cel mai bine procesul coronoid al ulnei și trohleea
+  în profil.
 images:
-- caption: Fig. 4.139 medial (intern rotație) oblic.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.139 medial (intern
-    rotație) oblic.)
+- caption: Fig. 4.139 Incidență oblică medială (rotație internă).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.139 Incidență
+    oblică medială (rotație internă).)
   url: assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_1.jpeg
-- caption: Fig. 4.140 End incidență, evidențiind 45° medial
+- caption: Fig. 4.140 Incidență finală, evidențiind 45° medial
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.140
-    End incidență, evidențiind 45° medial)
+    Incidență finală, evidențiind 45° medial)
   url: assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_2.jpeg
 - caption: Fig. 4.141 medial
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.141
     medial)
   url: assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_3.jpeg
-- caption: Fig. 4.142 medial oblic de drept Cot.
+- caption: Fig. 4.142 oblică medială de cot.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.142
-    medial oblic de drept cot.)
+    oblică medială de cot.)
   url: assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table, cu braț fully extins și Umăr și
-  Cot pe same plan orizontal.; Regiune anatomică: Align braț și Antebraț cu axa longitudinală
-  de receptorul de imagine. Center Cot articulație la raza centrală și la receptorul
-  de imagine. Pronate Mână into natural palmdown poziție și rotate braț ca needed
-  until distal Humerus și anterior surface de Cot sunt rotit 45° (place interepicondylar
-  plane approximately 45° la receptorul de imagine) (Figs. 4.139 și 4.140).'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu brațul complet extins și
+  umărul și cotul în același plan orizontal.; Regiune anatomică: Aliniați brațul și
+  antebrațul cu axa longitudinală a receptorului de imagine. Centrați articulația
+  cotului la nivelul razei centrale și al receptorului de imagine. Pronați mâna în
+  poziție naturală, cu palma în jos, și rotiți brațul după cum este necesar până când
+  humerusul distal și suprafața anterioară a cotului sunt rotite la 45° (plasați planul
+  interepicondilian la aproximativ 45° față de receptorul de imagine) (Fig. 4.139
+  și 4.140).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,17 +50,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'oblic incidență de distal Humerus și proximal radius și ulna este vizibil (Figs.
-  4.141 și 4.142). poziție:'
-- axa longitudinală de braț trebuie să fie aliniat cu side margine de receptorul de
-  imagine.
-- Correct 45° medial oblic trebuie să visualize proces coronoid de ulna în profile.
-- cap radial și neck trebuie să fie superimposed și centrat over proximal ulna.
-- epicondil medial (epitrohlee) și trochlea trebuie să appear elongated și în partial
-  profile.
-- olecran trebuie să appear Poziție Șezândă în olecran fossa și trochlear notch partially
-  open și visualized cu braț fully extins.
-- raza centrală și center de
+- 'Este vizibilă incidența oblică a humerusului distal și a radiusului și ulnei proximale
+  (Fig. 4.141 și 4.142). Poziție:'
+- Axa longitudinală a brațului trebuie aliniată cu marginea laterală a receptorului
+  de imagine.
+- Incidența oblică medială corectă la 45° trebuie să vizualizeze procesul coronoid
+  al ulnei în profil.
+- Capul și colul radial trebuie să fie suprapuse și centrate deasupra ulnei proximale.
+- Epicondilul medial (epitrohleea) și trohleea trebuie să apară alungite și în profil
+  parțial.
+- Olecranul trebuie să apară în fosa olecraniană, iar incizura trohleară trebuie să
+  fie parțial deschisă și vizualizată, cu brațul complet extins.
+- Raza centrală și centrul
 sid_dff: 100 cm
 slug: rx-medial-internal-rotation-ap-oblica-cot-bontrager
 sources:
@@ -61,22 +69,22 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: 'field size trebuie să fie la midelbow articulație. expunere: optim
-    receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize
-    părți moi detail; bony cortical margins; și clear, bony trabecular markings. Cot
-    ROUTINE AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral
-    (extern) medial (intern) lateral Fig. 4.141 medial (intern rotație) oblic. olecran
-    Radius Humerus epicondil medial (epitrohlee) Trochlea cap radial Ulna olecran
-    fossa Trochlear notch proces coronoid de ulna Fig. 4.142 medial oblic de drept
-    Cot.'
+  collimation: 'Dimensiunea câmpului trebuie să fie la nivelul articulației cotului.
+    Expunere: expunerea și contrastul optime ale receptorului de imagine, fără mișcare,
+    trebuie să vizualizeze detaliile părților moi, marginile corticale osoase și traveele
+    osoase clare. Cot DE RUTINĂ AP; AP alternativă—flexie parțială; AP alternativă—flexie
+    acută; oblică laterală (externă); medială (internă); laterală. Fig. 4.141 Incidență
+    oblică medială (rotație internă). Olecran; Radius; Humerus; epicondil medial (epitrohlee);
+    trohlee; cap radial; Ulna; fosa olecraniană; incizura trohleară; procesul coronoid
+    al ulnei. Fig. 4.142 Cot drept, incidență oblică medială.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '65'
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Cot)
+title: Rx AP oblică medială (rotație internă) a cotului
 ---
-# Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Cot)
+# Rx AP oblică medială (rotație internă) a cotului
 
 
 <div class="rx-meta-bar">
@@ -95,23 +103,24 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Cot)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de Cot, primarily proces coronoid
-        - Certain pathologic processes, such ca osteoporosis și arthritis medial (intern rotație) oblic Best visualizes proces coronoid de ulna și trochlea în profile.
+        - Suspiciune de fractură și luxație / subluxație articulară a cotului, în principal a procesului coronoid
+        - Anumite procese patologice, precum osteoporoza și artrita. Incidența oblică medială (rotație internă) evidențiază cel mai bine procesul coronoid al ulnei și trohleea în profil.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu braț fully extins și Umăr și Cot pe same plan orizontal.; Regiune anatomică: Align braț și Antebraț cu axa longitudinală de receptorul de imagine. Center Cot articulație la raza centrală și la receptorul de imagine. Pronate Mână into natural palmdown poziție și rotate braț ca needed until distal Humerus și anterior surface de Cot sunt rotit 45° (place interepicondylar plane approximately 45° la receptorul de imagine) (Figs. 4.139 și 4.140).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la midelbow articulație (approximately ¾ inch [2 cm] distal la midpoint de line între epicondyles ca viewed de la xray tube)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu brațul complet extins și umărul și cotul în același plan orizontal.; Regiune anatomică: Aliniați brațul și antebrațul cu axa longitudinală a receptorului de imagine. Centrați articulația cotului la nivelul razei centrale și al receptorului de imagine. Pronați mâna în poziție naturală, cu palma în jos, și rotiți brațul după cum este necesar până când humerusul distal și suprafața anterioară a cotului sunt rotite la 45° (plasați planul interepicondilian la aproximativ 45° față de receptorul de imagine) (Fig. 4.139 și 4.140).
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, orientat către articulația cotului, la aproximativ ¾ țol [2 cm] distal față de punctul median al liniei dintre epicondili, după cum este vizualizat de la tubul radiogen.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -127,20 +136,20 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Cot)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | field size trebuie să fie la midelbow articulație. expunere: optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize părți moi detail; bony cortical margins; și clear, bony trabecular markings. Cot ROUTINE AP Alternate AP—partial flexion Alternate AP—acute flexion oblic lateral (extern) medial (intern) lateral Fig. 4.141 medial (intern rotație) oblic. olecran Radius Humerus epicondil medial (epitrohlee) Trochlea cap radial Ulna olecran fossa Trochlear notch proces coronoid de ulna Fig. 4.142 medial oblic de drept Cot. |
+    | **Colimare Fascicul** | Dimensiunea câmpului trebuie să fie la nivelul articulației cotului. Expunere: expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie să vizualizeze detaliile părților moi, marginile corticale osoase și traveele osoase clare. Cot DE RUTINĂ AP; AP alternativă—flexie parțială; AP alternativă—flexie acută; oblică laterală (externă); medială (internă); laterală. Fig. 4.141 Incidență oblică medială (rotație internă). Olecran; Radius; Humerus; epicondil medial (epitrohlee); trohlee; cap radial; Ulna; fosa olecraniană; incizura trohleară; procesul coronoid al ulnei. Fig. 4.142 Cot drept, incidență oblică medială. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - oblic incidență de distal Humerus și proximal radius și ulna este vizibil (Figs. 4.141 și 4.142). poziție:
-    - axa longitudinală de braț trebuie să fie aliniat cu side margine de receptorul de imagine.
-    - Correct 45° medial oblic trebuie să visualize proces coronoid de ulna în profile.
-    - cap radial și neck trebuie să fie superimposed și centrat over proximal ulna.
-    - epicondil medial (epitrohlee) și trochlea trebuie să appear elongated și în partial profile.
-    - olecran trebuie să appear Poziție Șezândă în olecran fossa și trochlear notch partially open și visualized cu braț fully extins.
-    - raza centrală și center de
+    - Este vizibilă incidența oblică a humerusului distal și a radiusului și ulnei proximale (Fig. 4.141 și 4.142). Poziție:
+    - Axa longitudinală a brațului trebuie aliniată cu marginea laterală a receptorului de imagine.
+    - Incidența oblică medială corectă la 45° trebuie să vizualizeze procesul coronoid al ulnei în profil.
+    - Capul și colul radial trebuie să fie suprapuse și centrate deasupra ulnei proximale.
+    - Epicondilul medial (epitrohleea) și trohleea trebuie să apară alungite și în profil parțial.
+    - Olecranul trebuie să apară în fosa olecraniană, iar incizura trohleară trebuie să fie parțial deschisă și vizualizată, cu brațul complet extins.
+    - Raza centrală și centrul
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -160,17 +169,17 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Cot)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.139 medial (intern rotație) oblic.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_1.jpeg)
+![Fig. 4.139 Incidență oblică medială (rotație internă).](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.139 medial (intern rotație) oblic.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.139 medial (intern rotație) oblic.)</span></figcaption>
+<figcaption><strong>Fig. 4.139 Incidență oblică medială (rotație internă).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.139 Incidență oblică medială (rotație internă).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.140 End incidență, evidențiind 45° medial](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_2.jpeg)
+![Fig. 4.140 Incidență finală, evidențiind 45° medial](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.140 End incidență, evidențiind 45° medial</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.140 End incidență, evidențiind 45° medial)</span></figcaption>
+<figcaption><strong>Fig. 4.140 Incidență finală, evidențiind 45° medial</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.140 Incidență finală, evidențiind 45° medial)</span></figcaption>
 
 </figure>
 
@@ -184,9 +193,9 @@ title: Rx MEDIAL (INTERNAL) ROTATION AP Oblică (Cot)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.142 medial oblic de drept Cot.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_4.jpeg)
+![Fig. 4.142 oblică medială de cot.](../../assets/images/protocols/bontrager/rx-medial-internal-rotation-ap-oblica-cot-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 4.142 medial oblic de drept Cot.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.142 medial oblic de drept cot.)</span></figcaption>
+<figcaption><strong>Fig. 4.142 oblică medială de cot.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.142 oblică medială de cot.)</span></figcaption>
 
 </figure>
 

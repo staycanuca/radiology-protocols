@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe Humerus, traversing Cot articulație Depending pe grade
-  de flexion, angle raza centrală distally into articulație.
+centering: Perpendicular pe humerus, traversând articulația cotului. În funcție de
+  gradul de flexie, se angulează raza centrală distal, în articulație.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -16,25 +16,29 @@ images:
 - caption: Merrill — pagina 331, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-distal-humerus-incidenta-antero-posterioara-ap-partial-flexion-p328-merrill/p331_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun low enough la place entire Humerus în same plane.
-  Support ridicat Antebraț.; If possible, supinate Mână. Place receptorul de imagine
-  under Cot, centrat pe condyloid area de Humerus (Fig. 5.120). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Se așază pacientul pe un scaun suficient de jos pentru a plasa întregul
+  humerus în același plan. Se susține antebrațul ridicat. Dacă este posibil, se supinează
+  mâna. Se plasează receptorul de imagine sub cot, centrat pe regiunea condiliană
+  a humerusului (Fig. 5.120). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal Humerus fără rotație sau distortion
-- proximal radius superimposed over ulna
-- Closed Cot articulație
-- Greatly foreshortened proximal Antebraț
-- Bony detalii trabeculare osoase de distal Humerus și surrounding soft tissues de
-  Cot
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Humerus distal fără rotație sau distorsiune
+- Radiusul proximal suprapus peste ulna
+- Articulația cotului închisă
+- Antebraț proximal mult scurtat
+- Detalii trabeculare osoase ale humerusului distal și țesuturile moi înconjurătoare
+  ale cotului
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-distal-humerus-incidenta-antero-posterioara-ap-partial-flexion-p328-merrill
 source_pages:
@@ -43,47 +47,48 @@ source_pages:
 - 330
 - 331
 source_sections:
-  anatomy: distal humerus when cot cannot fie fully extins (Figs. 5.121 și 5.122).
-  collimation: • Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la
-    cot articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S)
-    în collimated expunere field.
-  cr: '• perpendicular pe humerus, traversing cot articulație
+  anatomy: Humerus distal când cotul nu poate fi complet extins (Figs. 5.121 și 5.122).
+  collimation: • Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față
+    de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• perpendicular pe humerus, traversând articulația cotului
 
-    • Depending pe grade de flexion, angle raza centrală distally into articulație.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • În funcție de gradul de flexie, se angulează raza centrală distal, în articulație.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar față de anatomia de interes
 
-    • distal humerus fără rotație sau distortion
+    • Humerus distal fără rotație sau distorsiune
 
-    • proximal radius superimposed over ulna
+    • Radius proximal suprapus peste ulnă
 
-    • Closed cot articulație
+    • Articulația cotului închisă
 
-    • Greatly foreshortened proximal forearm
+    • Antebraț proximal mult scurtat
 
-    • Bony detalii trabeculare osoase de distal humerus și surrounding soft tissues
-    de cot'
-  part_pos: '• If possible, supinate mână. Place receptorul de imagine under cot,
-    centrat pe condyloid area de humerus (Fig. 5.120).
+    • Detalii trabeculare osoase ale humerusului distal și țesuturile moi înconjurătoare
+    ale cotului'
+  part_pos: '• Dacă este posibil, se supinează mâna. Se plasează receptorul de imagine
+    sub cot, centrat pe regiunea condiliană a humerusului (Fig. 5.120).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun low enough la place entire humerus în
-    same plane. Support ridicat forearm.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • se așază pacientul pe un scaun suficient de jos pentru a plasa întregul
+    humerus în același plan. Se susține antebrațul ridicat.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 328–331
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot
-    articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate
+  collimation: Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față
+    de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate
     în câmpul colimat.
-title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Partial flexion (Merrill)
+title: Rx humerus distal — Incidență antero-posterioară (AP) — Flexie parțială (Merrill)
 ---
-# Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Partial flexion (Merrill)
+# Rx humerus distal — Incidență antero-posterioară (AP) — Flexie parțială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -107,17 +112,18 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Partial fl
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun low enough la place entire Humerus în same plane. Support ridicat Antebraț.; If possible, supinate Mână. Place receptorul de imagine under Cot, centrat pe condyloid area de Humerus (Fig. 5.120). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Humerus, traversing Cot articulație Depending pe grade de flexion, angle raza centrală distally into articulație.
+    - **Poziție Pacient:** Se așază pacientul pe un scaun suficient de jos pentru a plasa întregul humerus în același plan. Se susține antebrațul ridicat. Dacă este posibil, se supinează mâna. Se plasează receptorul de imagine sub cot, centrat pe regiunea condiliană a humerusului (Fig. 5.120). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe humerus, traversând articulația cotului. În funcție de gradul de flexie, se angulează raza centrală distal, în articulație.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -133,20 +139,20 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Partial fl
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 3 țoli (8 cm) proximal și distal față de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal Humerus fără rotație sau distortion
-    - proximal radius superimposed over ulna
-    - Closed Cot articulație
-    - Greatly foreshortened proximal Antebraț
-    - Bony detalii trabeculare osoase de distal Humerus și surrounding soft tissues de Cot
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Humerus distal fără rotație sau distorsiune
+    - Radiusul proximal suprapus peste ulna
+    - Articulația cotului închisă
+    - Antebraț proximal mult scurtat
+    - Detalii trabeculare osoase ale humerusului distal și țesuturile moi înconjurătoare ale cotului
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,6 +161,7 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Partial fl
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -202,42 +209,3 @@ title: Rx Distal Humerus — Incidență Antero-Posterioară (AP) — Partial fl
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 328–331](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-distal humerus when cot cannot fie fully extins (Figs. 5.121 și 5.122).
-
-### collimation
-
-• Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la cot articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe humerus, traversing cot articulație
-• Depending pe grade de flexion, angle raza centrală distally into articulație.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal humerus fără rotație sau distortion
-• proximal radius superimposed over ulna
-• Closed cot articulație
-• Greatly foreshortened proximal forearm
-• Bony detalii trabeculare osoase de distal humerus și surrounding soft tissues de cot
-
-### part_pos
-
-• If possible, supinate mână. Place receptorul de imagine under cot, centrat pe condyloid area de humerus (Fig. 5.120).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun low enough la place entire humerus în same plane. Support ridicat forearm.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

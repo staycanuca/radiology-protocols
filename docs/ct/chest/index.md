@@ -15,10 +15,14 @@ Protocoale pentru parenchim pulmonar (HRCT), mediastin și tromboembolism pulmon
   </a>
 </div>
 
-## Catalog Protocoale (79 disponibile)
+## Catalog Protocoale (83 disponibile)
 
 | Protocol | Tip Scanare | Sursă / Autor |
 |:---|:---:|:---|
+| [Protocol Angio-CT Torace & Algoritm Suspiciune Embolie Pulmonară în Sarcină (MRG / ACR)](ct-embolie-pulmonara-sarcina-medford.md) | Contrast IV Low-kV | Medford Radiology Group (MRG) / ACR Appropriateness Criteria |
+| [CTA Disecție Aortă Toracică (Protocol Dartmouth Hitchcock)](ct-cta-thorax-dissection-dartmouth.md) | Contrast IV | Dartmouth-Hitchcock Medical Center / Geisel School of Medicine |
+| [CTA Planificare TAVR / TAVI (Protocol Dartmouth Hitchcock)](ct-cta-tavr-dartmouth.md) | Contrast IV | Dartmouth-Hitchcock Medical Center / Geisel School of Medicine |
+| [CT Torace Pectus Excavatum (Protocol Dartmouth Hitchcock)](ct-pectus-excavatum-dartmouth.md) | Nativ | Dartmouth-Hitchcock Medical Center / Geisel School of Medicine |
 | [HRCT Torace Inspir & Expir (Protocol OHSU)](ct-chest-hrct-expiratory-ohsu.md) | Nativ | OHSU Diagnostic Radiology / Departamentul de Radiologie |
 | [CT Torace Nativ & cu Contrast (Protocol OHSU)](ct-chest-routine-w-wo-ohsu.md) | Contrast IV | OHSU Diagnostic Radiology / Departamentul de Radiologie |
 | [CT Torace Extins prin Ficat cu Contrast (Protocol OHSU)](ct-chest-through-liver-ohsu.md) | Contrast IV | OHSU Diagnostic Radiology / Departamentul de Radiologie |
@@ -98,3 +102,21 @@ Protocoale pentru parenchim pulmonar (HRCT), mediastin și tromboembolism pulmon
 | [HRCT Non-Volumetric 3 Faze Respiratorii](non-volumetric-hrct-3-respiratory-phases.md) | Nativ | Departamentul de Radiologie |
 | [CT Cuantificare Densitate Pulmonară (Emfizem)](quantitative-lung-density-ct.md) | Nativ | Departamentul de Radiologie |
 | [HRCT Volumetric 2 Faze Respiratorii (Inspir/Expir)](volumetric-hrct-2-respiratory-phases.md) | Nativ | None |
+
+<!-- mcb-modalities:start -->
+## Documente MCB Radiology
+
+- [Esofagografie](ct-esofagografie-mcb.md) — Protocol
+- [HRCT complet](ct-hrct-complet-mcb.md) — Protocol
+- [HRCT de rutină](ct-hrct-de-rutina-mcb.md) — Protocol
+- [Screening cancer pulmonar](ct-screening-cancer-pulmonar-mcb.md) — Protocol
+- [Torace cu doză redusă](ct-torace-cu-doza-redusa-mcb.md) — Protocol
+- [Torace de rutină](ct-torace-de-rutina-mcb.md) — Protocol
+- [Torace: ION](ct-torace-ion-mcb.md) — Protocol
+- [Torace: Olympus](ct-torace-olympus-mcb.md) — Protocol
+- [Torace: Pulmonx Zephyr](ct-torace-pulmonx-zephyr-mcb.md) — Protocol
+- [Torace: Teton](ct-torace-teton-mcb.md) — Protocol
+- [Torace: VIDA](ct-torace-vida-mcb.md) — Protocol
+- [Torace: Veran](ct-torace-veran-mcb.md) — Protocol
+- [Trahee](ct-trahee-mcb.md) — Protocol
+<!-- mcb-modalities:end -->

@@ -15,6 +15,10 @@ images:
 - caption: Merrill — pagina 1122, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-stomach-and-duodenum-incidenta-de-profil-lateral-right-position-p1119-merrill/p1122_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -129,11 +133,12 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -177,6 +182,7 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -224,48 +230,3 @@ title: Rx Stomac și Duoden (Tranzit Baritat) — Incidență de Profil (Lateral
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1119–1122](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Aspectele anterior și posterior ale stomacului, canalul piloric și bulbul duodenal (Fig. 15.73 și 15.74). Incidența de profil drept oferă de obicei cea mai bună imagine a canalului piloric și a bulbului duodenal la pacienții cu tip constituțional hiperstenic.
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 10 × 12 țoli (24 × 30 cm) pentru pacienții de talie mai mică și să nu depășească 11 × 14 țoli (28 × 35 cm) pentru pacienții de talie mai mare. Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• perpendicular pe centrul receptorului de imagine
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
-• Întregul stomac și ansa duodenală
-• Absența rotației anatomice a pacientului (simetrie bilaterală perfectă), evidențiată prin aspectul vertebrelor
-• Stomacul centrat la nivelul pilorului
-• Penetrarea substanței de contrast
-• Structurile anatomice învecinate
-
-### part_pos
-
-• Cu pacientul în ortostatism sau în decubit, se ajustează poziția corpului astfel încât planul care trece la jumătatea distanței dintre planul mediocoronal și suprafața anterioară a abdomenului să coincidă cu linia mediană a grilei.
-• Se centrează receptorul de imagine la nivelul L1-L2 pentru poziția în decubit (aproximativ 1 la 2 țoli [2.5 la 5 cm] deasupra marginii costale inferioare) și la L3 pentru ortostatism.
-• Se ajustează corpul în poziție de profil strict (Fig. 15.72).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se așază pacientul în ortostatism, în poziție de profil stâng, pentru a evidenția spațiul retrogastric stâng, și în decubit lateral drept pentru a evidenția spațiul retrogastric drept, ansa duodenală și joncțiunea duodenojejunală.
-
-### respirație
-
-Apnee la sfârșitul expirului complet, dacă nu se solicită altfel.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
-

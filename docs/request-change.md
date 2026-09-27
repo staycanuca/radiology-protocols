@@ -1,5 +1,6 @@
 ---
 title: Solicitare Protocol Nou / Modificare
+robots: noindex, follow
 hide:
   - navigation
   

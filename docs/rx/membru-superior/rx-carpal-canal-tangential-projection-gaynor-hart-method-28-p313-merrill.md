@@ -2,127 +2,128 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: orientat la palm de Mână la point approximately 1 inch (2.5 cm) distal
-  la base de third metacarpal și la un unghi de 25 la 30 grade la axa longitudinală
-  de Mână When Pumn (Articulație Radiocarpiană) cannot fie extins la within 15 grade
-  de vertical, Mcļuillen Martensen 30 suСested that raza centrală first fie aliniat
-  paralel cu palmar surface, then înclinat additional 15 grade spre palm. tangențial
-  pe carpal canal la nivelul midpoint de Pumn (Articulație Radiocarpiană)
+centering: orientată spre palma mâinii, într-un punct situat la aproximativ 1 țol
+  (2.5 cm) distal față de baza celui de-al treilea metacarpian și la un unghi de 25
+  la 30 grade față de axa longitudinală a mâinii. Când pumnul nu poate fi extins până
+  la 15 grade față de verticală, McClüillen Martensen 30 a sugerat ca raza centrală
+  să fie mai întâi aliniată paralel cu suprafața palmară, apoi înclinată cu încă 15
+  grade spre palmă. tangențial pe canalul carpian la nivelul punctului median al pumnului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 314, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-carpal-canal-tangential-projection-gaynor-hart-method-28-p313-merrill/p314_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică astfel încât Antebraț
-  poate fie ajustat la lie paralel cu axa longitudinală de masa de examinare. When
-  pacientul cannot assume sau maintain previously described Pumn (Articulație Radiocarpiană)
-  poziție, similar imagine poate fie obtained. Se instruiește pacientul să dorsiflex
-  Pumn (Articulație Radiocarpiană) ca much ca este tolerable și lean forward la place
-  carpal canal tangent la receptorul de imagine (Fig. 5.102). canal este easily palpable
-  pe palmar aspect de Pumn (Articulație Radiocarpiană) ca concavity între trapezium
-  laterally și hook de hamate și pisiform medially.; Hyperextend Pumn (Articulație
-  Radiocarpiană). se centrează receptorul de imagine la articulație la nivelul radial
-  styloid process. pentru support, thin radiolucent pad poate fie plasat under lower
-  Antebraț. se ajustează poziție de Mână la make its axa longitudinală ca vertical
-  ca possible. la prevent superimposition de shadows de hamate și pisiform bones,
-  se rotește Mână slightly spre radial side. Se instruiește pacientul să grasp falange
-  cu opposite Mână sau use suitable device la hold Pumn (Articulație Radiocarpiană)
-  în extins poziție (Fig. 5.100). se efectuează ecranarea gonadelor cu șorț plumbat.
-  When dorsiflexion de Pumn (Articulație Radiocarpiană) este limited, Marshall 31
-  suСested placing a 45-grade angle sponge under palmar surface de Mână. sponge slightly
-  elevates Pumn (Articulație Radiocarpiană) la place carpal canal tangent la raza
-  centrală. slight grade de magnification exists because de increased object-la-receptorul
-  de imagine distance (OID) (Fig. 5.103).
+position: Așezați pacientul pe scaun la capătul mesei radiologice, astfel încât antebrațul
+  să poată fi ajustat pentru a sta paralel cu axa longitudinală a mesei de examinare.
+  Când pacientul nu poate adopta sau menține poziția pumnului descrisă anterior, se
+  poate obține o imagine similară. Instruiți pacientul să dorsiflecteze pumnul cât
+  de mult este tolerabil și să se aplece înainte pentru a plasa canalul carpian tangent
+  pe receptorul de imagine (Fig. 5.102). Canalul este ușor palpabil pe aspectul palmar
+  al pumnului, ca o concavitate între trapez, lateral, și cârligul osului hamat și
+  pisiform, medial. Hiperextindeți pumnul. Centrați receptorul de imagine la articulație,
+  la nivelul procesului stiloid radial. Pentru susținere, se poate plasa un suport
+  subțire radiotransparent sub antebrațul distal. Ajustați poziția mâinii pentru ca
+  axa sa longitudinală să fie cât mai verticală posibil. Pentru a preveni suprapunerea
+  umbrelor oaselor hamat și pisiform, rotiți ușor mâna spre partea radială. Instruiți
+  pacientul să prindă falangele cu mâna opusă sau să utilizeze un dispozitiv adecvat
+  pentru a menține pumnul în poziție extinsă (Fig. 5.100). Se efectuează ecranarea
+  gonadelor cu șorț plumbat. Când dorsiflexia pumnului este limitată, Marshall 31
+  a sugerat plasarea unui burete în unghi de 45 grade sub suprafața palmară a mâinii.
+  Buretele ridică ușor pumnul pentru a plasa canalul carpian tangent față de raza
+  centrală. Există un grad ușor de mărire din cauza distanței crescute obiect–receptor
+  de imagine (OID) (Fig. 5.103).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'cu either approach, Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- oase carpiene în arch arrangement
-- Pisiform în profile și liber de superimposition
-- Hamulus de hamate
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'cu oricare dintre cele două abordări, criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- oasele carpiene dispuse în arc
+- Pisiformul în profil și liber de suprapunere
+- Hamulusul osului hamat
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-carpal-canal-tangential-projection-gaynor-hart-method-28-p313-merrill
 source_pages:
 - 313
 - 314
 source_sections:
-  anatomy: 'This imagine de carpal canal (carpal tunnel) shows palmar aspect de trapezium;
-    tubercle de trapezium; și scaphoid, capitate,
+  anatomy: Această imagine a canalului carpian evidențiază aspectul palmar al trapezului;
+    tuberculul trapezului; precum și scafoidul, capitatul, cârligul osului hamat,
+    triquetrumul și pisiformul în întregime (Fig. 5.101).
+  collimation: '• Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe cele trei laturi
+    ale umbrei pumnului. Se plasează markerul de lateralitate în câmpul colimat.
 
-    hook de hamate, triquetrum, și entire pisiform (Fig. 5.101).'
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe three sides de shadow
-    de wrist. Se plasează markerul de lateralitate în câmpul colimat.
+    • Ajustați câmpul de iradiere pentru a include aspectul palmar al pumnului, treimea
+    proximală a oaselor metacarpiene și 1 țol (2.5 cm) pe laturi. Plasați markerul
+    lateral în câmpul de expunere colimat.'
+  cr: '• orientată spre palma mâinii, într-un punct situat la aproximativ 1 țol (2.5
+    cm) distal față de baza celui de-al treilea metacarpian și la un unghi de 25 la
+    30 grade față de axa longitudinală a mâinii
 
-    • Adjust câmp de iradiere la include palmar aspect de wrist, proximal one-third
-    de oase metacarpiene, și 1 inch (2.5 cm) pe sides. Place side
+    • Când pumnul nu poate fi extins până la 15 grade față de verticală, McClüillen
+    Martensen 30 a sugerat ca raza centrală să fie mai întâi aliniată paralel cu suprafața
+    palmară, apoi înclinată cu încă 15 grade spre palmă.
 
-    marker în collimated expunere field.'
-  cr: '• orientat la palm de mână la point approximately 1 inch (2.5 cm) distal la
-    base de third metacarpal și la un unghi de 25
+    • tangențial pe canalul carpian la nivelul punctului median al pumnului'
+  criteria: 'cu oricare dintre cele două abordări, criterii radiologice de calitate
+    a imaginii:
 
-    la 30 grade la axa longitudinală de mână
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • When wrist cannot fie extins la within 15 grade de vertical, Mcļuillen Martensen
-    30 suСested that raza centrală first fie aliniat
+    • oasele carpiene dispuse în arc
 
-    paralel cu palmar surface, then înclinat additional 15 grade spre palm.
+    • pisiformul în profil și liber de suprapunere
 
-    • tangențial pe carpal canal la nivelul midpoint de wrist'
-  criteria: 'cu either approach, Criterii radiologice de calitate imaginii:
+    • hamulusul osului hamat
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • detalii osoase trabeculare și țesuturile moi adiacente'
+  part_pos: '• Hiperextindeți pumnul. Centrați receptorul de imagine la articulație,
+    la nivelul procesului stiloid radial.
 
-    • oase carpiene în arch arrangement
+    • Pentru susținere, se poate plasa un suport subțire radiotransparent sub antebrațul
+    distal.
 
-    • Pisiform în profile și liber de superimposition
+    • Ajustați poziția mâinii pentru ca axa sa longitudinală să fie cât mai verticală
+    posibil.
 
-    • Hamulus de hamate
+    • Pentru a preveni suprapunerea umbrelor oaselor hamat și pisiform, rotiți ușor
+    mâna spre partea radială.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Hyperextend wrist. se centrează receptorul de imagine la articulație
-    la nivelul radial styloid process.
+    • Instruiți pacientul să prindă falangele cu mâna opusă sau să utilizeze un dispozitiv
+    adecvat pentru a menține pumnul în poziție extinsă (Fig. 5.100).
 
-    • pentru support, thin radiolucent pad poate fie plasat under lower forearm.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.
 
-    • se ajustează poziție de mână la make its axa longitudinală ca vertical ca possible.
+    • Când dorsiflexia pumnului este limitată, Marshall 31 a sugerat plasarea unui
+    burete în unghi de 45 grade sub suprafața palmară a mâinii.
 
-    • la prevent superimposition de shadows de hamate și pisiform bones, se rotește
-    mână slightly spre radial side.
+    Buretele ridică ușor pumnul pentru a plasa canalul carpian tangent față de raza
+    centrală. Există un grad ușor de mărire din cauza distanței crescute obiect–receptor
+    de imagine (OID) (Fig. 5.103).'
+  patient_pos: '• Așezați pacientul pe scaun la capătul mesei radiologice, astfel
+    încât antebrațul să poată fi ajustat pentru a sta paralel cu axa longitudinală
+    a mesei de examinare.
 
-    • Se instruiește pacientul să grasp falange cu opposite mână sau use suitable
-    device la hold wrist în extins poziție (Fig. 5.100).
+    • Când pacientul nu poate adopta sau menține poziția pumnului descrisă anterior,
+    se poate obține o imagine similară.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.
-
-    • When dorsiflexion de wrist este limited, Marshall 31 suСested placing a 45-grade
-    angle sponge under palmar surface de mână.
-
-    sponge slightly elevates wrist la place carpal canal tangent la raza centrală.
-    slight grade de magnification exists because de
-
-    increased object-la-receptorul de imagine distance (OID) (Fig. 5.103).'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică astfel încât
-    forearm poate fie ajustat la lie paralel cu axa longitudinală de masa de examinare.
-
-    • When pacientul cannot assume sau maintain previously described wrist poziție,
-    similar imagine poate fie obtained.
-
-    • Se instruiește pacientul să dorsiflex wrist ca much ca este tolerable și lean
-    forward la place carpal canal tangent la receptorul de imagine (Fig. 5.102). canal
-    este easily palpable pe palmar aspect de wrist ca concavity între trapezium laterally
-    și hook de hamate și
-
-    pisiform medially.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
+    • Instruiți pacientul să dorsiflecteze pumnul cât de mult este tolerabil și să
+    se aplece înainte pentru a plasa canalul carpian tangent pe receptorul de imagine
+    (Fig. 5.102). Canalul este ușor palpabil pe aspectul palmar al pumnului, ca o
+    concavitate între trapez, lateral, și cârligul osului hamat și pisiform, medial.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a anatomiei; receptor de imagine plat: 10 × 12 țoli (24 × 30
+    cm), longitudinal.
 
     Inferosuperior'
 sources:
@@ -130,14 +131,14 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe three sides de shadow
-    de Pumn (Articulație Radiocarpiană). Se plasează markerul de lateralitate în câmpul
-    colimat. Adjust câmp de iradiere la include palmar aspect de Pumn (Articulație
-    Radiocarpiană), proximal one-third de oase metacarpiene, și 1 inch (2.5 cm) pe
-    sides. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Merrill)
+  collimation: Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe cele trei laturi ale
+    umbrei pumnului. Se plasează markerul de lateralitate în câmpul colimat. Ajustați
+    câmpul de iradiere pentru a include aspectul palmar al pumnului, treimea proximală
+    a oaselor metacarpiene și 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate
+    în câmpul colimat.
+title: Rx canal carpian — incidență tangențială — metoda Gaynor-Hart 28 (Merrill)
 ---
-# Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Merrill)
+# Rx canal carpian — incidență tangențială — metoda Gaynor-Hart 28 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -161,17 +162,18 @@ title: Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Mer
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică astfel încât Antebraț poate fie ajustat la lie paralel cu axa longitudinală de masa de examinare. When pacientul cannot assume sau maintain previously described Pumn (Articulație Radiocarpiană) poziție, similar imagine poate fie obtained. Se instruiește pacientul să dorsiflex Pumn (Articulație Radiocarpiană) ca much ca este tolerable și lean forward la place carpal canal tangent la receptorul de imagine (Fig. 5.102). canal este easily palpable pe palmar aspect de Pumn (Articulație Radiocarpiană) ca concavity între trapezium laterally și hook de hamate și pisiform medially.; Hyperextend Pumn (Articulație Radiocarpiană). se centrează receptorul de imagine la articulație la nivelul radial styloid process. pentru support, thin radiolucent pad poate fie plasat under lower Antebraț. se ajustează poziție de Mână la make its axa longitudinală ca vertical ca possible. la prevent superimposition de shadows de hamate și pisiform bones, se rotește Mână slightly spre radial side. Se instruiește pacientul să grasp falange cu opposite Mână sau use suitable device la hold Pumn (Articulație Radiocarpiană) în extins poziție (Fig. 5.100). se efectuează ecranarea gonadelor cu șorț plumbat. When dorsiflexion de Pumn (Articulație Radiocarpiană) este limited, Marshall 31 suСested placing a 45-grade angle sponge under palmar surface de Mână. sponge slightly elevates Pumn (Articulație Radiocarpiană) la place carpal canal tangent la raza centrală. slight grade de magnification exists because de increased object-la-receptorul de imagine distance (OID) (Fig. 5.103).
-    - **Punct de Centrare Fascicul:** orientat la palm de Mână la point approximately 1 inch (2.5 cm) distal la base de third metacarpal și la un unghi de 25 la 30 grade la axa longitudinală de Mână When Pumn (Articulație Radiocarpiană) cannot fie extins la within 15 grade de vertical, Mcļuillen Martensen 30 suСested that raza centrală first fie aliniat paralel cu palmar surface, then înclinat additional 15 grade spre palm. tangențial pe carpal canal la nivelul midpoint de Pumn (Articulație Radiocarpiană)
+    - **Poziție Pacient:** Așezați pacientul pe scaun la capătul mesei radiologice, astfel încât antebrațul să poată fi ajustat pentru a sta paralel cu axa longitudinală a mesei de examinare. Când pacientul nu poate adopta sau menține poziția pumnului descrisă anterior, se poate obține o imagine similară. Instruiți pacientul să dorsiflecteze pumnul cât de mult este tolerabil și să se aplece înainte pentru a plasa canalul carpian tangent pe receptorul de imagine (Fig. 5.102). Canalul este ușor palpabil pe aspectul palmar al pumnului, ca o concavitate între trapez, lateral, și cârligul osului hamat și pisiform, medial. Hiperextindeți pumnul. Centrați receptorul de imagine la articulație, la nivelul procesului stiloid radial. Pentru susținere, se poate plasa un suport subțire radiotransparent sub antebrațul distal. Ajustați poziția mâinii pentru ca axa sa longitudinală să fie cât mai verticală posibil. Pentru a preveni suprapunerea umbrelor oaselor hamat și pisiform, rotiți ușor mâna spre partea radială. Instruiți pacientul să prindă falangele cu mâna opusă sau să utilizeze un dispozitiv adecvat pentru a menține pumnul în poziție extinsă (Fig. 5.100). Se efectuează ecranarea gonadelor cu șorț plumbat. Când dorsiflexia pumnului este limitată, Marshall 31 a sugerat plasarea unui burete în unghi de 45 grade sub suprafața palmară a mâinii. Buretele ridică ușor pumnul pentru a plasa canalul carpian tangent față de raza centrală. Există un grad ușor de mărire din cauza distanței crescute obiect–receptor de imagine (OID) (Fig. 5.103).
+    - **Punct de Centrare Fascicul:** orientată spre palma mâinii, într-un punct situat la aproximativ 1 țol (2.5 cm) distal față de baza celui de-al treilea metacarpian și la un unghi de 25 la 30 grade față de axa longitudinală a mâinii. Când pumnul nu poate fi extins până la 15 grade față de verticală, McClüillen Martensen 30 a sugerat ca raza centrală să fie mai întâi aliniată paralel cu suprafața palmară, apoi înclinată cu încă 15 grade spre palmă. tangențial pe canalul carpian la nivelul punctului median al pumnului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -187,19 +189,19 @@ title: Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Mer
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe three sides de shadow de Pumn (Articulație Radiocarpiană). Se plasează markerul de lateralitate în câmpul colimat. Adjust câmp de iradiere la include palmar aspect de Pumn (Articulație Radiocarpiană), proximal one-third de oase metacarpiene, și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe cele trei laturi ale umbrei pumnului. Se plasează markerul de lateralitate în câmpul colimat. Ajustați câmpul de iradiere pentru a include aspectul palmar al pumnului, treimea proximală a oaselor metacarpiene și 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - cu either approach, Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - oase carpiene în arch arrangement
-    - Pisiform în profile și liber de superimposition
-    - Hamulus de hamate
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - cu oricare dintre cele două abordări, criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - oasele carpiene dispuse în arc
+    - Pisiformul în profil și liber de suprapunere
+    - Hamulusul osului hamat
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -208,6 +210,7 @@ title: Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Mer
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -239,58 +242,3 @@ title: Rx Carpal Canal — Tangential Incidență — Gaynor-Hart Method 28 (Mer
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 313–314](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This imagine de carpal canal (carpal tunnel) shows palmar aspect de trapezium; tubercle de trapezium; și scaphoid, capitate,
-hook de hamate, triquetrum, și entire pisiform (Fig. 5.101).
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe three sides de shadow de wrist. Se plasează markerul de lateralitate în câmpul colimat.
-• Adjust câmp de iradiere la include palmar aspect de wrist, proximal one-third de oase metacarpiene, și 1 inch (2.5 cm) pe sides. Place side
-marker în collimated expunere field.
-
-### cr
-
-• orientat la palm de mână la point approximately 1 inch (2.5 cm) distal la base de third metacarpal și la un unghi de 25
-la 30 grade la axa longitudinală de mână
-• When wrist cannot fie extins la within 15 grade de vertical, Mcļuillen Martensen 30 suСested that raza centrală first fie aliniat
-paralel cu palmar surface, then înclinat additional 15 grade spre palm.
-• tangențial pe carpal canal la nivelul midpoint de wrist
-
-### criteria
-
-cu either approach, Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• oase carpiene în arch arrangement
-• Pisiform în profile și liber de superimposition
-• Hamulus de hamate
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Hyperextend wrist. se centrează receptorul de imagine la articulație la nivelul radial styloid process.
-• pentru support, thin radiolucent pad poate fie plasat under lower forearm.
-• se ajustează poziție de mână la make its axa longitudinală ca vertical ca possible.
-• la prevent superimposition de shadows de hamate și pisiform bones, se rotește mână slightly spre radial side.
-• Se instruiește pacientul să grasp falange cu opposite mână sau use suitable device la hold wrist în extins poziție (Fig. 5.100).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-• When dorsiflexion de wrist este limited, Marshall 31 suСested placing a 45-grade angle sponge under palmar surface de mână.
-sponge slightly elevates wrist la place carpal canal tangent la raza centrală. slight grade de magnification exists because de
-increased object-la-receptorul de imagine distance (OID) (Fig. 5.103).
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică astfel încât forearm poate fie ajustat la lie paralel cu axa longitudinală de masa de examinare.
-• When pacientul cannot assume sau maintain previously described wrist poziție, similar imagine poate fie obtained.
-• Se instruiește pacientul să dorsiflex wrist ca much ca este tolerable și lean forward la place carpal canal tangent la receptorul de imagine (Fig. 5.102). canal este easily palpable pe palmar aspect de wrist ca concavity între trapezium laterally și hook de hamate și
-pisiform medially.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-Inferosuperior
-

@@ -31,6 +31,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 13.56
     Compresie manuală a regiunii valvei ileocecale.)
   url: assets/images/protocols/bontrager/rx-tranzit-intestinal-baritat-pa-postero-anterior-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Cronometrarea începe odată cu ingestia de bariu. Intervalele de timp dintre
@@ -117,11 +121,12 @@ title: Rx Tranzit Intestinal Baritat PA (Postero-Anterior)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -167,6 +172,7 @@ title: Rx Tranzit Intestinal Baritat PA (Postero-Anterior)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Cronometrarea începe odată cu ingestia de bariu. Intervalele de timp dintre radiografii depind de timpul de tranzit al preparatului de bariu utilizat și de protocolul departamentului. Pentru prima radiografie, la 30 de minute, centrați sus pentru a include întregul stomac. Radiografiile ulterioare se efectuează la intervale de 30 de minute, până când bariul ajunge în intestinul gros (colon) (de obicei 2 ore). Examinarea se încheie, în general, când substanța de contrast ajunge în cec sau în colonul ascendent. Fluoroscopia și radiografiile țintite ale valvei ileocecale și ale ileonului terminal după ce bariul ajunge în această zonă sunt incluse frecvent în examinarea de rutină a tranzitului intestinal baritat. Această procedură este stabilită în funcție de preferința medicului care efectuează fluoroscopia și de protocoalele departamentului (Fig. 13.56). Tranzit Intestinal Baritat DE RUTINĂ PA (la fiecare 15 până la 30 de minute) enterocliză și intubație Fig. 13.54 PA—15 sau 30 de minute—centrat la aproximativ 2 țoli (5 cm) deasupra crestei iliace (corespunzător L4-L5). Fig. 13.55 PA—la fiecare oră, centrat pe creasta iliacă (corespunzător L4-L5). 30 min.

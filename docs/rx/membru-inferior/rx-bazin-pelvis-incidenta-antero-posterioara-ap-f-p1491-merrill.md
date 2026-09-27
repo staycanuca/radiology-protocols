@@ -1,28 +1,32 @@
 ---
 author: Referință Merrill
-breathing: Suspended.
+breathing: Suspendat.
 category: membru-inferior
-centering: perpendicular pe midpoint de grila, entering planul mediosagital. raza
-  centrală trebuie să enter pacientul 2 inches (5 cm) above simfiză pubiană și 2 inches
-  (5 cm) below spină iliacă antero-superioară (SIAS).
+centering: Perpendicular pe punctul median al grilei, intrând în planul mediosagital.
+  Raza centrală trebuie să intre în pacient la 2 țoli (5 cm) deasupra simfizei pubiene
+  și la 2 țoli (5 cm) sub spina iliacă antero-superioară (SIAS).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 1492, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-incidenta-antero-posterioara-ap-f-p1491-merrill/p1492_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se ajustează pacient’s bed horizontally astfel încât pacient este în Decubit
-  dorsal poziție. Move pacientul’s brațe out de region de Bazin (bazin (pelvis)).;
-  poziție grila under Bazin (bazin (pelvis)) astfel încât center este midway între
-  spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) și
-  simfiză pubiană. This este about 2 inches (5 cm) inferior la spină iliacă antero-superioară
-  (SIAS) și 2 inches (5 cm) superior la simfiză pubiană. Se centrează planul mediosagital
-  al pacientului pe linia mediană grilei antidifuzoare. Bazin (bazin (pelvis)) trebuie
-  să nu fie rotit. se rotește pacient’s membre inferioare medially approximately 15
-  grade when nu contraindicated (Fig. 20.18).
+position: Se ajustează patul pacientului orizontal, astfel încât pacientul să fie
+  în poziție de decubit dorsal. Se îndepărtează brațele pacientului din regiunea bazinului.
+  Se poziționează grila sub bazin, astfel încât centrul să fie la jumătatea distanței
+  dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană. Aceasta este la
+  aproximativ 2 țoli (5 cm) inferior față de spina iliacă antero-superioară (SIAS)
+  și la 2 țoli (5 cm) superior față de simfiza pubiană. Se centrează planul mediosagital
+  al pacientului pe linia mediană a grilei antidifuzoare. Bazinul nu trebuie să fie
+  rotit. Se rotesc medial membrele inferioare ale pacientului aproximativ 15 grade
+  atunci când nu există contraindicații (Fig. 20.18).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -33,40 +37,39 @@ source_pages:
 - 1491
 - 1492
 source_sections:
-  anatomy: This incidență shows bazinul, including ambele hip bones; sacru și coccis;
-    și capul, neck, trochanters, și proximal portion de femora (Fig. 20.19).
-  collimation: • Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
-  cr: '• perpendicular pe midpoint de grila, entering planul mediosagital. raza centrală
-    trebuie să enter pacientul 2 inches (5 cm) above
+  anatomy: Această incidență evidențiază bazinul, inclusiv ambele oase coxale; sacrul
+    și coccisul; precum și capul, colul, trohanterii și porțiunea proximală a femurelor
+    (Fig. 20.19).
+  collimation: • Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
+  cr: • Perpendicular pe punctul median al grilei, intrând în planul mediosagital.
+    Raza centrală trebuie să intre în pacient la 2 țoli (5 cm) deasupra simfizei pubiene
+    și la 2 țoli (5 cm) sub spina iliacă antero-superioară (SIAS).
+  part_pos: '• Se poziționează grila sub bazin, astfel încât centrul să fie la jumătatea
+    distanței dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană. Aceasta
+    este la aproximativ 2 țoli (5 cm) inferior față de spina iliacă antero-superioară
+    (SIAS) și la 2 țoli (5 cm) superior față de simfiza pubiană.
 
-    simfiză pubiană și 2 inches (5 cm) below spină iliacă antero-superioară (SIAS).'
-  part_pos: '• poziție grila under bazinul astfel încât center este midway între spină
-    iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) și pubic
+    • Se centrează planul mediosagital al pacientului pe linia mediană a grilei antidifuzoare.
+    Bazinul nu trebuie să fie rotit.
 
-    simfiză. This este about 2 inches (5 cm) inferior la spină iliacă antero-superioară
-    (SIAS) și 2 inches (5 cm) superior la simfiză pubiană.
+    • Se rotesc medial membrele inferioare ale pacientului aproximativ 15 grade atunci
+    când nu există contraindicații (Fig. 20.18).'
+  patient_pos: '• Se ajustează patul pacientului orizontal, astfel încât pacientul
+    să fie în decubit dorsal.
 
-    • Se centrează planul mediosagital al pacientului pe linia mediană grilei antidifuzoare.
-    bazinul trebuie să nu fie rotit.
-
-    • se rotește pacient’s membre inferioare medially approximately 15 grade when
-    nu contraindicated (Fig. 20.18).'
-  patient_pos: '• se ajustează pacient’s bed horizontally astfel încât pacient este
-    în decubit dorsal.
-
-    • Move pacientul’s brațe out de region de bazinul.'
-  respiration: Suspended.
-  tech: receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu grilă
-    transversal.
+    • Se îndepărtează brațele pacientului din regiunea bazinului.'
+  respiration: Suspendat.
+  tech: Receptorul de imagine trebuie să fie de 14 × 17 țoli (35 × 43 cm), cu grilă
+    transversală.
 sources:
 - title: Merrill’s Atlas, 20. Mobile Radiography, pagini 1491–1492
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
-title: Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
+  collimation: Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm).
+title: Rx bazin (pelvis) — incidență antero-posterioară (AP) f (Merrill)
 ---
-# Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
+# Rx bazin (pelvis) — incidență antero-posterioară (AP) f (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -90,19 +93,20 @@ title: Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se ajustează pacient’s bed horizontally astfel încât pacient este în Decubit dorsal poziție. Move pacientul’s brațe out de region de Bazin (bazin (pelvis)).; poziție grila under Bazin (bazin (pelvis)) astfel încât center este midway între spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) și simfiză pubiană. This este about 2 inches (5 cm) inferior la spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) superior la simfiză pubiană. Se centrează planul mediosagital al pacientului pe linia mediană grilei antidifuzoare. Bazin (bazin (pelvis)) trebuie să nu fie rotit. se rotește pacient’s membre inferioare medially approximately 15 grade when nu contraindicated (Fig. 20.18).
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de grila, entering planul mediosagital. raza centrală trebuie să enter pacientul 2 inches (5 cm) above simfiză pubiană și 2 inches (5 cm) below spină iliacă antero-superioară (SIAS).
+    - **Poziție Pacient:** Se ajustează patul pacientului orizontal, astfel încât pacientul să fie în poziție de decubit dorsal. Se îndepărtează brațele pacientului din regiunea bazinului. Se poziționează grila sub bazin, astfel încât centrul să fie la jumătatea distanței dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană. Aceasta este la aproximativ 2 țoli (5 cm) inferior față de spina iliacă antero-superioară (SIAS) și la 2 țoli (5 cm) superior față de simfiza pubiană. Se centrează planul mediosagital al pacientului pe linia mediană a grilei antidifuzoare. Bazinul nu trebuie să fie rotit. Se rotesc medial membrele inferioare ale pacientului aproximativ 15 grade atunci când nu există contraindicații (Fig. 20.18).
+    - **Punct de Centrare Fascicul:** Perpendicular pe punctul median al grilei, intrând în planul mediosagital. Raza centrală trebuie să intre în pacient la 2 țoli (5 cm) deasupra simfizei pubiene și la 2 țoli (5 cm) sub spina iliacă antero-superioară (SIAS).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Suspended.
+    - **Comandă Respiratorie:** Suspendat.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -116,7 +120,7 @@ title: Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust la 14 × 17 inches (35 × 43 cm) pe collimator. |
+    | **Colimare Fascicul** | Se reglează colimatorul la 14 × 17 inchi (35 × 43 cm). |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -132,6 +136,7 @@ title: Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -163,39 +168,3 @@ title: Rx Bazin (Pelvis) — Incidență Antero-Posterioară (AP) f (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 20. Mobile Radiography, pagini 1491–1492](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This incidență shows bazinul, including ambele hip bones; sacru și coccis; și capul, neck, trochanters, și proximal portion de femora (Fig. 20.19).
-
-### collimation
-
-• Adjust la 14 × 17 inches (35 × 43 cm) pe collimator.
-
-### cr
-
-• perpendicular pe midpoint de grila, entering planul mediosagital. raza centrală trebuie să enter pacientul 2 inches (5 cm) above
-simfiză pubiană și 2 inches (5 cm) below spină iliacă antero-superioară (SIAS).
-
-### part_pos
-
-• poziție grila under bazinul astfel încât center este midway între spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) și pubic
-simfiză. This este about 2 inches (5 cm) inferior la spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) superior la simfiză pubiană.
-• Se centrează planul mediosagital al pacientului pe linia mediană grilei antidifuzoare. bazinul trebuie să nu fie rotit.
-• se rotește pacient’s membre inferioare medially approximately 15 grade when nu contraindicated (Fig. 20.18).
-
-### patient_pos
-
-• se ajustează pacient’s bed horizontally astfel încât pacient este în decubit dorsal.
-• Move pacientul’s brațe out de region de bazinul.
-
-### respiration
-
-Suspended.
-
-### tech
-
-receptorul de imagine trebuie să fie 14 × 17 inches (35 × 43 cm) cu grilă transversal.
-

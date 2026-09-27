@@ -1,48 +1,53 @@
 ---
 author: Departamentul de Radiologie / Referință Clark (Ed. 12)
-breathing: expunere este made pe arrested respirație
+breathing: Expunerea se efectuează în apnee.
 category: membru-superior
-centering: • raza centrală este orientat la drept-angles la Humerus și centred la
-  capul de Humerus.
+centering: • Raza centrală este orientată perpendicular pe humerus și centrată pe
+  capul humerusului.
 clinical_indications:
-- "Two incidențe la drept-angles sunt necessary: anteroposterior și Axială sau Profil\
-  \ (lateral) incidență. Movement de braț poate fie limited, și technique poate need\
-  \ la fie modified accordingly. Where possible, supporting sling trebuie să fie removed.\
-  \ Depending pe condition de pacientul, examination poate fie undertaken cu pacientul\
-  \ Ortostatism, providing adecvat imobilizare este used, Decubit dorsal pe masa radiologică,\
-  \ sau, în cases de multiple trauma, pe trolley. expunere este made pe arrested respirație.\
-  \ A 24 \x02 30-cm casetă fitted cu regular-speed screen este used. Antero-posterior\
-  \ (AP)"
+- 'Sunt necesare două incidențe la unghi drept: anteroposterioară și axială sau de
+  profil (laterală). Mișcarea brațului poate fi limitată, iar tehnica poate necesita
+  modificări corespunzătoare. Atunci când este posibil, eșarfa de susținere trebuie
+  îndepărtată. În funcție de starea pacientului, examinarea poate fi efectuată cu
+  pacientul în ortostatism, cu imobilizare adecvată, în decubit dorsal pe masa radiologică
+  sau, în cazurile de politraumatism, pe targa mobilă. Expunerea se efectuează în
+  apnee. Se utilizează o casetă de 24 × 30 cm prevăzută cu ecran de viteză normală.
+  Anteroposterioară (AP)'
 images:
-- caption: most common reason pentru radiografie de gâtul de the
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Cel mai frecvent motiv pentru efectuarea unei radiografii a colului humerusului
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_1.jpeg
-- caption: Humerus este suspected suspiciune de fractură, either pathological sau
-    traumatic.
+- caption: Humerusul prezintă suspiciune de fractură, fie patologică, fie traumatică.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_2.jpeg
-- caption: Antero-posterior (AP) radiografie de neck de Humerus taken Ortostatism
-    la show
+- caption: Radiografie anteroposterioară (AP) a colului humerusului, efectuată în
+    ortostatism, pentru evidențierea
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• expunere trebuie să fie made pe arrested respirație.
+notes: '• Expunerea trebuie efectuată în apnee.
 
-  • pacientul trebuie să se imobilizează affected Antebraț (Radius și Ulna) prin supporting
-  its weight cu other braț. If pacientul este Decubit dorsal, săculeți cu nisip trebuie
-  să fie plasat over Antebraț (Radius și Ulna).
+  • Pacientul trebuie să imobilizeze antebrațul afectat (radiusul și ulna), susținându-i
+  greutatea cu celălalt braț. Dacă pacientul este în decubit dorsal, trebuie așezați
+  saci cu nisip peste antebrațul afectat (radiusul și ulna).
 
-  74 Antero-posterior (AP) radiografie de neck de Humerus taken Ortostatism la show
-  suspiciune de fractură de gâtul de Humerus'
-position: '• pacientul stă în ortostatism sau lies Decubit dorsal facing X-ray tube.
+  74 Radiografie anteroposterioară (AP) a colului humerusului, efectuată în ortostatism,
+  pentru evidențierea suspiciunii de fractură a colului humerusului'
+position: '• Pacientul stă în ortostatism sau este culcat în decubit dorsal, cu fața
+  spre tubul radiologic.
 
-  • pacientul este rotit spre partea afectată la bring posterior aspect de injured
-  Umăr into contact cu linia mediană casetă.
+  • Pacientul este rotit spre partea afectată pentru a aduce aspectul posterior al
+  umărului lezat în contact cu linia mediană a casetei.
 
-  • caseta este poziționat pentru include acromion și proximal half de Humerus.'
+  • Caseta este poziționată pentru a include acromionul și jumătatea proximală a humerusului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,8 +56,8 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include acromion și proximal half de shaft de Humerus.
-- expunere trebuie să evidențiază adequately gâtul de Humerus clear de Torace.
+- Imaginea trebuie să includă acromionul și jumătatea proximală a diafizei humerusului.
+- Expunerea trebuie să evidențieze adecvat colul humerusului, clar separat de torace.
 sid_dff: 100 cm
 slug: rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark
 sources:
@@ -61,14 +66,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Humerus Proximal (Col Chirurgical) Antero-Posterior (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Rx humerus proximal (col chirurgical) anteroposterioară (AP)
 ---
-# Rx Humerus Proximal (Col Chirurgical) Antero-Posterior (AP)
+# Rx humerus proximal (col chirurgical) anteroposterioară (AP)
 
 
 <div class="rx-meta-bar">
@@ -87,26 +92,28 @@ title: Rx Humerus Proximal (Col Chirurgical) Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - Two incidențe la drept-angles sunt necessary: anteroposterior și Axială sau Profil (lateral) incidență. Movement de braț poate fie limited, și technique poate need la fie modified accordingly. Where possible, supporting sling trebuie să fie removed. Depending pe condition de pacientul, examination poate fie undertaken cu pacientul Ortostatism, providing adecvat imobilizare este used, Decubit dorsal pe masa radiologică, sau, în cases de multiple trauma, pe trolley. expunere este made pe arrested respirație. A 24  30-cm casetă fitted cu regular-speed screen este used. Antero-posterior (AP)
+        - Sunt necesare două incidențe la unghi drept: anteroposterioară și axială sau de profil (laterală). Mișcarea brațului poate fi limitată, iar tehnica poate necesita modificări corespunzătoare. Atunci când este posibil, eșarfa de susținere trebuie îndepărtată. În funcție de starea pacientului, examinarea poate fi efectuată cu pacientul în ortostatism, cu imobilizare adecvată, în decubit dorsal pe masa radiologică sau, în cazurile de politraumatism, pe targa mobilă. Expunerea se efectuează în apnee. Se utilizează o casetă de 24 × 30 cm prevăzută cu ecran de viteză normală. Anteroposterioară (AP)
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism sau lies Decubit dorsal facing X-ray tube.
-• pacientul este rotit spre partea afectată la bring posterior aspect de injured Umăr into contact cu linia mediană casetă.
-• caseta este poziționat pentru include acromion și proximal half de Humerus.
-    - **Punct de Centrare Fascicul:** • raza centrală este orientat la drept-angles la Humerus și centred la capul de Humerus.
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism sau este culcat în decubit dorsal, cu fața spre tubul radiologic.
+        - Pacientul este rotit spre partea afectată pentru a aduce aspectul posterior al umărului lezat în contact cu linia mediană a casetei.
+        - Caseta este poziționată pentru a include acromionul și jumătatea proximală a humerusului.
+    - **Punct de Centrare Fascicul:** • Raza centrală este orientată perpendicular pe humerus și centrată pe capul humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** expunere este made pe arrested respirație
+    - **Comandă Respiratorie:** Expunerea se efectuează în apnee.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -115,20 +122,20 @@ title: Rx Humerus Proximal (Col Chirurgical) Antero-Posterior (AP)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include acromion și proximal half de shaft de Humerus.
-    - expunere trebuie să evidențiază adequately gâtul de Humerus clear de Torace.
+    - Imaginea trebuie să includă acromionul și jumătatea proximală a diafizei humerusului.
+    - Expunerea trebuie să evidențieze adecvat colul humerusului, clar separat de torace.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -140,10 +147,10 @@ title: Rx Humerus Proximal (Col Chirurgical) Antero-Posterior (AP)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • expunere trebuie să fie made pe arrested respirație.
-• pacientul trebuie să se imobilizează affected Antebraț (Radius și Ulna) prin supporting its weight cu other braț. If pacientul este Decubit dorsal, săculeți cu nisip trebuie să fie plasat over Antebraț (Radius și Ulna).
-74 Antero-posterior (AP) radiografie de neck de Humerus taken Ortostatism la show suspiciune de fractură de gâtul de Humerus
+    - Expunerea trebuie efectuată în apnee.
+    - Pacientul trebuie să imobilizeze antebrațul afectat (radiusul și ulna), susținându-i greutatea cu celălalt braț. Dacă pacientul este în decubit dorsal, trebuie așezați saci cu nisip peste antebrațul afectat (radiusul și ulna). 74 Radiografie anteroposterioară (AP) a colului humerusului, efectuată în ortostatism, pentru evidențierea suspiciunii de fractură a colului humerusului
 
 
 ### 🖼️ Imagini
@@ -152,25 +159,25 @@ title: Rx Humerus Proximal (Col Chirurgical) Antero-Posterior (AP)
 
 <figure class="protocol-image-card" markdown>
 
-![most common reason pentru radiografie de gâtul de the](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_1.jpeg)
+![Cel mai frecvent motiv pentru efectuarea unei radiografii a colului humerusului](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_1.jpeg)
 
-<figcaption><strong>most common reason pentru radiografie de gâtul de the</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Humerus este suspected suspiciune de fractură, either pathological sau traumatic.](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_2.jpeg)
-
-<figcaption><strong>Humerus este suspected suspiciune de fractură, either pathological sau traumatic.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Cel mai frecvent motiv pentru efectuarea unei radiografii a colului humerusului</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie de neck de Humerus taken Ortostatism la show](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_3.jpeg)
+![Humerusul prezintă suspiciune de fractură, fie patologică, fie traumatică.](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_2.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie de neck de Humerus taken Ortostatism la show</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Humerusul prezintă suspiciune de fractură, fie patologică, fie traumatică.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie anteroposterioară (AP) a colului humerusului, efectuată în ortostatism, pentru evidențierea](../../assets/images/protocols/clark/rx-humerus-proximal-col-chirurgical-antero-posterior-p89-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie anteroposterioară (AP) a colului humerusului, efectuată în ortostatism, pentru evidențierea</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

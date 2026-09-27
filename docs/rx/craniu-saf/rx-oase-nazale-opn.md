@@ -89,6 +89,7 @@ title: Rx Oase Proprii Nazale (OPN)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -129,6 +130,7 @@ title: Rx Oase Proprii Nazale (OPN)
     - Colimare ultra-restrânsă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Se efectuează întotdeauna ambele incidențe de profil (dreaptă și stângă) pentru comparație anatomică și certitudine diagnostică.

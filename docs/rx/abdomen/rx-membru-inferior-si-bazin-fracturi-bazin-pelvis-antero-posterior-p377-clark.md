@@ -31,6 +31,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-membru-inferior-si-bazin-fracturi-bazin-pelvis-antero-posterior-p377-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Vor fi necesare examinări repetate pe parcursul unei perioade de timp pentru
@@ -115,19 +119,21 @@ title: Rx Membru Inferior și Bazin (Fracturi) Bazin (Pelvis) Antero-Posterior (
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Aparatul mobil se poziționează cu grijă în raport cu orice suporturi aflate deasupra patului, ajustarea efectuându-se cu ajutorul personalului de îngrijire.
-• Se selectează o casetă de dimensiuni adecvate și se poziționează cu grijă sub femur sau gambă, pentru a include articulația cea mai apropiată de zona cu suspiciune de fractură și cât mai mult din porțiunea superioară sau inferioară a membrului, pentru a permite evaluarea alinierii osoase.
-• Caseta se sprijină paralel cu femurul sau cu membrul inferior, folosind perne radiotransparente.
-• În caz de suspiciune de fractură de col femural sau de bazin (pelvis), poate fi utilizat un dispozitiv de tip tunel pentru casetă, care necesită o singură mobilizare majoră a pacientului. Odată ce dispozitivul este în poziție, caseta poate fi poziționată fără a mai deranja pacientul. Acesta ajută și la poziționarea pentru incidența de profil atunci când pacientul este ridicat, permițând evidențierea adecvată a femurului.
+    - **Poziție Pacient:**
+        - Aparatul mobil se poziționează cu grijă în raport cu orice suporturi aflate deasupra patului, ajustarea efectuându-se cu ajutorul personalului de îngrijire.
+        - Se selectează o casetă de dimensiuni adecvate și se poziționează cu grijă sub femur sau gambă, pentru a include articulația cea mai apropiată de zona cu suspiciune de fractură și cât mai mult din porțiunea superioară sau inferioară a membrului, pentru a permite evaluarea alinierii osoase.
+        - Caseta se sprijină paralel cu femurul sau cu membrul inferior, folosind perne radiotransparente.
+        - În caz de suspiciune de fractură de col femural sau de bazin (pelvis), poate fi utilizat un dispozitiv de tip tunel pentru casetă, care necesită o singură mobilizare majoră a pacientului. Odată ce dispozitivul este în poziție, caseta poate fi poziționată fără a mai deranja pacientul. Acesta ajută și la poziționarea pentru incidența de profil atunci când pacientul este ridicat, permițând evidențierea adecvată a femurului.
     - **Punct de Centrare Fascicul:** • Se orientează raza centrală perpendicular pe mijlocul casetei, cu raza centrală în unghi drept față de axa longitudinală a oaselor în cauză, în conformitate cu tehnicile descrise anterior în capitolul despre membrul inferior.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -166,6 +172,7 @@ title: Rx Membru Inferior și Bazin (Fracturi) Bazin (Pelvis) Antero-Posterior (
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Vor fi necesare examinări repetate pe parcursul unei perioade de timp pentru a evalua eficacitatea tratamentului; prin urmare, sunt necesare o poziționare atentă și o alegere atentă a parametrilor de expunere pentru a asigura comparabilitatea imaginilor.

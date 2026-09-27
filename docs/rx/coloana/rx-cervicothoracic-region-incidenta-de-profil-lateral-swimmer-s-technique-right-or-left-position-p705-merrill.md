@@ -21,6 +21,10 @@ images:
 - caption: Merrill — pagina 707, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervicothoracic-region-incidenta-de-profil-lateral-swimmer-s-technique-right-or-left-position-p705-merrill/p707_fig2.png
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Consultați Capitolul 12 din Volumul 2 pentru descrierea poziționării utilizate
@@ -39,7 +43,7 @@ position: 'Decubit: se așază pacientul în decubit lateral, cu capul ridicat p
   posterior). Se poziționează capul și corpul în profil strict, cu MSP paralel cu
   planul receptorului de imagine. Dacă pacientul este în decubit, se poate plasa un
   suport sub porțiunea inferioară a toracelui. Se centrează receptorul de imagine
-  la nivelul spațiului discal intervertebral C7–T1, situat la 2 inch (5 cm) deasupra
+  la nivelul spațiului discal intervertebral C7–T1, situat la 2 țol (5 cm) deasupra
   incizurii jugulare (furculița sternală). se efectuează ecranarea gonadelor cu șorț
   plumbat.'
 protection:
@@ -109,7 +113,7 @@ source_sections:
     sub porțiunea inferioară a toracelui.
 
     • Se centrează receptorul de imagine la nivelul spațiului discal intervertebral
-    C7–T1, situat la 2 inch (5 cm) deasupra incizurii jugulare (furculița sternală).
+    C7–T1, situat la 2 țol (5 cm) deasupra incizurii jugulare (furculița sternală).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: '• În decubit: se așază pacientul în decubit lateral, cu capul ridicat
@@ -165,17 +169,21 @@ title: Rx Regiune Cervicotoracică — Incidență de Profil — Tehnica Înotă
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Decubit: se așază pacientul în decubit lateral, cu capul ridicat pe brațul pacientului sau pe un alt suport ferm (Fig. 9.64). În ortostatism: se așază pacientul în poziție de profil, fie în poziție șezândă, fie în ortostatism, sprijinit de stativul vertical Bucky (Fig. 9.65).; Se centrează MCP al corpului pe linia mediană a grilei. Se extinde brațul cel mai apropiat de receptorul de imagine deasupra capului. Dacă pacientul este în ortostatism, se flectează cotul și se sprijină antebrațul pe capul pacientului (vezi
-Se poziționează brațul îndepărtat de receptorul de imagine în jos, de-a lungul corpului pacientului, și se coboară umărul cât mai mult posibil. 11 În plus, capul humeral poate fi deplasat în direcția opusă celei a celuilalt umăr 12, 13 (se recomandă posterior). Se poziționează capul și corpul în profil strict, cu MSP paralel cu planul receptorului de imagine. Dacă pacientul este în decubit, se poate plasa un suport sub porțiunea inferioară a toracelui. Se centrează receptorul de imagine la nivelul spațiului discal intervertebral C7–T1, situat la 2 inch (5 cm) deasupra incizurii jugulare (furculița sternală). se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Poziție Pacient:**
+        Decubit: se așază pacientul în decubit lateral, cu capul ridicat pe brațul pacientului sau pe un alt suport ferm (Fig. 9.64). În ortostatism: se așază pacientul în poziție de profil, fie în poziție șezândă, fie în ortostatism, sprijinit de stativul vertical Bucky (Fig. 9.65).; Se centrează MCP al corpului pe linia mediană a grilei. Se extinde brațul cel mai apropiat de receptorul de imagine deasupra capului. Dacă pacientul este în ortostatism, se flectează cotul și se sprijină antebrațul pe capul pacientului (vezi
+
+        Se poziționează brațul îndepărtat de receptorul de imagine în jos, de-a lungul corpului pacientului, și se coboară umărul cât mai mult posibil. 11 În plus, capul humeral poate fi deplasat în direcția opusă celei a celuilalt umăr 12, 13 (se recomandă posterior). Se poziționează capul și corpul în profil strict, cu MSP paralel cu planul receptorului de imagine. Dacă pacientul este în decubit, se poate plasa un suport sub porțiunea inferioară a toracelui. Se centrează receptorul de imagine la nivelul spațiului discal intervertebral C7–T1, situat la 2 țol (5 cm) deasupra incizurii jugulare (furculița sternală). se efectuează ecranarea gonadelor cu șorț plumbat.
+
     - **Punct de Centrare Fascicul:** Orientat spre spațiul discal intervertebral C7–T1: perpendicular 12 dacă umărul îndepărtat de receptorul de imagine este bine coborât sau la un unghi caudal de 3 la 5 grade 14 când umărul este imobil și nu poate fi coborât suficient. Monda 15 a recomandat o angulare cranială de 5 la 15 grade pentru a evidenția mai bine spațiile discale intervertebrale când coloana vertebrală este înclinată din cauza umerilor lați sau a porțiunii inferioare a coloanei vertebrale care nu este ridicată. Unghiul corect face ca raza centrală să fie perpendiculară pe axa longitudinală a coloanei vertebrale înclinate.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației); sau, dacă pacientul poate coopera și poate fi imobilizat, tehnica de estompare prin respirație superficială (tehnică respiratorie) poate fi utilizată pentru a estompa anatomia pulmonară.
@@ -210,6 +218,7 @@ Se poziționează brațul îndepărtat de receptorul de imagine în jos, de-a lu
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Consultați Capitolul 12 din Volumul 2 pentru descrierea poziționării utilizate la pacienții cu suspiciune de traumatism al coloanei cervicale / în regim de urgență.
@@ -249,60 +258,3 @@ Se poziționează brațul îndepărtat de receptorul de imagine în jos, de-a lu
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 705–707](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Vertebrele cervicotoracice între umeri (Fig. 9.66 și 9.67).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-Filtru compensator
-Această incidență poate beneficia de utilizarea unui filtru compensator datorită diferenței extreme dintre porțiunea inferioară subțire a gâtului și regiunea toracică superioară
-foarte groasă. Prin utilizarea unui filtru special conceput, zona C7–T1 poate fi vizualizată pe o singură imagine.
-
-### raza centrală
-
-• Orientat spre spațiul discal intervertebral C7–T1: perpendicular 12 dacă umărul îndepărtat de receptorul de imagine este bine coborât sau la un unghi caudal
-de 3 la 5 grade 14 când umărul este imobil și nu poate fi coborât suficient.
-• Monda 15 a recomandat o angulare cranială de 5 la 15 grade pentru a evidenția mai bine spațiile discale intervertebrale când coloana vertebrală este înclinată din cauza
-umerilor lați sau a porțiunii inferioare a coloanei vertebrale care nu este ridicată. Unghiul corect face ca raza centrală să fie perpendiculară pe axa longitudinală a coloanei
-vertebrale înclinate.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
-• Penetrare adecvată a razelor X prin regiunea umărului, evidențiind vertebrele cervicale inferioare și toracice superioare, nu în mod apreciabil
-
-### note
-
-Consultați Capitolul 12 din Volumul 2 pentru descrierea poziționării utilizate la pacienții cu suspiciune de traumatism al coloanei cervicale.
-
-### part_pos
-
-• Se centrează MCP al corpului pe linia mediană a grilei.
-• Se extinde brațul cel mai apropiat de receptorul de imagine deasupra capului. Dacă pacientul este în ortostatism, se flectează cotul și se sprijină antebrațul pe capul pacientului (vezi
-• Se poziționează brațul îndepărtat de receptorul de imagine în jos, de-a lungul corpului pacientului, și se coboară umărul cât mai mult posibil. 11 În plus, capul humeral poate fi deplasat în direcția opusă celei a celuilalt umăr 12, 13 (se recomandă posterior).
-• Se poziționează capul și corpul în profil strict, cu MSP paralel cu planul receptorului de imagine. Dacă pacientul este în decubit, se poate plasa un suport
-sub porțiunea inferioară a toracelui.
-• Se centrează receptorul de imagine la nivelul spațiului discal intervertebral C7–T1, situat la 2 inch (5 cm) deasupra incizurii jugulare (furculița sternală).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• În decubit: se așază pacientul în decubit lateral, cu capul ridicat pe brațul pacientului sau pe un alt suport ferm (Fig.
-9.64).
-• În ortostatism: se așază pacientul în poziție de profil, fie așezat pe scaun, fie în ortostatism, sprijinit de stativul vertical Bucky (Fig. 9.65).
-
-### respirație
-
-apnee (oprirea respirației); sau, dacă pacientul poate coopera și poate fi imobilizat, tehnica de estompare prin respirație superficială (tehnică respiratorie) poate fi utilizată pentru a estompa anatomia pulmonară.
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
-× 30 cm), longitudinal.
-

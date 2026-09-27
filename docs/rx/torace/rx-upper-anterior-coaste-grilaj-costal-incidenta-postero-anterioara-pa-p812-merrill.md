@@ -1,13 +1,13 @@
 ---
 author: Referință Merrill
-breathing: apnee (oprirea respirației) la Inspir profund complet la depress cupole
-  diafragmatice ca much ca possible.
+breathing: Apnee (oprirea respirației) la inspir profund complet pentru a coborî cupolele
+  diafragmatice cât mai mult posibil.
 category: torace
-centering: perpendicular pe center de receptorul de imagine. If receptorul de imagine
-  este poziționat correctly, raza centrală este la nivelul T7. useful option pentru
-  evidențiind seventh, eighth, și ninth Coaste (Grilaj Costal) este la angle x-ray
-  tube approximately 10 la 15 grade caudal. This angulation aids în projecting cupole
-  diafragmatice below afected Coaste (Grilaj Costal).
+centering: Perpendicular pe centrul receptorului de imagine. Dacă receptorul de imagine
+  este poziționat corect, raza centrală este la nivelul T7. O opțiune utilă pentru
+  evidențierea coastelor a șaptea, a opta și a noua este angularea tubului radiogen
+  cu aproximativ 10 la 15 grade caudal. Această angulare ajută la proiectarea cupolelor
+  diafragmatice sub coastele afectate.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -20,39 +20,45 @@ images:
 - caption: Merrill — pagina 814, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-upper-anterior-coaste-grilaj-costal-incidenta-postero-anterioara-pa-p812-merrill/p814_fig3.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul either în ortostatism sau Decubit, facing receptorul
-  de imagine. Because cupole diafragmatice descends la its lowest level în ortostatism,
-  use în ortostatism sau Poziție Șezândă-ortostatism pentru incidențe de upper Coaste
-  (Grilaj Costal) when pacientul’s condition permits (Fig. 10.29). ortostatism este
-  also valuable pentru evidențiind nivele hidroaerice în Torace.; se centrează MSP
-  de pacientul’s corp la linia mediană grilă pentru bilateral Coaste (Grilaj Costal).
-  pentru unilateral Coaste (Grilaj Costal), se centrează afected side pe longitudinal
-  plane drawn midway între MSP și lateral surface de corp la linia mediană grilă.
-  se ajustează receptorul de imagine poziție la project approximately 1½ inches (3.8
-  cm) above upper margine de umerii. Less poate fie required pentru hypersthenic pacienți
-  și pentru those cu very muscular umeri. se sprijină pacientul’s mâini pe / sprijinit
-  de hips cu palms turned outward la se rotește scapulae away de la rib cage. se ajustează
-  umeri la lie în same plan transversal. If pacientul este Decubit ventral, rest capul
-  pe bărbia și se ajustează MSP la fie vertical (Fig. 10.30). pentru hypersthenic
-  pacienți cu wide rib cages, it poate fie necessary la move pacientul laterally pentru
-  include entire lateral surface de afected rib area pe radiografie. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Se poziționează pacientul fie în ortostatism, fie în decubit, cu fața spre
+  receptorul de imagine. Deoarece cupolele diafragmatice coboară la nivelul cel mai
+  inferior în ortostatism, se utilizează ortostatismul sau poziția șezândă-ortostatism
+  pentru incidențele coastelor superioare (grilaj costal), când starea pacientului
+  permite (Fig. 10.29). Ortostatismul este, de asemenea, util pentru evidențierea
+  nivelurilor hidroaerice în torace.; Se centrează MSP al corpului pacientului la
+  linia mediană a grilei pentru coastele bilaterale (grilaj costal). Pentru coastele
+  unilaterale (grilaj costal), se centrează partea afectată pe planul longitudinal
+  tras la jumătatea distanței dintre MSP și suprafața laterală a corpului, la linia
+  mediană a grilei. Se ajustează poziția receptorului de imagine pentru a proiecta
+  aproximativ 1½ țoli (3,8 cm) deasupra marginii superioare a umerilor. Poate fi necesar
+  mai puțin pentru pacienții hiperstenici și pentru cei cu umeri foarte musculoși.
+  Se sprijină mâinile pacientului pe șolduri, cu palmele orientate spre exterior,
+  pentru a roti scapulele în afara cutiei toracice. Se ajustează umerii astfel încât
+  să se afle în același plan transversal. Dacă pacientul este în decubit ventral,
+  se sprijină capul pe bărbie și se ajustează MSP pentru a fi vertical (Fig. 10.30).
+  Pentru pacienții hiperstenici cu cutii toracice largi, poate fi necesară deplasarea
+  laterală a pacientului pentru a include întreaga suprafață laterală a regiunii costale
+  afectate pe radiografie. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- First through ninth Coaste (Grilaj Costal) în their entirety, cu posterior portions
-  culcat above cupole diafragmatice
-- First through seventh anterior Coaste (Grilaj Costal) de la ambele părți (bilateral),
-  în their entirety și above cupole diafragmatice
-- în unilateral examination, Coaste (Grilaj Costal) de la opposite side possibly nu
-  included în their entirety
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Coastele de la prima până la a noua în întregime, cu porțiunile posterioare situate
+  deasupra cupolelor diafragmatice
+- Coastele anterioare de la prima până la a șaptea, de ambele părți (bilateral), în
+  întregime și deasupra cupolelor diafragmatice
+- La examinarea unilaterală, coastele de pe partea opusă pot să nu fie incluse în
+  întregime
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-upper-anterior-coaste-grilaj-costal-incidenta-postero-anterioara-pa-p812-merrill
 source_pages:
@@ -60,90 +66,85 @@ source_pages:
 - 813
 - 814
 source_sections:
-  anatomy: 'anterior coaste above cupole diafragmatice (Figs. 10.31 și 10.32). Although
-    posterior coaste sunt seen, anterior coaste sunt vizualizat cu greater detail
+  anatomy: Coastele anterioare deasupra cupolelor diafragmatice (Fig. 10.31 și 10.32).
+    Deși coastele posterioare sunt vizibile, coastele anterioare sunt vizualizate
+    cu detalii mai bune deoarece sunt mai apropiate de receptorul de imagine.
+  collimation: • Ajustați câmpul de iradiere la formatul 35 × 43 cm pe colimator pentru
+    coastele bilaterale. Pentru examinările unilaterale, colimați lățimea la 1 țol
+    dincolo de MSP și de marginea laterală a părții de interes. Plasați markerul de
+    lateralitate în câmpul colimat.
+  cr: '• Perpendicular pe centrul receptorului de imagine. Dacă receptorul de imagine
+    este poziționat corect, raza centrală este la nivelul T7.
 
-    because they sunt closer la receptorul de imagine.'
-  collimation: '• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator
-    pentru bilateral coaste. pentru unilateral exams, collimate width la 1
-
-    inch beyond MSP și lateral margine de side de interest. Se plasează markerul de
-    lateralitate în câmpul colimat.'
-  cr: '• perpendicular pe center de receptorul de imagine. If receptorul de imagine
-    este poziționat correctly, raza centrală este la nivelul T7.
-
-    • useful option pentru evidențiind seventh, eighth, și ninth coaste este la angle
-    x-ray tube approximately 10 la 15 grade caudal. This
-
-    angulation aids în projecting cupole diafragmatice below afected coaste.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • O opțiune utilă pentru evidențierea coastelor a șaptea, a opta și a noua este
+    angularea tubului radiogen cu aproximativ 10 la 15 grade caudal. Această angulare
+    ajută la proiectarea cupolelor diafragmatice sub coastele afectate.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
     • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    clar față de anatomia de interes
 
-    • First through ninth coaste în their entirety, cu posterior portions culcat above
-    cupole diafragmatice
+    • Coastele de la prima până la a noua în întregime, cu porțiunile posterioare
+    situate deasupra cupolelor diafragmatice
 
-    • First through seventh anterior coaste de la ambele părți (bilateral), în their
-    entirety și above cupole diafragmatice
+    • Coastele anterioare de la prima până la a șaptea, de ambele părți (bilateral),
+    în întregime și deasupra cupolelor diafragmatice
 
-    • în unilateral examination, coaste de la opposite side possibly nu included în
-    their entirety
+    • La examinarea unilaterală, coastele de pe partea opusă pot să nu fie incluse
+    în întregime
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează MSP de pacientul’s corp la linia mediană grilă pentru
-    bilateral coaste.
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Se centrează MSP al corpului pacientului la linia mediană a grilei
+    pentru coastele bilaterale.
 
-    • pentru unilateral coaste, se centrează afected side pe longitudinal plane drawn
-    midway între MSP și lateral surface de corp
+    • Pentru coastele unilaterale, se centrează partea afectată pe planul longitudinal
+    tras la jumătatea distanței dintre MSP și suprafața laterală a corpului, la linia
+    mediană a grilei.
 
-    la linia mediană grilă.
+    • Se ajustează poziția receptorului de imagine pentru a proiecta aproximativ 1½
+    țoli (3.8 cm) deasupra marginii superioare a umerilor. Poate fi necesar mai puțin
+    pentru pacienții hiperstenici și pentru cei cu umeri foarte musculoși.
 
-    • se ajustează receptorul de imagine poziție la project approximately 1½ inches
-    (3.8 cm) above upper margine de umerii. Less poate fie required pentru
+    • Se sprijină mâinile pacientului pe șolduri, cu palmele orientate în exterior,
+    pentru a roti scapulele îndepărtându-le de cutia toracică.
 
-    hypersthenic pacienți și pentru those cu very muscular umeri.
+    • Se ajustează umerii pentru a se afla în același plan transversal.
 
-    • se sprijină pacientul’s mâini pe / sprijinit de hips cu palms turned outward
-    la se rotește scapulae away de la rib cage.
+    • Dacă pacientul este în decubit ventral, se sprijină capul pe bărbie și se ajustează
+    MSP pentru a fi vertical (Fig. 10.30).
 
-    • se ajustează umeri la lie în same plan transversal.
+    • Pentru pacienții hiperstenici cu cutii toracice largi, poate fi necesară deplasarea
+    laterală a pacientului pentru a include întreaga suprafață laterală a zonei costale
+    afectate pe radiografie.
 
-    • If pacientul este în decubit ventral, rest capul pe bărbia și se ajustează MSP
-    la fie vertical (Fig. 10.30).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se poziționează pacientul fie în ortostatism, fie în decubit, cu
+    fața spre receptorul de imagine.
 
-    • pentru hypersthenic pacienți cu wide rib cages, it poate fie necessary la move
-    pacientul laterally pentru include entire lateral surface de
+    • Deoarece cupolele diafragmatice coboară la nivelul cel mai inferior în ortostatism,
+    se utilizează ortostatismul sau șezutul pe scaunul de ortostatism pentru incidențele
+    coastelor superioare când starea pacientului permite (Fig. 10.29). Ortostatismul
+    este, de asemenea, valoros pentru evidențierea nivelurilor hidroaerice în torace.'
+  respiration: Apnee (oprirea respirației) la inspir profund complet pentru a coborî
+    cupolele diafragmatice cât mai mult posibil.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    afected rib area pe radiografie.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se poziționează pacientul either în ortostatism sau recumbent, facing
-    receptorul de imagine.
-
-    • Because cupole diafragmatice descends la its lowest level în ortostatism, use
-    în ortostatism sau așezat pe scaun-ortostatism pentru incidențe
-
-    de coaste superioare when pacientul’s condition permits (Fig. 10.29). ortostatism
-    este also valuable pentru evidențiind nivele hidroaerice în chest.'
-  respiration: apnee (oprirea respirației) la Inspir profund complet la depress cupole
-    diafragmatice ca much ca possible.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 10. Bony Thorax, pagini 812–814
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator
-    pentru bilateral Coaste (Grilaj Costal). pentru unilateral exams, collimate width
-    la 1 inch beyond MSP și lateral margine de side de interest. Se plasează markerul
-    de lateralitate în câmpul colimat.
-title: Rx Upper Grilaj Costal Anterior — Incidență Postero-Anterioară (PA) (Merrill)
+    pentru coaste bilaterale (grilaj costal). Pentru examinările unilaterale, se colimează
+    cu 1 țol dincolo de MSP și de marginea laterală a părții de interes. Se plasează
+    markerul de lateralitate în câmpul colimat.
+title: Radiografie a coastelor superioare anterioare — incidență postero-anterioară
+  (PA) (Merrill)
 ---
-# Rx Upper Grilaj Costal Anterior — Incidență Postero-Anterioară (PA) (Merrill)
+# Radiografie a coastelor superioare anterioare — incidență postero-anterioară (PA) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -167,19 +168,20 @@ title: Rx Upper Grilaj Costal Anterior — Incidență Postero-Anterioară (PA) 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul either în ortostatism sau Decubit, facing receptorul de imagine. Because cupole diafragmatice descends la its lowest level în ortostatism, use în ortostatism sau Poziție Șezândă-ortostatism pentru incidențe de upper Coaste (Grilaj Costal) when pacientul’s condition permits (Fig. 10.29). ortostatism este also valuable pentru evidențiind nivele hidroaerice în Torace.; se centrează MSP de pacientul’s corp la linia mediană grilă pentru bilateral Coaste (Grilaj Costal). pentru unilateral Coaste (Grilaj Costal), se centrează afected side pe longitudinal plane drawn midway între MSP și lateral surface de corp la linia mediană grilă. se ajustează receptorul de imagine poziție la project approximately 1½ inches (3.8 cm) above upper margine de umerii. Less poate fie required pentru hypersthenic pacienți și pentru those cu very muscular umeri. se sprijină pacientul’s mâini pe / sprijinit de hips cu palms turned outward la se rotește scapulae away de la rib cage. se ajustează umeri la lie în same plan transversal. If pacientul este Decubit ventral, rest capul pe bărbia și se ajustează MSP la fie vertical (Fig. 10.30). pentru hypersthenic pacienți cu wide rib cages, it poate fie necessary la move pacientul laterally pentru include entire lateral surface de afected rib area pe radiografie. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe center de receptorul de imagine. If receptorul de imagine este poziționat correctly, raza centrală este la nivelul T7. useful option pentru evidențiind seventh, eighth, și ninth Coaste (Grilaj Costal) este la angle x-ray tube approximately 10 la 15 grade caudal. This angulation aids în projecting cupole diafragmatice below afected Coaste (Grilaj Costal).
+    - **Poziție Pacient:** Se poziționează pacientul fie în ortostatism, fie în decubit, cu fața spre receptorul de imagine. Deoarece cupolele diafragmatice coboară la nivelul cel mai inferior în ortostatism, se utilizează ortostatismul sau poziția șezândă-ortostatism pentru incidențele coastelor superioare (grilaj costal), când starea pacientului permite (Fig. 10.29). Ortostatismul este, de asemenea, util pentru evidențierea nivelurilor hidroaerice în torace.; Se centrează MSP al corpului pacientului la linia mediană a grilei pentru coastele bilaterale (grilaj costal). Pentru coastele unilaterale (grilaj costal), se centrează partea afectată pe planul longitudinal tras la jumătatea distanței dintre MSP și suprafața laterală a corpului, la linia mediană a grilei. Se ajustează poziția receptorului de imagine pentru a proiecta aproximativ 1½ țoli (3,8 cm) deasupra marginii superioare a umerilor. Poate fi necesar mai puțin pentru pacienții hiperstenici și pentru cei cu umeri foarte musculoși. Se sprijină mâinile pacientului pe șolduri, cu palmele orientate spre exterior, pentru a roti scapulele în afara cutiei toracice. Se ajustează umerii astfel încât să se afle în același plan transversal. Dacă pacientul este în decubit ventral, se sprijină capul pe bărbie și se ajustează MSP pentru a fi vertical (Fig. 10.30). Pentru pacienții hiperstenici cu cutii toracice largi, poate fi necesară deplasarea laterală a pacientului pentru a include întreaga suprafață laterală a regiunii costale afectate pe radiografie. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine. Dacă receptorul de imagine este poziționat corect, raza centrală este la nivelul T7. O opțiune utilă pentru evidențierea coastelor a șaptea, a opta și a noua este angularea tubului radiogen cu aproximativ 10 la 15 grade caudal. Această angulare ajută la proiectarea cupolelor diafragmatice sub coastele afectate.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** apnee (oprirea respirației) la Inspir profund complet la depress cupole diafragmatice ca much ca possible.
+    - **Comandă Respiratorie:** Apnee (oprirea respirației) la inspir profund complet pentru a coborî cupolele diafragmatice cât mai mult posibil.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -193,19 +195,19 @@ title: Rx Upper Grilaj Costal Anterior — Incidență Postero-Anterioară (PA) 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator pentru bilateral Coaste (Grilaj Costal). pentru unilateral exams, collimate width la 1 inch beyond MSP și lateral margine de side de interest. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator pentru coaste bilaterale (grilaj costal). Pentru examinările unilaterale, se colimează cu 1 țol dincolo de MSP și de marginea laterală a părții de interes. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - First through ninth Coaste (Grilaj Costal) în their entirety, cu posterior portions culcat above cupole diafragmatice
-    - First through seventh anterior Coaste (Grilaj Costal) de la ambele părți (bilateral), în their entirety și above cupole diafragmatice
-    - în unilateral examination, Coaste (Grilaj Costal) de la opposite side possibly nu included în their entirety
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Coastele de la prima până la a noua în întregime, cu porțiunile posterioare situate deasupra cupolelor diafragmatice
+    - Coastele anterioare de la prima până la a șaptea, de ambele părți (bilateral), în întregime și deasupra cupolelor diafragmatice
+    - La examinarea unilaterală, coastele de pe partea opusă pot să nu fie incluse în întregime
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -214,6 +216,7 @@ title: Rx Upper Grilaj Costal Anterior — Incidență Postero-Anterioară (PA) 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -261,60 +264,3 @@ title: Rx Upper Grilaj Costal Anterior — Incidență Postero-Anterioară (PA) 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 10. Bony Thorax, pagini 812–814](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-anterior coaste above cupole diafragmatice (Figs. 10.31 și 10.32). Although posterior coaste sunt seen, anterior coaste sunt vizualizat cu greater detail
-because they sunt closer la receptorul de imagine.
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator pentru bilateral coaste. pentru unilateral exams, collimate width la 1
-inch beyond MSP și lateral margine de side de interest. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe center de receptorul de imagine. If receptorul de imagine este poziționat correctly, raza centrală este la nivelul T7.
-• useful option pentru evidențiind seventh, eighth, și ninth coaste este la angle x-ray tube approximately 10 la 15 grade caudal. This
-angulation aids în projecting cupole diafragmatice below afected coaste.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• First through ninth coaste în their entirety, cu posterior portions culcat above cupole diafragmatice
-• First through seventh anterior coaste de la ambele părți (bilateral), în their entirety și above cupole diafragmatice
-• în unilateral examination, coaste de la opposite side possibly nu included în their entirety
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează MSP de pacientul’s corp la linia mediană grilă pentru bilateral coaste.
-• pentru unilateral coaste, se centrează afected side pe longitudinal plane drawn midway între MSP și lateral surface de corp
-la linia mediană grilă.
-• se ajustează receptorul de imagine poziție la project approximately 1½ inches (3.8 cm) above upper margine de umerii. Less poate fie required pentru
-hypersthenic pacienți și pentru those cu very muscular umeri.
-• se sprijină pacientul’s mâini pe / sprijinit de hips cu palms turned outward la se rotește scapulae away de la rib cage.
-• se ajustează umeri la lie în same plan transversal.
-• If pacientul este în decubit ventral, rest capul pe bărbia și se ajustează MSP la fie vertical (Fig. 10.30).
-• pentru hypersthenic pacienți cu wide rib cages, it poate fie necessary la move pacientul laterally pentru include entire lateral surface de
-afected rib area pe radiografie.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se poziționează pacientul either în ortostatism sau recumbent, facing receptorul de imagine.
-• Because cupole diafragmatice descends la its lowest level în ortostatism, use în ortostatism sau așezat pe scaun-ortostatism pentru incidențe
-de coaste superioare when pacientul’s condition permits (Fig. 10.29). ortostatism este also valuable pentru evidențiind nivele hidroaerice în chest.
-
-### respiration
-
-apnee (oprirea respirației) la Inspir profund complet la depress cupole diafragmatice ca much ca possible.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
-

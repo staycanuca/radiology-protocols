@@ -6,6 +6,10 @@ centering: Conform reperelor anatomice standard din tratat
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -78,11 +82,12 @@ title: Rx Găuri de Conjugare Cervicale (Foramene) — Oblică Axială AP — RP
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -121,6 +126,7 @@ title: Rx Găuri de Conjugare Cervicale (Foramene) — Oblică Axială AP — RP
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -136,25 +142,3 @@ title: Rx Găuri de Conjugare Cervicale (Foramene) — Oblică Axială AP — RP
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 692–692](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### part_pos
-
-• se ajustează corpul (inclusiv capul) la un unghi de 45 grade și se centrează coloana cervicală pe linia mediană a receptorului de imagine.
-• se centrează receptorul de imagine la nivelul celui de-al treilea corp vertebral cervical (1 țol [2.5 cm] superior de punctul cel mai proeminent al cartilajului tiroid (mărul lui Adam)), pentru a compensa
-angularea cefalică a razei centrale.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau în ortostatism, cu fața spre tubul de raze X. Poziția verticală (în ortostatism sau așezat pe scaun) este preferabilă pentru confortul pacientului și facilitează poziționarea acestuia.
-
-### sid
-
-Se recomandă un SID de 60 la 72 țoli (152 la 183 cm) pentru a compensa OID crescută.
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
-× 30 cm), longitudinal.
-

@@ -23,6 +23,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-profil-lateral-dorsal-decubitus-decubit-dorsal-p375-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Pneumoperitoneul (aer liber în cavitatea peritoneală) poate fi uneori evidențiat
@@ -106,20 +110,22 @@ title: Rx Abdomen de profil în decubit dorsal - decubit dorsal
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Aparatul mobil este poziționat astfel încât să permită radiografia cu fascicul orizontal.
-• Pacientul este culcat în decubit dorsal și, dacă este posibil, este ridicat de pe pat pe o pernă de susținere din spumă.
-• Brațele sunt extinse și sprijinite deasupra capului.
-• Caseta cu grilă antidifuzoare este sprijinită vertical pe fața laterală a abdomenului și ajustată paralel cu planul mediosagital.
-• Imaginea trebuie să includă cupolele diafragmatice, peretele abdominal anterior și corpurile vertebrale.
+    - **Poziție Pacient:**
+        - Aparatul mobil este poziționat astfel încât să permită radiografia cu fascicul orizontal.
+        - Pacientul este culcat în decubit dorsal și, dacă este posibil, este ridicat de pe pat pe o pernă de susținere din spumă.
+        - Brațele sunt extinse și sprijinite deasupra capului.
+        - Caseta cu grilă antidifuzoare este sprijinită vertical pe fața laterală a abdomenului și ajustată paralel cu planul mediosagital.
+        - Imaginea trebuie să includă cupolele diafragmatice, peretele abdominal anterior și corpurile vertebrale.
     - **Punct de Centrare Fascicul:** • Raza centrală orizontală este orientată perpendicular pe centrul casetei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -158,9 +164,9 @@ title: Rx Abdomen de profil în decubit dorsal - decubit dorsal
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Pneumoperitoneul (aer liber în cavitatea peritoneală) poate fi uneori evidențiat pe radiografia anteroposterioară (AP) convențională. În exemplul alăturat, pneumoperitoneul (aer liber subdiafragmatic) este evidențiat prin prezența semnului peretelui dublu. În această imagine sunt vizibile atât suprafața internă, cât și cea externă a peretelui intestinal, comparativ cu doar suprafața luminală vizibilă în mod normal, ca urmare a prezenței aerului atât în lumenul intestinal, cât și liber în cavitatea peritoneală, în jurul segmentului intestinal.
-360 Radiografie anteroposterioară (AP) a abdomenului care evidențiază pneumoperitoneu extins (aer liber în cavitatea peritoneală) (vârfuri de săgeată) și efectul de lumen dublu evidențiat în partea stângă a etajului abdominal superior (săgeți). Imagine de profil a abdomenului în decubit dorsal care evidențiază pneumoperitoneu (aer liber în cavitatea peritoneală) situat adiacent peretelui abdominal anterior
+    Pneumoperitoneul (aer liber în cavitatea peritoneală) poate fi uneori evidențiat pe radiografia anteroposterioară (AP) convențională. În exemplul alăturat, pneumoperitoneul (aer liber subdiafragmatic) este evidențiat prin prezența semnului peretelui dublu. În această imagine sunt vizibile atât suprafața internă, cât și cea externă a peretelui intestinal, comparativ cu doar suprafața luminală vizibilă în mod normal, ca urmare a prezenței aerului atât în lumenul intestinal, cât și liber în cavitatea peritoneală, în jurul segmentului intestinal. 360 Radiografie anteroposterioară (AP) a abdomenului care evidențiază pneumoperitoneu extins (aer liber în cavitatea peritoneală) (vârfuri de săgeată) și efectul de lumen dublu evidențiat în partea stângă a etajului abdominal superior (săgeți). Imagine de profil a abdomenului în decubit dorsal care evidențiază pneumoperitoneu (aer liber în cavitatea peritoneală) situat adiacent peretelui abdominal anterior
 
 
 ### 🖼️ Imagini

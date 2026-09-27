@@ -1,384 +1,153 @@
-/**
- * omnisearch.js — Motor de căutare instantanee și filtrare cu chips pentru Ghidul Protocoalelor
- * Mobile-first, stil minimalist, paletă calmă pastel (bleu, verde pastel, alb), fonturi rotunjite.
- */
-
+/* Accessible catalog search; no provider calls and no persistent query history. */
 (function () {
   'use strict';
-
-  let allProtocols = [];
-  let activeModality = 'all';
-  let activeCategory = 'all';
-  let activeContrast = 'all';
-  let searchQuery = '';
-  let visibleCount = 24;
-
-  const MODALITY_LABELS = {
-    all: 'Toate',
-    ct: '⚡ CT',
-    irm: '🧲 IRM',
-    rx: '📷 RX',
-    eco: '📡 US / Eco',
-    fluoro: '✨ Fluoro'
-  };
-
-  const CATEGORY_LABELS = {
-    all: 'Toate Regiunile',
-    abdomen: 'Abdomen & Pelvis',
-    chest: 'Torace & Plămân',
-    cardiac: 'Cardiac & Coronar',
-    neuro: 'Neurologie & Cap',
-    vascular: 'Vascular & Angio',
-    msk: 'Musculoscheletic',
-    pediatrie: 'Pediatrie',
-    trauma: 'Traumă & Urgențe'
-  };
-
-  function removeDiacritics(str) {
-    if (!str) return '';
-    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  const core = window.ProtocolSearch;
+  if (!core) return;
+  const base = new URL('../', document.currentScript.src).href;
+  const MODALITIES = {all: 'Toate', ct: 'CT', irm: 'IRM', rx: 'RX', eco: 'US / Eco', fluoro: 'Fluoro', mn: 'Med. Nucleară', ir: 'Intervențional'};
+  const CONTRAST = {all: 'Orice informație despre contrast', contrast: 'Contrast declarat', native: 'Fără contrast declarat', variable: 'Variabil / opțional', unknown: 'Neprecizat'};
+  const defaults = () => ({q: '', modality: 'all', region: 'all', segment: 'all', contrast: 'all', source: 'all'});
+  let loading, catalog, current;
+  function el(tag, cls, text) {
+    const node = document.createElement(tag); if (cls) node.className = cls;
+    if (text !== undefined) node.textContent = text; return node;
   }
-
-  function getBaseUrl() {
-    let basePath = '';
-    const configScript = document.getElementById('__config');
-    if (configScript) {
-      try {
-        const cfg = JSON.parse(configScript.textContent);
-        if (cfg.base) basePath = cfg.base.replace(/\/?$/, '/');
-      } catch (e) {}
-    }
-    return basePath || '/radiology-protocols/';
+  async function load() {
+    if (!loading) loading = (async () => {
+      const response = await fetch(new URL('javascripts/omnisearch-index.json', base), {signal: AbortSignal.timeout(20000)});
+      if (!response.ok) throw new Error('Catalog unavailable');
+      const data = await response.json();
+      if (data.schema_version !== 2 || !Array.isArray(data.protocols)) throw new Error('Catalog version mismatch');
+      catalog = {...data, protocols: core.prepare(data.protocols).filter(r => core.safeUrl(r.url, base))};
+      return catalog;
+    })().catch(error => { loading = null; throw error; });
+    return loading;
   }
-
-  async function loadProtocols() {
-    const basePath = getBaseUrl();
-    const candidateUrls = [
-      basePath + 'javascripts/omnisearch-index.json',
-      '/radiology-protocols/javascripts/omnisearch-index.json',
-      '/javascripts/omnisearch-index.json',
-      'javascripts/omnisearch-index.json'
-    ];
-
-    for (const url of candidateUrls) {
-      try {
-        const res = await fetch(url);
-        if (res.ok) {
-          allProtocols = await res.json();
-          console.log(`[OmniSearch] S-au încărcat ${allProtocols.length} protocoale.`);
-          updateModalityCounts();
-          render();
-          return;
-        }
-      } catch (e) {}
-    }
-    console.warn('[OmniSearch] Nu s-a putut încărca omnisearch-index.json');
+  function fromUrl() {
+    const state = defaults(), params = new URL(location.href).searchParams;
+    for (const key of Object.keys(state)) state[key] = (params.get('omni_' + key) || state[key]).slice(0, 400);
+    if (!MODALITIES[state.modality]) state.modality = 'all';
+    if (!CONTRAST[state.contrast]) state.contrast = 'all';
+    return state;
   }
-
-  function updateModalityCounts() {
-    const counts = { all: allProtocols.length, ct: 0, irm: 0, rx: 0, eco: 0, fluoro: 0 };
-    for (const p of allProtocols) {
-      if (counts[p.modality] !== undefined) {
-        counts[p.modality]++;
-      }
+  function saveUrl(state) {
+    const url = new URL(location.href), initial = defaults();
+    for (const [key, value] of Object.entries(state)) {
+      if (value === initial[key]) url.searchParams.delete('omni_' + key);
+      else url.searchParams.set('omni_' + key, value);
     }
-
-    for (const [key, count] of Object.entries(counts)) {
-      const btn = document.querySelector(`.omni-mod-chip[data-mod="${key}"]`);
-      if (btn) {
-        btn.innerHTML = `${MODALITY_LABELS[key]} <span class="omni-chip-count">${count}</span>`;
-      }
-    }
+    try { history.replaceState(history.state, '', url); } catch (_) {}
   }
-
-  function filterProtocols() {
-    const q = removeDiacritics(searchQuery.trim());
-    const queryTokens = q ? q.split(/\s+/).filter(Boolean) : [];
-
-    return allProtocols.filter(p => {
-      // 1. Modality filter
-      if (activeModality !== 'all' && p.modality !== activeModality) {
-        return false;
-      }
-
-      // 2. Category filter
-      if (activeCategory !== 'all' && p.category !== activeCategory) {
-        return false;
-      }
-
-      // 3. Contrast filter
-      if (activeContrast === 'contrast' && !p.contrast) {
-        return false;
-      }
-      if (activeContrast === 'native' && p.contrast) {
-        return false;
-      }
-
-      // 4. Text search matching
-      if (queryTokens.length > 0) {
-        const searchableText = removeDiacritics(
-          `${p.title} ${p.scanner} ${p.category} ${p.raw_category || ''} ${(p.indications || []).join(' ')} ${(p.synonyms || []).join(' ')}`
-        );
-        for (const token of queryTokens) {
-          if (!searchableText.includes(token)) {
-            return false;
-          }
-        }
-      }
-
-      return true;
-    });
-  }
-
-  function render() {
-    const container = document.getElementById('omnisearch-results');
-    const countBadge = document.getElementById('omnisearch-count-badge');
-    const clearBtn = document.getElementById('omnisearch-clear');
-    if (!container) return;
-
-    if (clearBtn) {
-      clearBtn.style.display = searchQuery ? 'flex' : 'none';
-    }
-
-    const filtered = filterProtocols();
-    const isFiltering = searchQuery.trim() !== '' || activeModality !== 'all' || activeCategory !== 'all' || activeContrast !== 'all';
-
-    if (countBadge) {
-      countBadge.textContent = `${filtered.length} protocoale găsite`;
-    }
-
-    // Daca utilizatorul nu cauta nimic si nu a setat filtre specifice, afisam un modul discret de pornire rapida
-    if (!isFiltering) {
-      container.innerHTML = `
-        <div class="omni-idle-banner">
-          <div class="omni-idle-icon">💡</div>
-          <div class="omni-idle-text">
-            <strong>Căutare instantanee în 1.667 de protocoale</strong>
-            <span>Tastați o afecțiune (ex: <em>TEP, AVC, Pancreas, Hidrocefalie</em>), alegeți o modalitate sau o regiune anatomică mai sus.</span>
-          </div>
-        </div>
-      `;
-      return;
-    }
-
-    if (filtered.length === 0) {
-      container.innerHTML = `
-        <div class="omni-empty-state">
-          <div class="omni-empty-icon">🔍</div>
-          <h3>Niciun protocol găsit</h3>
-          <p>Nu am găsit niciun rezultat pentru criteriile selectate. Încercați cuvinte cheie mai generale sau resetați filtrele.</p>
-          <button type="button" class="omni-btn-reset" id="omni-reset-all">Resetează toate filtrele</button>
-        </div>
-      `;
-      const resetBtn = document.getElementById('omni-reset-all');
-      if (resetBtn) {
-        resetBtn.addEventListener('click', resetFilters);
-      }
-      return;
-    }
-
-    const basePath = getBaseUrl();
-    const toShow = filtered.slice(0, visibleCount);
-
-    const cardsHtml = toShow.map(p => {
-      const fullUrl = basePath + p.url.replace(/^\//, '');
-      const modLabel = MODALITY_LABELS[p.modality] || p.modality.toUpperCase();
-      const catLabel = CATEGORY_LABELS[p.category] || p.category;
-      const contrastBadge = p.contrast 
-        ? '<span class="omni-badge omni-badge-contrast">💧 Contrast IV</span>' 
-        : '<span class="omni-badge omni-badge-native">🌿 Nativ</span>';
-      
-      const scannerBadge = p.scanner && p.scanner !== 'Standard' 
-        ? `<span class="omni-badge omni-badge-scanner">${p.scanner}</span>` 
-        : '';
-
-      const indicationSnippet = (p.indications && p.indications.length > 0)
-        ? `<div class="omni-card-indications">${p.indications[0]}</div>`
-        : '';
-
-      return `
-        <a href="${fullUrl}" class="omni-card omni-card-${p.modality}">
-          <div class="omni-card-header">
-            <span class="omni-badge omni-badge-mod omni-badge-mod-${p.modality}">${modLabel}</span>
-            <span class="omni-badge omni-badge-cat">${catLabel}</span>
-            ${contrastBadge}
-            ${scannerBadge}
-          </div>
-          <h4 class="omni-card-title">${p.title}</h4>
-          ${indicationSnippet}
-          <div class="omni-card-footer">
-            <span class="omni-card-action">Vezi Protocol ➔</span>
-          </div>
-        </a>
-      `;
-    }).join('');
-
-    let loadMoreHtml = '';
-    if (filtered.length > visibleCount) {
-      loadMoreHtml = `
-        <div class="omni-load-more-container">
-          <button type="button" class="omni-load-more-btn" id="omni-load-more">
-            Afișează încă 24 de protocoale (rămase: ${filtered.length - visibleCount})
-          </button>
-        </div>
-      `;
-    }
-
-    container.innerHTML = `
-      <div class="omni-cards-grid">
-        ${cardsHtml}
-      </div>
-      ${loadMoreHtml}
-    `;
-
-    const loadMoreBtn = document.getElementById('omni-load-more');
-    if (loadMoreBtn) {
-      loadMoreBtn.addEventListener('click', () => {
-        visibleCount += 24;
-        render();
-      });
-    }
-  }
-
-  function resetFilters() {
-    searchQuery = '';
-    activeModality = 'all';
-    activeCategory = 'all';
-    activeContrast = 'all';
-    visibleCount = 24;
-
-    const input = document.getElementById('omnisearch-input');
-    if (input) input.value = '';
-
-    document.querySelectorAll('.omni-mod-chip').forEach(c => {
-      c.classList.toggle('active', c.dataset.mod === 'all');
-    });
-    document.querySelectorAll('.omni-cat-chip').forEach(c => {
-      c.classList.toggle('active', c.dataset.cat === 'all');
-    });
-    document.querySelectorAll('.omni-contrast-chip').forEach(c => {
-      c.classList.toggle('active', c.dataset.contrast === 'all');
-    });
-
-    render();
-  }
-
-  function initOmniSearch() {
+  function init() {
+    if (current && !current.root.isConnected) clearTimeout(current.timer);
     const root = document.getElementById('omnisearch-root');
-    if (!root) return;
-
-    root.innerHTML = `
-      <div class="omni-container">
-        <!-- Bara de Cautare Principala -->
-        <div class="omni-search-wrapper">
-          <span class="omni-search-icon">🔍</span>
-          <input 
-            type="text" 
-            id="omnisearch-input" 
-            class="omni-search-input" 
-            placeholder="Caută după patologie, organ, procedură sau scaner (ex: TEP, AVC, Pancreas, Aquilion, TAVI)..." 
-            autocomplete="off"
-            spellcheck="false"
-          >
-          <button type="button" id="omnisearch-clear" class="omni-search-clear" title="Șterge textul">×</button>
-        </div>
-
-        <!-- Randul 1: Modalitati -->
-        <div class="omni-chips-row omni-chips-modalities" aria-label="Filtru Modalitate">
-          <button type="button" class="omni-chip omni-mod-chip active" data-mod="all">Toate</button>
-          <button type="button" class="omni-chip omni-mod-chip" data-mod="ct">⚡ CT</button>
-          <button type="button" class="omni-chip omni-mod-chip" data-mod="irm">🧲 IRM</button>
-          <button type="button" class="omni-chip omni-mod-chip" data-mod="rx">📷 RX</button>
-          <button type="button" class="omni-chip omni-mod-chip" data-mod="eco">📡 US / Eco</button>
-          <button type="button" class="omni-chip omni-mod-chip" data-mod="fluoro">✨ Fluoro</button>
-        </div>
-
-        <!-- Randul 2: Regiuni Anatomice & Contrast -->
-        <div class="omni-chips-row omni-chips-categories" aria-label="Filtru Regiune Anatomică">
-          <button type="button" class="omni-chip omni-cat-chip active" data-cat="all">Toate Regiunile</button>
-          <button type="button" class="omni-chip omni-cat-chip" data-cat="abdomen">Abdomen & Pelvis</button>
-          <button type="button" class="omni-chip omni-cat-chip" data-cat="chest">Torace & Plămân</button>
-          <button type="button" class="omni-chip omni-cat-chip" data-cat="cardiac">Cardiac & Coronar</button>
-          <button type="button" class="omni-chip omni-cat-chip" data-cat="neuro">Neurologie & Cap</button>
-          <button type="button" class="omni-chip omni-cat-chip" data-cat="vascular">Vascular & Angio</button>
-          <button type="button" class="omni-chip omni-cat-chip" data-cat="msk">Musculoscheletic</button>
-          <button type="button" class="omni-chip omni-cat-chip" data-cat="pediatrie">Pediatrie</button>
-          <button type="button" class="omni-chip omni-contrast-chip" data-contrast="contrast">💧 Contrast IV</button>
-          <button type="button" class="omni-chip omni-contrast-chip" data-contrast="native">🌿 Fără Contrast (Nativ)</button>
-        </div>
-
-        <!-- Bara de Stare Rezultate -->
-        <div class="omni-status-bar">
-          <span id="omnisearch-count-badge" class="omni-count-badge">Se încarcă protocoalele...</span>
-        </div>
-
-        <!-- Container Rezultate Live -->
-        <div id="omnisearch-results" class="omni-results-container"></div>
-      </div>
-    `;
-
-    // Event listeners
-    const input = document.getElementById('omnisearch-input');
-    const clearBtn = document.getElementById('omnisearch-clear');
-
-    input.addEventListener('input', (e) => {
-      searchQuery = e.target.value;
-      visibleCount = 24;
-      render();
+    if (!root || root.dataset.omniMounted) return;
+    root.dataset.omniMounted = 'true';
+    const view = {root, state: fromUrl(), limit: 24, timer: null}; current = view;
+    root.innerHTML = `<div class="omni-container">
+      <form class="omni-search-form" role="search" aria-label="Căutare în protocoale"><label for="omnisearch-input">Caută în biblioteca de protocoale</label>
+      <div class="omni-search-wrapper"><span aria-hidden="true">⌕</span><input id="omnisearch-input" class="omni-search-input" type="search" maxlength="400" autocomplete="off" placeholder="Ex.: RX cot Clark, RMN genunchi, CT abdomen Dartmouth" aria-describedby="omni-help"><button type="button" id="omnisearch-clear" class="omni-search-clear" aria-label="Șterge textul">×</button></div></form>
+      <p id="omni-help" class="omni-help">Caută după examinare, regiune, indicație, aparat sau sursă. Sunt acceptate cuvinte cu și fără diacritice.</p>
+      <div class="omni-chips-row" role="group" aria-label="Modalitate" data-slot="modalities"></div>
+      <div class="omni-filters"><label>Regiune<select data-filter="region"></select></label><label>Subgrupă din catalog<select data-filter="segment"></select></label><label>Contrast<select data-filter="contrast"></select></label><label>Sursă declarată<select data-filter="source"></select></label></div>
+      <div class="omni-status-bar"><span id="omnisearch-count-badge" role="status" aria-live="polite">Se încarcă biblioteca…</span><button type="button" class="omni-btn-reset" data-action="reset">Resetează filtrele</button></div>
+      <div id="omnisearch-results" aria-busy="true"></div>
+      <p class="omni-help">Potrivirile indică documente din bibliotecă, nu confirmă indicația clinică sau validarea protocolului. Contrastul este afișat numai conform metadatelor declarate.</p>
+    </div>`;
+    const find = selector => root.querySelector(selector);
+    view.input = find('input'); view.results = find('#omnisearch-results'); view.status = find('[role=status]');
+    view.input.value = view.state.q;
+    for (const [value, label] of Object.entries(MODALITIES)) {
+      const button = el('button', 'omni-chip omni-mod-chip', label); button.type = 'button'; button.dataset.mod = value;
+      button.addEventListener('click', () => { clearTimeout(view.timer); view.state.q = view.input.value.trim(); view.state.modality = value; view.state.segment = 'all'; view.limit = 24; render(view); saveUrl(view.state); });
+      find('[data-slot=modalities]').append(button);
+    }
+    const updateQuery = () => { clearTimeout(view.timer); if (!root.isConnected) return; view.state.q = view.input.value.trim(); view.limit = 24; render(view); saveUrl(view.state); };
+    view.input.addEventListener('input', () => { clearTimeout(view.timer); view.timer = setTimeout(updateQuery, 120); });
+    find('form').addEventListener('submit', event => { event.preventDefault(); updateQuery(); });
+    find('#omnisearch-clear').addEventListener('click', () => { view.input.value = ''; updateQuery(); view.input.focus(); });
+    find('[data-action=reset]').addEventListener('click', () => {
+      clearTimeout(view.timer); view.state = defaults(); view.input.value = ''; view.limit = 24; render(view); saveUrl(view.state); view.input.focus();
     });
-
-    clearBtn.addEventListener('click', () => {
-      input.value = '';
-      searchQuery = '';
-      visibleCount = 24;
-      render();
-      input.focus();
+    for (const select of root.querySelectorAll('[data-filter]')) select.addEventListener('change', () => {
+      clearTimeout(view.timer); view.state.q = view.input.value.trim(); view.state[select.dataset.filter] = select.value;
+      if (select.dataset.filter === 'region') view.state.segment = 'all';
+      view.limit = 24; render(view); saveUrl(view.state);
     });
-
-    // Modality chips
-    document.querySelectorAll('.omni-mod-chip').forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('.omni-mod-chip').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeModality = btn.dataset.mod;
-        visibleCount = 24;
-        render();
-      });
-    });
-
-    // Category chips
-    document.querySelectorAll('.omni-cat-chip').forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('.omni-cat-chip').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeCategory = btn.dataset.cat;
-        visibleCount = 24;
-        render();
-      });
-    });
-
-    // Contrast chips
-    document.querySelectorAll('.omni-contrast-chip').forEach(btn => {
-      btn.addEventListener('click', () => {
-        if (btn.classList.contains('active')) {
-          btn.classList.remove('active');
-          activeContrast = 'all';
-        } else {
-          document.querySelectorAll('.omni-contrast-chip').forEach(b => b.classList.remove('active'));
-          btn.classList.add('active');
-          activeContrast = btn.dataset.contrast;
-        }
-        visibleCount = 24;
-        render();
-      });
-    });
-
-    loadProtocols();
+    view.retry = async () => {
+      view.status.textContent = 'Se încarcă biblioteca…'; view.results.setAttribute('aria-busy', 'true');
+      view.results.replaceChildren();
+      try { await load(); if (root.isConnected) render(view); }
+      catch (_) {
+        if (!root.isConnected) return;
+        view.status.textContent = 'Biblioteca nu a putut fi încărcată. Verifică conexiunea și reîncearcă.';
+        view.results.setAttribute('aria-busy', 'false');
+        const retry = el('button', 'omni-btn-reset', 'Reîncearcă încărcarea'); retry.type = 'button';
+        retry.addEventListener('click', view.retry); view.results.replaceChildren(retry);
+      }
+    };
+    view.retry();
   }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initOmniSearch);
-  } else {
-    initOmniSearch();
+  function options(view, key, choices, placeholder) {
+    const select = view.root.querySelector('[data-filter=' + key + ']');
+    const values = [[ 'all', placeholder ], ...choices];
+    if (!values.some(([value]) => value === view.state[key])) view.state[key] = 'all';
+    select.replaceChildren(...values.map(([value, label]) => new Option(label, value)));
+    select.value = view.state[key]; select.disabled = choices.length === 0;
   }
+  function render(view, focusIndex = null) {
+    if (!catalog || !view.root.isConnected) return;
+    const records = catalog.protocols, state = view.state;
+    const unique = values => [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b,'ro')).map(v => [v, v]);
+    options(view, 'region', Object.entries(catalog.regions).filter(([key]) => records.some(r => r.region === key)), 'Toate regiunile');
+    const scoped = records.filter(r => (state.modality === 'all' || r.modality === state.modality) && (state.region === 'all' || r.region === state.region));
+    options(view, 'segment', unique(scoped.map(r => r.segment)), 'Toate subgrupele');
+    options(view, 'source', unique(records.flatMap(r => r.source_filters || [])), 'Toate sursele');
+    options(view, 'contrast', Object.entries(CONTRAST).filter(([key]) => key !== 'all'), CONTRAST.all);
+    const matches = core.search(records, state);
+    const facets = core.search(records, state, 'modality');
+    for (const button of view.root.querySelectorAll('[data-mod]')) {
+      const key = button.dataset.mod, count = key === 'all' ? facets.length : facets.filter(r => r.modality === key).length;
+      button.textContent = MODALITIES[key] + ' (' + count + ')';
+      button.classList.toggle('active', state.modality === key); button.setAttribute('aria-pressed', String(state.modality === key));
+    }
+    view.root.querySelector('#omnisearch-clear').hidden = !view.input.value;
+    view.results.setAttribute('aria-busy', 'false');
+    view.status.textContent = `${matches.length.toLocaleString('ro-RO')} protocoale găsite · afișate ${Math.min(view.limit, matches.length)}`;
+    view.results.replaceChildren();
+    const filtering = Object.entries(state).some(([key, value]) => value !== defaults()[key]);
+    if (!filtering) {
+      view.status.textContent = `${records.length.toLocaleString('ro-RO')} protocoale în bibliotecă`;
+      view.results.append(el('p', 'omni-idle-banner', 'Introdu termenii căutați sau alege un filtru. Indexul reflectă paginile incluse în această versiune a site-ului.'));
+      return;
+    }
+    if (!matches.length) {
+      view.results.append(el('p', 'omni-empty-state', 'Niciun protocol pentru combinația selectată. Elimină un filtru sau încearcă denumirea examinării, regiunii ori sursei.'));
+      return;
+    }
+    const grid = el('div', 'omni-cards-grid');
+    for (const record of matches.slice(0, view.limit)) {
+      const card = el('a', 'omni-card'); card.href = core.safeUrl(record.url, base);
+      const badges = el('div', 'omni-card-header');
+      badges.append(el('span', 'omni-badge omni-badge-mod', MODALITIES[record.modality]), el('span', 'omni-badge', catalog.regions[record.region] || record.category_label),
+        el('span', 'omni-badge', CONTRAST[record.contrast] || CONTRAST.unknown));
+      card.append(badges, el('h3', 'omni-card-title', record.title));
+      if (record.segment) card.append(el('p', 'omni-card-segment', record.segment));
+      const words = core.tokens(state.q);
+      const indication = (record.indications || []).find(text => words.some(w => core.normalize(text).includes(w))) || record.indications?.[0];
+      if (indication) card.append(el('p', 'omni-card-indications', indication));
+      card.append(el('p', 'omni-card-source', record.sources.length ? 'Surse: ' + record.sources.join(' · ') : 'Sursa exactă nu este precizată'));
+      card.append(el('p', 'omni-card-review', [record.publication, 'Revizuire medicală: ' + record.medical_review].filter(Boolean).join(' · ')));
+      card.append(el('span', 'omni-card-action', 'Deschide protocolul →')); grid.append(card);
+    }
+    view.results.append(grid);
+    if (focusIndex !== null) grid.children[focusIndex]?.focus();
+    if (matches.length > view.limit) {
+      const more = el('button', 'omni-load-more-btn', `Afișează încă ${Math.min(24, matches.length - view.limit)} (rămase: ${matches.length - view.limit})`); more.type = 'button';
+      more.addEventListener('click', () => { const previous = view.limit; view.limit += 24; render(view, previous); }); view.results.append(more);
+    }
+  }
+  addEventListener('popstate', () => { if (current?.root.isConnected) { clearTimeout(current.timer); current.state = fromUrl(); current.input.value = current.state.q; current.limit = 24; render(current); } });
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
+  if (window.document$) window.document$.subscribe(init);
 })();

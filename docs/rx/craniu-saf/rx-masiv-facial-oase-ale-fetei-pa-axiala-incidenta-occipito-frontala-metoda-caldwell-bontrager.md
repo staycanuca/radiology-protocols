@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-masiv-facial-oase-ale-fetei-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Dacă aria de interes diagnostic este reprezentată de marginile orbitare, utilizați
@@ -112,11 +116,12 @@ title: Rx Masiv facial (oasele feței) PA axială (incidență occipito-frontal�
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -161,6 +166,7 @@ title: Rx Masiv facial (oasele feței) PA axială (incidență occipito-frontal�
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Dacă aria de interes diagnostic este reprezentată de marginile orbitare, utilizați un unghi caudal de 30° pentru a proiecta piramidele pietroase sub IOM. Raza centrală va ieși la nivelul orbitelor medii. Fig. 11.132 Incidență axială PA Caldwell—linia orbitomeatală (LOM) perpendiculară, raza centrală 15° caudal, ortostatism și decubit ventral (imagine inserată). Masiv facial (oasele feței) DE RUTINĂ profil Incidență parieto-acantială (incidență occipito-mentonieră (metoda Waters)) Incidență axială PA (incidență occipito-frontală (metoda Caldwell))

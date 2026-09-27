@@ -12,6 +12,10 @@ images:
 - caption: Merrill — pagina 928, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-pa-axiala-p928-merrill/p928_fig1.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -31,10 +35,10 @@ slug: rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-pa-axiala-p928-merri
 source_pages:
 - 928
 source_sections:
-  collimation: • se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+  collimation: • se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm)
     dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere
-    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
-    de lateralitate (D/S) în câmpul de expunere colimat.
+    nu trebuie să fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de
+    lateralitate (D/S) în câmpul de expunere colimat.
   cr: '• Orientată la mijlocul distanței dintre TMJ, la un unghi de 30 grade cranial.
     Zanelli 10 a recomandat că un contrast mai bun în jurul TMJ ar putea fi obținut
     dacă pacientul era instruit să umple gura cu aer pentru această incidență.
@@ -61,10 +65,10 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+  collimation: se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm)
     dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere
-    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
-    de lateralitate (D/S) în câmpul de expunere colimat.
+    nu trebuie să fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de
+    lateralitate (D/S) în câmpul de expunere colimat.
 title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — incidență
   PA axială (Merrill)
 ---
@@ -92,11 +96,12 @@ title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — inci
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -118,7 +123,7 @@ title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — inci
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm) dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -134,6 +139,7 @@ title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — inci
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -165,33 +171,3 @@ title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — inci
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 928–928](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### colimare
-
-• se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale, deasupra ATM-urilor și sub bărbie. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Orientată la mijlocul distanței dintre TMJ, la un unghi de 30 grade cranial. Zanelli 10 a recomandat că un contrast mai bun în jurul TMJ ar putea fi obținut dacă pacientul era instruit să umple gura cu aer pentru această incidență.
-• Se centrează receptorul de imagine pe raza centrală.
-
-### part_pos
-
-• Cu MSP al capului pacientului centrat pe linia mediană a receptorului de imagine, se sprijină capul pe nas și bărbie astfel încât suprafața anterioară a simfizei mandibulare să fie paralelă cu planul receptorului de imagine. Această poziție plasează linia acantiomeatală (LAM) aproape perpendicular pe planul receptorului de imagine.
-• Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Fig. 11.138).
-
-### patient_pos
-
-• se așază pacientul în decubit ventral sau pe scaun, în fața stativului vertical Bucky.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

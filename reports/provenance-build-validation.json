@@ -1,0 +1,27 @@
+{
+  "protocol_pages_checked": 1667,
+  "samples": [
+    {
+      "path": "rx/abdomen/rx-abdomen-antero-posterior-decubit-dorsal-p373-clark.md",
+      "summary": "Proveniență 1 referință declarată Fidelitatea preluării Nedocumentată Revizuire medicală Nedocumentată"
+    },
+    {
+      "path": "rx/abdomen/rx-abdomen-ap-antero-posterior-kub-bontrager.md",
+      "summary": "Proveniență 1 referință declarată Fidelitatea preluării Nedocumentată Revizuire medicală Nedocumentată"
+    },
+    {
+      "path": "rx/abdomen/rx-abdomen-incidenta-antero-posterioara-ap-d-p1487-merrill.md",
+      "summary": "Proveniență 1 referință declarată Fidelitatea preluării Nedocumentată Revizuire medicală Nedocumentată"
+    },
+    {
+      "path": "ct/abdomen/ct-abdomen-pelvis-ohsu.md",
+      "summary": "Proveniență Sursa exactă lipsește Fidelitatea preluării Nedocumentată Revizuire medicală Nedocumentată"
+    },
+    {
+      "path": "rx/coloana/rx-coloana-toracala.md",
+      "summary": "Proveniență 4 referințe declarate Fidelitatea preluării Nedocumentată Revizuire medicală Înregistrare anterioară incompletă"
+    }
+  ],
+  "errors": [],
+  "visual_browser_check": "Unavailable: no browser provider connected"
+}

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: perpendicular pe midpoint de receptorul de imagine.
+centering: perpendicular pe mijlocul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -21,54 +21,60 @@ images:
 - caption: Merrill — pagina 614, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill/p614_fig5.png
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul pe masa de examinare în Decubit dorsal poziție.;
-  se centrează MSP de corp la linia mediană grilă și adjust it în true Decubit dorsal
-  poziție. Unless contraindicated because de Traumatism / Regim Urgență sau pathologic
-  factors, medially se rotește picioare și lower limbs approximately 15 la 20 grade
-  la place femoral necks paralel cu plane de receptorul de imagine (receptorul de
-  imagine) (Figs. 8.13 și 8.14). rotație internă (medială) este easier pentru pacientul
-  la maintain if genunchii sunt sprijinit. heels trebuie să fie plasat approximately
-  8 la 10 inches (20 la 24 cm) apart. se imobilizează membre inferioare cu săculeți
-  cu nisip across ankles if necessary. Check distance de la spină iliacă antero-superioară
-  (SIAS) la tabletop pe fiecare side la ensure that Bazin (bazin (pelvis)) este nu
-  rotit. se centrează receptorul de imagine la nivelul părți moi depression just above
-  palpable prominence de mare trohanter (approximately 1.5 inches [3.8 cm]), which
-  este also midway între spină iliacă antero-superioară (SIAS) și simfiză pubiană.
-  în average-sized pacienți, center de receptorul de imagine este approximately 2
-  inches (5 cm) inferior la spină iliacă antero-superioară (SIAS) și 2 inches (5 cm)
-  superior la simfiză pubiană (Fig. 8.15). If Bazin (bazin (pelvis)) este deep, palpate
-  pentru crestele iliace și se ajustează poziție de receptorul de imagine so that
-  its upper margine projects 1 la 1.5 inches (2.5 la 3.8 cm) above crest.
+position: se poziționează pacientul pe masa de examinare în decubit dorsal; se centrează
+  MSP al corpului pe linia mediană a grilei și se ajustează în poziție de decubit
+  dorsal adevărată. Cu excepția cazurilor contraindicate din cauza traumatismului
+  / regimului de urgență sau a factorilor patologici, se rotesc medial picioarele
+  și membrele inferioare aproximativ 15 la 20 de grade pentru a poziționa colurile
+  femurale paralel cu planul receptorului de imagine (receptorul de imagine) (Figs.
+  8.13 și 8.14). Rotația internă (medială) este mai ușor de menținut de către pacient
+  dacă genunchii sunt sprijiniți. Călcâiele trebuie plasate la aproximativ 8 la 10
+  țoli (20 la 24 cm) unul de celălalt. Se imobilizează membrele inferioare cu săculeți
+  cu nisip peste glezne, dacă este necesar. Se verifică distanța de la spina iliacă
+  antero-superioară (SIAS) la masa de examinare, pe fiecare parte, pentru a se asigura
+  că bazinul nu este rotit. Se centrează receptorul de imagine la nivelul depresiunii
+  țesuturilor moi situate imediat deasupra proeminenței palpabile a marelui trohanter
+  (aproximativ 1.5 țoli [3.8 cm]), care este, de asemenea, la jumătatea distanței
+  dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană. La pacienții cu
+  dimensiuni medii, centrul receptorului de imagine se află aproximativ 2 țoli (5
+  cm) inferior față de spina iliacă antero-superioară (SIAS) și 2 țoli (5 cm) superior
+  față de simfiza pubiană (Fig. 8.15). Dacă bazinul este profund, se palpează crestele
+  iliace și se ajustează poziția receptorului de imagine astfel încât marginea sa
+  superioară să se proiecteze la 1 la 1.5 țoli (2.5 la 3.8 cm) deasupra crestei.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire Bazin (bazin (pelvis)) și proximal femora
-- ambele ilia și greater trochanters echidistant față de edge de radiografie
-- Lower coloană vertebrală centrat pe middle de radiografie
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Bazin (bazin (pelvis))
-- simetric ilia
-- simetric găuri obturatoare
-- coloană vertebrală ischiatice equally seen
-- Sacru și Coccis aliniat cu simfiză pubiană
-- corect rotație de proximal femora
-- Femoral necks în their full extent fără superimposition
-- Greater trochanters în profile
-- Lesser trochanters, if seen, vizibil pe medial margine de femora
-- Bony detalii trabeculare osoase și surrounding soft tissues Congenital luxație articulară
-  de Șold Martz și Taylor 3 recommended two AP incidențe de Bazin (bazin (pelvis))
-  la show relationship de cap femural la cotil (acetabul) în pacienți cu congenital
-  luxație articulară de Șold. first incidență este obtained cu raza centrală centrală
-  orientat perpendicular pe simfiză pubiană la detect orice lateral sau superior displacement
-  de cap femural. second incidență este obtained cu raza centrală centrală orientat
-  la simfiză pubiană la cephalic angulation de 45 grade (Fig. 8.17). This angulation
-  casts shadow de anteriorly displaced cap femural above that de cotil (acetabul)
-  și shadow de posteriorly displaced cap below that de cotil (acetabul).
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul bazin și femurele proximale
+- ambele aripi iliace și marii trohanteri echidistanți față de marginea radiografiei
+- Coloana vertebrală lombară centrată pe mijlocul radiografiei
+- Absența rotației anatomice a bazinului (simetrie bilaterală perfectă)
+- aripi iliace simetrice
+- găuri obturatoare simetrice
+- coloana vertebrală și ischioanele vizibile în mod egal
+- Sacrul și coccisul aliniate cu simfiza pubiană
+- rotația corectă a femurelor proximale
+- Colurile femurale vizibile în întregime, fără suprapunere
+- Marii trohanteri în profil
+- Micii trohanteri, dacă sunt vizibili, vizibili pe marginea medială a femurelor
+- Detalii osoase trabeculare și țesuturile moi înconjurătoare. Luxația congenitală
+  a șoldului. Martz și Taylor 3 au recomandat două incidențe AP ale bazinului pentru
+  a evidenția relația capului femural cu cotilul (acetabulul) la pacienții cu luxație
+  congenitală a șoldului. Prima incidență se efectuează cu raza centrală orientată
+  perpendicular pe simfiza pubiană pentru a detecta orice deplasare laterală sau superioară
+  a capului femural. A doua incidență se efectuează cu raza centrală orientată spre
+  simfiza pubiană, cu o angulație cefalică de 45 grade (Fig. 8.17). Această angulație
+  proiectează umbra capului femural deplasat anterior deasupra umbrei cotilului (acetabulului)
+  și umbra capului deplasat posterior sub umbra cotilului (acetabulului).
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-bazin-pelvis-and-proximal-femora-incidenta-antero-posterioara-ap-p610-merrill
 source_pages:
@@ -78,107 +84,102 @@ source_pages:
 - 613
 - 614
 source_sections:
-  anatomy: AP incidență de bazinul și de capul, neck, trochanters, și proximal one-third
-    sau one-fourth de shaft de femora (Fig. 8.16).
-  collimation: '• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin
+  anatomy: Incidență AP a bazinului și a capului, colului, trohanterilor și a unei
+    treimi sau unei pătrimi proximale a diafizei femurelor (Fig. 8.16).
+  collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
+    Pentru pacienții mai mici, se colimează la 1 țol (2.5 cm) dincolo de umbra cutanată
+    pe părți. Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • perpendicular pe mijlocul receptorului de imagine.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    shadow pe sides. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • perpendicular pe midpoint de receptorul de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Întregul bazin și femurele proximale
 
-    • Entire bazin (pelvis) și proximal femora
+    • ambele aripi iliace și marii trohanteri echidistanți față de marginea radiografiei
 
-    • ambele ilia și greater trochanters echidistant față de edge de radiografie
+    • Coloana vertebrală lombară centrată pe mijlocul radiografiei
 
-    • Lower coloană vertebrală centrat pe middle de radiografie
+    • Absența rotației anatomice a bazinului (simetrie bilaterală perfectă)
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de bazin (pelvis)
+    • aripi iliace simetrice
 
-    • simetric ilia
+    • găuri obturatoare simetrice
 
-    • simetric găuri obturatoare
+    • coloana vertebrală și ischioanele vizibile în mod egal
 
-    • coloană vertebrală ischiatice equally seen
+    • sacrul și coccisul aliniate cu simfiza pubiană
 
-    • sacru și coccis aliniat cu simfiză pubiană
+    • rotația corectă a femurelor proximale
 
-    • corect rotație de proximal femora
+    • Colurile femurale vizibile în întregime, fără suprapunere
 
-    • Femoral necks în their full extent fără superimposition
+    • Marii trohanteri în profil
 
-    • Greater trochanters în profile
+    • Micii trohanteri, dacă sunt vizibili, vizibili pe marginea medială a femurelor
 
-    • Lesser trochanters, if seen, vizibil pe medial margine de femora
+    • Detalii osoase trabeculare și țesuturile moi înconjurătoare
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    Luxația congenitală a șoldului
 
-    Congenital luxație articulară de hip
+    Martz și Taylor 3 au recomandat două incidențe AP ale bazinului pentru a evidenția
+    relația capului femural cu cotilul (acetabulul) la pacienții
 
-    Martz și Taylor 3 recommended two AP incidențe de bazinul la show relationship
-    de cap femural la cotil (acetabul) în pacienți
+    cu luxație congenitală a șoldului. Prima incidență se efectuează cu raza centrală
+    orientată perpendicular pe simfiza pubiană pentru
 
-    cu congenital luxație articulară de hip. first incidență este obtained cu raza
-    centrală centrală orientat perpendicular pe simfiză pubiană la
+    a detecta orice deplasare laterală sau superioară a capului femural. A doua incidență
+    se efectuează cu raza centrală orientată spre simfiza
 
-    detect orice lateral sau superior displacement de cap femural. second incidență
-    este obtained cu raza centrală centrală orientat la pubic
+    pubiană, cu o angulație cefalică de 45 grade (Fig. 8.17). Această angulație proiectează
+    umbra capului femural deplasat anterior deasupra umbrei
 
-    simfiză la cephalic angulation de 45 grade (Fig. 8.17). This angulation casts
-    shadow de anteriorly displaced cap femural above that de
+    cotilului (acetabulului) și umbra capului deplasat posterior sub umbra cotilului
+    (acetabulului).'
+  part_pos: '• se centrează MSP al corpului pe linia mediană a grilei și se ajustează
+    în poziție de decubit dorsal adevărată.
 
-    cotil (acetabul) și shadow de posteriorly displaced cap below that de cotil (acetabul).'
-  part_pos: '• se centrează MSP de corp la linia mediană grilă și adjust it în true
-    decubit dorsal.
+    • Cu excepția cazurilor contraindicate din cauza traumatismului sau a factorilor
+    patologici, se rotesc medial picioarele și membrele inferioare aproximativ 15
+    la 20 de grade pentru a poziționa colurile femurale paralel cu planul receptorului
+    de imagine (receptorul de imagine) (Figs. 8.13 și 8.14). Rotația internă (medială)
+    este mai ușor de menținut de către pacient dacă genunchii sunt sprijiniți. Călcâiele
+    trebuie plasate la aproximativ 8 la 10 țoli (20 la 24 cm) unul de celălalt.
 
-    • Unless contraindicated because de trauma sau pathologic factors, medially se
-    rotește picioare și lower limbs approximately 15 la 20 grade
+    • se imobilizează membrele inferioare cu săculeți cu nisip peste glezne, dacă
+    este necesar.
 
-    la place femoral necks paralel cu plane de receptorul de imagine (receptorul de
-    imagine) (Figs. 8.13 și 8.14). rotație internă (medială) este easier pentru pacient
-    la maintain if genunchii sunt sprijinit. heels trebuie să fie plasat approximately
-    8 la 10 inches (20 la 24 cm) apart.
+    • Se verifică distanța de la spina iliacă antero-superioară (SIAS) la masa de
+    examinare, pe fiecare parte, pentru a se asigura că bazinul nu este rotit.
 
-    • se imobilizează membre inferioare cu săculeți cu nisip across ankles if necessary.
+    • se centrează receptorul de imagine la nivelul depresiunii țesuturilor moi situate
+    imediat deasupra proeminenței palpabile a marelui trohanter (aproximativ 1.5 țoli
+    [3.8 cm]), care este, de asemenea, la jumătatea distanței dintre spina iliacă
+    antero-superioară (SIAS) și simfiza pubiană. La pacienții cu dimensiuni medii,
+    centrul receptorului de imagine se află aproximativ 2 țoli (5 cm) inferior față
+    de spina iliacă antero-superioară (SIAS) și 2 țoli (5 cm) superior față de simfiza
+    pubiană (Fig. 8.15).
 
-    • Check distance de la spină iliacă antero-superioară (SIAS) la tabletop pe fiecare
-    side la ensure that bazinul este nu rotit.
-
-    • se centrează receptorul de imagine la nivelul părți moi depression just above
-    palpable prominence de mare trohanter (approximately 1.5
-
-    inches [3.8 cm]), which este also midway între spină iliacă antero-superioară
-    (SIAS) și simfiză pubiană. în average-sized pacienți, center de receptorul de
-    imagine este
-
-    approximately 2 inches (5 cm) inferior la spină iliacă antero-superioară (SIAS)
-    și 2 inches (5 cm) superior la simfiză pubiană (Fig. 8.15).
-
-    • If bazinul este deep, palpate pentru crestele iliace și se ajustează poziție
-    de receptorul de imagine so that its upper margine projects 1 la 1.5 inches (2.5
-    la 3.8
-
-    cm) above crest.'
+    • Dacă bazinul este profund, se palpează crestele iliace și se ajustează poziția
+    receptorului de imagine astfel încât marginea sa superioară să se proiecteze la
+    1 la 1.5 țoli (2.5 la 3.8 cm) deasupra crestei.'
   patient_pos: • se poziționează pacientul pe masa de examinare în decubit dorsal.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate 14 × 17 inches (35 ×
-
-    43 cm) transversal.'
+  tech: poziționat conform instrucțiunilor producătorului sau protocolului departamentului
+    pentru afișarea corectă a orientării anatomice; placă pentru raza centrală de
+    14 × 17 țoli (35 × 43 cm), transversală.
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 610–614
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
-    pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin shadow pe sides.
-    Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară (AP) (Merrill)
+    Pentru pacienții mai mici, se colimează la 1 țol (2.5 cm) dincolo de umbra cutanată
+    pe părți. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx bazin și femure proximale — incidență antero-posterioară (AP) (Merrill)
 ---
-# Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx bazin și femure proximale — incidență antero-posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -202,17 +203,18 @@ title: Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul pe masa de examinare în Decubit dorsal poziție.; se centrează MSP de corp la linia mediană grilă și adjust it în true Decubit dorsal poziție. Unless contraindicated because de Traumatism / Regim Urgență sau pathologic factors, medially se rotește picioare și lower limbs approximately 15 la 20 grade la place femoral necks paralel cu plane de receptorul de imagine (receptorul de imagine) (Figs. 8.13 și 8.14). rotație internă (medială) este easier pentru pacientul la maintain if genunchii sunt sprijinit. heels trebuie să fie plasat approximately 8 la 10 inches (20 la 24 cm) apart. se imobilizează membre inferioare cu săculeți cu nisip across ankles if necessary. Check distance de la spină iliacă antero-superioară (SIAS) la tabletop pe fiecare side la ensure that Bazin (bazin (pelvis)) este nu rotit. se centrează receptorul de imagine la nivelul părți moi depression just above palpable prominence de mare trohanter (approximately 1.5 inches [3.8 cm]), which este also midway între spină iliacă antero-superioară (SIAS) și simfiză pubiană. în average-sized pacienți, center de receptorul de imagine este approximately 2 inches (5 cm) inferior la spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) superior la simfiză pubiană (Fig. 8.15). If Bazin (bazin (pelvis)) este deep, palpate pentru crestele iliace și se ajustează poziție de receptorul de imagine so that its upper margine projects 1 la 1.5 inches (2.5 la 3.8 cm) above crest.
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de receptorul de imagine.
+    - **Poziție Pacient:** se poziționează pacientul pe masa de examinare în decubit dorsal; se centrează MSP al corpului pe linia mediană a grilei și se ajustează în poziție de decubit dorsal adevărată. Cu excepția cazurilor contraindicate din cauza traumatismului / regimului de urgență sau a factorilor patologici, se rotesc medial picioarele și membrele inferioare aproximativ 15 la 20 de grade pentru a poziționa colurile femurale paralel cu planul receptorului de imagine (receptorul de imagine) (Figs. 8.13 și 8.14). Rotația internă (medială) este mai ușor de menținut de către pacient dacă genunchii sunt sprijiniți. Călcâiele trebuie plasate la aproximativ 8 la 10 țoli (20 la 24 cm) unul de celălalt. Se imobilizează membrele inferioare cu săculeți cu nisip peste glezne, dacă este necesar. Se verifică distanța de la spina iliacă antero-superioară (SIAS) la masa de examinare, pe fiecare parte, pentru a se asigura că bazinul nu este rotit. Se centrează receptorul de imagine la nivelul depresiunii țesuturilor moi situate imediat deasupra proeminenței palpabile a marelui trohanter (aproximativ 1.5 țoli [3.8 cm]), care este, de asemenea, la jumătatea distanței dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană. La pacienții cu dimensiuni medii, centrul receptorului de imagine se află aproximativ 2 țoli (5 cm) inferior față de spina iliacă antero-superioară (SIAS) și 2 țoli (5 cm) superior față de simfiza pubiană (Fig. 8.15). Dacă bazinul este profund, se palpează crestele iliace și se ajustează poziția receptorului de imagine astfel încât marginea sa superioară să se proiecteze la 1 la 1.5 țoli (2.5 la 3.8 cm) deasupra crestei.
+    - **Punct de Centrare Fascicul:** perpendicular pe mijlocul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -228,28 +230,28 @@ title: Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin shadow pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții mai mici, se colimează la 1 țol (2.5 cm) dincolo de umbra cutanată pe părți. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Bazin (bazin (pelvis)) și proximal femora
-    - ambele ilia și greater trochanters echidistant față de edge de radiografie
-    - Lower coloană vertebrală centrat pe middle de radiografie
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Bazin (bazin (pelvis))
-    - simetric ilia
-    - simetric găuri obturatoare
-    - coloană vertebrală ischiatice equally seen
-    - Sacru și Coccis aliniat cu simfiză pubiană
-    - corect rotație de proximal femora
-    - Femoral necks în their full extent fără superimposition
-    - Greater trochanters în profile
-    - Lesser trochanters, if seen, vizibil pe medial margine de femora
-    - Bony detalii trabeculare osoase și surrounding soft tissues Congenital luxație articulară de Șold Martz și Taylor 3 recommended two AP incidențe de Bazin (bazin (pelvis)) la show relationship de cap femural la cotil (acetabul) în pacienți cu congenital luxație articulară de Șold. first incidență este obtained cu raza centrală centrală orientat perpendicular pe simfiză pubiană la detect orice lateral sau superior displacement de cap femural. second incidență este obtained cu raza centrală centrală orientat la simfiză pubiană la cephalic angulation de 45 grade (Fig. 8.17). This angulation casts shadow de anteriorly displaced cap femural above that de cotil (acetabul) și shadow de posteriorly displaced cap below that de cotil (acetabul).
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul bazin și femurele proximale
+    - ambele aripi iliace și marii trohanteri echidistanți față de marginea radiografiei
+    - Coloana vertebrală lombară centrată pe mijlocul radiografiei
+    - Absența rotației anatomice a bazinului (simetrie bilaterală perfectă)
+    - aripi iliace simetrice
+    - găuri obturatoare simetrice
+    - coloana vertebrală și ischioanele vizibile în mod egal
+    - Sacrul și coccisul aliniate cu simfiza pubiană
+    - rotația corectă a femurelor proximale
+    - Colurile femurale vizibile în întregime, fără suprapunere
+    - Marii trohanteri în profil
+    - Micii trohanteri, dacă sunt vizibili, vizibili pe marginea medială a femurelor
+    - Detalii osoase trabeculare și țesuturile moi înconjurătoare. Luxația congenitală a șoldului. Martz și Taylor 3 au recomandat două incidențe AP ale bazinului pentru a evidenția relația capului femural cu cotilul (acetabulul) la pacienții cu luxație congenitală a șoldului. Prima incidență se efectuează cu raza centrală orientată perpendicular pe simfiza pubiană pentru a detecta orice deplasare laterală sau superioară a capului femural. A doua incidență se efectuează cu raza centrală orientată spre simfiza pubiană, cu o angulație cefalică de 45 grade (Fig. 8.17). Această angulație proiectează umbra capului femural deplasat anterior deasupra umbrei cotilului (acetabulului) și umbra capului deplasat posterior sub umbra cotilului (acetabulului).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -258,6 +260,7 @@ title: Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -321,69 +324,3 @@ title: Rx Bazin (Pelvis) and Proximal Femora — Incidență Antero-Posterioară
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 610–614](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP incidență de bazinul și de capul, neck, trochanters, și proximal one-third sau one-fourth de shaft de femora (Fig. 8.16).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. pentru smaller pacienți, collimate 1 inch (2.5 cm) beyond skin
-shadow pe sides. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe midpoint de receptorul de imagine.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire bazin (pelvis) și proximal femora
-• ambele ilia și greater trochanters echidistant față de edge de radiografie
-• Lower coloană vertebrală centrat pe middle de radiografie
-• Absența rotației anatomice (simetrie bilaterală perfectă) de bazin (pelvis)
-• simetric ilia
-• simetric găuri obturatoare
-• coloană vertebrală ischiatice equally seen
-• sacru și coccis aliniat cu simfiză pubiană
-• corect rotație de proximal femora
-• Femoral necks în their full extent fără superimposition
-• Greater trochanters în profile
-• Lesser trochanters, if seen, vizibil pe medial margine de femora
-• Bony detalii trabeculare osoase și surrounding soft tissues
-Congenital luxație articulară de hip
-Martz și Taylor 3 recommended two AP incidențe de bazinul la show relationship de cap femural la cotil (acetabul) în pacienți
-cu congenital luxație articulară de hip. first incidență este obtained cu raza centrală centrală orientat perpendicular pe simfiză pubiană la
-detect orice lateral sau superior displacement de cap femural. second incidență este obtained cu raza centrală centrală orientat la pubic
-simfiză la cephalic angulation de 45 grade (Fig. 8.17). This angulation casts shadow de anteriorly displaced cap femural above that de
-cotil (acetabul) și shadow de posteriorly displaced cap below that de cotil (acetabul).
-
-### part_pos
-
-• se centrează MSP de corp la linia mediană grilă și adjust it în true decubit dorsal.
-• Unless contraindicated because de trauma sau pathologic factors, medially se rotește picioare și lower limbs approximately 15 la 20 grade
-la place femoral necks paralel cu plane de receptorul de imagine (receptorul de imagine) (Figs. 8.13 și 8.14). rotație internă (medială) este easier pentru pacient la maintain if genunchii sunt sprijinit. heels trebuie să fie plasat approximately 8 la 10 inches (20 la 24 cm) apart.
-• se imobilizează membre inferioare cu săculeți cu nisip across ankles if necessary.
-• Check distance de la spină iliacă antero-superioară (SIAS) la tabletop pe fiecare side la ensure that bazinul este nu rotit.
-• se centrează receptorul de imagine la nivelul părți moi depression just above palpable prominence de mare trohanter (approximately 1.5
-inches [3.8 cm]), which este also midway între spină iliacă antero-superioară (SIAS) și simfiză pubiană. în average-sized pacienți, center de receptorul de imagine este
-approximately 2 inches (5 cm) inferior la spină iliacă antero-superioară (SIAS) și 2 inches (5 cm) superior la simfiză pubiană (Fig. 8.15).
-• If bazinul este deep, palpate pentru crestele iliace și se ajustează poziție de receptorul de imagine so that its upper margine projects 1 la 1.5 inches (2.5 la 3.8
-cm) above crest.
-
-### patient_pos
-
-• se poziționează pacientul pe masa de examinare în decubit dorsal.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate 14 × 17 inches (35 ×
-43 cm) transversal.
-

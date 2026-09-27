@@ -7,6 +7,10 @@ centering: orientat spre apofiza spinoasă C7, cu un unghi mediu de 35 grade cau
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -105,11 +109,12 @@ title: Radiografia arcului vertebral (pilieri) — oblică axială AP — rotaț
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -153,6 +158,7 @@ title: Radiografia arcului vertebral (pilieri) — oblică axială AP — rotaț
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -168,46 +174,3 @@ title: Radiografia arcului vertebral (pilieri) — oblică axială AP — rotaț
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 703–704](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-arcul posterior și pilierii coloanei cervicale și ai coloanei toracale superioare, cu articulațiile zigapofizare deschise (Fig. 9.63).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• orientat spre apofiza spinoasă C7, cu un unghi mediu de 35 grade caudal (interval 30 până la 40 grade).
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-• Structurile arcului vertebral, în special procesele articulare superioare și inferioare (pilierii), fără suprapunerea corpurilor vertebrale și a proceselor transverse
-• Procesele articulare de pe partea de interes
-• Articulațiile zigapofizare deschise între procesele articulare
-• Detalii osoase trabeculare și țesuturile moi adiacente
-
-### part_pos
-
-• se rotește capul pacientului cu 45 până la 50 grade, îndepărtând mandibula de partea de interes. O rotație a capului de 45 până la 50 grade evidențiază de obicei procesele articulare de la C2–C7 și T1. Uneori este necesară o rotație de 60 până la 70 grade pentru a evidenția procesele de la C6 și T1–T4 (Fig. 9.62).
-• se poziționează receptorul de imagine astfel încât marginea superioară să fie la nivelul vârfului mastoidei.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
-× 30 cm).
-

@@ -3,21 +3,23 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: • raza centrală orizontală centrală este centred la palpable Articulații
-  Sternoclaviculare just below incizură jugulară (furculiță sternală).
+centering: • raza centrală orizontală este centrată pe articulațiile sternoclaviculare
+  palpabile, imediat sub incizura jugulară (furculița sternală).
 clinical_indications:
-- "A 24 \x02 30-cm casetă este used, plasat transversely în Ortostatism casetă holder."
+- O casetă de 24 × 30 cm este utilizată, plasată transversal în suportul de casetă
+  pentru ortostatism.
 images:
-- caption: • radiographic expunere este similar la that given pentru an
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: • Expunerea radiografică este similară celei utilizate pentru o
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_1.jpeg
-- caption: radiografie de normal Articulații Sternoclaviculare în Postero-anterior
-    (PA) incidență
+- caption: Radiografie normală a articulațiilor sternoclaviculare în incidență postero-anterioară
+    (PA)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_2.jpeg
-- caption: radiografie de normal Articulații Sternoclaviculare în Profil (lateral)
-    incidență
+- caption: Radiografie normală a articulațiilor sternoclaviculare în incidență de
+    profil (lateral)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_3.jpeg
@@ -25,24 +27,26 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Ideally anterior subluxation este diagnosed clinically. posterior subluxation
-  compromises airway.
+notes: '• În mod ideal, subluxația anterioară este diagnosticată clinic. Subluxația
+  posterioară compromite căile respiratorii.
 
-  100 radiografie de normal Articulații Sternoclaviculare în Postero-anterior (PA)
-  incidență radiografie de normal Articulații Sternoclaviculare în Profil (lateral)
-  incidență'
-position: '• pacientul stă așezat sau stands sideways cu partea afectată adjacent
-  la caseta.
+  100 radiografie normală a articulațiilor sternoclaviculare în incidență postero-anterioară
+  (PA) radiografie normală a articulațiilor sternoclaviculare în incidență de profil
+  (lateral)'
+position: '• Pacientul stă așezat sau stă lateral, cu partea afectată adiacentă casetei.
 
-  • planul mediosagital este ajustat paralel cu casetă cu upper braț în contact cu
-  it.
+  • Planul mediosagital este ajustat paralel cu caseta, cu brațul în contact cu aceasta.
 
-  • pacientul clasps mâinile behind și pulls umerii well back la avoid orice obscuring
-  de articulații.
+  • Pacientul își împreunează mâinile în spate și trage bine umerii înapoi pentru
+  a evita suprapunerea peste articulații.
 
-  • centre de caseta este ajustat la coincide cu level de Articulații Sternoclaviculare.'
+  • Centrul casetei este ajustat să coincidă cu nivelul articulațiilor sternoclaviculare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,7 +55,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Articulații Sternoclaviculare).
+- Vizualizarea clară a întregii arii anatomice (articulațiile sternoclaviculare).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -63,14 +67,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Articulații Sternoclaviculare Postero-Anterior (PA)
+  mas: Conform AEC / grosimii anatomice
+title: Rx articulații sternoclaviculare postero-anterior (PA)
 ---
-# Rx Articulații Sternoclaviculare Postero-Anterior (PA)
+# Rx articulații sternoclaviculare postero-anterior (PA)
 
 
 <div class="rx-meta-bar">
@@ -89,25 +93,27 @@ title: Rx Articulații Sternoclaviculare Postero-Anterior (PA)
 
     === "Indicații Clinice"
 
-        - A 24  30-cm casetă este used, plasat transversely în Ortostatism casetă holder.
+        - O casetă de 24 × 30 cm este utilizată, plasată transversal în suportul de casetă pentru ortostatism.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat sau stands sideways cu partea afectată adjacent la caseta.
-• planul mediosagital este ajustat paralel cu casetă cu upper braț în contact cu it.
-• pacientul clasps mâinile behind și pulls umerii well back la avoid orice obscuring de articulații.
-• centre de caseta este ajustat la coincide cu level de Articulații Sternoclaviculare.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este centred la palpable Articulații Sternoclaviculare just below incizură jugulară (furculiță sternală).
+    - **Poziție Pacient:**
+        - Pacientul stă așezat sau stă lateral, cu partea afectată adiacentă casetei.
+        - Planul mediosagital este ajustat paralel cu caseta, cu brațul în contact cu aceasta.
+        - Pacientul își împreunează mâinile în spate și trage bine umerii înapoi pentru a evita suprapunerea peste articulații.
+        - Centrul casetei este ajustat să coincidă cu nivelul articulațiilor sternoclaviculare.
+    - **Punct de Centrare Fascicul:** • raza centrală orizontală este centrată pe articulațiile sternoclaviculare palpabile, imediat sub incizura jugulară (furculița sternală).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -118,19 +124,19 @@ title: Rx Articulații Sternoclaviculare Postero-Anterior (PA)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Articulații Sternoclaviculare).
+    - Vizualizarea clară a întregii arii anatomice (articulațiile sternoclaviculare).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -144,9 +150,9 @@ title: Rx Articulații Sternoclaviculare Postero-Anterior (PA)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Ideally anterior subluxation este diagnosed clinically. posterior subluxation compromises airway.
-100 radiografie de normal Articulații Sternoclaviculare în Postero-anterior (PA) incidență radiografie de normal Articulații Sternoclaviculare în Profil (lateral) incidență
+    - În mod ideal, subluxația anterioară este diagnosticată clinic. Subluxația posterioară compromite căile respiratorii. 100 radiografie normală a articulațiilor sternoclaviculare în incidență postero-anterioară (PA) radiografie normală a articulațiilor sternoclaviculare în incidență de profil (lateral)
 
 
 ### 🖼️ Imagini
@@ -155,25 +161,25 @@ title: Rx Articulații Sternoclaviculare Postero-Anterior (PA)
 
 <figure class="protocol-image-card" markdown>
 
-![• radiographic expunere este similar la that given pentru an](../../assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_1.jpeg)
+![• Expunerea radiografică este similară celei utilizate pentru o](../../assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_1.jpeg)
 
-<figcaption><strong>• radiographic expunere este similar la that given pentru an</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![radiografie de normal Articulații Sternoclaviculare în Postero-anterior (PA) incidență](../../assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_2.jpeg)
-
-<figcaption><strong>radiografie de normal Articulații Sternoclaviculare în Postero-anterior (PA) incidență</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Expunerea radiografică este similară celei utilizate pentru o</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie de normal Articulații Sternoclaviculare în Profil (lateral) incidență](../../assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_3.jpeg)
+![Radiografie normală a articulațiilor sternoclaviculare în incidență postero-anterioară (PA)](../../assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_2.jpeg)
 
-<figcaption><strong>radiografie de normal Articulații Sternoclaviculare în Profil (lateral) incidență</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală a articulațiilor sternoclaviculare în incidență postero-anterioară (PA)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie normală a articulațiilor sternoclaviculare în incidență de profil (lateral)](../../assets/images/protocols/clark/rx-articulatii-sternoclaviculare-postero-anterior-p115-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie normală a articulațiilor sternoclaviculare în incidență de profil (lateral)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -2,11 +2,10 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: 'orientat la point ½ inch (1.3 cm) inferior la patellar apex. Variable,
-  depending pe measurement între spină iliacă antero-superioară (SIAS) (spină iliacă
-  antero-superioară (SIAS)) și tabletop (Fig. 7.120), ca follows: 18 <19 cm 3–5 grade
-  caudal (thin Bazin (bazin (pelvis))) 19–24 cm 0 grade >24 cm 3–5 grade cranial (large
-  Bazin (bazin (pelvis)))'
+centering: 'Orientată la un punct situat la ½ țol (1.3 cm) inferior față de vârful
+  rotulei. Variabilă, în funcție de măsurătoarea dintre spina iliacă antero-superioară
+  (SIAS) și masa radiologică (Fig. 7.120), după cum urmează: 18 <19 cm — 3–5 grade
+  caudal (bazin îngust); 19–24 cm — 0 grade; >24 cm — 3–5 grade cranial (bazin larg)'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -19,33 +18,37 @@ images:
 - caption: Merrill — pagina 544, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill/p544_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție și se ajustează corp astfel
-  încât Bazin (bazin (pelvis)) este nu rotit.; cu receptorul de imagine under pacientul’s
-  Genunchi, se flectează articulație slightly, locate apex de Rotulă (Patelă), și
-  ca pacientul extends Genunchi, se centrează receptorul de imagine about ½ inch (1.3
-  cm) below patellar apex. This centers receptorul de imagine la spații articulare.
-  se ajustează pacient’s membru inferior prin placing femoral epicondyles paralel
-  cu receptorul de imagine pentru true Incidență Antero-Posterioară (AP) (Fig. 7.119).
-  Rotulă (Patelă) lies slightly de center la medial side. If Genunchi cannot fie fully
-  extins, curved receptorul de imagine poate fie used. se efectuează ecranarea gonadelor
+position: Așezați pacientul în decubit dorsal și ajustați corpul astfel încât bazinul
+  să nu fie rotit. Cu receptorul de imagine sub genunchiul pacientului, flectați ușor
+  articulația, localizați vârful rotulei și, pe măsură ce pacientul extinde genunchiul,
+  centrați receptorul de imagine la aproximativ ½ țol (1.3 cm) inferior față de vârful
+  rotulei. Astfel, receptorul de imagine este centrat pe spațiile articulare. Ajustați
+  membrul inferior al pacientului prin poziționarea epicondililor femurali paralel
+  cu receptorul de imagine pentru o incidență AP adevărată (Fig. 7.119). Rotula se
+  află ușor față de centru, spre partea medială. Dacă genunchiul nu poate fi extins
+  complet, poate fi utilizat un receptor de imagine curbat. Efectuați ecranarea gonadelor
   cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Genunchi fully extins if pacient’s condition permits
-- Entire Genunchi fără rotație
-- Femoral condyles simetric și tibia intercondylar eminence centrat
-- Slight superimposition de cap peronier (fibular) if tibia este normal
-- Rotulă (Patelă) completely superimposed pe Femur
-- Open femorotibial spații articulare, cu interspaces de equal width pe ambele părți
-  (bilateral) if Genunchi este normal
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Genunchiul complet extins, dacă starea pacientului permite
+- Întregul genunchi fără rotație
+- Condili femurali simetrici și eminența intercondiliană tibială centrată
+- Ușoară suprapunere a capului fibulei dacă tibia este normală
+- Rotula complet suprapusă peste femur
+- Spații articulare femuro-tibiale deschise, cu interspații de lățime egală pe ambele
+  părți (bilateral), dacă genunchiul este normal
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-genunchi-incidenta-antero-posterioara-ap-p541-merrill
 source_pages:
@@ -54,20 +57,18 @@ source_pages:
 - 543
 - 544
 source_sections:
-  anatomy: AP incidență de genunchi structures (Fig. 7.121).
-  collimation: '• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în
+  anatomy: Structurile genunchiului în incidență AP (Fig. 7.121).
+  collimation: • Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• Orientată la un punct situat la ½ țol (1.3 cm) inferior față de vârful rotulei.
 
-    collimated expunere field.'
-  cr: '• orientat la point ½ inch (1.3 cm) inferior la patellar apex.
-
-    • Variable, depending pe measurement între spină iliacă antero-superioară (SIAS)
-    (spină iliacă antero-superioară (SIAS)) și tabletop (Fig. 7.120), ca follows:
-    18
+    • Variabilă, în funcție de măsurătoarea dintre spina iliacă antero-superioară
+    (SIAS) și masa radiologică (Fig. 7.120), după cum urmează: 18
 
     <19 cm
 
-    3–5 grade caudal (thin bazin (pelvis))
+    3–5 grade caudal (bazin îngust)
 
     19–24 cm
 
@@ -75,55 +76,53 @@ source_sections:
 
     >24 cm
 
-    3–5 grade cranial (large bazin (pelvis))'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    3–5 grade cranial (bazin larg)'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • genunchi fully extins if pacient’s condition permits
+    • Genunchiul complet extins, dacă starea pacientului permite
 
-    • Entire genunchi fără rotație
+    • Întregul genunchi fără rotație
 
-    • Femoral condyles simetric și tibia intercondylar eminence centrat
+    • Condili femurali simetrici și eminența intercondiliană tibială centrată
 
-    • Slight superimposition de cap peronier (fibular) if tibia este normal
+    • Ușoară suprapunere a capului fibulei dacă tibia este normală
 
-    • rotulă (patelă) completely superimposed pe femur
+    • Rotula complet suprapusă peste femur
 
-    • Open femorotibial spații articulare, cu interspaces de equal width pe ambele
-    părți (bilateral) if genunchi este normal
+    • Spații articulare femuro-tibiale deschise, cu interspații de lățime egală pe
+    ambele părți (bilateral), dacă genunchiul este normal
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• cu receptorul de imagine under pacientul’s genunchi, se flectează articulație
-    slightly, locate apex de rotulă (patelă), și ca pacientul extends genunchi, center
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Cu receptorul de imagine sub genunchiul pacientului, flectați ușor
+    articulația, localizați vârful rotulei și, pe măsură ce pacientul extinde genunchiul,
+    centrați receptorul de imagine la aproximativ ½ țol (1.3 cm) inferior față de
+    vârful rotulei. Astfel, receptorul de imagine este centrat pe spațiile articulare.
 
-    receptorul de imagine about ½ inch (1.3 cm) below patellar apex. This centers
-    receptorul de imagine la spații articulare.
+    • Ajustați membrul inferior al pacientului prin poziționarea epicondililor femurali
+    paralel cu receptorul de imagine pentru o incidență AP adevărată (Fig. 7.119).
+    Rotula se află ușor față de centru, spre partea medială. Dacă genunchiul nu poate
+    fi extins complet, poate fi utilizat un receptor de imagine curbat.
 
-    • se ajustează pacient’s membru inferior prin placing femoral epicondyles paralel
-    cu receptorul de imagine pentru true AP incidență (Fig. 7.119). rotulă (patelă)
-    lies
-
-    slightly de center la medial side. If genunchi cannot fie fully extins, curved
-    receptorul de imagine poate fie used.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit dorsal și se ajustează corp astfel
-    încât bazin (pelvis) este nu rotit.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul în decubit dorsal și ajustați corpul astfel încât
+    bazinul să nu fie rotit.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 541–544
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Se plasează markerul de lateralitate în
-    câmpul colimat.
-title: Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
+  collimation: Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate
+    în câmpul colimat.
+title: Rx genunchi — incidență antero-posterioară (AP) (Merrill)
 ---
-# Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx genunchi — incidență antero-posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -147,17 +146,18 @@ title: Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție și se ajustează corp astfel încât Bazin (bazin (pelvis)) este nu rotit.; cu receptorul de imagine under pacientul’s Genunchi, se flectează articulație slightly, locate apex de Rotulă (Patelă), și ca pacientul extends Genunchi, se centrează receptorul de imagine about ½ inch (1.3 cm) below patellar apex. This centers receptorul de imagine la spații articulare. se ajustează pacient’s membru inferior prin placing femoral epicondyles paralel cu receptorul de imagine pentru true Incidență Antero-Posterioară (AP) (Fig. 7.119). Rotulă (Patelă) lies slightly de center la medial side. If Genunchi cannot fie fully extins, curved receptorul de imagine poate fie used. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la point ½ inch (1.3 cm) inferior la patellar apex. Variable, depending pe measurement între spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) și tabletop (Fig. 7.120), ca follows: 18 <19 cm 3–5 grade caudal (thin Bazin (bazin (pelvis))) 19–24 cm 0 grade >24 cm 3–5 grade cranial (large Bazin (bazin (pelvis)))
+    - **Poziție Pacient:** Așezați pacientul în decubit dorsal și ajustați corpul astfel încât bazinul să nu fie rotit. Cu receptorul de imagine sub genunchiul pacientului, flectați ușor articulația, localizați vârful rotulei și, pe măsură ce pacientul extinde genunchiul, centrați receptorul de imagine la aproximativ ½ țol (1.3 cm) inferior față de vârful rotulei. Astfel, receptorul de imagine este centrat pe spațiile articulare. Ajustați membrul inferior al pacientului prin poziționarea epicondililor femurali paralel cu receptorul de imagine pentru o incidență AP adevărată (Fig. 7.119). Rotula se află ușor față de centru, spre partea medială. Dacă genunchiul nu poate fi extins complet, poate fi utilizat un receptor de imagine curbat. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată la un punct situat la ½ țol (1.3 cm) inferior față de vârful rotulei. Variabilă, în funcție de măsurătoarea dintre spina iliacă antero-superioară (SIAS) și masa radiologică (Fig. 7.120), după cum urmează: 18 <19 cm — 3–5 grade caudal (bazin îngust); 19–24 cm — 0 grade; >24 cm — 3–5 grade cranial (bazin larg)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -173,22 +173,22 @@ title: Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator. Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Genunchi fully extins if pacient’s condition permits
-    - Entire Genunchi fără rotație
-    - Femoral condyles simetric și tibia intercondylar eminence centrat
-    - Slight superimposition de cap peronier (fibular) if tibia este normal
-    - Rotulă (Patelă) completely superimposed pe Femur
-    - Open femorotibial spații articulare, cu interspaces de equal width pe ambele părți (bilateral) if Genunchi este normal
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Genunchiul complet extins, dacă starea pacientului permite
+    - Întregul genunchi fără rotație
+    - Condili femurali simetrici și eminența intercondiliană tibială centrată
+    - Ușoară suprapunere a capului fibulei dacă tibia este normală
+    - Rotula complet suprapusă peste femur
+    - Spații articulare femuro-tibiale deschise, cu interspații de lățime egală pe ambele părți (bilateral), dacă genunchiul este normal
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,6 +197,7 @@ title: Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -244,54 +245,3 @@ title: Rx Genunchi — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 541–544](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP incidență de genunchi structures (Fig. 7.121).
-
-### collimation
-
-• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• orientat la point ½ inch (1.3 cm) inferior la patellar apex.
-• Variable, depending pe measurement între spină iliacă antero-superioară (SIAS) (spină iliacă antero-superioară (SIAS)) și tabletop (Fig. 7.120), ca follows: 18
-<19 cm
-3–5 grade caudal (thin bazin (pelvis))
-19–24 cm
-0 grade
->24 cm
-3–5 grade cranial (large bazin (pelvis))
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• genunchi fully extins if pacient’s condition permits
-• Entire genunchi fără rotație
-• Femoral condyles simetric și tibia intercondylar eminence centrat
-• Slight superimposition de cap peronier (fibular) if tibia este normal
-• rotulă (patelă) completely superimposed pe femur
-• Open femorotibial spații articulare, cu interspaces de equal width pe ambele părți (bilateral) if genunchi este normal
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• cu receptorul de imagine under pacientul’s genunchi, se flectează articulație slightly, locate apex de rotulă (patelă), și ca pacientul extends genunchi, center
-receptorul de imagine about ½ inch (1.3 cm) below patellar apex. This centers receptorul de imagine la spații articulare.
-• se ajustează pacient’s membru inferior prin placing femoral epicondyles paralel cu receptorul de imagine pentru true AP incidență (Fig. 7.119). rotulă (patelă) lies
-slightly de center la medial side. If genunchi cannot fie fully extins, curved receptorul de imagine poate fie used.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal și se ajustează corp astfel încât bazin (pelvis) este nu rotit.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

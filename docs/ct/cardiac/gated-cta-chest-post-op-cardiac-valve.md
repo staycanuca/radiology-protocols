@@ -14,6 +14,10 @@ contrast:
   timing: Urmărire bolus (Bolus Tracking)
   trigger: 200 HU
   volume: 1.3 mL/kg
+iris_reference:
+  chapter: Aparat cardiovascular (Cord)
+  radiation_dose: Clasa 3 (Moderată 4 - 8 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-01-01'
 notes:
   additional_recons: Reconstrucții multifazice dinamice (cine-CT). Planuri specifice
@@ -67,6 +71,21 @@ series:
   start: Polul superior al cordului
   thickness: 0.625 mm
 slug: gated-cta-chest-post-op-cardiac-valve
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: ACR / SCCT
+  kind: Standard de practică cardiovasculară
+  sha256: 16bdb917dce22c0f1620d70ff041aa5d8e0fb7f9d2139d1b15479b41a9f34a32
+  source_region: US
+  title: SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography
+  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — Cardiovascular CT Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Modulare ECG activată (pulsare conform ritmului cardiac)
@@ -78,27 +97,12 @@ tech_params:
   scan_mode: Elicoidal sincronizat ECG (sau Secvențial prospectiv)
   slice_thickness: 0.625 mm
 title: Angio-CT Torace Sincronizat ECG Post-Protezare Valvulară Cardiacă
-sources:
-- title: SCCT / ACR-NASCI Practice Parameter for Coronary CT Angiography
-  url: https://www.acr.org/-/media/ACR/Files/Practice-Parameters/CTA-Heart.pdf
-  institution: ACR / SCCT
-  source_region: US
-  kind: Standard de practică cardiovasculară
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 16bdb917dce22c0f1620d70ff041aa5d8e0fb7f9d2139d1b15479b41a9f34a32
-- title: UT Southwestern Radiology — Cardiovascular CT Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # Angio-CT Torace Sincronizat ECG Post-Protezare Valvulară Cardiacă
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -123,10 +127,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat cardiovascular (Cord)*).
+            - **Capitol Ghid IRIS:** *Aparat cardiovascular (Cord)*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 4 - 8 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -211,6 +219,7 @@ sources:
     | Axial | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Faze cardiace multiple pentru aprecierea mobilității |
     | Short axis | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Plan de ax scurt 'en face' pe orificiul valvular |
     | Long axis | Angio-CT Sincronizat ECG | Cord | 1 mm/1 mm | Cardiac |  | Plan de ax lung pentru deschiderea cuspelor/discurilor |
+
 
 ## Surse și revizuire
 

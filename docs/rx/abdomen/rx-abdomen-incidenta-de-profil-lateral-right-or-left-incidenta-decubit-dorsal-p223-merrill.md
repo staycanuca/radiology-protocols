@@ -14,6 +14,10 @@ images:
 - caption: Merrill — pagina 225, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-abdomen-incidenta-de-profil-lateral-right-or-left-incidenta-decubit-dorsal-p223-merrill/p225_fig2.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -141,11 +145,12 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -191,6 +196,7 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -229,54 +235,3 @@ title: Rx Abdomen — Incidență de Profil (Lateral) — Profil Drept sau Stân
 ## Surse de documentare
 
 - [Merrill’s Atlas, 4. Abdomen, pagini 223–225](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidența de profil a abdomenului este valoroasă pentru evidențierea spațiului prevertebral și este utilă pentru identificarea nivelurilor hidroaerice din abdomen
-(Fig. 4.20).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Pentru pacienții de talie mai mică, se colimează la cel mult 1 țol (2.5 cm) de contururile anterior și posterior ale abdomenului. Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• orientat orizontal și perpendicular pe centrul receptorului de imagine, pătrunzând în planul mediocoronal la 2 țoli (5 cm) deasupra nivelului crestelor
-iliace.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) și a markerului de decubit, plasate în afara structurilor anatomice de interes
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Oasele iliace suprapuse
-• Pediculii vertebrelor lombare suprapuși și foramenele intervertebrale deschise
-• Foramene intervertebrale deschise
-• o porțiune cât mai mare din restul abdomenului când se includ cupolele diafragmatice
-• Conținutul abdominal vizibil fără substanță de contrast
-
-### part_pos
-
-• Se ajustează înălțimea stativului vertical Bucky astfel încât axa longitudinală a receptorului de imagine să fie centrată pe planul mediocoronal.
-• Se poziționează pacientul astfel încât un punct situat la aproximativ 2 țoli (5 cm) deasupra nivelului crestelor iliace să fie centrat pe receptorul de imagine (Fig. 4.19).
-• Se ajustează poziția pacientului pentru a asigura absența rotației anatomice (simetrie bilaterală perfectă) față de poziția de decubit dorsal.
-
-### patient_pos
-
-• Când pacientul nu poate sta în picioare sau culcat pe o parte, se așază în decubit dorsal pe căruciorul de transport sau pe un alt
-suport adecvat, cu partea dreaptă sau stângă în contact cu stativul vertical Bucky.
-• Se poziționează brațele pacientului peste partea superioară a toracelui, astfel încât să nu se proiecteze peste conținutul abdominal, sau se așază în spatele
-capului pacientului.
-• Se flectează ușor genunchii pacientului pentru a reduce solicitarea spatelui.
-• Se acordă atenție pentru a preveni căderea pacientului de pe cărucior sau de pe masă; dacă se utilizează un cărucior, se blochează ferm toate roțile în poziție.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
-

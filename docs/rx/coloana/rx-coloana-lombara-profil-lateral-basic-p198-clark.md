@@ -43,6 +43,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-lombara-profil-lateral-basic-p198-clark/fig_6.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: 'O bucată de cauciuc plumbat sau un alt atenuator plasat în spatele pacientului
@@ -138,22 +142,24 @@ title: Radiografie a coloanei lombare – profil (lateral) – de bază
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat pe oricare dintre părți pe masa radiologică. Dacă există orice grad de scolioză, atunci cea mai adecvată poziție de profil va fi astfel încât concavitatea curburii să fie orientată spre tubul radiologic.
-• Brațele trebuie ridicate și sprijinite pe o pernă în fața capului pacientului. Genunchii și șoldurile sunt flectate pentru stabilitate.
-• Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană a Bucky și să fie perpendicular pe aceasta.
-• Tampoane radiotransparente pot fi plasate sub talie și genunchi, după cum este necesar, pentru a aduce coloana vertebrală paralel cu filmul radiologic.
-• Caseta este centrată la nivelul marginii costale inferioare.
-• Expunerea trebuie efectuată în apnee la sfârșitul expirului.
-• Această incidență poate fi efectuată și în ortostatism, cu pacientul în picioare, sau în poziție șezândă.
+    - **Poziție Pacient:**
+        - Pacientul este culcat pe oricare dintre părți pe masa radiologică. Dacă există orice grad de scolioză, atunci cea mai adecvată poziție de profil va fi astfel încât concavitatea curburii să fie orientată spre tubul radiologic.
+        - Brațele trebuie ridicate și sprijinite pe o pernă în fața capului pacientului. Genunchii și șoldurile sunt flectate pentru stabilitate.
+        - Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană a Bucky și să fie perpendicular pe aceasta.
+        - Tampoane radiotransparente pot fi plasate sub talie și genunchi, după cum este necesar, pentru a aduce coloana vertebrală paralel cu filmul radiologic.
+        - Caseta este centrată la nivelul marginii costale inferioare.
+        - Expunerea trebuie efectuată în apnee la sfârșitul expirului.
+        - Această incidență poate fi efectuată și în ortostatism, cu pacientul în picioare, sau în poziție șezândă.
     - **Punct de Centrare Fascicul:** • se orientează raza centrală perpendicular pe linia proceselor spinoase și spre un punct situat la 7.5 cm anterior față de procesul spinos lombar al treilea, la nivelul marginii costale inferioare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -195,9 +201,9 @@ title: Radiografie a coloanei lombare – profil (lateral) – de bază
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    O bucată de cauciuc plumbat sau un alt atenuator plasat în spatele pacientului va reduce radiația secundară incidentă pe filmul radiologic. Aceasta va îmbunătăți calitatea generală a imaginii și va reduce, de asemenea, posibilitatea unei erori de control al expunerii automate.
-184 Vertebră lombară de tranziție Disc rudimentar la S1/S2 Imagine cu contrast necorespunzător Suprapunere deficitară a marginilor anterioare și posterioare ale corpurilor vertebrale din cauza poziționării necorespunzătoare
+    O bucată de cauciuc plumbat sau un alt atenuator plasat în spatele pacientului va reduce radiația secundară incidentă pe filmul radiologic. Aceasta va îmbunătăți calitatea generală a imaginii și va reduce, de asemenea, posibilitatea unei erori de control al expunerii automate. 184 Vertebră lombară de tranziție Disc rudimentar la S1/S2 Imagine cu contrast necorespunzător Suprapunere deficitară a marginilor anterioare și posterioare ale corpurilor vertebrale din cauza poziționării necorespunzătoare
 
 
 ### 🖼️ Imagini

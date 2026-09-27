@@ -15,6 +15,10 @@ contrast:
   timing: N/A
   trigger: N/A
   volume: 0 mL
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 2 (Redusă 1 - 2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 notes:
   additional_recons: Volumetrie automată computerizată a nodulilor dacă este disponibil
@@ -97,10 +101,14 @@ title: CT Screening Noduli Pulmonari Low-Dose (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Redusă 1 - 2 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

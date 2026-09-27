@@ -8,8 +8,8 @@ centering: Orientată prin articulația lombosacrală la un unghi mediu de 30 la
   conturului regiunii lombare inferioare, accentuarea sau diminuarea neobișnuită a
   unghiului lombosacral poate fi estimată, iar angularea razei centrale poate fi variată
   corespunzător. Raza centrală pătrunde în MSP într-un punct situat la aproximativ
-  1.5 inches (3.8 cm) superior de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5
-  cm) inferior de spina iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson a recomandat
+  1.5 țoli (3.8 cm) superior de simfiza pubiană sau la 2 la 2.5 țoli (5 la 6.5 cm)
+  inferior de spina iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson a recomandat
   inițial un unghi de 45 de grade. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
@@ -26,6 +26,10 @@ images:
 - caption: Merrill — pagina 744, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-lumbosacral-junction-and-sacroiliac-joints-ap-or-incidenta-pa-axiala-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-22-p742-merrill/p744_fig4.png
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform
@@ -37,7 +41,7 @@ notes: Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificat
   lor le plasează într-o poziție mai aproape paralelă cu divergența fasciculului de
   radiație. Raza centrală este orientată perpendicular și centrată la nivelul spinei
   iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană a pacientului la
-  aproximativ 2 inches (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
+  aproximativ 2 țoli (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
 position: Pentru incidența AP axială a articulațiilor lumbosacrale și sacroiliace,
   se poziționează pacientul în decubit dorsal; cu pacientul în decubit dorsal și MSP
   centrat pe grilă, se extind membrele inferioare ale pacientului sau se abduc coapsele
@@ -72,9 +76,9 @@ source_sections:
     lombare inferioare, accentuarea sau diminuarea neobișnuită a unghiului lumbosacral
     poate fi estimată, iar angulația razei centrale poate fi variată în consecință.
 
-    • Raza centrală intră în MSP la un punct situat la aproximativ 1.5 inches (3.8
-    cm) superior față de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5 cm) inferior
-    față de spina iliacă anterosuperioară (SIAS) (Fig. 9.105).
+    • Raza centrală intră în MSP la un punct situat la aproximativ 1.5 țoli (3.8 cm)
+    superior față de simfiza pubiană sau la 2 la 2.5 țoli (5 la 6.5 cm) inferior față
+    de spina iliacă anterosuperioară (SIAS) (Fig. 9.105).
 
     • Ferguson a recomandat inițial un unghi de 45 grade.
 
@@ -101,8 +105,8 @@ source_sections:
     deoarece oblicitatea lor le plasează într-o poziție mai aproape paralelă cu divergența
     fasciculului de radiație. Raza centrală este orientată perpendicular și centrată
     la nivelul spinei iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană
-    a pacientului la aproximativ 2 inches (5 cm) distal față de procesul spinos al
-    L5 (Fig. 9.109).'
+    a pacientului la aproximativ 2 țoli (5 cm) distal față de procesul spinos al L5
+    (Fig. 9.109).'
   part_pos: '• Cu pacientul în decubit dorsal și MSP centrat pe grilă, se extind membrele
     inferioare ale pacientului sau se abduc coapsele și se ajustează în poziție verticală
     (Fig. 9.104).
@@ -152,17 +156,18 @@ title: Rx joncțiunea lumbosacrală și articulațiile sacroiliace — AP sau in
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pentru incidența AP axială a articulațiilor lumbosacrale și sacroiliace, se poziționează pacientul în decubit dorsal; cu pacientul în decubit dorsal și MSP centrat pe grilă, se extind membrele inferioare ale pacientului sau se abduc coapsele și se ajustează în poziție verticală (Fig. 9.104). Se asigură că bazinul nu este rotit. Se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Orientată prin articulația lombosacrală la un unghi mediu de 30 la 35 de grade cranial. 23 O angulare de 30 de grade la pacienții de sex masculin și de 35 de grade la pacienții de sex feminin este de obicei satisfăcătoare. Prin observarea conturului regiunii lombare inferioare, accentuarea sau diminuarea neobișnuită a unghiului lombosacral poate fi estimată, iar angularea razei centrale poate fi variată corespunzător. Raza centrală pătrunde în MSP într-un punct situat la aproximativ 1.5 inches (3.8 cm) superior de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5 cm) inferior de spina iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson a recomandat inițial un unghi de 45 de grade. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Orientată prin articulația lombosacrală la un unghi mediu de 30 la 35 de grade cranial. 23 O angulare de 30 de grade la pacienții de sex masculin și de 35 de grade la pacienții de sex feminin este de obicei satisfăcătoare. Prin observarea conturului regiunii lombare inferioare, accentuarea sau diminuarea neobișnuită a unghiului lombosacral poate fi estimată, iar angularea razei centrale poate fi variată corespunzător. Raza centrală pătrunde în MSP într-un punct situat la aproximativ 1.5 țoli (3.8 cm) superior de simfiza pubiană sau la 2 la 2.5 țoli (5 la 6.5 cm) inferior de spina iliacă antero-superioară (SIAS) (Fig. 9.105). Ferguson a recomandat inițial un unghi de 45 de grade. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -200,8 +205,9 @@ title: Rx joncțiunea lumbosacrală și articulațiile sacroiliace — AP sau in
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform incidenței AP axiale descrise anterior. Cu pacientul în decubit ventral, raza centrală este orientată prin articulația lumbosacrală către punctul median al receptorului de imagine, la un unghi mediu de 35 grade caudal. Raza centrală intră la nivelul procesului spinos al L4 (Fig. 9.107 și 9.108). Meese 24 a recomandat poziția în decubit ventral pentru examinările articulațiilor sacroiliace, deoarece oblicitatea lor le plasează într-o poziție mai aproape paralelă cu divergența fasciculului de radiație. Raza centrală este orientată perpendicular și centrată la nivelul spinei iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană a pacientului la aproximativ 2 inches (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
+    Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform incidenței AP axiale descrise anterior. Cu pacientul în decubit ventral, raza centrală este orientată prin articulația lumbosacrală către punctul median al receptorului de imagine, la un unghi mediu de 35 grade caudal. Raza centrală intră la nivelul procesului spinos al L4 (Fig. 9.107 și 9.108). Meese 24 a recomandat poziția în decubit ventral pentru examinările articulațiilor sacroiliace, deoarece oblicitatea lor le plasează într-o poziție mai aproape paralelă cu divergența fasciculului de radiație. Raza centrală este orientată perpendicular și centrată la nivelul spinei iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană a pacientului la aproximativ 2 țoli (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
 
 
 ### 🖼️ Imagini
@@ -254,55 +260,3 @@ title: Rx joncțiunea lumbosacrală și articulațiile sacroiliace — AP sau in
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 742–744](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Articulația lumbosacrală și imaginea simetrică a ambelor articulații sacroiliace, fără suprapunere (Fig. 9.106).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 18 × 24 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• orientată prin articulația lumbosacrală la un unghi mediu de 30 la 35 grade cranial. 23
-• O angulație de 30 grade la pacienții de sex masculin și de 35 grade la pacienții de sex feminin este de obicei satisfăcătoare. Prin observarea conturului regiunii lombare inferioare, accentuarea sau diminuarea neobișnuită a unghiului lumbosacral poate fi estimată, iar angulația razei centrale poate fi variată în consecință.
-• Raza centrală intră în MSP la un punct situat la aproximativ 1.5 inches (3.8 cm) superior față de simfiza pubiană sau la 2 la 2.5 inches (5 la 6.5 cm) inferior față de spina iliacă anterosuperioară (SIAS) (Fig. 9.105).
-• Ferguson a recomandat inițial un unghi de 45 grade.
-• Se centrează receptorul de imagine pe raza centrală.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
-• Joncțiunea lumbosacrală și sacrul
-• Spațiul discal intervertebral deschis între L5 și S1
-• Ambele articulații sacroiliace
-• Detalii osoase trabeculare și țesuturile moi din jur
-
-### note
-
-Incidența PA axială pentru joncțiunea lumbosacrală poate fi modificată conform incidenței AP axiale descrise anterior. Cu pacientul în decubit ventral, raza centrală este orientată prin articulația lumbosacrală către punctul median al receptorului de imagine, la un unghi mediu de 35 grade caudal. Raza centrală intră la nivelul procesului spinos al L4 (Fig. 9.107 și 9.108).
-Meese 24 a recomandat decubitul ventral pentru examinările articulațiilor sacroiliace, deoarece oblicitatea lor le plasează într-o poziție mai aproape paralelă cu divergența fasciculului de radiație. Raza centrală este orientată perpendicular și centrată la nivelul spinei iliace anterosuperioare (SIAS). Aceasta intră pe linia mediană a pacientului la aproximativ 2 inches (5 cm) distal față de procesul spinos al L5 (Fig. 9.109).
-
-### part_pos
-
-• Cu pacientul în decubit dorsal și MSP centrat pe grilă, se extind membrele inferioare ale pacientului sau se abduc coapsele și se ajustează în poziție verticală (Fig. 9.104).
-• Se asigură că bazinul nu este rotit.
-• Se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Pentru incidența AP axială a articulațiilor lumbosacrale și sacroiliace, se poziționează pacientul în decubit dorsal.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

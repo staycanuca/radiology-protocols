@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe Cot articulație
+centering: Perpendicular pe articulația cotului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -30,28 +30,34 @@ images:
 - caption: Merrill — pagina 343, imaginea 8
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill/p343_fig8.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun low enough la place entire braț în same plan
-  orizontal.; se flectează Cot 90 grade, se centrează articulație la receptorul de
-  imagine, și place articulație în Incidență de Profil (lateral). Make first expunere
-  cu Mână în supinație ca much ca este possible (Fig. 5.132). Make second expunere
-  cu Mână în Incidență de Profil (lateral) (i.e., cu Police surface up) (Fig. 5.133).
-  Make third expunere cu Mână în pronație (Fig. 5.134). Make fourth expunere cu Mână
-  în extreme intern rotație (i.e., resting pe Police surface) (Fig. 5.135). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Așezați pacientul pe un scaun suficient de jos pentru a poziționa întregul
+  braț în același plan orizontal.; Flectați cotul la 90 grade, centrați articulația
+  la receptorul de imagine și poziționați articulația în incidență de profil (lateral).
+  Efectuați prima expunere cu mâna în supinație cât mai mult posibil (Fig. 5.132).
+  Efectuați a doua expunere cu mâna în incidență de profil (lateral) (adică cu suprafața
+  policelui în sus) (Fig. 5.133). Efectuați a treia expunere cu mâna în pronație (Fig.
+  5.134). Efectuați a patra expunere cu mâna în rotație internă extremă (adică sprijinită
+  pe suprafața policelui) (Fig. 5.135). Se efectuează ecranarea gonadelor cu șorț
+  plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- tuberozitate radială bicipitală facing anteriorly pentru first și second imagini
-  și posteriorly pentru third și fourth imagini (see Figs. 5.136 through 5.139)
-- Cot flectat 90 grade
-- cap radial partially superimposing proces coronoid but seen în toate imagini
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Tuberozitatea radială bicipitală orientată anterior pentru prima și a doua imagine
+  și posterior pentru a treia și a patra imagine (vezi Fig. 5.136 până la 5.139)
+- Cot flectat la 90 grade
+- Capul radial se suprapune parțial peste procesul coronoid, dar este vizibil în toate
+  imaginile
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-radial-head-incidenta-de-profil-lateral-lateromedial-four-position-series-using-computed-radiography-replace-the-ir-for-each-expos-p338-merrill
 source_pages:
@@ -62,55 +68,58 @@ source_pages:
 - 342
 - 343
 source_sections:
-  anatomy: cap radial este projected în varying grade de rotație (Figs. 5.136 through
-    5.139).
-  collimation: • Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la
-    cot articulație. Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • perpendicular pe cot articulație
-  criteria: 'Criterii radiologice de calitate imaginii:
+  anatomy: Capul radial este proiectat cu grade variabile de rotație (Fig. 5.136 până
+    la 5.139).
+  collimation: • Se ajustează câmpul de iradiere la 3 țoli (8 cm) proximal și distal
+    față de articulația cotului. Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • Perpendicular pe articulația cotului
+  criteria: 'Criterii radiologice pentru calitatea imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • tuberozitate radială bicipitală facing anteriorly pentru first și second imagini
-    și posteriorly pentru third și fourth imagini (see Figs. 5.136
+    • Tuberozitatea radială bicipitală orientată anterior pentru prima și a doua imagine
+    și posterior pentru a treia și a patra imagine (vezi Fig. 5.136
 
-    through 5.139)
+    până la 5.139)
 
-    • cot flectat 90 grade
+    • Cot flectat la 90 grade
 
-    • cap radial partially superimposing proces coronoid but seen în toate imagini
+    • Cap radial care se suprapune parțial peste procesul coronoid, dar este vizibil
+    în toate imaginile
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se flectează cot 90 grade, se centrează articulație la receptorul de
-    imagine, și place articulație în poziție de profil (lateral).
+    • Detalii osoase trabeculare și țesuturile moi înconjurătoare'
+  part_pos: '• Flectați cotul la 90 grade, centrați articulația la receptorul de imagine
+    și poziționați articulația în poziție de profil (lateral).
 
-    • Make first expunere cu mână în supinație ca much ca este possible (Fig. 5.132).
+    • Efectuați prima expunere cu mâna în supinație cât mai mult posibil (Fig. 5.132).
 
-    • Make second expunere cu mână în poziție de profil (lateral) (i.e., cu policele
-    surface up) (Fig. 5.133).
+    • Efectuați a doua expunere cu mâna în poziție de profil (lateral) (adică cu suprafața
+    policelui în sus) (Fig. 5.133).
 
-    • Make third expunere cu mână în pronație (Fig. 5.134).
+    • Efectuați a treia expunere cu mâna în pronație (Fig. 5.134).
 
-    • Make fourth expunere cu mână în extreme intern rotație (i.e., resting pe policele
-    surface) (Fig. 5.135).
+    • Efectuați a patra expunere cu mâna în rotație internă extremă (adică sprijinită
+    pe suprafața policelui) (Fig. 5.135).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun low enough la place entire braț în same
-    plan orizontal.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul pe un scaun suficient de jos pentru a poziționa
+    întregul braț în același plan orizontal.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 338–343
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot
-    articulație. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four-Poziționare
-  series using computed radiography, replace the IR for each exposure. (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 3 țoli (8 cm) proximal și distal
+    față de articulația cotului. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx cap radial — incidență de profil (lateral) — serie latero-medială cu patru
+  poziționări, folosind radiografia computerizată; înlocuiți IR la fiecare expunere.
+  (Merrill)
 ---
-# Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four-Poziționare series using computed radiography, replace the IR for each exposure. (Merrill)
+# Rx cap radial — incidență de profil (lateral) — serie latero-medială cu patru poziționări, folosind radiografia computerizată; înlocuiți IR la fiecare expunere. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -134,17 +143,18 @@ title: Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun low enough la place entire braț în same plan orizontal.; se flectează Cot 90 grade, se centrează articulație la receptorul de imagine, și place articulație în Incidență de Profil (lateral). Make first expunere cu Mână în supinație ca much ca este possible (Fig. 5.132). Make second expunere cu Mână în Incidență de Profil (lateral) (i.e., cu Police surface up) (Fig. 5.133). Make third expunere cu Mână în pronație (Fig. 5.134). Make fourth expunere cu Mână în extreme intern rotație (i.e., resting pe Police surface) (Fig. 5.135). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Cot articulație
+    - **Poziție Pacient:** Așezați pacientul pe un scaun suficient de jos pentru a poziționa întregul braț în același plan orizontal.; Flectați cotul la 90 grade, centrați articulația la receptorul de imagine și poziționați articulația în incidență de profil (lateral). Efectuați prima expunere cu mâna în supinație cât mai mult posibil (Fig. 5.132). Efectuați a doua expunere cu mâna în incidență de profil (lateral) (adică cu suprafața policelui în sus) (Fig. 5.133). Efectuați a treia expunere cu mâna în pronație (Fig. 5.134). Efectuați a patra expunere cu mâna în rotație internă extremă (adică sprijinită pe suprafața policelui) (Fig. 5.135). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe articulația cotului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -160,19 +170,19 @@ title: Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la Cot articulație. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 3 țoli (8 cm) proximal și distal față de articulația cotului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - tuberozitate radială bicipitală facing anteriorly pentru first și second imagini și posteriorly pentru third și fourth imagini (see Figs. 5.136 through 5.139)
-    - Cot flectat 90 grade
-    - cap radial partially superimposing proces coronoid but seen în toate imagini
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Tuberozitatea radială bicipitală orientată anterior pentru prima și a doua imagine și posterior pentru a treia și a patra imagine (vezi Fig. 5.136 până la 5.139)
+    - Cot flectat la 90 grade
+    - Capul radial se suprapune parțial peste procesul coronoid, dar este vizibil în toate imaginile
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -181,6 +191,7 @@ title: Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -268,45 +279,3 @@ title: Rx Radial Head — Incidență de Profil (Lateral) — Latero-Medial Four
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 338–343](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-cap radial este projected în varying grade de rotație (Figs. 5.136 through 5.139).
-
-### collimation
-
-• Adjust câmp de iradiere la 3 inches (8 cm) proximal și distal la cot articulație. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe cot articulație
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• tuberozitate radială bicipitală facing anteriorly pentru first și second imagini și posteriorly pentru third și fourth imagini (see Figs. 5.136
-through 5.139)
-• cot flectat 90 grade
-• cap radial partially superimposing proces coronoid but seen în toate imagini
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se flectează cot 90 grade, se centrează articulație la receptorul de imagine, și place articulație în poziție de profil (lateral).
-• Make first expunere cu mână în supinație ca much ca este possible (Fig. 5.132).
-• Make second expunere cu mână în poziție de profil (lateral) (i.e., cu policele surface up) (Fig. 5.133).
-• Make third expunere cu mână în pronație (Fig. 5.134).
-• Make fourth expunere cu mână în extreme intern rotație (i.e., resting pe policele surface) (Fig. 5.135).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun low enough la place entire braț în same plan orizontal.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

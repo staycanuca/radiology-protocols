@@ -4,10 +4,9 @@ breathing: Apnee pe durata expunerii, la sfârșitul expirului. COLOANĂ LOMBAR�
   AP (sau PA) oblică—laterală posterioară sau anterioară L5–S1
 category: coloana
 centering: perpendicular pe receptorul de imagine. Raza centrală se orientează spre
-  L3 la nivelul marginii costale inferioare (1 la 2 inches [2.5 la 5 cm]) deasupra
-  crestei iliace (corespunzător L4-L5) și 2 inches (5 cm) medial față de spina iliacă
-  anterosuperioară de partea ridicată. Se centrează receptorul de imagine pe raza
-  centrală.
+  L3 la nivelul marginii costale inferioare (1 la 2 țoli [2.5 la 5 cm]) deasupra crestei
+  iliace (corespunzător L4-L5) și 2 țoli (5 cm) medial față de spina iliacă anterosuperioară
+  de partea ridicată. Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Defectele pars interarticularis (de exemplu, spondiloliza); se obțin incidențe oblice
   atât dreaptă, cât și stângă.
@@ -29,6 +28,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-coloana-lombara-posterior-or-anterior-oblique-positions-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -107,17 +110,18 @@ title: 'Rx coloană lombară: poziționare oblică posterioară (sau anterioară
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: poziții oblice posterioară sau anterioară; pacientul în poziție semisupină (oblică posterioară dreaptă [RPO] și oblică posterioară stângă [LPO]) sau semipronă (oblică anterioară dreaptă [RAO] și oblică anterioară stângă [LAO]), cu brațele extinse și capul pe pernă.; Regiune anatomică: se rotește corpul la 45° și se aliniază coloana vertebrală cu linia mediană a mesei și/sau cu receptorul de imagine; oblicitatea de 50° este cea mai bună pentru articulațiile zigapofizare L1–L2. Se asigură rotația egală a umerilor și bazinului (pelvisului). Se flectează genunchii pentru stabilitate și se aduce brațul cel mai îndepărtat de receptorul de imagine peste torace (Fig. 9.31). Se susțin umerii și bazinul (pelvisul) cu bureți radiotransparenți pentru menținerea poziției. Acest suport este recomandat cu fermitate pentru a preveni apucarea de către pacienți a marginii mesei de examinare, ceea ce poate duce la prinderea degetelor mâinii.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre L3 la nivelul marginii costale inferioare (1 la 2 inches [2.5 la 5 cm]) deasupra crestei iliace (corespunzător L4-L5) și 2 inches (5 cm) medial față de spina iliacă anterosuperioară de partea ridicată. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre L3 la nivelul marginii costale inferioare (1 la 2 țoli [2.5 la 5 cm]) deasupra crestei iliace (corespunzător L4-L5) și 2 țoli (5 cm) medial față de spina iliacă anterosuperioară de partea ridicată. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, la sfârșitul expirului. COLOANĂ LOMBARĂ DE RUTINĂ AP (sau PA) oblică—laterală posterioară sau anterioară L5–S1
 

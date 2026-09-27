@@ -2,40 +2,47 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la second articulații
-  metacarpofalangiene (MCF)
+centering: Perpendicular pe receptorul de imagine, orientat spre a doua articulație
+  metacarpofalangiană (MCF)
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de falange, anterior/posterior
-  displaced suspiciune de fractură, și luxație / subluxație articulară de oase metacarpiene
-- Pathologic processes, such ca osteoporosis și artroză / modificări degenerative
-  articulare especially în falange
+- Suspiciune de fractură și luxație/subluxație articulară a falangelor, suspiciune
+  de fractură cu deplasare anterioară/posterioară și luxație/subluxație articulară
+  a oaselor metacarpiene
+- Procese patologice, precum osteoporoza și artroza/modificările degenerative articulare,
+  în special la nivelul falangelor
 images:
-- caption: Fig. 4.75 pacient poziție—fan lateral Mână (falange kept separated și
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.75 pacient poziție—fan
-    lateral mână (falange kept separated și)
+- caption: Fig. 4.75 poziția pacientului — profil în evantai al mâinii (falangele
+    menținute separate și [fragment deteriorat în sursă]
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.75 poziția
+    pacientului — profil în evantai al mâinii (falangele menținute separate și)
   url: assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_1.jpeg
-- caption: Fig. 4.76 Fan Incidență de Profil (lateral).
+- caption: Fig. 4.76 Incidență de profil în evantai.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.76
-    Fan lateral incidență.)
+    incidență de profil în evantai.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_2.jpeg
-- caption: Fig. 4.77 Fan Incidență de Profil (lateral) de drept Mână.
+- caption: Fig. 4.77 Incidență de profil în evantai a mâinii drepte.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.77
-    Fan lateral incidență de drept mână.)
+    incidență de profil în evantai a mâinii drepte.)
   url: assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: “fan” Incidență de Profil (lateral) este preferred lateral pentru Mână if falange
-  sunt aria de interes diagnostic. (See next page pentru alternative incidențe.) Fig.
-  4.75 pacient poziție—fan lateral Mână (falange kept separated și paralel cu receptorul
-  de imagine); raza centrală la second articulații metacarpofalangiene (MCF).
-position: 'Pacient: Seat pacient la end de table cu Mână și Antebraț extins.; Regiune
-  anatomică: Align axa longitudinală de Mână cu axa longitudinală de receptorul de
-  imagine. Rotate Mână și Pumn (Articulație Radiocarpiană) into Incidență de Profil
-  (lateral) cu Police side up. Spread Degete Mână și Police into a “fan” poziție,
-  și support fiecare falange pe radiolucent block ca vizualizat. Ensure that toate
-  falange, including Police, sunt separated și paralel cu receptorul de imagine și
-  that oase metacarpiene sunt nu rotit but remain în true Incidență de Profil (lateral)
-  (Fig. 4.75).'
+notes: Incidența de profil „evantai” este incidența laterală preferată pentru mână
+  dacă falangele reprezintă aria de interes diagnostic. (Vezi pagina următoare pentru
+  incidențe alternative.) Fig. 4.75 Poziția pacientului—profil „evantai” al mâinii
+  (falangele menținute separat și paralele cu receptorul de imagine); raza centrală
+  la a doua articulație metacarpofalangiană (MCF).
+position: 'Pacient: Așezați pacientul la capătul mesei, cu mâna și antebrațul extinse.;
+  Regiune anatomică: Aliniați axa longitudinală a mâinii cu axa longitudinală a receptorului
+  de imagine. Rotiți mâna și pumnul (articulația radiocarpiană) în incidență de profil,
+  cu partea policelui în sus. Depărtați degetele mâinii și policele în poziție de
+  „evantai” și sprijiniți fiecare falangă pe un suport radiotransparent, conform imaginii.
+  Asigurați-vă că toate falangele, inclusiv policele, sunt separate și paralele cu
+  receptorul de imagine și că oasele metacarpiene nu sunt rotite, ci rămân în adevărata
+  incidență de profil (Fig. 4.75).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,31 +50,31 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Entire Mână și Pumn (Articulație Radiocarpiană) și about 1 inch (2.5 cm) de distal
-  Antebraț sunt vizibil (Figs. 4.76 și 4.77). poziție:'
-- axa longitudinală de Mână și Pumn (Articulație Radiocarpiană) trebuie să fie aliniat
-  cu axa longitudinală de receptorul de imagine.
-- Degete Mână trebuie să appear equally separated, cu falange în Incidență de Profil
-  (lateral) și spații articulare open, indicating that Degete Mână were paralel cu
+- 'Întreaga mână și întregul pumn (articulația radiocarpiană) și aproximativ 1 țol
+  (2.5 cm) din antebrațul distal sunt vizibile (Fig. 4.76 și 4.77). Poziție:'
+- Axa longitudinală a mâinii și pumnului (articulația radiocarpiană) trebuie să fie
+  aliniată cu axa longitudinală a receptorului de imagine.
+- Degetele mâinii trebuie să apară egal depărtate, cu falangele în incidență de profil
+  și spațiile articulare deschise, indicând că degetele mâinii au fost paralele cu
   receptorul de imagine.
-- Police trebuie să appear în slightly Incidență Oblică completely liber de superimposition,
-  cu spații articulare open.
-- 'Mână și Pumn (Articulație Radiocarpiană) trebuie să fie în true Incidență de Profil
-  (lateral), ca evidenced prin: distal radius și ulna sunt superimposed; oase metacarpiene
-  sunt superimposed.'
-- 'raza centrală și center de collimation field size trebuie să fie la second articulații
-  metacarpofalangiene (MCF). expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
-  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
+- Policele trebuie să apară în incidență ușor oblică, complet liber de suprapunere,
+  cu spațiile articulare deschise.
+- 'Mâna și pumnul (articulația radiocarpiană) trebuie să fie în adevărata incidență
+  de profil, evidențiată prin: radiusul distal și ulna sunt suprapuse; oasele metacarpiene
+  sunt suprapuse.'
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul celei de-a
+  doua articulații metacarpofalangiene (MCF). Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, evidențiază
+  clar marginile părților moi, contururile osoase și traveele trabeculare, fără artefacte
   de mișcare.
-- Outlines de individual oase metacarpiene evidențiat sunt superimposed.
-- Midphalanges și distal falange de Police și Degete Mână trebuie să appear net but
-  poate fie slightly overexposed. Mână ROUTINE
+- Contururile oaselor metacarpiene individuale evidențiate sunt suprapuse.
+- Falangele medii și falangele distale ale policelui și degetelor mâinii trebuie să
+  apară clare, dar pot fi ușor supraexpuse. MÂNĂ — RUTINĂ
 - PA
-- PA oblic
-- lateral Fig. 4.76 Fan Incidență de Profil (lateral). falange oase metacarpiene 2nd
-  1st falange (Police) 3rd 4th 5th Fig. 4.77 Fan Incidență de Profil (lateral) de
-  drept Mână.
+- PA oblică
+- Profil. Fig. 4.76 Incidență de profil în evantai. Falange; metacarpiene; a 2-a;
+  prima falangă (police) — 1; a 3-a; a 4-a; a 5-a. Fig. 4.77 Incidență de profil în
+  evantai a mâinii drepte.
 sid_dff: 100 cm
 slug: rx-lateromedial-projection-fan-lateral-mana-bontrager
 sources:
@@ -75,16 +82,16 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la outer margins de Mână și Pumn
-    (Articulație Radiocarpiană).
+  collimation: 'Dimensiunea câmpului: Colimați pe cele patru laturi la marginile externe
+    ale mâinii și pumnului (articulația radiocarpiană).'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Incidență Latero-Medială “FAN” LATERAL (Mână)
+title: Rx incidență latero-medială „FAN” — PROFIL (mână)
 ---
-# Rx Incidență Latero-Medială “FAN” LATERAL (Mână)
+# Rx incidență latero-medială „FAN” — PROFIL (mână)
 
 
 <div class="rx-meta-bar">
@@ -103,23 +110,24 @@ title: Rx Incidență Latero-Medială “FAN” LATERAL (Mână)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de falange, anterior/posterior displaced suspiciune de fractură, și luxație / subluxație articulară de oase metacarpiene
-        - Pathologic processes, such ca osteoporosis și artroză / modificări degenerative articulare especially în falange
+        - Suspiciune de fractură și luxație/subluxație articulară a falangelor, suspiciune de fractură cu deplasare anterioară/posterioară și luxație/subluxație articulară a oaselor metacarpiene
+        - Procese patologice, precum osteoporoza și artroza/modificările degenerative articulare, în special la nivelul falangelor
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână și Antebraț extins.; Regiune anatomică: Align axa longitudinală de Mână cu axa longitudinală de receptorul de imagine. Rotate Mână și Pumn (Articulație Radiocarpiană) into Incidență de Profil (lateral) cu Police side up. Spread Degete Mână și Police into a “fan” poziție, și support fiecare falange pe radiolucent block ca vizualizat. Ensure that toate falange, including Police, sunt separated și paralel cu receptorul de imagine și that oase metacarpiene sunt nu rotit but remain în true Incidență de Profil (lateral) (Fig. 4.75).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la second articulații metacarpofalangiene (MCF)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu mâna și antebrațul extinse.; Regiune anatomică: Aliniați axa longitudinală a mâinii cu axa longitudinală a receptorului de imagine. Rotiți mâna și pumnul (articulația radiocarpiană) în incidență de profil, cu partea policelui în sus. Depărtați degetele mâinii și policele în poziție de „evantai” și sprijiniți fiecare falangă pe un suport radiotransparent, conform imaginii. Asigurați-vă că toate falangele, inclusiv policele, sunt separate și paralele cu receptorul de imagine și că oasele metacarpiene nu sunt rotite, ci rămân în adevărata incidență de profil (Fig. 4.75).
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, orientat spre a doua articulație metacarpofalangiană (MCF)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -135,25 +143,25 @@ title: Rx Incidență Latero-Medială “FAN” LATERAL (Mână)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la outer margins de Mână și Pumn (Articulație Radiocarpiană). |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Colimați pe cele patru laturi la marginile externe ale mâinii și pumnului (articulația radiocarpiană). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Entire Mână și Pumn (Articulație Radiocarpiană) și about 1 inch (2.5 cm) de distal Antebraț sunt vizibil (Figs. 4.76 și 4.77). poziție:
-    - axa longitudinală de Mână și Pumn (Articulație Radiocarpiană) trebuie să fie aliniat cu axa longitudinală de receptorul de imagine.
-    - Degete Mână trebuie să appear equally separated, cu falange în Incidență de Profil (lateral) și spații articulare open, indicating that Degete Mână were paralel cu receptorul de imagine.
-    - Police trebuie să appear în slightly Incidență Oblică completely liber de superimposition, cu spații articulare open.
-    - Mână și Pumn (Articulație Radiocarpiană) trebuie să fie în true Incidență de Profil (lateral), ca evidenced prin: distal radius și ulna sunt superimposed; oase metacarpiene sunt superimposed.
-    - raza centrală și center de collimation field size trebuie să fie la second articulații metacarpofalangiene (MCF). expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
-    - Outlines de individual oase metacarpiene evidențiat sunt superimposed.
-    - Midphalanges și distal falange de Police și Degete Mână trebuie să appear net but poate fie slightly overexposed. Mână ROUTINE
+    - Întreaga mână și întregul pumn (articulația radiocarpiană) și aproximativ 1 țol (2.5 cm) din antebrațul distal sunt vizibile (Fig. 4.76 și 4.77). Poziție:
+    - Axa longitudinală a mâinii și pumnului (articulația radiocarpiană) trebuie să fie aliniată cu axa longitudinală a receptorului de imagine.
+    - Degetele mâinii trebuie să apară egal depărtate, cu falangele în incidență de profil și spațiile articulare deschise, indicând că degetele mâinii au fost paralele cu receptorul de imagine.
+    - Policele trebuie să apară în incidență ușor oblică, complet liber de suprapunere, cu spațiile articulare deschise.
+    - Mâna și pumnul (articulația radiocarpiană) trebuie să fie în adevărata incidență de profil, evidențiată prin: radiusul distal și ulna sunt suprapuse; oasele metacarpiene sunt suprapuse.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul celei de-a doua articulații metacarpofalangiene (MCF). Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, evidențiază clar marginile părților moi, contururile osoase și traveele trabeculare, fără artefacte de mișcare.
+    - Contururile oaselor metacarpiene individuale evidențiate sunt suprapuse.
+    - Falangele medii și falangele distale ale policelui și degetelor mâinii trebuie să apară clare, dar pot fi ușor supraexpuse. MÂNĂ — RUTINĂ
     - PA
-    - PA oblic
-    - lateral Fig. 4.76 Fan Incidență de Profil (lateral). falange oase metacarpiene 2nd 1st falange (Police) 3rd 4th 5th Fig. 4.77 Fan Incidență de Profil (lateral) de drept Mână.
+    - PA oblică
+    - Profil. Fig. 4.76 Incidență de profil în evantai. Falange; metacarpiene; a 2-a; prima falangă (police) — 1; a 3-a; a 4-a; a 5-a. Fig. 4.77 Incidență de profil în evantai a mâinii drepte.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -165,8 +173,9 @@ title: Rx Incidență Latero-Medială “FAN” LATERAL (Mână)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    “fan” Incidență de Profil (lateral) este preferred lateral pentru Mână if falange sunt aria de interes diagnostic. (See next page pentru alternative incidențe.) Fig. 4.75 pacient poziție—fan lateral Mână (falange kept separated și paralel cu receptorul de imagine); raza centrală la second articulații metacarpofalangiene (MCF).
+    Incidența de profil „evantai” este incidența laterală preferată pentru mână dacă falangele reprezintă aria de interes diagnostic. (Vezi pagina următoare pentru incidențe alternative.) Fig. 4.75 Poziția pacientului—profil „evantai” al mâinii (falangele menținute separat și paralele cu receptorul de imagine); raza centrală la a doua articulație metacarpofalangiană (MCF).
 
 
 ### 🖼️ Imagini
@@ -175,25 +184,25 @@ title: Rx Incidență Latero-Medială “FAN” LATERAL (Mână)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.75 pacient poziție—fan lateral Mână (falange kept separated și](../../assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_1.jpeg)
+![Fig. 4.75 poziția pacientului — profil în evantai al mâinii (falangele menținute separate și [fragment deteriorat în sursă]](../../assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.75 pacient poziție—fan lateral Mână (falange kept separated și</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.75 pacient poziție—fan lateral mână (falange kept separated și)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.76 Fan Incidență de Profil (lateral).](../../assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.76 Fan Incidență de Profil (lateral).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.76 Fan lateral incidență.)</span></figcaption>
+<figcaption><strong>Fig. 4.75 poziția pacientului — profil în evantai al mâinii (falangele menținute separate și [fragment deteriorat în sursă]</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.75 poziția pacientului — profil în evantai al mâinii (falangele menținute separate și)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.77 Fan Incidență de Profil (lateral) de drept Mână.](../../assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_3.jpeg)
+![Fig. 4.76 Incidență de profil în evantai.](../../assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.77 Fan Incidență de Profil (lateral) de drept Mână.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.77 Fan lateral incidență de drept mână.)</span></figcaption>
+<figcaption><strong>Fig. 4.76 Incidență de profil în evantai.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.76 incidență de profil în evantai.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.77 Incidență de profil în evantai a mâinii drepte.](../../assets/images/protocols/bontrager/rx-lateromedial-projection-fan-lateral-mana-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 4.77 Incidență de profil în evantai a mâinii drepte.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.77 incidență de profil în evantai a mâinii drepte.)</span></figcaption>
 
 </figure>
 

@@ -3,42 +3,44 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: 'Method 1
+centering: 'Metoda 1
 
-  • X-ray tube este înclinat astfel încât raza centrală este orientat perpendicular
-  pe shaft de Humerus și centred la Profil (lateral) epicondyle.
+  • Tubul radiogen este înclinat astfel încât raza centrală să fie orientată perpendicular
+  pe diafiza humerusului și centrată la epicondilul de profil (lateral).
 
-  Method 2
+  Metoda 2
 
-  • raza centrală orizontală centrală este orientat la epicondil medial (epitrohlee)
-  și fascicul collimated la Cot.
+  • Raza centrală orizontală este orientată la epicondilul medial (epitrohlee), iar
+  fasciculul este colimat la cot.
 
 
-  • If Cot articulație este fully flectat, raza centrală este orientat la drept-angles
-  la Humerus la pass through Antebraț (Radius și Ulna) la point midway între epicondyles
-  de Humerus.
+  • Dacă articulația cotului este complet flectată, raza centrală este orientată în
+  unghi drept față de humerus, pentru a trece prin antebraț (radius și ulna) în punctul
+  situat la jumătatea distanței dintre epicondilii humerusului.
 
-  • If Cot articulație este only partially flectat, raza centrală este orientat la
-  drept-angles la Humerus la point midway între epicondyles de Humerus fără first
-  passing through Antebraț (Radius și Ulna).'
+  • Dacă articulația cotului este doar parțial flectată, raza centrală este orientată
+  în unghi drept față de humerus, în punctul situat la jumătatea distanței dintre
+  epicondilii humerusului, fără a trece mai întâi prin antebraț (radius și ulna).'
 clinical_indications:
-- Signs de supracondylar suspiciune de fractură poate fie very subtle. Demonstration
-  de poziție de condyles în relation la anterior cortical line de humeral shaft poate
-  fie crucial și demands true Profil (lateral) imagine. 70 Antero-posterior (AP) radiografie
-  în full flexion evidențiind supracondylar suspiciune de fractură Antero-posterior
-  (AP) radiografie în partial flexion evidențiind supracondylar suspiciune de fractură
+- Semnele unei suspiciuni de fractură supracondiliană pot fi foarte subtile. Demonstrarea
+  poziției condililor în raport cu linia corticală anterioară a diafizei humerale
+  poate fi esențială și necesită o imagine de profil adevărată. 70 Radiografie anteroposterioară
+  (AP) în flexie completă, evidențiind o suspiciune de fractură supracondiliană. Radiografie
+  anteroposterioară (AP) în flexie parțială, evidențiind o suspiciune de fractură
+  supracondiliană.
 images:
-- caption: Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar
-    suspiciune de fractură
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană
+    fără deplasare
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_1.jpeg
-- caption: Profil (lateral) radiografie de Cot evidențiind supracondylar suspiciune
-    de fractură cu
+- caption: Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană
+    cu
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_2.jpeg
-- caption: type de injury commonly found în children este suspiciune de fractură de
-    the
+- caption: Tipul de leziune întâlnit frecvent la copii este suspiciunea de fractură
+    a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_3.jpeg
@@ -46,71 +48,76 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_4.jpeg
-- caption: • Signs de supracondylar suspiciune de fractură poate fie very subtle.
+- caption: • Semnele unei suspiciuni de fractură supracondiliană pot fi foarte subtile.
     Demon-
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_5.jpeg
-- caption: Antero-posterior (AP) radiografie în
+- caption: Radiografie anteroposterioară (AP) în
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_6.jpeg
-- caption: full flexion evidențiind supracondylar
+- caption: flexie completă, evidențiind o fractură supracondiliană
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_7.jpeg
-- caption: Antero-posterior (AP) radiografie în
+- caption: Radiografie anteroposterioară (AP) în
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_8.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• pacientul trebuie să fie made ca comfortable ca possible la assist imobilizare.
+notes: '• Pacientul trebuie așezat cât mai confortabil posibil pentru a facilita imobilizarea.
 
-  • Ortostatism casetă holder, sau similar device, poate fie used la assist pacientul
-  în supporting caseta.
+  • Un suport de casetă pentru ortostatism sau un dispozitiv similar poate fi utilizat
+  pentru a ajuta pacientul să susțină caseta.
 
-  • X-ray fascicul trebuie să fie collimated carefully la ensure that primary fascicul
-  does nu extend beyond area de caseta.
+  • Fasciculul radiogen trebuie colimat cu atenție pentru a se asigura că fasciculul
+  primar nu depășește zona casetei.
 
-  Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar suspiciune
-  de fractură Profil (lateral) radiografie de Cot evidențiind supracondylar suspiciune
-  de fractură cu displacement și bone disruption type de injury commonly found în
-  children este suspiciune de fractură de lower end de Humerus just proximal la condyles.
-  injury este very painful și even small movements de limb poate
-
-
-  • It este essential that fără movement de Cot articulație occurs during positioning
-  de pacientul.
-
-  • Particular attention trebuie să fie paid la radiation protection measures.'
-position: 'Method 1
-
-  • pacientul stă așezat sau stands facing X-ray tube.
-
-  • casetă este sprijinit între pacient’s trunk și Cot, cu medial aspect de Cot în
-  contact cu caseta.
-
-  • lead-rubber sheet sau other radiation protection device este poziționat la protect
-  pacientul’s trunk de la primary fascicul.
-
-  Method 2
-
-  • casetă este sprijinit vertically în casetă holder.
-
-  • pacientul stă în ortostatism sideways, cu Cot flectat și Profil (lateral) aspect
-  de injured Cot în contact cu caseta.
-
-  braț este gently extins backwards de la Umăr. pacientul este rotit forwards until
-  Cot este clear de rib cage but still în contact cu caseta, cu line joining epicondyles
-  de Humerus la drept-angles la caseta.
+  Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană
+  fără deplasare. Radiografie de profil a cotului, evidențiind o suspiciune de fractură
+  supracondiliană cu deplasare și întreruperea osului. Tipul de leziune întâlnit frecvent
+  la copii este suspiciunea de fractură a extremității inferioare a humerusului, imediat
+  proximal de condili. Leziunea este foarte dureroasă și chiar și mișcările mici ale
+  membrului pot
 
 
-  • de la Profil (lateral) poziție, pacientul’s upper corp este rotit spre partea
-  afectată.
+  • Este esențial să nu apară nicio mișcare a articulației cotului în timpul poziționării
+  pacientului.
 
-  • caseta este plasat în Ortostatism casetă holder, și pacientul’s poziție este ajustat
-  astfel încât posterior aspect de upper braț este în contact cu caseta.'
+  • Trebuie acordată o atenție deosebită măsurilor de radioprotecție.'
+position: 'Metoda 1
+
+  • Pacientul stă așezat sau în ortostatism, cu fața spre tubul radiogen.
+
+  • Caseta este susținută între trunchiul pacientului și cot, cu aspectul medial al
+  cotului în contact cu caseta.
+
+  • O folie de cauciuc plumbat sau un alt dispozitiv de radioprotecție este poziționat
+  pentru a proteja trunchiul pacientului de fasciculul primar.
+
+  Metoda 2
+
+  • Caseta este susținută vertical într-un suport de casetă.
+
+  • Pacientul stă în ortostatism, lateral, cu cotul flectat și aspectul de profil
+  al cotului lezat în contact cu caseta.
+
+  Brațul este extins ușor posterior de la umăr. Pacientul este rotit anterior până
+  când cotul este îndepărtat de cutia toracică, dar rămâne în contact cu caseta, cu
+  linia care unește epicondilii humerusului în unghi drept față de casetă.
+
+
+  • Din poziția de profil, partea superioară a corpului pacientului este rotită spre
+  partea afectată.
+
+  • Caseta este plasată în suportul de casetă pentru ortostatism, iar poziția pacientului
+  este ajustată astfel încât aspectul posterior al brațului să fie în contact cu caseta.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -119,9 +126,10 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include lower end de Humerus și upper third de radius și ulna.
-- If Cot articulație este fully flectat, sufficient expunere trebuie să fie selected
-  la provide adecvat penetration de Antebraț (Radius și Ulna).
+- Imaginea trebuie să includă extremitatea inferioară a humerusului și treimea superioară
+  a radiusului și ulnei.
+- Dacă articulația cotului este complet flectată, trebuie selectată o expunere suficientă
+  pentru a asigura penetrarea adecvată a antebrațului (radius și ulna).
 sid_dff: 100 cm
 slug: rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark
 sources:
@@ -130,14 +138,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Humerus Distal (Regiune Supracondiliană) suspiciune de fractură
+  mas: Conform AEC / grosimii anatomice
+title: Rx humerus distal (regiunea supracondiliană) — suspiciune de fractură
 ---
-# Rx Humerus Distal (Regiune Supracondiliană) suspiciune de fractură
+# Rx humerus distal (regiunea supracondiliană) — suspiciune de fractură
 
 
 <div class="rx-meta-bar">
@@ -156,38 +164,38 @@ title: Rx Humerus Distal (Regiune Supracondiliană) suspiciune de fractură
 
     === "Indicații Clinice"
 
-        - Signs de supracondylar suspiciune de fractură poate fie very subtle. Demonstration de poziție de condyles în relation la anterior cortical line de humeral shaft poate fie crucial și demands true Profil (lateral) imagine. 70 Antero-posterior (AP) radiografie în full flexion evidențiind supracondylar suspiciune de fractură Antero-posterior (AP) radiografie în partial flexion evidențiind supracondylar suspiciune de fractură
+        - Semnele unei suspiciuni de fractură supracondiliană pot fi foarte subtile. Demonstrarea poziției condililor în raport cu linia corticală anterioară a diafizei humerale poate fi esențială și necesită o imagine de profil adevărată. 70 Radiografie anteroposterioară (AP) în flexie completă, evidențiind o suspiciune de fractură supracondiliană. Radiografie anteroposterioară (AP) în flexie parțială, evidențiind o suspiciune de fractură supracondiliană.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Method 1
-• pacientul stă așezat sau stands facing X-ray tube.
-• casetă este sprijinit între pacient’s trunk și Cot, cu medial aspect de Cot în contact cu caseta.
-• lead-rubber sheet sau other radiation protection device este poziționat la protect pacientul’s trunk de la primary fascicul.
-Method 2
-• casetă este sprijinit vertically în casetă holder.
-• pacientul stă în ortostatism sideways, cu Cot flectat și Profil (lateral) aspect de injured Cot în contact cu caseta.
-braț este gently extins backwards de la Umăr. pacientul este rotit forwards until Cot este clear de rib cage but still în contact cu caseta, cu line joining epicondyles de Humerus la drept-angles la caseta.
+    - **Poziție Pacient:**
+        Metoda 1
 
-• de la Profil (lateral) poziție, pacientul’s upper corp este rotit spre partea afectată.
-• caseta este plasat în Ortostatism casetă holder, și pacientul’s poziție este ajustat astfel încât posterior aspect de upper braț este în contact cu caseta.
-    - **Punct de Centrare Fascicul:** Method 1
-• X-ray tube este înclinat astfel încât raza centrală este orientat perpendicular pe shaft de Humerus și centred la Profil (lateral) epicondyle.
-Method 2
-• raza centrală orizontală centrală este orientat la epicondil medial (epitrohlee) și fascicul collimated la Cot.
+        - Pacientul stă așezat sau în ortostatism, cu fața spre tubul radiogen.
+        - Caseta este susținută între trunchiul pacientului și cot, cu aspectul medial al cotului în contact cu caseta.
+        - O folie de cauciuc plumbat sau un alt dispozitiv de radioprotecție este poziționat pentru a proteja trunchiul pacientului de fasciculul primar. Metoda 2
+        - Caseta este susținută vertical într-un suport de casetă.
+        - Pacientul stă în ortostatism, lateral, cu cotul flectat și aspectul de profil al cotului lezat în contact cu caseta. Brațul este extins ușor posterior de la umăr. Pacientul este rotit anterior până când cotul este îndepărtat de cutia toracică, dar rămâne în contact cu caseta, cu linia care unește epicondilii humerusului în unghi drept față de casetă.
+        - Din poziția de profil, partea superioară a corpului pacientului este rotită spre partea afectată.
+        - Caseta este plasată în suportul de casetă pentru ortostatism, iar poziția pacientului este ajustată astfel încât aspectul posterior al brațului să fie în contact cu caseta.
+    - **Punct de Centrare Fascicul:**
+        Metoda 1
 
-• If Cot articulație este fully flectat, raza centrală este orientat la drept-angles la Humerus la pass through Antebraț (Radius și Ulna) la point midway între epicondyles de Humerus.
-• If Cot articulație este only partially flectat, raza centrală este orientat la drept-angles la Humerus la point midway între epicondyles de Humerus fără first passing through Antebraț (Radius și Ulna).
+        - Tubul radiogen este înclinat astfel încât raza centrală să fie orientată perpendicular pe diafiza humerusului și centrată la epicondilul de profil (lateral). Metoda 2
+        - Raza centrală orizontală este orientată la epicondilul medial (epitrohlee), iar fasciculul este colimat la cot.
+        - Dacă articulația cotului este complet flectată, raza centrală este orientată în unghi drept față de humerus, pentru a trece prin antebraț (radius și ulna) în punctul situat la jumătatea distanței dintre epicondilii humerusului.
+        - Dacă articulația cotului este doar parțial flectată, raza centrală este orientată în unghi drept față de humerus, în punctul situat la jumătatea distanței dintre epicondilii humerusului, fără a trece mai întâi prin antebraț (radius și ulna).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -198,20 +206,20 @@ Method 2
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include lower end de Humerus și upper third de radius și ulna.
-    - If Cot articulație este fully flectat, sufficient expunere trebuie să fie selected la provide adecvat penetration de Antebraț (Radius și Ulna).
+    - Imaginea trebuie să includă extremitatea inferioară a humerusului și treimea superioară a radiusului și ulnei.
+    - Dacă articulația cotului este complet flectată, trebuie selectată o expunere suficientă pentru a asigura penetrarea adecvată a antebrațului (radius și ulna).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -223,14 +231,13 @@ Method 2
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • pacientul trebuie să fie made ca comfortable ca possible la assist imobilizare.
-• Ortostatism casetă holder, sau similar device, poate fie used la assist pacientul în supporting caseta.
-• X-ray fascicul trebuie să fie collimated carefully la ensure that primary fascicul does nu extend beyond area de caseta.
-Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar suspiciune de fractură Profil (lateral) radiografie de Cot evidențiind supracondylar suspiciune de fractură cu displacement și bone disruption type de injury commonly found în children este suspiciune de fractură de lower end de Humerus just proximal la condyles. injury este very painful și even small movements de limb poate
 
-• It este essential that fără movement de Cot articulație occurs during positioning de pacientul.
-• Particular attention trebuie să fie paid la radiation protection measures.
+!!! note "Observații Clinice & Tehnice"
+    - Pacientul trebuie așezat cât mai confortabil posibil pentru a facilita imobilizarea.
+    - Un suport de casetă pentru ortostatism sau un dispozitiv similar poate fi utilizat pentru a ajuta pacientul să susțină caseta.
+    - Fasciculul radiogen trebuie colimat cu atenție pentru a se asigura că fasciculul primar nu depășește zona casetei. Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană fără deplasare. Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană cu deplasare și întreruperea osului. Tipul de leziune întâlnit frecvent la copii este suspiciunea de fractură a extremității inferioare a humerusului, imediat proximal de condili. Leziunea este foarte dureroasă și chiar și mișcările mici ale membrului pot
+    - Este esențial să nu apară nicio mișcare a articulației cotului în timpul poziționării pacientului.
+    - Trebuie acordată o atenție deosebită măsurilor de radioprotecție.
 
 
 ### 🖼️ Imagini
@@ -239,25 +246,25 @@ Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar suspi
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar suspiciune de fractură](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_1.jpeg)
+![Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană fără deplasare](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_1.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar suspiciune de fractură</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Profil (lateral) radiografie de Cot evidențiind supracondylar suspiciune de fractură cu](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_2.jpeg)
-
-<figcaption><strong>Profil (lateral) radiografie de Cot evidențiind supracondylar suspiciune de fractură cu</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană fără deplasare</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![type de injury commonly found în children este suspiciune de fractură de the](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_3.jpeg)
+![Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană cu](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_2.jpeg)
 
-<figcaption><strong>type de injury commonly found în children este suspiciune de fractură de the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de profil a cotului, evidențiind o suspiciune de fractură supracondiliană cu</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Tipul de leziune întâlnit frecvent la copii este suspiciunea de fractură a](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_3.jpeg)
+
+<figcaption><strong>Tipul de leziune întâlnit frecvent la copii este suspiciunea de fractură a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -271,33 +278,33 @@ Profil (lateral) radiografie de Cot evidențiind undisplaced supracondylar suspi
 
 <figure class="protocol-image-card" markdown>
 
-![• Signs de supracondylar suspiciune de fractură poate fie very subtle. Demon-](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_5.jpeg)
+![• Semnele unei suspiciuni de fractură supracondiliană pot fi foarte subtile. Demon-](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_5.jpeg)
 
-<figcaption><strong>• Signs de supracondylar suspiciune de fractură poate fie very subtle. Demon-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Antero-posterior (AP) radiografie în](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_6.jpeg)
-
-<figcaption><strong>Antero-posterior (AP) radiografie în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Semnele unei suspiciuni de fractură supracondiliană pot fi foarte subtile. Demon-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![full flexion evidențiind supracondylar](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_7.jpeg)
+![Radiografie anteroposterioară (AP) în](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_6.jpeg)
 
-<figcaption><strong>full flexion evidențiind supracondylar</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie anteroposterioară (AP) în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie în](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_8.jpeg)
+![flexie completă, evidențiind o fractură supracondiliană](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_7.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>flexie completă, evidențiind o fractură supracondiliană</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie anteroposterioară (AP) în](../../assets/images/protocols/clark/rx-humerus-distal-regiune-supracondiliana-suspiciune-de-fractura-p84-clark/fig_8.jpeg)
+
+<figcaption><strong>Radiografie anteroposterioară (AP) în</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

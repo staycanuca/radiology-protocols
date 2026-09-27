@@ -39,6 +39,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-right-and-left-posterior-p192-clark/fig_5.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• pentru unii pacienți, poate fi utilă rotirea suplimentară a părții îndepărtate
@@ -137,29 +141,29 @@ title: Rx Coloană Cervicală oblică posterioară dreaptă și stângă
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul rămâne în decubit dorsal pe targa pentru victime.
-• pentru a evita mișcarea gâtului, caseta trebuie, în mod ideal, să fie plasată în sertarul pentru casetă de sub targă.
-• dacă nu este disponibil un sertar pentru casetă, aceasta poate fi introdusă cu grijă în poziție fără mișcarea gâtului pacientului.
-
-• această incidență se efectuează de obicei cu pacientul în decubit dorsal pe targa pentru traumă. Targa este poziționată adiacent stativului vertical Bucky, cu planul mediosagital al pacientului paralel cu caseta.
-• brațul cel mai apropiat de casetă este pliat peste cap, cu humerusul cât mai aproape de partea superioară a tărgii, atât cât poate tolera pacientul.
-Brațul și umărul cele mai apropiate de tubul cu raze X sunt coborâte cât mai mult posibil.
-• umerii sunt acum separați vertical.
-• Bucky-ul trebuie ridicat sau coborât astfel încât linia vertebrelor să coincidă cu mijlocul casetei.
-• această incidență poate fi efectuată și cu pacientul în ortostatism, fie în picioare, fie în poziție șezândă, fie în decubit dorsal.
-    - **Punct de Centrare Fascicul:** • fasciculul este înclinat cu 30–45 grade față de planul mediosagital (gradul de angulație va depinde de protocoalele locale).
-• raza centrală este orientată spre mijlocul gâtului, pe partea cea mai apropiată de tub, la nivelul cartilajului tiroid (mărul lui Adam).
-
-• raza centrală orizontală este orientată spre linia mediană a Bucky, la nivelul situat chiar deasupra umărului îndepărtat de casetă.
+    - **Poziție Pacient:**
+        - pacientul rămâne în decubit dorsal pe targa pentru victime.
+        - pentru a evita mișcarea gâtului, caseta trebuie, în mod ideal, să fie plasată în sertarul pentru casetă de sub targă.
+        - dacă nu este disponibil un sertar pentru casetă, aceasta poate fi introdusă cu grijă în poziție fără mișcarea gâtului pacientului.
+        - această incidență se efectuează de obicei cu pacientul în decubit dorsal pe targa pentru traumă. Targa este poziționată adiacent stativului vertical Bucky, cu planul mediosagital al pacientului paralel cu caseta.
+        - brațul cel mai apropiat de casetă este pliat peste cap, cu humerusul cât mai aproape de partea superioară a tărgii, atât cât poate tolera pacientul. Brațul și umărul cele mai apropiate de tubul cu raze X sunt coborâte cât mai mult posibil.
+        - umerii sunt acum separați vertical.
+        - Bucky-ul trebuie ridicat sau coborât astfel încât linia vertebrelor să coincidă cu mijlocul casetei.
+        - această incidență poate fi efectuată și cu pacientul în ortostatism, fie în picioare, fie în poziție șezândă, fie în decubit dorsal.
+    - **Punct de Centrare Fascicul:**
+        - fasciculul este înclinat cu 30–45 grade față de planul mediosagital (gradul de angulație va depinde de protocoalele locale).
+        - raza centrală este orientată spre mijlocul gâtului, pe partea cea mai apropiată de tub, la nivelul cartilajului tiroid (mărul lui Adam).
+        - raza centrală orizontală este orientată spre linia mediană a Bucky, la nivelul situat chiar deasupra umărului îndepărtat de casetă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -197,10 +201,10 @@ Brațul și umărul cele mai apropiate de tubul cu raze X sunt coborâte cât ma
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • pentru unii pacienți, poate fi utilă rotirea suplimentară a părții îndepărtate de casetă suficient de anterior pentru a separa umerii transversal. Această poziționare va produce o incidență oblică de profil a vertebrelor.
-178
-• calitatea imaginii va fi crescută dacă se utilizează Bucky-ul pentru ortostatism, în locul grilei staționare. Aceasta se datorează proprietăților mai bune de atenuare a radiației împrăștiate ale grilei din Bucky.
+    - pentru unii pacienți, poate fi utilă rotirea suplimentară a părții îndepărtate de casetă suficient de anterior pentru a separa umerii transversal. Această poziționare va produce o incidență oblică de profil a vertebrelor. 178
+    - calitatea imaginii va fi crescută dacă se utilizează Bucky-ul pentru ortostatism, în locul grilei staționare. Aceasta se datorează proprietăților mai bune de atenuare a radiației împrăștiate ale grilei din Bucky.
 
 
 ### 🖼️ Imagini

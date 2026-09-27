@@ -1,15 +1,15 @@
 ---
 author: Departamentul de Radiologie
-breathing: Apnee în inspir profund susținut (după doua inspirație)
+breathing: Apnee în inspir profund susținut (după două inspirații)
 category: torace
 centering: Linia mediană posterioară, la nivelul unghiului inferior al omoplaților
   (T7)
 clinical_indications:
-- Suspiciune infecție respiratorie joasă (pneumonie, bronhopneumonie)
+- Suspiciune de infecție respiratorie joasă (pneumonie, bronhopneumonie)
 - Dispnee acută sau cronică neclară
-- Bilanț inițial hemoptizie sau tuse persistentă (> 3 săptămâni)
-- Suspiciune revărsat pleural sau pneumotorax (în ortostatism)
-- Evaluare cardiomegalie și congestie vasculară pulmonară
+- Bilanț inițial pentru hemoptizie sau tuse persistentă (> 3 săptămâni)
+- Suspiciune de revărsat pleural sau pneumotorax (în ortostatism)
+- Evaluarea cardiomegaliei și a congestiei vasculare pulmonare
 - Traumatism toracic minor fără criterii de politraumă
 images:
 - caption: ''
@@ -21,19 +21,20 @@ iris_reference:
   recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: În suspiciune de pneumotorax mic sau corp străin bronșic, se poate solicita
+notes: În caz de suspiciune de pneumotorax mic sau corp străin bronșic, se poate solicita
   suplimentar un clișeu în expir forțat.
-position: Ortostatism cu fața anterioară toracelui lipită de stativul Bucky vertical,
+position: Ortostatism, cu fața anterioară a toracelui lipită de stativul Bucky vertical,
   mâinile pe șolduri, umerii împinși înainte pentru degajarea omoplaților
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare strictă conform principiului ALARA
 - Evaluarea posibilității unei sarcini se documentează conform procedurii locale și
   examinării solicitate.
 quality_criteria:
-- 'Vizualizarea completă câmpurilor pulmonare: de la apexuri până la unghiurile costodiafragmatice'
-- 'Inspir adecvat: minim 9-10 arcuri costale posterioare vizibile deasupra cupolelor
+- 'Vizualizarea completă a câmpurilor pulmonare: de la apexuri până la unghiurile
+  costodiafragmatice'
+- 'Inspir adecvat: minimum 9-10 arcuri costale posterioare vizibile deasupra cupolelor
   diafragmatice'
 - 'Absența rotației: capetele mediale ale claviculelor sunt echidistante față de apofizele
   spinoase'
@@ -65,16 +66,16 @@ sources:
   url: https://radiopaedia.org/articles/x-ray-positioning-and-projections-1
 tech_params:
   aec_chambers: Camerele laterale (dreapta și stânga) activate
-  collimation: superior la nivelul cartilajului tiroidian; inferior sub arcurile costale
+  collimation: Superior la nivelul cartilajului tiroidian; inferior sub arcurile costale
     inferioare
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky (raport 10:1 sau 12:1)
   kv: 120 - 125
   mas: 1.5 - 3 (AEC)
-title: Rx Torace PA (Postero-Anterior)
+title: Radiografie toracică PA (postero-anterioară)
 ---
-# Rx Torace PA (Postero-Anterior)
+# Radiografie toracică PA (postero-anterioară)
 
 
 <div class="rx-meta-bar">
@@ -93,11 +94,11 @@ title: Rx Torace PA (Postero-Anterior)
 
     === "Indicații Clinice"
 
-        - Suspiciune infecție respiratorie joasă (pneumonie, bronhopneumonie)
+        - Suspiciune de infecție respiratorie joasă (pneumonie, bronhopneumonie)
         - Dispnee acută sau cronică neclară
-        - Bilanț inițial hemoptizie sau tuse persistentă (> 3 săptămâni)
-        - Suspiciune revărsat pleural sau pneumotorax (în ortostatism)
-        - Evaluare cardiomegalie și congestie vasculară pulmonară
+        - Bilanț inițial pentru hemoptizie sau tuse persistentă (> 3 săptămâni)
+        - Suspiciune de revărsat pleural sau pneumotorax (în ortostatism)
+        - Evaluarea cardiomegaliei și a congestiei vasculare pulmonare
         - Traumatism toracic minor fără criterii de politraumă
 
     === "Ghid Național IRIS"
@@ -108,14 +109,15 @@ title: Rx Torace PA (Postero-Anterior)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Ortostatism cu fața anterioară toracelui lipită de stativul Bucky vertical, mâinile pe șolduri, umerii împinși înainte pentru degajarea omoplaților
+    - **Poziție Pacient:** Ortostatism, cu fața anterioară a toracelui lipită de stativul Bucky vertical, mâinile pe șolduri, umerii împinși înainte pentru degajarea omoplaților
     - **Punct de Centrare Fascicul:** Linia mediană posterioară, la nivelul unghiului inferior al omoplaților (T7)
     - **Distanță Focar-Film (DFF / SID):** 180 cm (reducerea magnificării siluetei cardiace)
-    - **Comandă Respiratorie:** Apnee în inspir profund susținut (după doua inspirație)
+    - **Comandă Respiratorie:** Apnee în inspir profund susținut (după două inspirații)
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -129,15 +131,15 @@ title: Rx Torace PA (Postero-Anterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky (raport 10:1 sau 12:1) |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (dreapta și stânga) activate |
-    | **Colimare Fascicul** | superior la nivelul cartilajului tiroidian; inferior sub arcurile costale inferioare |
+    | **Colimare Fascicul** | Superior la nivelul cartilajului tiroidian; inferior sub arcurile costale inferioare |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea completă câmpurilor pulmonare: de la apexuri până la unghiurile costodiafragmatice
-    - Inspir adecvat: minim 9-10 arcuri costale posterioare vizibile deasupra cupolelor diafragmatice
+    - Vizualizarea completă a câmpurilor pulmonare: de la apexuri până la unghiurile costodiafragmatice
+    - Inspir adecvat: minimum 9-10 arcuri costale posterioare vizibile deasupra cupolelor diafragmatice
     - Absența rotației: capetele mediale ale claviculelor sunt echidistante față de apofizele spinoase
     - Omoplații sunt proiectați complet în afara ariei pulmonare
     - Penetrare optimă: conturul coloanei toracale și al vaselor retrocardiace sunt perceptibile
@@ -146,14 +148,15 @@ title: Rx Torace PA (Postero-Anterior)
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare strictă conform principiului ALARA
     - Evaluarea posibilității unei sarcini se documentează conform procedurii locale și examinării solicitate.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    În suspiciune de pneumotorax mic sau corp străin bronșic, se poate solicita suplimentar un clișeu în expir forțat.
+    În caz de suspiciune de pneumotorax mic sau corp străin bronșic, se poate solicita suplimentar un clișeu în expir forțat.
 
 
 ### 🖼️ Imagini

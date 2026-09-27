@@ -3,14 +3,15 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: • Centre 2.5 cm medial la spină iliacă antero-superioară (SIAS) pe raised
-  side (side under examination), cu raza centrală centrală perpendicular pe casetă.
+centering: • Se centrează la 2,5 cm medial față de spina iliacă anterosuperioară (SIAS)
+  de pe partea ridicată (partea examinată), cu raza centrală perpendiculară pe casetă.
 clinical_indications:
-- 161 5 Articulații Sacroiliace Antero-posterior (AP) Oblică ambele părți (bilateral)
-  sunt examined pentru comparison.
+- 161 5 Articulațiile sacroiliace anteroposterior (AP) oblice; ambele părți (bilateral)
+  sunt examinate pentru comparație.
 images:
 - caption: 'Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)'
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-sacro-iliac-joints-antero-oblica-posterioara-p176-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -20,25 +21,31 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sacro-iliac-joints-antero-oblica-posterioara-p176-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'If it este necessary la evidențiază inferior part de articulație more clearly,
-  raza centrală este înclinat 15 grade cranially și centred 2.5 cm medial la și 5
-  cm inferior la spină iliacă antero-superioară (SIAS) pe side under examination (raised
-  side).
+notes: 'Dacă este necesară evidențierea mai clară a porțiunii inferioare a articulației,
+  raza centrală este înclinată cu 15 grade cranial și centrată la 2,5 cm medial și
+  5 cm inferior față de spina iliacă anterosuperioară (SIAS) de pe partea examinată
+  (partea ridicată).
 
-  X-ray tube 15° 15° spină iliacă antero-superioară (SIAS) Sacro-iliac articulație
-  Foam pad'
-position: '• pacientul este culcat Decubit dorsal pe masa de examinare.
+  Tubul de raze X 15° 15° spina iliacă anterosuperioară (SIAS) articulație sacroiliacă
+  suport din spumă'
+position: '• Pacientul este culcat în decubit dorsal pe masa de examinare.
 
-  • de la this poziție, pacientul este rotit 15–25 grade pe la side nu being examined.
+  • Din această poziție, pacientul este rotit cu 15–25 grade spre partea care nu este
+  examinată.
 
-  • spină iliacă antero-superioară (SIAS) pe raised side trebuie să lie just Profil
-  (lateral) la spină iliacă postero-superioară (SIPS).
+  • Spina iliacă anterosuperioară (SIAS) de pe partea ridicată trebuie să fie exact
+  în profil față de spina iliacă posterosuperioară (SIPS).
 
-  • raised side este sprijinit cu non-opaque pads plasat under trunk și raised thigh.
+  • Partea ridicată este susținută cu suporturi radiotransparente plasate sub trunchi
+  și coapsa ridicată.
 
-  • Pads poate fie plasat între genunchi pentru comfort.'
+  • Suporturile pot fi plasate între genunchi pentru confort.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -47,7 +54,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Sacro - iliac articulații).
+- Vizualizarea clară a întregii arii anatomice (articulațiile sacroiliace).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -59,14 +66,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Sacro - iliac joints Antero - Oblică Posterioară
+  mas: Conform AEC / grosimii anatomice
+title: Rx articulații sacroiliace — incidență anteroposterioară oblică
 ---
-# Rx Sacro - iliac joints Antero - Oblică Posterioară
+# Rx articulații sacroiliace — incidență anteroposterioară oblică
 
 
 <div class="rx-meta-bar">
@@ -85,26 +92,28 @@ title: Rx Sacro - iliac joints Antero - Oblică Posterioară
 
     === "Indicații Clinice"
 
-        - 161 5 Articulații Sacroiliace Antero-posterior (AP) Oblică ambele părți (bilateral) sunt examined pentru comparison.
+        - 161 5 Articulațiile sacroiliace anteroposterior (AP) oblice; ambele părți (bilateral) sunt examinate pentru comparație.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal pe masa de examinare.
-• de la this poziție, pacientul este rotit 15–25 grade pe la side nu being examined.
-• spină iliacă antero-superioară (SIAS) pe raised side trebuie să lie just Profil (lateral) la spină iliacă postero-superioară (SIPS).
-• raised side este sprijinit cu non-opaque pads plasat under trunk și raised thigh.
-• Pads poate fie plasat între genunchi pentru comfort.
-    - **Punct de Centrare Fascicul:** • Centre 2.5 cm medial la spină iliacă antero-superioară (SIAS) pe raised side (side under examination), cu raza centrală centrală perpendicular pe casetă.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal pe masa de examinare.
+        - Din această poziție, pacientul este rotit cu 15–25 grade spre partea care nu este examinată.
+        - Spina iliacă anterosuperioară (SIAS) de pe partea ridicată trebuie să fie exact în profil față de spina iliacă posterosuperioară (SIPS).
+        - Partea ridicată este susținută cu suporturi radiotransparente plasate sub trunchi și coapsa ridicată.
+        - Suporturile pot fi plasate între genunchi pentru confort.
+    - **Punct de Centrare Fascicul:** • Se centrează la 2,5 cm medial față de spina iliacă anterosuperioară (SIAS) de pe partea ridicată (partea examinată), cu raza centrală perpendiculară pe casetă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -115,19 +124,19 @@ title: Rx Sacro - iliac joints Antero - Oblică Posterioară
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Sacro - iliac articulații).
+    - Vizualizarea clară a întregii arii anatomice (articulațiile sacroiliace).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -141,9 +150,9 @@ title: Rx Sacro - iliac joints Antero - Oblică Posterioară
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    If it este necessary la evidențiază inferior part de articulație more clearly, raza centrală este înclinat 15 grade cranially și centred 2.5 cm medial la și 5 cm inferior la spină iliacă antero-superioară (SIAS) pe side under examination (raised side).
-X-ray tube 15° 15° spină iliacă antero-superioară (SIAS) Sacro-iliac articulație Foam pad
+    Dacă este necesară evidențierea mai clară a porțiunii inferioare a articulației, raza centrală este înclinată cu 15 grade cranial și centrată la 2,5 cm medial și 5 cm inferior față de spina iliacă anterosuperioară (SIAS) de pe partea examinată (partea ridicată). Tubul de raze X 15° 15° spina iliacă anterosuperioară (SIAS) articulație sacroiliacă suport din spumă
 
 
 ### 🖼️ Imagini
@@ -154,7 +163,7 @@ X-ray tube 15° 15° spină iliacă antero-superioară (SIAS) Sacro-iliac articu
 
 ![Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)](../../assets/images/protocols/clark/rx-sacro-iliac-joints-antero-oblica-posterioara-p176-clark/fig_1.jpeg)
 
-<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Figura 1: Aspect radiografic / Poziționare (Clark Ed. 12)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -33,6 +33,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.85
     Poziție oblică posterioară stângă (OPS / LPO) la 45° la 60°.)
   url: assets/images/protocols/bontrager/rx-rpo-and-lpo-posterior-oblique-positions-torace-bontrager/fig_6.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Incidențele oblice posterioare oferă cea mai bună vizualizare a părții
@@ -45,10 +49,10 @@ notes: 'S: Incidențele oblice posterioare oferă cea mai bună vizualizare a p�
 position: 'Pacient: (decubit) Dacă pacientul nu poate sta în picioare sau în șezut,
   efectuați incidențele oblice posterioare pe masă. Așezați suporturi sub capul pacientului
   și sub șoldul și umărul ridicate. Regiune anatomică: marginea superioară a receptorului
-  de imagine la aproximativ 1 inch (2 cm) deasupra vertebrei proeminente (apofiza
-  spinoasă C7) sau la aproximativ 5 inches (12 cm) deasupra incizurii jugulare (manubriului
-  sternal) (2 inches [5 cm] deasupra umerilor). Toracele centrat la raza centrală
-  și la receptorul de imagine.'
+  de imagine la aproximativ 1 țol (2 cm) deasupra vertebrei proeminente (apofiza spinoasă
+  C7) sau la aproximativ 5 țoli (12 cm) deasupra incizurii jugulare (manubriului sternal)
+  (2 țoli [5 cm] deasupra umerilor). Toracele centrat la raza centrală și la receptorul
+  de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -111,16 +115,17 @@ title: Rx oblică posterioară (OPD și OPS) (torace)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: (decubit) Dacă pacientul nu poate sta în picioare sau în șezut, efectuați incidențele oblice posterioare pe masă. Așezați suporturi sub capul pacientului și sub șoldul și umărul ridicate. Regiune anatomică: marginea superioară a receptorului de imagine la aproximativ 1 inch (2 cm) deasupra vertebrei proeminente (apofiza spinoasă C7) sau la aproximativ 5 inches (12 cm) deasupra incizurii jugulare (manubriului sternal) (2 inches [5 cm] deasupra umerilor). Toracele centrat la raza centrală și la receptorul de imagine.
+    - **Poziție Pacient:** Pacient: (decubit) Dacă pacientul nu poate sta în picioare sau în șezut, efectuați incidențele oblice posterioare pe masă. Așezați suporturi sub capul pacientului și sub șoldul și umărul ridicate. Regiune anatomică: marginea superioară a receptorului de imagine la aproximativ 1 țol (2 cm) deasupra vertebrei proeminente (apofiza spinoasă C7) sau la aproximativ 5 țoli (12 cm) deasupra incizurii jugulare (manubriului sternal) (2 țoli [5 cm] deasupra umerilor). Toracele centrat la raza centrală și la receptorul de imagine.
     - **Punct de Centrare Fascicul:** La jumătatea distanței dintre planul mediosagital și marginea laterală a toracelui
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Efectuați expunerea după al doilea inspir profund adecvat: minimum 9-10 arcuri costale posterioare vizibile.
@@ -157,6 +162,7 @@ title: Rx oblică posterioară (OPD și OPS) (torace)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Incidențele oblice posterioare oferă cea mai bună vizualizare a părții celei mai apropiate de receptorul de imagine. Pozițiile posterioare evidențiază aceeași anatomie ca pozițiile oblice anterioare opuse. Astfel, RPO (Fig. 2.82) corespunde poziției oblice anterioare stângi (OAS / LAO), iar LPO (Fig. 2.83) corespunde poziției oblice anterioare drepte (OAD / RAO). Torace, incidențe SPECIALE: AP în ortostatism sau semierect; decubit lateral (AP); AP lordotică; oblică anterioară; oblică posterioară. LPO RPO

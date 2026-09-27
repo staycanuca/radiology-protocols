@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe midcarpal area
+centering: Perpendicular pe regiunea mediocarpiană
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,27 +15,30 @@ images:
 - caption: Merrill — pagina 292, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-pumn-articulatie-radiocarpiana-incidenta-antero-posterioara-ap-p290-merrill/p292_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică.; Se instruiește
-  pacientul să rest Antebraț pe masa de examinare, cu braț și Mână în supinație. Place
-  receptorul de imagine under Pumn (Articulație Radiocarpiană), centrat pe oase carpiene.
-  Elevate falange pe suitable support la place Pumn (Articulație Radiocarpiană) în
-  close contact cu receptorul de imagine. Se instruiește pacientul să lean laterally
-  la prevent rotație de Pumn (Articulație Radiocarpiană) (Fig. 5.71). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul pe scaun la capătul mesei radiologice.; Se instruiește
+  pacientul să sprijine antebrațul pe masa de examinare, cu brațul și mâna în supinație.
+  Se plasează receptorul de imagine sub pumn, centrat pe oasele carpiene. Se ridică
+  falangele pe un suport adecvat pentru a plasa pumnul în contact strâns cu receptorul
+  de imagine. Se instruiește pacientul să se încline lateral pentru a preveni rotația
+  pumnului (Fig. 5.71). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-- fără excessive flexion de falange la overlap și obscure oase metacarpiene
-- Absența rotației anatomice (simetrie bilaterală perfectă) de oase carpiene, oase
-  metacarpiene, radius, și ulna
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+- Fără flexia excesivă a falangelor, care să se suprapună și să ascundă oasele metacarpiene
+- Absența rotației anatomice (simetrie bilaterală perfectă) a oaselor carpiene, oaselor
+  metacarpiene, radiusului și ulnei
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-pumn-articulatie-radiocarpiana-incidenta-antero-posterioara-ap-p290-merrill
 source_pages:
@@ -43,55 +46,54 @@ source_pages:
 - 291
 - 292
 source_sections:
-  anatomy: 'carpal interspaces sunt better vizualizat în AP imagine than în PA imagine.
-    Because de oblic direction de interspaces, they sunt more
+  anatomy: Spațiile intercarpiene sunt vizualizate mai bine în imaginea AP decât în
+    imaginea PA. Datorită direcției oblice a spațiilor intercarpiene, acestea sunt
+    mai aproape de paralel cu divergența fasciculului de raze X (Fig. 5.72).
+  collimation: • Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Plasați markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe regiunea mediocarpiană
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    closely paralel cu divergence de x-ray fascicul (Fig. 5.72).'
-  collimation: '• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal
-    la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate
-    (D/S) în
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    collimated expunere field.'
-  cr: • perpendicular pe midcarpal area
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Fără flexia excesivă a falangelor, care să se suprapună și să ascundă oasele
+    metacarpiene
 
-    • distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a oaselor carpiene,
+    oaselor metacarpiene, radiusului și ulnei
 
-    • fără excessive flexion de falange la overlap și obscure oase metacarpiene
+    • Detalii osoase trabeculare și țesuturi moi adiacente'
+  part_pos: '• Se instruiește pacientul să sprijine antebrațul pe masa de examinare,
+    cu brațul și mâna în supinație.
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de oase carpiene,
-    oase metacarpiene, radius, și ulna
+    • Se plasează receptorul de imagine sub pumn, centrat pe oasele carpiene.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Se instruiește pacientul să rest forearm pe masa de examinare, cu braț
-    și mână în supinație.
+    • Se ridică falangele pe un suport adecvat pentru a plasa pumnul în contact strâns
+    cu receptorul de imagine.
 
-    • Place receptorul de imagine under wrist, centrat pe oase carpiene.
+    • Se instruiește pacientul să se încline lateral pentru a preveni rotația pumnului
+    (Fig. 5.71).
 
-    • Elevate falange pe suitable support la place wrist în close contact cu receptorul
-    de imagine.
-
-    • Se instruiește pacientul să lean laterally la prevent rotație de wrist (Fig.
-    5.71).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul pe scaun, la capătul mesei radiologice.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 290–292
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
-    Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Pumn (Articulație Radiocarpiană) — Incidență Antero-Posterioară (AP) (Merrill)
+  collimation: Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față
+    de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de
+    lateralitate în câmpul colimat.
+title: Rx pumn (articulație radiocarpiană) — Incidență antero-posterioară (AP) (Merrill)
 ---
-# Rx Pumn (Articulație Radiocarpiană) — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx pumn (articulație radiocarpiană) — Incidență antero-posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -115,17 +117,18 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Antero-Posterioară
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică.; Se instruiește pacientul să rest Antebraț pe masa de examinare, cu braț și Mână în supinație. Place receptorul de imagine under Pumn (Articulație Radiocarpiană), centrat pe oase carpiene. Elevate falange pe suitable support la place Pumn (Articulație Radiocarpiană) în close contact cu receptorul de imagine. Se instruiește pacientul să lean laterally la prevent rotație de Pumn (Articulație Radiocarpiană) (Fig. 5.71). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midcarpal area
+    - **Poziție Pacient:** Se așază pacientul pe scaun la capătul mesei radiologice.; Se instruiește pacientul să sprijine antebrațul pe masa de examinare, cu brațul și mâna în supinație. Se plasează receptorul de imagine sub pumn, centrat pe oasele carpiene. Se ridică falangele pe un suport adecvat pentru a plasa pumnul în contact strâns cu receptorul de imagine. Se instruiește pacientul să se încline lateral pentru a preveni rotația pumnului (Fig. 5.71). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe regiunea mediocarpiană
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -141,19 +144,19 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Antero-Posterioară
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-    - fără excessive flexion de falange la overlap și obscure oase metacarpiene
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de oase carpiene, oase metacarpiene, radius, și ulna
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+    - Fără flexia excesivă a falangelor, care să se suprapună și să ascundă oasele metacarpiene
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a oaselor carpiene, oaselor metacarpiene, radiusului și ulnei
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -162,6 +165,7 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Antero-Posterioară
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -209,45 +213,3 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Antero-Posterioară
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 290–292](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-carpal interspaces sunt better vizualizat în AP imagine than în PA imagine. Because de oblic direction de interspaces, they sunt more
-closely paralel cu divergence de x-ray fascicul (Fig. 5.72).
-
-### collimation
-
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe midcarpal area
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-• fără excessive flexion de falange la overlap și obscure oase metacarpiene
-• Absența rotației anatomice (simetrie bilaterală perfectă) de oase carpiene, oase metacarpiene, radius, și ulna
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Se instruiește pacientul să rest forearm pe masa de examinare, cu braț și mână în supinație.
-• Place receptorul de imagine under wrist, centrat pe oase carpiene.
-• Elevate falange pe suitable support la place wrist în close contact cu receptorul de imagine.
-• Se instruiește pacientul să lean laterally la prevent rotație de wrist (Fig. 5.71).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

@@ -26,6 +26,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-urografie-intravenoasa-uiv-rpo-and-lpo-positions-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Unele protocoale ale departamentului includ un receptor de imagine mai mic,
@@ -103,11 +107,12 @@ title: Rx Urografie Intravenoasă (UIV) RPO ȘI Oblică Posterioară Stângă (O
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -152,6 +157,7 @@ title: Rx Urografie Intravenoasă (UIV) RPO ȘI Oblică Posterioară Stângă (O
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Unele protocoale ale departamentului includ un receptor de imagine mai mic, plasat transversal pentru a include rinichii și porțiunile proximale ale ureterelor. Centrarea se face atunci la jumătatea distanței dintre apendicele xifoid și crestele iliace (corespunzător L4-L5). Fig. 14.76 RPO, 30°. Imagine inserată, 30° LPO.

@@ -16,6 +16,10 @@ contrast:
   timing: 'Bolus tracking: Trigger la 120 HU în crosa aortică / artera carotidă comună'
   trigger: 120 HU
   volume: 50 mL (Adult) / 2 mL/kg (Pediatric, max 50 mL)
+iris_reference:
+  chapter: Gât (părți moi)
+  radiation_dose: Clasa 3 (Moderată 3 - 6 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-20'
 notes:
   additional_recons: Reconstrucții 3D VR ale trunchiurilor supra-aortice și poligonului
@@ -108,10 +112,14 @@ title: CTA Cap & Gât cu Contrast (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+            - **Capitol Ghid IRIS:** *Gât (părți moi)*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 3 - 6 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

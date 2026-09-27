@@ -24,6 +24,10 @@ images:
 - caption: Merrill — pagina 908, imaginea 6
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-facial-bone-radiography-parietoacanthial-projection-incidenta-occipito-mentoniera-metoda-waters-9-p905-merrill/p908_fig6.png
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -33,9 +37,10 @@ position: se așază pacientul în decubit ventral sau în poziție șezândă-o
   astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul
   receptorului de imagine. Linia mentomeatală (LMM) este aproximativ perpendiculară
   pe planul receptorului de imagine; nasul pacientului mediu se află la aproximativ
-  inch (1.9 cm) de dispozitivul cu grilă. Se ajustează capul astfel încât MSP să fie
-  perpendicular pe planul receptorului de imagine (Figs. 11.104–11.106). Se centrează
-  receptorul de imagine la nivelul acantionului. Se imobilizează capul pacientului.
+  [valoare lipsă în sursă] țoli (1.9 cm) de dispozitivul cu grilă. Se ajustează capul
+  astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Figs. 11.104–11.106).
+  Se centrează receptorul de imagine la nivelul acantionului. Se imobilizează capul
+  pacientului.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -56,11 +61,11 @@ source_pages:
 - 908
 source_sections:
   anatomy: orbitele, maxilarele și arcadele zigomatice (Fig. 11.107).
-  collimation: • se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbrele
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbrele
     marginilor laterale ale feței, superior pentru a include marginile supraorbitare
     și inferior până la nivelul bărbiei. Câmpul de expunere nu trebuie să fie mai
-    mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul lateral în câmpul de
-    expunere colimat.
+    mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul lateral în câmpul de expunere
+    colimat.
   cr: • perpendiculară pe ieșirea acantionului
   criteria: 'Criterii radiologice de calitate a imaginii:
 
@@ -85,8 +90,8 @@ source_sections:
     cu planul receptorului de imagine.
 
     • Linia mentomeatală (LMM) este aproximativ perpendiculară pe planul receptorului
-    de imagine; nasul pacientului mediu se află la aproximativ inch (1.9 cm) de dispozitivul
-    cu grilă.
+    de imagine; nasul pacientului mediu se află la aproximativ [valoare lipsă în sursă]
+    țoli (1.9 cm) de dispozitivul cu grilă.
 
     • se ajustează capul astfel încât MSP să fie perpendicular pe planul receptorului
     de imagine (Figs. 11.104–11.106).
@@ -109,11 +114,11 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbrele
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbrele
     marginilor laterale ale feței, superior pentru a include marginile supraorbitare
     și inferior până la nivelul bărbiei. Câmpul de expunere nu trebuie să fie mai
-    mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S)
-    în câmpul de expunere colimat.
+    mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în
+    câmpul de expunere colimat.
 title: Radiografia oaselor feței — Incidență parietoacantială — Incidență occipito-mentonieră
   (Metoda Waters) 9 (Merrill)
 ---
@@ -141,16 +146,17 @@ title: Radiografia oaselor feței — Incidență parietoacantială — Inciden�
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în decubit ventral sau în poziție șezândă-ortostatism. Se centrează MSP al corpului pacientului pe linia mediană a dispozitivului cu grilă. Se sprijină capul pacientului pe suport, cu bărbia extinsă. Se hiperextinde gâtul astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul receptorului de imagine. Linia mentomeatală (LMM) este aproximativ perpendiculară pe planul receptorului de imagine; nasul pacientului mediu se află la aproximativ inch (1.9 cm) de dispozitivul cu grilă. Se ajustează capul astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Figs. 11.104–11.106). Se centrează receptorul de imagine la nivelul acantionului. Se imobilizează capul pacientului.
+    - **Poziție Pacient:** se așază pacientul în decubit ventral sau în poziție șezândă-ortostatism. Se centrează MSP al corpului pacientului pe linia mediană a dispozitivului cu grilă. Se sprijină capul pacientului pe suport, cu bărbia extinsă. Se hiperextinde gâtul astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul receptorului de imagine. Linia mentomeatală (LMM) este aproximativ perpendiculară pe planul receptorului de imagine; nasul pacientului mediu se află la aproximativ [valoare lipsă în sursă] țoli (1.9 cm) de dispozitivul cu grilă. Se ajustează capul astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Figs. 11.104–11.106). Se centrează receptorul de imagine la nivelul acantionului. Se imobilizează capul pacientului.
     - **Punct de Centrare Fascicul:** perpendiculară pe ieșirea acantionului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
@@ -167,7 +173,7 @@ title: Radiografia oaselor feței — Incidență parietoacantială — Inciden�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbrele marginilor laterale ale feței, superior pentru a include marginile supraorbitare și inferior până la nivelul bărbiei. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbrele marginilor laterale ale feței, superior pentru a include marginile supraorbitare și inferior până la nivelul bărbiei. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -185,6 +191,7 @@ title: Radiografia oaselor feței — Incidență parietoacantială — Inciden�
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -256,51 +263,3 @@ title: Radiografia oaselor feței — Incidență parietoacantială — Inciden�
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 905–908](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-orbitele, maxilarele și arcadele zigomatice (Fig. 11.107).
-
-### colimare
-
-• se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbrele marginilor laterale ale feței, superior pentru a include marginile supraorbitare și inferior până la nivelul bărbiei. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul lateral în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendiculară pe ieșirea acantionului
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-▪ Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
-▪ Orbitele și oasele feței în întregime
-▪ Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
-• Distanțe egale între marginile laterale ale craniului și orbite, pe fiecare parte
-• MSP al capului aliniat cu axa longitudinală a câmpului colimat
-▪ Stânci temporale (piramide pietroase) proiectate imediat sub sinusurile maxilare
-▪ Țesuturi moi și detalii osoase trabeculare
-
-### part_pos
-
-• se sprijină capul pacientului pe suport, cu bărbia extinsă. Se hiperextinde gâtul astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 de grade cu planul receptorului de imagine.
-• Linia mentomeatală (LMM) este aproximativ perpendiculară pe planul receptorului de imagine; nasul pacientului mediu se află la aproximativ inch (1.9 cm) de dispozitivul cu grilă.
-• se ajustează capul astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Figs. 11.104–11.106).
-• se centrează receptorul de imagine la nivelul acantionului.
-• Se imobilizează capul pacientului.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral sau așezat pe scaun, în ortostatism.
-• Se centrează MSP al corpului pacientului pe linia mediană a dispozitivului cu grilă.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

@@ -3,46 +3,51 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• raza centrală orizontală centrală este orientat la Profil (lateral)
-  malleolus.
+centering: '• raza centrală orizontală este orientată spre maleola de profil (laterală).
 
-  116 Fascicul Orizontal Profil (lateral) radiografie de Gleznă (Articulație Talocrurală)
-  through plaster Antero-posterior (AP) radiografie through plaster evidențiind suspiciune
-  de fractură de distal fibula'
+  116 Radiografie de profil cu fascicul orizontal a gleznei (articulației talocrurale)
+  prin aparat gipsat; radiografie antero-posterioară (AP) prin aparat gipsat evidențiind
+  suspiciunea de fractură a fibulei distale'
 clinical_indications:
-- orizontal techniques described poate fie undertaken only în X-ray rooms that have
-  capability de lowering ceiling tube suspension sufficiently la centre X-ray fascicul
-  pe Gleznă (Articulație Talocrurală) articulație. Antero-posterior (AP)
+- Tehnicile cu fascicul orizontal descrise pot fi efectuate numai în săli de radiografie
+  care au posibilitatea de a coborî suficient suspensia tubului fixat în tavan pentru
+  a centra fasciculul de raze X pe articulația gleznei (articulația talocrurală).
+  Antero-posterior (AP)
 images:
-- caption: basic radiografii fără moving pacientul de la wheelchair
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: radiografii de bază fără deplasarea pacientului din scaunul rulant
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_1.jpeg
-- caption: la those pacienți de la suspiciune de fractură clinic cu below-Genunchi
-    plaster
+- caption: la acei pacienți cu suspiciune clinică de fractură și aparat gipsat sub
+    genunchi
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_2.jpeg
-- caption: Fascicul Orizontal Profil (lateral) radiografie de Gleznă (Articulație
-    Talocrurală) through plaster
+- caption: Radiografie de profil cu fascicul orizontal a gleznei (articulației talocrurale)
+    prin aparat gipsat
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_3.jpeg
-- caption: Antero-posterior (AP) radiografie through plaster evidențiind suspiciune
-    de fractură de distal fibula
+- caption: Radiografie antero-posterioară (AP) prin aparat gipsat evidențiind suspiciunea
+    de fractură a fibulei distale
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: If there este fără intern rotație de Picior, then distal fibula will fie projected
-  behind distal tibia și a ‘true Profil (lateral)’ imagine este nu produced. If Picior
-  cannot fie rotit la superimpose malleoli, then compensatory superior angulation
-  (approximately 20 grade) poate fie applied la fascicul.
-position: '• cu pacientul maintaining Poziție Șezândă poziție sau culcat pe trauma
-  trolley, limb este raised și sprijinit pe firm non-opaque pad.
+notes: Dacă nu există rotație internă a piciorului, fibula distală va fi proiectată
+  în spatele tibiei distale și nu se va obține o imagine de profil „adevărată”. Dacă
+  piciorul nu poate fi rotit pentru suprapunerea maleolelor, se poate aplica o angulație
+  compensatorie superioară (aproximativ 20 grade) fasciculului.
+position: '• cu pacientul menținând poziția șezândă sau culcat pe căruciorul pentru
+  traumatisme, membrul este ridicat și sprijinit pe un suport ferm, radiotransparent.
 
-  • casetă este plasat pe / sprijinit de medial aspect de limb. lower edge de caseta
-  este plasat just below plantar aspect de heel.'
+  • caseta este plasată pe/sprijinită de aspectul medial al membrului. Marginea inferioară
+  a casetei este plasată imediat sub aspectul plantar al călcâiului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -51,7 +56,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Gleznă (Articulație Talocrurală) articulație).
+- Vizualizarea clară a întregii arii anatomice (articulația gleznei (articulația talocrurală)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -63,14 +68,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Gleznă (Articulație Talocrurală) joint Alternative Incidență methods
+  mas: Conform AEC / grosimii anatomice
+title: Rx gleznă (articulație talocrurală) — metode alternative de incidență
 ---
-# Rx Gleznă (Articulație Talocrurală) joint Alternative Incidență methods
+# Rx gleznă (articulație talocrurală) — metode alternative de incidență
 
 
 <div class="rx-meta-bar">
@@ -89,24 +94,26 @@ title: Rx Gleznă (Articulație Talocrurală) joint Alternative Incidență meth
 
     === "Indicații Clinice"
 
-        - orizontal techniques described poate fie undertaken only în X-ray rooms that have capability de lowering ceiling tube suspension sufficiently la centre X-ray fascicul pe Gleznă (Articulație Talocrurală) articulație. Antero-posterior (AP)
+        - Tehnicile cu fascicul orizontal descrise pot fi efectuate numai în săli de radiografie care au posibilitatea de a coborî suficient suspensia tubului fixat în tavan pentru a centra fasciculul de raze X pe articulația gleznei (articulația talocrurală). Antero-posterior (AP)
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • cu pacientul maintaining Poziție Șezândă poziție sau culcat pe trauma trolley, limb este raised și sprijinit pe firm non-opaque pad.
-• casetă este plasat pe / sprijinit de medial aspect de limb. lower edge de caseta este plasat just below plantar aspect de heel.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este orientat la Profil (lateral) malleolus.
-116 Fascicul Orizontal Profil (lateral) radiografie de Gleznă (Articulație Talocrurală) through plaster Antero-posterior (AP) radiografie through plaster evidențiind suspiciune de fractură de distal fibula
+    - **Poziție Pacient:**
+        - cu pacientul menținând poziția șezândă sau culcat pe căruciorul pentru traumatisme, membrul este ridicat și sprijinit pe un suport ferm, radiotransparent.
+        - caseta este plasată pe/sprijinită de aspectul medial al membrului. Marginea inferioară a casetei este plasată imediat sub aspectul plantar al călcâiului.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală orizontală este orientată spre maleola de profil (laterală). 116 Radiografie de profil cu fascicul orizontal a gleznei (articulației talocrurale) prin aparat gipsat; radiografie antero-posterioară (AP) prin aparat gipsat evidențiind suspiciunea de fractură a fibulei distale
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -117,19 +124,19 @@ title: Rx Gleznă (Articulație Talocrurală) joint Alternative Incidență meth
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Gleznă (Articulație Talocrurală) articulație).
+    - Vizualizarea clară a întregii arii anatomice (articulația gleznei (articulația talocrurală)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -143,8 +150,9 @@ title: Rx Gleznă (Articulație Talocrurală) joint Alternative Incidență meth
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    If there este fără intern rotație de Picior, then distal fibula will fie projected behind distal tibia și a ‘true Profil (lateral)’ imagine este nu produced. If Picior cannot fie rotit la superimpose malleoli, then compensatory superior angulation (approximately 20 grade) poate fie applied la fascicul.
+    Dacă nu există rotație internă a piciorului, fibula distală va fi proiectată în spatele tibiei distale și nu se va obține o imagine de profil „adevărată”. Dacă piciorul nu poate fi rotit pentru suprapunerea maleolelor, se poate aplica o angulație compensatorie superioară (aproximativ 20 grade) fasciculului.
 
 
 ### 🖼️ Imagini
@@ -153,33 +161,33 @@ title: Rx Gleznă (Articulație Talocrurală) joint Alternative Incidență meth
 
 <figure class="protocol-image-card" markdown>
 
-![basic radiografii fără moving pacientul de la wheelchair](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_1.jpeg)
+![radiografii de bază fără deplasarea pacientului din scaunul rulant](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_1.jpeg)
 
-<figcaption><strong>basic radiografii fără moving pacientul de la wheelchair</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![la those pacienți de la suspiciune de fractură clinic cu below-Genunchi plaster](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_2.jpeg)
-
-<figcaption><strong>la those pacienți de la suspiciune de fractură clinic cu below-Genunchi plaster</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografii de bază fără deplasarea pacientului din scaunul rulant</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fascicul Orizontal Profil (lateral) radiografie de Gleznă (Articulație Talocrurală) through plaster](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_3.jpeg)
+![la acei pacienți cu suspiciune clinică de fractură și aparat gipsat sub genunchi](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_2.jpeg)
 
-<figcaption><strong>Fascicul Orizontal Profil (lateral) radiografie de Gleznă (Articulație Talocrurală) through plaster</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>la acei pacienți cu suspiciune clinică de fractură și aparat gipsat sub genunchi</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) radiografie through plaster evidențiind suspiciune de fractură de distal fibula](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_4.jpeg)
+![Radiografie de profil cu fascicul orizontal a gleznei (articulației talocrurale) prin aparat gipsat](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_3.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) radiografie through plaster evidențiind suspiciune de fractură de distal fibula</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de profil cu fascicul orizontal a gleznei (articulației talocrurale) prin aparat gipsat</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie antero-posterioară (AP) prin aparat gipsat evidențiind suspiciunea de fractură a fibulei distale](../../assets/images/protocols/clark/rx-glezna-articulatie-talocrurala-joint-alternative-projection-methods-p131-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie antero-posterioară (AP) prin aparat gipsat evidențiind suspiciunea de fractură a fibulei distale</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

@@ -53,9 +53,11 @@ def build_url(site_url, category, slug):
     """Construct the deployed Pages URL for a protocol.
 
     site_url from institution.yml is the full base (e.g. https://host/repo),
-    so URL = site_url/ct/category/slug/.
+    so URL = site_url/ct/category/slug/, or site_url/ct/slug/ if category is 'ct'.
     """
     base = site_url.rstrip('/') if site_url else ''
+    if category == 'ct' or not category:
+        return f"{base}/ct/{slug}/"
     return f"{base}/ct/{category}/{slug}/"
 
 

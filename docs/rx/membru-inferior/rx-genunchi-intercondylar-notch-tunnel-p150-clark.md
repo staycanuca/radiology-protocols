@@ -3,20 +3,22 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre immediately below apex de Rotulă (Patelă), cu following angulations
-  la evidențiază either anterior sau posterior aspects de notch:
+centering: '• Se centrează imediat sub vârful rotulei, cu următoarele angulații pentru
+  evidențierea fie a aspectelor anterioare, fie a celor posterioare ale incizurii:
 
-  Angulation la long Anatomy evidențiat axis de tibia 110 grade anterior aspect de
-  notch 90 grade posterior aspect de notch'
+  Angulația față de axa longitudinală a tibiei: 110 grade pentru aspectul anterior
+  al incizurii; 90 de grade pentru aspectul posterior al incizurii'
 clinical_indications:
-- Evaluare radiografică regiunii Genunchi (Intercondylar notch (tunnel)).
+- Evaluarea radiografică a regiunii genunchiului (incizura intercondiliană — tunel).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: suspiciune de fractură de tibial spines, where cruciate ligaments sunt
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: suspiciune de fractură a spinelor tibiale, unde sunt atașate ligamentele
+    încrucișate
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-genunchi-intercondylar-notch-tunnel-p150-clark/fig_1.jpeg
-- caption: radiografie de intercondylar notch evidențiind loose corp
+- caption: radiografie a incizurii intercondiliene evidențiind un corp liber
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-intercondylar-notch-tunnel-p150-clark/fig_2.jpeg
@@ -28,25 +30,29 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-intercondylar-notch-tunnel-p150-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Commonly only 90 grade angulation este used.
+notes: '• În mod obișnuit se utilizează numai angulația de 90 de grade.
 
-  • This incidență poate fie requested occasionally la evidențiază suspiciune de fractură
-  de tibial spines, where cruciate ligaments sunt attached. Care trebuie să fie taken
-  when flexing Genunchi.
+  • Această incidență poate fi solicitată ocazional pentru evidențierea unei suspiciuni
+  de fractură a spinelor tibiale, unde sunt atașate ligamentele încrucișate. Trebuie
+  acordată atenție la flectarea genunchiului.
 
-  X-ray tube X-ray tube 110° casetă 90° 110 grade 90 grade radiografie de intercondylar
-  notch evidențiind loose corp'
-position: '• pacientul este either Decubit dorsal sau așezat pe scaun pe masa radiologică,
-  cu affected Genunchi flectat la approximately 60 grade.
+  Tubul de raze X Tubul de raze X 110° casetă 90° 110 grade 90 de grade radiografie
+  a incizurii intercondiliene evidențiind un corp liber'
+position: '• Pacientul este fie în decubit dorsal, fie așezat pe un scaun pe masa
+  radiologică, cu genunchiul afectat flectat la aproximativ 60 de grade.
 
-  • suitable pad este plasat under Genunchi la help maintain poziție.
+  • Un suport adecvat este plasat sub genunchi pentru a ajuta la menținerea poziției.
 
-  • limb este rotit la centralize Rotulă (Patelă) over Femur.
+  • Membrul este rotit pentru a centra rotula peste femur.
 
-  • caseta este plasat pe top de pad ca close ca possible la posterior aspect de Genunchi
-  și displaced spre Femur.'
+  • Caseta este plasată deasupra suportului, cât mai aproape posibil de aspectul posterior
+  al genunchiului și deplasată spre femur.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -55,7 +61,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Genunchi).
+- Vizualizarea clară a întregii arii anatomice (genunchi).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -67,14 +73,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Genunchi Intercondylar notch (tunnel)
+  mas: Conform AEC / grosimii anatomice
+title: Rx genunchi — incizura intercondiliană (tunel)
 ---
-# Rx Genunchi Intercondylar notch (tunnel)
+# Rx genunchi — incizura intercondiliană (tunel)
 
 
 <div class="rx-meta-bar">
@@ -93,28 +99,30 @@ title: Rx Genunchi Intercondylar notch (tunnel)
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Genunchi (Intercondylar notch (tunnel)).
+        - Evaluarea radiografică a regiunii genunchiului (incizura intercondiliană — tunel).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este either Decubit dorsal sau așezat pe scaun pe masa radiologică, cu affected Genunchi flectat la approximately 60 grade.
-• suitable pad este plasat under Genunchi la help maintain poziție.
-• limb este rotit la centralize Rotulă (Patelă) over Femur.
-• caseta este plasat pe top de pad ca close ca possible la posterior aspect de Genunchi și displaced spre Femur.
-    - **Punct de Centrare Fascicul:** • Centre immediately below apex de Rotulă (Patelă), cu following angulations la evidențiază either anterior sau posterior aspects de notch:
-Angulation la long Anatomy evidențiat axis de tibia 110 grade anterior aspect de notch 90 grade posterior aspect de notch
+    - **Poziție Pacient:**
+        - Pacientul este fie în decubit dorsal, fie așezat pe un scaun pe masa radiologică, cu genunchiul afectat flectat la aproximativ 60 de grade.
+        - Un suport adecvat este plasat sub genunchi pentru a ajuta la menținerea poziției.
+        - Membrul este rotit pentru a centra rotula peste femur.
+        - Caseta este plasată deasupra suportului, cât mai aproape posibil de aspectul posterior al genunchiului și deplasată spre femur.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează imediat sub vârful rotulei, cu următoarele angulații pentru evidențierea fie a aspectelor anterioare, fie a celor posterioare ale incizurii: Angulația față de axa longitudinală a tibiei: 110 grade pentru aspectul anterior al incizurii; 90 de grade pentru aspectul posterior al incizurii
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -125,19 +133,19 @@ Angulation la long Anatomy evidențiat axis de tibia 110 grade anterior aspect d
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Genunchi).
+    - Vizualizarea clară a întregii arii anatomice (genunchi).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -151,10 +159,10 @@ Angulation la long Anatomy evidențiat axis de tibia 110 grade anterior aspect d
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Commonly only 90 grade angulation este used.
-• This incidență poate fie requested occasionally la evidențiază suspiciune de fractură de tibial spines, where cruciate ligaments sunt attached. Care trebuie să fie taken when flexing Genunchi.
-X-ray tube X-ray tube 110° casetă 90° 110 grade 90 grade radiografie de intercondylar notch evidențiind loose corp
+    - În mod obișnuit se utilizează numai angulația de 90 de grade.
+    - Această incidență poate fi solicitată ocazional pentru evidențierea unei suspiciuni de fractură a spinelor tibiale, unde sunt atașate ligamentele încrucișate. Trebuie acordată atenție la flectarea genunchiului. Tubul de raze X Tubul de raze X 110° casetă 90° 110 grade 90 de grade radiografie a incizurii intercondiliene evidențiind un corp liber
 
 
 ### 🖼️ Imagini
@@ -163,17 +171,17 @@ X-ray tube X-ray tube 110° casetă 90° 110 grade 90 grade radiografie de inter
 
 <figure class="protocol-image-card" markdown>
 
-![suspiciune de fractură de tibial spines, where cruciate ligaments sunt](../../assets/images/protocols/clark/rx-genunchi-intercondylar-notch-tunnel-p150-clark/fig_1.jpeg)
+![suspiciune de fractură a spinelor tibiale, unde sunt atașate ligamentele încrucișate](../../assets/images/protocols/clark/rx-genunchi-intercondylar-notch-tunnel-p150-clark/fig_1.jpeg)
 
-<figcaption><strong>suspiciune de fractură de tibial spines, where cruciate ligaments sunt</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>suspiciune de fractură a spinelor tibiale, unde sunt atașate ligamentele încrucișate</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie de intercondylar notch evidențiind loose corp](../../assets/images/protocols/clark/rx-genunchi-intercondylar-notch-tunnel-p150-clark/fig_2.jpeg)
+![radiografie a incizurii intercondiliene evidențiind un corp liber](../../assets/images/protocols/clark/rx-genunchi-intercondylar-notch-tunnel-p150-clark/fig_2.jpeg)
 
-<figcaption><strong>radiografie de intercondylar notch evidențiind loose corp</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografie a incizurii intercondiliene evidențiind un corp liber</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

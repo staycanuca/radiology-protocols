@@ -17,6 +17,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.67
     Coccis AP axial—10° caudal.)
   url: assets/images/protocols/bontrager/rx-coccis-ap-axiala-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Tehnicianul poate fi nevoit să mărească unghiul razei centrale la 15° caudal
@@ -92,11 +96,12 @@ title: Rx Coccis AP Axială
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -142,6 +147,7 @@ title: Rx Coccis AP Axială
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Tehnicianul poate fi nevoit să mărească unghiul razei centrale la 15° caudal în cazul unei curburi anterioare mai accentuate a coccisului, dacă aceasta este evidentă la palpare sau pe incidența de profil. Această incidență poate fi realizată și în decubit ventral (unghi de 10° cranial), dacă starea pacientului o impune, cu raza centrală centrată pe coccis, care poate fi localizat folosind marele trohanter. Sacru și coccis EXAMINARE DE RUTINĂ Sacru AP axial Coccis AP axial Incidență de profil

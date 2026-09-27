@@ -50,6 +50,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-aparat-biliar-left-oblica-anterioara-p363-clark/fig_5.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'O imagine suplimentară poate fi obținută în apnee după un inspir profund complet
@@ -145,29 +149,30 @@ title: Rx Aparat biliar în incidență oblică anterioară stângă
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat în decubit ventral pe masa radiologică. Partea dreaptă este ridicată, rotind planul mediosagital cu un unghi de 20 grade; planul coronal formează acum un unghi de 20 grade cu masa de examinare.
-• Brațul de pe partea ridicată este flectat astfel încât mâna dreaptă să se sprijine lângă capul pacientului, în timp ce brațul stâng este așezat de-a lungul și în spatele trunchiului.
-• Pacientul este deplasat transversal pe masa de examinare până când partea dreaptă ridicată se află deasupra centrului mesei de examinare și se aplică o bandă de compresie.
-• O casetă de 24 × 30-cm este plasată longitudinal în tăvița Bucky, cu centrul la 2.5 cm deasupra rebordului costal inferior, pentru a include partea superioară a crestelor iliace.
-
-• Pacientul este așezat în decubit dorsal pe masa radiologică. Partea stângă este ridicată, rotind planul mediosagital cu 20 grade; planul coronal formează acum un unghi de 20 grade cu masa de examinare, iar trunchiul este susținut în această poziție folosind o pernă radiotransparentă.
-• Pacientul este deplasat transversal pe masa de examinare astfel încât partea dreaptă a abdomenului să se afle deasupra centrului mesei de examinare. Coatele și umerii sunt flectați astfel încât pacientul să își poată sprijini mâinile în spatele capului.
-• Banda de imobilizare ajută la comprimarea abdomenului.
-• O casetă de 24 × 30-cm este plasată longitudinal în tăvița Bucky, cu centrul la 2.5 cm deasupra rebordului costal inferior.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre un punct situat la 7.5 cm la dreapta proceselor spinoase și la 2.5 cm deasupra rebordului costal inferior și spre centrul casetei.
-• Expunerea se efectuează în apnee la sfârșitul expirului complet (diafragm ridicat).
-
-• Raza centrală verticală este orientată spre un punct situat la jumătatea distanței dintre linia mediană și peretele abdominal drept, la 2.5 cm deasupra rebordului costal inferior, și spre centrul casetei.
-• Expunerea se efectuează în apnee la sfârșitul expirului complet (diafragm ridicat).
+    - **Poziție Pacient:**
+        - Pacientul este așezat în decubit ventral pe masa radiologică. Partea dreaptă este ridicată, rotind planul mediosagital cu un unghi de 20 grade; planul coronal formează acum un unghi de 20 grade cu masa de examinare.
+        - Brațul de pe partea ridicată este flectat astfel încât mâna dreaptă să se sprijine lângă capul pacientului, în timp ce brațul stâng este așezat de-a lungul și în spatele trunchiului.
+        - Pacientul este deplasat transversal pe masa de examinare până când partea dreaptă ridicată se află deasupra centrului mesei de examinare și se aplică o bandă de compresie.
+        - O casetă de 24 × 30-cm este plasată longitudinal în tăvița Bucky, cu centrul la 2.5 cm deasupra rebordului costal inferior, pentru a include partea superioară a crestelor iliace.
+        - Pacientul este așezat în decubit dorsal pe masa radiologică. Partea stângă este ridicată, rotind planul mediosagital cu 20 grade; planul coronal formează acum un unghi de 20 grade cu masa de examinare, iar trunchiul este susținut în această poziție folosind o pernă radiotransparentă.
+        - Pacientul este deplasat transversal pe masa de examinare astfel încât partea dreaptă a abdomenului să se afle deasupra centrului mesei de examinare. Coatele și umerii sunt flectați astfel încât pacientul să își poată sprijini mâinile în spatele capului.
+        - Banda de imobilizare ajută la comprimarea abdomenului.
+        - O casetă de 24 × 30-cm este plasată longitudinal în tăvița Bucky, cu centrul la 2.5 cm deasupra rebordului costal inferior.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată spre un punct situat la 7.5 cm la dreapta proceselor spinoase și la 2.5 cm deasupra rebordului costal inferior și spre centrul casetei.
+        - Expunerea se efectuează în apnee la sfârșitul expirului complet (diafragm ridicat).
+        - Raza centrală verticală este orientată spre un punct situat la jumătatea distanței dintre linia mediană și peretele abdominal drept, la 2.5 cm deasupra rebordului costal inferior, și spre centrul casetei.
+        - Expunerea se efectuează în apnee la sfârșitul expirului complet (diafragm ridicat).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în apnee după complet
 
@@ -204,9 +209,9 @@ title: Rx Aparat biliar în incidență oblică anterioară stângă
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    O imagine suplimentară poate fi obținută în apnee după un inspir profund complet pentru a evidenția mișcarea relativă a vezicii biliare și a calcificărilor patologice suprapuse, suspectate a fi situate în afara vezicii biliare, de exemplu în cartilajele costale.
-348 a' b b' b b c c c c' Poziția variabilă a tubului de raze X în funcție de tipul constituțional al subiectului Rinichi Cupole diafragmatice Casetă Casetă a'b'c' arată forma variabilă a proiecției vezicii biliare în funcție de tipul constituțional al subiectului Casetele sunt reprezentate la niveluri diferite pentru a diferenția cele trei poziții Vertebra toracică 12 Coasta 10 Vertebra lombară 3 Vertebra lombară 5
+    O imagine suplimentară poate fi obținută în apnee după un inspir profund complet pentru a evidenția mișcarea relativă a vezicii biliare și a calcificărilor patologice suprapuse, suspectate a fi situate în afara vezicii biliare, de exemplu în cartilajele costale. 348 a' b b' b b c c c c' Poziția variabilă a tubului de raze X în funcție de tipul constituțional al subiectului Rinichi Cupole diafragmatice Casetă Casetă a'b'c' arată forma variabilă a proiecției vezicii biliare în funcție de tipul constituțional al subiectului Casetele sunt reprezentate la niveluri diferite pentru a diferenția cele trei poziții Vertebra toracică 12 Coasta 10 Vertebra lombară 3 Vertebra lombară 5
 
 
 ### 🖼️ Imagini

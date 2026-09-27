@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe second falange articulații metacarpofalangiene (MCF) pentru
-  mediolateral perpendicular la fiͥ h falange MCP pentru lateromedial
+centering: perpendicular pe articulațiile metacarpofalangiene (MCF) ale celei de-a
+  doua falange pentru mediolateral; perpendicular pe falanga a cincea MCP pentru lateromedial
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -22,43 +22,49 @@ images:
 - caption: Merrill — pagina 284, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mana-incidenta-de-profil-lateral-mediolateral-or-lateromedial-extension-and-fan-lateral-p279-merrill/p284_fig5.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: la show suspiciune de fractură de fifth metacarpal better, Lewis 4 recommended
-  rotating Mână 5 grade posteriorly de la true Incidență de Profil (lateral). This
-  positioning removes superimposition de second through fourth oase metacarpiene.
-  Police este extins ca much ca possible, și Mână este allowed la become hollow prin
-  relaxation. raza centrală este înclinat so that it passes paralel cu extins Police
-  și enters midshaft de fifth metacarpal.
-position: se așază pacientul pe scaun la end de masa radiologică, cu Antebraț în contact
-  cu masa de examinare și Mână în Incidență de Profil (lateral) cu ulnar aspect down
-  (Fig. 5.59). Alternatively, place radial side de Pumn (Articulație Radiocarpiană)
-  pe / sprijinit de receptorul de imagine (Fig. 5.60). This poziție este more dificult
-  pentru pacientul la assume. If Cot este ridicat, support it cu săculeți cu nisip.;
-  se extinde pacient’s falange și se ajustează first falange la drept angle la palm.
-  Place palmar surface perpendicular pe receptorul de imagine (RI). se centrează receptorul
-  de imagine la articulații metacarpofalangiene (MCF) și se ajustează midline la fie
-  paralel cu axa longitudinală de Mână și Antebraț. If Mână este resting pe ulnar
-  surface, imobilizare de Police poate fie necessary. two extins falange poziții result
-  în superimposition de falange. modification de lateral Mână este ̌ Incidență de
-  Profil (lateral), which eliminates superimposition de toate but proximal falange.
-  pentru fan Incidență de Profil (lateral), place falange pe sponge wedge. Abduct
-  Police și place it pe radiolucent sponge pentru support (Fig. 5.61). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+notes: Pentru a evidenția mai bine suspiciunea de fractură a celui de-al cincilea
+  metacarpian, Lewis 4 recomandă rotirea mâinii cu 5 grade posterior față de incidența
+  de profil adevărată (laterală). Această poziționare elimină suprapunerea oaselor
+  metacarpiene de la al doilea până la al patrulea. Policele este extins cât posibil,
+  iar mâna este lăsată să devină concavă prin relaxare. Raza centrală este înclinată
+  astfel încât să treacă paralel cu policele extins și să intre la nivelul diafizei
+  celui de-al cincilea metacarpian.
+position: Se așază pacientul pe scaun la capătul mesei radiologice, cu antebrațul
+  în contact cu masa de examinare și mâna în incidență de profil (lateral), cu fața
+  ulnară în jos (Fig. 5.59). Alternativ, se așază partea radială a pumnului (articulației
+  radiocarpiene) pe sau sprijinită de receptorul de imagine (Fig. 5.60). Această poziție
+  este mai dificil de adoptat de către pacient. Dacă cotul este ridicat, acesta se
+  susține cu săculeți cu nisip.; se extind falangele pacientului și se ajustează prima
+  falangă la un unghi drept față de palmă. Se așază suprafața palmară perpendicular
+  pe receptorul de imagine (RI). Se centrează receptorul de imagine la articulațiile
+  metacarpofalangiene (MCF) și se ajustează linia mediană pentru a fi paralelă cu
+  axa longitudinală a mâinii și antebrațului. Dacă mâna se sprijină pe suprafața ulnară,
+  poate fi necesară imobilizarea policelui. Cele două poziții cu falangele extinse
+  determină suprapunerea falangelor. Modificarea laterală a mâinii este incidența
+  de profil (laterală), care elimină suprapunerea tuturor falangelor, cu excepția
+  falangelor proximale. Pentru incidența de profil (laterală) în evantai, se așază
+  falangele pe o pană de burete. Se abduce policele și se așază pe un burete radiotransparent
+  pentru susținere (Fig. 5.61). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Anatomy de la fingertips la distal radius și ulna
-- extins falange
-- Mână în true Incidență de Profil (lateral)
-- Superimposed falange (individually seen pe fan lateral)
-- Superimposed oase metacarpiene
-- Superimposed distal radius și ulna
-- Police liber de mișcare și superimposition
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Anatomie de la vârfurile degetelor până la radiusul și ulna distale
+- falange extinse
+- Mâna în incidență de profil adevărată (laterală)
+- Falange suprapuse (vizualizate individual în incidența de profil în evantai)
+- Oase metacarpiene suprapuse
+- Radius și ulna distale suprapuse
+- Policele liber de mișcare și fără suprapunere
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-mana-incidenta-de-profil-lateral-mediolateral-or-lateromedial-extension-and-fan-lateral-p279-merrill
 source_pages:
@@ -69,97 +75,88 @@ source_pages:
 - 283
 - 284
 source_sections:
-  anatomy: 'This imagine, which shows lateral incidență de mână în extension (Fig.
-    5.62), presents customary poziție pentru localizing Corp străin / corpuri străine
-    radio-opace și
+  anatomy: 'Această imagine, care prezintă o incidență laterală a mâinii în extensie
+    (Fig. 5.62), reprezintă poziția obișnuită pentru localizarea corpului străin /
+    corpurilor străine radio-opace și a deplasării în suspiciunea de fractură metacarpiană.
+    Tehnica de expunere depinde de corpul străin / corpurile străine radio-opace.
 
-    metacarpal suspiciune de fractură displacement. expunere technique depends pe
-    Corp străin / corpuri străine radio-opace.
+    Incidența laterală în evantai suprapune oasele metacarpiene, dar evidențiază aproape
+    toate falangele individual. Porțiunile cele mai proximale ale falangelor proximale
+    rămân suprapuse (Fig. 5.63).'
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile
+    umbrei mâinii și policelui, inclusiv 1 țol (2.5 cm) proximal față de stiloida
+    ulnară. Se plasează markerul de lateralitate în câmpul colimat.
+  cr: '• perpendicular pe articulațiile metacarpofalangiene (MCF) ale celei de-a doua
+    falange pentru mediolateral
 
-    fan lateral superimposes oase metacarpiene but shows almost toate de individual
-    falange. most proximal portions de proximal
+    • perpendicular pe falanga a cincea MCP pentru lateromedial'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    falange remain superimposed (Fig. 5.63).'
-  collimation: • Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow
-    de mână și thumb, including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează
-    markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe second falange articulații metacarpofalangiene (MCF) pentru
-    mediolateral
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • perpendicular la fiͥ h falange MCP pentru lateromedial'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Anatomia de la vârfurile degetelor până la radiusul și ulna distale
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Falange extinse
 
-    • Anatomy de la fingertips la distal radius și ulna
+    • Mâna în poziție de profil adevărată (laterală)
 
-    • extins falange
+    • Falange suprapuse (vizualizate individual în incidența de profil în evantai)
 
-    • mână în true poziție de profil (lateral)
+    • Oase metacarpiene suprapuse
 
-    • Superimposed falange (individually seen pe fan lateral)
+    • Radiusul și ulna distale suprapuse
 
-    • Superimposed oase metacarpiene
+    • Policele liber de mișcare și fără suprapunere
 
-    • Superimposed distal radius și ulna
+    • Detalii trabeculare osoase și țesuturile moi adiacente'
+  notes: Pentru a evidenția mai bine suspiciunea de fractură a celui de-al cincilea
+    metacarpian, Lewis 4 recomandă rotirea mâinii cu 5 grade posterior față de poziția
+    laterală adevărată. Această poziționare elimină suprapunerea oaselor metacarpiene
+    de la al doilea până la al patrulea. Policele este extins cât posibil, iar mâna
+    este lăsată să devină concavă prin relaxare. Raza centrală este înclinată astfel
+    încât să treacă paralel cu policele extins și să intre la nivelul diafizei celui
+    de-al cincilea metacarpian.
+  part_pos: '• Se extind falangele pacientului și se ajustează prima falangă la un
+    unghi drept față de palmă.
 
-    • Thumb liber de mișcare și superimposition
+    • Se așază suprafața palmară perpendicular pe receptorul de imagine (RI).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'la show suspiciune de fractură de fifth metacarpal better, Lewis 4 recommended
-    rotating mână 5 grade posteriorly de la true lateral
+    • Se centrează receptorul de imagine la articulațiile metacarpofalangiene (MCF)
+    și se ajustează linia mediană pentru a fi paralelă cu axa longitudinală a mâinii
+    și antebrațului. Dacă mâna se sprijină pe suprafața ulnară, poate fi necesară
+    imobilizarea policelui.
 
-    poziție. This positioning removes superimposition de second through fourth oase
-    metacarpiene. policele este extins ca much ca possible,
+    • Cele două poziții cu falangele extinse determină suprapunerea falangelor. Modificarea
+    laterală a mâinii este poziția de profil (laterală), care elimină suprapunerea
+    tuturor falangelor, cu excepția falangelor proximale. Pentru poziția de profil
+    (laterală) în evantai, se așază falangele pe o pană de burete. Se abduce policele
+    și se așază pe un burete radiotransparent pentru susținere (Fig. 5.61).
 
-    și mână este allowed la become hollow prin relaxation. raza centrală este înclinat
-    so that it passes paralel cu extins thumb și enters
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul pe scaun la capătul mesei radiologice, cu antebrațul
+    în contact cu masa de examinare și mâna în poziție de profil (laterală), cu fața
+    ulnară în jos (Fig. 5.59).
 
-    midshaft de fifth metacarpal.'
-  part_pos: '• se extinde pacient’s falange și se ajustează first falange la drept
-    angle la palm.
+    • Alternativ, se așază partea radială a pumnului pe sau sprijinită de receptorul
+    de imagine (Fig. 5.60). Această poziție este mai dificil de adoptat de către pacient.
 
-    • Place palmar surface perpendicular pe receptorul de imagine (RI).
-
-    • se centrează receptorul de imagine la articulații metacarpofalangiene (MCF)
-    și se ajustează midline la fie paralel cu axa longitudinală de mână și forearm.
-    If mână este resting
-
-    pe ulnar surface, imobilizare de policele poate fie necessary.
-
-    • two extins falange poziții result în superimposition de falange. modification
-    de lateral mână este ̌ poziție de profil (lateral),
-
-    which eliminates superimposition de toate but proximal falange. pentru fan poziție
-    de profil (lateral), place falange pe sponge wedge.
-
-    Abduct policele și place it pe radiolucent sponge pentru support (Fig. 5.61).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică, cu forearm
-    în contact cu masa de examinare și mână în poziție de profil (lateral)
-
-    cu ulnar aspect down (Fig. 5.59).
-
-    • Alternatively, place radial side de wrist pe / sprijinit de receptorul de imagine
-    (Fig. 5.60). This poziție este more dificult pentru pacientul la assume.
-
-    • If cot este ridicat, support it cu săculeți cu nisip.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Dacă cotul este ridicat, acesta se susține cu săculeți cu nisip.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 279–284
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow
-    de Mână și Police, including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Mână — Incidență de Profil (Lateral) — Medio-Lateral or Latero-Medial extension
-  and fan lateral (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile
+    umbrei mâinii și policelui, inclusiv 1 țol (2.5 cm) proximal față de stiloida
+    ulnară. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx Mână — Incidență de Profil (Lateral) — Extensie mediolaterală sau lateromedială
+  și profil lateral în evantai (Merrill)
 ---
-# Rx Mână — Incidență de Profil (Lateral) — Medio-Lateral or Latero-Medial extension and fan lateral (Merrill)
+# Rx Mână — Incidență de Profil (Lateral) — Extensie mediolaterală sau lateromedială și profil lateral în evantai (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -183,17 +180,18 @@ title: Rx Mână — Incidență de Profil (Lateral) — Medio-Lateral or Latero
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică, cu Antebraț în contact cu masa de examinare și Mână în Incidență de Profil (lateral) cu ulnar aspect down (Fig. 5.59). Alternatively, place radial side de Pumn (Articulație Radiocarpiană) pe / sprijinit de receptorul de imagine (Fig. 5.60). This poziție este more dificult pentru pacientul la assume. If Cot este ridicat, support it cu săculeți cu nisip.; se extinde pacient’s falange și se ajustează first falange la drept angle la palm. Place palmar surface perpendicular pe receptorul de imagine (RI). se centrează receptorul de imagine la articulații metacarpofalangiene (MCF) și se ajustează midline la fie paralel cu axa longitudinală de Mână și Antebraț. If Mână este resting pe ulnar surface, imobilizare de Police poate fie necessary. two extins falange poziții result în superimposition de falange. modification de lateral Mână este ̌ Incidență de Profil (lateral), which eliminates superimposition de toate but proximal falange. pentru fan Incidență de Profil (lateral), place falange pe sponge wedge. Abduct Police și place it pe radiolucent sponge pentru support (Fig. 5.61). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe second falange articulații metacarpofalangiene (MCF) pentru mediolateral perpendicular la fiͥ h falange MCP pentru lateromedial
+    - **Poziție Pacient:** Se așază pacientul pe scaun la capătul mesei radiologice, cu antebrațul în contact cu masa de examinare și mâna în incidență de profil (lateral), cu fața ulnară în jos (Fig. 5.59). Alternativ, se așază partea radială a pumnului (articulației radiocarpiene) pe sau sprijinită de receptorul de imagine (Fig. 5.60). Această poziție este mai dificil de adoptat de către pacient. Dacă cotul este ridicat, acesta se susține cu săculeți cu nisip.; se extind falangele pacientului și se ajustează prima falangă la un unghi drept față de palmă. Se așază suprafața palmară perpendicular pe receptorul de imagine (RI). Se centrează receptorul de imagine la articulațiile metacarpofalangiene (MCF) și se ajustează linia mediană pentru a fi paralelă cu axa longitudinală a mâinii și antebrațului. Dacă mâna se sprijină pe suprafața ulnară, poate fi necesară imobilizarea policelui. Cele două poziții cu falangele extinse determină suprapunerea falangelor. Modificarea laterală a mâinii este incidența de profil (laterală), care elimină suprapunerea tuturor falangelor, cu excepția falangelor proximale. Pentru incidența de profil (laterală) în evantai, se așază falangele pe o pană de burete. Se abduce policele și se așază pe un burete radiotransparent pentru susținere (Fig. 5.61). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulațiile metacarpofalangiene (MCF) ale celei de-a doua falange pentru mediolateral; perpendicular pe falanga a cincea MCP pentru lateromedial
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -209,23 +207,23 @@ title: Rx Mână — Incidență de Profil (Lateral) — Medio-Lateral or Latero
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow de Mână și Police, including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) față de toate laturile umbrei mâinii și policelui, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Anatomy de la fingertips la distal radius și ulna
-    - extins falange
-    - Mână în true Incidență de Profil (lateral)
-    - Superimposed falange (individually seen pe fan lateral)
-    - Superimposed oase metacarpiene
-    - Superimposed distal radius și ulna
-    - Police liber de mișcare și superimposition
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Anatomie de la vârfurile degetelor până la radiusul și ulna distale
+    - falange extinse
+    - Mâna în incidență de profil adevărată (laterală)
+    - Falange suprapuse (vizualizate individual în incidența de profil în evantai)
+    - Oase metacarpiene suprapuse
+    - Radius și ulna distale suprapuse
+    - Policele liber de mișcare și fără suprapunere
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -235,8 +233,9 @@ title: Rx Mână — Incidență de Profil (Lateral) — Medio-Lateral or Latero
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la show suspiciune de fractură de fifth metacarpal better, Lewis 4 recommended rotating Mână 5 grade posteriorly de la true Incidență de Profil (lateral). This positioning removes superimposition de second through fourth oase metacarpiene. Police este extins ca much ca possible, și Mână este allowed la become hollow prin relaxation. raza centrală este înclinat so that it passes paralel cu extins Police și enters midshaft de fifth metacarpal.
+    Pentru a evidenția mai bine suspiciunea de fractură a celui de-al cincilea metacarpian, Lewis 4 recomandă rotirea mâinii cu 5 grade posterior față de incidența de profil adevărată (laterală). Această poziționare elimină suprapunerea oaselor metacarpiene de la al doilea până la al patrulea. Policele este extins cât posibil, iar mâna este lăsată să devină concavă prin relaxare. Raza centrală este înclinată astfel încât să treacă paralel cu policele extins și să intre la nivelul diafizei celui de-al cincilea metacarpian.
 
 
 ### 🖼️ Imagini
@@ -297,64 +296,3 @@ title: Rx Mână — Incidență de Profil (Lateral) — Medio-Lateral or Latero
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 279–284](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-This imagine, which shows lateral incidență de mână în extension (Fig. 5.62), presents customary poziție pentru localizing Corp străin / corpuri străine radio-opace și
-metacarpal suspiciune de fractură displacement. expunere technique depends pe Corp străin / corpuri străine radio-opace.
-fan lateral superimposes oase metacarpiene but shows almost toate de individual falange. most proximal portions de proximal
-falange remain superimposed (Fig. 5.63).
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow de mână și thumb, including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe second falange articulații metacarpofalangiene (MCF) pentru mediolateral
-• perpendicular la fiͥ h falange MCP pentru lateromedial
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Anatomy de la fingertips la distal radius și ulna
-• extins falange
-• mână în true poziție de profil (lateral)
-• Superimposed falange (individually seen pe fan lateral)
-• Superimposed oase metacarpiene
-• Superimposed distal radius și ulna
-• Thumb liber de mișcare și superimposition
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-la show suspiciune de fractură de fifth metacarpal better, Lewis 4 recommended rotating mână 5 grade posteriorly de la true lateral
-poziție. This positioning removes superimposition de second through fourth oase metacarpiene. policele este extins ca much ca possible,
-și mână este allowed la become hollow prin relaxation. raza centrală este înclinat so that it passes paralel cu extins thumb și enters
-midshaft de fifth metacarpal.
-
-### part_pos
-
-• se extinde pacient’s falange și se ajustează first falange la drept angle la palm.
-• Place palmar surface perpendicular pe receptorul de imagine (RI).
-• se centrează receptorul de imagine la articulații metacarpofalangiene (MCF) și se ajustează midline la fie paralel cu axa longitudinală de mână și forearm. If mână este resting
-pe ulnar surface, imobilizare de policele poate fie necessary.
-• two extins falange poziții result în superimposition de falange. modification de lateral mână este ̌ poziție de profil (lateral),
-which eliminates superimposition de toate but proximal falange. pentru fan poziție de profil (lateral), place falange pe sponge wedge.
-Abduct policele și place it pe radiolucent sponge pentru support (Fig. 5.61).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică, cu forearm în contact cu masa de examinare și mână în poziție de profil (lateral)
-cu ulnar aspect down (Fig. 5.59).
-• Alternatively, place radial side de wrist pe / sprijinit de receptorul de imagine (Fig. 5.60). This poziție este more dificult pentru pacientul la assume.
-• If cot este ridicat, support it cu săculeți cu nisip.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

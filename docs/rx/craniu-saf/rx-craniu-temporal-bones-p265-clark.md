@@ -39,6 +39,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-temporal-bones-p265-clark/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -122,23 +126,25 @@ title: Rx Craniu Oase temporale
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul poate fi în decubit dorsal pe linia mediană a mesei sau în ortostatism, cu spatele la stativul Bucky pentru ortostatism.
-• capul este ajustat astfel încât conductele auditive externe să fie echidistante față de masa de examinare, astfel încât planul mediosagital să fie la unghiuri drepte față de masa de examinare și pe linia mediană a acesteia.
-• bărbia este coborâtă astfel încât linia orbitomeatală (LOM) să fie la unghiuri drepte față de masa de examinare.
-• o casetă mică (24 × 30-cm) este plasată transversal în suportul casetei și centrată pentru a coincide cu raza centrală înclinată.
-    - **Punct de Centrare Fascicul:** • se utilizează angularea caudală, astfel încât aceasta să formeze un unghi de 35 grade față de planul orbitomeatal.
-• fasciculul este centrat la jumătatea distanței dintre conductele auditive externe.
-• se colimează lateral pentru a include marginile de profil (laterale) ale craniului și superior-inferior pentru a include porțiunile mastoidiene și pietroase ale osului temporal. Procesul mastoidian poate fi palpat cu ușurință în spatele urechii.
-Canale semicirculare Cohlee oscioare auditive conduct auditiv extern conduct auditiv intern capul mandibulei arc zigomatic eminență arcuată dorsum sellae gaură occipitală mare (foramen magnum) celule aerice mastoidiene sinusuri sfenoidale
+    - **Poziție Pacient:**
+        - pacientul poate fi în decubit dorsal pe linia mediană a mesei sau în ortostatism, cu spatele la stativul Bucky pentru ortostatism.
+        - capul este ajustat astfel încât conductele auditive externe să fie echidistante față de masa de examinare, astfel încât planul mediosagital să fie la unghiuri drepte față de masa de examinare și pe linia mediană a acesteia.
+        - bărbia este coborâtă astfel încât linia orbitomeatală (LOM) să fie la unghiuri drepte față de masa de examinare.
+        - o casetă mică (24 × 30-cm) este plasată transversal în suportul casetei și centrată pentru a coincide cu raza centrală înclinată.
+    - **Punct de Centrare Fascicul:**
+        - se utilizează angularea caudală, astfel încât aceasta să formeze un unghi de 35 grade față de planul orbitomeatal.
+        - fasciculul este centrat la jumătatea distanței dintre conductele auditive externe.
+        - se colimează lateral pentru a include marginile de profil (laterale) ale craniului și superior-inferior pentru a include porțiunile mastoidiene și pietroase ale osului temporal. Procesul mastoidian poate fi palpat cu ușurință în spatele urechii. Canale semicirculare Cohlee oscioare auditive conduct auditiv extern conduct auditiv intern capul mandibulei arc zigomatic eminență arcuată dorsum sellae gaură occipitală mare (foramen magnum) celule aerice mastoidiene sinusuri sfenoidale
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -176,6 +182,7 @@ Canale semicirculare Cohlee oscioare auditive conduct auditiv extern conduct aud
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

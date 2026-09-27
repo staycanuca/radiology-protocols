@@ -9,6 +9,10 @@ images:
 - caption: Merrill — pagina 1083, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-soft-palate-pharynx-larynx-and-cervical-esophagus-incidenta-de-profil-lateral-right-or-left-position-the-patient-in-the-incidenta--p1082-merrill/p1083_fig1.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -69,7 +73,7 @@ source_sections:
     • Coborâți umerii cât mai mult și aliniați-i în același plan transversal.'
   tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
     pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
-    inches (24 × 30 cm), longitudinal.'
+    țoli (24 × 30 cm), longitudinal.'
 sources:
 - title: 'Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal,
     And Biliary System, pagini 1082–1083'
@@ -107,11 +111,12 @@ title: Rx palat moale, faringe, laringe și esofag cervical — Incidență de p
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -155,6 +160,7 @@ title: Rx palat moale, faringe, laringe și esofag cervical — Incidență de p
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -185,42 +191,3 @@ title: Rx palat moale, faringe, laringe și esofag cervical — Incidență de p
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1082–1083](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Imagini de profil ale cavității bucale, faringelui și esofagului cervical opacifiate cu substanță de contrast, în înregistrările videofluoroscopice. Funcționarea corectă a epiglotei în timpul deglutiției este vizualizată cel mai bine în incidența de profil (Fig. 15.34).
-
-### colimare
-
-• Ajustați câmpul de iradiere de la nivelul conductului auditiv extern (CAE) până la incizura jugulară (furculița sternală); includeți anterior toate structurile orofaringiene și posterior vertebrele cervicale. Plasați markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• Perpendicular pe receptorul de imagine (RI).
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat în afara anatomiei de interes
-• Toate structurile faringolaringiene de părți moi
-• Zona de la nazofaringe până la porțiunea superioară a plămânilor, în examinările preliminare
-• Fără suprapunerea umerilor peste trahee
-• Contururile mandibulei suprapuse cât mai exact
-
-### part_pos
-
-• Ajutați logopedul să poziționeze capul pacientului în profil (lateral).
-• Imobilizați capul cerând pacientului să privească un obiect situat pe axa vizuală. Logopedul stabilește de obicei alinierea exactă a bărbiei (Fig. 15.33).
-• Efectuați ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Pacientul așezat pe scaun (sau în ortostatism), în poziție de profil (lateral) strict, cu MCP perpendicular pe receptorul de imagine (RI).
-• Coborâți umerii cât mai mult și aliniați-i în același plan transversal.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 inches (24 × 30 cm), longitudinal.
-

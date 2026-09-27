@@ -3,39 +3,52 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre în linia mediană la level midway între anterior superior iliac
-  spines și superior margine de simfiză pubiană.
+centering: '• Se centrează pe linia mediană, la nivelul situat la jumătatea distanței
+  dintre spinele iliace anterosuperioare și marginea superioară a simfizei pubiene.
 
-  • raza centrală este orientat între 5 și 15 grade cranially, depending pe sex de
-  pacientul. female requires greater caudal angulation de fascicul.
+  • Raza centrală este orientată între 5 și 15 grade cranial, în funcție de sexul
+  pacientului. Pentru sexul feminin este necesară o angulație caudală mai mare a fasciculului.
 
-  • primary fascicul este collimated la aria de interes diagnostic.
+  • Fasciculul primar este colimat la aria de interes diagnostic.
 
-  160 X-ray tube Sacro-iliac articulație casetă Normal Antero-posterior (AP) incidență
-  de Articulații Sacroiliace'
+  160 Tub de raze X articulație sacroiliacă casetă Incidență anteroposterioară (AP)
+  normală a articulațiilor sacroiliace'
 clinical_indications:
-- poziții de pacientul și film radiologic și direction de fascicul sunt same ca those
-  described pentru anteroposterior incidență de Sacru. Articulații Sacroiliace sunt
-  included routinely pe anteroposterior incidență de lumbar coloană vertebrală în
-  some protocols, ca some pathologies poate give rise la lower back pain.
+- Pozițiile pacientului, filmul radiologic și direcția fasciculului sunt aceleași
+  cu cele descrise pentru incidența anteroposterioară a sacrului. Articulațiile sacroiliace
+  sunt incluse de rutină în incidența anteroposterioară a coloanei lombare în unele
+  protocoale, deoarece unele patologii pot provoca durere lombară.
 images:
-- caption: Normal Antero-posterior (AP) incidență de Articulații Sacroiliace
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Incidență anteroposterioară (AP) normală a articulațiilor sacroiliace
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-sacro-iliac-joints-antero-posterior-p175-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sacro-iliac-joints-antero-posterior-p175-clark/fig_2.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: "• pacientul este culcat Decubit dorsal și simetric pe masa radiologică,\
-  \ cu planul mediosagital perpendicular.\n• linia mediană pacient trebuie să coincide\
-  \ cu centred primary fascicul și masa de examinare Bucky mechanism.\n• la avoid\
-  \ rotație, anterior superior iliac spines trebuie să fie echidistant față de tabletop.\n\
-  • A 24 \x02 30-cm casetă, plasat transversely în tăvița Bucky, este centred la level\
-  \ la coincide cu raza centrală centrală.\n• umerii sunt raised over pillow la eliminate\
-  \ lumbar arch.\n• genunchii trebuie să fie flectat over foam pads pentru comfort."
+position: '• pacientul este culcat în decubit dorsal și simetric pe masa radiologică,
+  cu planul mediosagital perpendicular.
+
+  • linia mediană a pacientului trebuie să coincidă cu fasciculul primar centrat și
+  cu mecanismul Bucky al mesei de examinare.
+
+  • pentru a evita rotația, spinele iliace anterosuperioare trebuie să fie echidistante
+  față de suprafața mesei.
+
+  • O casetă de 24 × 30 cm, plasată transversal în tăvița Bucky, este centrată la
+  nivelul care coincide cu raza centrală.
+
+  • umerii sunt ridicați peste o pernă pentru a elimina lordoza lombară.
+
+  • genunchii trebuie să fie flectați peste suporturi din spumă pentru confort.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -44,7 +57,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Sacro - iliac articulații).
+- Vizualizarea clară a întregii arii anatomice (articulațiile sacroiliace).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -54,16 +67,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 175
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Sacro - iliac joints Antero-Posterior (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Rx articulații sacroiliace — incidență anteroposterioară (AP)
 ---
-# Rx Sacro - iliac joints Antero-Posterior (AP)
+# Rx articulații sacroiliace — incidență anteroposterioară (AP)
 
 
 <div class="rx-meta-bar">
@@ -82,30 +95,32 @@ title: Rx Sacro - iliac joints Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - poziții de pacientul și film radiologic și direction de fascicul sunt same ca those described pentru anteroposterior incidență de Sacru. Articulații Sacroiliace sunt included routinely pe anteroposterior incidență de lumbar coloană vertebrală în some protocols, ca some pathologies poate give rise la lower back pain.
+        - Pozițiile pacientului, filmul radiologic și direcția fasciculului sunt aceleași cu cele descrise pentru incidența anteroposterioară a sacrului. Articulațiile sacroiliace sunt incluse de rutină în incidența anteroposterioară a coloanei lombare în unele protocoale, deoarece unele patologii pot provoca durere lombară.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal și simetric pe masa radiologică, cu planul mediosagital perpendicular.
-• linia mediană pacient trebuie să coincide cu centred primary fascicul și masa de examinare Bucky mechanism.
-• la avoid rotație, anterior superior iliac spines trebuie să fie echidistant față de tabletop.
-• A 24  30-cm casetă, plasat transversely în tăvița Bucky, este centred la level la coincide cu raza centrală centrală.
-• umerii sunt raised over pillow la eliminate lumbar arch.
-• genunchii trebuie să fie flectat over foam pads pentru comfort.
-    - **Punct de Centrare Fascicul:** • Centre în linia mediană la level midway între anterior superior iliac spines și superior margine de simfiză pubiană.
-• raza centrală este orientat între 5 și 15 grade cranially, depending pe sex de pacientul. female requires greater caudal angulation de fascicul.
-• primary fascicul este collimated la aria de interes diagnostic.
-160 X-ray tube Sacro-iliac articulație casetă Normal Antero-posterior (AP) incidență de Articulații Sacroiliace
+    - **Poziție Pacient:**
+        - pacientul este culcat în decubit dorsal și simetric pe masa radiologică, cu planul mediosagital perpendicular.
+        - linia mediană a pacientului trebuie să coincidă cu fasciculul primar centrat și cu mecanismul Bucky al mesei de examinare.
+        - pentru a evita rotația, spinele iliace anterosuperioare trebuie să fie echidistante față de suprafața mesei.
+        - O casetă de 24 × 30 cm, plasată transversal în tăvița Bucky, este centrată la nivelul care coincide cu raza centrală.
+        - umerii sunt ridicați peste o pernă pentru a elimina lordoza lombară.
+        - genunchii trebuie să fie flectați peste suporturi din spumă pentru confort.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează pe linia mediană, la nivelul situat la jumătatea distanței dintre spinele iliace anterosuperioare și marginea superioară a simfizei pubiene.
+        - Raza centrală este orientată între 5 și 15 grade cranial, în funcție de sexul pacientului. Pentru sexul feminin este necesară o angulație caudală mai mare a fasciculului.
+        - Fasciculul primar este colimat la aria de interes diagnostic. 160 Tub de raze X articulație sacroiliacă casetă Incidență anteroposterioară (AP) normală a articulațiilor sacroiliace
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -116,19 +131,19 @@ title: Rx Sacro - iliac joints Antero-Posterior (AP)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Sacro - iliac articulații).
+    - Vizualizarea clară a întregii arii anatomice (articulațiile sacroiliace).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -142,6 +157,7 @@ title: Rx Sacro - iliac joints Antero-Posterior (AP)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -152,9 +168,9 @@ title: Rx Sacro - iliac joints Antero-Posterior (AP)
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Antero-posterior (AP) incidență de Articulații Sacroiliace](../../assets/images/protocols/clark/rx-sacro-iliac-joints-antero-posterior-p175-clark/fig_1.jpeg)
+![Incidență anteroposterioară (AP) normală a articulațiilor sacroiliace](../../assets/images/protocols/clark/rx-sacro-iliac-joints-antero-posterior-p175-clark/fig_1.jpeg)
 
-<figcaption><strong>Normal Antero-posterior (AP) incidență de Articulații Sacroiliace</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Incidență anteroposterioară (AP) normală a articulațiilor sacroiliace</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

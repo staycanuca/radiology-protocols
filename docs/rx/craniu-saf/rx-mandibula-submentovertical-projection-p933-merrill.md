@@ -13,6 +13,10 @@ images:
 - caption: Merrill — pagina 934, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-mandibula-submentovertical-projection-p933-merrill/p934_fig2.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -39,10 +43,10 @@ source_pages:
 source_sections:
   anatomy: Incidența SMV a corpului mandibular evidențiază procesele coronoid și condilian
     ale ramurilor (fig. 11.148).
-  collimation: • Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch
+  collimation: • Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 țol
     (2.5 cm) dincolo de laturile laterale și deasupra vârfului nasului. Câmpul de
-    expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează
-    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+    expunere trebuie să nu fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
   cr: • Perpendiculară pe linia infraorbitomeatală (LIOM) și centrată la jumătatea
     distanței dintre unghiurile mandibulei.
   part_pos: '• Cu gâtul complet extins, se sprijină capul pe vertex și se ajustează
@@ -75,10 +79,10 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+  collimation: se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm)
     dincolo de marginile laterale și deasupra vârfului nasului. Câmpul de expunere
-    nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul
-    de lateralitate (D/S) în câmpul de expunere colimat.
+    nu trebuie să fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de
+    lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Mandibulă — Incidență submentoverticală (Merrill)
 ---
 # Rx Mandibulă — Incidență submentoverticală (Merrill)
@@ -105,11 +109,12 @@ title: Rx Mandibulă — Incidență submentoverticală (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -131,7 +136,7 @@ title: Rx Mandibulă — Incidență submentoverticală (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de marginile laterale și deasupra vârfului nasului. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm) dincolo de marginile laterale și deasupra vârfului nasului. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -147,6 +152,7 @@ title: Rx Mandibulă — Incidență submentoverticală (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -186,40 +192,3 @@ title: Rx Mandibulă — Incidență submentoverticală (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 933–934](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidența SMV a corpului mandibular evidențiază procesele coronoid și condilian ale ramurilor (fig. 11.148).
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de laturile laterale și deasupra vârfului nasului. Câmpul de expunere trebuie să nu fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Perpendiculară pe linia infraorbitomeatală (LIOM) și centrată la jumătatea distanței dintre unghiurile mandibulei.
-
-### part_pos
-
-• Cu gâtul complet extins, se sprijină capul pe vertex și se ajustează capul astfel încât MSP să fie vertical.
-• Se ajustează linia infraorbitomeatală (LIOM) cât mai paralelă posibil cu planul receptorului de imagine (fig. 11.147).
-• Când gâtul nu poate fi extins suficient astfel încât linia infraorbitomeatală (LIOM) să fie paralelă cu planul receptorului de imagine, se angulează dispozitivul cu grilă și se plasează paralel cu linia infraorbitomeatală (LIOM).
-• Se imobilizează capul pacientului.
-
-### patient_pos
-
-• se poziționează pacientul în ortostatism în fața stativului vertical Bucky sau în decubit dorsal. Când pacientul este în decubit dorsal, se ridică umerii pe perne ferme pentru a permite extensia completă a gâtului.
-• se flectează genunchii pacientului pentru relaxarea mușchilor abdominali și reducerea tensiunii asupra mușchilor gâtului.
-• Se centrează MSP al corpului pe linia mediană a dispozitivului cu grilă.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

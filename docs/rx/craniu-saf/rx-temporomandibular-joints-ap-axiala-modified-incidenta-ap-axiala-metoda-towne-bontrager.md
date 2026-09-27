@@ -2,40 +2,47 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii.
 category: craniu-saf
-centering: Raza centrală se înclină 35° caudal (spre picioare) de la linie orbitomeatală
-  (LOM) sau 42° de la linie infraorbitomeatală (LIOM) (see NOTE 2). Direct raza centrală
-  3 inches (7.5 cm) superior la nazion. Se centrează receptorul de imagine pe proiecția
-  razei centrale.
+centering: Raza centrală se înclină 35° caudal (spre picioare) de la linia orbitomeatală
+  (LOM) sau 42° de la linia infraorbitomeatală (LIOM) (vezi NOTA 2). Direcționați
+  raza centrală la 3 țoli (7.5 cm) superior de nazion. Centrați receptorul de imagine
+  pe proiecția razei centrale.
 clinical_indications:
-- suspiciune de fractură și abnormal relationship sau range de mișcare între condyle
-  și TM fossa. See NOTE 1 pe openmouth și closedmouth comparisons.
+- suspiciune de fractură și relație anormală sau amplitudine a mișcării între condil
+  și fosa TM. Vezi NOTA 1 pentru comparațiile cu gura deschisă și închisă.
 images:
-- caption: Fig. 11.175 AP axial—raza centrală 35° la linie orbitomeatală (LOM) (closed-
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 11.175 AP axial—raza
-    centrală 35° la linie orbitomeatală (LOM) (closed-)
+- caption: Fig. 11.175 AP axială — raza centrală 35° față de linia orbitomeatală (LOM)
+    (poziția cu gura închisă —
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.175 AP
+    axială — raza centrală 35° față de linia orbitomeatală (LOM) (poziția cu gura
+    închisă —)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg
-- caption: Fig. 11.176 AP axial (closed-
+- caption: Fig. 11.176 AP axială (poziția cu gura închisă —
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.176
-    AP axial (closed-)
+    AP axială (poziția cu gura închisă —)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager/fig_2.jpeg
 - caption: Figura 3
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     3)
   url: assets/images/protocols/bontrager/rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
-notes: additional 5° increase în raza centrală poate best evidențiază TM fossae și
-  TMJs. TEMPOROMANDIBULAR articulații ROUTINE AP axial (modified Incidență AP Axială
-  (Metoda Towne)) SPECIAL Axiolateral oblic (modified law method) Axiolateral (Schuller
-  method) Orthopantomography
+notes: O creștere suplimentară de 5° a înclinării razei centrale poate evidenția mai
+  bine fosele TM și articulațiile TM. ARTICULAȚII TEMPOROMANDIBULARE AP axială de
+  rutină (incidență AP axială modificată (metoda Towne)) SPECIALĂ Axiolaterală oblică
+  (metoda Law modificată) Axiolaterală (metoda Schuller) Ortopantomografie
 position: 'Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea
-  capului și gâtului. poziție pacient Ortostatism sau Decubit dorsal.; Regiune anatomică:
-  Rest pacient’s posterior Craniu against table/în ortostatism imaging device surface.
-  Tuck chin, bringing linie orbitomeatală (LOM) perpendicular la table/imaging device
-  surface sau bringing linie infraorbitomeatală (LIOM) perpendicular și increasing
-  raza centrală angle prin 7° (Fig. 11.175). Align MsP perpendicular la linia mediană
-  grilă sau masa de examinare/ în ortostatism imaging device surface la prevent cap
-  rotație sau tilt.'
+  capului și gâtului. Poziția pacientului: Ortostatism sau decubit dorsal.; Regiune
+  anatomică: Sprijiniți partea posterioară a craniului pacientului pe suprafața mesei/dispozitivului
+  de imagistică în ortostatism. Coborâți bărbia, aducând linia orbitomeatală (LOM)
+  perpendiculară pe suprafața mesei/dispozitivului de imagistică sau aducând linia
+  infraorbitomeatală (LIOM) perpendiculară și mărind unghiul razei centrale cu 7°
+  (Fig. 11.175). Aliniați MSP perpendicular pe linia mediană a grilei sau a mesei
+  de examinare/suprafața dispozitivului de imagistică în ortostatism pentru a preveni
+  rotația sau înclinarea capului.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,34 +50,36 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Condyloid processes de Mandibulă și TM fossae sunt evidențiat (Fig. 11.176). poziție:'
-- 'Correctly poziționat pacient, cu Absența rotației anatomice: clavicule echidistante
-  față de linia apofizelor spinoase, este indicated prin following: condyloid processes
-  visualized symmetrically, lateral la Coloană Cervicală; clear visualization de condyle
-  și TM fossae relationship.'
-- 'Collimation la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast sunt sufficient la visualize condyloid
-  process și TM fossa.
-- net bony margins indicate fără mișcare. Fig. 11.175 AP axial—raza centrală 35° la
-  linie orbitomeatală (LOM) (closedmouth poziție) sau 42° la linie infraorbitomeatală
-  (LIOM) (inset). R Fig. 11.176 AP axial (closedmouth poziție).
+- 'Procesele condiliene ale mandibulei și fosele TM sunt evidențiate (Fig. 11.176).
+  Poziție:'
+- 'Poziționarea corectă a pacientului, cu absența rotației anatomice: claviculele
+  echidistante față de linia apofizelor spinoase, este indicată prin următoarele:
+  procesele condiliene vizualizate simetric, lateral față de coloana cervicală; vizualizarea
+  clară a relației dintre condil și fosele TM.'
+- 'Colimare la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru
+  vizualizarea procesului condilian și a fosei TM.
+- Marginile osoase clare indică absența mișcării. Fig. 11.175 AP axială — raza centrală
+  35° față de linia orbitomeatală (LOM) (poziția cu gura închisă) sau 42° față de
+  linia infraorbitomeatală (LIOM) (detaliu). R Fig. 11.176 AP axială (poziția cu gura
+  închisă).
 sid_dff: 100 cm
 slug: rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 460
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la anatomy de interest.
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la anatomia de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 75-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx TEMPOROMANDIBULAR JOINTS AP Axială (MODIFIED Incidență AP Axială (Metoda
-  Towne))
+title: Rx ARTICULAȚII TEMPOROMANDIBULARE AP axială (incidență AP axială modificată
+  (metoda Towne))
 ---
-# Rx TEMPOROMANDIBULAR JOINTS AP Axială (MODIFIED Incidență AP Axială (Metoda Towne))
+# Rx ARTICULAȚII TEMPOROMANDIBULARE AP axială (incidență AP axială modificată (metoda Towne))
 
 
 <div class="rx-meta-bar">
@@ -89,22 +98,23 @@ title: Rx TEMPOROMANDIBULAR JOINTS AP Axială (MODIFIED Incidență AP Axială (
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și abnormal relationship sau range de mișcare între condyle și TM fossa. See NOTE 1 pe openmouth și closedmouth comparisons.
+        - suspiciune de fractură și relație anormală sau amplitudine a mișcării între condil și fosa TM. Vezi NOTA 1 pentru comparațiile cu gura deschisă și închisă.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. poziție pacient Ortostatism sau Decubit dorsal.; Regiune anatomică: Rest pacient’s posterior Craniu against table/în ortostatism imaging device surface. Tuck chin, bringing linie orbitomeatală (LOM) perpendicular la table/imaging device surface sau bringing linie infraorbitomeatală (LIOM) perpendicular și increasing raza centrală angle prin 7° (Fig. 11.175). Align MsP perpendicular la linia mediană grilă sau masa de examinare/ în ortostatism imaging device surface la prevent cap rotație sau tilt.
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină 35° caudal (spre picioare) de la linie orbitomeatală (LOM) sau 42° de la linie infraorbitomeatală (LIOM) (see NOTE 2). Direct raza centrală 3 inches (7.5 cm) superior la nazion. Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Poziția pacientului: Ortostatism sau decubit dorsal.; Regiune anatomică: Sprijiniți partea posterioară a craniului pacientului pe suprafața mesei/dispozitivului de imagistică în ortostatism. Coborâți bărbia, aducând linia orbitomeatală (LOM) perpendiculară pe suprafața mesei/dispozitivului de imagistică sau aducând linia infraorbitomeatală (LIOM) perpendiculară și mărind unghiul razei centrale cu 7° (Fig. 11.175). Aliniați MSP perpendicular pe linia mediană a grilei sau a mesei de examinare/suprafața dispozitivului de imagistică în ortostatism pentru a preveni rotația sau înclinarea capului.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 35° caudal (spre picioare) de la linia orbitomeatală (LOM) sau 42° de la linia infraorbitomeatală (LIOM) (vezi NOTA 2). Direcționați raza centrală la 3 țoli (7.5 cm) superior de nazion. Centrați receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -119,19 +129,19 @@ title: Rx TEMPOROMANDIBULAR JOINTS AP Axială (MODIFIED Incidență AP Axială (
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la anatomy de interest. |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la anatomia de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Condyloid processes de Mandibulă și TM fossae sunt evidențiat (Fig. 11.176). poziție:
-    - Correctly poziționat pacient, cu Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, este indicated prin following: condyloid processes visualized symmetrically, lateral la Coloană Cervicală; clear visualization de condyle și TM fossae relationship.
-    - Collimation la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast sunt sufficient la visualize condyloid process și TM fossa.
-    - net bony margins indicate fără mișcare. Fig. 11.175 AP axial—raza centrală 35° la linie orbitomeatală (LOM) (closedmouth poziție) sau 42° la linie infraorbitomeatală (LIOM) (inset). R Fig. 11.176 AP axial (closedmouth poziție).
+    - Procesele condiliene ale mandibulei și fosele TM sunt evidențiate (Fig. 11.176). Poziție:
+    - Poziționarea corectă a pacientului, cu absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase, este indicată prin următoarele: procesele condiliene vizualizate simetric, lateral față de coloana cervicală; vizualizarea clară a relației dintre condil și fosele TM.
+    - Colimare la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine sunt suficiente pentru vizualizarea procesului condilian și a fosei TM.
+    - Marginile osoase clare indică absența mișcării. Fig. 11.175 AP axială — raza centrală 35° față de linia orbitomeatală (LOM) (poziția cu gura închisă) sau 42° față de linia infraorbitomeatală (LIOM) (detaliu). R Fig. 11.176 AP axială (poziția cu gura închisă).
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -143,8 +153,9 @@ title: Rx TEMPOROMANDIBULAR JOINTS AP Axială (MODIFIED Incidență AP Axială (
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    additional 5° increase în raza centrală poate best evidențiază TM fossae și TMJs. TEMPOROMANDIBULAR articulații ROUTINE AP axial (modified Incidență AP Axială (Metoda Towne)) SPECIAL Axiolateral oblic (modified law method) Axiolateral (Schuller method) Orthopantomography
+    O creștere suplimentară de 5° a înclinării razei centrale poate evidenția mai bine fosele TM și articulațiile TM. ARTICULAȚII TEMPOROMANDIBULARE AP axială de rutină (incidență AP axială modificată (metoda Towne)) SPECIALĂ Axiolaterală oblică (metoda Law modificată) Axiolaterală (metoda Schuller) Ortopantomografie
 
 
 ### 🖼️ Imagini
@@ -153,17 +164,17 @@ title: Rx TEMPOROMANDIBULAR JOINTS AP Axială (MODIFIED Incidență AP Axială (
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.175 AP axial—raza centrală 35° la linie orbitomeatală (LOM) (closed-](../../assets/images/protocols/bontrager/rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg)
+![Fig. 11.175 AP axială — raza centrală 35° față de linia orbitomeatală (LOM) (poziția cu gura închisă —](../../assets/images/protocols/bontrager/rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 11.175 AP axial—raza centrală 35° la linie orbitomeatală (LOM) (closed-</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 11.175 AP axial—raza centrală 35° la linie orbitomeatală (LOM) (closed-)</span></figcaption>
+<figcaption><strong>Fig. 11.175 AP axială — raza centrală 35° față de linia orbitomeatală (LOM) (poziția cu gura închisă —</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 11.175 AP axială — raza centrală 35° față de linia orbitomeatală (LOM) (poziția cu gura închisă —)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 11.176 AP axial (closed-](../../assets/images/protocols/bontrager/rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager/fig_2.jpeg)
+![Fig. 11.176 AP axială (poziția cu gura închisă —](../../assets/images/protocols/bontrager/rx-temporomandibular-joints-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 11.176 AP axial (closed-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.176 AP axial (closed-)</span></figcaption>
+<figcaption><strong>Fig. 11.176 AP axială (poziția cu gura închisă —</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.176 AP axială (poziția cu gura închisă —)</span></figcaption>
 
 </figure>
 

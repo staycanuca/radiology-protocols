@@ -28,6 +28,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-lombara-right-or-left-oblica-posterioara-p202-clark/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -95,18 +99,20 @@ title: Radiografie a coloanei lombare – oblică posterioară dreaptă sau stâ
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este poziționat în decubit dorsal pe masa radiologică și apoi rotit 45 grade spre partea dreaptă și stângă, pe rând. Brațele pacientului sunt ridicate, cu mâinile sprijinite pe o pernă.
-• Șoldurile și genunchii sunt flectați, iar pacientul este sprijinit cu un suport din spumă de 45 grade plasat sub trunchi, pe partea ridicată.
-• Caseta este centrată la nivelul marginii costale inferioare.
+    - **Poziție Pacient:**
+        - Pacientul este poziționat în decubit dorsal pe masa radiologică și apoi rotit 45 grade spre partea dreaptă și stângă, pe rând. Brațele pacientului sunt ridicate, cu mâinile sprijinite pe o pernă.
+        - Șoldurile și genunchii sunt flectați, iar pacientul este sprijinit cu un suport din spumă de 45 grade plasat sub trunchi, pe partea ridicată.
+        - Caseta este centrată la nivelul marginii costale inferioare.
     - **Punct de Centrare Fascicul:** • Se direcționează raza centrală verticală spre linia medioclaviculară de pe partea ridicată, la nivelul marginii costale inferioare.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -142,6 +148,7 @@ title: Radiografie a coloanei lombare – oblică posterioară dreaptă sau stâ
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

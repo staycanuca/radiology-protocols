@@ -1,0 +1,3599 @@
+[
+  {
+    "url": "https://ref.mcbradiology.com/Breast/Policies/BREAST01%20-%20Mammography%20Policies.pdf",
+    "labels": [
+      "Mammography"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Breast/Breast.html"
+    ],
+    "modality": "rx",
+    "category": "mamografie",
+    "kind": "politica_procedurala",
+    "title": "Mamografie: politici de examinare",
+    "source_title": "BREAST01 - Mammography Policies"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Breast/Policies/BREAST02%20-%20Adequate%20Screening%20Positioning.pdf",
+    "labels": [
+      "Adequate\n        Positioning"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Breast/Breast.html"
+    ],
+    "modality": "rx",
+    "category": "mamografie",
+    "kind": "politica_procedurala",
+    "title": "Poziționare adecvată în screeningul mamar",
+    "source_title": "BREAST02 - Adequate Screening Positioning"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Breast/Policies/BREAST04%20-%20Inpatient%20&%20ER%20Patient%20Breast%20Policies.pdf",
+    "labels": [
+      "Inpatients\n        & ER Patients"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Breast/Breast.html"
+    ],
+    "modality": "rx",
+    "category": "mamografie",
+    "kind": "politica_procedurala",
+    "title": "Imagistică mamară: pacienți internați și urgențe",
+    "source_title": "BREAST04 - Inpatient & ER Patient Breast Policies"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Breast/Policies/BREAST05%20-%20Breast%20Procedure%20Policies.pdf",
+    "labels": [
+      "Procedures"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Breast/Breast.html"
+    ],
+    "modality": "rx",
+    "category": "mamografie",
+    "kind": "politica_procedurala",
+    "title": "Proceduri mamare",
+    "source_title": "BREAST05 - Breast Procedure Policies"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Breast%20&%20Axilla.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Breast/Breast.html",
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Sân și axilă",
+    "source_title": "Breast & Axilla"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Breast%20&%20Axilla.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Breast/Breast.html",
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "san",
+    "kind": "protocol",
+    "title": "Sân și axilă",
+    "source_title": "Breast & Axilla"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/DEXA/DEXA%20Guidelines.pdf",
+    "labels": [
+      "DEXA Guidelines"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/DEXA/DEXA.html"
+    ],
+    "modality": "rx",
+    "category": "dexa",
+    "kind": "ghid",
+    "title": "Densitometrie DEXA",
+    "source_title": "DEXA Guidelines"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/DEXA/Reference%20Articles/FRAX%20Guidelines.pdf",
+    "labels": [
+      "FRAX Guidelines"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/DEXA/DEXA.html"
+    ],
+    "modality": "rx",
+    "category": "dexa",
+    "kind": "ghid",
+    "title": "Evaluarea riscului de fractură FRAX",
+    "source_title": "FRAX Guidelines"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/IR/Miscellaneous/2025%20Med%20&%20Lab%20Guidelines.pdf",
+    "labels": [
+      "2025 Med\r\n        & Lab Guidelines"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/IR/IR.html"
+    ],
+    "modality": "ir",
+    "category": "proceduri",
+    "kind": "ghid_procedural",
+    "title": "Medicație și analize înaintea procedurilor (2025)",
+    "source_title": "2025 Med & Lab Guidelines"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/IR/Miscellaneous/2018%20Antibiotic%20Prophylaxis%20Guidelines.pdf",
+    "labels": [
+      "2018\n        SIR Antibiotic Prophylaxis Practice Parameters"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/IR/IR.html"
+    ],
+    "modality": "ir",
+    "category": "proceduri",
+    "kind": "ghid_procedural",
+    "title": "Profilaxie antibiotică în intervențional (SIR 2018)",
+    "source_title": "2018 Antibiotic Prophylaxis Guidelines"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/IR/Miscellaneous/Cryo%20Probes.pdf",
+    "labels": [
+      "Cryoablation Probe Info"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/IR/IR.html"
+    ],
+    "modality": "ir",
+    "category": "proceduri",
+    "kind": "ghid_procedural",
+    "title": "Sonde pentru crioablație",
+    "source_title": "Cryo Probes"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/IR/Miscellaneous/Histotripsy%20Procedure%20Plan.pdf",
+    "labels": [
+      "Histotripsy\r\n        Procedure Plan"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/IR/IR.html"
+    ],
+    "modality": "ir",
+    "category": "proceduri",
+    "kind": "ghid_procedural",
+    "title": "Plan procedural pentru histotripsie",
+    "source_title": "Histotripsy Procedure Plan"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/IR/Miscellaneous/Bonopty%20How%20To.pdf",
+    "labels": [
+      "Brochure"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/IR/IR.html"
+    ],
+    "modality": "ir",
+    "category": "proceduri",
+    "kind": "ghid_procedural",
+    "title": "Utilizarea sistemului de biopsie Bonopty",
+    "source_title": "Bonopty How To"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/IR/Miscellaneous/Fluid%20Specimen%20Handling.pdf",
+    "labels": [
+      "Fluid\n        Specimen Handling"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/IR/IR.html"
+    ],
+    "modality": "ir",
+    "category": "proceduri",
+    "kind": "ghid_procedural",
+    "title": "Manipularea probelor de lichid",
+    "source_title": "Fluid Specimen Handling"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/IR/Miscellaneous/Local%20Anesthetics.pdf",
+    "labels": [
+      "Local\n        Anesthesia Limits"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/IR/IR.html"
+    ],
+    "modality": "ir",
+    "category": "proceduri",
+    "kind": "ghid_procedural",
+    "title": "Limite pentru anestezice locale",
+    "source_title": "Local Anesthetics"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/1%20Adult%20General.pdf",
+    "labels": [
+      "General"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "neclasificat",
+    "kind": "colectie_protocoale",
+    "title": "Adult: reguli generale",
+    "source_title": "1 Adult General"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/2%20Adult%20Chest.pdf",
+    "labels": [
+      "Chest & Bony\r\n        Thorax"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "torace",
+    "kind": "colectie_protocoale",
+    "title": "Adult: torace și grilaj costal",
+    "source_title": "2 Adult Chest"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/3%20Adult%20Abdomen.pdf",
+    "labels": [
+      "Abdomen"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "abdomen",
+    "kind": "colectie_protocoale",
+    "title": "Adult: abdomen",
+    "source_title": "3 Adult Abdomen"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/4%20Adult%20Arm.pdf",
+    "labels": [
+      "Arm"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "membru-superior",
+    "kind": "colectie_protocoale",
+    "title": "Adult: membru superior",
+    "source_title": "4 Adult Arm"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/5%20Adult%20Bony%20Pelvis.pdf",
+    "labels": [
+      "Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "abdomen",
+    "kind": "colectie_protocoale",
+    "title": "Adult: bazin osos",
+    "source_title": "5 Adult Bony Pelvis"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/6%20Adult%20Leg.pdf",
+    "labels": [
+      "Leg"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "membru-inferior",
+    "kind": "colectie_protocoale",
+    "title": "Adult: membru inferior",
+    "source_title": "6 Adult Leg"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/7%20Adult%20Spine.pdf",
+    "labels": [
+      "Spine"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "coloana",
+    "kind": "colectie_protocoale",
+    "title": "Adult: coloană vertebrală",
+    "source_title": "7 Adult Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/8%20Adult%20Head.pdf",
+    "labels": [
+      "Head/Face/Neck"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "craniu-saf",
+    "kind": "colectie_protocoale",
+    "title": "Adult: craniu, față și gât",
+    "source_title": "8 Adult Head"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Adult%20Protocols/9%20Adult%20Miscellaneous.pdf",
+    "labels": [
+      "Miscellaneous"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "neclasificat",
+    "kind": "colectie_protocoale",
+    "title": "Adult: examinări diverse",
+    "source_title": "9 Adult Miscellaneous"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/1%20Peds%20Chest.pdf",
+    "labels": [
+      "Chest\r\n        & Bony Thorax"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: torace și grilaj costal",
+    "source_title": "1 Peds Chest"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/2%20Peds%20Abdomen.pdf",
+    "labels": [
+      "Abdomen"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: abdomen",
+    "source_title": "2 Peds Abdomen"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/3%20Peds%20Arm.pdf",
+    "labels": [
+      "Arm"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: membru superior",
+    "source_title": "3 Peds Arm"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/4%20Peds%20Bony%20Pelvis.pdf",
+    "labels": [
+      "Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: bazin osos",
+    "source_title": "4 Peds Bony Pelvis"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/5%20Peds%20Leg.pdf",
+    "labels": [
+      "Leg"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: membru inferior",
+    "source_title": "5 Peds Leg"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/6%20Peds%20Spine.pdf",
+    "labels": [
+      "Spine"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: coloană vertebrală",
+    "source_title": "6 Peds Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/7%20Peds%20Head.pdf",
+    "labels": [
+      "Head/Face/Neck"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: craniu, față și gât",
+    "source_title": "7 Peds Head"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Peds%20Protocols/8%20Peds%20Miscellaneous.pdf",
+    "labels": [
+      "Miscellaneous"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "rx",
+    "category": "pediatrie",
+    "kind": "colectie_protocoale",
+    "title": "Copil: examinări diverse",
+    "source_title": "8 Peds Miscellaneous"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/GI%20&%20Other%20Exams/Outpatient%20GI%20Prep.pdf",
+    "labels": [
+      "Outpatient\n        GI Prep"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "fluoro",
+    "category": "digestiv",
+    "kind": "protocol",
+    "title": "Pregătire pentru examinări digestive în ambulatoriu",
+    "source_title": "Outpatient GI Prep"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/GI%20&%20Other%20Exams/Inpatient%20GI%20Fluoro%20Protocols.pdf",
+    "labels": [
+      "Inpatient\n        GI Fluoro"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "fluoro",
+    "category": "digestiv",
+    "kind": "protocol",
+    "title": "Fluoroscopie digestivă la pacienți internați",
+    "source_title": "Inpatient GI Fluoro Protocols"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/GI%20&%20Other%20Exams/HSG.pdf",
+    "labels": [
+      "HSG"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/Xray/Xray.html"
+    ],
+    "modality": "fluoro",
+    "category": "urinar",
+    "kind": "protocol",
+    "title": "Histerosalpingografie (HSG)",
+    "source_title": "HSG"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lung%20Ventilation%20Xenon.pdf",
+    "labels": [
+      "Protoco"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "pulmonar",
+    "kind": "protocol",
+    "title": "Ventilație pulmonară cu xenon",
+    "source_title": "Lung Ventilation Xenon"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lung%20Ventilation%20DTPA.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "pulmonar",
+    "kind": "protocol",
+    "title": "Ventilație pulmonară cu DTPA",
+    "source_title": "Lung Ventilation DTPA"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lung%20Perfusion.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "pulmonar",
+    "kind": "protocol",
+    "title": "Perfuzie pulmonară",
+    "source_title": "Lung Perfusion"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/MUGA%20Ventriculography.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Ventriculografie MUGA",
+    "source_title": "MUGA Ventriculography"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/HIDA.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "digestiv",
+    "kind": "protocol",
+    "title": "Scintigrafie hepatobiliară HIDA",
+    "source_title": "HIDA"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Liver%20Spleen.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "digestiv",
+    "kind": "protocol",
+    "title": "Scintigrafie ficat și splină",
+    "source_title": "Liver Spleen"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/GI%20Bleeding.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "digestiv",
+    "kind": "protocol",
+    "title": "Sângerare digestivă",
+    "source_title": "GI Bleeding"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Gastric%20Emptying.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "digestiv",
+    "kind": "protocol",
+    "title": "Evacuare gastrică",
+    "source_title": "Gastric Emptying"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Meckel.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "digestiv",
+    "kind": "protocol",
+    "title": "Diverticul Meckel",
+    "source_title": "Meckel"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Renal%20Scan.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "urinar",
+    "kind": "protocol",
+    "title": "Scintigrafie renală",
+    "source_title": "Renal Scan"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Renal%20DMSA.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "urinar",
+    "kind": "protocol",
+    "title": "Scintigrafie renală DMSA",
+    "source_title": "Renal DMSA"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Renal%20Vascular%20HTN.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "urinar",
+    "kind": "protocol",
+    "title": "Hipertensiune renovasculară",
+    "source_title": "Renal Vascular HTN"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Bone%20Scan%20Whole%20Body.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "osos",
+    "kind": "protocol",
+    "title": "Scintigrafie osoasă whole-body",
+    "source_title": "Bone Scan Whole Body"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Bone%20Scan%20Limited.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "osos",
+    "kind": "protocol",
+    "title": "Scintigrafie osoasă limitată",
+    "source_title": "Bone Scan Limited"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Bone%20Scan%20Three%20Phase.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "osos",
+    "kind": "protocol",
+    "title": "Scintigrafie osoasă trifazică",
+    "source_title": "Bone Scan Three Phase"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Bone%20Scan%20SPECT.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "osos",
+    "kind": "protocol",
+    "title": "Scintigrafie osoasă SPECT",
+    "source_title": "Bone Scan SPECT"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/WBC%20Marrow%20Combo.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "infectie",
+    "kind": "protocol",
+    "title": "Leucocite marcate și măduvă osoasă",
+    "source_title": "WBC Marrow Combo"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/PET%20NaF.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "osos",
+    "kind": "protocol",
+    "title": "PET cu NaF",
+    "source_title": "PET NaF"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Thyroid%20Imaging%20Uptake.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "endocrin",
+    "kind": "protocol",
+    "title": "Tiroidă: imagistică și captare",
+    "source_title": "Thyroid Imaging Uptake"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Thyroid%20I131.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "endocrin",
+    "kind": "protocol",
+    "title": "Tiroidă cu iod-131",
+    "source_title": "Thyroid I131"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Parathyroid.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "endocrin",
+    "kind": "protocol",
+    "title": "Paratiroide",
+    "source_title": "Parathyroid"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Brain%20Death.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Evaluarea morții cerebrale",
+    "source_title": "Brain Death"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Cisternogram%20CSF%20Leak.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Cisternografie și fistulă LCR",
+    "source_title": "Cisternogram CSF Leak"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/PET%20FDG%20Brain.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "PET cerebral cu FDG",
+    "source_title": "PET FDG Brain"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Dacrocystogram.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Dacrioscintigrafie",
+    "source_title": "Dacrocystogram"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/WBC%20Ceretec.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "infectie",
+    "kind": "protocol",
+    "title": "Leucocite marcate cu Ceretec",
+    "source_title": "WBC Ceretec"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/WBC%20Indium.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "infectie",
+    "kind": "protocol",
+    "title": "Leucocite marcate cu indiu",
+    "source_title": "WBC Indium"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Gallium.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "infectie",
+    "kind": "protocol",
+    "title": "Scintigrafie cu galiu",
+    "source_title": "Gallium"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/PET%20FDG%20Body.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "PET corporal cu FDG",
+    "source_title": "PET FDG Body"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Octreotide.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "Scintigrafie cu octreotid",
+    "source_title": "Octreotide"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/MIBG.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "Scintigrafie MIBG",
+    "source_title": "MIBG"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lympho%20Breast.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "Limfoscintigrafie mamară",
+    "source_title": "Lympho Breast"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lympho%20Skin.pdf",
+    "labels": [
+      "Protoco"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "Limfoscintigrafie cutanată",
+    "source_title": "Lympho Skin"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lympho%20Gynecologic.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "Limfoscintigrafie ginecologică",
+    "source_title": "Lympho Gynecologic"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lympho%20Extremity.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "Limfoscintigrafie extremități",
+    "source_title": "Lympho Extremity"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Nucs/Protocols/Lympho%20Procedure.pdf",
+    "labels": [
+      "Lymphoscintigraphy\n        Procedure"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Nucs/Protocols/Nucs%20Protocols.html"
+    ],
+    "modality": "mn",
+    "category": "oncologie",
+    "kind": "protocol",
+    "title": "Procedură de limfoscintigrafie",
+    "source_title": "Lympho Procedure"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/1%20Routine%20AP.pdf",
+    "labels": [
+      "Abdomen/Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Abdomen și pelvis de rutină",
+    "source_title": "1 Routine AP"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/2%20Routine%20A.pdf",
+    "labels": [
+      "Abdomen"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Abdomen de rutină",
+    "source_title": "2 Routine A"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/3%20Routine%20P.pdf",
+    "labels": [
+      "Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Pelvis de rutină",
+    "source_title": "3 Routine P"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/4%20Routine%20CAP.pdf",
+    "labels": [
+      "Chest/Abdomen/Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Torace, abdomen și pelvis de rutină",
+    "source_title": "4 Routine CAP"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/5%20Routine%20CA.pdf",
+    "labels": [
+      "Chest/Abdomen"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Torace și abdomen de rutină",
+    "source_title": "5 Routine CA"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/6%20Enterography%20Single-Phase.pdf",
+    "labels": [
+      "Single\r\n      Phase"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Enterografie monofazică",
+    "source_title": "6 Enterography Single-Phase"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/7%20Enterography%20Multi-Phase.pdf",
+    "labels": [
+      "Multi Phase"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Enterografie multifazică",
+    "source_title": "7 Enterography Multi-Phase"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/8%20Mesenteric%20Ischemia.pdf",
+    "labels": [
+      "Mesenteric Ischemia"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Ischemie mezenterică",
+    "source_title": "8 Mesenteric Ischemia"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/9%20Acute%20Bleed.pdf",
+    "labels": [
+      "Acute Bleed"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Hemoragie acută",
+    "source_title": "9 Acute Bleed"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/10%20Liver.pdf",
+    "labels": [
+      "Liver"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Ficat",
+    "source_title": "10 Liver"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/11%20Liver%20Pre-SIRT.pdf",
+    "labels": [
+      "Pre-SIRT Liver"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Ficat înainte de SIRT",
+    "source_title": "11 Liver Pre-SIRT"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/12%20Pancreas.pdf",
+    "labels": [
+      "Pancreas"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Pancreas",
+    "source_title": "12 Pancreas"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/13%20Pancreatitis.pdf",
+    "labels": [
+      "Pancreatitis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Pancreatită",
+    "source_title": "13 Pancreatitis"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/14%20Adrenal.pdf",
+    "labels": [
+      "Adrenal"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Suprarenale",
+    "source_title": "14 Adrenal"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/15%20Renal.pdf",
+    "labels": [
+      "Renal"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Rinichi",
+    "source_title": "15 Renal"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/16%20Renal%20Stone.pdf",
+    "labels": [
+      "Renal\n          Stone"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Litiază renală",
+    "source_title": "16 Renal Stone"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/17%20Urography%20Routine.pdf",
+    "labels": [
+      "Routine"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Urografie de rutină",
+    "source_title": "17 Urography Routine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/18%20Urography%20Split-Bolus.pdf",
+    "labels": [
+      "Split-Bolus"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Urografie split-bolus",
+    "source_title": "18 Urography Split-Bolus"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body/19%20Cystogram.pdf",
+    "labels": [
+      "Cystogram"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Body%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "abdomen",
+    "kind": "protocol",
+    "title": "Cistografie",
+    "source_title": "19 Cystogram"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac/1%20Calcium%20Score.pdf",
+    "labels": [
+      "Calcium\n          Score"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Scor de calciu coronarian",
+    "source_title": "1 Calcium Score"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac/2%20Coronary%20Artery.pdf",
+    "labels": [
+      "Coronary\n          Artery"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Artere coronare",
+    "source_title": "2 Coronary Artery"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac/3%20TAVR.pdf",
+    "labels": [
+      "TAVR"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Planificare TAVR",
+    "source_title": "3 TAVR"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac/4%20TMVR.pdf",
+    "labels": [
+      "TMVR (Encircle)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Planificare TMVR (Encircle)",
+    "source_title": "4 TMVR"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac/5%20Watchman.pdf",
+    "labels": [
+      "Watchman"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Planificare Watchman",
+    "source_title": "5 Watchman"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac/6%20Converge.pdf",
+    "labels": [
+      "Converge"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Planificare Converge",
+    "source_title": "6 Converge"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac/7%20aMaze%20Lariat.pdf",
+    "labels": [
+      "aMaze/Lariat"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Cardiac%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "cardiac",
+    "kind": "protocol",
+    "title": "Planificare aMaze / Lariat",
+    "source_title": "7 aMaze Lariat"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/1%20Routine.pdf",
+    "labels": [
+      "Routine"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace de rutină",
+    "source_title": "1 Routine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/2%20Low-Dose.pdf",
+    "labels": [
+      "Low-Dose"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace cu doză redusă",
+    "source_title": "2 Low-Dose"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/3%20Screening.pdf",
+    "labels": [
+      "Lung Cancer Screening"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Screening cancer pulmonar",
+    "source_title": "3 Screening"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/4%20HRCT%20Routine.pdf",
+    "labels": [
+      "Routine"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "HRCT de rutină",
+    "source_title": "4 HRCT Routine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/5%20HRCT%20Full.pdf",
+    "labels": [
+      "Full"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "HRCT complet",
+    "source_title": "5 HRCT Full"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/5%20Teton.pdf",
+    "labels": [
+      "Teton"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace: Teton",
+    "source_title": "5 Teton"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/6%20ION.pdf",
+    "labels": [
+      "ION"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace: ION",
+    "source_title": "6 ION"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/7%20Veran.pdf",
+    "labels": [
+      "Veran"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace: Veran",
+    "source_title": "7 Veran"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/8%20Pulmonx%20Zephyr.pdf",
+    "labels": [
+      "Pulmonx\r\n        Zephyr"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace: Pulmonx Zephyr",
+    "source_title": "8 Pulmonx Zephyr"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/9%20Olympus.pdf",
+    "labels": [
+      "Olympus"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace: Olympus",
+    "source_title": "9 Olympus"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/10%20VIDA.pdf",
+    "labels": [
+      "VIDA"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Torace: VIDA",
+    "source_title": "10 VIDA"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/11%20Trachea.pdf",
+    "labels": [
+      "Trachea"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Trahee",
+    "source_title": "11 Trachea"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest/12%20Esophagram.pdf",
+    "labels": [
+      "Esophagram"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Chest%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "chest",
+    "kind": "protocol",
+    "title": "Esofagografie",
+    "source_title": "12 Esophagram"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/1%20Shoulder.pdf",
+    "labels": [
+      "Shoulder"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Umăr",
+    "source_title": "1 Shoulder"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/2%20Clavicle.pdf",
+    "labels": [
+      "Clavicle"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Claviculă",
+    "source_title": "2 Clavicle"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/11%20Long%20Bones.pdf",
+    "labels": [
+      "Humerus",
+      "Forearm",
+      "Femur",
+      "Tibia/Fibula"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Oase lungi",
+    "source_title": "11 Long Bones"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/3%20Elbow.pdf",
+    "labels": [
+      "Elbow"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Cot",
+    "source_title": "3 Elbow"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/4%20Wrist.pdf",
+    "labels": [
+      "Wrist"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Pumn",
+    "source_title": "4 Wrist"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/5%20Hand.pdf",
+    "labels": [
+      "Hand"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Mână",
+    "source_title": "5 Hand"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/7%20Hip.pdf",
+    "labels": [
+      "Hip"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Șold",
+    "source_title": "7 Hip"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/8%20Knee.pdf",
+    "labels": [
+      "Knee"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Genunchi",
+    "source_title": "8 Knee"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/9%20Ankle%20Hindfoot.pdf",
+    "labels": [
+      "Ankle/Hindfoot"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Gleznă și retropicior",
+    "source_title": "9 Ankle Hindfoot"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/10%20Forefoot.pdf",
+    "labels": [
+      "Forefoot"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Antepicior",
+    "source_title": "10 Forefoot"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/12%20Limb%20Length.pdf",
+    "labels": [
+      "Limb Length"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Măsurarea lungimii membrelor",
+    "source_title": "12 Limb Length"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/6%20Bony%20Pelvis.pdf",
+    "labels": [
+      "Bony Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Bazin osos",
+    "source_title": "6 Bony Pelvis"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/13%20C%20Spine.pdf",
+    "labels": [
+      "Cervical"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html",
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Coloană cervicală",
+    "source_title": "13 C Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/14%20T%20Spine.pdf",
+    "labels": [
+      "Thoracic"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html",
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Coloană toracică",
+    "source_title": "14 T Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/15%20L%20Spine.pdf",
+    "labels": [
+      "Lumbar"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html",
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Coloană lombară",
+    "source_title": "15 L Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/17%20Myelogram.pdf",
+    "labels": [
+      "Myelogram"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html",
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Mielografie",
+    "source_title": "17 Myelogram"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/13%20Catalyst%20Shoulder.pdf",
+    "labels": [
+      "Catalyst"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Umăr Catalyst",
+    "source_title": "13 Catalyst Shoulder"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/14%20Arthrex%20Shoulder.pdf",
+    "labels": [
+      "Arthrex"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Umăr Arthrex",
+    "source_title": "14 Arthrex Shoulder"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/15%20Stryker%20Shoulder.pdf",
+    "labels": [
+      "Stryker\r\n          (Blueprint/Tornier/Mako)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Umăr Stryker",
+    "source_title": "15 Stryker Shoulder"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/16%20Mako%20Hip.pdf",
+    "labels": [
+      "Mako"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Șold Mako",
+    "source_title": "16 Mako Hip"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/17%20Mako%20Knee.pdf",
+    "labels": [
+      "Mako"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Genunchi Mako",
+    "source_title": "17 Mako Knee"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/18%20Zimmer%20Knee.pdf",
+    "labels": [
+      "Zimmer"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Genunchi Zimmer",
+    "source_title": "18 Zimmer Knee"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/19%20Restor3D%20Conformis%20Knee.pdf",
+    "labels": [
+      "Restor3D Conformis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Genunchi Restor3D Conformis",
+    "source_title": "19 Restor3D Conformis Knee"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/20%20DePuy%20Knee.pdf",
+    "labels": [
+      "DePuy"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Genunchi DePuy",
+    "source_title": "20 DePuy Knee"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/21%20Prophecy%20Ankle.pdf",
+    "labels": [
+      "Prophecy"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Gleznă Prophecy",
+    "source_title": "21 Prophecy Ankle"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK/22%20MAVEN%20Ankle.pdf",
+    "labels": [
+      "MAVEN"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "msk",
+    "kind": "protocol",
+    "title": "Gleznă MAVEN",
+    "source_title": "22 MAVEN Ankle"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/16%20L%20Spine%20Pre%20Surgical.pdf",
+    "labels": [
+      "Lumbar\n          Pre Surgical",
+      "Lumbar\r\n        Pre Surgical"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/MSK%20CT%20Protocols.html",
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Coloană lombară preoperator",
+    "source_title": "16 L Spine Pre Surgical"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/1%20Head%20Routine.pdf",
+    "labels": [
+      "Routine"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Craniu de rutină",
+    "source_title": "1 Head Routine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/2%20Head%20Pre-Surgical.pdf",
+    "labels": [
+      "Pre-Surgical"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Craniu preoperator",
+    "source_title": "2 Head Pre-Surgical"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/3%20CTA%20Head.pdf",
+    "labels": [
+      "Head (COW)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Angio-CT cerebral",
+    "source_title": "3 CTA Head"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/4%20CTA%20Neck.pdf",
+    "labels": [
+      "Neck\n        (Carotids)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Angio-CT cervical",
+    "source_title": "4 CTA Neck"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/5%20CTA%20Head%20&%20Neck.pdf",
+    "labels": [
+      "Head\r\n        & Neck"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Angio-CT cerebral și cervical",
+    "source_title": "5 CTA Head & Neck"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/6%20CTA%20Perfusion.pdf",
+    "labels": [
+      "Perfusion"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Perfuzie cerebrală",
+    "source_title": "6 CTA Perfusion"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/7%20CTV%20Head.pdf",
+    "labels": [
+      "Venogram Head"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Venografie cerebrală",
+    "source_title": "7 CTV Head"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/8%20MF%20&%20Orbits.pdf",
+    "labels": [
+      "Maxillofacial/Orbits"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Masiv facial și orbite",
+    "source_title": "8 MF & Orbits"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/9%20Sinuses.pdf",
+    "labels": [
+      "Sinuses"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Sinusuri",
+    "source_title": "9 Sinuses"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/10%20IACs.pdf",
+    "labels": [
+      "IACs\n          (Temporal Bones / Mastoids)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Conducte auditive interne și oase temporale",
+    "source_title": "10 IACs"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/11%20Neck%20Soft%20Tissue.pdf",
+    "labels": [
+      "Soft Tissue"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Părți moi cervicale",
+    "source_title": "11 Neck Soft Tissue"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/12%20Neck%20Parathyroid.pdf",
+    "labels": [
+      "Parathyroid"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Paratiroide",
+    "source_title": "12 Neck Parathyroid"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro/18%20Cisternogram.pdf",
+    "labels": [
+      "Cisternogram"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Neuro%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "neuro",
+    "kind": "protocol",
+    "title": "Cisternografie",
+    "source_title": "18 Cisternogram"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/1%20Peds%20Head.pdf",
+    "labels": [
+      "Head"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Craniu pediatric",
+    "source_title": "1 Peds Head"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/2%20Peds%20MF%20Orbits.pdf",
+    "labels": [
+      "Maxillofacial/Orbits"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Masiv facial și orbite la copil",
+    "source_title": "2 Peds MF Orbits"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/3%20Peds%20Sinuses.pdf",
+    "labels": [
+      "Sinuses"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Sinusuri la copil",
+    "source_title": "3 Peds Sinuses"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/4%20Peds%20Neck.pdf",
+    "labels": [
+      "Neck"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Regiune cervicală la copil",
+    "source_title": "4 Peds Neck"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/5%20Peds%20Chest.pdf",
+    "labels": [
+      "Chest"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Torace pediatric",
+    "source_title": "5 Peds Chest"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/6%20Peds%20AP.pdf",
+    "labels": [
+      "Abdomen/Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Abdomen și pelvis la copil",
+    "source_title": "6 Peds AP"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/7%20Peds%20CAP.pdf",
+    "labels": [
+      "Chest/Abdomen/Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Torace, abdomen și pelvis la copil",
+    "source_title": "7 Peds CAP"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/8%20Peds%20C%20Spine.pdf",
+    "labels": [
+      "Cervical"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Coloană cervicală la copil",
+    "source_title": "8 Peds C Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/9%20Peds%20T%20Spine.pdf",
+    "labels": [
+      "Thoracic"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Coloană toracică la copil",
+    "source_title": "9 Peds T Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/10%20Peds%20L%20Spine.pdf",
+    "labels": [
+      "Lumbar"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Coloană lombară la copil",
+    "source_title": "10 Peds L Spine"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/11%20Peds%20Bony%20Pelvis.pdf",
+    "labels": [
+      "Bony Pelvis"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Bazin osos la copil",
+    "source_title": "11 Peds Bony Pelvis"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds/12%20Peds%20Extremity.pdf",
+    "labels": [
+      "Extremity"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Peds%20CT%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Extremități la copil",
+    "source_title": "12 Peds Extremity"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/Drive%20128%20Protocols%20%28VB20%29.pdf",
+    "labels": [
+      "Siemens\n        Drive 128"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: Drive 128 Protocols (VB20)",
+    "source_title": "Drive 128 Protocols (VB20)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/Force%20192%20Protocols%20%28VB20%29.pdf",
+    "labels": [
+      "Siemens\n        Force 192"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: Force 192 Protocols (VB20)",
+    "source_title": "Force 192 Protocols (VB20)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/GE%20Revolution%20Ascend%20Plus%20128%20Protocols.pdf",
+    "labels": [
+      "GE\n          Revolution Ascend Plus 128"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: GE Revolution Ascend Plus 128 Protocols",
+    "source_title": "GE Revolution Ascend Plus 128 Protocols"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/Go%20Top%20128%20Protocols%20%28VA40%29.pdf",
+    "labels": [
+      "Siemens\n        Go Top 128"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: Go Top 128 Protocols (VA40)",
+    "source_title": "Go Top 128 Protocols (VA40)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/GE%20LS%20VCT%2064%20Protocols.pdf",
+    "labels": [
+      "GE\n        LightSpeed VCT 64"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: GE LS VCT 64 Protocols",
+    "source_title": "GE LS VCT 64 Protocols"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/Philips%20Incisive%20128%20Protocols.pdf",
+    "labels": [
+      "Philips\n        Incisive 128"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: Philips Incisive 128 Protocols",
+    "source_title": "Philips Incisive 128 Protocols"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/Definition%20AS%2064%20Protocols%20%28VB20%29.pdf",
+    "labels": [
+      "Siemens\n        Definition AS 64"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: Definition AS 64 Protocols (VB20)",
+    "source_title": "Definition AS 64 Protocols (VB20)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/GE%20Revolution%20Maxima%2064%20Protocols.pdf",
+    "labels": [
+      "GE\n        Revolution Maxima 64"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: GE Revolution Maxima 64 Protocols",
+    "source_title": "GE Revolution Maxima 64 Protocols"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Default/GE%20LightSpeed%2016%20Protocols.pdf",
+    "labels": [
+      "GE\n        LightSpeed 16"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Scanner%20Default%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "aparate",
+    "kind": "manual_aparat",
+    "title": "Parametri aparat: GE LightSpeed 16 Protocols",
+    "source_title": "GE LightSpeed 16 Protocols"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/1%20Aorta%20Full%20%28CAP%29.pdf",
+    "labels": [
+      "Full (CAP)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Aortă completă (torace, abdomen și pelvis)",
+    "source_title": "1 Aorta Full (CAP)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/2%20Aorta%20Thoracic.pdf",
+    "labels": [
+      "Thoracic",
+      "Thoracic\n          Aorta"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Aortă toracică",
+    "source_title": "2 Aorta Thoracic"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/3%20Aorta%20Abdominal.pdf",
+    "labels": [
+      "Abdominal",
+      "Abdominal Aorta"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Aortă abdominală",
+    "source_title": "3 Aorta Abdominal"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/4%20PE.pdf",
+    "labels": [
+      "PE (Pulmonary\r\n        Embolus)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Embolie pulmonară",
+    "source_title": "4 PE"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/5%20SVC.pdf",
+    "labels": [
+      "SVC"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Venă cavă superioară",
+    "source_title": "5 SVC"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/6%20Renal%20Artery.pdf",
+    "labels": [
+      "Renal Artery"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Artere renale",
+    "source_title": "6 Renal Artery"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/7%20IVC.pdf",
+    "labels": [
+      "IVC"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Venă cavă inferioară",
+    "source_title": "7 IVC"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/8%20Runoff.pdf",
+    "labels": [
+      "Runoff"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Angiografie runoff",
+    "source_title": "8 Runoff"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/9%20CTA%20Legs.pdf",
+    "labels": [
+      "CTA Legs"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Angio-CT membre inferioare",
+    "source_title": "9 CTA Legs"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/10%20CTV%20Legs.pdf",
+    "labels": [
+      "CTV Legs"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Venografie membre inferioare",
+    "source_title": "10 CTV Legs"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/11%20CTA%20Arms.pdf",
+    "labels": [
+      "CTA\n        Arms"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Angio-CT membre superioare",
+    "source_title": "11 CTA Arms"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular/12%20Breast%20Reconstruction.pdf",
+    "labels": [
+      "Breast\r\n        Reconstruction (DIEP)"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/CT/Protocols/Vascular%20Protocols.html"
+    ],
+    "modality": "ct",
+    "category": "vascular",
+    "kind": "protocol",
+    "title": "Reconstrucție mamară DIEP",
+    "source_title": "12 Breast Reconstruction"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Thyroid.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Tiroidă",
+    "source_title": "Thyroid"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Thyroid.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "parti-moi-endocrin",
+    "kind": "protocol",
+    "title": "Tiroidă",
+    "source_title": "Thyroid"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Post%20Thyroidectomy.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: După tiroidectomie",
+    "source_title": "Post Thyroidectomy"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Post%20Thyroidectomy.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "parti-moi-endocrin",
+    "kind": "protocol",
+    "title": "După tiroidectomie",
+    "source_title": "Post Thyroidectomy"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Abdomen%20Complete.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Abdomen complet",
+    "source_title": "Abdomen Complete"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Abdomen%20Complete.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Abdomen complet",
+    "source_title": "Abdomen Complete"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Abdomen%20Limited%20%28RUQ%29.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Abdomen țintit: cadran superior drept",
+    "source_title": "Abdomen Limited (RUQ)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Abdomen%20Limited%20%28RUQ%29.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Abdomen țintit: cadran superior drept",
+    "source_title": "Abdomen Limited (RUQ)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Abdomen%20Limited%20%28GB%20Only%29.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Abdomen țintit: vezică biliară",
+    "source_title": "Abdomen Limited (GB Only)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Miscellaneous.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Miscellaneous",
+    "source_title": "Miscellaneous"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Abdomen%20Limited%20%28Ascites%20Check%29.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Verificarea ascitei",
+    "source_title": "Abdomen Limited (Ascites Check)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Renal%20Complete.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Rinichi: examinare completă",
+    "source_title": "Renal Complete"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Renal%20Complete.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Rinichi: examinare completă",
+    "source_title": "Renal Complete"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Bladder.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Bladder",
+    "source_title": "Bladder"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Urinary%20Bladder.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Vezică urinară",
+    "source_title": "Urinary Bladder"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Histotripsy%20Pre%20Scan.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Evaluare înainte de histotripsie",
+    "source_title": "Histotripsy Pre Scan"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Histotripsy%20Pre%20Scan.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Evaluare înainte de histotripsie",
+    "source_title": "Histotripsy Pre Scan"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Scrotum%20Testes.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Scrot și testicule",
+    "source_title": "Scrotum Testes"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Scrotum%20Testes.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Scrot și testicule",
+    "source_title": "Scrotum Testes"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Penis.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Penis",
+    "source_title": "Penis"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Penis.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Penis",
+    "source_title": "Penis"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Female%20Pelvis%20%28Non%20OB%29.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Pelvis feminin neobstetrical",
+    "source_title": "Female Pelvis (Non OB)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Female%20Pelvis%20%28Non%20OB%29.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Pelvis feminin neobstetrical",
+    "source_title": "Female Pelvis (Non OB)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/1st%20Trimester%20OB.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Sarcină în trimestrul I",
+    "source_title": "1st Trimester OB"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/1st%20Trimester%20OB.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Sarcină în trimestrul I",
+    "source_title": "1st Trimester OB"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/OB%20Complete.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Examinare obstetricală completă",
+    "source_title": "OB Complete"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/OB%20Complete.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Examinare obstetricală completă",
+    "source_title": "OB Complete"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/OB%20Limited.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Examinare obstetricală limitată",
+    "source_title": "OB Limited"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/OB%20Limited.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Examinare obstetricală limitată",
+    "source_title": "OB Limited"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Biophysical%20Profile.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Profil biofizic fetal",
+    "source_title": "Biophysical Profile"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Biophysical%20Profile.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "abdomen-pelvis",
+    "kind": "protocol",
+    "title": "Profil biofizic fetal",
+    "source_title": "Biophysical Profile"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Neonatal%20Head.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Creier neonatal",
+    "source_title": "Neonatal Head"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Neonatal%20Head.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "pediatrie",
+    "kind": "protocol",
+    "title": "Creier neonatal",
+    "source_title": "Neonatal Head"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Arm%20Arteries.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Artere ale membrului superior",
+    "source_title": "Arm Arteries"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Arm%20Arteries.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Artere ale membrului superior",
+    "source_title": "Arm Arteries"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Arm%20Segmentals.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Presiuni segmentare: membru superior",
+    "source_title": "Arm Segmentals"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Arm%20Segmentals.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Presiuni segmentare: membru superior",
+    "source_title": "Arm Segmentals"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Arm%20DVT.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Tromboză venoasă profundă: membru superior",
+    "source_title": "Arm DVT"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Arm%20DVT.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Tromboză venoasă profundă: membru superior",
+    "source_title": "Arm DVT"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Arm%20Vein%20Mapping.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Cartografiere venoasă: membru superior",
+    "source_title": "Arm Vein Mapping"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Arm%20Vein%20Mapping.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Cartografiere venoasă: membru superior",
+    "source_title": "Arm Vein Mapping"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Radial%20Artery%20Map.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Cartografiere arteră radială",
+    "source_title": "Radial Artery Map"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Radial%20Artery%20Map.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Cartografiere arteră radială",
+    "source_title": "Radial Artery Map"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Leg%20Arteries.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Artere ale membrului inferior",
+    "source_title": "Leg Arteries"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Leg%20Arteries.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Artere ale membrului inferior",
+    "source_title": "Leg Arteries"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Leg%20Segmentals.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Leg Segmentals",
+    "source_title": "Leg Segmentals"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Leg%20Segmentals%20%28Full%29.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Presiuni segmentare complete: membru inferior",
+    "source_title": "Leg Segmentals (Full)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Leg%20ABIs%20Only.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Leg ABIs Only",
+    "source_title": "Leg ABIs Only"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Leg%20Sementals%20%28Limited%29.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Presiuni segmentare limitate: membru inferior",
+    "source_title": "Leg Sementals (Limited)"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Leg%20DVT.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Tromboză venoasă profundă: membru inferior",
+    "source_title": "Leg DVT"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Leg%20DVT.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Tromboză venoasă profundă: membru inferior",
+    "source_title": "Leg DVT"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Leg%20Vein%20Mapping.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Cartografiere venoasă: membru inferior",
+    "source_title": "Leg Vein Mapping"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Leg%20Vein%20Mapping.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Cartografiere venoasă: membru inferior",
+    "source_title": "Leg Vein Mapping"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Groin%20Pseudoaneurysm.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Pseudoanevrism inghinal",
+    "source_title": "Groin Pseudoaneurysm"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Carotid%20Arteries.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Artere carotide",
+    "source_title": "Carotid Arteries"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Carotid%20Arteries.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Artere carotide",
+    "source_title": "Carotid Arteries"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Abdominal%20Aorta.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Aortă abdominală",
+    "source_title": "Abdominal Aorta"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Abdominal%20Aorta.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Aortă abdominală",
+    "source_title": "Abdominal Aorta"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Abdominal%20Duplex.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Abdominal Duplex",
+    "source_title": "Abdominal Duplex"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Abdomen%20Duplex.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Duplex abdominal",
+    "source_title": "Abdomen Duplex"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Liver%20Transplant.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Transplant hepatic",
+    "source_title": "Liver Transplant"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Liver%20Transplant.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Transplant hepatic",
+    "source_title": "Liver Transplant"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/TIPS.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Șunt TIPS",
+    "source_title": "TIPS"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/TIPS.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Șunt TIPS",
+    "source_title": "TIPS"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Mesenteric%20Artery.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Artere mezenterice",
+    "source_title": "Mesenteric Artery"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Mesenteric%20Artery.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Artere mezenterice",
+    "source_title": "Mesenteric Artery"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Renal%20Artery.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Artere renale",
+    "source_title": "Renal Artery"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Renal%20Artery.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Artere renale",
+    "source_title": "Renal Artery"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/Renal%20Transplant.pdf",
+    "labels": [
+      "Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: Transplant renal",
+    "source_title": "Renal Transplant"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Renal%20Transplant.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Transplant renal",
+    "source_title": "Renal Transplant"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/AV%20Fistula.pdf",
+    "labels": [
+      "Fistula\n        Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: AV Fistula",
+    "source_title": "AV Fistula"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Tech%20Worksheets/AV%20Graft.pdf",
+    "labels": [
+      "Graft\r\n        Worksheet"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "fise",
+    "kind": "fisa_lucru",
+    "title": "Fișă de lucru: AV Graft",
+    "source_title": "AV Graft"
+  },
+  {
+    "url": "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Protocols/Hemodialysis%20Access.pdf",
+    "labels": [
+      "Protocol"
+    ],
+    "catalogs": [
+      "https://ref.mcbradiology.com/Protocols,%20Policies,%20Worksheets%20&%20Forms/US/Worksheets%20&%20Protocols.html"
+    ],
+    "modality": "eco",
+    "category": "vascular-doppler",
+    "kind": "protocol",
+    "title": "Acces vascular pentru hemodializă",
+    "source_title": "Hemodialysis Access"
+  }
+]

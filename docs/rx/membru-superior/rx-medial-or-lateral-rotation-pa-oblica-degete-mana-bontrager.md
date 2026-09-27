@@ -2,47 +2,52 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la pIp articulație
+centering: perpendicular pe receptorul de imagine, orientat spre articulația IFP
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de distal, middle, și
-  proximal falange; distal metacarpal; și associated articulații
-- Pathologies such ca osteoporosis și artroză / modificări degenerative articulare
+- suspiciune de fractură și luxație / subluxație articulară a falangelor distale,
+  mijlocii și proximale; a metacarpianului distal; și a articulațiilor asociate
+- Patologii precum osteoporoza și artroza / modificări degenerative articulare
 images:
-- caption: Fig. 4.39 Second falange (rotație externă (laterală)).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.39 Second falange
-    (rotație externă (laterală)).)
+- caption: Fig. 4.39 A doua falangă (rotație externă (laterală)).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.39 A doua
+    falangă (rotație externă (laterală)).)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_1.jpeg
-- caption: Fig. 4.40 Second falange (rotație internă (medială)).
+- caption: Fig. 4.40 A doua falangă (rotație internă (medială)).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.40
-    Second falange (rotație internă (medială)).)
+    A doua falangă (rotație internă (medială)).)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_2.jpeg
-- caption: Fig. 4.41 Third falange (lateral
+- caption: Fig. 4.41 A treia falangă (laterală
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.41
-    Third falange (lateral)
+    A treia falangă (laterală)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_3.jpeg
-- caption: Fig. 4.42 Fifth falange (lateral
+- caption: Fig. 4.42 A cincea falangă (laterală
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.42
-    Fifth falange (lateral)
+    A cincea falangă (laterală)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_4.jpeg
-- caption: Fig. 4.43 Fourth falange
+- caption: Fig. 4.43 A patra falangă
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.43
-    Fourth falange)
+    A patra falangă)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_5.jpeg
-- caption: Fig. 4.44 Fourth falange.
+- caption: Fig. 4.44 A patra falangă.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.44
-    Fourth falange.)
+    A patra falangă.)
   url: assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_6.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table, cu Cot flectat about 90° cu Mână
-  și Pumn (Articulație Radiocarpiană) resting pe receptorul de imagine și Degete Mână
-  extins.; Regiune anatomică: cu Degete Mână extins against 45° foam wedge block,
-  place Mână în a 45° lateral oblic (Police side up) (Fig. 4.39). poziție Mână pe
-  receptorul de imagine astfel încât axa longitudinală de finger este aliniat cu axa
-  longitudinală de receptorul de imagine. Separate Degete Mână și carefully place
-  finger that este being examined against block, so it este sprijinit în a 45° oblic
-  și paralel cu receptorul de imagine.'
+position: 'Pacient: Așezați pacientul la capătul mesei, cu cotul flectat la aproximativ
+  90°, cu mâna și pumnul (articulația radiocarpiană) sprijinite pe receptorul de imagine
+  și degetele mâinii extinse.; Regiune anatomică: Cu degetele mâinii extinse pe blocul
+  de spumă în formă de pană la 45°, așezați mâna într-o incidență oblică laterală
+  la 45° (partea policelui în sus) (Fig. 4.39). Poziționați mâna pe receptorul de
+  imagine astfel încât axa longitudinală a degetului să fie aliniată cu axa longitudinală
+  a receptorului de imagine. Separați degetele mâinii și așezați cu grijă degetul
+  examinat pe bloc, astfel încât să fie sprijinit într-o poziție oblică la 45° și
+  paralelă cu receptorul de imagine.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -50,22 +55,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'oblic incidență de distal, middle, și proximal falange; distal metacarpal; și associated
-  articulații. poziție:'
-- axa longitudinală de finger trebuie să fie aliniat cu side margine de receptorul
+- 'Incidență oblică a falangelor distală, mijlocie și proximală; metacarpianului distal;
+  și articulațiilor asociate. Poziție:'
+- Axa longitudinală a degetului trebuie să fie aliniată cu marginea laterală a receptorului
   de imagine.
-- incidență de finger being examined trebuie să fie 45° oblic.
-- fără superimposition de adjacent Degete Mână trebuie să occur.
-- IP și articulații metacarpofalangiene (MCF) spaces trebuie să fie open, indicating
-  correct raza centrală location și that falange sunt paralel cu receptorul de imagine.
-- 'raza centrală și center de collimation field size trebuie să fie la pIp articulație
-  (Figs. 4.43 și 4.44). expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți
-  moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte
-  de mișcare. Fig. 4.43 Fourth falange (rotație externă (laterală)). distal phalanx
-  Middle phalanx distal articulații interfalangiene (IF) proximal articulații interfalangiene
-  (IF) 4th articulații metacarpofalangiene (MCF) proximal phalanx (raza centrală)
-  Fig. 4.44 Fourth falange.
+- Incidența degetului examinat trebuie să fie oblică la 45°.
+- Nu trebuie să existe suprapunerea degetelor mâinii adiacente.
+- Spațiile articulațiilor interfalangiene (IF) și metacarpofalangiene (MCF) trebuie
+  să fie deschise, indicând localizarea corectă a razei centrale și faptul că falangele
+  sunt paralele cu receptorul de imagine.
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la articulația interfalangiană
+  proximală (IF) (Fig. 4.43 și 4.44). Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, cu absența mișcării,
+  evidențiază marginile clare ale părților moi, contururile osoase și trabeculația
+  nete, fără artefacte de mișcare. Fig. 4.43 Al patrulea deget (rotație externă (laterală)).
+  Falangă distală; falangă mijlocie; articulații interfalangiene (IF) distale; articulații
+  interfalangiene (IF) proximale; articulații metacarpofalangiene (MCF) ale degetului
+  4; falangă proximală (raza centrală). Fig. 4.44 Al patrulea deget.
 sid_dff: 100 cm
 slug: rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager
 sources:
@@ -73,24 +79,25 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la affected finger și distal aspect
-    de metacarpal. Optional medial oblic Second falange also poate fie taken în a
-    45° medial oblic (Police side down) cu Police și other Degete Mână flectat la
-    prevent superimposition (Fig. 4.40). This poziție places part closer la receptorul
-    de imagine pentru improved definition but poate fie more painful pentru pacientul.
-    rotație externă (laterală) de Mână este recommended la evidențiază third, fourth,
-    și fifth falange (Figs. 4.41 și 4.42). Degete Mână ROUTINE PA PA oblic lateral
-    Fig. 4.39 Second falange (rotație externă (laterală)). Fig. 4.40 Second falange
-    (rotație internă (medială)). Fig. 4.41 Third falange (rotație externă (laterală)).
-    Fig. 4.42 Fifth falange (rotație externă (laterală)).
+  collimation: 'Dimensiunea câmpului: Colimați pe cele patru laturi până la degetul
+    afectat și aspectul distal al metacarpianului. Opțional, a doua falangă poate
+    fi examinată și într-o incidență oblică medială la 45° (partea policelui în jos),
+    cu policele și celelalte degete flectate pentru a preveni suprapunerea (Fig. 4.40).
+    Această poziție plasează partea mai aproape de receptorul de imagine pentru o
+    definiție îmbunătățită, dar poate fi mai dureroasă pentru pacient. Rotația externă
+    (laterală) a mâinii este recomandată pentru evidențierea falangelor a treia, a
+    patra și a cincea (Fig. 4.41 și 4.42). Degete ale mâinii: de rutină PA; PA oblică;
+    laterală. Fig. 4.39 A doua falangă (rotație externă (laterală)). Fig. 4.40 A doua
+    falangă (rotație internă (medială)). Fig. 4.41 A treia falangă (rotație externă
+    (laterală)). Fig. 4.42 A cincea falangă (rotație externă (laterală)).'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '55'
   mas: DE CONFIGURAT PE APARAT
-title: Rx MEDIAL OR Rotație Externă (Laterală) PA Oblică (Degete Mână)
+title: Rx medială sau rotație externă (laterală) PA oblică (degetele mâinii)
 ---
-# Rx MEDIAL OR Rotație Externă (Laterală) PA Oblică (Degete Mână)
+# Rx medială sau rotație externă (laterală) PA oblică (degetele mâinii)
 
 
 <div class="rx-meta-bar">
@@ -109,23 +116,24 @@ title: Rx MEDIAL OR Rotație Externă (Laterală) PA Oblică (Degete Mână)
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de distal, middle, și proximal falange; distal metacarpal; și associated articulații
-        - Pathologies such ca osteoporosis și artroză / modificări degenerative articulare
+        - suspiciune de fractură și luxație / subluxație articulară a falangelor distale, mijlocii și proximale; a metacarpianului distal; și a articulațiilor asociate
+        - Patologii precum osteoporoza și artroza / modificări degenerative articulare
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table, cu Cot flectat about 90° cu Mână și Pumn (Articulație Radiocarpiană) resting pe receptorul de imagine și Degete Mână extins.; Regiune anatomică: cu Degete Mână extins against 45° foam wedge block, place Mână în a 45° lateral oblic (Police side up) (Fig. 4.39). poziție Mână pe receptorul de imagine astfel încât axa longitudinală de finger este aliniat cu axa longitudinală de receptorul de imagine. Separate Degete Mână și carefully place finger that este being examined against block, so it este sprijinit în a 45° oblic și paralel cu receptorul de imagine.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la pIp articulație
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei, cu cotul flectat la aproximativ 90°, cu mâna și pumnul (articulația radiocarpiană) sprijinite pe receptorul de imagine și degetele mâinii extinse.; Regiune anatomică: Cu degetele mâinii extinse pe blocul de spumă în formă de pană la 45°, așezați mâna într-o incidență oblică laterală la 45° (partea policelui în sus) (Fig. 4.39). Poziționați mâna pe receptorul de imagine astfel încât axa longitudinală a degetului să fie aliniată cu axa longitudinală a receptorului de imagine. Separați degetele mâinii și așezați cu grijă degetul examinat pe bloc, astfel încât să fie sprijinit într-o poziție oblică la 45° și paralelă cu receptorul de imagine.
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat spre articulația IFP
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -141,20 +149,20 @@ title: Rx MEDIAL OR Rotație Externă (Laterală) PA Oblică (Degete Mână)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la affected finger și distal aspect de metacarpal. Optional medial oblic Second falange also poate fie taken în a 45° medial oblic (Police side down) cu Police și other Degete Mână flectat la prevent superimposition (Fig. 4.40). This poziție places part closer la receptorul de imagine pentru improved definition but poate fie more painful pentru pacientul. rotație externă (laterală) de Mână este recommended la evidențiază third, fourth, și fifth falange (Figs. 4.41 și 4.42). Degete Mână ROUTINE PA PA oblic lateral Fig. 4.39 Second falange (rotație externă (laterală)). Fig. 4.40 Second falange (rotație internă (medială)). Fig. 4.41 Third falange (rotație externă (laterală)). Fig. 4.42 Fifth falange (rotație externă (laterală)). |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Colimați pe cele patru laturi până la degetul afectat și aspectul distal al metacarpianului. Opțional, a doua falangă poate fi examinată și într-o incidență oblică medială la 45° (partea policelui în jos), cu policele și celelalte degete flectate pentru a preveni suprapunerea (Fig. 4.40). Această poziție plasează partea mai aproape de receptorul de imagine pentru o definiție îmbunătățită, dar poate fi mai dureroasă pentru pacient. Rotația externă (laterală) a mâinii este recomandată pentru evidențierea falangelor a treia, a patra și a cincea (Fig. 4.41 și 4.42). Degete ale mâinii: de rutină PA; PA oblică; laterală. Fig. 4.39 A doua falangă (rotație externă (laterală)). Fig. 4.40 A doua falangă (rotație internă (medială)). Fig. 4.41 A treia falangă (rotație externă (laterală)). Fig. 4.42 A cincea falangă (rotație externă (laterală)). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - oblic incidență de distal, middle, și proximal falange; distal metacarpal; și associated articulații. poziție:
-    - axa longitudinală de finger trebuie să fie aliniat cu side margine de receptorul de imagine.
-    - incidență de finger being examined trebuie să fie 45° oblic.
-    - fără superimposition de adjacent Degete Mână trebuie să occur.
-    - IP și articulații metacarpofalangiene (MCF) spaces trebuie să fie open, indicating correct raza centrală location și that falange sunt paralel cu receptorul de imagine.
-    - raza centrală și center de collimation field size trebuie să fie la pIp articulație (Figs. 4.43 și 4.44). expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază părți moi margins și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.43 Fourth falange (rotație externă (laterală)). distal phalanx Middle phalanx distal articulații interfalangiene (IF) proximal articulații interfalangiene (IF) 4th articulații metacarpofalangiene (MCF) proximal phalanx (raza centrală) Fig. 4.44 Fourth falange.
+    - Incidență oblică a falangelor distală, mijlocie și proximală; metacarpianului distal; și articulațiilor asociate. Poziție:
+    - Axa longitudinală a degetului trebuie să fie aliniată cu marginea laterală a receptorului de imagine.
+    - Incidența degetului examinat trebuie să fie oblică la 45°.
+    - Nu trebuie să existe suprapunerea degetelor mâinii adiacente.
+    - Spațiile articulațiilor interfalangiene (IF) și metacarpofalangiene (MCF) trebuie să fie deschise, indicând localizarea corectă a razei centrale și faptul că falangele sunt paralele cu receptorul de imagine.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la articulația interfalangiană proximală (IF) (Fig. 4.43 și 4.44). Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, cu absența mișcării, evidențiază marginile clare ale părților moi, contururile osoase și trabeculația nete, fără artefacte de mișcare. Fig. 4.43 Al patrulea deget (rotație externă (laterală)). Falangă distală; falangă mijlocie; articulații interfalangiene (IF) distale; articulații interfalangiene (IF) proximale; articulații metacarpofalangiene (MCF) ale degetului 4; falangă proximală (raza centrală). Fig. 4.44 Al patrulea deget.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -174,49 +182,49 @@ title: Rx MEDIAL OR Rotație Externă (Laterală) PA Oblică (Degete Mână)
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.39 Second falange (rotație externă (laterală)).](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_1.jpeg)
+![Fig. 4.39 A doua falangă (rotație externă (laterală)).](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.39 Second falange (rotație externă (laterală)).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.39 Second falange (rotație externă (laterală)).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.40 Second falange (rotație internă (medială)).](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.40 Second falange (rotație internă (medială)).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.40 Second falange (rotație internă (medială)).)</span></figcaption>
+<figcaption><strong>Fig. 4.39 A doua falangă (rotație externă (laterală)).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.39 A doua falangă (rotație externă (laterală)).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.41 Third falange (lateral](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_3.jpeg)
+![Fig. 4.40 A doua falangă (rotație internă (medială)).](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.41 Third falange (lateral</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.41 Third falange (lateral)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.42 Fifth falange (lateral](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 4.42 Fifth falange (lateral</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.42 Fifth falange (lateral)</span></figcaption>
+<figcaption><strong>Fig. 4.40 A doua falangă (rotație internă (medială)).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.40 A doua falangă (rotație internă (medială)).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.43 Fourth falange](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_5.jpeg)
+![Fig. 4.41 A treia falangă (laterală](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.43 Fourth falange</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.43 Fourth falange)</span></figcaption>
+<figcaption><strong>Fig. 4.41 A treia falangă (laterală</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.41 A treia falangă (laterală)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.44 Fourth falange.](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_6.jpeg)
+![Fig. 4.42 A cincea falangă (laterală](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 4.44 Fourth falange.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.44 Fourth falange.)</span></figcaption>
+<figcaption><strong>Fig. 4.42 A cincea falangă (laterală</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.42 A cincea falangă (laterală)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.43 A patra falangă](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_5.jpeg)
+
+<figcaption><strong>Fig. 4.43 A patra falangă</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.43 A patra falangă)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.44 A patra falangă.](../../assets/images/protocols/bontrager/rx-medial-or-lateral-rotation-pa-oblica-degete-mana-bontrager/fig_6.jpeg)
+
+<figcaption><strong>Fig. 4.44 A patra falangă.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.44 A patra falangă.)</span></figcaption>
 
 </figure>
 

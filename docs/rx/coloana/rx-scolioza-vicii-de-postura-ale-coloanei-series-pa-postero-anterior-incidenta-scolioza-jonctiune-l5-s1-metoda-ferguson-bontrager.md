@@ -25,6 +25,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.55
     în ortostatism, cu înălțător)
   url: assets/images/protocols/bontrager/rx-scolioza-vicii-de-postura-ale-coloanei-series-pa-postero-anterior-incidenta-scolioza-jonctiune-l5-s1-metoda-ferguson-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: În această examinare nu trebuie utilizată nicio formă de susținere (de
@@ -39,12 +43,12 @@ position: 'Pacient: Ortostatism. Se plasează pacientul în ortostatism (poziți
   9.52). Pentru a doua imagine, se plasează un bloc sub picior (sau sub șold, dacă
   pacientul este în poziție șezândă) pe partea convexă a curbei, astfel încât pacientul
   să-și poată menține cu greu poziția fără asistență. Se poate utiliza un bloc de
-  3 la 4inch (8 la 10cm), de orice tip, sub fese dacă pacientul este așezat sau sub
+  3 la 4 țol (8 la 10cm), de orice tip, sub fese dacă pacientul este așezat sau sub
   picior dacă este în ortostatism (Fig. 9.53).; Regiune anatomică: Se aliniază planul
   mediosagital cu raza centrală și linia mediană a mesei și/sau receptorul de imagine.
   Se verifică absența rotației: claviculele sunt riguros echidistante față de linia
   proceselor spinoase ale toracelui sau bazinului, dacă este posibil. Se plasează
-  receptorul de imagine astfel încât să includă minimum 1 la 2 inches (2.5 la 5 cm)
+  receptorul de imagine astfel încât să includă minimum 1 la 2 țoli (2.5 la 5 cm)
   sub creasta iliacă (corespunzător L4-L5).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
@@ -53,7 +57,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Coloana toracică și lombară, inclusiv 1 la 2 inches (2.5 la 5 cm) din creasta iliacă
+- Coloana toracică și lombară, inclusiv 1 la 2 țoli (2.5 la 5 cm) din creasta iliacă
   (corespunzător L4-L5)s (Fig. 9.54 și 9.55). Poziție
 - Fără rotația pacientului, indicată prin coloana toracică și lombară cu procesele
   spinoase aliniate cu linia mediană vertebrală și simetria aripilor iliace și a sacrului
@@ -104,16 +108,17 @@ title: Rx scolioză / vicii de postură ale coloanei SERIE PA (postero-anterioar
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Ortostatism. Se plasează pacientul în ortostatism (poziție șezândă sau în ortostatism), cu fața spre masa de examinare și brațele pe lângă corp (Fig. 9.52). Pentru a doua imagine, se plasează un bloc sub picior (sau sub șold, dacă pacientul este în poziție șezândă) pe partea convexă a curbei, astfel încât pacientul să-și poată menține cu greu poziția fără asistență. Se poate utiliza un bloc de 3 la 4inch (8 la 10cm), de orice tip, sub fese dacă pacientul este așezat sau sub picior dacă este în ortostatism (Fig. 9.53).; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și linia mediană a mesei și/sau receptorul de imagine. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă este posibil. Se plasează receptorul de imagine astfel încât să includă minimum 1 la 2 inches (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5).
+    - **Poziție Pacient:** Pacient: Ortostatism. Se plasează pacientul în ortostatism (poziție șezândă sau în ortostatism), cu fața spre masa de examinare și brațele pe lângă corp (Fig. 9.52). Pentru a doua imagine, se plasează un bloc sub picior (sau sub șold, dacă pacientul este în poziție șezândă) pe partea convexă a curbei, astfel încât pacientul să-și poată menține cu greu poziția fără asistență. Se poate utiliza un bloc de 3 la 4 țol (8 la 10cm), de orice tip, sub fese dacă pacientul este așezat sau sub picior dacă este în ortostatism (Fig. 9.53).; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și linia mediană a mesei și/sau receptorul de imagine. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau bazinului, dacă este posibil. Se plasează receptorul de imagine astfel încât să includă minimum 1 la 2 țoli (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5).
     - **Punct de Centrare Fascicul:** Se direcționează raza centrală (RC) perpendicular pe receptorul de imagine. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 150 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, la sfârșitul expirului.
@@ -137,7 +142,7 @@ title: Rx scolioză / vicii de postură ale coloanei SERIE PA (postero-anterioar
 
     ---
 
-    - Coloana toracică și lombară, inclusiv 1 la 2 inches (2.5 la 5 cm) din creasta iliacă (corespunzător L4-L5)s (Fig. 9.54 și 9.55). Poziție
+    - Coloana toracică și lombară, inclusiv 1 la 2 țoli (2.5 la 5 cm) din creasta iliacă (corespunzător L4-L5)s (Fig. 9.54 și 9.55). Poziție
     - Fără rotația pacientului, indicată prin coloana toracică și lombară cu procesele spinoase aliniate cu linia mediană vertebrală și simetria aripilor iliace și a sacrului superior.
     - Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
     - Evidențiere clară a marginilor osoase și a desenului trabecular al coloanei toracice și lombare.
@@ -152,6 +157,7 @@ title: Rx scolioză / vicii de postură ale coloanei SERIE PA (postero-anterioar
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: În această examinare nu trebuie utilizată nicio formă de susținere (de exemplu, o bandă de compresie). Pentru a doua imagine, pacientul trebuie să stea în picioare sau să șadă cu un bloc sub o parte, fără ajutor. Se efectuează incidențe PA pentru a reduce doza în zonele radiosensibile ale tiroidei și sânilor. Fig. 9.54 Ortostatism, fără înălțător. Scolioză / vicii de postură ale coloanei SERIE SPECIALĂ PA—Incidență pentru scolioză / joncțiunea L5-S1 (metoda Ferguson) AP—înclinare spre dreapta și spre stânga

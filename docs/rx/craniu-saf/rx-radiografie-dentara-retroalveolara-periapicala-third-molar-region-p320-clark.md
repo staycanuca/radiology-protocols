@@ -39,6 +39,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p320-clark/fig_2.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -109,26 +113,24 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Regiunea molarului
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • capul pacientului trebuie să fie sprijinit adecvat, cu planul mediosagital vertical și planul ocluzal maxilar orizontal.
-• poziționați filmul radiologic intraoral astfel încât fața anterioară (sau suprafața de expunere) să fie orientată spre tubul de raze X.
-• filmul radiologic este poziționat suficient de posterior pentru a acoperi regiunea molarului de minte, cu marginea anterioară acoperind exact al doilea premolar.
-• filmul radiologic este sprijinit cu degetul arătător al pacientului sau cu policele.
-Este poziționat astfel încât 2 mm din pachetul filmului radiologic să depășească planul ocluzal, pentru a asigura imaginea dintelui în întregime.
-Planul imaginii trebuie să fie plat pentru a reduce efectele de distorsiune produse de îndoire.
-    - **Punct de Centrare Fascicul:** • Tubul de raze X este centrat și angulat conform indicațiilor din tabelul de examinare de la p. 298 pentru regiunea molarilor maxilari.
-• Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea orizontală, iar filmul radiologic să fie expus.
-Examinarea completă a cavității bucale sau examinarea completă a cavității bucale este alcătuită dintr-o serie de filme radiologice retroalveolare individuale care acoperă toți dinții și osul alveolar dentat al arcadelor dentare. Majoritatea pacienților necesită 14 filme radiologice retroalveolare pentru îndeplinirea acestor cerințe.
-Tehnica atentă este esențială pentru a reduce necesitatea repetării examinărilor.
-Radiografia retroalveolară a regiunii molare drepte evidențiind molarul de minte maxilar în dezvoltare. Radiografia retroalveolară a regiunii molare stângi evidențiind anatomia normală a tuberozității, planșeului antrului și aspectului inferior al osului zigomatic.
+    - **Poziție Pacient:**
+        - capul pacientului trebuie să fie sprijinit adecvat, cu planul mediosagital vertical și planul ocluzal maxilar orizontal.
+        - poziționați filmul radiologic intraoral astfel încât fața anterioară (sau suprafața de expunere) să fie orientată spre tubul de raze X.
+        - filmul radiologic este poziționat suficient de posterior pentru a acoperi regiunea molarului de minte, cu marginea anterioară acoperind exact al doilea premolar.
+        - filmul radiologic este sprijinit cu degetul arătător al pacientului sau cu policele. Este poziționat astfel încât 2 mm din pachetul filmului radiologic să depășească planul ocluzal, pentru a asigura imaginea dintelui în întregime. Planul imaginii trebuie să fie plat pentru a reduce efectele de distorsiune produse de îndoire.
+    - **Punct de Centrare Fascicul:**
+        - Tubul de raze X este centrat și angulat conform indicațiilor din tabelul de examinare de la p. 298 pentru regiunea molarilor maxilari.
+        - Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea orizontală, iar filmul radiologic să fie expus. Examinarea completă a cavității bucale sau examinarea completă a cavității bucale este alcătuită dintr-o serie de filme radiologice retroalveolare individuale care acoperă toți dinții și osul alveolar dentat al arcadelor dentare. Majoritatea pacienților necesită 14 filme radiologice retroalveolare pentru îndeplinirea acestor cerințe. Tehnica atentă este esențială pentru a reduce necesitatea repetării examinărilor. Radiografia retroalveolară a regiunii molare drepte evidențiind molarul de minte maxilar în dezvoltare. Radiografia retroalveolară a regiunii molare stângi evidențiind anatomia normală a tuberozității, planșeului antrului și aspectului inferior al osului zigomatic.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -164,6 +166,7 @@ Radiografia retroalveolară a regiunii molare drepte evidențiind molarul de min
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

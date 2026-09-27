@@ -15,6 +15,10 @@ contrast:
   timing: 30-35 secunde delay (fază arterială/mediastinală timpurie)
   trigger: N/A
   volume: 80-100 mL
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 3 (Moderată 5 - 8 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 notes:
   additional_recons: MIP și MinIP pentru decelarea nodulilor micronodulari și a bronșiilor
@@ -90,10 +94,14 @@ title: CT Torace Nativ & cu Contrast (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 5 - 8 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

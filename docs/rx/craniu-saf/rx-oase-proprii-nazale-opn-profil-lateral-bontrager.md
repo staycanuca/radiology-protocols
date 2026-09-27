@@ -4,7 +4,7 @@ breathing: Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) DE RU
   profil lateral Parietoacantial (Incidență occipito-mentonieră (Metoda Waters))
 category: craniu-saf
 centering: Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați
-  raza centrală la ½ inch (1.25 cm) inferior de nazion.
+  raza centrală la ½ țol (1.25 cm) inferior de nazion.
 clinical_indications:
 - În cazul suspiciunii de fractură a oaselor proprii nazale, ambele părți (bilateral)
   trebuie examinate pentru comparație, partea cea mai apropiată de receptorul de imagine
@@ -23,6 +23,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     3)
   url: assets/images/protocols/bontrager/rx-oase-proprii-nazale-opn-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -61,7 +65,7 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Colimați pe toate laturile la maximum 2 inches (5 cm) de osul nazal.
+  collimation: Colimați pe toate laturile la maximum 2 țoli (5 cm) de osul nazal.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
@@ -93,17 +97,18 @@ title: Rx Oase Proprii Nazale (OPN) — Profil (Lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice sau din plastic din regiunea capului și gâtului. Pacientul este poziționat în decubit semipron sau în ortostatism.; Regiune anatomică: Se sprijină aspectul lateral opus al capului pe / de suprafața mesei/dispozitivului de imagistică pentru ortostatism, cu partea de interes cea mai apropiată de receptorul de imagine. Poziționați oasele proprii nazale (OPN) în centrul receptorului de imagine. Ajustați capul în incidență de profil (lateral) și corpul în poziție oblică, după necesitățile de confort ale pacientului (Fig. 11.138). Aliniați MSP paralel cu suprafața mesei/dispozitivului de imagistică pentru ortostatism. Aliniați linia interpupilară (LIP) perpendicular pe suprafața mesei/dispozitivului de imagistică pentru ortostatism. Poziționați linia infraorbitomeatală (LIOM) perpendiculară și GAl paralel cu marginea anterioară a receptorului de imagine.
-    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați raza centrală la ½ inch (1.25 cm) inferior de nazion.
+    - **Punct de Centrare Fascicul:** Aliniați raza centrală (RC) perpendicular pe receptorul de imagine. Centrați raza centrală la ½ țol (1.25 cm) inferior de nazion.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii. fără AEC Oase Proprii Nazale (OPN) DE RUTINĂ, profil lateral Parietoacantial (Incidență occipito-mentonieră (Metoda Waters))
 
@@ -119,7 +124,7 @@ title: Rx Oase Proprii Nazale (OPN) — Profil (Lateral)
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Colimați pe toate laturile la maximum 2 inches (5 cm) de osul nazal. |
+    | **Colimare Fascicul** | Colimați pe toate laturile la maximum 2 țoli (5 cm) de osul nazal. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__

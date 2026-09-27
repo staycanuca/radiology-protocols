@@ -3,30 +3,36 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: "• Centre la maleolă medială (tibială), cu raza centrală centrală înclinat\
-  \ 20 grade caudally.\n20\x06 radiografie de Articulații Subtalare – Profil (lateral)\
-  \ Oblică incidență"
+centering: '• Se centrează pe maleola medială (tibială), cu raza centrală înclinată
+  caudal la 20 grade.
+
+  20° Radiografie a articulațiilor subtalare — incidență oblică de profil (lateral).'
 clinical_indications:
-- 123 4 Articulații Subtalare Profil (lateral) Oblică
+- 123 4 articulațiile subtalare — profil (lateral), oblică
 images:
-- caption: radiografie de Articulații Subtalare – Profil (lateral) Oblică incidență
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: radiografie a articulațiilor subtalare — incidență oblică, profil (lateral)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-articulatii-subtalare-profil-lateral-oblica-p138-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-subtalare-profil-lateral-oblica-p138-clark/fig_2.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• pacientul este culcat pe partea afectată.
+position: '• Pacientul este culcat pe partea afectată.
 
-  • opposite limb este flectat și brought în front de affected limb.
+  • Membrul opus este flectat și adus în fața membrului afectat.
 
-  • affected Picior și membru inferior sunt now further rotit laterally until plantar
-  aspect de Picior este approximately 45 grade la caseta.
+  • Piciorul și membrul inferior afectate sunt apoi rotite lateral până când fața
+  plantară a piciorului este la aproximativ 45 grade față de casetă.
 
-  • lower edge de caseta este poziționat just below plantar aspect de heel.'
+  • Marginea inferioară a casetei este poziționată chiar sub fața plantară a călcâiului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -35,7 +41,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Articulații Subtalare).
+- Vizualizarea clară a întregii arii anatomice (articulațiile subtalare).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -47,14 +53,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Articulații Subtalare Profil (Lateral) Oblică
+  mas: Conform AEC / grosimii anatomice
+title: Rx articulațiile subtalare — profil (lateral), oblică
 ---
-# Rx Articulații Subtalare Profil (Lateral) Oblică
+# Rx articulațiile subtalare — profil (lateral), oblică
 
 
 <div class="rx-meta-bar">
@@ -73,26 +79,28 @@ title: Rx Articulații Subtalare Profil (Lateral) Oblică
 
     === "Indicații Clinice"
 
-        - 123 4 Articulații Subtalare Profil (lateral) Oblică
+        - 123 4 articulațiile subtalare — profil (lateral), oblică
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat pe partea afectată.
-• opposite limb este flectat și brought în front de affected limb.
-• affected Picior și membru inferior sunt now further rotit laterally until plantar aspect de Picior este approximately 45 grade la caseta.
-• lower edge de caseta este poziționat just below plantar aspect de heel.
-    - **Punct de Centrare Fascicul:** • Centre la maleolă medială (tibială), cu raza centrală centrală înclinat 20 grade caudally.
-20 radiografie de Articulații Subtalare – Profil (lateral) Oblică incidență
+    - **Poziție Pacient:**
+        - Pacientul este culcat pe partea afectată.
+        - Membrul opus este flectat și adus în fața membrului afectat.
+        - Piciorul și membrul inferior afectate sunt apoi rotite lateral până când fața plantară a piciorului este la aproximativ 45 grade față de casetă.
+        - Marginea inferioară a casetei este poziționată chiar sub fața plantară a călcâiului.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează pe maleola medială (tibială), cu raza centrală înclinată caudal la 20 grade. 20° Radiografie a articulațiilor subtalare — incidență oblică de profil (lateral).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -103,19 +111,19 @@ title: Rx Articulații Subtalare Profil (Lateral) Oblică
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Articulații Subtalare).
+    - Vizualizarea clară a întregii arii anatomice (articulațiile subtalare).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -129,6 +137,7 @@ title: Rx Articulații Subtalare Profil (Lateral) Oblică
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -139,9 +148,9 @@ title: Rx Articulații Subtalare Profil (Lateral) Oblică
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie de Articulații Subtalare – Profil (lateral) Oblică incidență](../../assets/images/protocols/clark/rx-articulatii-subtalare-profil-lateral-oblica-p138-clark/fig_1.jpeg)
+![radiografie a articulațiilor subtalare — incidență oblică, profil (lateral)](../../assets/images/protocols/clark/rx-articulatii-subtalare-profil-lateral-oblica-p138-clark/fig_1.jpeg)
 
-<figcaption><strong>radiografie de Articulații Subtalare – Profil (lateral) Oblică incidență</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>radiografie a articulațiilor subtalare — incidență oblică, profil (lateral)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

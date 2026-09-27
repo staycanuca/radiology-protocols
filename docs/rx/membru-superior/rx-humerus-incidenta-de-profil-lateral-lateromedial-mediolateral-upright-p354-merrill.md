@@ -2,7 +2,8 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: perpendicular pe midportion de Humerus și center de receptorul de imagine
+centering: Perpendicular pe porțiunea mediană a humerusului și centrat la receptorul
+  de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,34 +16,40 @@ images:
 - caption: Merrill — pagina 357, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-humerus-incidenta-de-profil-lateral-lateromedial-mediolateral-upright-p354-merrill/p357_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Poziție Șezândă-în ortostatism sau în ortostatism
-  poziție facing x-ray tube. corp poziție, whether oblic sau facing spre sau away
-  de la receptorul de imagine, este nu critical ca long ca true Incidență de Profil
-  (lateral) de braț este obtained.; Place top margin de receptorul de imagine approximately
-  1½ inches (3.8 cm) deasupra nivelului cap humeral. Unless contraindicated prin possible
-  suspiciune de fractură, internally se rotește braț, se flectează Cot approximately
-  90 grade, și se poziționează pacientul’s anterior Mână pe Șold. This places Humerus
-  în Incidență de Profil (lateral). plan coronal passing through epicondyles trebuie
-  să fie perpendicular cu receptorul de imagine plane (Fig. 5.153). pacient cu broken
-  Humerus poate fie easier la poziție prin performing mediolateral incidență ca vizualizat
-  în Fig. 5.154. Face așezat sau în ortostatism pacient spre receptorul de imagine
-  și incline thorax ca necessary la se aliniază Humerus pentru mediolateral incidență.
-  If pacientul este nu already menținerea Mână de broken braț, Se instruiește pacientul
-  să do so. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în poziție șezândă-în ortostatism sau în ortostatism,
+  cu fața spre tubul de raze X. Poziția corpului, fie oblică, fie cu fața spre sau
+  opusă receptorului de imagine, nu este esențială atât timp cât se obține o incidență
+  adevărată de profil (lateral) a brațului. Se plasează marginea superioară a receptorului
+  de imagine la aproximativ 1½ țoli (3.8 cm) deasupra nivelului capului humeral. Cu
+  excepția cazului în care este contraindicată de o posibilă suspiciune de fractură,
+  se rotește brațul intern, se flectează cotul la aproximativ 90 grade și se poziționează
+  mâna anterioară a pacientului pe șold. Aceasta plasează humerusul în incidență de
+  profil (lateral). Planul coronal care trece prin epicondili trebuie să fie perpendicular
+  pe planul receptorului de imagine (Fig. 5.153). Pacientul cu humerus fracturat poate
+  fi poziționat mai ușor prin efectuarea unei incidențe mediolaterale, conform Fig.
+  5.154. Se așază pacientul în poziție șezândă sau în ortostatism, cu fața spre receptorul
+  de imagine, și se înclină toracele după necesități pentru a alinia humerusul pentru
+  incidența mediolaterală. Dacă pacientul nu ține deja mâna brațului fracturat, i
+  se indică să facă acest lucru. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Cot și Umăr articulații vizibil but slightly distorted due la fascicul divergence
-- Superimposed humeral epicondyles
-- mică tuberozitate humerală (trohin) în profile pe medial aspect
-- mare tuberozitate humerală (trohiter) superimposed over cap humeral
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulațiile cotului și umărului sunt vizibile, dar ușor deformate din cauza divergenței
+  fasciculului.
+- Epicondili humerali suprapuși
+- Tuberozitatea mică humerală (trohinul) în profil, pe partea medială.
+- Tuberozitatea mare humerală (trohiterul) suprapusă peste capul humeral.
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-humerus-incidenta-de-profil-lateral-lateromedial-mediolateral-upright-p354-merrill
 source_pages:
@@ -51,67 +58,65 @@ source_pages:
 - 356
 - 357
 source_sections:
-  anatomy: lateral incidență shows entire length de humerus. true lateral imagine
-    este confirmed prin superimposed epicondyles (Fig. 5.155).
-  collimation: '• Adjust câmp de iradiere la 2 inches (5 cm) distal la cot articulație
-    și superior la umăr și 1 inch (2.5 cm) pe sides. Place
+  anatomy: Incidența laterală evidențiază întreaga lungime a humerusului. Imaginea
+    în profil adevărat este confirmată prin suprapunerea epicondililor (Fig. 5.155).
+  collimation: • Se ajustează câmpul de iradiere la 2 țoli (5 cm) distal față de articulația
+    cotului și superior față de umăr și la 1 țol (2.5 cm) pe laturi. Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe porțiunea mijlocie a humerusului și centrat pe receptorul
+    de imagine.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular pe midportion de humerus și center de receptorul de imagine
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulațiile cotului și umărului sunt vizibile, dar ușor deformate din cauza
+    divergenței fasciculului
 
-    • cot și umăr articulații vizibil but slightly distorted due la fascicul divergence
+    • Epicondili humerali suprapuși
 
-    • Superimposed humeral epicondyles
+    • Tuberozitatea mică humerală (trohinul) în profil, pe partea medială
 
-    • mică tuberozitate humerală (trohin) în profile pe medial aspect
+    • Tuberozitatea mare humerală (trohiterul) suprapusă peste capul humeral
 
-    • mare tuberozitate humerală (trohiter) superimposed over cap humeral
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  part_pos: '• Se plasează marginea superioară a receptorului de imagine la aproximativ
+    1½ țoli (3.8 cm) deasupra nivelului capului humeral.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place top margin de receptorul de imagine approximately 1½ inches (3.8
-    cm) deasupra nivelului cap humeral.
+    • Cu excepția cazului în care este contraindicată de o posibilă suspiciune de
+    fractură, se rotește intern brațul, se flectează cotul la aproximativ 90 grade
+    și se poziționează mâna anterioară a pacientului pe șold. Aceasta plasează humerusul
+    în poziție de profil (lateral). Planul coronal care trece prin epicondili trebuie
+    să fie perpendicular pe planul receptorului de imagine (Fig. 5.153).
 
-    • Unless contraindicated prin possible suspiciune de fractură, internally se rotește
-    braț, se flectează cot approximately 90 grade, și se poziționează pacientul’s
+    • Pacientul cu humerus fracturat poate fi poziționat mai ușor prin efectuarea
+    unei incidențe mediolaterale, conform Fig. 5.154. Se așază pacientul în poziție
+    șezândă sau în ortostatism, cu fața spre receptorul de imagine, și se înclină
+    toracele după necesități pentru a alinia humerusul pentru incidența mediolaterală.
+    Dacă pacientul nu ține deja mâna brațului fracturat, i se indică să facă acest
+    lucru.
 
-    anterior mână pe hip. This places humerus în poziție de profil (lateral). plan
-    coronal passing through epicondyles trebuie să fie
-
-    perpendicular cu receptorul de imagine plane (Fig. 5.153).
-
-    • pacient cu broken humerus poate fie easier la poziție prin performing mediolateral
-    incidență ca vizualizat în Fig. 5.154. Face așezat sau în ortostatism pacient
-    spre receptorul de imagine și incline thorax ca necessary la se aliniază humerus
-    pentru mediolateral incidență. If
-
-    pacientul este nu already menținerea mână de broken braț, Se instruiește pacientul
-    să do so.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în așezat pe scaun-în ortostatism sau în ortostatism
-    poziție facing x-ray tube. corp poziție, whether oblic sau facing spre sau
-
-    away de la receptorul de imagine, este nu critical ca long ca true lateral incidență
-    de braț este obtained.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în poziție șezândă-în ortostatism sau în ortostatism,
+    cu fața spre tubul de raze X. Poziția corpului, fie oblică, fie cu fața spre sau
+    opusă receptorului de imagine, nu este esențială atât timp cât se obține o incidență
+    adevărată de profil a brațului.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 354–357
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2 inches (5 cm) distal la Cot articulație
-    și superior la Umăr și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Humerus — Incidență de Profil (Lateral) — Latero-Medial, Medio-Lateral Ortostatism
-  (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 2 țoli (5 cm) distal față de articulația
+    cotului și superior față de umăr și la 1 țol (2.5 cm) pe laturi. Se plasează markerul
+    de lateralitate în câmpul colimat.
+title: Rx Humerus — Incidență de profil (lateral) — Latero-medial, medio-lateral,
+  ortostatism (Merrill)
 ---
-# Rx Humerus — Incidență de Profil (Lateral) — Latero-Medial, Medio-Lateral Ortostatism (Merrill)
+# Rx Humerus — Incidență de profil (lateral) — Latero-medial, medio-lateral, ortostatism (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -135,17 +140,18 @@ title: Rx Humerus — Incidență de Profil (Lateral) — Latero-Medial, Medio-L
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Poziție Șezândă-în ortostatism sau în ortostatism poziție facing x-ray tube. corp poziție, whether oblic sau facing spre sau away de la receptorul de imagine, este nu critical ca long ca true Incidență de Profil (lateral) de braț este obtained.; Place top margin de receptorul de imagine approximately 1½ inches (3.8 cm) deasupra nivelului cap humeral. Unless contraindicated prin possible suspiciune de fractură, internally se rotește braț, se flectează Cot approximately 90 grade, și se poziționează pacientul’s anterior Mână pe Șold. This places Humerus în Incidență de Profil (lateral). plan coronal passing through epicondyles trebuie să fie perpendicular cu receptorul de imagine plane (Fig. 5.153). pacient cu broken Humerus poate fie easier la poziție prin performing mediolateral incidență ca vizualizat în Fig. 5.154. Face așezat sau în ortostatism pacient spre receptorul de imagine și incline thorax ca necessary la se aliniază Humerus pentru mediolateral incidență. If pacientul este nu already menținerea Mână de broken braț, Se instruiește pacientul să do so. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midportion de Humerus și center de receptorul de imagine
+    - **Poziție Pacient:** Se așază pacientul în poziție șezândă-în ortostatism sau în ortostatism, cu fața spre tubul de raze X. Poziția corpului, fie oblică, fie cu fața spre sau opusă receptorului de imagine, nu este esențială atât timp cât se obține o incidență adevărată de profil (lateral) a brațului. Se plasează marginea superioară a receptorului de imagine la aproximativ 1½ țoli (3.8 cm) deasupra nivelului capului humeral. Cu excepția cazului în care este contraindicată de o posibilă suspiciune de fractură, se rotește brațul intern, se flectează cotul la aproximativ 90 grade și se poziționează mâna anterioară a pacientului pe șold. Aceasta plasează humerusul în incidență de profil (lateral). Planul coronal care trece prin epicondili trebuie să fie perpendicular pe planul receptorului de imagine (Fig. 5.153). Pacientul cu humerus fracturat poate fi poziționat mai ușor prin efectuarea unei incidențe mediolaterale, conform Fig. 5.154. Se așază pacientul în poziție șezândă sau în ortostatism, cu fața spre receptorul de imagine, și se înclină toracele după necesități pentru a alinia humerusul pentru incidența mediolaterală. Dacă pacientul nu ține deja mâna brațului fracturat, i se indică să facă acest lucru. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe porțiunea mediană a humerusului și centrat la receptorul de imagine
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -161,20 +167,20 @@ title: Rx Humerus — Incidență de Profil (Lateral) — Latero-Medial, Medio-L
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2 inches (5 cm) distal la Cot articulație și superior la Umăr și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 2 țoli (5 cm) distal față de articulația cotului și superior față de umăr și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Cot și Umăr articulații vizibil but slightly distorted due la fascicul divergence
-    - Superimposed humeral epicondyles
-    - mică tuberozitate humerală (trohin) în profile pe medial aspect
-    - mare tuberozitate humerală (trohiter) superimposed over cap humeral
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulațiile cotului și umărului sunt vizibile, dar ușor deformate din cauza divergenței fasciculului.
+    - Epicondili humerali suprapuși
+    - Tuberozitatea mică humerală (trohinul) în profil, pe partea medială.
+    - Tuberozitatea mare humerală (trohiterul) suprapusă peste capul humeral.
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -183,6 +189,7 @@ title: Rx Humerus — Incidență de Profil (Lateral) — Latero-Medial, Medio-L
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -230,52 +237,3 @@ title: Rx Humerus — Incidență de Profil (Lateral) — Latero-Medial, Medio-L
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 354–357](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență shows entire length de humerus. true lateral imagine este confirmed prin superimposed epicondyles (Fig. 5.155).
-
-### collimation
-
-• Adjust câmp de iradiere la 2 inches (5 cm) distal la cot articulație și superior la umăr și 1 inch (2.5 cm) pe sides. Place
-marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe midportion de humerus și center de receptorul de imagine
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cot și umăr articulații vizibil but slightly distorted due la fascicul divergence
-• Superimposed humeral epicondyles
-• mică tuberozitate humerală (trohin) în profile pe medial aspect
-• mare tuberozitate humerală (trohiter) superimposed over cap humeral
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Place top margin de receptorul de imagine approximately 1½ inches (3.8 cm) deasupra nivelului cap humeral.
-• Unless contraindicated prin possible suspiciune de fractură, internally se rotește braț, se flectează cot approximately 90 grade, și se poziționează pacientul’s
-anterior mână pe hip. This places humerus în poziție de profil (lateral). plan coronal passing through epicondyles trebuie să fie
-perpendicular cu receptorul de imagine plane (Fig. 5.153).
-• pacient cu broken humerus poate fie easier la poziție prin performing mediolateral incidență ca vizualizat în Fig. 5.154. Face așezat sau în ortostatism pacient spre receptorul de imagine și incline thorax ca necessary la se aliniază humerus pentru mediolateral incidență. If
-pacientul este nu already menținerea mână de broken braț, Se instruiește pacientul să do so.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în așezat pe scaun-în ortostatism sau în ortostatism poziție facing x-ray tube. corp poziție, whether oblic sau facing spre sau
-away de la receptorul de imagine, este nu critical ca long ca true lateral incidență de braț este obtained.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
-

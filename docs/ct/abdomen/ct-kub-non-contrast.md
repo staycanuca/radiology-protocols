@@ -9,6 +9,10 @@ clinical_indications:
 contrast:
   agent: Fără substanță de contrast
   type: non-contrast
+iris_reference:
+  chapter: Aparat uro-genital și glande suprarenale
+  radiation_dose: Clasa 3 (Moderată 4 - 7 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-01-01'
 notes:
   additional_recons: Secțiuni submilimetrice sau de 1 mm pentru calculii mici. Măsurători
@@ -62,6 +66,21 @@ series:
   start: Polul superior renal
   thickness: 0.625 mm
 slug: ct-kub-non-contrast
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: AAPM
+  kind: Protocol tehnic standardizat
+  sha256: f0c7c2e31da9a9ed24dbdef7bd5b38994d670ba52d21b702faac79b97ace00c3
+  source_region: US
+  title: AAPM CT Protocols — Adult Abdomen/Pelvis CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — CT Abdomen & Pelvis Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Activat (Modulare automată 3D conform topogramei / scout)
@@ -73,27 +92,12 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Renal-Uretero-Vezical Nativ (CT KUB Doză Redusă)
-sources:
-- title: AAPM CT Protocols — Adult Abdomen/Pelvis CT
-  url: https://www.aapm.org/pubs/ctprotocols/documents/AdultAbdomenPelvisCT.pdf
-  institution: AAPM
-  source_region: US
-  kind: Protocol tehnic standardizat
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: f0c7c2e31da9a9ed24dbdef7bd5b38994d670ba52d21b702faac79b97ace00c3
-- title: UT Southwestern Radiology — CT Abdomen & Pelvis Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Renal-Uretero-Vezical Nativ (CT KUB Doză Redusă)
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -119,10 +123,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
+            - **Capitol Ghid IRIS:** *Aparat uro-genital și glande suprarenale*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 4 - 7 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -207,6 +215,7 @@ sources:
     | Axial | Fază Nativă KUB | Abdomen-Pelvis | 1.25 mm/1.25 mm | Bone |  | Fereastră osoasă pentru delimitarea densității calculilor |
     | Coronal | Fază Nativă KUB | Abdomen-Pelvis | 2.5 mm/2.5 mm | Standard |  | Vedere coronală de ansamblu a tractului urinar |
     | MIP | Fază Nativă KUB | Abdomen-Pelvis | 5 mm/2 mm | Standard |  | Localizare topografică a calculului |
+
 
 ## Surse și revizuire
 

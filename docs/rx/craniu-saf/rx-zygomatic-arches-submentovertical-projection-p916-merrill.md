@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: perpendicular pe linie infraorbitomeatală (LIOM) și entering MSP de throat
-  la level approximately 1 inch (2.5 cm) posterior la outer canthi. Se centrează receptorul
-  de imagine pe raza centrală.
+centering: perpendiculară pe linia infraorbitomeatală (LIOM) și intrând în MSP la
+  nivelul gâtului, la aproximativ 1 țol (2.5 cm) posterior de canții externi. Centrați
+  receptorul de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -20,26 +20,30 @@ images:
 - caption: Merrill — pagina 919, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-zygomatic-arches-submentovertical-projection-p916-merrill/p919_fig4.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Poziție Șezândă în ortostatism sau Decubit dorsal
-  poziție. When Decubit dorsal poziție este used, elevate pacientul’s trunk pe several
-  firm pillows sau suitable pad la allow complete extension de gâtul. se flectează
-  pacient’s genunchi la relax abdominal muscles. Center MSP de pacientul’s corp la
-  linia mediană grilă device.; Hyperextend pacientul’s neck completely astfel încât
-  linie infraorbitomeatală (LIOM) este ca paralel cu plane de receptorul de imagine
-  ca possible. se sprijină pacientul’s cap pe its vertex, și se ajustează cap so that
-  MSP este perpendicular pe plane de receptorul de imagine (Figs. 11.120–11.122).
+position: Așezați pacientul în poziție șezândă, în ortostatism, sau în decubit dorsal.
+  Când se utilizează poziția de decubit dorsal, ridicați trunchiul pacientului pe
+  mai multe perne ferme sau pe un suport adecvat pentru a permite extensia completă
+  a gâtului. Flectați genunchii pacientului pentru a relaxa mușchii abdominali. Centrați
+  MSP al corpului pacientului pe linia mediană a grilei/dispozitivului. Hiperextindeți
+  complet gâtul pacientului astfel încât linia infraorbitomeatală (LIOM) să fie cât
+  mai paralelă posibil cu planul receptorului de imagine. Sprijiniți capul pacientului
+  pe vertex și ajustați capul astfel încât MSP să fie perpendicular pe planul receptorului
+  de imagine (Figs. 11.120–11.122).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii: n Evidence de corect collimation și
-  presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Zygomatic
-  arches liber de la overlying structures n Absența rotației anatomice (simetrie bilaterală
-  perfectă) sau tilt de cap, evidențiat prin:'
-- Zygomatic arches simetric și fără foreshortening n părți moi și bony detalii trabeculare
-  osoase
+- 'Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența
+  markerului de lateralitate (D/S), plasat clar față de anatomia de interes n Arcade
+  zigomatice libere de structurile supraadăugate n Absența rotației anatomice (simetrie
+  bilaterală perfectă) sau a înclinării capului, evidențiată prin:'
+- Arcade zigomatice simetrice și fără scurtare n părți moi și detalii osoase trabeculare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-zygomatic-arches-submentovertical-projection-p916-merrill
 source_pages:
@@ -48,68 +52,66 @@ source_pages:
 - 918
 - 919
 source_sections:
-  anatomy: 'bilateral simetric SMV imagini de zygomatic arches sunt vizualizat, projected
-    liber de superimposed structures (Fig. 11.123). Unless very flat sau
+  anatomy: Imagini SMV bilaterale, simetrice, ale arcadelor zigomatice, vizualizate
+    libere de structurile suprapuse (Fig. 11.123). Cu excepția cazului în care sunt
+    foarte plate sau coborâte traumatic, arcadele, fiind mai îndepărtate de receptorul
+    de imagine, sunt proiectate dincolo de eminențele parietale proeminente prin fasciculul
+    divergent de raze X.
+  collimation: '• Ajustați câmpul de iradiere astfel încât să se extindă 1 țol (2.5
+    cm) dincolo de marginile laterale ale feței, superior până la bărbie și inferior
+    până la gonioane.
 
-    traumatically coborât, arches, being farther de la receptorul de imagine, sunt
-    projected beyond prominent parietal eminences prin divergent x-ray
+    Câmpul de expunere nu trebuie să fie mai mare de 10 țoli (24 cm) în lățime și
+    8 țoli (18 cm) în lungime. Plasați markerul de lateralitate (D/S) în câmpul de
+    expunere colimat.'
+  cr: '• perpendiculară pe linia infraorbitomeatală (LIOM) și intrând în MSP la nivelul
+    gâtului, la aproximativ 1 țol (2.5 cm) posterior de canții externi.
 
-    fascicul.'
-  collimation: '• Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral
-    sides de fața, superiorly la bărbia, și inferiorly la gonions.
+    • Centrați receptorul de imagine pe raza centrală.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    expunere field trebuie să fie fără larger than 10 inches (24 cm) wide și 8 inches
-    (18 cm) long. Place marker de lateralitate (D/S) în collimated
+    n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    expunere field.'
-  cr: '• perpendicular pe linie infraorbitomeatală (LIOM) și entering MSP de throat
-    la level approximately 1 inch (2.5 cm) posterior la outer canthi.
+    n Arcade zigomatice libere de structurile supraadăugate
 
-    • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării capului,
+    evidențiată prin:
 
-    n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Arcade zigomatice simetrice și fără scurtare
 
-    n Zygomatic arches liber de la overlying structures
+    n părți moi și detalii osoase trabeculare'
+  part_pos: '• Hiperextindeți complet gâtul pacientului astfel încât linia infraorbitomeatală
+    (LIOM) să fie cât mai paralelă posibil cu planul receptorului de imagine.
 
-    n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de cap, evidențiat
-    prin:
+    • Sprijiniți capul pacientului pe vertex și ajustați capul astfel încât MSP să
+    fie perpendicular pe planul receptorului de imagine (Figs. 11.120–11.122).'
+  patient_pos: '• Așezați pacientul pe scaun, în ortostatism, sau în decubit dorsal.
 
-    • Zygomatic arches simetric și fără foreshortening
+    • Când se utilizează decubitul dorsal, ridicați trunchiul pacientului pe mai multe
+    perne ferme sau pe un suport adecvat pentru a permite extensia completă a gâtului.
+    Flectați genunchii pacientului pentru a relaxa mușchii abdominali.
 
-    n părți moi și bony detalii trabeculare osoase'
-  part_pos: '• Hyperextend pacientul’s neck completely astfel încât linie infraorbitomeatală
-    (LIOM) este ca paralel cu plane de receptorul de imagine ca possible.
-
-    • se sprijină pacientul’s cap pe its vertex, și se ajustează cap so that MSP este
-    perpendicular pe plane de receptorul de imagine (Figs. 11.120–11.122).'
-  patient_pos: '• se așază pacientul în așezat pe scaun în ortostatism sau decubit
-    dorsal.
-
-    • When decubit dorsal este used, elevate pacientul’s trunk pe several firm pillows
-    sau suitable pad la allow complete extension de
-
-    gâtul. se flectează pacient’s genunchi la relax abdominal muscles.
-
-    • Center MSP de pacientul’s corp la linia mediană grilă device.'
+    • Centrați MSP al corpului pacientului pe linia mediană a grilei/dispozitivului.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) transversal.'
+    × 30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 11. Cranium, pagini 916–919
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides
-    de fața, superiorly la bărbia, și inferiorly la gonions. expunere field trebuie
-    să fie fără larger than 10 inches (24 cm) wide și 8 inches (18 cm) long. Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Zygomatic Arches — Submentovertical Incidență (Merrill)
+  collimation: Ajustați câmpul de iradiere astfel încât să se extindă 1 țol (2.5 cm)
+    dincolo de marginile laterale ale feței, superior până la bărbie și inferior până
+    la gonioane. Câmpul de expunere nu trebuie să fie mai mare de 10 țoli (24 cm)
+    în lățime și 8 țoli (18 cm) în lungime. Plasați markerul de lateralitate (D/S)
+    în câmpul de expunere colimat.
+title: Rx Arcade zigomatice — incidență submentoverticală (Merrill)
 ---
-# Rx Zygomatic Arches — Submentovertical Incidență (Merrill)
+# Rx Arcade zigomatice — incidență submentoverticală (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -133,17 +135,18 @@ title: Rx Zygomatic Arches — Submentovertical Incidență (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Poziție Șezândă în ortostatism sau Decubit dorsal poziție. When Decubit dorsal poziție este used, elevate pacientul’s trunk pe several firm pillows sau suitable pad la allow complete extension de gâtul. se flectează pacient’s genunchi la relax abdominal muscles. Center MSP de pacientul’s corp la linia mediană grilă device.; Hyperextend pacientul’s neck completely astfel încât linie infraorbitomeatală (LIOM) este ca paralel cu plane de receptorul de imagine ca possible. se sprijină pacientul’s cap pe its vertex, și se ajustează cap so that MSP este perpendicular pe plane de receptorul de imagine (Figs. 11.120–11.122).
-    - **Punct de Centrare Fascicul:** perpendicular pe linie infraorbitomeatală (LIOM) și entering MSP de throat la level approximately 1 inch (2.5 cm) posterior la outer canthi. Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Așezați pacientul în poziție șezândă, în ortostatism, sau în decubit dorsal. Când se utilizează poziția de decubit dorsal, ridicați trunchiul pacientului pe mai multe perne ferme sau pe un suport adecvat pentru a permite extensia completă a gâtului. Flectați genunchii pacientului pentru a relaxa mușchii abdominali. Centrați MSP al corpului pacientului pe linia mediană a grilei/dispozitivului. Hiperextindeți complet gâtul pacientului astfel încât linia infraorbitomeatală (LIOM) să fie cât mai paralelă posibil cu planul receptorului de imagine. Sprijiniți capul pacientului pe vertex și ajustați capul astfel încât MSP să fie perpendicular pe planul receptorului de imagine (Figs. 11.120–11.122).
+    - **Punct de Centrare Fascicul:** perpendiculară pe linia infraorbitomeatală (LIOM) și intrând în MSP la nivelul gâtului, la aproximativ 1 țol (2.5 cm) posterior de canții externi. Centrați receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -159,15 +162,15 @@ title: Rx Zygomatic Arches — Submentovertical Incidență (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides de fața, superiorly la bărbia, și inferiorly la gonions. expunere field trebuie să fie fără larger than 10 inches (24 cm) wide și 8 inches (18 cm) long. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă 1 țol (2.5 cm) dincolo de marginile laterale ale feței, superior până la bărbie și inferior până la gonioane. Câmpul de expunere nu trebuie să fie mai mare de 10 țoli (24 cm) în lățime și 8 țoli (18 cm) în lungime. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii: n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest n Zygomatic arches liber de la overlying structures n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de cap, evidențiat prin:
-    - Zygomatic arches simetric și fără foreshortening n părți moi și bony detalii trabeculare osoase
+    - Criterii radiologice de calitate a imaginii: n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes n Arcade zigomatice libere de structurile supraadăugate n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării capului, evidențiată prin:
+    - Arcade zigomatice simetrice și fără scurtare n părți moi și detalii osoase trabeculare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -176,6 +179,7 @@ title: Rx Zygomatic Arches — Submentovertical Incidență (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -231,53 +235,3 @@ title: Rx Zygomatic Arches — Submentovertical Incidență (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 916–919](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-bilateral simetric SMV imagini de zygomatic arches sunt vizualizat, projected liber de superimposed structures (Fig. 11.123). Unless very flat sau
-traumatically coborât, arches, being farther de la receptorul de imagine, sunt projected beyond prominent parietal eminences prin divergent x-ray
-fascicul.
-
-### collimation
-
-• Adjust câmp de iradiere la extend 1 inch (2.5 cm) beyond lateral sides de fața, superiorly la bărbia, și inferiorly la gonions.
-expunere field trebuie să fie fără larger than 10 inches (24 cm) wide și 8 inches (18 cm) long. Place marker de lateralitate (D/S) în collimated
-expunere field.
-
-### cr
-
-• perpendicular pe linie infraorbitomeatală (LIOM) și entering MSP de throat la level approximately 1 inch (2.5 cm) posterior la outer canthi.
-• Se centrează receptorul de imagine pe raza centrală.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-n Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-n Zygomatic arches liber de la overlying structures
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de cap, evidențiat prin:
-• Zygomatic arches simetric și fără foreshortening
-n părți moi și bony detalii trabeculare osoase
-
-### part_pos
-
-• Hyperextend pacientul’s neck completely astfel încât linie infraorbitomeatală (LIOM) este ca paralel cu plane de receptorul de imagine ca possible.
-• se sprijină pacientul’s cap pe its vertex, și se ajustează cap so that MSP este perpendicular pe plane de receptorul de imagine (Figs. 11.120–11.122).
-
-### patient_pos
-
-• se așază pacientul în așezat pe scaun în ortostatism sau decubit dorsal.
-• When decubit dorsal este used, elevate pacientul’s trunk pe several firm pillows sau suitable pad la allow complete extension de
-gâtul. se flectează pacient’s genunchi la relax abdominal muscles.
-• Center MSP de pacientul’s corp la linia mediană grilă device.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) transversal.
-

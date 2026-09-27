@@ -1,11 +1,11 @@
 ---
 author: Referință Merrill
-breathing: Inspir profund complet. expunere este made after second Inspir profund
-  complet la ensure maximum expansion de plămânii.
+breathing: Inspir profund complet. Expunerea se efectuează după al doilea inspir profund
+  complet pentru a asigura expansiunea maximă a plămânilor.
 category: torace
-centering: perpendicular pe axa longitudinală de Stern și center de receptorul de
-  imagine. raza centrală trebuie să enter approximately 3 inches (7.6 cm) below incizură
-  jugulară (furculiță sternală).
+centering: Perpendicular pe axa longitudinală a sternului și centrat pe receptorul
+  de imagine. Raza centrală trebuie să intre la aproximativ 3 țoli (7.6 cm) sub incizura
+  jugulară (furculița sternală).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,148 +15,145 @@ images:
 - caption: Merrill — pagina 190, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill/p190_fig2.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Decubit dorsal poziție este used when pacientul este too ill la sit sau stand.
-  ortostatism este used pentru pacienți în wheelchair who cannot stand și trebuie
-  să remain în wheelchair pentru radiografie. în addition, pacienți pe stretcher poate
-  fie radiographed așezat up cu their membre inferioare dangling over side de stretcher
-  și their back pe / sprijinit de în ortostatism receptorul de imagine. Resnick 2
-  recommended înclinat Incidență Antero-Posterioară (AP) la liber basal portions de
-  câmpuri pulmonare de la superimposition prin anterior diaphragmatic, abdominal,
-  și cardiac structures. He reported that this incidență also diferitiates middle
-  lobe și lingular processes de la lower lobe disease. pentru this incidență, pacientul
-  poate fie either în ortostatism sau Decubit dorsal, și raza centrală este orientat
-  la midsternal region la un unghi de 30 grade caudal. Resnick stated that more suitable
-  angulation poate fie chosen based pe preliminary imagini.
-position: se așază pacientul în Decubit dorsal sau ortostatism cu back pe / sprijinit
-  de grilă.; se centrează plan mediosagital de Torace la receptorul de imagine. se
-  ajustează receptorul de imagine astfel încât upper margine este 1.5 la 2 inches
-  (3.8 la 5 cm) above relaxat umeri. If pacient condition allows, se flectează pacient’s
-  coate, pronate mâinile, și place mâinile pe șoldurile la draw scapulae laterally.
-  se ajustează umeri la lie în same plan transversal (Fig. 3.56). se efectuează ecranarea
+notes: Poziția în decubit dorsal este utilizată când pacientul este prea bolnav pentru
+  a sta așezat sau în ortostatism. Ortostatismul este utilizat pentru pacienții aflați
+  în scaun cu rotile, care nu pot sta în picioare și trebuie să rămână în scaunul
+  cu rotile pentru radiografie. În plus, pacienții aflați pe targă pot fi radiografiați
+  în poziție șezândă, cu membrele inferioare atârnând peste marginea tărgii și cu
+  spatele pe / sprijinit de receptorul de imagine utilizat în ortostatism. Resnick
+  2 a recomandat o incidență antero-posterioară (AP) înclinat pentru a elibera porțiunile
+  bazale ale câmpurilor pulmonare de suprapunerea structurilor diafragmatice, abdominale
+  și cardiace anterioare. El a raportat că această incidență diferențiază, de asemenea,
+  procesele lobului mijlociu și lingulare de afecțiunile lobului inferior. Pentru
+  această incidență, pacientul poate fi fie în ortostatism, fie în decubit dorsal,
+  iar raza centrală este orientată către regiunea midsternală, la un unghi caudal
+  de 30 grade. Resnick a afirmat că o angulare mai potrivită poate fi aleasă pe baza
+  imaginilor preliminare.
+position: Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele pe /
+  sprijinit de grilă.; se centrează planul mediosagital al toracelui la receptorul
+  de imagine. Se ajustează receptorul de imagine astfel încât marginea superioară
+  să fie cu 1.5 până la 2 țoli (3.8 până la 5 cm) deasupra umerilor relaxați. Dacă
+  starea pacientului permite, se flectează coatele pacientului, se pronează mâinile
+  și se așază mâinile pe șolduri pentru a deplasa omoplații lateral. Se ajustează
+  umerii pentru a se afla în același plan transversal (Fig. 3.56). Se efectuează ecranarea
   gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire plămâni, de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Plămânii în întregime, de la apexuri (vârfuri pulmonare) la sinusurile costodiafragmatice
 - Absența rotației anatomice (simetrie bilaterală perfectă)
-- Sternal ends de clavicles echidistant față de coloană vertebrală
-- Trachea vizibil în linia mediană
-- Equal distance de la coloană vertebrală la lateral margine de Coaste (Grilaj Costal)
-  pe fiecare side
-- Clavicles appear more orizontal than în Incidență Postero-Anterioară (PA).
-- Approximately 1 inch de pulmonary apexuri (vârfuri pulmonare) trebuie să fie seen
-  superior la clavicles.
-- Pulmonary vascular markings de la hilar regions la periphery de plămânii
-sid_dff: SID of 72 inches (183 cm) is recommended. A shorter SID may be required depending
-  on the equipment and space available.
+- Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+- Traheea vizibilă pe linia mediană
+- Distanță egală de la coloana vertebrală la marginea laterală a coastelor (grilajului
+  costal) de fiecare parte
+- Claviculele apar mai orizontale decât în incidența postero-anterioară (PA).
+- Aproximativ 1 țol din apexurile pulmonare (vârfurile pulmonare) trebuie să fie vizibil
+  deasupra claviculelor.
+- Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
+sid_dff: Se recomandă o SID de 72 inci (183 cm). Poate fi necesară o SID mai mică,
+  în funcție de echipament și de spațiul disponibil.
 slug: rx-torace-incidenta-antero-posterioara-ap-a-decubit-dorsal-or-upright-p188-merrill
 source_pages:
 - 188
 - 189
 - 190
 source_sections:
-  anatomy: 'AP incidență de thoracic viscera (Fig. 3.57) shows imagine similar la
-    PA incidență (Fig. 3.58). Being farther de la receptorul de imagine, cordul
+  anatomy: Incidența AP a viscerelor toracice (Fig. 3.57) prezintă o imagine similară
+    incidenței PA (Fig. 3.58). Fiind mai departe de receptorul de imagine, cordul
+    și vasele mari sunt mărite și congestionate, iar câmpurile pulmonare apar mai
+    scurte deoarece compresia abdominală deplasează cupolele diafragmatice la un nivel
+    mai înalt. Claviculele sunt proiectate mai sus, iar coastele capătă un aspect
+    mai orizontal.
+  collimation: • Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de contururi pe ambele părți (bilateral), dar fără a
+    depăși 14 inci (35 cm). Pentru receptorul de imagine orientat transversal, dimensiunile
+    se inversează. Dimensiunea verticală poate fi mai mică la pacienții de talie mică.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe axa longitudinală a sternului și centrat pe receptorul de
+    imagine. Raza centrală trebuie să pătrundă la aproximativ 3 inci (7.6 cm) sub
+    incizura jugulară (furculița sternală).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    și great vessels sunt magnified și engorged, și câmpuri pulmonare appear shorter
-    because abdominal compression moves cupole diafragmatice la higher
+    • Colimare corectă vizibilă și prezența markerului de lateralitate (D/S), plasat
+    în afara anatomiei de interes
 
-    level. clavicles sunt projected higher, și coaste assume more orizontal appearance.'
-  collimation: '• Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch
-    (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches
-
-    (35 cm). opposite dimensions sunt used pentru transversal receptorul de imagine.
-    vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate
-    (D/S)
-
-    în collimated expunere field.'
-  cr: • perpendicular pe axa longitudinală de sternum și center de receptorul de imagine.
-    raza centrală trebuie să enter approximately 3 inches (7.6 cm) below incizură
-    jugulară (furculiță sternală).
-  criteria: 'Criterii radiologice de calitate imaginii:
-
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
-
-    • Entire plămâni, de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+    • Plămânii în întregime, de la apexuri (vârfuri pulmonare) până la sinusurile
+    costodiafragmatice
 
     • Absența rotației anatomice (simetrie bilaterală perfectă)
 
-    • Sternal ends de clavicles echidistant față de coloană vertebrală
+    • Extremitățile sternale ale claviculelor echidistante față de coloana vertebrală
 
-    • Trachea vizibil în linia mediană
+    • Traheea vizibilă pe linia mediană
 
-    • Equal distance de la coloană vertebrală la lateral margine de coaste pe fiecare
-    side
+    • Distanțe egale de la coloana vertebrală până la marginea laterală a coastelor
+    de fiecare parte
 
-    • Clavicles appear more orizontal than în PA incidență.
+    • Claviculele apar mai orizontale decât în incidența PA.
 
-    • Approximately 1 inch de pulmonary apexuri (vârfuri pulmonare) trebuie să fie
-    seen superior la clavicles.
+    • Aproximativ 1 țol din apexurile pulmonare (vârfurile pulmonare) trebuie să fie
+    vizibil deasupra claviculelor.
 
-    • Pulmonary vascular markings de la hilar regions la periphery de plămânii'
-  notes: 'decubit dorsal este used when pacientul este too ill la sit sau stand. ortostatism
-    este used pentru pacienți în wheelchair who cannot
+    • Desenul vascular pulmonar, de la regiunile hilare până la periferia plămânilor'
+  notes: 'Decubitul dorsal se utilizează când pacientul este prea bolnav pentru a
+    sta în șezut sau în picioare. Poziția verticală se utilizează la pacienții în
+    scaun cu rotile care nu pot sta în picioare și trebuie să rămână în scaunul cu
+    rotile pentru radiografie. În plus, pacienții de pe targă pot fi radiografiați
+    în șezut, cu membrele inferioare atârnând peste marginea tărgii și cu spatele
+    sprijinit de receptorul de imagine vertical.
 
-    stand și trebuie să remain în wheelchair pentru radiografie. în addition, pacienți
-    pe stretcher poate fie radiographed așezat up cu their membre inferioare
+    Resnick 2 a recomandat incidența AP cu înclinare pentru a elibera porțiunile bazale
+    ale câmpurilor pulmonare de suprapunerea structurilor diafragmatice anterioare,
+    abdominale și cardiace. El a raportat că această incidență diferențiază și procesele
+    din lobul mijlociu și lingulă de afecțiunile lobului inferior. Pentru această
+    incidență, pacientul poate fi în ortostatism sau în decubit dorsal, iar raza centrală
+    este orientată spre regiunea mediosternală, la un unghi de 30 grade caudal. Resnick
+    a afirmat că se poate alege o angulare mai potrivită pe baza imaginilor preliminare.'
+  part_pos: '• Se centrează planul mediosagital al toracelui pe receptorul de imagine.
 
-    dangling over side de stretcher și their back pe / sprijinit de în ortostatism
-    receptorul de imagine.
+    • Se ajustează receptorul de imagine astfel încât marginea superioară să fie la
+    1.5 până la 2 inci (3.8 până la 5 cm) deasupra umerilor relaxați.
 
-    Resnick 2 recommended înclinat AP incidență la liber basal portions de câmpuri
-    pulmonare de la superimposition prin anterior
+    • Dacă starea pacientului permite, se flectează coatele, se aduc mâinile în pronație
+    și se așază pe șolduri pentru a deplasa scapulele lateral.
 
-    diaphragmatic, abdominal, și cardiac structures. He reported that this incidență
-    also diferitiates middle lobe și lingular processes de la
+    • Se ajustează umerii astfel încât să fie în același plan transversal (Fig. 3.56).
 
-    lower lobe disease. pentru this incidență, pacientul poate fie either în ortostatism
-    sau în decubit dorsal, și raza centrală este orientat la midsternal region la
-    angle
-
-    de 30 grade caudal. Resnick stated that more suitable angulation poate fie chosen
-    based pe preliminary imagini.'
-  part_pos: '• se centrează plan mediosagital de toracele la receptorul de imagine.
-
-    • se ajustează receptorul de imagine astfel încât upper margine este 1.5 la 2
-    inches (3.8 la 5 cm) above relaxat umeri.
-
-    • If pacient condition allows, se flectează pacient’s coate, pronate mâinile,
-    și place mâinile pe șoldurile la draw scapulae laterally.
-
-    • se ajustează umeri la lie în same plan transversal (Fig. 3.56).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit dorsal sau ortostatism cu back pe /
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele
     sprijinit de grilă.
-  respiration: Inspir profund complet. expunere este made after second Inspir profund
-    complet la ensure maximum expansion de plămânii.
-  sid: SID de 72 inches (183 cm) este recommended. shorter SID poate fie required
-    depending pe equipment și space available.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
+  respiration: Inspir profund complet. Expunerea se efectuează după al doilea inspir
+    profund complet pentru a asigura expansiunea maximă a plămânilor.
+  sid: Se recomandă o SID de 72 inci (183 cm). Poate fi necesară o SID mai mică, în
+    funcție de echipament și de spațiul disponibil.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru orientarea corectă a afișării anatomiei; placă „raza centrală”: 14 × 17
+    inci (35 ×
 
-    43 cm) longitudinal sau transversal pentru hypersthenic pacienți.'
+    43 cm), longitudinal sau transversal pentru pacienții hiperstenici.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    188–190'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 188–190'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch
-    (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches
-    (35 cm). opposite dimensions sunt used pentru transversal receptorul de imagine.
-    vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate
-    (D/S) în collimated expunere field.
-title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal or Ortostatism
+  collimation: Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de contururi pe ambele părți (bilateral), dar fără a
+    depăși 14 inci (35 cm). Pentru receptorul de imagine orientat transversal, dimensiunile
+    se inversează. Dimensiunea verticală poate fi mai mică la pacienții de talie mică.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal sau Ortostatism
   (Merrill)
 ---
-# Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal or Ortostatism (Merrill)
+# Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal sau Ortostatism (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -180,19 +177,20 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal o
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau ortostatism cu back pe / sprijinit de grilă.; se centrează plan mediosagital de Torace la receptorul de imagine. se ajustează receptorul de imagine astfel încât upper margine este 1.5 la 2 inches (3.8 la 5 cm) above relaxat umeri. If pacient condition allows, se flectează pacient’s coate, pronate mâinile, și place mâinile pe șoldurile la draw scapulae laterally. se ajustează umeri la lie în same plan transversal (Fig. 3.56). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală de Stern și center de receptorul de imagine. raza centrală trebuie să enter approximately 3 inches (7.6 cm) below incizură jugulară (furculiță sternală).
-    - **Distanță Focar-Film (DFF / SID):** SID of 72 inches (183 cm) is recommended. A shorter SID may be required depending on the equipment and space available.
-    - **Comandă Respiratorie:** Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în ortostatism, cu spatele pe / sprijinit de grilă.; se centrează planul mediosagital al toracelui la receptorul de imagine. Se ajustează receptorul de imagine astfel încât marginea superioară să fie cu 1.5 până la 2 țoli (3.8 până la 5 cm) deasupra umerilor relaxați. Dacă starea pacientului permite, se flectează coatele pacientului, se pronează mâinile și se așază mâinile pe șolduri pentru a deplasa omoplații lateral. Se ajustează umerii pentru a se afla în același plan transversal (Fig. 3.56). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe axa longitudinală a sternului și centrat pe receptorul de imagine. Raza centrală trebuie să intre la aproximativ 3 țoli (7.6 cm) sub incizura jugulară (furculița sternală).
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID de 72 inci (183 cm). Poate fi necesară o SID mai mică, în funcție de echipament și de spațiul disponibil.
+    - **Comandă Respiratorie:** Inspir profund complet. Expunerea se efectuează după al doilea inspir profund complet pentru a asigura expansiunea maximă a plămânilor.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -202,27 +200,27 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal o
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | SID of 72 inches (183 cm) is recommended. A shorter SID may be required depending on the equipment and space available. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID de 72 inci (183 cm). Poate fi necesară o SID mai mică, în funcție de echipament și de spațiul disponibil. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches (35 cm). opposite dimensions sunt used pentru transversal receptorul de imagine. vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 17 inci (43 cm) longitudinal și la 1 țol (2.5 cm) dincolo de contururi pe ambele părți (bilateral), dar fără a depăși 14 inci (35 cm). Pentru receptorul de imagine orientat transversal, dimensiunile se inversează. Dimensiunea verticală poate fi mai mică la pacienții de talie mică. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire plămâni, de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Plămânii în întregime, de la apexuri (vârfuri pulmonare) la sinusurile costodiafragmatice
     - Absența rotației anatomice (simetrie bilaterală perfectă)
-    - Sternal ends de clavicles echidistant față de coloană vertebrală
-    - Trachea vizibil în linia mediană
-    - Equal distance de la coloană vertebrală la lateral margine de Coaste (Grilaj Costal) pe fiecare side
-    - Clavicles appear more orizontal than în Incidență Postero-Anterioară (PA).
-    - Approximately 1 inch de pulmonary apexuri (vârfuri pulmonare) trebuie să fie seen superior la clavicles.
-    - Pulmonary vascular markings de la hilar regions la periphery de plămânii
+    - Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+    - Traheea vizibilă pe linia mediană
+    - Distanță egală de la coloana vertebrală la marginea laterală a coastelor (grilajului costal) de fiecare parte
+    - Claviculele apar mai orizontale decât în incidența postero-anterioară (PA).
+    - Aproximativ 1 țol din apexurile pulmonare (vârfurile pulmonare) trebuie să fie vizibil deasupra claviculelor.
+    - Desenul vascular pulmonar de la regiunile hilare până la periferia plămânilor
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -232,8 +230,9 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal o
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Decubit dorsal poziție este used when pacientul este too ill la sit sau stand. ortostatism este used pentru pacienți în wheelchair who cannot stand și trebuie să remain în wheelchair pentru radiografie. în addition, pacienți pe stretcher poate fie radiographed așezat up cu their membre inferioare dangling over side de stretcher și their back pe / sprijinit de în ortostatism receptorul de imagine. Resnick 2 recommended înclinat Incidență Antero-Posterioară (AP) la liber basal portions de câmpuri pulmonare de la superimposition prin anterior diaphragmatic, abdominal, și cardiac structures. He reported that this incidență also diferitiates middle lobe și lingular processes de la lower lobe disease. pentru this incidență, pacientul poate fie either în ortostatism sau Decubit dorsal, și raza centrală este orientat la midsternal region la un unghi de 30 grade caudal. Resnick stated that more suitable angulation poate fie chosen based pe preliminary imagini.
+    Poziția în decubit dorsal este utilizată când pacientul este prea bolnav pentru a sta așezat sau în ortostatism. Ortostatismul este utilizat pentru pacienții aflați în scaun cu rotile, care nu pot sta în picioare și trebuie să rămână în scaunul cu rotile pentru radiografie. În plus, pacienții aflați pe targă pot fi radiografiați în poziție șezândă, cu membrele inferioare atârnând peste marginea tărgii și cu spatele pe / sprijinit de receptorul de imagine utilizat în ortostatism. Resnick 2 a recomandat o incidență antero-posterioară (AP) înclinat pentru a elibera porțiunile bazale ale câmpurilor pulmonare de suprapunerea structurilor diafragmatice, abdominale și cardiace anterioare. El a raportat că această incidență diferențiază, de asemenea, procesele lobului mijlociu și lingulare de afecțiunile lobului inferior. Pentru această incidență, pacientul poate fi fie în ortostatism, fie în decubit dorsal, iar raza centrală este orientată către regiunea midsternală, la un unghi caudal de 30 grade. Resnick a afirmat că o angulare mai potrivită poate fi aleasă pe baza imaginilor preliminare.
 
 
 ### 🖼️ Imagini
@@ -262,7 +261,7 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal o
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (SID of 72 inches (183 cm) is recommended. A shorter SID may be required depending on the equipment and space available.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID de 72 inci (183 cm). Poate fi necesară o SID mai mică, în funcție de echipament și de spațiul disponibil.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -270,70 +269,3 @@ title: Rx Torace — Incidență Antero-Posterioară (AP) a — Decubit Dorsal o
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 188–190](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP incidență de thoracic viscera (Fig. 3.57) shows imagine similar la PA incidență (Fig. 3.58). Being farther de la receptorul de imagine, cordul
-și great vessels sunt magnified și engorged, și câmpuri pulmonare appear shorter because abdominal compression moves cupole diafragmatice la higher
-level. clavicles sunt projected higher, și coaste assume more orizontal appearance.
-
-### collimation
-
-• Adjust câmp de iradiere la 17 inches (43 cm) longitudinal și 1 inch (2.5 cm) beyond shadows pe ambele părți (bilateral) but fără more than 14 inches
-(35 cm). opposite dimensions sunt used pentru transversal receptorul de imagine. vertical dimension poate fie less pentru smaller pacienți. Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-• perpendicular pe axa longitudinală de sternum și center de receptorul de imagine. raza centrală trebuie să enter approximately 3 inches (7.6 cm) below incizură jugulară (furculiță sternală).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire plămâni, de la apexuri (vârfuri pulmonare) la sinusuri costodiafragmatice
-• Absența rotației anatomice (simetrie bilaterală perfectă)
-• Sternal ends de clavicles echidistant față de coloană vertebrală
-• Trachea vizibil în linia mediană
-• Equal distance de la coloană vertebrală la lateral margine de coaste pe fiecare side
-• Clavicles appear more orizontal than în PA incidență.
-• Approximately 1 inch de pulmonary apexuri (vârfuri pulmonare) trebuie să fie seen superior la clavicles.
-• Pulmonary vascular markings de la hilar regions la periphery de plămânii
-
-### notes
-
-decubit dorsal este used when pacientul este too ill la sit sau stand. ortostatism este used pentru pacienți în wheelchair who cannot
-stand și trebuie să remain în wheelchair pentru radiografie. în addition, pacienți pe stretcher poate fie radiographed așezat up cu their membre inferioare
-dangling over side de stretcher și their back pe / sprijinit de în ortostatism receptorul de imagine.
-Resnick 2 recommended înclinat AP incidență la liber basal portions de câmpuri pulmonare de la superimposition prin anterior
-diaphragmatic, abdominal, și cardiac structures. He reported that this incidență also diferitiates middle lobe și lingular processes de la
-lower lobe disease. pentru this incidență, pacientul poate fie either în ortostatism sau în decubit dorsal, și raza centrală este orientat la midsternal region la angle
-de 30 grade caudal. Resnick stated that more suitable angulation poate fie chosen based pe preliminary imagini.
-
-### part_pos
-
-• se centrează plan mediosagital de toracele la receptorul de imagine.
-• se ajustează receptorul de imagine astfel încât upper margine este 1.5 la 2 inches (3.8 la 5 cm) above relaxat umeri.
-• If pacient condition allows, se flectează pacient’s coate, pronate mâinile, și place mâinile pe șoldurile la draw scapulae laterally.
-• se ajustează umeri la lie în same plan transversal (Fig. 3.56).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau ortostatism cu back pe / sprijinit de grilă.
-
-### respiration
-
-Inspir profund complet. expunere este made after second Inspir profund complet la ensure maximum expansion de plămânii.
-
-### sid
-
-SID de 72 inches (183 cm) este recommended. shorter SID poate fie required depending pe equipment și space available.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal sau transversal pentru hypersthenic pacienți.
-

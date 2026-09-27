@@ -45,6 +45,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-masiv-facial-oase-ale-fetei-mandibula-postero-oblica-anterioara-p288-clark/fig_6.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• imaginea trebuie să includă markerul de lateralitate corect și etichete
@@ -147,28 +151,29 @@ title: 'Radiografia masivului facial (oaselor feței), mandibulă: incidență p
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul casetei aparatului pentru craniu. Alternativ, în caz de traumatism, incidența poate fi efectuată în decubit dorsal pe targa mobilă, obținându-se o incidență antero-posterioară (AP).
-• planul mediosagital al pacientului trebuie să coincidă cu linia mediană a stativului Bucky sau a suportului casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală perpendicular pe stativul Bucky sau suportul casetei.
-• din poziția cu planul mediosagital perpendicular pe casetă, capul este rotit cu 20 grade spre oricare parte, astfel încât vertebrele cervicale să fie proiectate liber de simfiza mentonieră.
-• capul este repoziționat astfel încât regiunea simfizei mentoniere să coincidă cu mijlocul casetei.
-• caseta trebuie poziționată astfel încât mijlocul unei casete de 18 × 24-cm, plasată longitudinal în stativul Bucky sau suportul casetei, să fie centrat la nivelul unghiurilor mandibulei.
-
-• pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul casetei aparatului pentru craniu ori se află în decubit ventral pe masa radiologică. În toate cazurile, capul este rotit pentru a aduce partea examinată a capului în contact cu masa de examinare. Umerii pot fi, de asemenea, rotiți ușor pentru a ajuta pacientul să obțină această poziție.
-• nivelul capului și al stativului Bucky sau suportului casetei este ajustat astfel încât liniile centrale încrucișate să coincidă cu punctul situat la 1 cm de-a lungul liniei orbitomeatale, anterior de meatul auditiv extern.
-• planul mediosagital este adus paralel cu caseta, asigurându-se că linia interpupilară este perpendiculară pe suprafața mesei de examinare și că nazionul și protuberanța occipitală externă sunt echidistante față de aceasta.
-• caseta este plasată longitudinal în suportul casetei, astfel încât să poată fi efectuate două expuneri fără suprapunerea imaginilor.
-    - **Punct de Centrare Fascicul:** • Raza centrală este orientată perpendicular pe casetă și centrată la 5 cm de linia mediană, în direcție opusă părții examinate, la nivelul unghiurilor mandibulei.
-
-• Folosind un fascicul bine colimat sau un con de extensie, raza centrală este înclinată cu 25 de grade caudal și va fi centrată într-un punct situat la 5 cm superior față de articulația îndepărtată de casetă, astfel încât raza centrală să treacă prin articulația mai apropiată de casetă.
+    - **Poziție Pacient:**
+        - pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul casetei aparatului pentru craniu. Alternativ, în caz de traumatism, incidența poate fi efectuată în decubit dorsal pe targa mobilă, obținându-se o incidență antero-posterioară (AP).
+        - planul mediosagital al pacientului trebuie să coincidă cu linia mediană a stativului Bucky sau a suportului casetei. Capul este apoi ajustat pentru a aduce linia orbitomeatală perpendicular pe stativul Bucky sau suportul casetei.
+        - din poziția cu planul mediosagital perpendicular pe casetă, capul este rotit cu 20 grade spre oricare parte, astfel încât vertebrele cervicale să fie proiectate liber de simfiza mentonieră.
+        - capul este repoziționat astfel încât regiunea simfizei mentoniere să coincidă cu mijlocul casetei.
+        - caseta trebuie poziționată astfel încât mijlocul unei casete de 18 × 24-cm, plasată longitudinal în stativul Bucky sau suportul casetei, să fie centrat la nivelul unghiurilor mandibulei.
+        - pacientul stă așezat cu fața spre stativul vertical Bucky sau suportul casetei aparatului pentru craniu ori se află în decubit ventral pe masa radiologică. În toate cazurile, capul este rotit pentru a aduce partea examinată a capului în contact cu masa de examinare. Umerii pot fi, de asemenea, rotiți ușor pentru a ajuta pacientul să obțină această poziție.
+        - nivelul capului și al stativului Bucky sau suportului casetei este ajustat astfel încât liniile centrale încrucișate să coincidă cu punctul situat la 1 cm de-a lungul liniei orbitomeatale, anterior de meatul auditiv extern.
+        - planul mediosagital este adus paralel cu caseta, asigurându-se că linia interpupilară este perpendiculară pe suprafața mesei de examinare și că nazionul și protuberanța occipitală externă sunt echidistante față de aceasta.
+        - caseta este plasată longitudinal în suportul casetei, astfel încât să poată fi efectuate două expuneri fără suprapunerea imaginilor.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală este orientată perpendicular pe casetă și centrată la 5 cm de linia mediană, în direcție opusă părții examinate, la nivelul unghiurilor mandibulei.
+        - Folosind un fascicul bine colimat sau un con de extensie, raza centrală este înclinată cu 25 de grade caudal și va fi centrată într-un punct situat la 5 cm superior față de articulația îndepărtată de casetă, astfel încât raza centrală să treacă prin articulația mai apropiată de casetă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -203,11 +208,11 @@ title: 'Radiografia masivului facial (oaselor feței), mandibulă: incidență p
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • imaginea trebuie să includă markerul de lateralitate corect și etichete pentru indicarea poziției gurii în momentul efectuării expunerii (deschisă, închisă etc.).
-• Dacă se utilizează un aparat pentru craniu la care tubul nu poate fi înclinat independent de suportul casetei, linia interpupilară este perpendiculară pe linia verticală imaginară trasată de la podea.
-• Această incidență poate completa imaginile DPT (OPT) ale ATM-urilor. Incidențele postero-anterioare (PA) pot fi efectuate prin modificarea tehnicii descrise pentru mandibulă postero-anterioară (PA) la p. 272.
-274 25° Gură deschisă (transorală) închisă
+    - imaginea trebuie să includă markerul de lateralitate corect și etichete pentru indicarea poziției gurii în momentul efectuării expunerii (deschisă, închisă etc.).
+    - Dacă se utilizează un aparat pentru craniu la care tubul nu poate fi înclinat independent de suportul casetei, linia interpupilară este perpendiculară pe linia verticală imaginară trasată de la podea.
+    - Această incidență poate completa imaginile DPT (OPT) ale ATM-urilor. Incidențele postero-anterioare (PA) pot fi efectuate prin modificarea tehnicii descrise pentru mandibulă postero-anterioară (PA) la p. 272. 274 25° Gură deschisă (transorală) închisă
 
 
 ### 🖼️ Imagini

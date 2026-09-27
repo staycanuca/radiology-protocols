@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe midpoint de Antebraț
+centering: perpendicular pe mijlocul antebrațului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,31 +18,38 @@ images:
 - caption: Merrill — pagina 318, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-antebrat-incidenta-antero-posterioara-ap-p316-merrill/p318_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun close la masa radiologică și low enough la place
-  entire extremity în same plane.; Supinate Mână, se extinde Cot, și place dorsal
-  surface de Antebraț pe / sprijinit de receptorul de imagine. se ajustează receptorul
-  de imagine astfel încât axa longitudinală este paralel cu Antebraț. Se instruiește
-  pacientul să lean laterally until Antebraț este în true în supinație poziție (Fig.
-  5.104). Because proximal Antebraț este commonly rotit în this poziție, palpate și
-  se ajustează humeral epicondyles la fie echidistant față de receptorul de imagine.
-  Ensure that Mână este în supinație (Fig. 5.105). Pronation de Mână crosses radius
-  over ulna la its proximal third și rotates Humerus medially, resulting în Incidență
-  Oblică de Antebraț (Fig. 5.106). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Așezați pacientul pe scaun, aproape de masa radiologică și suficient de
+  jos pentru a plasa întreaga extremitate în același plan. Supinați mâna, extindeți
+  cotul și plasați suprafața dorsală a antebrațului pe/sprijinită de receptorul de
+  imagine. Ajustați receptorul de imagine astfel încât axa longitudinală să fie paralelă
+  cu antebrațul. Instruiți pacientul să se încline lateral până când antebrațul se
+  află în poziție de supinație adevărată (Fig. 5.104). Deoarece antebrațul proximal
+  este frecvent rotat în această poziție, palpați și ajustați epicondilii humerali
+  astfel încât să fie echidistanți față de receptorul de imagine. Asigurați-vă că
+  mâna este în supinație (Fig. 5.105). Pronația mâinii suprapune radiusul peste ulna
+  în treimea sa proximală și rotește humerusul medial, rezultând o incidență oblică
+  a antebrațului (Fig. 5.106). Efectuați ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire Antebraț, including Pumn (Articulație Radiocarpiană) și distal Humerus
-- Slight superimposition de cap radial, neck, și tuberosity over proximal ulna
-- fără elongation sau foreshortening de humeral epicondyles
-- Partially open Cot articulație if Umăr was plasat în same plane ca Antebraț
-- Open radioulnar space
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Antebrațul în întregime, incluzând pumnul (articulația radiocarpiană) și humerusul
+  distal
+- Ușoară suprapunere a capului radial, colului și tuberozității peste ulna proximală
+- fără alungirea sau scurtarea aparentă a epicondililor humerali
+- Articulația cotului parțial deschisă dacă umărul a fost plasat în același plan cu
+  antebrațul
+- Spațiu radioulnar deschis
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-antebrat-incidenta-antero-posterioara-ap-p316-merrill
 source_pages:
@@ -50,64 +57,63 @@ source_pages:
 - 317
 - 318
 source_sections:
-  anatomy: cot articulație, radius și ulna, și proximal row de slightly distorted
-    oase carpiene (Fig. 5.107).
-  collimation: '• Adjust câmp de iradiere la 2 inches (5 cm) distal la wrist articulație
-    și proximal la cot articulație și 1 inch (2.5 cm) pe sides. Place
+  anatomy: articulația cotului, radiusul și ulna și rândul proximal de oase carpiene
+    ușor deformate (Fig. 5.107).
+  collimation: • Ajustați câmpul de iradiere la 2 țoli (5 cm) distal de articulația
+    pumnului și proximal de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe mijlocul antebrațului
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular pe midpoint de forearm
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Antebrațul în întregime, incluzând pumnul și humerusul distal
 
-    • Entire forearm, including wrist și distal humerus
+    • Ușoară suprapunere a capului radial, colului și tuberozității peste ulna proximală
 
-    • Slight superimposition de cap radial, neck, și tuberosity over proximal ulna
+    • fără alungirea sau scurtarea aparentă a epicondililor humerali
 
-    • fără elongation sau foreshortening de humeral epicondyles
+    • Articulația cotului parțial deschisă dacă umărul a fost plasat în același plan
+    cu antebrațul
 
-    • Partially open cot articulație if umăr was plasat în same plane ca forearm
+    • Spațiu radioulnar deschis
 
-    • Open radioulnar space
+    • Detalii osoase trabeculare și țesuturile moi adiacente'
+  part_pos: '• Supinați mâna, extindeți cotul și plasați suprafața dorsală a antebrațului
+    pe/sprijinită de receptorul de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Supinate mână, se extinde cot, și place dorsal surface de forearm pe
-    / sprijinit de receptorul de imagine.
+    • Ajustați receptorul de imagine astfel încât axa longitudinală să fie paralelă
+    cu antebrațul.
 
-    • se ajustează receptorul de imagine astfel încât axa longitudinală este paralel
-    cu forearm.
+    • Instruiți pacientul să se încline lateral până când antebrațul se află în poziție
+    de supinație adevărată (Fig. 5.104).
 
-    • Se instruiește pacientul să lean laterally until forearm este în true în supinație
-    poziție (Fig. 5.104).
+    • Deoarece antebrațul proximal este frecvent rotat în această poziție, palpați
+    și ajustați epicondilii humerali astfel încât să fie echidistanți față de receptorul
+    de imagine.
 
-    • Because proximal forearm este commonly rotit în this poziție, palpate și se
-    ajustează humeral epicondyles la fie echidistant față de
+    • Asigurați-vă că mâna este în supinație (Fig. 5.105). Pronația mâinii suprapune
+    radiusul peste ulna în treimea sa proximală și rotește humerusul medial, rezultând
+    o incidență oblică a antebrațului (Fig. 5.106).
 
-    receptorul de imagine.
-
-    • Ensure that mână este în supinație (Fig. 5.105). Pronation de mână crosses radius
-    over ulna la its proximal third și rotates
-
-    humerus medially, resulting în oblic incidență de forearm (Fig. 5.106).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun close la masa radiologică și low enough
-    la place entire extremity în same plane.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.'
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul pe scaun, aproape de masa radiologică și suficient
+    de jos pentru a plasa întreaga extremitate în același plan.
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17
+    țoli (35 × 43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 316–318
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2 inches (5 cm) distal la Pumn (Articulație
-    Radiocarpiană) articulație și proximal la Cot articulație și 1 inch (2.5 cm) pe
-    sides. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Antebraț — Incidență Antero-Posterioară (AP) (Merrill)
+  collimation: Ajustați câmpul de iradiere la 2 țoli (5 cm) distal de articulația
+    pumnului și proximal de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați
+    markerul de lateralitate în câmpul colimat.
+title: Rx antebraț — incidență anteroposterioară (AP) (Merrill)
 ---
-# Rx Antebraț — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx antebraț — incidență anteroposterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -131,17 +137,18 @@ title: Rx Antebraț — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun close la masa radiologică și low enough la place entire extremity în same plane.; Supinate Mână, se extinde Cot, și place dorsal surface de Antebraț pe / sprijinit de receptorul de imagine. se ajustează receptorul de imagine astfel încât axa longitudinală este paralel cu Antebraț. Se instruiește pacientul să lean laterally until Antebraț este în true în supinație poziție (Fig. 5.104). Because proximal Antebraț este commonly rotit în this poziție, palpate și se ajustează humeral epicondyles la fie echidistant față de receptorul de imagine. Ensure that Mână este în supinație (Fig. 5.105). Pronation de Mână crosses radius over ulna la its proximal third și rotates Humerus medially, resulting în Incidență Oblică de Antebraț (Fig. 5.106). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de Antebraț
+    - **Poziție Pacient:** Așezați pacientul pe scaun, aproape de masa radiologică și suficient de jos pentru a plasa întreaga extremitate în același plan. Supinați mâna, extindeți cotul și plasați suprafața dorsală a antebrațului pe/sprijinită de receptorul de imagine. Ajustați receptorul de imagine astfel încât axa longitudinală să fie paralelă cu antebrațul. Instruiți pacientul să se încline lateral până când antebrațul se află în poziție de supinație adevărată (Fig. 5.104). Deoarece antebrațul proximal este frecvent rotat în această poziție, palpați și ajustați epicondilii humerali astfel încât să fie echidistanți față de receptorul de imagine. Asigurați-vă că mâna este în supinație (Fig. 5.105). Pronația mâinii suprapune radiusul peste ulna în treimea sa proximală și rotește humerusul medial, rezultând o incidență oblică a antebrațului (Fig. 5.106). Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe mijlocul antebrațului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -157,21 +164,21 @@ title: Rx Antebraț — Incidență Antero-Posterioară (AP) (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2 inches (5 cm) distal la Pumn (Articulație Radiocarpiană) articulație și proximal la Cot articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2 țoli (5 cm) distal de articulația pumnului și proximal de articulația cotului și la 1 țol (2.5 cm) pe laturi. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Antebraț, including Pumn (Articulație Radiocarpiană) și distal Humerus
-    - Slight superimposition de cap radial, neck, și tuberosity over proximal ulna
-    - fără elongation sau foreshortening de humeral epicondyles
-    - Partially open Cot articulație if Umăr was plasat în same plane ca Antebraț
-    - Open radioulnar space
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Antebrațul în întregime, incluzând pumnul (articulația radiocarpiană) și humerusul distal
+    - Ușoară suprapunere a capului radial, colului și tuberozității peste ulna proximală
+    - fără alungirea sau scurtarea aparentă a epicondililor humerali
+    - Articulația cotului parțial deschisă dacă umărul a fost plasat în același plan cu antebrațul
+    - Spațiu radioulnar deschis
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -180,6 +187,7 @@ title: Rx Antebraț — Incidență Antero-Posterioară (AP) (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -235,49 +243,3 @@ title: Rx Antebraț — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 316–318](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-cot articulație, radius și ulna, și proximal row de slightly distorted oase carpiene (Fig. 5.107).
-
-### collimation
-
-• Adjust câmp de iradiere la 2 inches (5 cm) distal la wrist articulație și proximal la cot articulație și 1 inch (2.5 cm) pe sides. Place
-marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular pe midpoint de forearm
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire forearm, including wrist și distal humerus
-• Slight superimposition de cap radial, neck, și tuberosity over proximal ulna
-• fără elongation sau foreshortening de humeral epicondyles
-• Partially open cot articulație if umăr was plasat în same plane ca forearm
-• Open radioulnar space
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Supinate mână, se extinde cot, și place dorsal surface de forearm pe / sprijinit de receptorul de imagine.
-• se ajustează receptorul de imagine astfel încât axa longitudinală este paralel cu forearm.
-• Se instruiește pacientul să lean laterally until forearm este în true în supinație poziție (Fig. 5.104).
-• Because proximal forearm este commonly rotit în this poziție, palpate și se ajustează humeral epicondyles la fie echidistant față de
-receptorul de imagine.
-• Ensure that mână este în supinație (Fig. 5.105). Pronation de mână crosses radius over ulna la its proximal third și rotates
-humerus medially, resulting în oblic incidență de forearm (Fig. 5.106).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun close la masa radiologică și low enough la place entire extremity în same plane.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal.
-

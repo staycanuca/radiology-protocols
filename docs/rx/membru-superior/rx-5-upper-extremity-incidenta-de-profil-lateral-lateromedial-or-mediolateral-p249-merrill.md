@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe PIP articulație de afected falange
+centering: perpendicular pe articulația PIP a falangei afectate
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -30,47 +30,54 @@ images:
 - caption: Merrill — pagina 253, imaginea 8
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-5-upper-extremity-incidenta-de-profil-lateral-lateromedial-or-mediolateral-p249-merrill/p253_fig8.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică.; Because lateral
-  falange poziții sunt dificult la hold, tell pacientul how falange este ajustat pe
-  receptorul de imagine și evidențiază cu your own finger. Allow pacientul la assume
-  most comfortable braț poziție. Se instruiește pacientul să se extinde falange la
-  fie examined. Close rest de falange into fist, și hold them în complete flexion
-  cu Police. Support Cot pe săculeți cu nisip sau provide other suitable support when
-  Cot trebuie să fie ridicat la bring falange into poziție. cu falange under examination
-  extins și other falange folded into fist, Se instruiește pacientul să’s Mână rest
-  pe lateral, sau radial, surface pentru second sau third falange (Figs. 5.20 și 5.21)
-  sau pe medial, sau ulnar, surface pentru fourth sau fifth falange (Figs. 5.22 și
-  5.23). Before making final adjustment de falange poziție, place receptorul de imagine
-  astfel încât midline este paralel cu axa longitudinală de falange. se centrează
-  receptorul de imagine la PIP articulație. Rest second și fifth falange directly
-  pe receptorul de imagine, but pentru precis imagine de bones și articulații, elevate
-  third și fourth falange și place their long axes paralel cu plane de receptorul
-  de imagine. radiolucent sponge poate fie used la support falange. se imobilizează
-  extins falange prin placing strip de adhesive tape, tongue depressor, sau other
-  support against its palmar surface. pacientul poate hold support cu opposite Mână.
-  se ajustează anterior sau posterior rotație de Mână la obtain true Incidență de
-  Profil (lateral) de falange. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul pe scaun, la capătul mesei radiologice. Deoarece poziționarea
+  laterală a falangelor este dificil de menținut, i se explică pacientului cum este
+  ajustată falanga pe receptorul de imagine și se indică acest lucru cu propriul deget.
+  Se permite pacientului să adopte cea mai confortabilă poziție a brațului. Se instruiește
+  pacientul să extindă falanga examinată. Celelalte falange se închid în pumn și se
+  mențin în flexie completă cu policele. Se sprijină cotul pe săculeți cu nisip sau
+  se asigură un alt suport adecvat atunci când cotul trebuie ridicat pentru a aduce
+  falanga în poziție. Cu falanga examinată extinsă și celelalte falange pliate în
+  pumn, se instruiește pacientul să-și sprijine mâna pe suprafața laterală, sau radială,
+  pentru a doua sau a treia falangă (Figs. 5.20 și 5.21) sau pe suprafața medială,
+  sau ulnară, pentru a patra sau a cincea falangă (Figs. 5.22 și 5.23). Înainte de
+  ajustarea finală a poziției falangei, se plasează receptorul de imagine astfel încât
+  linia mediană să fie paralelă cu axa longitudinală a falangei. Se centrează receptorul
+  de imagine la articulația PIP. A doua și a cincea falangă se sprijină direct pe
+  receptorul de imagine, dar, pentru o imagine precisă a oaselor și articulațiilor,
+  se ridică a treia și a patra falangă și se plasează axele lor longitudinale paralel
+  cu planul receptorului de imagine. Pentru susținerea falangei se poate utiliza un
+  burete radiotransparent. Se imobilizează falanga extinsă prin plasarea unei benzi
+  de leucoplast, a unui depresor lingual sau a unui alt suport pe suprafața sa palmară.
+  Pacientul poate ține suportul cu mâna opusă. Se ajustează rotația anterioară sau
+  posterioară a mâinii pentru a obține incidența de profil adevărată a falangei. Se
+  efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire falange de la fingertip la distal portion de adjoining metacarpal
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întreaga falangă, de la vârful degetului până la porțiunea distală a metacarpianului
+  adiacent
 - 'Absența rotației anatomice (simetrie bilaterală perfectă):'
-- Fingernail în profile, if visualized și normal
-- Concave, anterior surfaces de falange
-- fără superimposition de proximal phalanx sau articulații metacarpofalangiene (MCF)
-  prin adjacent falange
-- Open articulații interfalangiene (IF) spaces
-- 'Bony detalii trabeculare osoase și surrounding soft tissues OPTION: Some radiographers
-  se rotește second falange medially de la în pronație poziție (Fig. 5.36). advantage
-  de medially rotating falange este that part este closer la receptorul de imagine
-  pentru improved resolution și increased visibility de certain suspiciune de fractură.
-  3'
+- Unghia în profil, dacă este vizualizată și este normală
+- Suprafețele anterioare concave ale falangei
+- fără suprapunerea falangei proximale sau a articulațiilor metacarpofalangiene (MCF)
+  de către falangele adiacente
+- Spații articulare interfalangiene (IF) deschise
+- 'Detalii trabeculare osoase și țesuturi moi înconjurătoare. OPȚIONAL: Unii radiografi
+  rotesc medial a doua falangă din poziția de pronație (Fig. 5.36). Avantajul rotirii
+  mediale a falangei este că partea respectivă este mai aproape de receptorul de imagine,
+  pentru o rezoluție îmbunătățită și o vizibilitate crescută a unei anumite suspiciuni
+  de fractură. 3'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-5-upper-extremity-incidenta-de-profil-lateral-lateromedial-or-mediolateral-p249-merrill
 source_pages:
@@ -80,91 +87,86 @@ source_pages:
 - 252
 - 253
 source_sections:
-  anatomy: lateral incidență de afected falange și adjoining distal metacarpal (Figs.
-    5.24 through 5.27).
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Place
-    marker de lateralitate (D/S)
+  anatomy: incidență laterală a falangei afectate și a metacarpianului distal adiacent
+    (Figs. 5.24 până la 5.27).
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene
+    (MCF). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe articulația PIP a falangei afectate
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    în collimated expunere field.'
-  cr: • perpendicular pe PIP articulație de afected falange
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
-
-    • Entire falange de la fingertip la distal portion de adjoining metacarpal
+    • Întreaga falangă, de la vârful degetului până la porțiunea distală a metacarpianului
+    adiacent
 
     • Absența rotației anatomice (simetrie bilaterală perfectă):
 
-    • Fingernail în profile, if visualized și normal
+    • Unghia în profil, dacă este vizualizată și este normală
 
-    • Concave, anterior surfaces de falange
+    • Suprafețele anterioare concave ale falangei
 
-    • fără superimposition de proximal phalanx sau articulații metacarpofalangiene
-    (MCF) prin adjacent falange
+    • fără suprapunerea falangei proximale sau a articulațiilor metacarpofalangiene
+    (MCF) de către falangele adiacente
 
-    • Open articulații interfalangiene (IF) spaces
+    • Spații articulare interfalangiene (IF) deschise
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare
 
-    OPTION: Some radiographers se rotește second falange medially de la în pronație
-    poziție (Fig. 5.36). advantage de medially rotating falange este that part este
-    closer la receptorul de imagine pentru improved resolution și increased visibility
-    de certain suspiciune de fractură. 3'
-  part_pos: '• Because lateral falange poziții sunt dificult la hold, tell pacientul
-    how falange este ajustat pe receptorul de imagine și evidențiază cu your own
+    OPȚIONAL: Unii radiografi rotesc medial a doua falangă din poziția de pronație
+    (Fig. 5.36). Avantajul rotirii mediale a falangei este că partea respectivă este
+    mai aproape de receptorul de imagine, pentru o rezoluție îmbunătățită și o vizibilitate
+    crescută a unei anumite suspiciuni de fractură. 3'
+  part_pos: '• Deoarece poziționarea laterală a falangelor este dificil de menținut,
+    i se explică pacientului cum este ajustată falanga pe receptorul de imagine și
+    se indică acest lucru cu propriul deget. Se permite pacientului să adopte cea
+    mai confortabilă poziție a brațului.
 
-    finger. Allow pacientul la assume most comfortable braț poziție.
+    • Se instruiește pacientul să extindă falanga examinată. Celelalte falange se
+    închid în pumn și se mențin în flexie completă cu policele.
 
-    • Se instruiește pacientul să se extinde falange la fie examined. Close rest de
-    falange into fist, și hold them în complete flexion cu thumb.
+    • Se sprijină cotul pe săculeți cu nisip sau se asigură un alt suport adecvat
+    atunci când cotul trebuie ridicat pentru a aduce falanga în poziție.
 
-    • Support cot pe săculeți cu nisip sau provide other suitable support when cot
-    trebuie să fie ridicat la bring falange into poziție.
+    • Cu falanga examinată extinsă și celelalte falange pliate în pumn, se instruiește
+    pacientul să-și sprijine mâna pe suprafața laterală, sau radială, pentru a doua
+    sau a treia falangă (Figs. 5.20 și 5.21) sau pe suprafața medială, sau ulnară,
+    pentru a patra sau a cincea falangă (Figs. 5.22 și 5.23).
 
-    • cu falange under examination extins și other falange folded into fist, Se instruiește
-    pacientul să’s mână rest pe lateral, sau radial,
+    • Înainte de ajustarea finală a poziției falangei, se plasează receptorul de imagine
+    astfel încât linia mediană să fie paralelă cu axa longitudinală a falangei. Se
+    centrează receptorul de imagine la articulația PIP.
 
-    surface pentru second sau third falange (Figs. 5.20 și 5.21) sau pe medial, sau
-    ulnar, surface pentru fourth sau fifth falange (Figs. 5.22 și
+    • A doua și a cincea falangă se sprijină direct pe receptorul de imagine, dar,
+    pentru o imagine precisă a oaselor și articulațiilor, se ridică a treia și a patra
+    falangă și se plasează axele lor longitudinale paralel cu planul receptorului
+    de imagine. Pentru susținerea falangei se poate utiliza un burete radiotransparent.
 
-    5.23).
+    • Se imobilizează falanga extinsă prin plasarea unei benzi de leucoplast, a unui
+    depresor lingual sau a unui alt suport pe suprafața sa palmară. Pacientul poate
+    ține suportul cu mâna opusă.
 
-    • Before making final adjustment de falange poziție, place receptorul de imagine
-    astfel încât midline este paralel cu axa longitudinală de falange.
+    • Se ajustează rotația anterioară sau posterioară a mâinii pentru a obține incidența
+    de profil adevărată a falangei.
 
-    se centrează receptorul de imagine la PIP articulație.
-
-    • Rest second și fifth falange directly pe receptorul de imagine, but pentru precis
-    imagine de bones și articulații, elevate third și fourth falange
-
-    și place their long axes paralel cu plane de receptorul de imagine. radiolucent
-    sponge poate fie used la support falange.
-
-    • se imobilizează extins falange prin placing strip de adhesive tape, tongue depressor,
-    sau other support against its palmar surface. pacient poate hold support cu opposite
-    mână.
-
-    • se ajustează anterior sau posterior rotație de mână la obtain true poziție de
-    profil (lateral) de falange.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul pe scaun, la capătul mesei radiologice.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 249–253
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Se
-    plasează markerul de lateralitate în câmpul colimat.
-title: Rx Membru Superior — Incidență de Profil (Lateral) — Latero-Medial sau Medio-Lateral
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene
+    (MCF). Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx membru superior — incidență de profil (laterală) — latero-medială sau medio-laterală
   (Merrill)
 ---
-# Rx Membru Superior — Incidență de Profil (Lateral) — Latero-Medial sau Medio-Lateral (Merrill)
+# Rx membru superior — incidență de profil (laterală) — latero-medială sau medio-laterală (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -188,17 +190,18 @@ title: Rx Membru Superior — Incidență de Profil (Lateral) — Latero-Medial 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică.; Because lateral falange poziții sunt dificult la hold, tell pacientul how falange este ajustat pe receptorul de imagine și evidențiază cu your own finger. Allow pacientul la assume most comfortable braț poziție. Se instruiește pacientul să se extinde falange la fie examined. Close rest de falange into fist, și hold them în complete flexion cu Police. Support Cot pe săculeți cu nisip sau provide other suitable support when Cot trebuie să fie ridicat la bring falange into poziție. cu falange under examination extins și other falange folded into fist, Se instruiește pacientul să’s Mână rest pe lateral, sau radial, surface pentru second sau third falange (Figs. 5.20 și 5.21) sau pe medial, sau ulnar, surface pentru fourth sau fifth falange (Figs. 5.22 și 5.23). Before making final adjustment de falange poziție, place receptorul de imagine astfel încât midline este paralel cu axa longitudinală de falange. se centrează receptorul de imagine la PIP articulație. Rest second și fifth falange directly pe receptorul de imagine, but pentru precis imagine de bones și articulații, elevate third și fourth falange și place their long axes paralel cu plane de receptorul de imagine. radiolucent sponge poate fie used la support falange. se imobilizează extins falange prin placing strip de adhesive tape, tongue depressor, sau other support against its palmar surface. pacientul poate hold support cu opposite Mână. se ajustează anterior sau posterior rotație de Mână la obtain true Incidență de Profil (lateral) de falange. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe PIP articulație de afected falange
+    - **Poziție Pacient:** Se așază pacientul pe scaun, la capătul mesei radiologice. Deoarece poziționarea laterală a falangelor este dificil de menținut, i se explică pacientului cum este ajustată falanga pe receptorul de imagine și se indică acest lucru cu propriul deget. Se permite pacientului să adopte cea mai confortabilă poziție a brațului. Se instruiește pacientul să extindă falanga examinată. Celelalte falange se închid în pumn și se mențin în flexie completă cu policele. Se sprijină cotul pe săculeți cu nisip sau se asigură un alt suport adecvat atunci când cotul trebuie ridicat pentru a aduce falanga în poziție. Cu falanga examinată extinsă și celelalte falange pliate în pumn, se instruiește pacientul să-și sprijine mâna pe suprafața laterală, sau radială, pentru a doua sau a treia falangă (Figs. 5.20 și 5.21) sau pe suprafața medială, sau ulnară, pentru a patra sau a cincea falangă (Figs. 5.22 și 5.23). Înainte de ajustarea finală a poziției falangei, se plasează receptorul de imagine astfel încât linia mediană să fie paralelă cu axa longitudinală a falangei. Se centrează receptorul de imagine la articulația PIP. A doua și a cincea falangă se sprijină direct pe receptorul de imagine, dar, pentru o imagine precisă a oaselor și articulațiilor, se ridică a treia și a patra falangă și se plasează axele lor longitudinale paralel cu planul receptorului de imagine. Pentru susținerea falangei se poate utiliza un burete radiotransparent. Se imobilizează falanga extinsă prin plasarea unei benzi de leucoplast, a unui depresor lingual sau a unui alt suport pe suprafața sa palmară. Pacientul poate ține suportul cu mâna opusă. Se ajustează rotația anterioară sau posterioară a mâinii pentru a obține incidența de profil adevărată a falangei. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulația PIP a falangei afectate
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -214,22 +217,22 @@ title: Rx Membru Superior — Incidență de Profil (Lateral) — Latero-Medial 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene (MCF). Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire falange de la fingertip la distal portion de adjoining metacarpal
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întreaga falangă, de la vârful degetului până la porțiunea distală a metacarpianului adiacent
     - Absența rotației anatomice (simetrie bilaterală perfectă):
-    - Fingernail în profile, if visualized și normal
-    - Concave, anterior surfaces de falange
-    - fără superimposition de proximal phalanx sau articulații metacarpofalangiene (MCF) prin adjacent falange
-    - Open articulații interfalangiene (IF) spaces
-    - Bony detalii trabeculare osoase și surrounding soft tissues OPTION: Some radiographers se rotește second falange medially de la în pronație poziție (Fig. 5.36). advantage de medially rotating falange este that part este closer la receptorul de imagine pentru improved resolution și increased visibility de certain suspiciune de fractură. 3
+    - Unghia în profil, dacă este vizualizată și este normală
+    - Suprafețele anterioare concave ale falangei
+    - fără suprapunerea falangei proximale sau a articulațiilor metacarpofalangiene (MCF) de către falangele adiacente
+    - Spații articulare interfalangiene (IF) deschise
+    - Detalii trabeculare osoase și țesuturi moi înconjurătoare. OPȚIONAL: Unii radiografi rotesc medial a doua falangă din poziția de pronație (Fig. 5.36). Avantajul rotirii mediale a falangei este că partea respectivă este mai aproape de receptorul de imagine, pentru o rezoluție îmbunătățită și o vizibilitate crescută a unei anumite suspiciuni de fractură. 3
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -238,6 +241,7 @@ title: Rx Membru Superior — Incidență de Profil (Lateral) — Latero-Medial 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -325,57 +329,3 @@ title: Rx Membru Superior — Incidență de Profil (Lateral) — Latero-Medial 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 249–253](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență de afected falange și adjoining distal metacarpal (Figs. 5.24 through 5.27).
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-• perpendicular pe PIP articulație de afected falange
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire falange de la fingertip la distal portion de adjoining metacarpal
-• Absența rotației anatomice (simetrie bilaterală perfectă):
-• Fingernail în profile, if visualized și normal
-• Concave, anterior surfaces de falange
-• fără superimposition de proximal phalanx sau articulații metacarpofalangiene (MCF) prin adjacent falange
-• Open articulații interfalangiene (IF) spaces
-• Bony detalii trabeculare osoase și surrounding soft tissues
-OPTION: Some radiographers se rotește second falange medially de la în pronație poziție (Fig. 5.36). advantage de medially rotating falange este that part este closer la receptorul de imagine pentru improved resolution și increased visibility de certain suspiciune de fractură. 3
-
-### part_pos
-
-• Because lateral falange poziții sunt dificult la hold, tell pacientul how falange este ajustat pe receptorul de imagine și evidențiază cu your own
-finger. Allow pacientul la assume most comfortable braț poziție.
-• Se instruiește pacientul să se extinde falange la fie examined. Close rest de falange into fist, și hold them în complete flexion cu thumb.
-• Support cot pe săculeți cu nisip sau provide other suitable support when cot trebuie să fie ridicat la bring falange into poziție.
-• cu falange under examination extins și other falange folded into fist, Se instruiește pacientul să’s mână rest pe lateral, sau radial,
-surface pentru second sau third falange (Figs. 5.20 și 5.21) sau pe medial, sau ulnar, surface pentru fourth sau fifth falange (Figs. 5.22 și
-5.23).
-• Before making final adjustment de falange poziție, place receptorul de imagine astfel încât midline este paralel cu axa longitudinală de falange.
-se centrează receptorul de imagine la PIP articulație.
-• Rest second și fifth falange directly pe receptorul de imagine, but pentru precis imagine de bones și articulații, elevate third și fourth falange
-și place their long axes paralel cu plane de receptorul de imagine. radiolucent sponge poate fie used la support falange.
-• se imobilizează extins falange prin placing strip de adhesive tape, tongue depressor, sau other support against its palmar surface. pacient poate hold support cu opposite mână.
-• se ajustează anterior sau posterior rotație de mână la obtain true poziție de profil (lateral) de falange.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

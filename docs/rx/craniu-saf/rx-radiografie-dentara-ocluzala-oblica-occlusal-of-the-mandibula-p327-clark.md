@@ -26,6 +26,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-oblica-occlusal-of-the-mandibula-p327-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -98,23 +102,25 @@ title: Rx Radiografie dentară ocluzală Ocluzală oblică a mandibulei
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical.
-• Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele ocluzale ale dinților inferiori. Filmul radiologic trebuie plasat cu partea filmului radiologic orientată spre planșeul bucal.
-• Axa longitudinală a filmului radiologic este poziționată astfel încât să traverseze cavitatea bucală (adică perpendicular pe planul sagital).
-• Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo de aspectele labiale ale dinților incisivi mandibulari.
-• Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
-• Pacientului i se cere să-și extindă capul posterior, astfel încât planul ocluzal să fie la 35 grade față de orizontală. Aceasta permite poziționarea mai ușoară a tubului adiacent bărbiei. Capul este susținut adecvat în această poziție.
-    - **Punct de Centrare Fascicul:** • Tubul este poziționat pe linia mediană, realizând un unghi ascendent de zece grade (adică o angulație ascendentă totală de 45 grade) față de planul filmului radiologic, cu centrarea prin punctul median al bărbiei.
-312 Ocluzală oblică anterioară a mandibulei Poziționarea pacientului și a tubului radiogen pentru ocluzala oblică anterioară a mandibulei Ocluzală oblică anterioară evidențiind o radiotransparență uniloculară mare în regiunea liniei mediane
+    - **Poziție Pacient:**
+        - Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical.
+        - Filmul ocluzal este plasat orizontal în gura pacientului, sprijinit pe suprafețele ocluzale ale dinților inferiori. Filmul radiologic trebuie plasat cu partea filmului radiologic orientată spre planșeul bucal.
+        - Axa longitudinală a filmului radiologic este poziționată astfel încât să traverseze cavitatea bucală (adică perpendicular pe planul sagital).
+        - Marginea anterioară de atac a filmului radiologic trebuie să se extindă 1 cm dincolo de aspectele labiale ale dinților incisivi mandibulari.
+        - Pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
+        - Pacientului i se cere să-și extindă capul posterior, astfel încât planul ocluzal să fie la 35 grade față de orizontală. Aceasta permite poziționarea mai ușoară a tubului adiacent bărbiei. Capul este susținut adecvat în această poziție.
+    - **Punct de Centrare Fascicul:**
+        - Tubul este poziționat pe linia mediană, realizând un unghi ascendent de zece grade (adică o angulație ascendentă totală de 45 grade) față de planul filmului radiologic, cu centrarea prin punctul median al bărbiei. 312 Ocluzală oblică anterioară a mandibulei Poziționarea pacientului și a tubului radiogen pentru ocluzala oblică anterioară a mandibulei Ocluzală oblică anterioară evidențiind o radiotransparență uniloculară mare în regiunea liniei mediane
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -150,6 +156,7 @@ title: Rx Radiografie dentară ocluzală Ocluzală oblică a mandibulei
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

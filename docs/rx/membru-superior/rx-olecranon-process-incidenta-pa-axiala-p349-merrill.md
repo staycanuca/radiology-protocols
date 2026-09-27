@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe olecran la show dorsum de olecran și la a 20-grade angle
-  spre Pumn (Articulație Radiocarpiană) la show curved extremity și articular margin
-  de olecran (Fig. 5.147)
+centering: Perpendiculară pe olecran pentru a evidenția fața dorsală a olecranului
+  și la un unghi de 20° spre pumn pentru a evidenția extremitatea curbată și marginea
+  articulară a olecranului (Fig. 5.147)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -17,24 +17,29 @@ images:
 - caption: Merrill — pagina 351, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-olecranon-process-incidenta-pa-axiala-p349-merrill/p351_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică, high enough that
-  Antebraț poate rest flat pe receptorul de imagine.; se ajustează braț la un unghi
-  de 45 la 50 grade de la vertical poziție și ensure that pacientul este nu leaning
-  anteriorly sau posteriorly. Supinate Mână, și Se instruiește pacientul să immobilize
-  it cu opposite Mână. Center point midway între epicondyles și center de receptorul
-  de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Așezați pacientul pe scaun la capătul mesei radiologice, suficient de sus
+  pentru ca antebrațul să poată sta întins pe receptorul de imagine. Ajustați brațul
+  la un unghi de 45 la 50 de grade față de poziția verticală și asigurați-vă că pacientul
+  nu se înclină anterior sau posterior. Supinați mâna și instruiți pacientul să o
+  imobilizeze cu mâna opusă. Punctul central se află la jumătatea distanței dintre
+  epicondili și centrul receptorului de imagine. Efectuați ecranarea gonadelor cu
+  șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- olecran în profile
-- Antebraț și Humerus superimposed, fără rotație
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- olecran în profil
+- Antebrațul și humerusul suprapuse, fără rotație
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-olecranon-process-incidenta-pa-axiala-p349-merrill
 source_pages:
@@ -42,50 +47,49 @@ source_pages:
 - 350
 - 351
 source_sections:
-  anatomy: olecran și articular margin de olecran și humerus (Figs. 5.148 through
-    5.150).
-  collimation: • Adjust câmp de iradiere la include distal fourth de humerus și extend
-    1 inch (2.5 cm) beyond olecran și sides pe cot. Se plasează markerul de lateralitate
-    în câmpul colimat.
-  cr: '• perpendicular pe olecran la show dorsum de olecran și la a 20-grade angle
-    spre wrist la show
+  anatomy: Olecranul și marginea articulară a olecranului și humerusului (Fig. 5.148
+    până la 5.150).
+  collimation: • Ajustați câmpul de iradiere pentru a include sfertul distal al humerusului
+    și extindeți-l cu 1 țol (2.5 cm) dincolo de olecran și de laturile cotului. Plasați
+    markerul de lateralitate în câmpul colimat.
+  cr: • Perpendiculară pe olecran pentru a evidenția fața dorsală a olecranului și
+    la un unghi de 20° spre pumn pentru a evidenția extremitatea curbată și marginea
+    articulară a olecranului (Fig. 5.147)
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    curved extremity și articular margin de olecran (Fig. 5.147)'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Olecranul în profil
 
-    • olecran în profile
+    • Antebrațul și humerusul suprapuse, fără rotație
 
-    • Forearm și humerus superimposed, fără rotație
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  part_pos: '• Ajustați brațul la un unghi de 45 la 50 de grade față de poziția verticală
+    și asigurați-vă că pacientul nu se înclină anterior sau posterior.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează braț la un unghi de 45 la 50 grade de la vertical poziție
-    și ensure that pacientul este nu leaning anteriorly sau
+    • Supinați mâna și instruiți pacientul să o imobilizeze cu mâna opusă.
 
-    posteriorly.
+    • Punctul central se află la jumătatea distanței dintre epicondili și centrul
+    receptorului de imagine.
 
-    • Supinate mână, și Se instruiește pacientul să immobilize it cu opposite mână.
-
-    • Center point midway între epicondyles și center de receptorul de imagine.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică, high enough
-    that forearm poate rest flat pe receptorul de imagine.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul pe scaun la capătul mesei radiologice, suficient
+    de sus pentru ca antebrațul să poată sta întins pe receptorul de imagine.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 349–351
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la include distal fourth de Humerus și extend
-    1 inch (2.5 cm) beyond olecran și sides pe Cot. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx Olecranon Process — Incidență PA Axială (Merrill)
+  collimation: Ajustați câmpul de iradiere pentru a include sfertul distal al humerusului
+    și extindeți-l cu 1 țol (2.5 cm) dincolo de olecran și de laturile cotului. Plasați
+    markerul de lateralitate în câmpul colimat.
+title: Rx procesul olecranului — incidență PA axială (Merrill)
 ---
-# Rx Olecranon Process — Incidență PA Axială (Merrill)
+# Rx procesul olecranului — incidență PA axială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -109,17 +113,18 @@ title: Rx Olecranon Process — Incidență PA Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică, high enough that Antebraț poate rest flat pe receptorul de imagine.; se ajustează braț la un unghi de 45 la 50 grade de la vertical poziție și ensure that pacientul este nu leaning anteriorly sau posteriorly. Supinate Mână, și Se instruiește pacientul să immobilize it cu opposite Mână. Center point midway între epicondyles și center de receptorul de imagine. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe olecran la show dorsum de olecran și la a 20-grade angle spre Pumn (Articulație Radiocarpiană) la show curved extremity și articular margin de olecran (Fig. 5.147)
+    - **Poziție Pacient:** Așezați pacientul pe scaun la capătul mesei radiologice, suficient de sus pentru ca antebrațul să poată sta întins pe receptorul de imagine. Ajustați brațul la un unghi de 45 la 50 de grade față de poziția verticală și asigurați-vă că pacientul nu se înclină anterior sau posterior. Supinați mâna și instruiți pacientul să o imobilizeze cu mâna opusă. Punctul central se află la jumătatea distanței dintre epicondili și centrul receptorului de imagine. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendiculară pe olecran pentru a evidenția fața dorsală a olecranului și la un unghi de 20° spre pumn pentru a evidenția extremitatea curbată și marginea articulară a olecranului (Fig. 5.147)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -135,18 +140,18 @@ title: Rx Olecranon Process — Incidență PA Axială (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la include distal fourth de Humerus și extend 1 inch (2.5 cm) beyond olecran și sides pe Cot. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere pentru a include sfertul distal al humerusului și extindeți-l cu 1 țol (2.5 cm) dincolo de olecran și de laturile cotului. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - olecran în profile
-    - Antebraț și Humerus superimposed, fără rotație
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - olecran în profil
+    - Antebrațul și humerusul suprapuse, fără rotație
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -155,6 +160,7 @@ title: Rx Olecranon Process — Incidență PA Axială (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -202,43 +208,3 @@ title: Rx Olecranon Process — Incidență PA Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 349–351](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-olecran și articular margin de olecran și humerus (Figs. 5.148 through 5.150).
-
-### collimation
-
-• Adjust câmp de iradiere la include distal fourth de humerus și extend 1 inch (2.5 cm) beyond olecran și sides pe cot. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe olecran la show dorsum de olecran și la a 20-grade angle spre wrist la show
-curved extremity și articular margin de olecran (Fig. 5.147)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• olecran în profile
-• Forearm și humerus superimposed, fără rotație
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează braț la un unghi de 45 la 50 grade de la vertical poziție și ensure that pacientul este nu leaning anteriorly sau
-posteriorly.
-• Supinate mână, și Se instruiește pacientul să immobilize it cu opposite mână.
-• Center point midway între epicondyles și center de receptorul de imagine.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică, high enough that forearm poate rest flat pe receptorul de imagine.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

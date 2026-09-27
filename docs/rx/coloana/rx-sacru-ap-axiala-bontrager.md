@@ -4,7 +4,7 @@ breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare 
   pacientului.
 category: coloana
 centering: Raza centrală se înclină 15° cranial (spre cap). Se orientează raza centrală
-  la 2 inches (5 cm) superior de simfiza pubiană. Se centrează receptorul de imagine
+  la 2 țoli (5 cm) superior de simfiza pubiană. Se centrează receptorul de imagine
   pe raza centrală.
 clinical_indications:
 - Patologia sacrului, inclusiv suspiciunea de fractură
@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 9.64
     AP axial—15° cranial.)
   url: assets/images/protocols/bontrager/rx-sacru-ap-axiala-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Tehnologii pot crește unghiul razei centrale la 20° cranial pentru pacienții
@@ -95,17 +99,18 @@ title: Rx Sacru AP Axială
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: poziția pacientului în decubit dorsal, cu brațele pe lângă corp, capul pe pernă și membrele inferioare extinse, cu suport sub genunchi pentru confort.; Regiune anatomică: Se aliniază planul mediosagital cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine (Fig. 9.64). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase. Bazin (bazin (pelvis)) există.
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° cranial (spre cap). Se orientează raza centrală la 2 inches (5 cm) superior de simfiza pubiană. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină 15° cranial (spre cap). Se orientează raza centrală la 2 țoli (5 cm) superior de simfiza pubiană. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
@@ -144,6 +149,7 @@ title: Rx Sacru AP Axială
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Tehnologii pot crește unghiul razei centrale la 20° cranial pentru pacienții cu o curbură posterioară aparent mai mare sau cu înclinarea sacrului și bazinului (bazin (pelvis)). Sacrul feminin este în general mai scurt și mai lat decât sacrul masculin (aspect de luat în considerare la dimensiunea câmpului de colimare strâns, pe patru laturi). Această incidență poate fi efectuată și în decubit ventral (unghi de 15° caudal), dacă este necesar în funcție de starea pacientului. Sacru și Coccis RUTINĂ Sacru AP axial Coccis lateral

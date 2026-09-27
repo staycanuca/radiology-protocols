@@ -38,6 +38,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-paralleling-technique-contd-p317-clark/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -130,29 +134,28 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Tehnica paralelism
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Se selectează și se asamblează suportul adecvat pentru film radiologic și filmul radiologic periapical.
-• Plasați blocul de ocluzie în contact cu marginea dintelui care urmează să fie examinat. Asigurați-vă că filmul radiologic acoperă dintele/dinții examinați.
-• Maxilar:
-– pentru regiunile incisivilor, caninilor, premolarilor și molarilor, suportul pentru film radiologic trebuie poziționat la o anumită distanță de dinte pentru a obține paralelismul. Aceasta necesită utilizarea întregii lungimi orizontale a blocului de ocluzie, suportul pentru film radiologic ocupând partea cea mai înaltă a palatului.
-• Mandibulă:
-– pentru dinții incisivi inferiori, poziționați suportul pentru film radiologic în planul unei linii imaginare care intersectează primii premolari mandibulari sau cât de posterior permite anatomia.
-– pentru premolarii și molarii mandibulari, poziționați suportul pentru film radiologic în șanțul lingual, adiacent dinților selectați pentru examinare.
-• Se introduce un rulou de vată între dinții antagoniști și blocul de ocluzie.
-• Pacientul este instruit să închidă lent gura, pentru a permite acomodarea treptată intraorală a suportului pentru film radiologic.
-• Pe măsură ce pacientul închide gura, rotiți blocul de ocluzie în direcție ascendentă/descendentă, după caz.
-• Pacientul este instruit să închidă ferm gura pe blocul de ocluzie și să continue să muște până la finalizarea examinării.
-• Glisați inelul de vizare pe tija indicator până la aproximarea suprafeței cutanate.
-    - **Punct de Centrare Fascicul:** • Aliniați corect tubul de raze X adiacent tijei indicator și inelului de vizare, atât în plan vertical, cât și în plan orizontal.
-302 Fascicul de raze X Film radiologic Bloc de ocluzie Diagramă care evidențiază poziția corectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie, în raport cu dintele anterior din maxilar. Fascicul de raze X Film radiologic Bloc de ocluzie Diagramă care evidențiază poziția incorectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie. Atunci când suportul este poziționat adiacent dintelui (imitând montajul pentru tehnica unghiului bisector), paralelismul adevărat nu poate fi obținut, iar suportul este extrem de incomod pentru pacient. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a regiunii molarilor maxilari, utilizând suportul posterior pentru film radiologic Rinn XCP®. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a incisivilor centrali maxilari, utilizând suportul anterior pentru film radiologic Rinn XCP®.
+    - **Poziție Pacient:**
+        - Se selectează și se asamblează suportul adecvat pentru film radiologic și filmul radiologic periapical.
+        - Plasați blocul de ocluzie în contact cu marginea dintelui care urmează să fie examinat. Asigurați-vă că filmul radiologic acoperă dintele/dinții examinați.
+        - Maxilar: – pentru regiunile incisivilor, caninilor, premolarilor și molarilor, suportul pentru film radiologic trebuie poziționat la o anumită distanță de dinte pentru a obține paralelismul. Aceasta necesită utilizarea întregii lungimi orizontale a blocului de ocluzie, suportul pentru film radiologic ocupând partea cea mai înaltă a palatului.
+        - Mandibulă: – pentru dinții incisivi inferiori, poziționați suportul pentru film radiologic în planul unei linii imaginare care intersectează primii premolari mandibulari sau cât de posterior permite anatomia. – pentru premolarii și molarii mandibulari, poziționați suportul pentru film radiologic în șanțul lingual, adiacent dinților selectați pentru examinare.
+        - Se introduce un rulou de vată între dinții antagoniști și blocul de ocluzie.
+        - Pacientul este instruit să închidă lent gura, pentru a permite acomodarea treptată intraorală a suportului pentru film radiologic.
+        - Pe măsură ce pacientul închide gura, rotiți blocul de ocluzie în direcție ascendentă/descendentă, după caz.
+        - Pacientul este instruit să închidă ferm gura pe blocul de ocluzie și să continue să muște până la finalizarea examinării.
+        - Glisați inelul de vizare pe tija indicator până la aproximarea suprafeței cutanate.
+    - **Punct de Centrare Fascicul:**
+        - Aliniați corect tubul de raze X adiacent tijei indicator și inelului de vizare, atât în plan vertical, cât și în plan orizontal. 302 Fascicul de raze X Film radiologic Bloc de ocluzie Diagramă care evidențiază poziția corectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie, în raport cu dintele anterior din maxilar. Fascicul de raze X Film radiologic Bloc de ocluzie Diagramă care evidențiază poziția incorectă a filmului radiologic în suportul pentru film radiologic, cu bloc de ocluzie. Atunci când suportul este poziționat adiacent dintelui (imitând montajul pentru tehnica unghiului bisector), paralelismul adevărat nu poate fi obținut, iar suportul este extrem de incomod pentru pacient. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a regiunii molarilor maxilari, utilizând suportul posterior pentru film radiologic Rinn XCP®. Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a incisivilor centrali maxilari, utilizând suportul anterior pentru film radiologic Rinn XCP®.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -188,6 +191,7 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Tehnica paralelism
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

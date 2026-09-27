@@ -3,95 +3,103 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre în linia mediană, cu vertical central fascicul.
+centering: '• Se centrează pe linia mediană, cu raza centrală verticală.
 
-  • centre de caseta este plasat midway între upper margine de simfiză pubiană și
-  spină iliacă antero-superioară (SIAS) pentru whole de Bazin (bazin (pelvis)) și
-  proximal femora. upper edge de caseta trebuie să fie 5 cm above upper margine de
-  crestele iliace la compensate pentru divergent fascicul și la ensure that whole
-  de bony Bazin (bazin (pelvis)) este included.
+  • Centrul casetei se plasează la jumătatea distanței dintre marginea superioară
+  a simfizei pubiene și SIAS pentru întregul bazin și femurele proximale. Marginea
+  superioară a casetei trebuie să fie cu 5 cm deasupra marginii superioare a crestelor
+  iliace pentru a compensa divergența fasciculului și pentru a asigura includerea
+  întregului bazin osos.
 
-  • centre de caseta este plasat level cu upper margine de simfiză pubiană pentru
-  șoldurile și upper femora.
+  • Centrul casetei se plasează la nivelul marginii superioare a simfizei pubiene
+  pentru șolduri și femurele superioare.
 
-  148 Antero-posterior (AP) incidență de whole Bazin (bazin (pelvis)), cu intern rotație
-  de femora Antero-posterior (AP) radiografie de ambele hips și upper femora evidențiind
-  bilateral prostheses'
+  148 Incidență anteroposterioară (AP) a întregului bazin, cu rotație internă a femurelor.
+  Radiografie anteroposterioară (AP) a ambelor șolduri și a femurelor superioare,
+  evidențiind proteze bilaterale'
 clinical_indications:
-- Antero-posterior (AP) imagine allows comparison de ambele hips la fie made; în trauma
-  cases, it ensures that suspiciune de fractură la distal Bazin (bazin (pelvis)) este
-  nu missed, e.g. suspiciune de fracturăd pubic ramus. în cases de suspected suspiciune
-  de fractură de Șold, injured limb este commonly externally rotit și trebuie să nu
-  fie moved. If possible, opposite limb trebuie să fie externally rotit la same grade
-  de rotație so that more precis comparison poate fie made.
+- Imaginea anteroposterioară (AP) permite compararea ambelor șolduri; în cazurile
+  de traumatism, asigură că o suspiciune de fractură a bazinului distal nu este omisă,
+  de exemplu, o suspiciune de fractură a ramului pubian. În cazurile de suspiciune
+  de fractură de șold, membrul lezat este de obicei rotat extern și nu trebuie mobilizat.
+  Dacă este posibil, membrul opus trebuie rotat extern în același grad de rotație,
+  astfel încât să se poată face o comparație mai precisă.
 images:
-- caption: la fie made; în trauma cases, it ensures that suspiciune de fractură la
-    dis-
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: să se poată face; în cazurile de traumatism, asigură că o suspiciune de
+    fractură a bazinului dis- [fragment deteriorat în sursă]
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_1.jpeg
-- caption: tal Bazin (bazin (pelvis)) este nu missed, e.g. suspiciune de fracturăd
-    pubic ramus.
+- caption: tal nu este omisă, de exemplu, o suspiciune de fractură a ramului pubian.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_2.jpeg
-- caption: în cases de suspected suspiciune de fractură de Șold, injured limb este
+- caption: În cazurile de suspiciune de fractură de șold, membrul lezat este
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_3.jpeg
-- caption: • la first clinic visit și în trauma cases, it este normal prac-
+- caption: • La prima vizită la clinică și în cazurile de traumatism, este o practică
+    nor- [fragment deteriorat în sursă]
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_4.jpeg
-- caption: unnecessary repeat radiografie.
+- caption: repetare inutilă a radiografiei.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_5.jpeg
-- caption: Antero-posterior (AP) Bazin (bazin (pelvis)) evidențiind suspiciune de
-    fractură de ischium și pubis cu disruption
+- caption: Bazin anteroposterior (AP) evidențiind o suspiciune de fractură a ischionului
+    și pubisului, cu întreruperea
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_6.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• intern rotație de limb compensates pentru X-ray fascicul divergence when
-  centring în linia mediană. resultant imagine will show ambele greater și lesser
-  trochanters.
+notes: '• Rotația internă a membrelor compensează divergența fasciculului de raze
+  X atunci când se centrează pe linia mediană. Imaginea rezultată va evidenția ambii
+  trohanteri, mare și mic.
 
-  • pacient respirație la blur out overlying structures poate fie used la diminish
-  obvious bowel shadows over Sacru și iliac bones.'
-position: '• pacientul este culcat Decubit dorsal și simetric pe masa radiologică,
-  cu planul mediosagital perpendicular pe tabletop.
+  • Apneea pacientului pentru estomparea structurilor suprapuse poate fi utilizată
+  pentru diminuarea umbrelor intestinale evidente deasupra sacrului și oaselor iliace.'
+position: '• Pacientul este culcat în decubit dorsal și simetric pe masa radiologică,
+  cu planul mediosagital perpendicular pe masa radiologică.
 
-  • linia mediană pacient trebuie să coincide cu centred primary fascicul și table
-  Bucky mechanism.
+  • Linia mediană a pacientului trebuie să coincidă cu fasciculul primar centrat și
+  cu mecanismul Bucky al mesei.
 
-  • If pacientul remains pe trolley, ideally they trebuie să fie poziționat down linia
-  mediană și ajustat la achieve optimum incidență dependent pe their grade de mobility.
+  • Dacă pacientul rămâne pe targa mobilă, ideal trebuie poziționat de-a lungul liniei
+  mediane și ajustat pentru a obține incidența optimă, în funcție de gradul său de
+  mobilitate.
 
-  • la avoid pelvic rotație, anterior superior iliac spines trebuie să fie echidistant
-  față de tabletop. non-opaque pad plasat under buttock poate fie used la make Bazin
-  (bazin (pelvis)) level. plan coronal trebuie să now fie paralel cu tabletop.
+  • Pentru a evita rotația bazinului, spinele iliace anterosuperioare trebuie să fie
+  echidistante față de masa radiologică. Se poate utiliza un suport neopac plasat
+  sub fesă pentru a nivela bazinul. Planul coronal trebuie să fie acum paralel cu
+  masa radiologică.
 
-  • limbs sunt slightly în abducție și internally rotit la bring femoral necks paralel
-  cu casetă.
+  • Membrele sunt ușor în abducție și rotite intern pentru a aduce colurile femurale
+  paralel cu caseta.
 
-  • săculeți cu nisip și pads sunt plasat pe / sprijinit de Gleznă (Articulație Talocrurală)
-  region la help maintain this poziție.'
+  • Săculeții cu nisip și suporturile sunt plasați pe sau sprijiniți de regiunea gleznei
+  pentru a ajuta la menținerea acestei poziții.'
 protection:
-- At the first clinic visit and in trauma cases, it is normal practice to not apply
-  gonad protection, which may obscure the pelvic bones and result in missed information.
-  In follow-up visits, gonad protection must be used and must be positioned carefully
-  to avoid obscuring the region of interest resulting in an unnecessary repeat radiograph.
-- The primary beam should be optimally collimated to the size of the cassette. Ideally,
-  evidence of collimation should be visible on the image.
-- The correct use of automatic exposure control (AEC) reduces the number of repeats
-  due to poor choice of exposure factors.
-- Exposure factors or dose–area product (DAP) readings should be recorded. Antero-Posterior
-  (AP) Bazin (Pelvis) showing suspiciune de fractură of ischium and pubis with disruption
-  of Shenton’s line. Associated suspiciune de fractură of the left side of the Sacru
-  Antero-Posterior (AP) radiograph showing a subcapital suspiciune de fractură of
-  the neck of the left Femur Antero-Posterior (AP) radiograph of Bazin (Pelvis) showing
-  posterior luxație articulară of the left Șold
+- La prima vizită la clinică și în cazurile de traumatism, este o practică obișnuită
+  să nu se aplice protecție gonadică, deoarece aceasta poate ascunde oasele bazinului
+  și poate duce la omiterea unor informații. La vizitele de urmărire, protecția gonadică
+  trebuie utilizată și poziționată cu atenție pentru a evita mascarea regiunii de
+  interes, ceea ce ar duce la repetarea inutilă a radiografiei.
+- Fasciculul primar trebuie colimat optim la dimensiunea casetei. În mod ideal, pe
+  imagine trebuie să fie vizibilă dovada colimării.
+- Utilizarea corectă a controlului automat al expunerii (AEC) reduce numărul repetărilor
+  cauzate de alegerea necorespunzătoare a factorilor de expunere.
+- Factorii de expunere sau valorile produsului doză–suprafață (DAP) trebuie înregistrate.
+  Bazin anteroposterior (AP) evidențiind o suspiciune de fractură a ischionului și
+  pubisului, cu întreruperea liniei lui Shenton. Suspiciune de fractură asociată a
+  părții stângi a sacrului. Radiografie anteroposterioară (AP) evidențiind o suspiciune
+  de fractură subcapitală a colului femural stâng. Radiografie anteroposterioară (AP)
+  a bazinului evidențiind luxația posterioară a articulației șoldului stâng.
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -99,39 +107,41 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- pentru basic incidență de ambele hips, ambele trochanters și upper third de femora
-  trebuie să fie vizibil pe imagine.
-- pentru basic Bazin (bazin (pelvis)) incidență, ambele creste iliace și proximal
-  femora, including lesser trochanters, trebuie să fie vizibil pe imagine.
-- Absența rotației anatomice (simetrie bilaterală perfectă). iliac bones trebuie să
-  fie de equal size și găuri obturatoare same size și shape.
-- It trebuie să fie possible la identify Shenton’s line, which forms continuous curve
-  între mic trohanter, col femural și lower margine de simfiză pubiană.
-- optical densitate optică, ideally, trebuie să fie similar throughout bones de Bazin
-  (bazin (pelvis)) și proximal femora. If kVp este too low și mAs este too high, then
-  supero-Profil (lateral) part de ilia și greater trochanters poate nu fie visualized,
-  particularly în slender pacienți.
-- imagine contrast trebuie să also allow visualization de trabecular patterns în femoral
-  necks. Using compression pe appropriate pacienți, who have excess părți moi overlying
-  their pelvic bones, poate improve imagine contrast.
-- fără artefacts de la clothing trebuie să fie vizibil.
+- Pentru incidența de bază a ambelor șolduri, ambii trohanteri și treimea superioară
+  a femurelor trebuie să fie vizibili pe imagine.
+- Pentru incidența de bază a bazinului, ambele creste iliace și femurele proximale,
+  inclusiv trohanterii mici, trebuie să fie vizibile pe imagine.
+- Absența rotației anatomice (simetrie bilaterală perfectă). Oasele iliace trebuie
+  să aibă aceeași dimensiune, iar găurile obturatoare trebuie să aibă aceeași dimensiune
+  și formă.
+- Trebuie să fie posibilă identificarea liniei lui Shenton, care formează o curbă
+  continuă între trohanterul mic, colul femural și marginea inferioară a simfizei
+  pubiene.
+- Densitatea optică trebuie, în mod ideal, să fie similară în întregul bazin și în
+  femurele proximale. Dacă kVp este prea mic și mAs este prea mare, partea supero-laterală
+  a ilionului și trohanterii mari pot să nu fie vizualizați, în special la pacienții
+  slabi.
+- Contrastul imaginii trebuie, de asemenea, să permită vizualizarea desenului trabecular
+  al colurilor femurale. Utilizarea compresiei la pacienții adecvați, care au exces
+  de părți moi suprapuse oaselor bazinului, poate îmbunătăți contrastul imaginii.
+- Nu trebuie să fie vizibile artefacte provenite de la îmbrăcăminte.
 sid_dff: 100 cm
 slug: rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 163
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Șold (Articulație Coxofemurală), upper third of Femur and Bazin (Pelvis)
-  Antero-Posterior (AP) - Bazin (Pelvis)
+  mas: Conform AEC / grosimii anatomice
+title: Rx șold — treimea superioară a femurului și bazin — incidență anteroposterioară
+  (AP)
 ---
-# Rx Șold (Articulație Coxofemurală), upper third of Femur and Bazin (Pelvis) Antero-Posterior (AP) - Bazin (Pelvis)
+# Rx șold — treimea superioară a femurului și bazin — incidență anteroposterioară (AP)
 
 
 <div class="rx-meta-bar">
@@ -150,30 +160,32 @@ title: Rx Șold (Articulație Coxofemurală), upper third of Femur and Bazin (Pe
 
     === "Indicații Clinice"
 
-        - Antero-posterior (AP) imagine allows comparison de ambele hips la fie made; în trauma cases, it ensures that suspiciune de fractură la distal Bazin (bazin (pelvis)) este nu missed, e.g. suspiciune de fracturăd pubic ramus. în cases de suspected suspiciune de fractură de Șold, injured limb este commonly externally rotit și trebuie să nu fie moved. If possible, opposite limb trebuie să fie externally rotit la same grade de rotație so that more precis comparison poate fie made.
+        - Imaginea anteroposterioară (AP) permite compararea ambelor șolduri; în cazurile de traumatism, asigură că o suspiciune de fractură a bazinului distal nu este omisă, de exemplu, o suspiciune de fractură a ramului pubian. În cazurile de suspiciune de fractură de șold, membrul lezat este de obicei rotat extern și nu trebuie mobilizat. Dacă este posibil, membrul opus trebuie rotat extern în același grad de rotație, astfel încât să se poată face o comparație mai precisă.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal și simetric pe masa radiologică, cu planul mediosagital perpendicular pe tabletop.
-• linia mediană pacient trebuie să coincide cu centred primary fascicul și table Bucky mechanism.
-• If pacientul remains pe trolley, ideally they trebuie să fie poziționat down linia mediană și ajustat la achieve optimum incidență dependent pe their grade de mobility.
-• la avoid pelvic rotație, anterior superior iliac spines trebuie să fie echidistant față de tabletop. non-opaque pad plasat under buttock poate fie used la make Bazin (bazin (pelvis)) level. plan coronal trebuie să now fie paralel cu tabletop.
-• limbs sunt slightly în abducție și internally rotit la bring femoral necks paralel cu casetă.
-• săculeți cu nisip și pads sunt plasat pe / sprijinit de Gleznă (Articulație Talocrurală) region la help maintain this poziție.
-    - **Punct de Centrare Fascicul:** • Centre în linia mediană, cu vertical central fascicul.
-• centre de caseta este plasat midway între upper margine de simfiză pubiană și spină iliacă antero-superioară (SIAS) pentru whole de Bazin (bazin (pelvis)) și proximal femora. upper edge de caseta trebuie să fie 5 cm above upper margine de crestele iliace la compensate pentru divergent fascicul și la ensure that whole de bony Bazin (bazin (pelvis)) este included.
-• centre de caseta este plasat level cu upper margine de simfiză pubiană pentru șoldurile și upper femora.
-148 Antero-posterior (AP) incidență de whole Bazin (bazin (pelvis)), cu intern rotație de femora Antero-posterior (AP) radiografie de ambele hips și upper femora evidențiind bilateral prostheses
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal și simetric pe masa radiologică, cu planul mediosagital perpendicular pe masa radiologică.
+        - Linia mediană a pacientului trebuie să coincidă cu fasciculul primar centrat și cu mecanismul Bucky al mesei.
+        - Dacă pacientul rămâne pe targa mobilă, ideal trebuie poziționat de-a lungul liniei mediane și ajustat pentru a obține incidența optimă, în funcție de gradul său de mobilitate.
+        - Pentru a evita rotația bazinului, spinele iliace anterosuperioare trebuie să fie echidistante față de masa radiologică. Se poate utiliza un suport neopac plasat sub fesă pentru a nivela bazinul. Planul coronal trebuie să fie acum paralel cu masa radiologică.
+        - Membrele sunt ușor în abducție și rotite intern pentru a aduce colurile femurale paralel cu caseta.
+        - Săculeții cu nisip și suporturile sunt plasați pe sau sprijiniți de regiunea gleznei pentru a ajuta la menținerea acestei poziții.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează pe linia mediană, cu raza centrală verticală.
+        - Centrul casetei se plasează la jumătatea distanței dintre marginea superioară a simfizei pubiene și SIAS pentru întregul bazin și femurele proximale. Marginea superioară a casetei trebuie să fie cu 5 cm deasupra marginii superioare a crestelor iliace pentru a compensa divergența fasciculului și pentru a asigura includerea întregului bazin osos.
+        - Centrul casetei se plasează la nivelul marginii superioare a simfizei pubiene pentru șolduri și femurele superioare. 148 Incidență anteroposterioară (AP) a întregului bazin, cu rotație internă a femurelor. Radiografie anteroposterioară (AP) a ambelor șolduri și a femurelor superioare, evidențiind proteze bilaterale
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -184,43 +196,44 @@ title: Rx Șold (Articulație Coxofemurală), upper third of Femur and Bazin (Pe
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - pentru basic incidență de ambele hips, ambele trochanters și upper third de femora trebuie să fie vizibil pe imagine.
-    - pentru basic Bazin (bazin (pelvis)) incidență, ambele creste iliace și proximal femora, including lesser trochanters, trebuie să fie vizibil pe imagine.
-    - Absența rotației anatomice (simetrie bilaterală perfectă). iliac bones trebuie să fie de equal size și găuri obturatoare same size și shape.
-    - It trebuie să fie possible la identify Shenton’s line, which forms continuous curve între mic trohanter, col femural și lower margine de simfiză pubiană.
-    - optical densitate optică, ideally, trebuie să fie similar throughout bones de Bazin (bazin (pelvis)) și proximal femora. If kVp este too low și mAs este too high, then supero-Profil (lateral) part de ilia și greater trochanters poate nu fie visualized, particularly în slender pacienți.
-    - imagine contrast trebuie să also allow visualization de trabecular patterns în femoral necks. Using compression pe appropriate pacienți, who have excess părți moi overlying their pelvic bones, poate improve imagine contrast.
-    - fără artefacts de la clothing trebuie să fie vizibil.
+    - Pentru incidența de bază a ambelor șolduri, ambii trohanteri și treimea superioară a femurelor trebuie să fie vizibili pe imagine.
+    - Pentru incidența de bază a bazinului, ambele creste iliace și femurele proximale, inclusiv trohanterii mici, trebuie să fie vizibile pe imagine.
+    - Absența rotației anatomice (simetrie bilaterală perfectă). Oasele iliace trebuie să aibă aceeași dimensiune, iar găurile obturatoare trebuie să aibă aceeași dimensiune și formă.
+    - Trebuie să fie posibilă identificarea liniei lui Shenton, care formează o curbă continuă între trohanterul mic, colul femural și marginea inferioară a simfizei pubiene.
+    - Densitatea optică trebuie, în mod ideal, să fie similară în întregul bazin și în femurele proximale. Dacă kVp este prea mic și mAs este prea mare, partea supero-laterală a ilionului și trohanterii mari pot să nu fie vizualizați, în special la pacienții slabi.
+    - Contrastul imaginii trebuie, de asemenea, să permită vizualizarea desenului trabecular al colurilor femurale. Utilizarea compresiei la pacienții adecvați, care au exces de părți moi suprapuse oaselor bazinului, poate îmbunătăți contrastul imaginii.
+    - Nu trebuie să fie vizibile artefacte provenite de la îmbrăcăminte.
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - At the first clinic visit and in trauma cases, it is normal practice to not apply gonad protection, which may obscure the pelvic bones and result in missed information. In follow-up visits, gonad protection must be used and must be positioned carefully to avoid obscuring the region of interest resulting in an unnecessary repeat radiograph.
-    - The primary beam should be optimally collimated to the size of the cassette. Ideally, evidence of collimation should be visible on the image.
-    - The correct use of automatic exposure control (AEC) reduces the number of repeats due to poor choice of exposure factors.
-    - Exposure factors or dose–area product (DAP) readings should be recorded. Antero-Posterior (AP) Bazin (Pelvis) showing suspiciune de fractură of ischium and pubis with disruption of Shenton’s line. Associated suspiciune de fractură of the left side of the Sacru Antero-Posterior (AP) radiograph showing a subcapital suspiciune de fractură of the neck of the left Femur Antero-Posterior (AP) radiograph of Bazin (Pelvis) showing posterior luxație articulară of the left Șold
+    - La prima vizită la clinică și în cazurile de traumatism, este o practică obișnuită să nu se aplice protecție gonadică, deoarece aceasta poate ascunde oasele bazinului și poate duce la omiterea unor informații. La vizitele de urmărire, protecția gonadică trebuie utilizată și poziționată cu atenție pentru a evita mascarea regiunii de interes, ceea ce ar duce la repetarea inutilă a radiografiei.
+    - Fasciculul primar trebuie colimat optim la dimensiunea casetei. În mod ideal, pe imagine trebuie să fie vizibilă dovada colimării.
+    - Utilizarea corectă a controlului automat al expunerii (AEC) reduce numărul repetărilor cauzate de alegerea necorespunzătoare a factorilor de expunere.
+    - Factorii de expunere sau valorile produsului doză–suprafață (DAP) trebuie înregistrate. Bazin anteroposterior (AP) evidențiind o suspiciune de fractură a ischionului și pubisului, cu întreruperea liniei lui Shenton. Suspiciune de fractură asociată a părții stângi a sacrului. Radiografie anteroposterioară (AP) evidențiind o suspiciune de fractură subcapitală a colului femural stâng. Radiografie anteroposterioară (AP) a bazinului evidențiind luxația posterioară a articulației șoldului stâng.
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • intern rotație de limb compensates pentru X-ray fascicul divergence when centring în linia mediană. resultant imagine will show ambele greater și lesser trochanters.
-• pacient respirație la blur out overlying structures poate fie used la diminish obvious bowel shadows over Sacru și iliac bones.
+    - Rotația internă a membrelor compensează divergența fasciculului de raze X atunci când se centrează pe linia mediană. Imaginea rezultată va evidenția ambii trohanteri, mare și mic.
+    - Apneea pacientului pentru estomparea structurilor suprapuse poate fi utilizată pentru diminuarea umbrelor intestinale evidente deasupra sacrului și oaselor iliace.
 
 
 ### 🖼️ Imagini
@@ -229,49 +242,49 @@ title: Rx Șold (Articulație Coxofemurală), upper third of Femur and Bazin (Pe
 
 <figure class="protocol-image-card" markdown>
 
-![la fie made; în trauma cases, it ensures that suspiciune de fractură la dis-](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_1.jpeg)
+![să se poată face; în cazurile de traumatism, asigură că o suspiciune de fractură a bazinului dis- [fragment deteriorat în sursă]](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_1.jpeg)
 
-<figcaption><strong>la fie made; în trauma cases, it ensures that suspiciune de fractură la dis-</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![tal Bazin (bazin (pelvis)) este nu missed, e.g. suspiciune de fracturăd pubic ramus.](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_2.jpeg)
-
-<figcaption><strong>tal Bazin (bazin (pelvis)) este nu missed, e.g. suspiciune de fracturăd pubic ramus.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>să se poată face; în cazurile de traumatism, asigură că o suspiciune de fractură a bazinului dis- [fragment deteriorat în sursă]</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![în cases de suspected suspiciune de fractură de Șold, injured limb este](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_3.jpeg)
+![tal nu este omisă, de exemplu, o suspiciune de fractură a ramului pubian.](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_2.jpeg)
 
-<figcaption><strong>în cases de suspected suspiciune de fractură de Șold, injured limb este</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• la first clinic visit și în trauma cases, it este normal prac-](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_4.jpeg)
-
-<figcaption><strong>• la first clinic visit și în trauma cases, it este normal prac-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>tal nu este omisă, de exemplu, o suspiciune de fractură a ramului pubian.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![unnecessary repeat radiografie.](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_5.jpeg)
+![În cazurile de suspiciune de fractură de șold, membrul lezat este](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_3.jpeg)
 
-<figcaption><strong>unnecessary repeat radiografie.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>În cazurile de suspiciune de fractură de șold, membrul lezat este</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Antero-posterior (AP) Bazin (bazin (pelvis)) evidențiind suspiciune de fractură de ischium și pubis cu disruption](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_6.jpeg)
+![• La prima vizită la clinică și în cazurile de traumatism, este o practică nor- [fragment deteriorat în sursă]](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_4.jpeg)
 
-<figcaption><strong>Antero-posterior (AP) Bazin (bazin (pelvis)) evidențiind suspiciune de fractură de ischium și pubis cu disruption</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• La prima vizită la clinică și în cazurile de traumatism, este o practică nor- [fragment deteriorat în sursă]</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![repetare inutilă a radiografiei.](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_5.jpeg)
+
+<figcaption><strong>repetare inutilă a radiografiei.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Bazin anteroposterior (AP) evidențiind o suspiciune de fractură a ischionului și pubisului, cu întreruperea](../../assets/images/protocols/clark/rx-sold-articulatie-coxofemurala-upper-third-of-femur-and-bazin-pelvis-antero-posterior-bazin-pelvis-p163-clark/fig_6.jpeg)
+
+<figcaption><strong>Bazin anteroposterior (AP) evidențiind o suspiciune de fractură a ischionului și pubisului, cu întreruperea</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

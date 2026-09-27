@@ -2,7 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular la point just above base de third metatarsal.
+centering: perpendicular pe punctul situat chiar deasupra bazei celui de-al treilea
+  metatarsian.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,92 +13,97 @@ images:
 - caption: Merrill — pagina 491, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill/p491_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în ortostatism, preferably pe low riser that has receptorul
-  de imagine groove. If such riser este unavailable, use blocks la elevate picioarele
-  la level de x-ray tube (Figs. 7.53 și 7.54). If needed, use mobile unit la allow
-  x-ray tube la reach floor level.; Place receptorul de imagine în receptorul de imagine
-  groove de stool sau între blocks. Se instruiește pacientul să stand în natural poziție,
-  one Picior pe fiecare side receptorul de imagine, cu weight de corp equally distributed
-  pe picioarele. se ajustează receptorul de imagine so that it este centrat pe base
-  de third metatarsal, și place medial surface de Picior pe / sprijinit de receptorul
-  de imagine. After expunere, repeat above steps la imagine opposite Picior. se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în ortostatism, de preferință pe un suport jos prevăzut
+  cu fantă pentru receptorul de imagine. Dacă un astfel de suport nu este disponibil,
+  se utilizează blocuri pentru a ridica picioarele la nivelul tubului radiogen (Figs.
+  7.53 și 7.54). Dacă este necesar, se utilizează o unitate mobilă pentru a permite
+  tubului radiogen să ajungă la nivelul podelei. Se plasează receptorul de imagine
+  în fanta suportului sau între blocuri. Se instruiește pacientul să stea în poziție
+  naturală, cu câte un picior de fiecare parte a receptorului de imagine, cu greutatea
+  corpului distribuită egal pe picioare. Se ajustează receptorul de imagine astfel
+  încât să fie centrat pe baza celui de-al treilea metatarsian și se așază suprafața
+  medială a piciorului pe receptorul de imagine sau sprijinită de acesta. După expunere,
+  se repetă pașii de mai sus pentru imaginarea piciorului opus. Se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire Picior și distal membru inferior
-- Superimposed plantar surfaces de metatarsal heads
-- Fibula overlapping posterior portion de tibia
-- Tibiotalar articulație
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Întregul picior și porțiunea distală a gambei
+- suprafețele plantare suprapuse ale capetelor metatarsienelor
+- fibula suprapusă peste porțiunea posterioară a tibiei
+- articulația tibiotalară
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-longitudinal-arch-incidenta-de-profil-lateral-lateromedial-in-incarcare-ortostatism-method-standing-p490-merrill
 source_pages:
 - 490
 - 491
 source_sections:
-  anatomy: 'lateromedial incidență de bones de picior cu weight bearing. incidență
-    este used la show structural status de longitudinal
+  anatomy: incidență lateromedială a oaselor piciorului în încărcare. Incidența este
+    utilizată pentru a evidenția starea structurală a arcului longitudinal. Se examinează
+    partea dreaptă și partea stângă pentru comparație (Figs. 7.55 și 7.56).
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    umbrei piciorului, incluzând 1 țol (2.5 cm) deasupra maleolei mediale. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe punctul situat chiar deasupra bazei celui de-al treilea metatarsian.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    arch. drept și stâng sides sunt examined pentru comparison (Figs. 7.55 și 7.56).'
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    de shadow de picior including 1 inch (2.5 cm) above maleolă medială (tibială).
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de regiunea anatomică de interes
 
-    Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: • perpendicular la point just above base de third metatarsal.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Întregul picior și porțiunea distală a gambei
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Suprafețele plantare suprapuse ale capetelor metatarsienelor
 
-    • Entire picior și distal membru inferior
+    • Fibula suprapusă peste porțiunea posterioară a tibiei
 
-    • Superimposed plantar surfaces de metatarsal heads
+    • Articulația tibiotalară
 
-    • Fibula overlapping posterior portion de tibia
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se plasează receptorul de imagine în fanta suportului sau între blocuri.
 
-    • Tibiotalar articulație
+    • Se instruiește pacientul să stea în poziție naturală, cu câte un picior de fiecare
+    parte a receptorului de imagine, cu greutatea corpului distribuită egal pe picioare.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place receptorul de imagine în receptorul de imagine groove de stool
-    sau între blocks.
+    • Se ajustează receptorul de imagine astfel încât să fie centrat pe baza celui
+    de-al treilea metatarsian și se așază suprafața medială a piciorului pe receptorul
+    de imagine sau sprijinită de acesta.
 
-    • Se instruiește pacientul să stand în natural poziție, one picior pe fiecare
-    side receptorul de imagine, cu weight de corp equally distributed pe picioarele.
+    • După expunere, se repetă pașii de mai sus pentru imaginarea piciorului opus.
 
-    • se ajustează receptorul de imagine so that it este centrat pe base de third
-    metatarsal, și place medial surface de picior pe / sprijinit de receptorul de
-    imagine.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în ortostatism, de preferință pe un suport jos
+    prevăzut cu fantă pentru receptorul de imagine. Dacă un astfel de suport nu este
+    disponibil, se utilizează blocuri pentru a ridica picioarele la nivelul tubului
+    radiogen (Figs. 7.53 și 7.54).
 
-    • After expunere, repeat above steps la imagine opposite picior.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în ortostatism, preferably pe low riser that
-    has receptorul de imagine groove. If such riser este unavailable, use blocks la
-
-    elevate picioarele la level de x-ray tube (Figs. 7.53 și 7.54).
-
-    • If needed, use mobile unit la allow x-ray tube la reach floor level.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Dacă este necesar, se utilizează o unitate mobilă pentru a permite tubului radiogen
+    să ajungă la nivelul podelei.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 490–491
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de
-    shadow de Picior including 1 inch (2.5 cm) above maleolă medială (tibială). Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Medial În Încărcare
-  (Ortostatism) Method Standing (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    umbrei piciorului, incluzând 1 țol (2.5 cm) deasupra maleolei mediale. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx arc longitudinal — Incidență de profil — lateromedială în încărcare (ortostatism),
+  metodă în ortostatism (Merrill)
 ---
-# Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Medial În Încărcare (Ortostatism) Method Standing (Merrill)
+# Rx arc longitudinal — Incidență de profil — lateromedială în încărcare (ortostatism), metodă în ortostatism (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -121,17 +127,18 @@ title: Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Media
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism, preferably pe low riser that has receptorul de imagine groove. If such riser este unavailable, use blocks la elevate picioarele la level de x-ray tube (Figs. 7.53 și 7.54). If needed, use mobile unit la allow x-ray tube la reach floor level.; Place receptorul de imagine în receptorul de imagine groove de stool sau între blocks. Se instruiește pacientul să stand în natural poziție, one Picior pe fiecare side receptorul de imagine, cu weight de corp equally distributed pe picioarele. se ajustează receptorul de imagine so that it este centrat pe base de third metatarsal, și place medial surface de Picior pe / sprijinit de receptorul de imagine. After expunere, repeat above steps la imagine opposite Picior. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular la point just above base de third metatarsal.
+    - **Poziție Pacient:** Se așază pacientul în ortostatism, de preferință pe un suport jos prevăzut cu fantă pentru receptorul de imagine. Dacă un astfel de suport nu este disponibil, se utilizează blocuri pentru a ridica picioarele la nivelul tubului radiogen (Figs. 7.53 și 7.54). Dacă este necesar, se utilizează o unitate mobilă pentru a permite tubului radiogen să ajungă la nivelul podelei. Se plasează receptorul de imagine în fanta suportului sau între blocuri. Se instruiește pacientul să stea în poziție naturală, cu câte un picior de fiecare parte a receptorului de imagine, cu greutatea corpului distribuită egal pe picioare. Se ajustează receptorul de imagine astfel încât să fie centrat pe baza celui de-al treilea metatarsian și se așază suprafața medială a piciorului pe receptorul de imagine sau sprijinită de acesta. După expunere, se repetă pașii de mai sus pentru imaginarea piciorului opus. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe punctul situat chiar deasupra bazei celui de-al treilea metatarsian.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -147,20 +154,20 @@ title: Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Media
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow de Picior including 1 inch (2.5 cm) above maleolă medială (tibială). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile umbrei piciorului, incluzând 1 țol (2.5 cm) deasupra maleolei mediale. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Picior și distal membru inferior
-    - Superimposed plantar surfaces de metatarsal heads
-    - Fibula overlapping posterior portion de tibia
-    - Tibiotalar articulație
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Întregul picior și porțiunea distală a gambei
+    - suprafețele plantare suprapuse ale capetelor metatarsienelor
+    - fibula suprapusă peste porțiunea posterioară a tibiei
+    - articulația tibiotalară
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -169,6 +176,7 @@ title: Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Media
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -208,48 +216,3 @@ title: Rx Longitudinal Arch — Incidență de Profil (Lateral) — Latero-Media
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 490–491](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateromedial incidență de bones de picior cu weight bearing. incidență este used la show structural status de longitudinal
-arch. drept și stâng sides sunt examined pentru comparison (Figs. 7.55 și 7.56).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de shadow de picior including 1 inch (2.5 cm) above maleolă medială (tibială).
-Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular la point just above base de third metatarsal.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire picior și distal membru inferior
-• Superimposed plantar surfaces de metatarsal heads
-• Fibula overlapping posterior portion de tibia
-• Tibiotalar articulație
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Place receptorul de imagine în receptorul de imagine groove de stool sau între blocks.
-• Se instruiește pacientul să stand în natural poziție, one picior pe fiecare side receptorul de imagine, cu weight de corp equally distributed pe picioarele.
-• se ajustează receptorul de imagine so that it este centrat pe base de third metatarsal, și place medial surface de picior pe / sprijinit de receptorul de imagine.
-• After expunere, repeat above steps la imagine opposite picior.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în ortostatism, preferably pe low riser that has receptorul de imagine groove. If such riser este unavailable, use blocks la
-elevate picioarele la level de x-ray tube (Figs. 7.53 și 7.54).
-• If needed, use mobile unit la allow x-ray tube la reach floor level.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: Înclinat 10 grade cranial, entering proces coracoid
+centering: Înclinat cu 10 grade cranial, pătrunzând prin procesul coracoid
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,26 +15,30 @@ images:
 - caption: Merrill — pagina 409, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill/p409_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul pe masa radiologică în Decubit dorsal poziție.;
-  cu proces coracoid de afected Umăr centrat pe masa de examinare, Se instruiește
-  pacientul să se flectează braț slightly beyond 90 grade și place palm de Mână pe
-  top de capul cu fingertips resting pe capul. (This Mână poziție places Humerus în
-  slight intern rotație poziție.) corp de Humerus este ajustat la fie vertical so
-  that it este paralel cu plan mediosagital de corp (Fig. 6.45). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+position: Se poziționează pacientul pe masa radiologică în decubit dorsal.; cu procesul
+  coracoid al umărului afectat centrat pe masa de examinare, se instruiește pacientul
+  să flecteze brațul puțin peste 90 de grade și să plaseze palma mâinii pe creștet,
+  cu vârfurile degetelor sprijinite pe cap. (Această poziție a mâinii plasează humerusul
+  în ușoară rotație internă.) Corpul humerusului este ajustat pentru a fi vertical,
+  astfel încât să fie paralel cu planul mediosagital al corpului (Fig. 6.45). Se efectuează
+  ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Overlapping de proces coracoid și Claviculă
-- Posterolateral lateral aspect de cap humeral în profile
-- axa longitudinală de Humerus aliniat cu axa longitudinală de pacientul’s corp
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Suprapunerea procesului coracoid și claviculei
+- Aspectul lateral posterolateral al capului humeral în profil
+- Axa longitudinală a humerusului aliniată cu axa longitudinală a corpului pacientului
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-proximal-humerus-incidenta-ap-axiala-stryker-notch-method-expressed-by-stryker-as-being-useful-to-show-this-humeral-defect-p406-merrill
 source_pages:
@@ -43,54 +47,51 @@ source_pages:
 - 408
 - 409
 source_sections:
-  anatomy: posterosuperior și posterolateral areas de cap humeral (Figs. 6.46 și 6.47).
-  collimation: '• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
-    Adjust ca needed la include 1 inch beyond superior și lateral
+  anatomy: Zonele posterosuperioară și posterolaterală ale capului humeral (Figs.
+    6.46 și 6.47).
+  collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
+    Se ajustează după necesitate pentru a include 1 țol dincolo de marginile superioară
+    și laterală ale umărului. Se plasează markerul de lateralitate în câmpul colimat.
+  cr: • Înclinat cu 10 grade cranial, pătrunzând prin procesul coracoid
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    umăr margini. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • Înclinat 10 grade cranial, entering proces coracoid
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Suprapunerea procesului coracoid și claviculei
 
-    • Overlapping de proces coracoid și clavicle
+    • Aspectul lateral posterolateral al capului humeral în profil
 
-    • Posterolateral lateral aspect de cap humeral în profile
+    • Axa longitudinală a humerusului aliniată cu axa longitudinală a corpului pacientului
 
-    • axa longitudinală de humerus aliniat cu axa longitudinală de pacientul’s corp
+    • Detalii osoase trabeculare și țesuturi moi adiacente'
+  part_pos: '• Cu procesul coracoid al umărului afectat centrat pe masa de examinare,
+    se instruiește pacientul să flecteze brațul puțin peste 90 de grade și să plaseze
+    palma mâinii pe creștet, cu vârfurile degetelor sprijinite pe cap. (Această poziție
+    a mâinii plasează humerusul în ușoară rotație internă.) Corpul humerusului este
+    ajustat pentru a fi vertical, astfel încât să fie paralel cu planul mediosagital
+    al corpului (Fig. 6.45).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• cu proces coracoid de afected umăr centrat pe masa de examinare, Se
-    instruiește pacientul să se flectează braț slightly beyond 90 grade și
-
-    place palm de mână pe top de capul cu fingertips resting pe capul. (This mână
-    poziție places humerus în slight
-
-    intern rotație poziție.) corp de humerus este ajustat la fie vertical so that
-    it este paralel cu plan mediosagital de corp
-
-    (Fig. 6.45).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se poziționează pacientul pe masa radiologică în decubit dorsal.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se poziționează pacientul pe masa radiologică în decubit dorsal.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 406–409
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
-    Adjust ca needed la include 1 inch beyond superior și lateral Umăr margini. Se
-    plasează markerul de lateralitate în câmpul colimat.
-title: Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method expressed
-  by Stryker, as being useful to show this humeral defect. (Merrill)
+    Se ajustează după necesitate pentru a include 1 țol dincolo de marginile superioară
+    și laterală ale umărului. Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx humerus proximal — Incidență AP axială — Metoda Stryker Notch, descrisă
+  de Stryker ca fiind utilă pentru evidențierea acestui defect humeral. (Merrill)
 ---
-# Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method expressed by Stryker, as being useful to show this humeral defect. (Merrill)
+# Rx humerus proximal — Incidență AP axială — Metoda Stryker Notch, descrisă de Stryker ca fiind utilă pentru evidențierea acestui defect humeral. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -114,17 +115,18 @@ title: Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method e
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul pe masa radiologică în Decubit dorsal poziție.; cu proces coracoid de afected Umăr centrat pe masa de examinare, Se instruiește pacientul să se flectează braț slightly beyond 90 grade și place palm de Mână pe top de capul cu fingertips resting pe capul. (This Mână poziție places Humerus în slight intern rotație poziție.) corp de Humerus este ajustat la fie vertical so that it este paralel cu plan mediosagital de corp (Fig. 6.45). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Înclinat 10 grade cranial, entering proces coracoid
+    - **Poziție Pacient:** Se poziționează pacientul pe masa radiologică în decubit dorsal.; cu procesul coracoid al umărului afectat centrat pe masa de examinare, se instruiește pacientul să flecteze brațul puțin peste 90 de grade și să plaseze palma mâinii pe creștet, cu vârfurile degetelor sprijinite pe cap. (Această poziție a mâinii plasează humerusul în ușoară rotație internă.) Corpul humerusului este ajustat pentru a fi vertical, astfel încât să fie paralel cu planul mediosagital al corpului (Fig. 6.45). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Înclinat cu 10 grade cranial, pătrunzând prin procesul coracoid
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -140,19 +142,19 @@ title: Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method e
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Adjust ca needed la include 1 inch beyond superior și lateral Umăr margini. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se ajustează după necesitate pentru a include 1 țol dincolo de marginile superioară și laterală ale umărului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Overlapping de proces coracoid și Claviculă
-    - Posterolateral lateral aspect de cap humeral în profile
-    - axa longitudinală de Humerus aliniat cu axa longitudinală de pacientul’s corp
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Suprapunerea procesului coracoid și claviculei
+    - Aspectul lateral posterolateral al capului humeral în profil
+    - Axa longitudinală a humerusului aliniată cu axa longitudinală a corpului pacientului
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -161,6 +163,7 @@ title: Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method e
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -208,49 +211,3 @@ title: Rx Proximal Humerus — Incidență AP Axială — Stryker Notch Method e
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 406–409](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-posterosuperior și posterolateral areas de cap humeral (Figs. 6.46 și 6.47).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Adjust ca needed la include 1 inch beyond superior și lateral
-umăr margini. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• Înclinat 10 grade cranial, entering proces coracoid
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Overlapping de proces coracoid și clavicle
-• Posterolateral lateral aspect de cap humeral în profile
-• axa longitudinală de humerus aliniat cu axa longitudinală de pacientul’s corp
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• cu proces coracoid de afected umăr centrat pe masa de examinare, Se instruiește pacientul să se flectează braț slightly beyond 90 grade și
-place palm de mână pe top de capul cu fingertips resting pe capul. (This mână poziție places humerus în slight
-intern rotație poziție.) corp de humerus este ajustat la fie vertical so that it este paralel cu plan mediosagital de corp
-(Fig. 6.45).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se poziționează pacientul pe masa radiologică în decubit dorsal.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

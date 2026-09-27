@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: craniu-saf
-centering: Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm)
+centering: Orientată pentru a intra la nivelul glabelei, aproximativ 1 țol (2.5 cm)
   deasupra nazionului, la un unghi de 30 grade caudal. Dacă pacientul nu își poate
   flecta gâtul suficient, se ajustează linia infraorbitomeatală (LIOM) perpendicular
   pe receptorul de imagine și se orientează raza centrală 37 grade caudal. Se centrează
@@ -19,6 +19,10 @@ images:
 - caption: Merrill — pagina 922, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-n-soft-tissue-and-bony-trabecular-detail-incidenta-ap-axiala-modified-incidenta-ap-axiala-metoda-towne-p920-merrill/p922_fig3.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -52,12 +56,12 @@ source_pages:
 source_sections:
   anatomy: incidență AP axială simetrică; ambele arcade zigomatice sunt vizualizate.
     Arcadele trebuie să fie proiectate fără suprapunere (Fig. 11.131).
-  collimation: • Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra
     cutanată a obrazului afectat, superior până la vârful nasului și inferior până
     la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare
-    de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul
+    de 6 × 10 țoli (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul
     de expunere colimat.
-  cr: '• Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm)
+  cr: '• Orientată pentru a intra la nivelul glabelei, aproximativ 1 țol (2.5 cm)
     deasupra nazionului, la un unghi de 30 grade caudal.
 
     • Dacă pacientul nu își poate flecta gâtul suficient, se ajustează linia infraorbitomeatală
@@ -92,7 +96,7 @@ source_sections:
     • Se centrează MSP al corpului pe linia mediană a grilei.'
   respiration: apnee (oprirea respirației).
   tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
-    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
     (24 ×
 
     30 cm), transversal.'
@@ -101,10 +105,10 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra
     cutanată a obrazului afectat, superior până la vârful nasului și inferior până
     la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare
-    de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul
+    de 6 × 10 țoli (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul
     de expunere colimat.
 title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — incidență
   AP axială — incidență AP axială modificată (metoda Towne) (Merrill)
@@ -133,17 +137,18 @@ title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — inci
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Se așază pacientul în poziție șezândă, în ortostatism, sau în decubit dorsal. Se centrează MSP al corpului pe linia mediană a grilei. Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe linia mediană a grilei. Se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine (Fig. 11.128–11.130).
-    - **Punct de Centrare Fascicul:** Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm) deasupra nazionului, la un unghi de 30 grade caudal. Dacă pacientul nu își poate flecta gâtul suficient, se ajustează linia infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine și se orientează raza centrală 37 grade caudal. Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Orientată pentru a intra la nivelul glabelei, aproximativ 1 țol (2.5 cm) deasupra nazionului, la un unghi de 30 grade caudal. Dacă pacientul nu își poate flecta gâtul suficient, se ajustează linia infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine și se orientează raza centrală 37 grade caudal. Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -159,7 +164,7 @@ title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — inci
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra cutanată a obrazului afectat, superior până la vârful nasului și inferior până la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de umbra cutanată a obrazului afectat, superior până la vârful nasului și inferior până la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare de 6 × 10 țoli (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -167,9 +172,9 @@ title: Radiografia țesuturilor moi și a detaliilor osoase trabeculare — inci
     ---
 
     - Criterii radiologice de calitate a imaginii:
-n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-n fără suprapunerea arcadelor zigomatice peste mandibulă
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
+    - Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
+    - fără suprapunerea arcadelor zigomatice peste mandibulă
+    - Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
     - arcuri simetrice
     - Arcurile zigomatice proiectate lateral față de ramurile mandibulare
     - MSP al capului aliniat cu axa longitudinală a câmpului colimat n părți moi și detalii trabeculare osoase
@@ -181,6 +186,7 @@ n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinăr
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -228,50 +234,3 @@ n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinăr
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 920–922](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-incidență AP axială simetrică; ambele arcade zigomatice sunt vizualizate. Arcadele trebuie să fie proiectate fără suprapunere (Fig. 11.131).
-
-### colimare
-
-• Se ajustează câmpul de iradiere la 1 inch (2.5 cm) dincolo de umbra cutanată a obrazului afectat, superior până la vârful nasului și inferior până la gonion (unghiul mandibulei). Câmpul de expunere nu trebuie să fie mai mare de 6 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Orientată pentru a intra la nivelul glabelei, aproximativ 1 inch (2.5 cm) deasupra nazionului, la un unghi de 30 grade caudal.
-• Dacă pacientul nu își poate flecta gâtul suficient, se ajustează linia infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine și se orientează raza centrală 37 grade caudal.
-• Se centrează receptorul de imagine pe raza centrală.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-n fără suprapunerea arcadelor zigomatice peste mandibulă
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
-• arcade simetrice
-• arcadele zigomatice proiectate lateral față de ramurile mandibulare
-• MSP al capului aliniat cu axa longitudinală a câmpului colimat
-n părțile moi și detaliile osoase trabeculare
-
-### part_pos
-
-• Se ajustează capul pacientului astfel încât MSP să fie perpendicular pe linia mediană a grilei.
-• Se ajustează flexia gâtului astfel încât linia orbitomeatală (LOM) să fie perpendiculară pe planul receptorului de imagine (Fig. 11.128–11.130).
-
-### patient_pos
-
-• Se așază pacientul pe scaun, în ortostatism, sau în decubit dorsal.
-• Se centrează MSP al corpului pe linia mediană a grilei.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches (24 ×
-30 cm), transversal.
-

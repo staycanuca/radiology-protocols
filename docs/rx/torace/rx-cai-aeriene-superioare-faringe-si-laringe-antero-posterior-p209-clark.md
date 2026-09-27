@@ -54,6 +54,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cai-aeriene-superioare-faringe-si-laringe-antero-posterior-p209-clark/fig_7.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Achiziția imaginii se poate efectua cu sau fără grila Bucky.
@@ -151,31 +155,32 @@ title: Rx căi aeriene superioare (faringe și laringe) antero-posterior (AP)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal, cu planul mediosagital ajustat astfel încât să coincidă cu axa longitudinală centrală a mesei.
-• Bărbia este ridicată pentru a evidenția părțile moi de sub mandibulă și a aduce linia de bază radiografică la un unghi de 20 grade față de verticală.
-• Caseta este centrată la nivelul celei de-a patra vertebre cervicale.
-
-• Pacientul stă în ortostatism sau șezând, cu unul dintre umeri sprijinit de caseta verticală. Două suporturi de 45 grade pot fi plasate între capul pacientului și casetă pentru a ajuta la imobilizare.
-• Planurile mediosagitale ale trunchiului și capului sunt paralele cu caseta.
-• Mandibula este ridicată ușor, astfel încât unghiurile sale să fie separate de corpurile vertebrelor cervicale superioare.
-• Punctul situat la 2.5 cm posterior de unghiul mandibulei trebuie să coincidă cu linia centrală verticală a casetei.
-• Caseta este centrată la nivelul proeminenței cartilajului tiroid (mărul lui Adam), în dreptul celei de-a patra vertebre cervicale.
-• Imediat înaintea expunerii, pacientului i se cere să coboare forțat umerii, astfel încât structurile acestora să se proiecteze sub nivelul celei de-a șaptea vertebre cervicale.
-• În timpul acestei manevre, capul și trunchiul trebuie menținute în poziție.
-• Expunerea se efectuează în expir forțat.
-    - **Punct de Centrare Fascicul:** • Orientați raza centrală cu 10 grade cranial, pe linia mediană, la nivelul celei de-a patra vertebre cervicale.
-• Expunerea se efectuează în expir forțat.
-
-• Raza centrală orizontală este orientată spre punctul situat vertical sub apofiza mastoidă, la nivelul proeminenței cartilajului tiroid (mărul lui Adam), prin cea de-a patra vertebră cervicală.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal, cu planul mediosagital ajustat astfel încât să coincidă cu axa longitudinală centrală a mesei.
+        - Bărbia este ridicată pentru a evidenția părțile moi de sub mandibulă și a aduce linia de bază radiografică la un unghi de 20 grade față de verticală.
+        - Caseta este centrată la nivelul celei de-a patra vertebre cervicale.
+        - Pacientul stă în ortostatism sau șezând, cu unul dintre umeri sprijinit de caseta verticală. Două suporturi de 45 grade pot fi plasate între capul pacientului și casetă pentru a ajuta la imobilizare.
+        - Planurile mediosagitale ale trunchiului și capului sunt paralele cu caseta.
+        - Mandibula este ridicată ușor, astfel încât unghiurile sale să fie separate de corpurile vertebrelor cervicale superioare.
+        - Punctul situat la 2.5 cm posterior de unghiul mandibulei trebuie să coincidă cu linia centrală verticală a casetei.
+        - Caseta este centrată la nivelul proeminenței cartilajului tiroid (mărul lui Adam), în dreptul celei de-a patra vertebre cervicale.
+        - Imediat înaintea expunerii, pacientului i se cere să coboare forțat umerii, astfel încât structurile acestora să se proiecteze sub nivelul celei de-a șaptea vertebre cervicale.
+        - În timpul acestei manevre, capul și trunchiul trebuie menținute în poziție.
+        - Expunerea se efectuează în expir forțat.
+    - **Punct de Centrare Fascicul:**
+        - Orientați raza centrală cu 10 grade cranial, pe linia mediană, la nivelul celei de-a patra vertebre cervicale.
+        - Expunerea se efectuează în expir forțat.
+        - Raza centrală orizontală este orientată spre punctul situat vertical sub apofiza mastoidă, la nivelul proeminenței cartilajului tiroid (mărul lui Adam), prin cea de-a patra vertebră cervicală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în expir forțat.
 
@@ -212,11 +217,11 @@ title: Rx căi aeriene superioare (faringe și laringe) antero-posterior (AP)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Achiziția imaginii se poate efectua cu sau fără grila Bucky.
-• Evaluarea unui posibil corp străin radiopac mic poate să nu necesite o incidență antero-posterioară (AP), deoarece asemenea corpi străini radiopaci sunt probabil mascați de suprapunerea coloanei cervicale.
-• Aerul din faringe și laringe produce o creștere a contrastului subiectului în regiunea gâtului. Acesta poate fi redus folosind o tehnică cu kilovoltaj ridicat.
-194 Radiografie antero-posterioară (AP) care evidențiază laringele normal. Radiografie antero-posterioară (AP) a laringelui care evidențiază un laringocel.
+    - Achiziția imaginii se poate efectua cu sau fără grila Bucky.
+    - Evaluarea unui posibil corp străin radiopac mic poate să nu necesite o incidență antero-posterioară (AP), deoarece asemenea corpi străini radiopaci sunt probabil mascați de suprapunerea coloanei cervicale.
+    - Aerul din faringe și laringe produce o creștere a contrastului subiectului în regiunea gâtului. Acesta poate fi redus folosind o tehnică cu kilovoltaj ridicat. 194 Radiografie antero-posterioară (AP) care evidențiază laringele normal. Radiografie antero-posterioară (AP) a laringelui care evidențiază un laringocel.
 
 
 ### 🖼️ Imagini

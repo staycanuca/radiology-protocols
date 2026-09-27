@@ -71,6 +71,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p257-clark/fig_6.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Consultați incidențele occipito-frontale (p. 241).
@@ -165,34 +169,35 @@ title: Rx Craniu Fronto-occipital
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică ori cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
-• Capul este ajustat pentru a aduce planul mediosagital perpendicular pe filmul radiologic și coincident cu linia sa mediană. În această poziție, conductele auditive externe sunt echidistante față de casetă.
-• Linia de bază orbito-meatală trebuie să fie perpendiculară pe casetă.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică ori cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
+        - Capul este ajustat pentru a aduce planul mediosagital perpendicular pe filmul radiologic și coincident cu linia sa mediană. În această poziție, conductele auditive externe sunt echidistante față de casetă.
+        - Linia de bază orbito-meatală trebuie să fie perpendiculară pe casetă.
+        - Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică, cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
+        - Capul este ajustat pentru a aduce planul mediosagital perpendicular pe casetă și astfel încât să fie coincident cu linia sa mediană.
+        - Linia de bază orbito-meatală trebuie să fie perpendiculară pe filmul radiologic.
+    - **Punct de Centrare Fascicul:**
+        Toate angulațiile pentru incidențele fronto-occipitale sunt efectuate cranial.
 
-• Pacientul este culcat în decubit dorsal pe targa mobilă sau pe masa radiologică, cu fața posterioară a craniului sprijinită pe caseta cu grilă antidifuzoare.
-• Capul este ajustat pentru a aduce planul mediosagital perpendicular pe casetă și astfel încât să fie coincident cu linia sa mediană.
-• Linia de bază orbito-meatală trebuie să fie perpendiculară pe filmul radiologic.
-    - **Punct de Centrare Fascicul:** Toate angulațiile pentru incidențele fronto-occipitale sunt efectuate cranial.
-Fronto-occipital
-• Raza centrală este orientată perpendicular pe casetă sau Bucky, de-a lungul planului mediosagital.
-• Câmpul de colimare trebuie reglat astfel încât să includă vertexul superior al craniului, baza inferioară a osului occipital și marginile cutanate de profil (lateral). Este important să se asigure că tubul este centrat pe mijlocul dispozitivului Bucky.
-Angulație caudală fronto-occipitală:
-10, 15 și 20 grade
-• Tehnica utilizată pentru aceste trei incidențe este similară celei folosite pentru incidența occipito-frontală, cu excepția faptului că se aplică angulația cranială. Gradul angulației va depinde de incidența necesară.
-• Rețineți că filmul sau dispozitivul Bucky trebuie deplasat superior pentru a permite angulația tubului; în caz contrar, aria de interes diagnostic va fi proiectată în afara filmului radiologic. Pentru un unghi de 20 grade, partea superioară a casetei va trebui să se afle la 5 cm deasupra vertexului craniului.
+        Fronto-occipital
 
-• Raza centrală este înclinată caudal astfel încât formează un unghi de 30 grade cu linia orbitomeatală.
-• Centrați pe linia mediană astfel încât fasciculul să treacă la jumătatea distanței dintre conductele auditive externe. Acesta se află la aproximativ 5 cm deasupra glabelei.
-• Partea superioară a casetei trebuie poziționată adiacent vertexului craniului pentru a vă asigura că angulația fasciculului nu proiectează aria de interes diagnostic în afara părții inferioare a imaginii.
+        - Raza centrală este orientată perpendicular pe casetă sau Bucky, de-a lungul planului mediosagital.
+        - Câmpul de colimare trebuie reglat astfel încât să includă vertexul superior al craniului, baza inferioară a osului occipital și marginile cutanate de profil (lateral). Este important să se asigure că tubul este centrat pe mijlocul dispozitivului Bucky. Angulație caudală fronto-occipitală: 10, 15 și 20 grade
+        - Tehnica utilizată pentru aceste trei incidențe este similară celei folosite pentru incidența occipito-frontală, cu excepția faptului că se aplică angulația cranială. Gradul angulației va depinde de incidența necesară.
+        - Rețineți că filmul sau dispozitivul Bucky trebuie deplasat superior pentru a permite angulația tubului; în caz contrar, aria de interes diagnostic va fi proiectată în afara filmului radiologic. Pentru un unghi de 20 grade, partea superioară a casetei va trebui să se afle la 5 cm deasupra vertexului craniului.
+        - Raza centrală este înclinată caudal astfel încât formează un unghi de 30 grade cu linia orbitomeatală.
+        - Centrați pe linia mediană astfel încât fasciculul să treacă la jumătatea distanței dintre conductele auditive externe. Acesta se află la aproximativ 5 cm deasupra glabelei.
+        - Partea superioară a casetei trebuie poziționată adiacent vertexului craniului pentru a vă asigura că angulația fasciculului nu proiectează aria de interes diagnostic în afara părții inferioare a imaginii.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -232,11 +237,12 @@ Angulație caudală fronto-occipitală:
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Consultați incidențele occipito-frontale (p. 241).
-• În exemplul de mai jos, este necesară incidența FO20°↓, dar pacientul își poate menține linia de bază orbito-meatală doar la 10 grade înapoi față de perpendiculară (adică având bărbia ușor ridicată). Pentru a obține un unghi total de 20 grade, va trebui aplicată o angulație cranială de zece grade tubului.
-• În mod similar, dacă bărbia pacientului ar fi ridicată astfel încât linia de bază să fie la 20 grade față de perpendiculară, incidența FO20°↓ ar putea fi obținută utilizând tubul drept, perpendicular pe filmul radiologic.
-20° 10° 10° Incidență FO20°↑ obținută cu un unghi al tubului de 10° și RBL ridicată cu 10° Incidență FO Incidență FO20°↑
+
+    - În exemplul de mai jos, este necesară incidența FO20°↓, dar pacientul își poate menține linia de bază orbito-meatală doar la 10 grade înapoi față de perpendiculară (adică având bărbia ușor ridicată). Pentru a obține un unghi total de 20 grade, va trebui aplicată o angulație cranială de zece grade tubului.
+    - În mod similar, dacă bărbia pacientului ar fi ridicată astfel încât linia de bază să fie la 20 grade față de perpendiculară, incidența FO20°↓ ar putea fi obținută utilizând tubul drept, perpendicular pe filmul radiologic. 20° 10° 10° Incidență FO20°↑ obținută cu un unghi al tubului de 10° și RBL ridicată cu 10° Incidență FO Incidență FO20°↑
 
 
 ### 🖼️ Imagini

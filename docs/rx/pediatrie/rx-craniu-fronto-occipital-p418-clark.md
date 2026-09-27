@@ -3,41 +3,49 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: pediatrie
-centering: '• raza centrală este orientat la nazion la necessary angle la allow it
-  la pass along orbito-meatal plane.
+centering: '• Raza centrală este orientată spre nazion, la unghiul necesar pentru
+  a-i permite trecerea de-a lungul planului orbitomeatal.
 
-  • If it este required that orbits sunt vizualizat clear de petrous bone, raza centrală
-  trebuie să fie înclinat cranially so that it makes angle de 20 grade la orbito-meatal
-  plane și centred la nazion.'
+  • Dacă este necesar ca orbitele să fie vizualizate clar deasupra oaselor pietroase,
+  raza centrală trebuie înclinată cranial astfel încât să formeze un unghi de 20 de
+  grade cu planul orbitomeatal și să fie centrată pe nazion.'
 clinical_indications:
-- "403 14 Craniu Fronto-occipital A 24 \x02 30-cm sau 18 \x02 24-cm casetă este selected,\
-  \ depending pe size de Craniu."
+- 403 14 Craniu fronto-occipital. Se selectează o casetă de 24 × 30 cm sau de 18 ×
+  24 cm, în funcție de dimensiunea craniului.
 images:
-- caption: sent pe radiografie și trebuie să fie simetric.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Prezente pe radiografie și trebuie să fie simetrice.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_1.jpeg
-- caption: imagine de normal fronto-occipital Craniu radiografie
+- caption: Imagine de radiografie craniană fronto-occipitală normală
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_2.jpeg
-- caption: imagine de fronto-occipital Craniu radiografie de infant evidențiind drept
+- caption: Imagine de radiografie craniană fronto-occipitală a unui sugar, evidențiind
+    partea dreaptă
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_3.jpeg
+iris_reference:
+  chapter: Pediatrie — Aparat locomotor
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• child este poziționat carefully în Decubit dorsal poziție, cu capul resting
-  pe pre-formed foam pad poziționat pe top de caseta. capul este ajustat la bring
-  planul mediosagital la drept-angles la și în linia mediană casetă.
+position: '• Copilul este poziționat cu grijă în decubit dorsal, cu capul sprijinit
+  pe o pernă preformată din spumă, poziționată pe casetă. Capul este ajustat pentru
+  a aduce planul mediosagital perpendicular pe și pe linia mediană a casetei.
 
-  extern auditory meati trebuie să fie echidistant față de caseta.
+  Meaturile acustice externe trebuie să fie echidistante față de casetă.
 
-  • child este imobilizat în this poziție cu assistance de carer, who este asked la
-  hold foam pads pe either side de Craniu during expunere. carer usually stands la
-  capul end de imaging table la undertake this procedure.
+  • Copilul este imobilizat în această poziție cu ajutorul însoțitorului, căruia i
+  se cere să țină pernițele din spumă de o parte și de alta a craniului în timpul
+  expunerii. Însoțitorul stă de obicei la extremitatea cefalică a mesei radiologice
+  pentru efectuarea acestei proceduri.
 
-  Occasionally, second carer este required la assist în keeping child still.'
+  Ocazional, este necesar un al doilea însoțitor pentru a ajuta la menținerea copilului
+  nemișcat.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -46,19 +54,20 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Whole cranial vault, orbits și petrous bones trebuie să fie present pe radiografie
-  și trebuie să fie simetric.
-- pentru occipito-frontal 20 grade, petrous bones trebuie să fie projected over lower
-  orbital margins.
-- Lambdoid și coronal sutures trebuie să fie simetric.
-- Visually reproducere netă contururilor de outer și inner tables de cranial vault
-  according la age.
-- Reproduction de Sinusuri Paranazale (SAF) și temporal bones consistent cu age.
-- Visualization de sutures consistent cu age.
-- Soft tissues de scalp trebuie să fie reproduced cu bright light.
-- 'Erori de evitat / remedii: Holder’s mâini around fața.'
-- 'Erori de evitat / remedii: Wide cones.'
-- 'Erori de evitat / remedii: rotit pacient cu respect la caseta.'
+- Întreaga boltă craniană, orbitele și oasele pietroase trebuie să fie prezente pe
+  radiografie și trebuie să fie simetrice.
+- Pentru incidența occipito-frontală la 20 de grade, oasele pietroase trebuie să fie
+  proiectate peste marginile orbitale inferioare.
+- Suturile lambdoidă și coronală trebuie să fie simetrice.
+- Reproducerea vizuală clară a contururilor tăbliilor externe și interne ale bolții
+  craniene, în funcție de vârstă.
+- Reproducerea sinusurilor paranazale (SAF) și a oaselor temporale, în concordanță
+  cu vârsta.
+- Vizualizarea suturilor, în concordanță cu vârsta.
+- Țesuturile moi ale scalpului trebuie reproduse cu o luminozitate intensă.
+- 'Erori de evitat / remedii: mâinile însoțitorului în jurul feței.'
+- 'Erori de evitat / remedii: conuri largi.'
+- 'Erori de evitat / remedii: pacient rotit în raport cu caseta.'
 sid_dff: 100 cm
 slug: rx-craniu-fronto-occipital-p418-clark
 sources:
@@ -67,14 +76,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Craniu Fronto - occipital
+  mas: Conform AEC / grosimii anatomice
+title: Rx Craniu Fronto-occipital
 ---
-# Rx Craniu Fronto - occipital
+# Rx Craniu Fronto-occipital
 
 
 <div class="rx-meta-bar">
@@ -93,26 +102,27 @@ title: Rx Craniu Fronto - occipital
 
     === "Indicații Clinice"
 
-        - 403 14 Craniu Fronto-occipital A 24  30-cm sau 18  24-cm casetă este selected, depending pe size de Craniu.
+        - 403 14 Craniu fronto-occipital. Se selectează o casetă de 24 × 30 cm sau de 18 × 24 cm, în funcție de dimensiunea craniului.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Aparat locomotor*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • child este poziționat carefully în Decubit dorsal poziție, cu capul resting pe pre-formed foam pad poziționat pe top de caseta. capul este ajustat la bring planul mediosagital la drept-angles la și în linia mediană casetă.
-extern auditory meati trebuie să fie echidistant față de caseta.
-• child este imobilizat în this poziție cu assistance de carer, who este asked la hold foam pads pe either side de Craniu during expunere. carer usually stands la capul end de imaging table la undertake this procedure.
-Occasionally, second carer este required la assist în keeping child still.
-    - **Punct de Centrare Fascicul:** • raza centrală este orientat la nazion la necessary angle la allow it la pass along orbito-meatal plane.
-• If it este required that orbits sunt vizualizat clear de petrous bone, raza centrală trebuie să fie înclinat cranially so that it makes angle de 20 grade la orbito-meatal plane și centred la nazion.
+    - **Poziție Pacient:**
+        - Copilul este poziționat cu grijă în decubit dorsal, cu capul sprijinit pe o pernă preformată din spumă, poziționată pe casetă. Capul este ajustat pentru a aduce planul mediosagital perpendicular pe și pe linia mediană a casetei. Meaturile acustice externe trebuie să fie echidistante față de casetă.
+        - Copilul este imobilizat în această poziție cu ajutorul însoțitorului, căruia i se cere să țină pernițele din spumă de o parte și de alta a craniului în timpul expunerii. Însoțitorul stă de obicei la extremitatea cefalică a mesei radiologice pentru efectuarea acestei proceduri. Ocazional, este necesar un al doilea însoțitor pentru a ajuta la menținerea copilului nemișcat.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală este orientată spre nazion, la unghiul necesar pentru a-i permite trecerea de-a lungul planului orbitomeatal.
+        - Dacă este necesar ca orbitele să fie vizualizate clar deasupra oaselor pietroase, raza centrală trebuie înclinată cranial astfel încât să formeze un unghi de 20 de grade cu planul orbitomeatal și să fie centrată pe nazion.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -123,28 +133,28 @@ Occasionally, second carer este required la assist în keeping child still.
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Whole cranial vault, orbits și petrous bones trebuie să fie present pe radiografie și trebuie să fie simetric.
-    - pentru occipito-frontal 20 grade, petrous bones trebuie să fie projected over lower orbital margins.
-    - Lambdoid și coronal sutures trebuie să fie simetric.
-    - Visually reproducere netă contururilor de outer și inner tables de cranial vault according la age.
-    - Reproduction de Sinusuri Paranazale (SAF) și temporal bones consistent cu age.
-    - Visualization de sutures consistent cu age.
-    - Soft tissues de scalp trebuie să fie reproduced cu bright light.
-    - Erori de evitat / remedii: Holder’s mâini around fața.
-    - Erori de evitat / remedii: Wide cones.
-    - Erori de evitat / remedii: rotit pacient cu respect la caseta.
+    - Întreaga boltă craniană, orbitele și oasele pietroase trebuie să fie prezente pe radiografie și trebuie să fie simetrice.
+    - Pentru incidența occipito-frontală la 20 de grade, oasele pietroase trebuie să fie proiectate peste marginile orbitale inferioare.
+    - Suturile lambdoidă și coronală trebuie să fie simetrice.
+    - Reproducerea vizuală clară a contururilor tăbliilor externe și interne ale bolții craniene, în funcție de vârstă.
+    - Reproducerea sinusurilor paranazale (SAF) și a oaselor temporale, în concordanță cu vârsta.
+    - Vizualizarea suturilor, în concordanță cu vârsta.
+    - Țesuturile moi ale scalpului trebuie reproduse cu o luminozitate intensă.
+    - Erori de evitat / remedii: mâinile însoțitorului în jurul feței.
+    - Erori de evitat / remedii: conuri largi.
+    - Erori de evitat / remedii: pacient rotit în raport cu caseta.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -156,6 +166,7 @@ Occasionally, second carer este required la assist în keeping child still.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -166,25 +177,25 @@ Occasionally, second carer este required la assist în keeping child still.
 
 <figure class="protocol-image-card" markdown>
 
-![sent pe radiografie și trebuie să fie simetric.](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_1.jpeg)
+![Prezente pe radiografie și trebuie să fie simetrice.](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_1.jpeg)
 
-<figcaption><strong>sent pe radiografie și trebuie să fie simetric.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![imagine de normal fronto-occipital Craniu radiografie](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_2.jpeg)
-
-<figcaption><strong>imagine de normal fronto-occipital Craniu radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Prezente pe radiografie și trebuie să fie simetrice.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![imagine de fronto-occipital Craniu radiografie de infant evidențiind drept](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_3.jpeg)
+![Imagine de radiografie craniană fronto-occipitală normală](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_2.jpeg)
 
-<figcaption><strong>imagine de fronto-occipital Craniu radiografie de infant evidențiind drept</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Imagine de radiografie craniană fronto-occipitală normală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Imagine de radiografie craniană fronto-occipitală a unui sugar, evidențiind partea dreaptă](../../assets/images/protocols/clark/rx-craniu-fronto-occipital-p418-clark/fig_3.jpeg)
+
+<figcaption><strong>Imagine de radiografie craniană fronto-occipitală a unui sugar, evidențiind partea dreaptă</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

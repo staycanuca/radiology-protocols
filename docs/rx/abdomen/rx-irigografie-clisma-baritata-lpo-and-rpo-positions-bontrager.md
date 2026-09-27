@@ -29,6 +29,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-irigografie-clisma-baritata-lpo-and-rpo-positions-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: '). Poziție: LPo: nu se observă înclinare, iar coloana vertebrală este paralelă
@@ -106,11 +110,12 @@ title: Rx Irigografie (Clismă Baritată) LPO ȘI Oblică Posterioară Dreaptă 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -153,6 +158,7 @@ title: Rx Irigografie (Clismă Baritată) LPO ȘI Oblică Posterioară Dreaptă 
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     ). Poziție: LPo: nu se observă înclinare, iar coloana vertebrală este paralelă cu marginea radiografiei. Aripa iliacă stângă este alungită, iar partea dreaptă apare scurtată. RPo: nu există înclinare; coloana vertebrală este paralelă cu marginea radiografiei. Aripa iliacă dreaptă este alungită, iar partea stângă apare scurtată. Se aplică dimensiunea corectă a câmpului de colimare. Expunere: expunere optimă a receptorului de imagine și contrast optim pentru vizualizarea intestinului gros (colon) umplut cu substanță de contrast, fără supraexpunerea semnificativă a vreunei porțiuni. Marginile nete ale structurilor indică absența mișcării. B Fig. 13.70 (A) LPO. (B) RPO. Flexura colică stângă Fig. 13.72 RPO—pentru flexura colică stângă. (Imagine centrată pentru a evidenția flexura colică stângă.)

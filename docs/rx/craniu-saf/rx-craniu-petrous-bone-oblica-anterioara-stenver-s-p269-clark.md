@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-petrous-bone-oblica-anterioara-stenver-s-p269-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Această incidență este acum mai mult sau mai puțin redundantă datorită capacităților
@@ -105,24 +109,27 @@ title: 'Rx Craniu Os temporal pietros: oblică anterioară (Stenver)'
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul poate fi în decubit ventral sau poate fi examinat mai confortabil în ortostatism, cu fața spre stativul vertical Bucky.
-• Mijlocul marginii supraorbitale de pe partea examinată este centrat la mijlocul stativului Bucky.
-• Gâtul este flectat astfel încât nasul și fruntea să fie în contact cu masa de examinare, iar linia orbitomeatală (LOM) să fie perpendiculară pe masă.
-• Din poziția în care planul mediosagital este perpendicular pe masă, capul este rotit spre partea examinată, astfel încât planul mediosagital să formeze acum un unghi de 45 grade cu masa de examinare. Astfel, porțiunea pietroasă a osului temporal devine paralelă cu caseta.
-• Gâtul este extins astfel încât linia orbitomeatală (LOM) să fie ridicată cu cinci grade față de orizontală.
-• O casetă de 18 × 24 cm este plasată transversal în Bucky și centrată la nivelul care coincide cu raza centrală.
-    - **Punct de Centrare Fascicul:** • Se utilizează o angulație craniană a fasciculului de 12 grade, adică la un unghi de șapte grade față de planul orbitomeatal, pentru a separa occiputul de osul pietros.
-• Se centrează la mijlocul distanței dintre protuberanța occipitală externă și conductul auditiv extern cel mai îndepărtat de casetă.
-• Se colimează la nivelul porțiunilor mastoidiană și pietroasă ale osului temporal examinat.
+    - **Poziție Pacient:**
+        - Pacientul poate fi în decubit ventral sau poate fi examinat mai confortabil în ortostatism, cu fața spre stativul vertical Bucky.
+        - Mijlocul marginii supraorbitale de pe partea examinată este centrat la mijlocul stativului Bucky.
+        - Gâtul este flectat astfel încât nasul și fruntea să fie în contact cu masa de examinare, iar linia orbitomeatală (LOM) să fie perpendiculară pe masă.
+        - Din poziția în care planul mediosagital este perpendicular pe masă, capul este rotit spre partea examinată, astfel încât planul mediosagital să formeze acum un unghi de 45 grade cu masa de examinare. Astfel, porțiunea pietroasă a osului temporal devine paralelă cu caseta.
+        - Gâtul este extins astfel încât linia orbitomeatală (LOM) să fie ridicată cu cinci grade față de orizontală.
+        - O casetă de 18 × 24 cm este plasată transversal în Bucky și centrată la nivelul care coincide cu raza centrală.
+    - **Punct de Centrare Fascicul:**
+        - Se utilizează o angulație craniană a fasciculului de 12 grade, adică la un unghi de șapte grade față de planul orbitomeatal, pentru a separa occiputul de osul pietros.
+        - Se centrează la mijlocul distanței dintre protuberanța occipitală externă și conductul auditiv extern cel mai îndepărtat de casetă.
+        - Se colimează la nivelul porțiunilor mastoidiană și pietroasă ale osului temporal examinat.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -159,9 +166,9 @@ title: 'Rx Craniu Os temporal pietros: oblică anterioară (Stenver)'
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Această incidență este acum mai mult sau mai puțin redundantă datorită capacităților diagnostice superioare ale CT.
-Canale semicirculare Eminență arcuată Vestibul Cohlee Conduct auditiv intern Apex Canal carotidian Capul mandibulei Fosa jugulară Sinus sigmoid Proces mastoidian Proces stiloid 45° Os temporal pietros Casetă
+    Această incidență este acum mai mult sau mai puțin redundantă datorită capacităților diagnostice superioare ale CT. Canale semicirculare Eminență arcuată Vestibul Cohlee Conduct auditiv intern Apex Canal carotidian Capul mandibulei Fosa jugulară Sinus sigmoid Proces mastoidian Proces stiloid 45° Os temporal pietros Casetă
 
 
 ### 🖼️ Imagini

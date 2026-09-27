@@ -15,10 +15,15 @@ Protocoale pentru organe parenchimatoase abdominale, tract digestiv și sistem u
   </a>
 </div>
 
-## Catalog Protocoale (266 disponibile)
+## Catalog Protocoale (271 disponibile)
 
 | Protocol | Tip Scanare | Sursă / Autor |
 |:---|:---:|:---|
+| [CT Enterografie cu Distensie Enterică Neutră (Protocol MIA Radiology)](ct-enterografie-intestin-subtire.md) | Contrast IV + Oral | Medical Imaging Associates (MIA) / Clinical Radiology Team |
+| [CTA Ischemie Mezenterică - Split Bolus (Protocol Dartmouth Hitchcock)](ct-cta-mesenteric-ischemia-dartmouth.md) | Contrast IV | Dartmouth-Hitchcock Medical Center / Geisel School of Medicine |
+| [CTA Abdomen & Pelvis DIEP Flap (Protocol Dartmouth Hitchcock)](ct-cta-dieap-flap-dartmouth.md) | Contrast IV | Dartmouth-Hitchcock Medical Center / Geisel School of Medicine |
+| [CT Colonografie Virtuală - Pregătire & Scanare (Protocol Dartmouth Hitchcock)](ct-colonography-virtual-dartmouth.md) | Nativ | Dartmouth-Hitchcock Medical Center / Geisel School of Medicine |
+| [Ghid Clinic Administrare Contrast Oral CT Abdomen/Pelvis 2026](ct-oral-contrast-guidelines-dartmouth.md) | Contrast IV | Dartmouth-Hitchcock Medical Center / Geisel School of Medicine |
 | [CT Abdomen & Pelvis Rutină (Protocol OHSU)](ct-abdomen-pelvis-ohsu.md) | Contrast IV | OHSU Diagnostic Radiology / Departamentul de Radiologie |
 | [CT Abdomen și Pelvis cu Substanță de Contrast](ct-abdomen-pelvis-with-contrast.md) | Contrast IV | Departamentul de Radiologie |
 | [CT Abdomen & Pelvis Nativ (Protocol OHSU)](ct-abdomen-pelvis-wo-ohsu.md) | Nativ | OHSU Diagnostic Radiology / Departamentul de Radiologie |
@@ -285,3 +290,27 @@ Protocoale pentru organe parenchimatoase abdominale, tract digestiv și sistem u
 | [CT Protocol Masă Renală (Multifazic)](ct-renal-mass-protocol.md) | Contrast IV | Departamentul de Radiologie |
 | [CT Ficat Trifazic (Protocol Carcinom Hepatocelular / Masă Hepatică)](ct-triple-phase-liver.md) | Contrast IV | Departamentul de Radiologie |
 | [CT Urografie / Evaluare Hematurie (Protocol OHSU)](ct-urogram-ohsu.md) | Nativ | OHSU Diagnostic Radiology / Departamentul de Radiologie |
+
+<!-- mcb-modalities:start -->
+## Documente MCB Radiology
+
+- [Abdomen de rutină](ct-abdomen-de-rutina-mcb.md) — Protocol
+- [Abdomen și pelvis de rutină](ct-abdomen-si-pelvis-de-rutina-mcb.md) — Protocol
+- [Cistografie](ct-cistografie-mcb.md) — Protocol
+- [Enterografie monofazică](ct-enterografie-monofazica-mcb.md) — Protocol
+- [Enterografie multifazică](ct-enterografie-multifazica-mcb.md) — Protocol
+- [Ficat](ct-ficat-mcb.md) — Protocol
+- [Ficat înainte de SIRT](ct-ficat-inainte-de-sirt-mcb.md) — Protocol
+- [Hemoragie acută](ct-hemoragie-acuta-mcb.md) — Protocol
+- [Ischemie mezenterică](ct-ischemie-mezenterica-mcb.md) — Protocol
+- [Litiază renală](ct-litiaza-renala-mcb.md) — Protocol
+- [Pancreas](ct-pancreas-mcb.md) — Protocol
+- [Pancreatită](ct-pancreatita-mcb.md) — Protocol
+- [Pelvis de rutină](ct-pelvis-de-rutina-mcb.md) — Protocol
+- [Rinichi](ct-rinichi-mcb.md) — Protocol
+- [Suprarenale](ct-suprarenale-mcb.md) — Protocol
+- [Torace și abdomen de rutină](ct-torace-si-abdomen-de-rutina-mcb.md) — Protocol
+- [Torace, abdomen și pelvis de rutină](ct-torace-abdomen-si-pelvis-de-rutina-mcb.md) — Protocol
+- [Urografie de rutină](ct-urografie-de-rutina-mcb.md) — Protocol
+- [Urografie split-bolus](ct-urografie-split-bolus-mcb.md) — Protocol
+<!-- mcb-modalities:end -->

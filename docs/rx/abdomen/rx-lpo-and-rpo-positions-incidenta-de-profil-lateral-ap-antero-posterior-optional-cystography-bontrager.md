@@ -26,6 +26,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 14.87
     profil stâng (opțional).)
   url: assets/images/protocols/bontrager/rx-lpo-and-rpo-positions-incidenta-de-profil-lateral-ap-antero-posterior-optional-cystography-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'Nu flectați membrul inferior de pe partea ridicată mai mult decât este necesar
@@ -86,11 +90,12 @@ title: Rx LPO ȘI Oblică Posterioară Dreaptă (OPD / RPO), Incidență de Prof
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -132,6 +137,7 @@ title: Rx LPO ȘI Oblică Posterioară Dreaptă (OPD / RPO), Incidență de Prof
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Nu flectați membrul inferior de pe partea ridicată mai mult decât este necesar pentru a preveni suprapunerea membrului inferior peste vezica urinară. Incidența de profil: Aceasta este opțională din cauza dozei mari de radiații la nivelul gonadelor. Poziționați pacientul în profil strict (Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase) (Fig. 14.87).

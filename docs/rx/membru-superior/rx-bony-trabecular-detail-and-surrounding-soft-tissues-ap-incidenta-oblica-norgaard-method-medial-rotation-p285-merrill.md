@@ -2,8 +2,9 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular la point midway între ambele mâini la nivelul articulații
-  metacarpofalangiene (MCF) pentru either de two pacient poziții
+centering: perpendicular pe punctul situat la mijloc între ambele mâini, la nivelul
+  articulațiilor metacarpofalangiene (MCF), pentru oricare dintre cele două poziții
+  ale pacientului
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -19,32 +20,37 @@ images:
 - caption: Merrill — pagina 287, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-ap-incidenta-oblica-norgaard-method-medial-rotation-p285-merrill/p287_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică. Norgaard recommended
-  that ambele mâini fie radiographed în half-în supinație poziție pentru comparison.;
-  Se instruiește pacientul să place palms de ambele mâini together. se centrează articulații
-  metacarpofalangiene (MCF) pe medial aspect de ambele mâini la receptorul de imagine.
-  ambele mâini trebuie să fie în Incidență de Profil (lateral). Place two 45-grade
-  radiolucent sponges pe / sprijinit de posterior aspect de fiecare Mână. se rotește
-  pacient’s mâini la half-în supinație poziție until dorsal surface de fiecare Mână
-  rests against fiecare 45-grade sponge support (Fig. 5.66). se extinde pacient’s
-  Degete Mână și abduct thumbs slightly la avoid superimposing them over second articulații
-  metacarpofalangiene (MCF). original method de positioning mâinile este often modified.
-  pacientul este poziționat similar la method described, except that Degete Mână sunt
-  nu extins. Instead, Degete Mână sunt cupped ca though pacientul were going la catch
-  ball (Fig. 5.67). Comparable diagnostic information este provided using either poziție.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Pacientul se așază pe scaun la capătul mesei radiologice. Norgaard a recomandat
+  ca ambele mâini să fie radiografiate în poziție de semisupinație, pentru comparație.;
+  Se instruiește pacientul să așeze palmele ambelor mâini împreună. Se centrează articulațiile
+  metacarpofalangiene (MCF) pe aspectul medial al ambelor mâini la receptorul de imagine.
+  Ambele mâini trebuie să fie în incidență de profil (lateral). Se plasează două bureți
+  radiotransparenți la 45 de grade pe sau sprijiniți de aspectul posterior al fiecărei
+  mâini. Se rotesc mâinile pacientului în poziție de semisupinație până când suprafața
+  dorsală a fiecărei mâini se sprijină pe fiecare suport din burete la 45 de grade
+  (Fig. 5.66). Se extind degetele pacientului și se abduc ușor policele pentru a evita
+  suprapunerea acestora peste a doua articulație metacarpofalangiană (MCF). Metoda
+  originală de poziționare a mâinilor este adesea modificată. Pacientul este poziționat
+  similar metodei descrise, cu excepția faptului că degetele nu sunt extinse. În schimb,
+  degetele sunt curbate ca și cum pacientul s-ar pregăti să prindă o minge (Fig. 5.67).
+  Se obțin informații diagnostice comparabile folosind oricare dintre poziții. Se
+  efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- ambele mâini de la carpal area la tips de falange
-- Metacarpal heads și proximal phalangeal bases liber de superimposition
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Ambele mâini, de la regiunea carpiană până la vârfurile falangelor
+- Capetele metacarpienelor și bazele falangelor proximale fără suprapunere
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-bony-trabecular-detail-and-surrounding-soft-tissues-ap-incidenta-oblica-norgaard-method-medial-rotation-p285-merrill
 source_pages:
@@ -52,78 +58,68 @@ source_pages:
 - 286
 - 287
 source_sections:
-  anatomy: 'AP 45-grade oblic incidență de ambele mâini (see Fig. 5.68). early radiologic
-    change significant în making diagnosis de rheumatoid
+  anatomy: Incidență oblică AP la 45 de grade a ambelor mâini (vezi Fig. 5.68). Modificarea
+    radiologică precoce, semnificativă pentru diagnosticul artritei reumatoide, este
+    un contur simetric, foarte discret și indistinct al osului, corespunzător inserției
+    capsulei articulare dorsoradiale pe extremitatea proximală a primei falange a
+    celor patru degete. În plus, demineralizarea asociată a structurii osoase este
+    întotdeauna prezentă în aria situată direct sub defectul de contur.
+  collimation: • Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangelor,
+    inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Plasați markerul de
+    lateralitate în câmpul de expunere colimat.
+  cr: • perpendicular pe punctul situat la mijloc între ambele mâini, la nivelul articulațiilor
+    metacarpofalangiene (MCF), pentru oricare dintre cele două poziții ale pacientului
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    arthritis este simetric, very slight, indistinct outline de bone corresponding
-    la insertion de articulație capsule dorsoradial pe proximal
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    end de first phalanx de four fingers. în addition, associated demineralization
-    de bone structure este always present în area directly
+    • Ambele mâini, de la regiunea carpiană până la vârfurile falangelor
 
-    below contour defect.'
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la ulnar styloid. Place side
+    • Capetele metacarpienelor și bazele falangelor proximale fără suprapunere
 
-    marker în collimated expunere field.'
-  cr: • perpendicular la point midway între ambele mâini la nivelul articulații metacarpofalangiene
-    (MCF) pentru either de two pacient poziții
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se instruiește pacientul să așeze palmele ambelor mâini împreună. Se
+    centrează articulațiile metacarpofalangiene (MCF) pe aspectul medial al ambelor
+    mâini la receptorul de imagine. Ambele mâini trebuie să fie în poziție de profil
+    (lateral).
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Se plasează două bureți radiotransparenți la 45 de grade pe sau sprijiniți de
+    aspectul posterior al fiecărei mâini.
 
-    • ambele mâini de la carpal area la tips de falange
-
-    • Metacarpal heads și proximal phalangeal bases liber de superimposition
-
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Se instruiește pacientul să place palms de ambele mâini together. se
-    centrează articulații metacarpofalangiene (MCF) pe medial aspect de ambele mâini
-    la receptorul de imagine. ambele
-
-    mâini trebuie să fie în poziție de profil (lateral).
-
-    • Place two 45-grade radiolucent sponges pe / sprijinit de posterior aspect de
-    fiecare mână.
-
-    • se rotește pacient’s mâini la half-în supinație poziție until dorsal surface
-    de fiecare mână rests against fiecare 45-grade sponge support
-
+    • Se rotesc mâinile pacientului în poziție de semisupinație până când suprafața
+    dorsală a fiecărei mâini se sprijină pe fiecare suport din burete la 45 de grade
     (Fig. 5.66).
 
-    • se extinde pacient’s fingers și abduct thumbs slightly la avoid superimposing
-    them over second articulații metacarpofalangiene (MCF).
+    • Se extind degetele pacientului și se abduc ușor policele pentru a evita suprapunerea
+    acestora peste a doua articulație metacarpofalangiană (MCF).
 
-    • original method de positioning mâinile este often modified. pacientul este poziționat
-    similar la method described, except that
+    • Metoda originală de poziționare a mâinilor este adesea modificată. Pacientul
+    este poziționat similar metodei descrise, cu excepția faptului că degetele nu
+    sunt extinse. În schimb, degetele sunt curbate ca și cum pacientul s-ar pregăti
+    să prindă o minge (Fig. 5.67). Se obțin informații diagnostice comparabile folosind
+    oricare dintre poziții.
 
-    degetele sunt nu extins. Instead, degetele sunt cupped ca though pacientul were
-    going la catch ball (Fig. 5.67). Comparable
-
-    diagnostic information este provided using either poziție.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică. Norgaard
-    recommended that ambele mâini fie radiographed în half-în supinație
-
-    poziție pentru comparison.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30
-
-    cm) transversal'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Pacientul se așază pe scaun la capătul mesei radiologice. Norgaard
+    a recomandat ca ambele mâini să fie radiografiate în poziție de semisupinație,
+    pentru comparație.
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru afișarea corectă a orientării anatomice; placă pentru raza centrală: 10
+    × 12 țoli (24 × 30 cm), transversal'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 285–287
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate
-    în câmpul colimat.
-title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Oblică Antero-Posterioară
-  (AP) — Metoda Norgaard (Ball-Catcher) Rotație Internă (Medială) (Merrill)
+  collimation: Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangelor,
+    inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Plasați markerul de
+    lateralitate în câmpul colimat.
+title: Rx ▪ Detalii trabeculare osoase și țesuturile moi înconjurătoare — Incidență
+  oblică antero-posterioară (AP) — Metoda Norgaard (Ball-Catcher) Rotație internă
+  (medială) (Merrill)
 ---
-# Rx ▪ Bony trabecular detail and surrounding soft tissues — Oblică Antero-Posterioară (AP) — Metoda Norgaard (Ball-Catcher) Rotație Internă (Medială) (Merrill)
+# Rx ▪ Detalii trabeculare osoase și țesuturile moi înconjurătoare — Incidență oblică antero-posterioară (AP) — Metoda Norgaard (Ball-Catcher) Rotație internă (medială) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -147,17 +143,18 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Oblică An
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică. Norgaard recommended that ambele mâini fie radiographed în half-în supinație poziție pentru comparison.; Se instruiește pacientul să place palms de ambele mâini together. se centrează articulații metacarpofalangiene (MCF) pe medial aspect de ambele mâini la receptorul de imagine. ambele mâini trebuie să fie în Incidență de Profil (lateral). Place two 45-grade radiolucent sponges pe / sprijinit de posterior aspect de fiecare Mână. se rotește pacient’s mâini la half-în supinație poziție until dorsal surface de fiecare Mână rests against fiecare 45-grade sponge support (Fig. 5.66). se extinde pacient’s Degete Mână și abduct thumbs slightly la avoid superimposing them over second articulații metacarpofalangiene (MCF). original method de positioning mâinile este often modified. pacientul este poziționat similar la method described, except that Degete Mână sunt nu extins. Instead, Degete Mână sunt cupped ca though pacientul were going la catch ball (Fig. 5.67). Comparable diagnostic information este provided using either poziție. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular la point midway între ambele mâini la nivelul articulații metacarpofalangiene (MCF) pentru either de two pacient poziții
+    - **Poziție Pacient:** Pacientul se așază pe scaun la capătul mesei radiologice. Norgaard a recomandat ca ambele mâini să fie radiografiate în poziție de semisupinație, pentru comparație.; Se instruiește pacientul să așeze palmele ambelor mâini împreună. Se centrează articulațiile metacarpofalangiene (MCF) pe aspectul medial al ambelor mâini la receptorul de imagine. Ambele mâini trebuie să fie în incidență de profil (lateral). Se plasează două bureți radiotransparenți la 45 de grade pe sau sprijiniți de aspectul posterior al fiecărei mâini. Se rotesc mâinile pacientului în poziție de semisupinație până când suprafața dorsală a fiecărei mâini se sprijină pe fiecare suport din burete la 45 de grade (Fig. 5.66). Se extind degetele pacientului și se abduc ușor policele pentru a evita suprapunerea acestora peste a doua articulație metacarpofalangiană (MCF). Metoda originală de poziționare a mâinilor este adesea modificată. Pacientul este poziționat similar metodei descrise, cu excepția faptului că degetele nu sunt extinse. În schimb, degetele sunt curbate ca și cum pacientul s-ar pregăti să prindă o minge (Fig. 5.67). Se obțin informații diagnostice comparabile folosind oricare dintre poziții. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe punctul situat la mijloc între ambele mâini, la nivelul articulațiilor metacarpofalangiene (MCF), pentru oricare dintre cele două poziții ale pacientului
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -173,18 +170,18 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Oblică An
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la ulnar styloid. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangelor, inclusiv 1 țol (2.5 cm) proximal față de stiloida ulnară. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - ambele mâini de la carpal area la tips de falange
-    - Metacarpal heads și proximal phalangeal bases liber de superimposition
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Ambele mâini, de la regiunea carpiană până la vârfurile falangelor
+    - Capetele metacarpienelor și bazele falangelor proximale fără suprapunere
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -193,6 +190,7 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Oblică An
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -248,53 +246,3 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Oblică An
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 285–287](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP 45-grade oblic incidență de ambele mâini (see Fig. 5.68). early radiologic change significant în making diagnosis de rheumatoid
-arthritis este simetric, very slight, indistinct outline de bone corresponding la insertion de articulație capsule dorsoradial pe proximal
-end de first phalanx de four fingers. în addition, associated demineralization de bone structure este always present în area directly
-below contour defect.
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la ulnar styloid. Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular la point midway între ambele mâini la nivelul articulații metacarpofalangiene (MCF) pentru either de two pacient poziții
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• ambele mâini de la carpal area la tips de falange
-• Metacarpal heads și proximal phalangeal bases liber de superimposition
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Se instruiește pacientul să place palms de ambele mâini together. se centrează articulații metacarpofalangiene (MCF) pe medial aspect de ambele mâini la receptorul de imagine. ambele
-mâini trebuie să fie în poziție de profil (lateral).
-• Place two 45-grade radiolucent sponges pe / sprijinit de posterior aspect de fiecare mână.
-• se rotește pacient’s mâini la half-în supinație poziție until dorsal surface de fiecare mână rests against fiecare 45-grade sponge support
-(Fig. 5.66).
-• se extinde pacient’s fingers și abduct thumbs slightly la avoid superimposing them over second articulații metacarpofalangiene (MCF).
-• original method de positioning mâinile este often modified. pacientul este poziționat similar la method described, except that
-degetele sunt nu extins. Instead, degetele sunt cupped ca though pacientul were going la catch ball (Fig. 5.67). Comparable
-diagnostic information este provided using either poziție.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică. Norgaard recommended that ambele mâini fie radiographed în half-în supinație
-poziție pentru comparison.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30
-cm) transversal
-

@@ -15,6 +15,10 @@ contrast:
   timing: Timp empiric de întârziere 65-70 secunde (fază venoasă portală)
   trigger: N/A
   volume: 100 mL (1.5 mL/kg, max 120 mL)
+iris_reference:
+  chapter: Aparat uro-genital și glande suprarenale
+  radiation_dose: Clasa 4 (Ridicată > 10 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-20'
 notes:
   additional_recons: Reconstrucții coronale și sagitale oblice la nevoie; secțiuni
@@ -109,10 +113,14 @@ title: CT Abdomen & Pelvis Rutină (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
+            - **Capitol Ghid IRIS:** *Aparat uro-genital și glande suprarenale*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 4 (Ridicată > 10 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

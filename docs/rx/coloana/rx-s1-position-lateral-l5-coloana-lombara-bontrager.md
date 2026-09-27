@@ -5,9 +5,9 @@ breathing: Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare 
 category: coloana
 centering: Perpendicular pe receptorul de imagine, cu suport lombar suficient, sau
   angulație de 5° la 8° caudal, cu suport redus (vezi NOTE). Se direcționează raza
-  centrală la 1.5 inches (4 cm) inferior față de creasta iliacă (corespunzător L4-L5)
-  și la 2 inches (5 cm) posterior față de spina iliacă anterosuperioară (SIAS). Se
-  centrează receptorul de imagine pe raza centrală.
+  centrală la 1.5 țoli (4 cm) inferior față de creasta iliacă (corespunzător L4-L5)
+  și la 2 țoli (5 cm) posterior față de spina iliacă anterosuperioară (SIAS). Se centrează
+  receptorul de imagine pe raza centrală.
 clinical_indications:
 - Spondilolistezis care implică L4–L5 sau L5-S1 și alte patologii L5–S1
 images:
@@ -33,6 +33,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     5)
   url: assets/images/protocols/bontrager/rx-s1-position-lateral-l5-coloana-lombara-bontrager/fig_5.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: 'S: Dacă regiunea lombară nu este susținută suficient, rezultând în curbarea
@@ -115,17 +119,18 @@ title: Rx S1 Poziționare LATERALĂ L5 (Coloana lombară)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Incidență de profil. Se plasează pacientul în decubit lateral, cu capul pe pernă, genunchii flectați, cu suport între genunchi și glezne pentru a menține mai bine incidența de profil adevărată și pentru a asigura confortul pacientului.; Regiune anatomică: Se aliniază planul mediocoronal cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine (Fig. 9.38). Se plasează un suport radiotransparent sub regiunea lombară, după cum este necesar, pentru a poziționa axa longitudinală a coloanei vertebrale aproape paralel cu masa (se palpează procesele spinoase pentru determinare; vezi NOTE mai jos). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale toracelui sau ale bazinului, dacă acesta este prezent.
-    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, cu suport lombar suficient, sau angulație de 5° la 8° caudal, cu suport redus (vezi NOTE). Se direcționează raza centrală la 1.5 inches (4 cm) inferior față de creasta iliacă (corespunzător L4-L5) și la 2 inches (5 cm) posterior față de spina iliacă anterosuperioară (SIAS). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, cu suport lombar suficient, sau angulație de 5° la 8° caudal, cu suport redus (vezi NOTE). Se direcționează raza centrală la 1.5 țoli (4 cm) inferior față de creasta iliacă (corespunzător L4-L5) și la 2 țoli (5 cm) posterior față de spina iliacă anterosuperioară (SIAS). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii pentru prevenirea artefactelor de mișcare ale pacientului.
 
@@ -164,6 +169,7 @@ title: Rx S1 Poziționare LATERALĂ L5 (Coloana lombară)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     S: Dacă regiunea lombară nu este susținută suficient, rezultând în curbarea coloanei vertebrale, raza centrală trebuie înclinată cu 5° la 8° caudal pentru a fi paralelă cu linia interiliacă3 (linia imaginară dintre crestele iliace (corespunzător L4-L5) [Fig. 9.39]). Se generează cantități mari de radiație secundară sau difuză ca rezultat al grosimii părții examinate. Colimarea strânsă este esențială, împreună cu plasarea unei protecții plumbate pe blatul mesei, în spatele pacientului. Acest lucru este deosebit de important în imagistica digitală. Coloana lombară RUTINĂ AP (sau PA) oblică—posterior sau anterior lateral lateral L5–S1 Fig. 9.38 laterală stângă L5–S1 cu suport suficient; unghiul razei centrale 0°. Fig. 9.40 laterală L5–S1. Linia interiliacă Fig. 9.39 laterală stângă L5–S1 cu suport redus; raza centrală 5° la 8° caudal (raza centrală paralelă cu linia interiliacă). Articulația intervertebrală lumbosacrală (L5-S1), corpul (L5), promontoriul sacrului Fig. 9.41 laterală L5–S1.

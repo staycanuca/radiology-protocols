@@ -4,10 +4,12 @@ breathing: Nemodificată
 category: membru-inferior
 centering: La 1-2 cm sub vârful rotulei (direct în interlinia articulară femuro-tibială)
 clinical_indications:
-- Traumatism de genunchi, suspiciune fractură de platou tibial, rotulă sau femur distal
-- Gonartroză (evaluare pensări fante articulare pe clișee în sprijin / ortostatism)
-- Hemartroză post-traumatică / colecție lichidiană
-- Instabilitate patelară sau sindrom femuro-patelar (axiale rotulă la 30° și 60°)
+- Traumatism de genunchi, suspiciune de fractură a platoului tibial, rotulei sau femurului
+  distal
+- Gonartroză (evaluarea pensării interliniilor articulare pe clișee în sprijin / ortostatism)
+- Hemartroză posttraumatică / colecție lichidiană
+- Instabilitate patelară sau sindrom femuro-patelar (incidențe axiale ale rotulei
+  la 30° și 60°)
 iris_reference:
   chapter: Aparat locomotor & Membru inferior
   radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
@@ -15,22 +17,22 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: Pentru gonartroză, incidența AP cu sprijin (în încărcare) este esențială pentru
-  măsurarea reală pensării spațiului articular.
-position: '1) AP (Față): decubit dorsal sau ortostatism (cu sprijin monopodal pentru
-  artroză), picior în extensie; 2) Profil: decubit lateral pe partea afectată, genunchi
-  flectat la 20-30°; 3) Axiale de rotulă (Merchant/Settegast): flexie genunchi 30°
-  sau 60° cu raza tangențială pe rotulă'
+  măsurarea reală a pensării spațiului articular.
+position: '1) AP (față): decubit dorsal sau ortostatism (cu sprijin monopodal pentru
+  artroză), piciorul în extensie; 2) Profil: decubit lateral pe partea afectată, genunchiul
+  flectat la 20-30°; 3) Incidențe axiale ale rotulei (Merchant/Settegast): flexia
+  genunchiului la 30° sau 60°, cu raza tangențială pe rotulă'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare strictă pe aria genunchiului
 quality_criteria:
 - 'Pe AP: interlinia articulară femuro-tibială complet deschisă, spinele tibiale vizibile
   în fosa intercondiliană'
-- 'Pe profil: suprapunerea precisă condililor femurali posteriori; spațiul retropatelar
+- 'Pe profil: suprapunerea precisă a condililor femurali posteriori; spațiul retropatelar
   vizibil liber'
-- 'Pe axiale: rotula centrată în șanțul trohlean, fanta femuro-patelară deschisă fără
-  subluxație'
+- 'Pe incidențele axiale: rotula centrată în șanțul trohlear, fanta femuro-patelară
+  deschisă fără subluxație'
 sid_dff: 100 - 115 cm
 slug: rx-genunchi-fata-profil
 sources:
@@ -61,11 +63,11 @@ tech_params:
   filtration: Totală ≥ 2.5 mm Al
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă la adulți (sau detector DR digital fără grilă)
-  kv: 60 - 68 (Față & Profil); 58 - 64 (Axială rotulă)
+  kv: 60 - 68 (față și profil); 58 - 64 (axială rotulă)
   mas: 4 - 8 (cu grilă) sau 2.5 - 5 (fără grilă)
-title: Rx Genunchi (Față, Profil & Axială Rotulă)
+title: Rx genunchi (față, profil și axială rotulă)
 ---
-# Rx Genunchi (Față, Profil & Axială Rotulă)
+# Rx genunchi (față, profil și axială rotulă)
 
 
 <div class="rx-meta-bar">
@@ -84,10 +86,10 @@ title: Rx Genunchi (Față, Profil & Axială Rotulă)
 
     === "Indicații Clinice"
 
-        - Traumatism de genunchi, suspiciune fractură de platou tibial, rotulă sau femur distal
-        - Gonartroză (evaluare pensări fante articulare pe clișee în sprijin / ortostatism)
-        - Hemartroză post-traumatică / colecție lichidiană
-        - Instabilitate patelară sau sindrom femuro-patelar (axiale rotulă la 30° și 60°)
+        - Traumatism de genunchi, suspiciune de fractură a platoului tibial, rotulei sau femurului distal
+        - Gonartroză (evaluarea pensării interliniilor articulare pe clișee în sprijin / ortostatism)
+        - Hemartroză posttraumatică / colecție lichidiană
+        - Instabilitate patelară sau sindrom femuro-patelar (incidențe axiale ale rotulei la 30° și 60°)
 
     === "Ghid Național IRIS"
 
@@ -97,11 +99,12 @@ title: Rx Genunchi (Față, Profil & Axială Rotulă)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** 1) AP (Față): decubit dorsal sau ortostatism (cu sprijin monopodal pentru artroză), picior în extensie; 2) Profil: decubit lateral pe partea afectată, genunchi flectat la 20-30°; 3) Axiale de rotulă (Merchant/Settegast): flexie genunchi 30° sau 60° cu raza tangențială pe rotulă
+    - **Poziție Pacient:** 1) AP (față): decubit dorsal sau ortostatism (cu sprijin monopodal pentru artroză), piciorul în extensie; 2) Profil: decubit lateral pe partea afectată, genunchiul flectat la 20-30°; 3) Incidențe axiale ale rotulei (Merchant/Settegast): flexia genunchiului la 30° sau 60°, cu raza tangențială pe rotulă
     - **Punct de Centrare Fascicul:** La 1-2 cm sub vârful rotulei (direct în interlinia articulară femuro-tibială)
     - **Distanță Focar-Film (DFF / SID):** 100 - 115 cm
     - **Comandă Respiratorie:** Nemodificată
@@ -112,7 +115,7 @@ title: Rx Genunchi (Față, Profil & Axială Rotulă)
 
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
-    | **Tensiune Tub (kV)** | 60 - 68 (Față & Profil); 58 - 64 (Axială rotulă) kV |
+    | **Tensiune Tub (kV)** | 60 - 68 (față și profil); 58 - 64 (axială rotulă) kV |
     | **Sarcină / Produs Curent-Timp (mAs)** | 4 - 8 (cu grilă) sau 2.5 - 5 (fără grilă) mAs |
     | **Distanță Focar-Film (DFF / SID)** | 100 - 115 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă la adulți (sau detector DR digital fără grilă) |
@@ -126,20 +129,21 @@ title: Rx Genunchi (Față, Profil & Axială Rotulă)
     ---
 
     - Pe AP: interlinia articulară femuro-tibială complet deschisă, spinele tibiale vizibile în fosa intercondiliană
-    - Pe profil: suprapunerea precisă condililor femurali posteriori; spațiul retropatelar vizibil liber
-    - Pe axiale: rotula centrată în șanțul trohlean, fanta femuro-patelară deschisă fără subluxație
+    - Pe profil: suprapunerea precisă a condililor femurali posteriori; spațiul retropatelar vizibil liber
+    - Pe incidențele axiale: rotula centrată în șanțul trohlear, fanta femuro-patelară deschisă fără subluxație
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare strictă pe aria genunchiului
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Pentru gonartroză, incidența AP cu sprijin (în încărcare) este esențială pentru măsurarea reală pensării spațiului articular.
+    Pentru gonartroză, incidența AP cu sprijin (în încărcare) este esențială pentru măsurarea reală a pensării spațiului articular.
 
 === "Ghid Rapid de Execuție"
 

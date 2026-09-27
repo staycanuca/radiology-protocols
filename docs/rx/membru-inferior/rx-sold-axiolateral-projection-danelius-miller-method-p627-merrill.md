@@ -2,10 +2,11 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: perpendicular pe axa longitudinală de col femural. raza centrală enters
-  groin area la point midway între anterior și posterior surfaces de upper thigh și
-  passes through col femural, which este approximately 2.5 inches (6.4 cm) below point
-  de intersection de localization lines described previously (see Fig. 8.12).
+centering: perpendicular pe axa longitudinală a colului femural. Raza centrală intră
+  în regiunea inghinală într-un punct situat la jumătatea distanței dintre suprafețele
+  anterioară și posterioară ale coapsei superioare și trece prin colul femural, care
+  se află la aproximativ 2.5 țoli (6.4 cm) sub punctul de intersecție al liniilor
+  de localizare descrise anterior (vezi Fig. 8.12).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,47 +19,53 @@ images:
 - caption: Merrill — pagina 631, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sold-axiolateral-projection-danelius-miller-method-p627-merrill/p631_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție.; When examining pacient who
-  este thin sau culcat pe soft bed, elevate Bazin (bazin (pelvis)) pe firm pillow
-  sau folded sheets suficiently la se centrează most prominent point de mare trohanter
-  la linia mediană receptorul de imagine. support trebuie să nu extend beyond lateral
-  surface de corp; otherwise, it would interfere cu placement de receptorul de imagine.
-  When Bazin (bazin (pelvis)) este ridicat, support afected limb la Șold level pe
-  săculeți cu nisip sau firm pillows. se flectează Genunchi și Șold de unafected side
-  la elevate thigh în vertical poziție. Rest unafected membru inferior pe suitable
-  support that does nu interfere cu raza centrală centrală. Special support devices
-  sunt available. Do nu rest Picior pe x-ray tube sau collimator. se ajustează Bazin
-  (bazin (pelvis)) so that it este nu rotit (Figs. 8.33 și 8.34). Unless contraindicated,
-  grasp heel și medially se rotește Picior și membru inferior de afected side approximately
-  15 la 20 grade. săculeți cu nisip poate fie used la hold membru inferior și Picior
-  în this poziție, și small support poate fie plasat under Genunchi. Manipulation
-  de pacienți cu unhealed suspiciune de fractură trebuie să fie performed prin physician.
-  Place receptorul de imagine în vertical poziție cu its upper margine în părți moi
-  crease above crestele iliace. Angle receptorul de imagine away de la corp until
-  it este exactly paralel cu axa longitudinală de col femural. Support receptorul
-  de imagine în this poziție cu săculeți cu nisip sau vertical receptorul de imagine
-  holder. These sunt preferred methods. Alternatively, pacientul poate support receptorul
-  de imagine cu Mână. fie careful la poziție grila vertically but cu lead strips oriented
-  horizontally.
+position: Se așază pacientul în decubit dorsal. Când se examinează un pacient slab
+  sau culcat pe un pat moale, se ridică bazinul pe o pernă fermă sau pe cearșafuri
+  împăturite, suficient pentru a centra punctul cel mai proeminent al trohanterului
+  mare pe linia mediană a receptorului de imagine. Suportul nu trebuie să se extindă
+  dincolo de suprafața laterală a corpului; în caz contrar, ar interfera cu plasarea
+  receptorului de imagine. Când bazinul este ridicat, se susține membrul afectat la
+  nivelul șoldului pe săculeți cu nisip sau perne ferme. Se flectează genunchiul și
+  șoldul de partea neafectată pentru a ridica coapsa în poziție verticală. Se sprijină
+  membrul inferior neafectat pe un suport adecvat care nu interferează cu raza centrală.
+  Sunt disponibile dispozitive speciale de susținere. Nu se sprijină piciorul pe tubul
+  de raze X sau pe colimator. Se ajustează bazinul astfel încât să nu fie rotat (Figs.
+  8.33 și 8.34). Dacă nu există contraindicații, se prinde călcâiul și se rotește
+  medial piciorul și membrul inferior de partea afectată cu aproximativ 15 la 20 de
+  grade. Se pot utiliza săculeți cu nisip pentru menținerea membrului inferior și
+  a piciorului în această poziție, iar un suport mic poate fi plasat sub genunchi.
+  Manipularea pacienților cu o suspiciune de fractură nevindecată trebuie efectuată
+  de medic. Se plasează receptorul de imagine în poziție verticală, cu marginea sa
+  superioară în pliul părților moi deasupra crestelor iliace. Se înclină receptorul
+  de imagine în sens opus corpului până când este exact paralel cu axa longitudinală
+  a colului femural. Se susține receptorul de imagine în această poziție cu săculeți
+  cu nisip sau cu suportul vertical al receptorului de imagine. Acestea sunt metodele
+  preferate. Alternativ, pacientul poate susține receptorul de imagine cu mâna. Se
+  acordă atenție poziționării verticale a grilei, dar cu lamelele de plumb orientate
+  orizontal.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Șold articulație cu cotil (acetabul)
-- col femural fără overlap de la mare trohanter
-- Small amount de mic trohanter pe posterior surface de Femur
-- Small amount de mare trohanter pe anterior și posterior surfaces de proximal Femur
-  when Femur este properly inverted
-- tuberozități ischiatice below cap femural și neck
-- părți moi shadow de unafected thigh nu overlapping Șold articulație sau proximal
-  Femur
-- orice orthopedic appliance în its entirety
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația șoldului cu cotilul (acetabulul)
+- Col femural fără suprapunerea trohanterului mare
+- O mică porțiune a trohanterului mic pe suprafața posterioară a femurului
+- O mică porțiune a trohanterului mare pe suprafețele anterioară și posterioară ale
+  femurului proximal, când femurul este inversat corespunzător
+- Tuberozitățile ischiatice sub capul și colul femural
+- Umbra părților moi ale coapsei neafectate nu se suprapune peste articulația șoldului
+  sau femurul proximal
+- orice dispozitiv ortopedic în întregime
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sold-axiolateral-projection-danelius-miller-method-p627-merrill
 source_pages:
@@ -68,105 +75,96 @@ source_pages:
 - 630
 - 631
 source_sections:
-  anatomy: cotil (acetabul), cap, neck, și trochanters de femur (Fig. 8.35).
+  anatomy: Cotilul (acetabulul), capul, colul și trohanterii femurului (Fig. 8.35).
   collimation: '• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
 
-    Compensating Filter
+    Filtru compensator
 
-    This incidență este improved dramatically și poate fie performed cu one expunere
-    cu use de specially designed compensating filter.'
-  cr: '• perpendicular pe axa longitudinală de col femural. raza centrală enters groin
-    area la point midway între anterior și
+    Această incidență este îmbunătățită considerabil și poate fi efectuată cu o singură
+    expunere, utilizând un filtru compensator special conceput.'
+  cr: • perpendicular pe axa longitudinală a colului femural. Raza centrală intră
+    în regiunea inghinală într-un punct situat la jumătatea distanței dintre suprafețele
+    anterioară și posterioară ale coapsei superioare și trece prin colul femural,
+    care se află la aproximativ 2.5 țoli (6.4 cm) sub punctul de intersecție al liniilor
+    de localizare descrise anterior (vezi Fig. 8.12).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    posterior surfaces de upper thigh și passes through col femural, which este approximately
-    2.5 inches (6.4 cm) below point
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    de intersection de localization lines described previously (see Fig. 8.12).'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Articulația șoldului cu cotilul (acetabulul)
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Col femural fără suprapunerea trohanterului mare
 
-    • Hip articulație cu cotil (acetabul)
+    • O mică porțiune a trohanterului mic pe suprafața posterioară a femurului
 
-    • col femural fără overlap de la mare trohanter
+    • O mică porțiune a trohanterului mare pe suprafețele anterioară și posterioară
+    ale femurului proximal, când femurul este inversat corespunzător
 
-    • Small amount de mic trohanter pe posterior surface de femur
+    • Tuberozitățile ischiatice sub capul și colul femural
 
-    • Small amount de mare trohanter pe anterior și posterior surfaces de proximal
-    femur when femur este properly
+    • Umbra părților moi ale coapsei neafectate nu se suprapune peste articulația
+    șoldului sau femurul proximal
 
-    inverted
+    • Orice dispozitiv ortopedic, în întregime
 
-    • tuberozități ischiatice below cap femural și neck
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  part_pos: '• Când se examinează un pacient slab sau culcat pe un pat moale, se ridică
+    bazinul pe o pernă fermă sau pe cearșafuri împăturite, suficient pentru a centra
+    punctul cel mai proeminent al trohanterului mare pe linia mediană a receptorului
+    de imagine. Suportul nu trebuie să se extindă dincolo de suprafața laterală a
+    corpului; în caz contrar, ar interfera cu plasarea receptorului de imagine.
 
-    • părți moi shadow de unafected thigh nu overlapping hip articulație sau proximal
-    femur
+    • Când bazinul este ridicat, se susține membrul afectat la nivelul șoldului pe
+    săculeți cu nisip sau perne ferme.
 
-    • orice orthopedic appliance în its entirety
+    • Se flectează genunchiul și șoldul de partea neafectată pentru a ridica coapsa
+    în poziție verticală.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• When examining pacient who este thin sau culcat pe soft bed, elevate
-    bazinul pe firm pillow sau folded sheets suficiently la center
+    • Se sprijină membrul inferior neafectat pe un suport adecvat care nu interferează
+    cu raza centrală. Sunt disponibile dispozitive speciale de susținere. Nu se sprijină
+    piciorul pe tubul de raze X sau pe colimator.
 
-    most prominent point de mare trohanter la linia mediană receptorul de imagine.
-    support trebuie să nu extend beyond lateral surface
+    • Se ajustează bazinul astfel încât să nu fie rotat (Figs. 8.33 și 8.34).
 
-    de corp; otherwise, it would interfere cu placement de receptorul de imagine.
+    • Dacă nu există contraindicații, se prinde călcâiul și se rotește medial piciorul
+    și membrul inferior de partea afectată cu aproximativ 15 la 20 de grade. Se pot
+    utiliza săculeți cu nisip pentru menținerea membrului inferior și a piciorului
+    în această poziție, iar un suport mic poate fi plasat sub genunchi. Manipularea
+    pacienților cu o suspiciune de fractură nevindecată trebuie efectuată de medic.
 
-    • When bazinul este ridicat, support afected limb la hip level pe săculeți cu
-    nisip sau firm pillows.
+    • Se plasează receptorul de imagine în poziție verticală, cu marginea sa superioară
+    în pliul părților moi deasupra crestelor iliace.
 
-    • se flectează genunchi și hip de unafected side la elevate thigh în vertical
-    poziție.
+    • Se înclină receptorul de imagine în sens opus corpului până când este exact
+    paralel cu axa longitudinală a colului femural.
 
-    • Rest unafected membru inferior pe suitable support that does nu interfere cu
-    raza centrală centrală. Special support devices sunt available. Do nu
+    • Se susține receptorul de imagine în această poziție cu săculeți cu nisip sau
+    cu suportul vertical al receptorului de imagine. Acestea sunt metodele preferate.
+    Alternativ, pacientul poate susține receptorul de imagine cu mâna.
 
-    rest picior pe x-ray tube sau collimator.
-
-    • se ajustează bazin (pelvis) so that it este nu rotit (Figs. 8.33 și 8.34).
-
-    • Unless contraindicated, grasp heel și medially se rotește picior și membru inferior
-    de afected side approximately 15 la 20 grade.
-
-    săculeți cu nisip poate fie used la hold membru inferior și picior în this poziție,
-    și small support poate fie plasat under genunchi. Manipulation de
-
-    pacienți cu unhealed suspiciune de fractură trebuie să fie performed prin physician.
-
-    • Place receptorul de imagine în vertical poziție cu its upper margine în părți
-    moi crease above crestele iliace.
-
-    • Angle receptorul de imagine away de la corp until it este exactly paralel cu
-    axa longitudinală de col femural.
-
-    • Support receptorul de imagine în this poziție cu săculeți cu nisip sau vertical
-    receptorul de imagine holder. These sunt preferred methods. Alternatively, pacientul
-    poate
-
-    support receptorul de imagine cu mână.
-
-    • fie careful la poziție grila vertically but cu lead strips oriented horizontally.'
+    • Se acordă atenție poziționării verticale a grilei, dar cu lamelele de plumb
+    orientate orizontal.'
   patient_pos: • se așază pacientul în decubit dorsal.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 627–631
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
-    Se plasează markerul de lateralitate în câmpul colimat. Compensating Filter This
-    incidență este improved dramatically și poate fie performed cu one expunere cu
-    use de specially designed compensating filter.
-title: Rx Șold — Axiolateral Incidență — Danelius-Miller Method (Merrill)
+    Se plasează markerul de lateralitate în câmpul colimat. Filtru compensator. Această
+    incidență este îmbunătățită considerabil și poate fi efectuată cu o singură expunere,
+    utilizând un filtru compensator special conceput.
+title: Rx șold — incidență axiolaterală — metoda Danelius-Miller (Merrill)
 ---
-# Rx Șold — Axiolateral Incidență — Danelius-Miller Method (Merrill)
+# Rx șold — incidență axiolaterală — metoda Danelius-Miller (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -190,17 +188,18 @@ title: Rx Șold — Axiolateral Incidență — Danelius-Miller Method (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție.; When examining pacient who este thin sau culcat pe soft bed, elevate Bazin (bazin (pelvis)) pe firm pillow sau folded sheets suficiently la se centrează most prominent point de mare trohanter la linia mediană receptorul de imagine. support trebuie să nu extend beyond lateral surface de corp; otherwise, it would interfere cu placement de receptorul de imagine. When Bazin (bazin (pelvis)) este ridicat, support afected limb la Șold level pe săculeți cu nisip sau firm pillows. se flectează Genunchi și Șold de unafected side la elevate thigh în vertical poziție. Rest unafected membru inferior pe suitable support that does nu interfere cu raza centrală centrală. Special support devices sunt available. Do nu rest Picior pe x-ray tube sau collimator. se ajustează Bazin (bazin (pelvis)) so that it este nu rotit (Figs. 8.33 și 8.34). Unless contraindicated, grasp heel și medially se rotește Picior și membru inferior de afected side approximately 15 la 20 grade. săculeți cu nisip poate fie used la hold membru inferior și Picior în this poziție, și small support poate fie plasat under Genunchi. Manipulation de pacienți cu unhealed suspiciune de fractură trebuie să fie performed prin physician. Place receptorul de imagine în vertical poziție cu its upper margine în părți moi crease above crestele iliace. Angle receptorul de imagine away de la corp until it este exactly paralel cu axa longitudinală de col femural. Support receptorul de imagine în this poziție cu săculeți cu nisip sau vertical receptorul de imagine holder. These sunt preferred methods. Alternatively, pacientul poate support receptorul de imagine cu Mână. fie careful la poziție grila vertically but cu lead strips oriented horizontally.
-    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală de col femural. raza centrală enters groin area la point midway între anterior și posterior surfaces de upper thigh și passes through col femural, which este approximately 2.5 inches (6.4 cm) below point de intersection de localization lines described previously (see Fig. 8.12).
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal. Când se examinează un pacient slab sau culcat pe un pat moale, se ridică bazinul pe o pernă fermă sau pe cearșafuri împăturite, suficient pentru a centra punctul cel mai proeminent al trohanterului mare pe linia mediană a receptorului de imagine. Suportul nu trebuie să se extindă dincolo de suprafața laterală a corpului; în caz contrar, ar interfera cu plasarea receptorului de imagine. Când bazinul este ridicat, se susține membrul afectat la nivelul șoldului pe săculeți cu nisip sau perne ferme. Se flectează genunchiul și șoldul de partea neafectată pentru a ridica coapsa în poziție verticală. Se sprijină membrul inferior neafectat pe un suport adecvat care nu interferează cu raza centrală. Sunt disponibile dispozitive speciale de susținere. Nu se sprijină piciorul pe tubul de raze X sau pe colimator. Se ajustează bazinul astfel încât să nu fie rotat (Figs. 8.33 și 8.34). Dacă nu există contraindicații, se prinde călcâiul și se rotește medial piciorul și membrul inferior de partea afectată cu aproximativ 15 la 20 de grade. Se pot utiliza săculeți cu nisip pentru menținerea membrului inferior și a piciorului în această poziție, iar un suport mic poate fi plasat sub genunchi. Manipularea pacienților cu o suspiciune de fractură nevindecată trebuie efectuată de medic. Se plasează receptorul de imagine în poziție verticală, cu marginea sa superioară în pliul părților moi deasupra crestelor iliace. Se înclină receptorul de imagine în sens opus corpului până când este exact paralel cu axa longitudinală a colului femural. Se susține receptorul de imagine în această poziție cu săculeți cu nisip sau cu suportul vertical al receptorului de imagine. Acestea sunt metodele preferate. Alternativ, pacientul poate susține receptorul de imagine cu mâna. Se acordă atenție poziționării verticale a grilei, dar cu lamelele de plumb orientate orizontal.
+    - **Punct de Centrare Fascicul:** perpendicular pe axa longitudinală a colului femural. Raza centrală intră în regiunea inghinală într-un punct situat la jumătatea distanței dintre suprafețele anterioară și posterioară ale coapsei superioare și trece prin colul femural, care se află la aproximativ 2.5 țoli (6.4 cm) sub punctul de intersecție al liniilor de localizare descrise anterior (vezi Fig. 8.12).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -216,23 +215,23 @@ title: Rx Șold — Axiolateral Incidență — Danelius-Miller Method (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat. Compensating Filter This incidență este improved dramatically și poate fie performed cu one expunere cu use de specially designed compensating filter. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat. Filtru compensator. Această incidență este îmbunătățită considerabil și poate fi efectuată cu o singură expunere, utilizând un filtru compensator special conceput. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Șold articulație cu cotil (acetabul)
-    - col femural fără overlap de la mare trohanter
-    - Small amount de mic trohanter pe posterior surface de Femur
-    - Small amount de mare trohanter pe anterior și posterior surfaces de proximal Femur when Femur este properly inverted
-    - tuberozități ischiatice below cap femural și neck
-    - părți moi shadow de unafected thigh nu overlapping Șold articulație sau proximal Femur
-    - orice orthopedic appliance în its entirety
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația șoldului cu cotilul (acetabulul)
+    - Col femural fără suprapunerea trohanterului mare
+    - O mică porțiune a trohanterului mic pe suprafața posterioară a femurului
+    - O mică porțiune a trohanterului mare pe suprafețele anterioară și posterioară ale femurului proximal, când femurul este inversat corespunzător
+    - Tuberozitățile ischiatice sub capul și colul femural
+    - Umbra părților moi ale coapsei neafectate nu se suprapune peste articulația șoldului sau femurul proximal
+    - orice dispozitiv ortopedic în întregime
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -241,6 +240,7 @@ title: Rx Șold — Axiolateral Incidență — Danelius-Miller Method (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -288,68 +288,3 @@ title: Rx Șold — Axiolateral Incidență — Danelius-Miller Method (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 627–631](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-cotil (acetabul), cap, neck, și trochanters de femur (Fig. 8.35).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-Compensating Filter
-This incidență este improved dramatically și poate fie performed cu one expunere cu use de specially designed compensating filter.
-
-### cr
-
-• perpendicular pe axa longitudinală de col femural. raza centrală enters groin area la point midway între anterior și
-posterior surfaces de upper thigh și passes through col femural, which este approximately 2.5 inches (6.4 cm) below point
-de intersection de localization lines described previously (see Fig. 8.12).
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Hip articulație cu cotil (acetabul)
-• col femural fără overlap de la mare trohanter
-• Small amount de mic trohanter pe posterior surface de femur
-• Small amount de mare trohanter pe anterior și posterior surfaces de proximal femur when femur este properly
-inverted
-• tuberozități ischiatice below cap femural și neck
-• părți moi shadow de unafected thigh nu overlapping hip articulație sau proximal femur
-• orice orthopedic appliance în its entirety
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• When examining pacient who este thin sau culcat pe soft bed, elevate bazinul pe firm pillow sau folded sheets suficiently la center
-most prominent point de mare trohanter la linia mediană receptorul de imagine. support trebuie să nu extend beyond lateral surface
-de corp; otherwise, it would interfere cu placement de receptorul de imagine.
-• When bazinul este ridicat, support afected limb la hip level pe săculeți cu nisip sau firm pillows.
-• se flectează genunchi și hip de unafected side la elevate thigh în vertical poziție.
-• Rest unafected membru inferior pe suitable support that does nu interfere cu raza centrală centrală. Special support devices sunt available. Do nu
-rest picior pe x-ray tube sau collimator.
-• se ajustează bazin (pelvis) so that it este nu rotit (Figs. 8.33 și 8.34).
-• Unless contraindicated, grasp heel și medially se rotește picior și membru inferior de afected side approximately 15 la 20 grade.
-săculeți cu nisip poate fie used la hold membru inferior și picior în this poziție, și small support poate fie plasat under genunchi. Manipulation de
-pacienți cu unhealed suspiciune de fractură trebuie să fie performed prin physician.
-• Place receptorul de imagine în vertical poziție cu its upper margine în părți moi crease above crestele iliace.
-• Angle receptorul de imagine away de la corp until it este exactly paralel cu axa longitudinală de col femural.
-• Support receptorul de imagine în this poziție cu săculeți cu nisip sau vertical receptorul de imagine holder. These sunt preferred methods. Alternatively, pacientul poate
-support receptorul de imagine cu mână.
-• fie careful la poziție grila vertically but cu lead strips oriented horizontally.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

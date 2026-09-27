@@ -2,40 +2,47 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: perpendicular pe receptorul de imagine, orientat la aria medio-carpiană
+centering: Perpendicular pe receptorul de imagine, orientat spre aria mediocarpiană
 clinical_indications:
-- suspiciune de fractură de distal radius sau ulna, isolated suspiciune de fractură
-  de radial sau ulnar styloid processes, și suspiciune de fractură de individual oase
-  carpiene
-- Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
+- Suspiciune de fractură a radiusului sau ulnei distale, suspiciune izolată de fractură
+  a proceselor stiloide radial sau ulnar și suspiciune de fractură a oaselor carpiene
+  individuale
+- Procese patologice, cum ar fi osteomielita / leziuni inflamatorii osoase și artrita
 images:
-- caption: Fig. 4.90 PA oblic Pumn (Articulație Radiocarpiană) (cu 45° support).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.90 PA oblic
-    wrist (cu 45° support).)
+- caption: Fig. 4.90 PA oblică a pumnului (articulației radiocarpiene) (cu suport
+    la 45°).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.90 PA oblică
+    a pumnului (cu suport la 45°).)
   url: assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_1.jpeg
-- caption: Fig. 4.91 PA oblic Pumn (Articulație Radiocarpiană) fără support.
+- caption: Fig. 4.91 PA oblică a pumnului (articulației radiocarpiene) fără suport.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.91
-    PA oblic wrist fără support.)
+    PA oblică a pumnului fără suport.)
   url: assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_2.jpeg
-- caption: Fig. 4.92 PA oblic Pumn (Articulație Radiocarpiană).
+- caption: Fig. 4.92 PA oblică a pumnului (articulației radiocarpiene).
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.92
-    PA oblic wrist.)
+    PA oblică a pumnului.)
   url: assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_3.jpeg
-- caption: Fig. 4.93 PA oblic de drept Pumn (Articulație Radiocarpiană).
+- caption: Fig. 4.93 PA oblică a pumnului (articulației radiocarpiene) drept.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.93
-    PA oblic de drept wrist.)
+    PA oblică a pumnului drept.)
   url: assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
-position: 'Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop
-  Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.;
-  Regiune anatomică: Align și center Mână și Pumn (Articulație Radiocarpiană) la receptorul
-  de imagine. de la în pronație poziție, rotate Pumn (Articulație Radiocarpiană) și
-  Mână laterally 45°. pentru stability, place a 45° support under Police side de Mână
-  la support Mână și Pumn (Articulație Radiocarpiană) în a 45° Incidență Oblică (Fig.
-  4.90) sau partially flex Degete Mână la arch Mână so that fingertips rest lightly
-  pe receptorul de imagine fără support (Fig. 4.91).'
+position: 'Pacient: Se așază pacientul la capătul mesei, cu mâna și antebrațul extinse.
+  Se coboară umărul astfel încât umărul, cotul și pumnul (articulația radiocarpiană)
+  să fie în același plan orizontal.; Regiune anatomică: Se aliniază și se centrează
+  mâna și pumnul (articulația radiocarpiană) la receptorul de imagine. Din poziția
+  de pronație, se rotesc pumnul (articulația radiocarpiană) și mâna lateral la 45°.
+  Pentru stabilitate, se plasează un suport la 45° sub partea policelui a mâinii pentru
+  a susține mâna și pumnul (articulația radiocarpiană) într-o incidență oblică la
+  45° (Fig. 4.90) sau se flectează parțial degetele mâinii pentru a arcui mâna, astfel
+  încât vârfurile degetelor să se sprijine ușor pe receptorul de imagine fără suport
+  (Fig. 4.91).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -43,21 +50,24 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- distal radius, ulna, oase carpiene, și la least la midmetacarpal area sunt vizibil.
-- 'Trapezium și scaphoid trebuie să fie well visualized, cu only slight superimposition
-  de other oase carpiene pe their medial aspects (Figs. 4.92 și 4.93). poziție:'
-- axa longitudinală de Mână, Pumn (Articulație Radiocarpiană), și Antebraț trebuie
-  să fie aliniat cu receptorul de imagine.
-- 'True 45° oblic de Pumn (Articulație Radiocarpiană) este evidenced prin: ulnar cap
-  partially superimposed prin distal radius; proximal third through fifth oase metacarpiene
-  (metacarpal bases) trebuie să appear mostly superimposed.'
-- 'raza centrală și center de collimation field size trebuie să fie la aria medio-carpiană.
-  expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază oase
-  carpiene și their overlapping margini; părți moi margins; și clear, Contururi osoase
-  și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.92 PA oblic Pumn (Articulație
-  Radiocarpiană). Trapezoid Trapezium Scaphoid Radius Hamate Capitate Triquetrum Pisiform
-  Lunate Ulna Fig. 4.93 PA oblic de drept Pumn (Articulație Radiocarpiană).
+- Radiusul distal, ulna, oasele carpiene și cel puțin regiunea metacarpiană mijlocie
+  sunt vizibile.
+- 'Trapezul și scafoidul trebuie să fie bine vizualizate, cu doar o ușoară suprapunere
+  a celorlalte oase carpiene pe aspectele lor mediale (Figs. 4.92 și 4.93). Poziție:'
+- Axa longitudinală a mâinii, pumnului (articulației radiocarpiene) și antebrațului
+  trebuie să fie aliniată cu receptorul de imagine.
+- 'Incidența oblică adevărată la 45° a pumnului (articulației radiocarpiene) este
+  evidențiată prin: capul ulnar parțial suprapus peste radiusul distal; treimea proximală
+  a oaselor metacarpiene doi până la cinci (bazele metacarpienelor) trebuie să apară
+  în cea mai mare parte suprapuse.'
+- 'Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul regiunii
+  mediocarpiene. Expunere:'
+- Expunerea optimă a receptorului de imagine și contrastul adecvat, fără mișcare,
+  evidențiază oasele carpiene și marginile lor suprapuse; marginile părților moi;
+  precum și contururi osoase clare și travee trabeculare nete, fără artefacte de mișcare.
+  Fig. 4.92 PA oblică a pumnului (articulației radiocarpiene). Trapezoid Trapez Scafoid
+  Radius Hamatus Capitat Triquetrum Pisiform Semilunar Ulna Fig. 4.93 PA oblică a
+  pumnului (articulației radiocarpiene) drept.
 sid_dff: 100 cm
 slug: rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager
 sources:
@@ -65,18 +75,19 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate la Pumn (Articulație Radiocarpiană) pe four sides;
-    include distal radius și ulna și midmetacarpal area. Pumn (Articulație Radiocarpiană)
-    ROUTINE PA PA oblic lateral Fig. 4.90 PA oblic Pumn (Articulație Radiocarpiană)
-    (cu 45° support). Fig. 4.91 PA oblic Pumn (Articulație Radiocarpiană) fără support.
+  collimation: Dimensiunea câmpului Se colimează pumnul (articulația radiocarpiană)
+    pe cele patru laturi; se includ radiusul și ulna distale și regiunea metacarpiană
+    mijlocie. Pumn (articulație radiocarpiană) PA DE RUTINĂ PA oblică laterală Fig.
+    4.90 PA oblică a pumnului (articulației radiocarpiene) (cu suport la 45°). Fig.
+    4.91 PA oblică a pumnului (articulației radiocarpiene) fără suport.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '60'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Rotație Externă (Laterală) PA Oblică (Pumn (Articulație Radiocarpiană))
+title: Rx rotație externă (laterală) PA oblică (Pumn (articulație radiocarpiană))
 ---
-# Rx Rotație Externă (Laterală) PA Oblică (Pumn (Articulație Radiocarpiană))
+# Rx rotație externă (laterală) PA oblică (Pumn (articulație radiocarpiană))
 
 
 <div class="rx-meta-bar">
@@ -95,23 +106,24 @@ title: Rx Rotație Externă (Laterală) PA Oblică (Pumn (Articulație Radiocarp
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură de distal radius sau ulna, isolated suspiciune de fractură de radial sau ulnar styloid processes, și suspiciune de fractură de individual oase carpiene
-        - Pathologic processes, such ca osteomielită / leziuni inflamatorii osoase și arthritis
+        - Suspiciune de fractură a radiusului sau ulnei distale, suspiciune izolată de fractură a proceselor stiloide radial sau ulnar și suspiciune de fractură a oaselor carpiene individuale
+        - Procese patologice, cum ar fi osteomielita / leziuni inflamatorii osoase și artrita
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de table cu Mână și Antebraț extins. Drop Umăr so that Umăr, Cot, și Pumn (Articulație Radiocarpiană) sunt pe same plan orizontal.; Regiune anatomică: Align și center Mână și Pumn (Articulație Radiocarpiană) la receptorul de imagine. de la în pronație poziție, rotate Pumn (Articulație Radiocarpiană) și Mână laterally 45°. pentru stability, place a 45° support under Police side de Mână la support Mână și Pumn (Articulație Radiocarpiană) în a 45° Incidență Oblică (Fig. 4.90) sau partially flex Degete Mână la arch Mână so that fingertips rest lightly pe receptorul de imagine fără support (Fig. 4.91).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine, orientat la aria medio-carpiană
+    - **Poziție Pacient:** Pacient: Se așază pacientul la capătul mesei, cu mâna și antebrațul extinse. Se coboară umărul astfel încât umărul, cotul și pumnul (articulația radiocarpiană) să fie în același plan orizontal.; Regiune anatomică: Se aliniază și se centrează mâna și pumnul (articulația radiocarpiană) la receptorul de imagine. Din poziția de pronație, se rotesc pumnul (articulația radiocarpiană) și mâna lateral la 45°. Pentru stabilitate, se plasează un suport la 45° sub partea policelui a mâinii pentru a susține mâna și pumnul (articulația radiocarpiană) într-o incidență oblică la 45° (Fig. 4.90) sau se flectează parțial degetele mâinii pentru a arcui mâna, astfel încât vârfurile degetelor să se sprijine ușor pe receptorul de imagine fără suport (Fig. 4.91).
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, orientat spre aria mediocarpiană
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -127,19 +139,19 @@ title: Rx Rotație Externă (Laterală) PA Oblică (Pumn (Articulație Radiocarp
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate la Pumn (Articulație Radiocarpiană) pe four sides; include distal radius și ulna și midmetacarpal area. Pumn (Articulație Radiocarpiană) ROUTINE PA PA oblic lateral Fig. 4.90 PA oblic Pumn (Articulație Radiocarpiană) (cu 45° support). Fig. 4.91 PA oblic Pumn (Articulație Radiocarpiană) fără support. |
+    | **Colimare Fascicul** | Dimensiunea câmpului Se colimează pumnul (articulația radiocarpiană) pe cele patru laturi; se includ radiusul și ulna distale și regiunea metacarpiană mijlocie. Pumn (articulație radiocarpiană) PA DE RUTINĂ PA oblică laterală Fig. 4.90 PA oblică a pumnului (articulației radiocarpiene) (cu suport la 45°). Fig. 4.91 PA oblică a pumnului (articulației radiocarpiene) fără suport. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - distal radius, ulna, oase carpiene, și la least la midmetacarpal area sunt vizibil.
-    - Trapezium și scaphoid trebuie să fie well visualized, cu only slight superimposition de other oase carpiene pe their medial aspects (Figs. 4.92 și 4.93). poziție:
-    - axa longitudinală de Mână, Pumn (Articulație Radiocarpiană), și Antebraț trebuie să fie aliniat cu receptorul de imagine.
-    - True 45° oblic de Pumn (Articulație Radiocarpiană) este evidenced prin: ulnar cap partially superimposed prin distal radius; proximal third through fifth oase metacarpiene (metacarpal bases) trebuie să appear mostly superimposed.
-    - raza centrală și center de collimation field size trebuie să fie la aria medio-carpiană. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare evidențiază oase carpiene și their overlapping margini; părți moi margins; și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.92 PA oblic Pumn (Articulație Radiocarpiană). Trapezoid Trapezium Scaphoid Radius Hamate Capitate Triquetrum Pisiform Lunate Ulna Fig. 4.93 PA oblic de drept Pumn (Articulație Radiocarpiană).
+    - Radiusul distal, ulna, oasele carpiene și cel puțin regiunea metacarpiană mijlocie sunt vizibile.
+    - Trapezul și scafoidul trebuie să fie bine vizualizate, cu doar o ușoară suprapunere a celorlalte oase carpiene pe aspectele lor mediale (Figs. 4.92 și 4.93). Poziție:
+    - Axa longitudinală a mâinii, pumnului (articulației radiocarpiene) și antebrațului trebuie să fie aliniată cu receptorul de imagine.
+    - Incidența oblică adevărată la 45° a pumnului (articulației radiocarpiene) este evidențiată prin: capul ulnar parțial suprapus peste radiusul distal; treimea proximală a oaselor metacarpiene doi până la cinci (bazele metacarpienelor) trebuie să apară în cea mai mare parte suprapuse.
+    - Raza centrală și centrul câmpului de colimare trebuie să fie la nivelul regiunii mediocarpiene. Expunere:
+    - Expunerea optimă a receptorului de imagine și contrastul adecvat, fără mișcare, evidențiază oasele carpiene și marginile lor suprapuse; marginile părților moi; precum și contururi osoase clare și travee trabeculare nete, fără artefacte de mișcare. Fig. 4.92 PA oblică a pumnului (articulației radiocarpiene). Trapezoid Trapez Scafoid Radius Hamatus Capitat Triquetrum Pisiform Semilunar Ulna Fig. 4.93 PA oblică a pumnului (articulației radiocarpiene) drept.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,33 +171,33 @@ title: Rx Rotație Externă (Laterală) PA Oblică (Pumn (Articulație Radiocarp
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.90 PA oblic Pumn (Articulație Radiocarpiană) (cu 45° support).](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_1.jpeg)
+![Fig. 4.90 PA oblică a pumnului (articulației radiocarpiene) (cu suport la 45°).](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.90 PA oblic Pumn (Articulație Radiocarpiană) (cu 45° support).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.90 PA oblic wrist (cu 45° support).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.91 PA oblic Pumn (Articulație Radiocarpiană) fără support.](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.91 PA oblic Pumn (Articulație Radiocarpiană) fără support.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.91 PA oblic wrist fără support.)</span></figcaption>
+<figcaption><strong>Fig. 4.90 PA oblică a pumnului (articulației radiocarpiene) (cu suport la 45°).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.90 PA oblică a pumnului (cu suport la 45°).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.92 PA oblic Pumn (Articulație Radiocarpiană).](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_3.jpeg)
+![Fig. 4.91 PA oblică a pumnului (articulației radiocarpiene) fără suport.](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.92 PA oblic Pumn (Articulație Radiocarpiană).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.92 PA oblic wrist.)</span></figcaption>
+<figcaption><strong>Fig. 4.91 PA oblică a pumnului (articulației radiocarpiene) fără suport.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.91 PA oblică a pumnului fără suport.)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.93 PA oblic de drept Pumn (Articulație Radiocarpiană).](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_4.jpeg)
+![Fig. 4.92 PA oblică a pumnului (articulației radiocarpiene).](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.93 PA oblic de drept Pumn (Articulație Radiocarpiană).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.93 PA oblic de drept wrist.)</span></figcaption>
+<figcaption><strong>Fig. 4.92 PA oblică a pumnului (articulației radiocarpiene).</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.92 PA oblică a pumnului.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.93 PA oblică a pumnului (articulației radiocarpiene) drept.](../../assets/images/protocols/bontrager/rx-lateral-rotation-pa-oblica-pumn-articulatie-radiocarpiana-bontrager/fig_4.jpeg)
+
+<figcaption><strong>Fig. 4.93 PA oblică a pumnului (articulației radiocarpiene) drept.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.93 PA oblică a pumnului drept.)</span></figcaption>
 
 </figure>
 

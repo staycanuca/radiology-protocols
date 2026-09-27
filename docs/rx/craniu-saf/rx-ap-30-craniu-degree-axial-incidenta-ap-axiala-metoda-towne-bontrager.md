@@ -12,7 +12,7 @@ centering: 'Incidență AP axială (metoda Towne) (Fig. 15.79) Unghiul razei cen
   și perpendiculare formate prin poziționarea de rutină; vezi NOTA.) Se centrează
   raza centrală pentru a trece la jumătatea distanței dintre EAM și a ieși prin gaura
   occipitală mare (foramen magnum). Aceasta centrează raza centrală pe planul mediosagital,
-  la 2¼ inches (6 cm) deasupra arcului superciliar; apoi se centrează receptorul de
+  la 2¼ țoli (6 cm) deasupra arcului superciliar; apoi se centrează receptorul de
   imagine pe proiecția razei centrale.'
 clinical_indications:
 - Suspiciune de fractură calvarială, leziuni penetrante și corp străin radioopac /
@@ -24,6 +24,10 @@ images:
     axială Towne — raza centrală la 30 grade caudal față de linia orbitomeatală (LOM),
     centrată)
   url: assets/images/protocols/bontrager/rx-ap-30-craniu-degree-axial-incidenta-ap-axiala-metoda-towne-bontrager/fig_1.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'raza centrală pentru AP axială nu trebuie să depășească 45 grade, deoarece
@@ -91,17 +95,18 @@ title: 'Rx craniu AP (incidență AP axială, metoda Towne), unghi în grade: 30
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: pacient în decubit dorsal; se îndepărtează toate obiectele metalice, din plastic și alte obiecte detașabile de la nivelul capului. Nu se îndepărtează gulerul cervical decât cu aprobarea medicului curant; Regiune anatomică: incidență AP axială (metoda Towne), se aliniază MSP perpendicular pe linia mediană a grilei sau a mesei (vezi AVERTIZAREA anterioară). Se centrează receptorul de imagine pe raza centrală.
-    - **Punct de Centrare Fascicul:** Incidență AP axială (metoda Towne) (Fig. 15.79) Unghiul razei centrale: 30 grade caudal față de linia orbitomeatală (LOM) sau 37 grade caudal față de linia infraorbitomeatală (LIOM). (Din nou, se observă că pacientul cu guler cervical și gâtul extins va avea OML și IOML care diferă de relațiile convenționale paralele și perpendiculare formate prin poziționarea de rutină; vezi NOTA.) Se centrează raza centrală pentru a trece la jumătatea distanței dintre EAM și a ieși prin gaura occipitală mare (foramen magnum). Aceasta centrează raza centrală pe planul mediosagital, la 2¼ inches (6 cm) deasupra arcului superciliar; apoi se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Punct de Centrare Fascicul:** Incidență AP axială (metoda Towne) (Fig. 15.79) Unghiul razei centrale: 30 grade caudal față de linia orbitomeatală (LOM) sau 37 grade caudal față de linia infraorbitomeatală (LIOM). (Din nou, se observă că pacientul cu guler cervical și gâtul extins va avea OML și IOML care diferă de relațiile convenționale paralele și perpendiculare formate prin poziționarea de rutină; vezi NOTA.) Se centrează raza centrală pentru a trece la jumătatea distanței dintre EAM și a ieși prin gaura occipitală mare (foramen magnum). Aceasta centrează raza centrală pe planul mediosagital, la 2¼ țoli (6 cm) deasupra arcului superciliar; apoi se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii. Craniu traumatism acut / regim de urgență lateral, fascicul orizontal AP AP axială Fig. 15.79 AP axială Towne — raza centrală la 30 grade caudal față de linia orbitomeatală (LOM), centrată pe punctul de mijloc dintre EAM.
 
@@ -137,6 +142,7 @@ title: 'Rx craniu AP (incidență AP axială, metoda Towne), unghi în grade: 30
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     raza centrală pentru AP axială nu trebuie să depășească 45 grade, deoarece distorsiunea excesivă va împiedica vizualizarea anatomiei esențiale. Dacă raza centrală nu poate fi înclinată la 30 grade față de linia orbitomeatală (LOM) (înainte de atingerea unghiului maxim de 45 grade), dorsul șeii și procesele clinoide posterioare vor fi vizualizate superior față de gaura occipitală mare (foramen magnum). Siguranța radiologică: selectarea factorilor de expunere trebuie optimizată în conformitate cu ALARA. Se efectuează colimarea pe toate cele patru laturi la nivelul anatomiei de interes. Se respectă reglementările locale, politica departamentului și protocolul utilizat pentru ecranare.

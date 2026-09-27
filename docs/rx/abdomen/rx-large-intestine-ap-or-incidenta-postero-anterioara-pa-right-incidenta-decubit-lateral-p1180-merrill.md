@@ -16,6 +16,10 @@ images:
 - caption: Merrill — pagina 1181, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-ap-or-incidenta-postero-anterioara-pa-right-incidenta-decubit-lateral-p1180-merrill/p1181_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -132,11 +136,12 @@ title: Rx Intestin gros — AP sau Incidență Postero-Anterioară (PA) — Inci
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -178,6 +183,7 @@ title: Rx Intestin gros — AP sau Incidență Postero-Anterioară (PA) — Inci
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -225,50 +231,3 @@ title: Rx Intestin gros — AP sau Incidență Postero-Anterioară (PA) — Inci
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1180–1182](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Poziția de decubit lateral drept evidențiază intestinul gros (colonul) umplut cu substanță de contrast în incidență AP sau PA. Această poziție evidențiază cel mai bine partea medială situată „sus” a
-colonului ascendent și partea laterală a colonului descendent atunci când intestinul gros (colonul) este destins cu aer (Fig. 15.137 și 15.138).
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm). Pentru pacienți de talie redusă, se colimează la 2.5 cm de conturul tegumentar
-al flancurilor abdominale. Se plasează markerul de lateralitate în câmpul colimat.
-
-### raza centrală
-
-• Orizontal și perpendicular pe receptorul de imagine (RI), pentru a pătrunde pe linia mediană a corpului, la nivelul crestelor iliace.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără a se suprapune peste structurile anatomice de interes
-• Regiunea de la flexura colică stângă până la rect
-• Absența rotației anatomice (simetrie bilaterală perfectă) a pacientului, evidențiată prin simetria coastelor și a bazinului (pelvisului)
-• Pentru examinările cu contrast simplu, penetrarea adecvată a bariului; pentru examinările cu dublu contrast, porțiunea intestinului gros (colonului) destinsă cu aer are importanță primordială și nu trebuie să fie penetrată excesiv
-Filtru de compensare
-Calitatea imaginii poate fi îmbunătățită la pacienții de talie mai mare prin utilizarea unui filtru special pentru decubit.
-
-### part_pos
-
-• Cu pacientul culcat pe un suport radiotransparent ridicat, se centrează MSP pe grilă.
-• Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig. 15.136).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se poziționează pacientul pe partea dreaptă, cu spatele sau abdomenul în contact cu stativul vertical Bucky.
-• Se acordă atenție pentru a preveni căderea pacientului de pe cărucior sau masă; dacă se utilizează un cărucior, se blochează ferm toate roțile.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă: 14 × 17 țoli (35 ×
-43 cm), longitudinal.
-

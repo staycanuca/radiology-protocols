@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe PIP articulație de afected falange
+centering: perpendicular pe articulația PIP a falangei afectate
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -27,29 +27,34 @@ images:
 - caption: Merrill — pagina 258, imaginea 7
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-5-upper-extremity-pa-incidenta-oblica-lateral-rotation-p253-merrill/p258_fig7.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică.; se poziționează
-  pacientul’s Antebraț pe masa de examinare, cu Mână în pronație și palm resting pe
-  receptorul de imagine. se centrează receptorul de imagine la nivelul PIP articulație.
-  se rotește Mână laterally until falange sunt separated și sprijinit pe a 45-grade
-  foam wedge. wedge supports falange în poziție paralel cu receptorul de imagine plane
-  (Figs. 5.28 through 5.31) astfel încât articulații interfalangiene (IF) spaces sunt
-  open. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul pe scaun, la capătul mesei radiologice. Se poziționează
+  antebrațul pacientului pe masa de examinare, cu mâna în pronație și palma sprijinită
+  pe receptorul de imagine. Se centrează receptorul de imagine la nivelul articulației
+  PIP. Se rotește mâna lateral până când falangele sunt separate și sprijinite pe
+  o pană din spumă de 45 de grade. Pana susține falangele într-o poziție paralelă
+  cu planul receptorului de imagine (Figs. 5.28 până la 5.31), astfel încât spațiile
+  articulare interfalangiene (IF) să fie deschise. Se efectuează ecranarea gonadelor
+  cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire falange, including distal portion de adjoining metacarpal
-- falange rotit la 45 grade, evidențiat prin concavity de ridicat side de phalangeal
-  corpuri
-- fără superimposition de proximal phalanx sau articulații metacarpofalangiene (MCF)
-  prin adjacent falange
-- Open IP și articulații metacarpofalangiene (MCF) spaces
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întreaga falangă, inclusiv porțiunea distală a metacarpianului adiacent
+- falanga rotită la 45 de grade, evidențiată prin concavitatea părții ridicate a corpului
+  falangei
+- fără suprapunerea falangei proximale sau a articulațiilor metacarpofalangiene (MCF)
+  de către falangele adiacente
+- Spații articulare IP și metacarpofalangiene (MCF) deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-5-upper-extremity-pa-incidenta-oblica-lateral-rotation-p253-merrill
 source_pages:
@@ -60,56 +65,55 @@ source_pages:
 - 257
 - 258
 source_sections:
-  anatomy: PA oblic incidență de afected falange și adjoining distal metacarpal (Figs.
-    5.32 through 5.35).
-  collimation: '• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Place
-    marker de lateralitate (D/S)
+  anatomy: incidență oblică PA a falangei afectate și a metacarpianului distal adiacent
+    (Figs. 5.32 până la 5.35).
+  collimation: • Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene
+    (MCF). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe articulația PIP a falangei afectate
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    în collimated expunere field.'
-  cr: • perpendicular pe PIP articulație de afected falange
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Întreaga falangă, inclusiv porțiunea distală a metacarpianului adiacent
 
-    • Entire falange, including distal portion de adjoining metacarpal
+    • falanga rotită la 45 de grade, evidențiată prin concavitatea părții ridicate
+    a corpurilor falangelor
 
-    • falange rotit la 45 grade, evidențiat prin concavity de ridicat side de phalangeal
-    corpuri
+    • fără suprapunerea falangei proximale sau a articulațiilor metacarpofalangiene
+    (MCF) de către falangele adiacente
 
-    • fără superimposition de proximal phalanx sau articulații metacarpofalangiene
-    (MCF) prin adjacent falange
+    • Spații articulare IP și metacarpofalangiene (MCF) deschise
 
-    • Open IP și articulații metacarpofalangiene (MCF) spaces
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Se poziționează antebrațul pacientului pe masa de examinare, cu mâna
+    în pronație și palma sprijinită pe receptorul de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se poziționează pacientul’s forearm pe masa de examinare, cu mână în
-    pronație și palm resting pe receptorul de imagine.
+    • Se centrează receptorul de imagine la nivelul articulației PIP.
 
-    • se centrează receptorul de imagine la nivelul PIP articulație.
+    • Se rotește mâna lateral până când falangele sunt separate și sprijinite pe o
+    pană din spumă de 45 de grade. Pana susține falangele într-o poziție paralelă
+    cu planul receptorului de imagine (Figs. 5.28 până la 5.31), astfel încât spațiile
+    articulare interfalangiene (IF) să fie deschise.
 
-    • se rotește mână laterally until falange sunt separated și sprijinit pe a 45-grade
-    foam wedge. wedge supports falange în poziție paralel cu receptorul de imagine
-    plane (Figs. 5.28 through 5.31) astfel încât articulații interfalangiene (IF)
-    spaces sunt open.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul pe scaun la end de masa radiologică.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul pe scaun, la capătul mesei radiologice.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 253–258
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange,
-    including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Se
-    plasează markerul de lateralitate în câmpul colimat.
-title: Rx Membru Superior — Oblică Postero-Anterioară (PA) — Rotație Externă (Laterală)
-  (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene
+    (MCF). Se plasează markerul de lateralitate în câmpul colimat.
+title: Rx membru superior — incidență oblică postero-anterioară (PA) — rotație externă
+  (laterală) (Merrill)
 ---
-# Rx Membru Superior — Oblică Postero-Anterioară (PA) — Rotație Externă (Laterală) (Merrill)
+# Rx membru superior — incidență oblică postero-anterioară (PA) — rotație externă (laterală) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -133,17 +137,18 @@ title: Rx Membru Superior — Oblică Postero-Anterioară (PA) — Rotație Exte
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică.; se poziționează pacientul’s Antebraț pe masa de examinare, cu Mână în pronație și palm resting pe receptorul de imagine. se centrează receptorul de imagine la nivelul PIP articulație. se rotește Mână laterally until falange sunt separated și sprijinit pe a 45-grade foam wedge. wedge supports falange în poziție paralel cu receptorul de imagine plane (Figs. 5.28 through 5.31) astfel încât articulații interfalangiene (IF) spaces sunt open. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe PIP articulație de afected falange
+    - **Poziție Pacient:** Se așază pacientul pe scaun, la capătul mesei radiologice. Se poziționează antebrațul pacientului pe masa de examinare, cu mâna în pronație și palma sprijinită pe receptorul de imagine. Se centrează receptorul de imagine la nivelul articulației PIP. Se rotește mâna lateral până când falangele sunt separate și sprijinite pe o pană din spumă de 45 de grade. Pana susține falangele într-o poziție paralelă cu planul receptorului de imagine (Figs. 5.28 până la 5.31), astfel încât spațiile articulare interfalangiene (IF) să fie deschise. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe articulația PIP a falangei afectate
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -159,20 +164,20 @@ title: Rx Membru Superior — Oblică Postero-Anterioară (PA) — Rotație Exte
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile falangei, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metacarpofalangiene (MCF). Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire falange, including distal portion de adjoining metacarpal
-    - falange rotit la 45 grade, evidențiat prin concavity de ridicat side de phalangeal corpuri
-    - fără superimposition de proximal phalanx sau articulații metacarpofalangiene (MCF) prin adjacent falange
-    - Open IP și articulații metacarpofalangiene (MCF) spaces
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întreaga falangă, inclusiv porțiunea distală a metacarpianului adiacent
+    - falanga rotită la 45 de grade, evidențiată prin concavitatea părții ridicate a corpului falangei
+    - fără suprapunerea falangei proximale sau a articulațiilor metacarpofalangiene (MCF) de către falangele adiacente
+    - Spații articulare IP și metacarpofalangiene (MCF) deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -181,6 +186,7 @@ title: Rx Membru Superior — Oblică Postero-Anterioară (PA) — Rotație Exte
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -260,44 +266,3 @@ title: Rx Membru Superior — Oblică Postero-Anterioară (PA) — Rotație Exte
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 253–258](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-PA oblic incidență de afected falange și adjoining distal metacarpal (Figs. 5.32 through 5.35).
-
-### collimation
-
-• Adjust câmp de iradiere la 1 inch (2.5 cm) pe toate sides de falange, including 1 inch (2.5 cm) proximal la articulații metacarpofalangiene (MCF). Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-• perpendicular pe PIP articulație de afected falange
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire falange, including distal portion de adjoining metacarpal
-• falange rotit la 45 grade, evidențiat prin concavity de ridicat side de phalangeal corpuri
-• fără superimposition de proximal phalanx sau articulații metacarpofalangiene (MCF) prin adjacent falange
-• Open IP și articulații metacarpofalangiene (MCF) spaces
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se poziționează pacientul’s forearm pe masa de examinare, cu mână în pronație și palm resting pe receptorul de imagine.
-• se centrează receptorul de imagine la nivelul PIP articulație.
-• se rotește mână laterally until falange sunt separated și sprijinit pe a 45-grade foam wedge. wedge supports falange în poziție paralel cu receptorul de imagine plane (Figs. 5.28 through 5.31) astfel încât articulații interfalangiene (IF) spaces sunt open.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

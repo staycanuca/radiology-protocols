@@ -4,9 +4,13 @@ breathing: Adaptată incidenței și cooperării; de confirmat local.
 category: membru-superior
 centering: Conform incidenței și acoperirii anatomice documentate.
 clinical_indications:
-- Traumatism al antebrațului sau evaluare justificată unei fracturi cunoscute.
+- Traumatism al antebrațului sau evaluarea justificată a unei fracturi cunoscute.
 clinical_status: draft_not_for_clinical_use
 images: []
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Cotul sau pumnul insuficient vizualizate se examinează țintit, după decizia
@@ -67,7 +71,7 @@ sources:
   url: https://www.aapm.org/org/policies/details.asp?id=2552
   verification_method: Web consultation; no downloaded content hash
 standard_views:
-- centering: Radius și ulna integral, cot și pumn.
+- centering: Radiusul și ulna în întregime, cotul și pumnul.
   condition: Parte a setului inițial justificat de radiolog
   name: AP antebraț
   position: Antebrațul sprijinit în orientare AP, fără forțarea extensiei.
@@ -75,8 +79,8 @@ standard_views:
 - centering: Cotul și pumnul în limitele imaginii.
   condition: Parte a setului inițial justificat de radiolog
   name: Profil antebraț
-  position: Orientare laterală adaptată mobilității; sprijin radiotransparent.
-  quality: Proiecție laterală utilă pentru alinierea osoasă; documentarea rotației
+  position: Orientare de profil adaptată mobilității; sprijin radiotransparent.
+  quality: Incidență de profil utilă pentru alinierea osoasă; documentarea rotației
     reziduale.
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
@@ -85,13 +89,13 @@ tech_params:
   grid: DE CONFIGURAT PE APARAT
   kv: DE CONFIGURAT PE APARAT
   mas: DE CONFIGURAT PE APARAT
-title: Rx RX antebraț — radius și ulna
+title: Rx antebraț — radius și ulna
 workbench_transfer:
   draft_id: 3fe19a98915157dd885b0b976531a58b
   purpose: review_in_main_application
   transferred_at: '2026-09-15T08:50:31.194941+00:00'
 ---
-# Rx RX antebraț — radius și ulna
+# Rx antebraț — radius și ulna
 
 !!! warning "Ciornă pentru revizuire — nu se utilizează clinic"
     Parametrii aparatului și adaptarea locală trebuie verificate înainte de utilizarea clinică.
@@ -113,16 +117,17 @@ workbench_transfer:
 
     === "Indicații Clinice"
 
-        - Traumatism al antebrațului sau evaluare justificată unei fracturi cunoscute.
+        - Traumatism al antebrațului sau evaluarea justificată a unei fracturi cunoscute.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -163,6 +168,7 @@ workbench_transfer:
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Cotul sau pumnul insuficient vizualizate se examinează țintit, după decizia radiologului. Se verifică leziunile articulare asociate.
 
@@ -174,7 +180,7 @@ workbench_transfer:
 
 **Poziționare:** Antebrațul sprijinit în orientare AP, fără forțarea extensiei.
 
-**Centrare / acoperire:** Radius și ulna integral, cot și pumn.
+**Centrare / acoperire:** Radiusul și ulna în întregime, cotul și pumnul.
 
 **Criterii de acceptare:** Ambele oase și relațiile articulare evaluabile.
 
@@ -182,11 +188,11 @@ workbench_transfer:
 
 **Selecție:** Parte a setului inițial justificat de radiolog
 
-**Poziționare:** Orientare laterală adaptată mobilității; sprijin radiotransparent.
+**Poziționare:** Orientare de profil adaptată mobilității; sprijin radiotransparent.
 
 **Centrare / acoperire:** Cotul și pumnul în limitele imaginii.
 
-**Criterii de acceptare:** Proiecție laterală utilă pentru alinierea osoasă; documentarea rotației reziduale.
+**Criterii de acceptare:** Incidență de profil utilă pentru alinierea osoasă; documentarea rotației reziduale.
 
 ## De finalizat la revizuire
 

@@ -14,6 +14,10 @@ contrast:
   timing: ''
   trigger: ''
   volume: ''
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 3 (Moderată 5 - 8 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-01-01'
 notes:
   additional_recons: MIP și MinIP la nevoie
@@ -65,6 +69,21 @@ series:
   start: Vârfuri pulmonare
   thickness: 1.25 mm
 slug: non-contrast-ct-chest-routine
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: AAPM
+  kind: Protocol tehnic standardizat
+  sha256: bec845e0b9aa0e1fbdd4cdc56ff2a4bb55e22590ee1e2f9b7329c8b90b876734
+  source_region: US
+  title: AAPM CT Protocols — Routine Adult Chest CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — CT Chest Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Activat (Modulare automată 3D conform topogramei / scout)
@@ -76,27 +95,12 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 1.25 mm
 title: CT Torace Nativ de Rutină
-sources:
-- title: AAPM CT Protocols — Routine Adult Chest CT
-  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineChestCT.pdf
-  institution: AAPM
-  source_region: US
-  kind: Protocol tehnic standardizat
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: bec845e0b9aa0e1fbdd4cdc56ff2a4bb55e22590ee1e2f9b7329c8b90b876734
-- title: UT Southwestern Radiology — CT Chest Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Torace Nativ de Rutină
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -122,10 +126,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Torace & Pulmon*).
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 5 - 8 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -196,6 +204,7 @@ sources:
     | Axial | Nativ | Torace | 2.5 mm/2.5 mm | Standard | 3 | Fereastră mediastinală |
     | Coronal | Nativ | Torace | 2.5 mm/2.5 mm | Plămân | 3 | Coronal pulmonar |
     | Sagital | Nativ | Torace | 2.5 mm/2.5 mm | Plămân | 3 | Sagital pulmonar |
+
 
 ## Surse și revizuire
 

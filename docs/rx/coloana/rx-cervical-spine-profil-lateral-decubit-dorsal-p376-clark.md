@@ -36,6 +36,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cervical-spine-profil-lateral-decubit-dorsal-p376-clark/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: În radiografiile alăturate, o parte a craniului a fost inclusă pe filmul radiologic
@@ -108,19 +112,21 @@ title: Rx Coloană cervicală, incidență de profil, decubit dorsal
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • aparatul mobil este poziționat astfel încât să permită radiografia cu fascicul orizontal.
-• cu pacientul în decubit dorsal, o casetă de 24 × 30 sau 18 × 24 cm este sprijinită vertical de oricare dintre umeri, paralel cu coloana cervicală și centrată la nivelul proeminenței cartilajului tiroid (mărul lui Adam).
-• caseta este fixată în poziție folosind un suport sau săculeți cu nisip.
-• umerii pacientului trebuie coborâți de către medicul care supraveghează, prin prinderea încheieturilor mâinilor pacientului și tragerea brațelor în sens caudal.
+    - **Poziție Pacient:**
+        - aparatul mobil este poziționat astfel încât să permită radiografia cu fascicul orizontal.
+        - cu pacientul în decubit dorsal, o casetă de 24 × 30 sau 18 × 24 cm este sprijinită vertical de oricare dintre umeri, paralel cu coloana cervicală și centrată la nivelul proeminenței cartilajului tiroid (mărul lui Adam).
+        - caseta este fixată în poziție folosind un suport sau săculeți cu nisip.
+        - umerii pacientului trebuie coborâți de către medicul care supraveghează, prin prinderea încheieturilor mâinilor pacientului și tragerea brațelor în sens caudal.
     - **Punct de Centrare Fascicul:** • raza centrală orizontală este orientată spre un punct situat vertical sub proeminența cartilajului tiroid (mărul lui Adam), la nivelul procesului mastoidian, traversând a patra vertebră cervicală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -159,6 +165,7 @@ title: Rx Coloană cervicală, incidență de profil, decubit dorsal
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     În radiografiile alăturate, o parte a craniului a fost inclusă pe filmul radiologic pentru a arăta locul în care pensa de tracțiune craniană este fixată de regiunile parietale.

@@ -26,6 +26,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-hyperextension-and-hyperflexion-lateral-positions-spinal-fusion-series-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: Incidența este efectuată frecvent cu pacientul în ortostatism sau așezat pe
@@ -37,15 +41,15 @@ notes: Incidența este efectuată frecvent cu pacientul în ortostatism sau așe
   spre dreapta și spre stânga; profil în hiperextensie și hiperflexie
 position: 'Pacient: incidență de profil. Plasați pacientul în ortostatism (preferabil)
   sau în decubit lateral (vezi NOTE). Plasați marginea inferioară a receptorului de
-  imagine la 1 la 2 inches (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5).
-  Regiune anatomică: aliniați planul mediocoronal cu raza centrală și cu linia mediană
-  a mesei și/sau a receptorului de imagine. Hiperflexie: folosind bazinul ca punct
-  de sprijin, cereți pacientului să adopte o poziție hiperflectată, rămânând în limitele
-  câmpului de colimare (Fig. 9.60). Hiperextensie: folosind bazinul ca punct de sprijin,
-  cereți pacientului să deplaseze trunchiul posterior cât mai mult posibil pentru
-  a hiperextinde axa longitudinală a corpului (Fig. 9.61). Se verifică absența rotației:
-  claviculele sunt riguros echidistante față de linia proceselor spinoase toracale
-  sau bazinul este vizibil.'
+  imagine la 1 la 2 țoli (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5). Regiune
+  anatomică: aliniați planul mediocoronal cu raza centrală și cu linia mediană a mesei
+  și/sau a receptorului de imagine. Hiperflexie: folosind bazinul ca punct de sprijin,
+  cereți pacientului să adopte o poziție hiperflectată, rămânând în limitele câmpului
+  de colimare (Fig. 9.60). Hiperextensie: folosind bazinul ca punct de sprijin, cereți
+  pacientului să deplaseze trunchiul posterior cât mai mult posibil pentru a hiperextinde
+  axa longitudinală a corpului (Fig. 9.61). Se verifică absența rotației: claviculele
+  sunt riguros echidistante față de linia proceselor spinoase toracale sau bazinul
+  este vizibil.'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -53,7 +57,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vertebrele toracale și lombare, incluzând 1 la 2 inches (2.5 la 5 cm) din creasta
+- Vertebrele toracale și lombare, incluzând 1 la 2 țoli (2.5 la 5 cm) din creasta
   iliacă (corespunzător L4-L5) (Figs. 9.62 și 9.63). Poziție
 - Coloana vertebrală este aliniată paralel cu receptorul de imagine (RI), după cum
   indică deschiderea găurilor intervertebrale și a spațiilor articulare intervertebrale.
@@ -104,16 +108,17 @@ title: Rx Hiperextensie și hiperflexie — poziționare în incidență de prof
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: incidență de profil. Plasați pacientul în ortostatism (preferabil) sau în decubit lateral (vezi NOTE). Plasați marginea inferioară a receptorului de imagine la 1 la 2 inches (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5). Regiune anatomică: aliniați planul mediocoronal cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Hiperflexie: folosind bazinul ca punct de sprijin, cereți pacientului să adopte o poziție hiperflectată, rămânând în limitele câmpului de colimare (Fig. 9.60). Hiperextensie: folosind bazinul ca punct de sprijin, cereți pacientului să deplaseze trunchiul posterior cât mai mult posibil pentru a hiperextinde axa longitudinală a corpului (Fig. 9.61). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase toracale sau bazinul este vizibil.
+    - **Poziție Pacient:** Pacient: incidență de profil. Plasați pacientul în ortostatism (preferabil) sau în decubit lateral (vezi NOTE). Plasați marginea inferioară a receptorului de imagine la 1 la 2 țoli (2.5 la 5 cm) sub creasta iliacă (corespunzător L4-L5). Regiune anatomică: aliniați planul mediocoronal cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine. Hiperflexie: folosind bazinul ca punct de sprijin, cereți pacientului să adopte o poziție hiperflectată, rămânând în limitele câmpului de colimare (Fig. 9.60). Hiperextensie: folosind bazinul ca punct de sprijin, cereți pacientului să deplaseze trunchiul posterior cât mai mult posibil pentru a hiperextinde axa longitudinală a corpului (Fig. 9.61). Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase toracale sau bazinul este vizibil.
     - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine. Raza centrală se orientează spre locul fuziunii, dacă este cunoscut, sau spre centrul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii, la sfârșitul expirului.
@@ -137,7 +142,7 @@ title: Rx Hiperextensie și hiperflexie — poziționare în incidență de prof
 
     ---
 
-    - Vertebrele toracale și lombare, incluzând 1 la 2 inches (2.5 la 5 cm) din creasta iliacă (corespunzător L4-L5) (Figs. 9.62 și 9.63). Poziție
+    - Vertebrele toracale și lombare, incluzând 1 la 2 țoli (2.5 la 5 cm) din creasta iliacă (corespunzător L4-L5) (Figs. 9.62 și 9.63). Poziție
     - Coloana vertebrală este aliniată paralel cu receptorul de imagine (RI), după cum indică deschiderea găurilor intervertebrale și a spațiilor articulare intervertebrale.
     - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase, indicată prin suprapunerea incizurilor sciatice mari și a corpilor vertebrali posteriori.
     - Colimarea câmpului la dimensiunea ariei de interes diagnostic. Expunere
@@ -153,6 +158,7 @@ title: Rx Hiperextensie și hiperflexie — poziționare în incidență de prof
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Incidența este efectuată frecvent cu pacientul în ortostatism sau așezat pe un scaun, aplecându-se înainte cât mai mult posibil, ținându-se de părțile laterale ale scaunului, apoi aplecându-se înapoi cât mai mult posibil, ținându-se de spătarul scaunului pentru a menține această poziție. Bazinul trebuie să rămână cât mai staționar posibil în timpul poziționării. Bazinul acționează ca punct de sprijin în timpul schimbărilor de poziție. Flexie; SERIA PENTRU FUZIUNE SPINALĂ DE RUTINĂ PA—înclinare spre dreapta și spre stânga; profil în hiperextensie și hiperflexie

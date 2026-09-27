@@ -28,6 +28,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-orbital-incidenta-oblica-parieto-optic-foramina-rhese-method-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: CT este modalitatea preferată pentru investigarea detaliată a găurii optice.
@@ -73,7 +77,7 @@ sources:
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Se efectuează colimarea pe toate laturile pentru a obține un câmp de
-    aproximativ 3 inches (7.5 cm) pătrat.
+    aproximativ 3 țoli (7.5 cm) pătrat.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -107,11 +111,12 @@ title: Radiografie orbitală — incidență oblică parieto-orbitală (găurile
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -133,7 +138,7 @@ title: Radiografie orbitală — incidență oblică parieto-orbitală (găurile
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
-    | **Colimare Fascicul** | Se efectuează colimarea pe toate laturile pentru a obține un câmp de aproximativ 3 inches (7.5 cm) pătrat. |
+    | **Colimare Fascicul** | Se efectuează colimarea pe toate laturile pentru a obține un câmp de aproximativ 3 țoli (7.5 cm) pătrat. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -157,6 +162,7 @@ title: Radiografie orbitală — incidență oblică parieto-orbitală (găurile
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     CT este modalitatea preferată pentru investigarea detaliată a găurii optice. Radiografiile ambelor părți (bilateral) sunt efectuate, în general, pentru comparație. Această incidență poate furniza, de asemenea, o imagine excelentă a marginilor orbitale mediale și inferioare. Fără AEC. Gaură optică. Incidență parieto-orbitală oblică de rutină (metoda Rhese). Incidență parietoacanthială (incidență occipitomentonieră, metoda Waters). Incidență parietoacanthială modificată (incidență occipitomentonieră modificată, metoda Waters).

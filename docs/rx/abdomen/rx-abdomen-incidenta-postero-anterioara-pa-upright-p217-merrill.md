@@ -6,6 +6,10 @@ centering: Conform reperelor anatomice standard din tratat
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Când rinichii nu prezintă interes principal, trebuie luată în considerare incidența
@@ -15,7 +19,7 @@ notes: Când rinichii nu prezintă interes principal, trebuie luată în conside
 position: Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului
   în contact cu stativul vertical Bucky. Se centrează linia mediană a abdomenului
   pe linia mediană a receptorului de imagine. Se centrează receptorul de imagine/câmpul
-  colimat la 2 inches (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform
+  colimat la 2 țoli (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform
   descrierii anterioare pentru incidența anteroposterioară (AP) în ortostatism. Raza
   centrală, structurile vizualizate și criteriile de evaluare sunt aceleași ca pentru
   incidența anteroposterioară (AP) în ortostatism.; Conform reperelor anatomice standard
@@ -39,7 +43,7 @@ source_sections:
     • Se centrează linia mediană a abdomenului pe linia mediană a receptorului de
     imagine.
 
-    • Se centrează receptorul de imagine/câmpul colimat la 2 inches (5 cm) deasupra
+    • Se centrează receptorul de imagine/câmpul colimat la 2 țoli (5 cm) deasupra
     nivelului crestelor iliace (Fig. 4.14), conform descrierii anterioare pentru incidența
     AP
 
@@ -80,16 +84,17 @@ title: Rx Abdomen — Incidență Postero-Anterioară (PA) — Ortostatism (Merr
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului în contact cu stativul vertical Bucky. Se centrează linia mediană a abdomenului pe linia mediană a receptorului de imagine. Se centrează receptorul de imagine/câmpul colimat la 2 inches (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform descrierii anterioare pentru incidența anteroposterioară (AP) în ortostatism. Raza centrală, structurile vizualizate și criteriile de evaluare sunt aceleași ca pentru incidența anteroposterioară (AP) în ortostatism.; Conform reperelor anatomice standard din tratat
+    - **Poziție Pacient:** Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului în contact cu stativul vertical Bucky. Se centrează linia mediană a abdomenului pe linia mediană a receptorului de imagine. Se centrează receptorul de imagine/câmpul colimat la 2 țoli (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform descrierii anterioare pentru incidența anteroposterioară (AP) în ortostatism. Raza centrală, structurile vizualizate și criteriile de evaluare sunt aceleași ca pentru incidența anteroposterioară (AP) în ortostatism.; Conform reperelor anatomice standard din tratat
     - **Punct de Centrare Fascicul:** Conform reperelor anatomice standard din tratat
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
@@ -123,6 +128,7 @@ title: Rx Abdomen — Incidență Postero-Anterioară (PA) — Ortostatism (Merr
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Când rinichii nu prezintă interes principal, trebuie luată în considerare incidența posteroanterioară (PA) în ortostatism. Comparativ cu incidența anteroposterioară (AP), incidența posteroanterioară (PA) a abdomenului reduce considerabil doza la nivelul gonadelor pacientului.
 
@@ -138,22 +144,3 @@ title: Rx Abdomen — Incidență Postero-Anterioară (PA) — Ortostatism (Merr
 ## Surse de documentare
 
 - [Merrill’s Atlas, 4. Abdomen, pagini 217–217](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### note
-
-Când rinichii nu prezintă interes principal, trebuie luată în considerare incidența PA în ortostatism. Comparativ cu incidența AP, incidența PA
-a abdomenului reduce considerabil doza la nivelul gonadelor pacientului.
-
-### patient_pos
-
-• Cu pacientul în ortostatism, se așază suprafața anterioară a abdomenului în contact cu stativul vertical Bucky.
-• Se centrează linia mediană a abdomenului pe linia mediană a receptorului de imagine.
-• Se centrează receptorul de imagine/câmpul colimat la 2 inches (5 cm) deasupra nivelului crestelor iliace (Fig. 4.14), conform descrierii anterioare pentru incidența AP
-în ortostatism. Raza centrală, structurile vizualizate și criteriile de evaluare sunt aceleași ca pentru incidența AP în ortostatism.
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; raza centrală; placă: 14 × 17 țoli (35 × 43 cm), longitudinal.
-

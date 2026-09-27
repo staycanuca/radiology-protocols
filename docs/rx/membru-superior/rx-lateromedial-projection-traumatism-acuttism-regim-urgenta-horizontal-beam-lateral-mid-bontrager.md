@@ -1,30 +1,37 @@
 ---
 author: Departamentul de Radiologie / Referință Bontrager
-breathing: Apnee pe durata expunerii. (This step este important în preventing movement
-  de receptorul de imagine during expunere.) 43 (30) (24) Humerus ROUTINE AP Rotational
-  lateral SPECIAL (traumatism acuttism / Regim Urgență) orizontal fascicul lateral
-  Transthoracic lateral Fig. 5.34 orizontal fascicul lateral (midhumerus și distal
-  Humerus). Fig. 5.35 Lateromedial incidență de midto- distal Humerus. olecran Trochlear
-  notch Shaft (corp) Fig. 5.36 Lateromedial incidență de midto- distal Humerus.
+breathing: Apnee pe durata expunerii. (Acest pas este important pentru prevenirea
+  mișcării receptorului de imagine în timpul expunerii.) 43 (30) (24) Humerus — RUTINĂ
+  AP Incidență de profil rotațională SPECIALĂ (traumatism acut / regim de urgență)
+  fascicul orizontal, incidență de profil Incidență de profil transtoracică Fig. 5.34
+  fascicul orizontal, incidență de profil (humerus mijlociu și humerus distal). Fig.
+  5.35 Incidență latero-medială a humerusului mijlociu până la distal. olecran șanț
+  trohlear diafiză (corp) Fig. 5.36 Incidență latero-medială a humerusului mijlociu
+  până la distal.
 category: membru-superior
-centering: perpendicular la midpoint de distal twothirds de Humerus
+centering: Perpendicular pe punctul median al celor două treimi distale ale humerusului
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de midhumerus și distal
-  Humerus
-- Pathologic processes, including osteoporosis
+- Suspiciune de fractură și luxație / subluxație articulară a humerusului mijlociu
+  și distal
+- Procese patologice, inclusiv osteoporoza
 images:
-- caption: Fig. 5.34 orizontal fascicul lateral (midhumerus și distal Humerus).
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 5.34 orizontal
-    fascicul lateral (midhumerus și distal humerus).)
+- caption: Fig. 5.34 fascicul orizontal, incidență de profil (humerus mijlociu și
+    distal).
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 5.34 fascicul
+    orizontal, incidență de profil (humerus mijlociu și distal).)
   url: assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_1.jpeg
-- caption: Fig. 5.35 Lateromedial incidență de mid-
+- caption: Fig. 5.35 Incidență latero-medială a humerusului mijlociu—
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.35
-    Lateromedial incidență de mid-)
+    incidență latero-medială a humerusului mijlociu—)
   url: assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_2.jpeg
-- caption: Fig. 5.36 Lateromedial incidență de mid-
+- caption: Fig. 5.36 Incidență latero-medială a humerusului mijlociu—
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.36
-    Lateromedial incidență de mid-)
+    incidență latero-medială a humerusului mijlociu—)
   url: assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -36,16 +43,16 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Incidență de Profil (lateral) de midhumerus și distal Humerus, including Cot articulație,
-  este vizibil (Figs. 5.35 și 5.36).
-- 'distal twothirds de Humerus trebuie să fie well visualized. poziție:'
-- axa longitudinală de Humerus trebuie să fie aliniat cu axa longitudinală de receptorul
+- Incidența de profil a humerusului mijlociu și distal, inclusiv articulația cotului,
+  este vizibilă (Fig. 5.35 și 5.36).
+- 'Cele două treimi distale ale humerusului trebuie să fie bine vizualizate. Poziție:'
+- Axa longitudinală a humerusului trebuie să fie aliniată cu axa longitudinală a receptorului
   de imagine.
-- Cot este flectat 90°.
-- 'Collimation field size la aria de interes diagnostic. expunere:'
-- optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize
-  net cortical margini și clear, Contururi osoase și travee trabeculare nete, fără
-  artefacte de mișcare.
+- Cotul este flectat la 90°.
+- 'Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:'
+- Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie
+  să vizualizeze clar marginile corticale și contururile osoase și traveele trabeculare,
+  fără artefacte de mișcare.
 sid_dff: 100 cm
 slug: rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager
 sources:
@@ -53,17 +60,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate la părți moi margins. Include distal Humerus și
-    midhumerus, Cot articulație, și proximal Antebraț.
+  collimation: 'Dimensiunea câmpului: Colimați la marginile părților moi. Includeți
+    humerusul distal și humerusul mijlociu, articulația cotului și antebrațul proximal.'
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: 70-85
   mas: DE CONFIGURAT PE APARAT
-title: Rx Incidență Latero-Medială traumatism acuttism / Regim Urgență HORIZONTAL
-  BEAM LATERAL (- MID)
+title: Rx incidență latero-medială pentru traumatism acut / regim de urgență — INCIDENȚĂ
+  DE PROFIL CU FASCICUL ORIZONTAL (- MIJLOC)
 ---
-# Rx Incidență Latero-Medială traumatism acuttism / Regim Urgență HORIZONTAL BEAM LATERAL (- MID)
+# Rx incidență latero-medială pentru traumatism acut / regim de urgență — INCIDENȚĂ DE PROFIL CU FASCICUL ORIZONTAL (- MIJLOC)
 
 
 <div class="rx-meta-bar">
@@ -82,25 +89,26 @@ title: Rx Incidență Latero-Medială traumatism acuttism / Regim Urgență HORI
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de midhumerus și distal Humerus
-        - Pathologic processes, including osteoporosis
+        - Suspiciune de fractură și luxație / subluxație articulară a humerusului mijlociu și distal
+        - Procese patologice, inclusiv osteoporoza
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Conform incidenței standard descrise
-    - **Punct de Centrare Fascicul:** perpendicular la midpoint de distal twothirds de Humerus
+    - **Punct de Centrare Fascicul:** Perpendicular pe punctul median al celor două treimi distale ale humerusului
     - **Distanță Focar-Film (DFF / SID):** 100 cm
-    - **Comandă Respiratorie:** Apnee pe durata expunerii. (This step este important în preventing movement de receptorul de imagine during expunere.) 43 (30) (24) Humerus ROUTINE AP Rotational lateral SPECIAL (traumatism acuttism / Regim Urgență) orizontal fascicul lateral Transthoracic lateral Fig. 5.34 orizontal fascicul lateral (midhumerus și distal Humerus). Fig. 5.35 Lateromedial incidență de midto- distal Humerus. olecran Trochlear notch Shaft (corp) Fig. 5.36 Lateromedial incidență de midto- distal Humerus.
+    - **Comandă Respiratorie:** Apnee pe durata expunerii. (Acest pas este important pentru prevenirea mișcării receptorului de imagine în timpul expunerii.) 43 (30) (24) Humerus — RUTINĂ AP Incidență de profil rotațională SPECIALĂ (traumatism acut / regim de urgență) fascicul orizontal, incidență de profil Incidență de profil transtoracică Fig. 5.34 fascicul orizontal, incidență de profil (humerus mijlociu și humerus distal). Fig. 5.35 Incidență latero-medială a humerusului mijlociu până la distal. olecran șanț trohlear diafiză (corp) Fig. 5.36 Incidență latero-medială a humerusului mijlociu până la distal.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -114,19 +122,19 @@ title: Rx Incidență Latero-Medială traumatism acuttism / Regim Urgență HORI
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate la părți moi margins. Include distal Humerus și midhumerus, Cot articulație, și proximal Antebraț. |
+    | **Colimare Fascicul** | Dimensiunea câmpului: Colimați la marginile părților moi. Includeți humerusul distal și humerusul mijlociu, articulația cotului și antebrațul proximal. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Incidență de Profil (lateral) de midhumerus și distal Humerus, including Cot articulație, este vizibil (Figs. 5.35 și 5.36).
-    - distal twothirds de Humerus trebuie să fie well visualized. poziție:
-    - axa longitudinală de Humerus trebuie să fie aliniat cu axa longitudinală de receptorul de imagine.
-    - Cot este flectat 90°.
-    - Collimation field size la aria de interes diagnostic. expunere:
-    - optim receptorul de imagine expunere și contrast cu fără mișcare trebuie să visualize net cortical margini și clear, Contururi osoase și travee trabeculare nete, fără artefacte de mișcare.
+    - Incidența de profil a humerusului mijlociu și distal, inclusiv articulația cotului, este vizibilă (Fig. 5.35 și 5.36).
+    - Cele două treimi distale ale humerusului trebuie să fie bine vizualizate. Poziție:
+    - Axa longitudinală a humerusului trebuie să fie aliniată cu axa longitudinală a receptorului de imagine.
+    - Cotul este flectat la 90°.
+    - Dimensiunea câmpului de colimare până la aria de interes diagnostic. Expunere:
+    - Expunerea și contrastul optime ale receptorului de imagine, fără mișcare, trebuie să vizualizeze clar marginile corticale și contururile osoase și traveele trabeculare, fără artefacte de mișcare.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -146,25 +154,25 @@ title: Rx Incidență Latero-Medială traumatism acuttism / Regim Urgență HORI
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.34 orizontal fascicul lateral (midhumerus și distal Humerus).](../../assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_1.jpeg)
+![Fig. 5.34 fascicul orizontal, incidență de profil (humerus mijlociu și distal).](../../assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 5.34 orizontal fascicul lateral (midhumerus și distal Humerus).</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 5.34 orizontal fascicul lateral (midhumerus și distal humerus).)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 5.35 Lateromedial incidență de mid-](../../assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 5.35 Lateromedial incidență de mid-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.35 Lateromedial incidență de mid-)</span></figcaption>
+<figcaption><strong>Fig. 5.34 fascicul orizontal, incidență de profil (humerus mijlociu și distal).</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 5.34 fascicul orizontal, incidență de profil (humerus mijlociu și distal).)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 5.36 Lateromedial incidență de mid-](../../assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_3.jpeg)
+![Fig. 5.35 Incidență latero-medială a humerusului mijlociu—](../../assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 5.36 Lateromedial incidență de mid-</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.36 Lateromedial incidență de mid-)</span></figcaption>
+<figcaption><strong>Fig. 5.35 Incidență latero-medială a humerusului mijlociu—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.35 incidență latero-medială a humerusului mijlociu—)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 5.36 Incidență latero-medială a humerusului mijlociu—](../../assets/images/protocols/bontrager/rx-lateromedial-projection-traumatism-acuttism-regim-urgenta-horizontal-beam-lateral-mid-bontrager/fig_3.jpeg)
+
+<figcaption><strong>Fig. 5.36 Incidență latero-medială a humerusului mijlociu—</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 5.36 incidență latero-medială a humerusului mijlociu—)</span></figcaption>
 
 </figure>
 

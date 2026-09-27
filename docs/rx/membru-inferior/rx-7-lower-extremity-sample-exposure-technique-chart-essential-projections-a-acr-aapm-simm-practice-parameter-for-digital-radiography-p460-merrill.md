@@ -9,6 +9,10 @@ images:
 - caption: Merrill — pagina 461, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-7-lower-extremity-sample-exposure-technique-chart-essential-projections-a-acr-aapm-simm-practice-parameter-for-digital-radiography-p460-merrill/p461_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -30,10 +34,11 @@ sources:
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Membru Inferior — a ACR-AAPM-SIMM Practice Parameter for Digital Radiography,
-  revised 2017. b kVp values are for a high-frequency generator. (Merrill)
+title: Rx membru inferior — a Parametru de practică ACR-AAPM-SIMM pentru radiografia
+  digitală, revizuit în 2017. b Valorile kVp sunt pentru un generator de înaltă frecvență.
+  (Merrill)
 ---
-# Rx Membru Inferior — a ACR-AAPM-SIMM Practice Parameter for Digital Radiography, revised 2017. b kVp values are for a high-frequency generator. (Merrill)
+# Rx membru inferior — a Parametru de practică ACR-AAPM-SIMM pentru radiografia digitală, revizuit în 2017. b Valorile kVp sunt pentru un generator de înaltă frecvență. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -57,11 +62,12 @@ title: Rx Membru Inferior — a ACR-AAPM-SIMM Practice Parameter for Digital Rad
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -99,6 +105,7 @@ title: Rx Membru Inferior — a ACR-AAPM-SIMM Practice Parameter for Digital Rad
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat

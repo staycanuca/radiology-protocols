@@ -12,6 +12,10 @@ images:
 - caption: Merrill — pagina 957, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-maxillary-and-sphenoidal-sinuses-parietoacanthial-projection-open-mouth-incidenta-occipito-mentoniera-metoda-waters-p955-merrill/p957_fig2.png
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -48,10 +52,10 @@ source_pages:
 source_sections:
   anatomy: Sinusurile sfenoidale proiectate prin gura deschisă (transorală), împreună
     cu sinusurile maxilare (Fig. 11.179).
-  collimation: • Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2,5
+  collimation: • Se ajustează câmpul de iradiere pentru a se extinde cu 1 țol (2,5
     cm) dincolo de umbrele cutanate laterale, superior pentru a include doar umbra
     vârfului capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie
-    să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate
+    să fie mai mare de 8 × 10 țoli (18 × 24 cm). Se plasează markerul de lateralitate
     în câmpul de expunere colimat.
   cr: • Orizontal față de receptorul de imagine și cu ieșirea la acantion.
   criteria: 'Criterii radiologice de calitate a imaginii:
@@ -96,7 +100,7 @@ source_sections:
     • Imobilizați capul pacientului.'
   respiration: apnee (oprirea respirației).
   tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
-    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
     (24 ×
 
     30 cm), longitudinal.
@@ -113,11 +117,11 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm)
+  collimation: Se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm)
     dincolo de umbrele cutanate laterale, superior pentru a include doar umbra vârfului
     capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie să fie
-    mai mare de 8 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S)
-    în câmpul de expunere colimat.
+    mai mare de 8 × 10 țoli (18 × 24 cm). Plasați markerul de lateralitate (D/S) în
+    câmpul de expunere colimat.
 title: Radiografia sinusurilor maxilare și sfenoidale — incidență parietoacantială
   — transorală (gură deschisă), incidență occipito-mentonieră (metoda Waters) (Merrill)
 ---
@@ -145,11 +149,12 @@ title: Radiografia sinusurilor maxilare și sfenoidale — incidență parietoac
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -171,7 +176,7 @@ title: Radiografia sinusurilor maxilare și sfenoidale — incidență parietoac
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde 1 inch (2.5 cm) dincolo de umbrele cutanate laterale, superior pentru a include doar umbra vârfului capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere pentru a se extinde 1 țol (2.5 cm) dincolo de umbrele cutanate laterale, superior pentru a include doar umbra vârfului capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 țoli (18 × 24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -191,6 +196,7 @@ title: Radiografia sinusurilor maxilare și sfenoidale — incidență parietoac
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -230,50 +236,3 @@ title: Radiografia sinusurilor maxilare și sfenoidale — incidență parietoac
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 955–957](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Sinusurile sfenoidale proiectate prin gura deschisă (transorală), împreună cu sinusurile maxilare (Fig. 11.179).
-
-### colimare
-
-• Se ajustează câmpul de iradiere pentru a se extinde cu 1 inch (2,5 cm) dincolo de umbrele cutanate laterale, superior pentru a include doar umbra vârfului capului și inferior până la planul ocluzal. Câmpul de expunere nu trebuie să fie mai mare de 8 × 10 inches (18 × 24 cm). Se plasează markerul de lateralitate în câmpul de expunere colimat.
-
-### raza centrală
-
-• Orizontal față de receptorul de imagine și cu ieșirea la acantion.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar față de anatomia de interes
-n sinusurile sfenoidale proiectate prin gura deschisă (transorală)
-n sinusurile maxilare
-n linia orbitomeatală (LOM) în poziție corectă (extensie suficientă a gâtului), evidențiată prin:
-• stâncile temporale (piramidele pietroase) situate imediat inferior față de planșeul sinusurilor maxilare
-n Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării, evidențiată prin:
-• distanță egală între marginea laterală a craniului și marginea laterală a orbitei de ambele părți (bilateral)
-• orbitele și sinusurile maxilare simetrice pe fiecare parte
-• MSP al capului aliniat cu axa longitudinală a câmpului colimat
-n părțile moi, detaliile osoase trabeculare și nivelurile hidroaerice, dacă sunt prezente
-
-### part_pos
-
-• Hiperextindeți gâtul pacientului până la poziția corectă aproximativă, apoi poziționați receptorul de imagine la acantion.
-• Sprijiniți bărbia pacientului pe stativul vertical Bucky și ajustați-l astfel încât MSP să fie perpendicular pe planul receptorului de imagine.
-• Folosind raportorul ca ghid, ajustați capul pacientului astfel încât linia orbitomeatală (LOM) să formeze un unghi de 37 grade față de planul receptorului de imagine. Linia mentomeatală (LMM) nu va fi perpendiculară (Fig. 11.178).
-• Instruiți pacientul să deschidă lent gura larg, menținând poziția.
-• Imobilizați capul pacientului.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 inches (24 ×
-30 cm), longitudinal.
-Această metodă oferă o demonstrație excelentă a sinusurilor sfenoidale proiectate prin gura deschisă (transorală). Pentru pacienții care nu pot fi plasați în poziție pentru incidența SMV, metoda Waters cu gura deschisă și incidențele de profil pot fi singurele tehnici pentru evidențierea sinusurilor sfenoidale. Deoarece poziția cu gura deschisă este inconfortabilă pentru pacient pentru menținere, radiograful trebuie să aibă receptorul de imagine și echipamentul în poziție pentru efectuarea rapidă a examinării.
-

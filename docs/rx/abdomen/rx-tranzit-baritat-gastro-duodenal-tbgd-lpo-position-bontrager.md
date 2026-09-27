@@ -22,6 +22,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 12.102
     poziție oblică posterioară stângă (OPS / LPO).)
   url: assets/images/protocols/bontrager/rx-tranzit-baritat-gastro-duodenal-tbgd-lpo-position-bontrager/fig_2.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Stomacul este în general situat mai sus în această poziție decât în poziția
@@ -101,11 +105,12 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -152,6 +157,7 @@ title: Rx Tranzit Baritat Gastro-Duodenal (TBGD) Oblică Posterioară Stângă (
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Stomacul este în general situat mai sus în această poziție decât în poziția de profil; prin urmare, centrați cu o vertebră mai sus decât în PA sau în poziția oblică anterioară dreaptă (OAD / RAO). Tranzit Baritat Gastro-Duodenal (TBGD) DE RUTINĂ RAO PA profil drept LPO AP Fig. 12.101 poziție oblică posterioară stângă (OPS / LPO).

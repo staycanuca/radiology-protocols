@@ -6,7 +6,7 @@ centering: Mijlocul fantei articulare cotului (la 2 cm sub linia interepicondili
 clinical_indications:
 - Traumatisme de cot, suspiciune fractură paletă humerală, cap radial sau olecran
 - Luxație de cot post-traumatică
-- Semnul pernuței de grăsime (fat pad sign) — hemartroză ocultă
+- Semnul pernuței de grăsime (semnul pernuței adipoase) — hemartroză ocultă
 - Artroză de cot, epicondilită cronică
 iris_reference:
   chapter: Aparat locomotor & Membru superior
@@ -21,12 +21,12 @@ position: 'Pacient așezat la capătul mesei radiologice. 1) Față (AP): brațu
   la 90°, marginea ulnară lipită de casetă'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare restrânsă strict pe cot
 quality_criteria:
-- 'Pe față: articulația cotului complet deschisă, epicondilii humerului vizibili în
+- 'Pe față: articulația cotului complet deschisă, epicondilii humerali vizibili în
   profil fără rotație'
-- 'Pe profil: flexie strictă la 90°, suprapunerea precisă condililor humerale (trohlee
+- 'Pe profil: flexie strictă la 90°, suprapunerea precisă condililor humerali (trohlee
   și capitul)'
 - Vizualizarea pernuței adipoase anterioare și posterioare (semnul pernuței posterioare
   indică hemartroză chiar în absența unei fracturi evidente)
@@ -86,7 +86,7 @@ title: Rx Cot (Față & Profil)
 
         - Traumatisme de cot, suspiciune fractură paletă humerală, cap radial sau olecran
         - Luxație de cot post-traumatică
-        - Semnul pernuței de grăsime (fat pad sign) — hemartroză ocultă
+        - Semnul pernuței de grăsime (semnul pernuței adipoase) — hemartroză ocultă
         - Artroză de cot, epicondilită cronică
 
     === "Ghid Național IRIS"
@@ -97,6 +97,7 @@ title: Rx Cot (Față & Profil)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -125,18 +126,19 @@ title: Rx Cot (Față & Profil)
 
     ---
 
-    - Pe față: articulația cotului complet deschisă, epicondilii humerului vizibili în profil fără rotație
-    - Pe profil: flexie strictă la 90°, suprapunerea precisă condililor humerale (trohlee și capitul)
+    - Pe față: articulația cotului complet deschisă, epicondilii humerali vizibili în profil fără rotație
+    - Pe profil: flexie strictă la 90°, suprapunerea precisă condililor humerali (trohlee și capitul)
     - Vizualizarea pernuței adipoase anterioare și posterioare (semnul pernuței posterioare indică hemartroză chiar în absența unei fracturi evidente)
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare restrânsă strict pe cot
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     La copii, prezența nucleilor de osificare secundari (CRITOE: Capitul, Radius, Intern, Trohlee, Olecran, Extern) trebuie verificată atent în funcție de vârstă.

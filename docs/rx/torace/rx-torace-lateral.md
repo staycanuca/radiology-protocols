@@ -2,32 +2,33 @@
 author: Departamentul de Radiologie
 breathing: Apnee în inspir profund complet
 category: torace
-centering: Planul medio-axilar, la nivelul T7 (la 3-4 degete sub unghiul inferior
-  scapular)
+centering: Planul medioaxilar, la nivelul T7 (la 3-4 degete sub unghiul inferior al
+  scapulei)
 clinical_indications:
-- Completare la Rx Torace PA pentru localizarea leziunilor mediastinale sau retrocardiace
+- Completare la radiografia toracică PA pentru localizarea leziunilor mediastinale
+  sau retrocardiace
 - Evaluarea spațiului retrosternal și retrocardiac
-- Confirmarea revărsatului pleural cantitate mică în recesul posterior
-- Suspiciune nodul sau formațiune mascată de silueta cardiacă pe PA
+- Confirmarea unui revărsat pleural în cantitate mică în recesul posterior
+- Suspiciune de nodul sau formațiune mascată de silueta cardiacă pe PA
 iris_reference:
   chapter: Torace & Pulmon
   radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
   recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Profilul stâng este preferat deoarece reduce magnificarea cardiacă și permite
-  vizualizarea optimă ventriculului stâng și aortei descendente.
-position: Ortostatism cu hemitracele stâng lipit de stativul Bucky (profil stâng standard),
-  brațele ridicate deasupra capului sau încrucișate pe creștet
+notes: Profilul stâng este preferat deoarece reduce magnifierea cardiacă și permite
+  vizualizarea optimă a ventriculului stâng și a aortei descendente.
+position: Ortostatism, cu hemitoracele stâng lipit de stativul Bucky (profil stâng
+  standard), brațele ridicate deasupra capului sau încrucișate pe creștet
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare precisă anterior și posterior
 quality_criteria:
-- Suprapunerea precisă arcurilor costale posterioare (rotație minimă < 1 cm)
-- Vizualizarea clară recesurilor costodiafragmatice posterioare
+- Suprapunerea precisă a arcurilor costale posterioare (rotație minimă < 1 cm)
+- Vizualizarea clară a recesurilor costodiafragmatice posterioare
 - Brațele sunt complet ridicate, fără artefacte peste apexurile pulmonare
-- Penetrare clară spațiului retrosternal și retrocardiac
+- Penetrare clară a spațiului retrosternal și retrocardiac
 sid_dff: 180 cm
 slug: rx-torace-lateral
 sources:
@@ -56,13 +57,13 @@ tech_params:
   aec_chambers: Camera centrală de ionizare activată
   collimation: Inclusiv coloana toracală posterior și peretele toracic anterior
   filtration: Totală ≥ 2.5 mm Al echivalent
-  focal_spot: Focar Mare (1.2 mm)
+  focal_spot: Focar mare (1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 125 - 130
-  mas: 4 - 8 (AEC)
-title: Rx Torace Profil (Lateral Stâng)
+  mas: 4–8 (AEC)
+title: Rx torace de profil (lateral stâng)
 ---
-# Rx Torace Profil (Lateral Stâng)
+# Rx torace de profil (lateral stâng)
 
 
 <div class="rx-meta-bar">
@@ -81,10 +82,10 @@ title: Rx Torace Profil (Lateral Stâng)
 
     === "Indicații Clinice"
 
-        - Completare la Rx Torace PA pentru localizarea leziunilor mediastinale sau retrocardiace
+        - Completare la radiografia toracică PA pentru localizarea leziunilor mediastinale sau retrocardiace
         - Evaluarea spațiului retrosternal și retrocardiac
-        - Confirmarea revărsatului pleural cantitate mică în recesul posterior
-        - Suspiciune nodul sau formațiune mascată de silueta cardiacă pe PA
+        - Confirmarea unui revărsat pleural în cantitate mică în recesul posterior
+        - Suspiciune de nodul sau formațiune mascată de silueta cardiacă pe PA
 
     === "Ghid Național IRIS"
 
@@ -94,12 +95,13 @@ title: Rx Torace Profil (Lateral Stâng)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Ortostatism cu hemitracele stâng lipit de stativul Bucky (profil stâng standard), brațele ridicate deasupra capului sau încrucișate pe creștet
-    - **Punct de Centrare Fascicul:** Planul medio-axilar, la nivelul T7 (la 3-4 degete sub unghiul inferior scapular)
+    - **Poziție Pacient:** Ortostatism, cu hemitoracele stâng lipit de stativul Bucky (profil stâng standard), brațele ridicate deasupra capului sau încrucișate pe creștet
+    - **Punct de Centrare Fascicul:** Planul medioaxilar, la nivelul T7 (la 3-4 degete sub unghiul inferior al scapulei)
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Apnee în inspir profund complet
 
@@ -110,10 +112,10 @@ title: Rx Torace Profil (Lateral Stâng)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | 125 - 130 kV |
-    | **Sarcină / Produs Curent-Timp (mAs)** | 4 - 8 (AEC) |
+    | **Sarcină / Produs Curent-Timp (mAs)** | 4–8 (AEC) |
     | **Distanță Focar-Film (DFF / SID)** | 180 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
-    | **Dimensiune Focar** | Focar Mare (1.2 mm) |
+    | **Dimensiune Focar** | Focar mare (1.2 mm) |
     | **Camere de Ionizare AEC** | Camera centrală de ionizare activată |
     | **Colimare Fascicul** | Inclusiv coloana toracală posterior și peretele toracic anterior |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
@@ -122,22 +124,23 @@ title: Rx Torace Profil (Lateral Stâng)
 
     ---
 
-    - Suprapunerea precisă arcurilor costale posterioare (rotație minimă < 1 cm)
-    - Vizualizarea clară recesurilor costodiafragmatice posterioare
+    - Suprapunerea precisă a arcurilor costale posterioare (rotație minimă < 1 cm)
+    - Vizualizarea clară a recesurilor costodiafragmatice posterioare
     - Brațele sunt complet ridicate, fără artefacte peste apexurile pulmonare
-    - Penetrare clară spațiului retrosternal și retrocardiac
+    - Penetrare clară a spațiului retrosternal și retrocardiac
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare precisă anterior și posterior
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Profilul stâng este preferat deoarece reduce magnificarea cardiacă și permite vizualizarea optimă ventriculului stâng și aortei descendente.
+    Profilul stâng este preferat deoarece reduce magnifierea cardiacă și permite vizualizarea optimă a ventriculului stâng și a aortei descendente.
 
 === "Ghid Rapid de Execuție"
 

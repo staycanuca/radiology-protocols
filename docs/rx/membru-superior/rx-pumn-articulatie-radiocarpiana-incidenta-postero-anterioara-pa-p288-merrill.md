@@ -2,124 +2,125 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe midcarpal area
+centering: Perpendicular pe regiunea mediocarpiană
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 289, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-pumn-articulatie-radiocarpiana-incidenta-postero-anterioara-pa-p288-merrill/p289_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: la show scaphoid și capitate better, Dafner et al. 16 recommended angling raza
-  centrală when pacientul este poziționat pentru PA radiografie. raza centrală angle
-  de 30 grade spre Cot elongates scaphoid și capitate, whereas angle de 30 grade spre
-  fingertips elongates only capitate.
-position: se așază pacientul pe scaun low enough la place axilla în contact cu masa
-  de examinare sau elevate extremity la Umăr level pe suitable support. This poziție
-  places Umăr, Cot, și Pumn (Articulație Radiocarpiană) articulații în same plane
-  la permit drept-angle rotație de ulna și radius pentru Incidență de Profil (lateral).;
-  Se instruiește pacientul să rest Antebraț pe masa de examinare, then se centrează
-  Pumn (Articulație Radiocarpiană) articulație la receptorul de imagine area. Pumn
-  (Articulație Radiocarpiană) (radiocarpal) articulație este la level just distal
-  la ulnar styloid. When it este dificult la determine exact location de radiocarpal
-  articulație because de swollen Pumn (Articulație Radiocarpiană), Se instruiește
-  pacientul să se flectează Pumn (Articulație Radiocarpiană) slightly, și se centrează
-  receptorul de imagine la point de flexion. When Pumn (Articulație Radiocarpiană)
-  este în cast sau splint, exact point de centering poate fie determined prin comparison
-  cu opposite side. se ajustează Mână și Antebraț la lie paralel cu axa longitudinală
-  de receptorul de imagine. Slightly arch Mână la articulații metacarpofalangiene
-  (MCF) prin flexing falange la place Pumn (Articulație Radiocarpiană) în close contact
-  cu receptorul de imagine (Fig. 5.69). When necessary, place support under falange
-  la immobilize them. se efectuează ecranarea gonadelor cu șorț plumbat.
+notes: Pentru a evidenția mai bine scafoidul și osul capitat, Dafner et al. 16 au
+  recomandat angularea razei centrale atunci când pacientul este poziționat pentru
+  radiografie PA. O angulare a razei centrale de 30 grade spre cot alungește scafoidul
+  și osul capitat, în timp ce o angulare de 30 grade spre vârfurile degetelor alungește
+  numai osul capitat.
+position: Se așază pacientul pe un scaun suficient de jos pentru a plasa axila în
+  contact cu masa de examinare sau se ridică extremitatea la nivelul umărului, pe
+  un suport adecvat. Această poziție plasează articulațiile umărului, cotului și pumnului
+  în același plan, pentru a permite rotația la unghi drept a ulnei și radiusului pentru
+  incidența de profil.; Se instruiește pacientul să sprijine antebrațul pe masa de
+  examinare, apoi se centrează articulația pumnului (radiocarpiană) la nivelul receptorului
+  de imagine. Articulația pumnului (radiocarpiană) se află la nivelul imediat distal
+  față de procesul stiloid ulnar. Când este dificil să se determine localizarea exactă
+  a articulației radiocarpiene din cauza tumefierii pumnului, se instruiește pacientul
+  să flecteze ușor pumnul și se centrează receptorul de imagine la punctul de flexie.
+  Când pumnul este în aparat gipsat sau atelă, punctul exact de centrare poate fi
+  determinat prin comparație cu partea opusă. Se ajustează mâna și antebrațul pentru
+  a fi paralele cu axa longitudinală a receptorului de imagine. Se arcuiește ușor
+  mâna la nivelul articulațiilor metacarpofalangiene (MCF), prin flectarea falangelor,
+  pentru a plasa pumnul în contact strâns cu receptorul de imagine (Fig. 5.69). Când
+  este necesar, se plasează un suport sub falange pentru a le imobiliza. Se efectuează
+  ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-- fără excessive flexion de falange la overlap și obscure oase metacarpiene
-- Absența rotației anatomice (simetrie bilaterală perfectă) în oase carpiene, oase
-  metacarpiene, radius, și ulna
-- Open radioulnar spații articulare
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+- Fără flexia excesivă a falangelor, care să se suprapună și să ascundă oasele metacarpiene
+- Absența rotației anatomice (simetrie bilaterală perfectă) la nivelul oaselor carpiene,
+  oaselor metacarpiene, radiusului și ulnei
+- Spații articulare radioulnare deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-pumn-articulatie-radiocarpiana-incidenta-postero-anterioara-pa-p288-merrill
 source_pages:
 - 288
 - 289
 source_sections:
-  anatomy: PA incidență de oase carpiene, distal radius și ulna, și proximal oase
-    metacarpiene (Fig. 5.70). incidență gives slightly oblic rotație la ulna. When
-    ulna este under examination, AP incidență trebuie să fie taken.
-  collimation: '• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal
-    la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate
-    (D/S) în
+  anatomy: Incidență PA a oaselor carpiene, radiusului și ulnei distale și oaselor
+    metacarpiene proximale (Fig. 5.70). Incidența produce o rotație ușor oblică a
+    ulnei. Când ulna este examinată, trebuie efectuată o incidență AP.
+  collimation: • Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Plasați markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe regiunea mediocarpiană
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    collimated expunere field.'
-  cr: • perpendicular pe midcarpal area
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
 
-    • distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
+    • fără flexie excesivă a falangelor, cu suprapunerea și obturarea oaselor metacarpiene
 
-    • fără excessive flexion de falange la overlap și obscure oase metacarpiene
+    • Absența rotației anatomice (simetrie bilaterală perfectă) la nivelul oaselor
+    carpiene, oaselor metacarpiene, radiusului și ulnei
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) în oase carpiene,
-    oase metacarpiene, radius, și ulna
+    • Spații articulare radioulnare deschise
 
-    • Open radioulnar spații articulare
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: Pentru a evidenția mai bine scafoidul și osul capitat, Dafner et al. 16 au
+    recomandat angularea razei centrale atunci când pacientul este poziționat pentru
+    radiografie PA. O angulare a razei centrale de 30 grade spre cot alungește scafoidul
+    și osul capitat, în timp ce o angulare de 30 grade spre vârfurile degetelor alungește
+    numai osul capitat.
+  part_pos: '• Se instruiește pacientul să sprijine antebrațul pe masa de examinare,
+    apoi se centrează articulația pumnului la nivelul receptorului de imagine. Articulația
+    pumnului (radiocarpiană) se află la nivelul imediat distal față de procesul stiloid
+    ulnar.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'la show scaphoid și capitate better, Dafner et al. 16 recommended angling
-    raza centrală when pacientul este poziționat pentru PA radiografie. raza centrală
-    angle de 30 grade spre cot elongates scaphoid și capitate, whereas angle de 30
-    grade spre
+    • Când este dificil să se determine localizarea exactă a articulației radiocarpiene
+    din cauza tumefierii pumnului, se instruiește pacientul să flecteze ușor pumnul
+    și se centrează receptorul de imagine la punctul de flexie. Când pumnul este în
+    aparat gipsat sau atelă, punctul exact de centrare poate fi determinat prin comparație
+    cu partea opusă.
 
-    fingertips elongates only capitate.'
-  part_pos: '• Se instruiește pacientul să rest forearm pe masa de examinare, then
-    se centrează wrist articulație la receptorul de imagine area. wrist (radiocarpal)
-    articulație este la level just
+    • Se ajustează mâna și antebrațul pentru a fi paralele cu axa longitudinală a
+    receptorului de imagine.
 
-    distal la ulnar styloid.
+    • Se arcuiește ușor mâna la nivelul articulațiilor metacarpofalangiene (MCF),
+    prin flectarea falangelor, pentru a plasa pumnul în contact strâns cu receptorul
+    de imagine (Fig. 5.69).
 
-    • When it este dificult la determine exact location de radiocarpal articulație
-    because de swollen wrist, Se instruiește pacientul să se flectează wrist
+    • Când este necesar, se plasează un suport sub falange pentru a le imobiliza.
 
-    slightly, și se centrează receptorul de imagine la point de flexion. When wrist
-    este în cast sau splint, exact point de centering poate fie determined
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul pe un scaun suficient de jos pentru a plasa axila
+    în contact cu masa de examinare sau se ridică extremitatea la nivelul umărului,
+    pe un suport adecvat.
 
-    prin comparison cu opposite side.
-
-    • se ajustează mână și forearm la lie paralel cu axa longitudinală de receptorul
-    de imagine.
-
-    • Slightly arch mână la articulații metacarpofalangiene (MCF) prin flexing falange
-    la place wrist în close contact cu receptorul de imagine (Fig. 5.69).
-
-    • When necessary, place support under falange la immobilize them.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun low enough la place axilla în contact
-    cu masa de examinare sau elevate extremity la umăr level pe suitable support.
-
-    This poziție places umăr, cot, și wrist articulații în same plane la permit drept-angle
-    rotație de ulna și radius pentru
-
-    poziție de profil (lateral).'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    Această poziție plasează articulațiile umărului, cotului și pumnului în același
+    plan, pentru a permite rotația la unghi drept a ulnei și radiusului pentru poziția
+    de profil.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 288–289
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
-    Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează
-    markerul de lateralitate în câmpul colimat.
+  collimation: Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față
+    de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de
+    lateralitate în câmpul colimat.
 title: Rx Pumn (Articulație Radiocarpiană) — Incidență Postero-Anterioară (PA) (Merrill)
 ---
 # Rx Pumn (Articulație Radiocarpiană) — Incidență Postero-Anterioară (PA) (Merrill)
@@ -146,17 +147,18 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Postero-Anterioară
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun low enough la place axilla în contact cu masa de examinare sau elevate extremity la Umăr level pe suitable support. This poziție places Umăr, Cot, și Pumn (Articulație Radiocarpiană) articulații în same plane la permit drept-angle rotație de ulna și radius pentru Incidență de Profil (lateral).; Se instruiește pacientul să rest Antebraț pe masa de examinare, then se centrează Pumn (Articulație Radiocarpiană) articulație la receptorul de imagine area. Pumn (Articulație Radiocarpiană) (radiocarpal) articulație este la level just distal la ulnar styloid. When it este dificult la determine exact location de radiocarpal articulație because de swollen Pumn (Articulație Radiocarpiană), Se instruiește pacientul să se flectează Pumn (Articulație Radiocarpiană) slightly, și se centrează receptorul de imagine la point de flexion. When Pumn (Articulație Radiocarpiană) este în cast sau splint, exact point de centering poate fie determined prin comparison cu opposite side. se ajustează Mână și Antebraț la lie paralel cu axa longitudinală de receptorul de imagine. Slightly arch Mână la articulații metacarpofalangiene (MCF) prin flexing falange la place Pumn (Articulație Radiocarpiană) în close contact cu receptorul de imagine (Fig. 5.69). When necessary, place support under falange la immobilize them. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midcarpal area
+    - **Poziție Pacient:** Se așază pacientul pe un scaun suficient de jos pentru a plasa axila în contact cu masa de examinare sau se ridică extremitatea la nivelul umărului, pe un suport adecvat. Această poziție plasează articulațiile umărului, cotului și pumnului în același plan, pentru a permite rotația la unghi drept a ulnei și radiusului pentru incidența de profil.; Se instruiește pacientul să sprijine antebrațul pe masa de examinare, apoi se centrează articulația pumnului (radiocarpiană) la nivelul receptorului de imagine. Articulația pumnului (radiocarpiană) se află la nivelul imediat distal față de procesul stiloid ulnar. Când este dificil să se determine localizarea exactă a articulației radiocarpiene din cauza tumefierii pumnului, se instruiește pacientul să flecteze ușor pumnul și se centrează receptorul de imagine la punctul de flexie. Când pumnul este în aparat gipsat sau atelă, punctul exact de centrare poate fi determinat prin comparație cu partea opusă. Se ajustează mâna și antebrațul pentru a fi paralele cu axa longitudinală a receptorului de imagine. Se arcuiește ușor mâna la nivelul articulațiilor metacarpofalangiene (MCF), prin flectarea falangelor, pentru a plasa pumnul în contact strâns cu receptorul de imagine (Fig. 5.69). Când este necesar, se plasează un suport sub falange pentru a le imobiliza. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe regiunea mediocarpiană
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -172,20 +174,20 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Postero-Anterioară
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-    - fără excessive flexion de falange la overlap și obscure oase metacarpiene
-    - Absența rotației anatomice (simetrie bilaterală perfectă) în oase carpiene, oase metacarpiene, radius, și ulna
-    - Open radioulnar spații articulare
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+    - Fără flexia excesivă a falangelor, care să se suprapună și să ascundă oasele metacarpiene
+    - Absența rotației anatomice (simetrie bilaterală perfectă) la nivelul oaselor carpiene, oaselor metacarpiene, radiusului și ulnei
+    - Spații articulare radioulnare deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -195,8 +197,9 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Postero-Anterioară
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la show scaphoid și capitate better, Dafner et al. 16 recommended angling raza centrală when pacientul este poziționat pentru PA radiografie. raza centrală angle de 30 grade spre Cot elongates scaphoid și capitate, whereas angle de 30 grade spre fingertips elongates only capitate.
+    Pentru a evidenția mai bine scafoidul și osul capitat, Dafner et al. 16 au recomandat angularea razei centrale atunci când pacientul este poziționat pentru radiografie PA. O angulare a razei centrale de 30 grade spre cot alungește scafoidul și osul capitat, în timp ce o angulare de 30 grade spre vârfurile degetelor alungește numai osul capitat.
 
 
 ### 🖼️ Imagini
@@ -225,56 +228,3 @@ title: Rx Pumn (Articulație Radiocarpiană) — Incidență Postero-Anterioară
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 288–289](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-PA incidență de oase carpiene, distal radius și ulna, și proximal oase metacarpiene (Fig. 5.70). incidență gives slightly oblic rotație la ulna. When ulna este under examination, AP incidență trebuie să fie taken.
-
-### collimation
-
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe midcarpal area
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-• fără excessive flexion de falange la overlap și obscure oase metacarpiene
-• Absența rotației anatomice (simetrie bilaterală perfectă) în oase carpiene, oase metacarpiene, radius, și ulna
-• Open radioulnar spații articulare
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-la show scaphoid și capitate better, Dafner et al. 16 recommended angling raza centrală when pacientul este poziționat pentru PA radiografie. raza centrală angle de 30 grade spre cot elongates scaphoid și capitate, whereas angle de 30 grade spre
-fingertips elongates only capitate.
-
-### part_pos
-
-• Se instruiește pacientul să rest forearm pe masa de examinare, then se centrează wrist articulație la receptorul de imagine area. wrist (radiocarpal) articulație este la level just
-distal la ulnar styloid.
-• When it este dificult la determine exact location de radiocarpal articulație because de swollen wrist, Se instruiește pacientul să se flectează wrist
-slightly, și se centrează receptorul de imagine la point de flexion. When wrist este în cast sau splint, exact point de centering poate fie determined
-prin comparison cu opposite side.
-• se ajustează mână și forearm la lie paralel cu axa longitudinală de receptorul de imagine.
-• Slightly arch mână la articulații metacarpofalangiene (MCF) prin flexing falange la place wrist în close contact cu receptorul de imagine (Fig. 5.69).
-• When necessary, place support under falange la immobilize them.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun low enough la place axilla în contact cu masa de examinare sau elevate extremity la umăr level pe suitable support.
-This poziție places umăr, cot, și wrist articulații în same plane la permit drept-angle rotație de ulna și radius pentru
-poziție de profil (lateral).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

@@ -50,6 +50,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-jonctiune-lombo-sacrata-l5-s1-profil-lateral-p203-clark/fig_6.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -138,29 +142,30 @@ title: Rx Joncțiune lombosacrată (L5–S1) — Incidență de profil (lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu brațele ridicate și mâinile sprijinite pe pernă. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
-• Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace postero-superioare.
-• Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană a sistemului Bucky și să fie perpendicular pe aceasta.
-• Caseta este centrată la nivelul procesului spinos al celei de-a cincea vertebre lombare.
-• La nevoie, se pot plasa suporturi radiotransparente sub talie și genunchi, pentru a aduce coloana vertebrală paralel cu caseta.
-
-• Pacientul este poziționat în decubit dorsal pe masa radiologică, apoi este rotit pe rând spre dreapta și spre stânga, astfel încât planul mediosagital să formeze un unghi de aproximativ 45 grade cu suprafața mesei.
-• Șoldurile și genunchii sunt flectați, iar pacientul este sprijinit cu suporturi din spumă de 45 grade, plasate sub trunchi pe partea ridicată.
-• Caseta este deplasată cranial până la nivelul corespunzător razei centrale.
-    - **Punct de Centrare Fascicul:** • Se orientează raza centrală perpendicular pe regiunea lombo-sacrată, către un punct situat la 7.5 cm anterior de procesul spinos al celei de-a cincea vertebre lombare. Acesta se află la nivelul tuberculului crestei iliace sau la jumătatea distanței dintre nivelul marginii superioare a crestei iliace și spina iliacă antero-superioară (SIAS).
-• Dacă pacientul are șolduri deosebit de late și coloana vertebrală nu este paralelă cu suprafața mesei, poate fi necesară o angulație caudală de cinci grade pentru a degaja spațiile articulare.
-
-• Se orientează raza centrală cranial, la 10–20 grade față de verticală, către linia mediană, la nivelul spinelor iliace antero-superioare.
-• Angulația razei centrale este în mod normal mai mare la femei decât la bărbați și scade pe măsură ce crește flexia șoldurilor și genunchilor.
+    - **Poziție Pacient:**
+        - Pacientul este culcat pe oricare dintre părți pe masa radiologică, cu brațele ridicate și mâinile sprijinite pe pernă. Genunchii și șoldurile sunt ușor flectate pentru stabilitate și confort.
+        - Fața dorsală a trunchiului trebuie să fie perpendiculară (în unghi drept) pe casetă. Alinierea corectă se verifică prin palparea crestelor iliace sau a spinelor iliace postero-superioare.
+        - Planul coronal care trece prin centrul coloanei vertebrale trebuie să coincidă cu linia mediană a sistemului Bucky și să fie perpendicular pe aceasta.
+        - Caseta este centrată la nivelul procesului spinos al celei de-a cincea vertebre lombare.
+        - La nevoie, se pot plasa suporturi radiotransparente sub talie și genunchi, pentru a aduce coloana vertebrală paralel cu caseta.
+        - Pacientul este poziționat în decubit dorsal pe masa radiologică, apoi este rotit pe rând spre dreapta și spre stânga, astfel încât planul mediosagital să formeze un unghi de aproximativ 45 grade cu suprafața mesei.
+        - Șoldurile și genunchii sunt flectați, iar pacientul este sprijinit cu suporturi din spumă de 45 grade, plasate sub trunchi pe partea ridicată.
+        - Caseta este deplasată cranial până la nivelul corespunzător razei centrale.
+    - **Punct de Centrare Fascicul:**
+        - Se orientează raza centrală perpendicular pe regiunea lombo-sacrată, către un punct situat la 7.5 cm anterior de procesul spinos al celei de-a cincea vertebre lombare. Acesta se află la nivelul tuberculului crestei iliace sau la jumătatea distanței dintre nivelul marginii superioare a crestei iliace și spina iliacă antero-superioară (SIAS).
+        - Dacă pacientul are șolduri deosebit de late și coloana vertebrală nu este paralelă cu suprafața mesei, poate fi necesară o angulație caudală de cinci grade pentru a degaja spațiile articulare.
+        - Se orientează raza centrală cranial, la 10–20 grade față de verticală, către linia mediană, la nivelul spinelor iliace antero-superioare.
+        - Angulația razei centrale este în mod normal mai mare la femei decât la bărbați și scade pe măsură ce crește flexia șoldurilor și genunchilor.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -198,6 +203,7 @@ title: Rx Joncțiune lombosacrată (L5–S1) — Incidență de profil (lateral)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

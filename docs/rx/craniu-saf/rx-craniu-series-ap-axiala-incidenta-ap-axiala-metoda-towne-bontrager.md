@@ -4,7 +4,7 @@ breathing: Apnee pe durata expunerii.
 category: craniu-saf
 centering: Raza centrală se înclină cu 30° caudal (spre picioare) față de linia orbitomeatală
   (LOM) sau cu 37° caudal față de linia infraorbitomeatală (LIOM) (Fig. 11.107) (vezi
-  NOTA). Se centrează la MSP, la 2½ inches (6.5 cm) deasupra glabelei, pentru a trece
+  NOTA). Se centrează la MSP, la 2½ țoli (6.5 cm) deasupra glabelei, pentru a trece
   prin gaura occipitală mare (foramen magnum) la nivelul bazei occiputului. Se centrează
   receptorul de imagine pe proiecția razei centrale.
 clinical_indications:
@@ -27,6 +27,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     4)
   url: assets/images/protocols/bontrager/rx-craniu-series-ap-axiala-incidenta-ap-axiala-metoda-towne-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: Dacă pacientul nu poate coborî suficient bărbia pentru a aduce linia orbitomeatală
@@ -120,17 +124,18 @@ title: Rx Craniu SERIE AP axială (incidență AP axială (metoda Towne))
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Se îndepărtează toate obiectele metalice, din plastic sau alte obiecte detașabile de pe capul pacientului. Se efectuează radiografia cu pacientul în poziție de ortostatism sau decubit dorsal.; Regiune anatomică: Se coboară bărbia, aducând linia orbitomeatală (LOM) perpendiculară pe receptorul de imagine. Pentru pacienții care nu pot flecta gâtul până la acest nivel, se aliniază linia infraorbitomeatală (LIOM) perpendicular pe receptorul de imagine. Se adaugă, dacă este necesar, un suport radiotransparent sub cap (vezi
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 30° caudal (spre picioare) față de linia orbitomeatală (LOM) sau cu 37° caudal față de linia infraorbitomeatală (LIOM) (Fig. 11.107) (vezi NOTA). Se centrează la MSP, la 2½ inches (6.5 cm) deasupra glabelei, pentru a trece prin gaura occipitală mare (foramen magnum) la nivelul bazei occiputului. Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 30° caudal (spre picioare) față de linia orbitomeatală (LOM) sau cu 37° caudal față de linia infraorbitomeatală (LIOM) (Fig. 11.107) (vezi NOTA). Se centrează la MSP, la 2½ țoli (6.5 cm) deasupra glabelei, pentru a trece prin gaura occipitală mare (foramen magnum) la nivelul bazei occiputului. Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii.
 
@@ -175,6 +180,7 @@ title: Rx Craniu SERIE AP axială (incidență AP axială (metoda Towne))
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Dacă pacientul nu poate coborî suficient bărbia pentru a aduce linia orbitomeatală (LOM) perpendiculară pe receptorul de imagine, chiar și cu un burete mic sub cap, linia infraorbitomeatală (LIOM) poate fi plasată perpendicular în schimb, iar unghiul razei centrale este mărit la 37° caudal. Astfel se menține un unghi de 30° între linia orbitomeatală (LOM) și raza centrală și se evidențiază aceleași relații anatomice. (Există o diferență de 7° între linia orbitomeatală (LOM) și linia infraorbitomeatală (LIOM).) 37° Fig. 11.107 Ortostatism și decubit dorsal (inserție)—AP axială.

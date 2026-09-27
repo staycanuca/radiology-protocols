@@ -28,6 +28,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-lower-coaste-grilaj-costal-right-and-left-oblica-posterioara-p238-clark/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Pacientului îi poate fi dificil să mențină această poziție dacă prezintă
@@ -104,23 +108,26 @@ title: Rx coaste inferioare (grilaj costal) — oblică posterioară dreaptă ș
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe masa radiologică sau stă în ortostatism, cu linia medioclaviculară a părții examinate coincidentă cu linia mediană a grilei Bucky.
-• Trunchiul este rotit cu 45 grade spre partea examinată, cu partea ridicată sprijinită pe suporturi radiotransparente.
-• Șoldurile și genunchii sunt flectați pentru confort și pentru a ajuta la menținerea poziției pacientului.
-• Marginea caudală a casetei este poziționată imediat sub marginea costală inferioară.
-• Caseta trebuie să fie suficient de mare pentru a include coastele (grilajul costal) de pe partea examinată, de la nivelul mijlocului corpului sternului până la marginea costală inferioară.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este orientată spre linia mediană a suprafeței anterioare a pacientului, la nivelul marginii costale inferioare.
-• Din această poziție, raza centrală este apoi înclinată cranial pentru a coincide cu centrul casetei.
-• Expunerea se efectuează în apnee după un expir profund complet.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal pe masa radiologică sau stă în ortostatism, cu linia medioclaviculară a părții examinate coincidentă cu linia mediană a grilei Bucky.
+        - Trunchiul este rotit cu 45 grade spre partea examinată, cu partea ridicată sprijinită pe suporturi radiotransparente.
+        - Șoldurile și genunchii sunt flectați pentru confort și pentru a ajuta la menținerea poziției pacientului.
+        - Marginea caudală a casetei este poziționată imediat sub marginea costală inferioară.
+        - Caseta trebuie să fie suficient de mare pentru a include coastele (grilajul costal) de pe partea examinată, de la nivelul mijlocului corpului sternului până la marginea costală inferioară.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este orientată spre linia mediană a suprafeței anterioare a pacientului, la nivelul marginii costale inferioare.
+        - Din această poziție, raza centrală este apoi înclinată cranial pentru a coincide cu centrul casetei.
+        - Expunerea se efectuează în apnee după un expir profund complet.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în apnee după un expir profund complet.
 
@@ -157,10 +164,10 @@ title: Rx coaste inferioare (grilaj costal) — oblică posterioară dreaptă ș
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Pacientului îi poate fi dificil să mențină această poziție dacă prezintă dureri intense.
-• Selectarea unui timp scurt de expunere și exersarea tehnicii de estompare prin respirație superficială pot fi necesare pentru a reduce riscul neclarității produse de mișcare.
-Radiografie oblică posterioară dreaptă a coastelor inferioare drepte (grilaj costal).
+    - Pacientului îi poate fi dificil să mențină această poziție dacă prezintă dureri intense.
+    - Selectarea unui timp scurt de expunere și exersarea tehnicii de estompare prin respirație superficială pot fi necesare pentru a reduce riscul neclarității produse de mișcare. Radiografie oblică posterioară dreaptă a coastelor inferioare drepte (grilaj costal).
 
 
 ### 🖼️ Imagini

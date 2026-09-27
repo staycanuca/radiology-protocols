@@ -13,6 +13,10 @@ contrast:
   timing: Bolus tracking / SureStart
   trigger: 120 - 180 HU
   volume: 36 mL
+iris_reference:
+  chapter: Cap, Gât & Coloană vertebrală
+  radiation_dose: Clasa 2 (Mică 1 - 3 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 modality: ct
 notes:
@@ -102,10 +106,14 @@ title: CT Brain Perfusion (Siemens – Sensation 16)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+            - **Capitol Ghid IRIS:** *Cap, Gât & Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Mică 1 - 3 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

@@ -3,50 +3,54 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre midway între upper margini de tibial condyles, cu raza centrală
-  centrală la 90 grade la axa longitudinală de tibia.
+centering: '• Centrați la mijlocul distanței dintre marginile superioare ale condililor
+  tibiali, cu raza centrală la 90 grade față de axa longitudinală a tibiei.
 
-  Valgus Antero-posterior (AP) Genunchi cu valgus stress Varus Antero-posterior (AP)
-  Genunchi cu varus stress în ortostatism Antero-posterior (AP) Genunchi radiografie
-  evidențiind loss de height de medial compartment due la artroză / modificări degenerative
-  articulare
+  Valgus Genunchi antero-posterior (AP) cu stres în valgus Varus Genunchi antero-posterior
+  (AP) cu stres în varus în ortostatism Genunchi antero-posterior (AP), radiografie
+  evidențiind pierderea înălțimii compartimentului medial din cauza artrozei / modificărilor
+  degenerative articulare
 
 
-  • Centre midway între upper margini de tibial condyles la nivelul crease de Genunchi,
-  cu raza centrală centrală la 90 grade la axa longitudinală de tibia.'
+  • Centrați la mijlocul distanței dintre marginile superioare ale condililor tibiali,
+  la nivelul pliului genunchiului, cu raza centrală la 90 grade față de axa longitudinală
+  a tibiei.'
 clinical_indications:
-- articulație effusion este well evidențiat pe Profil (lateral) incidență ca ovoid
-  densitate optică rising above postero-superior aspect de Rotulă (Patelă). Its significance
-  varies according la clinical setting. Causes include proces infecțios / inflamator,
-  haemorrhage și arthritis, but it poate also fie marker de occult suspiciune de fractură,
-  e.g. tibial coloană vertebrală sau platou tibial suspiciune de fractură. Lipohaemarthrosis
-  occurs when suspiciune de fractură passes into marrow-containing medullary space.
-  Fat (bone marrow) leaks into articulație, producing nivele hidroaerice între fat
-  și lichid (blood) that poate fie seen when Fascicul Orizontal este used.
-- suspiciune de fractură de anterior tibial coloană vertebrală poate fie subtle, cu
-  demonstration requiring attention la expunere și rotație. It este important ca attachment
-  de anterior cruciate ligament, avulsion de which poate cause debilitating instability
-  de Genunchi.
-- vertical suspiciune de fractură de Rotulă (Patelă) este nu vizibil pe Profil (lateral)
-  incidență și will fie seen pe Antero-posterior (AP) incidență only if exposed properly
-  (i.e. nu underexposed). If clinically suspected, then skyline incidență maybe requested.
-  130
-- platou tibial suspiciune de fractură poate fie subtle și hard la detect, but again
-  they sunt functionally very important. Good technique este key. Full evaluation
-  poate fie aided prin three-dimensional CT în some cases.
-- fabella este sesamoid bone în tendon de medial cap de gastrocnemius, behind medial
-  femoral condyle, și trebuie să nu fie confused cu loose corp.
-- Osgood–Schlatters disease este clinical diagnosis și does nu usually require radiografie
-  pentru diagnosis. Ultrasound poate fie useful if confirmation este required. incidențe
-  de contralateral Genunchi trebuie să nu normally fie needed. Postero-anterior (PA)
-  radiografie de normal Rotulă (Patelă) radiografie de Rotulă (Patelă) evidențiind
-  transverse suspiciune de fractură
+- Revărsatul articular este bine evidențiat pe incidența de profil ca o densitate
+  ovoidă, situată deasupra aspectului posterosuperior al rotulei (patela). Semnificația
+  sa variază în funcție de contextul clinic. Cauzele includ procesul infecțios/inflamator,
+  hemoragia și artrita, dar poate fi, de asemenea, un marker al unei suspiciuni de
+  fractură ocultă, de exemplu fractura coloanei tibiale sau a platoului tibial. Lipohemartroza
+  apare atunci când suspiciunea de fractură pătrunde în spațiul medular care conține
+  măduvă. Grăsimea (măduva osoasă) se scurge în articulație, producând niveluri hidroaerice
+  între grăsime și lichid (sânge), care pot fi observate atunci când se utilizează
+  fasciculul orizontal.
+- Suspiciunea de fractură a coloanei tibiale anterioare poate fi subtilă, demonstrarea
+  necesitând atenție la expunere și rotație. Aceasta este importantă deoarece reprezintă
+  locul de inserție al ligamentului încrucișat anterior, a cărui avulsie poate cauza
+  instabilitate invalidantă a genunchiului.
+- Suspiciunea de fractură verticală a rotulei (patela) nu este vizibilă pe incidența
+  de profil și va fi observată pe incidența antero-posterioară (AP) numai dacă este
+  expusă corect (adică nu subexpusă). Dacă este suspectată clinic, se poate solicita
+  o incidență skyline. 130
+- Suspiciunea de fractură a platoului tibial poate fi subtilă și dificil de detectat,
+  dar este, de asemenea, foarte importantă din punct de vedere funcțional. Tehnica
+  bună este esențială. Evaluarea completă poate fi susținută de CT tridimensional
+  în unele cazuri.
+- Fabella este un os sesamoid în tendonul capului medial al gastrocnemianului, posterior
+  de condilul femural medial, și nu trebuie confundată cu un corp liber.
+- Boala Osgood–Schlatter este un diagnostic clinic și, de obicei, nu necesită radiografie
+  pentru diagnostic. Ecografia poate fi utilă dacă este necesară confirmarea. Incidențele
+  genunchiului contralateral nu sunt, în mod normal, necesare. Radiografie postero-anterioară
+  (PA) a unei rotule (patela) normale Radiografie a rotulei (patela) evidențiind suspiciunea
+  de fractură transversală
 images:
-- caption: articulație replacement, ca narrowing de one side la spații articulare
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: înlocuirea articulației, precum îngustarea spațiului articular pe o parte
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_1.jpeg
-- caption: în ortostatism Antero-posterior (AP) Genunchi radiografie evidențiind loss
-    de height de the
+- caption: în ortostatism Genunchi antero-posterior (AP), radiografie evidențiind
+    pierderea înălțimii
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_2.jpeg
@@ -62,46 +66,53 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_5.jpeg
-- caption: • Subtle abnormalities poate nu fie detected, ca trabecular
+- caption: • Anomaliile subtile pot să nu fie detectate, deoarece desenul trabecular
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_6.jpeg
-- caption: but it poate also fie marker de occult suspiciune de fractură, e.g. tibial
-    coloană vertebrală
+- caption: dar poate fi, de asemenea, un marker al unei suspiciuni de fractură oculte,
+    de exemplu, al coloanei tibiale
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_7.jpeg
-- caption: sau platou tibial suspiciune de fractură. Lipohaemarthrosis occurs when
-    a
+- caption: sau al suspiciunii de fractură a platoului tibial. Lipohemartroza apare
+    atunci când o
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_8.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• fascicul poate have la fie înclinat caudally la fie la rightangles la axa
-  longitudinală de tibia.
+notes: '• fasciculul poate fi înclinat caudal pentru a fi perpendicular pe axa longitudinală
+  a tibiei.
 
-  • Rotulă (Patelă) poate fie evidențiat more clearly ca it este now adjacent la receptorul
-  de imagine și nu distant de la it, ca în conventional Antero-posterior (AP) incidență.
+  • Rotula (patela) poate fi evidențiată mai clar, deoarece este acum adiacentă receptorului
+  de imagine și nu îndepărtată de acesta, ca în incidența antero-posterioară (AP)
+  convențională.
 
-  • Subtle abnormalities poate nu fie detected, ca trabecular pattern de Femur will
-  still predominate.
+  • Anomaliile subtile pot să nu fie detectate, deoarece desenul trabecular al femurului
+  va predomina în continuare.
 
-  • This incidență depends pe fitness de pacientul și trebuie să nu fie attempted
-  if it results în undue discomfort sau if it poate exacerbate pacientul’s condition.'
-position: '• pacientul și casetă sunt poziționat pentru routine anteroposterior incidență.
+  • Această incidență depinde de condiția fizică a pacientului și nu trebuie efectuată
+  dacă provoacă disconfort nejustificat sau poate agrava starea pacientului.'
+position: '• pacientul și caseta sunt poziționate pentru incidența anteroposterioară
+  de rutină.
 
-  • doctor forcibly abducts sau adducts Genunchi, fără rotating membru inferior.
+  • medicul abduce sau adduce forțat genunchiul, fără a roti membrul inferior.
 
 
-  • pacientul este culcat Decubit ventral pe masa de examinare, cu Genunchi slightly
+  • pacientul este culcat în decubit ventral pe masa de examinare, cu genunchiul ușor
   flectat.
 
-  • Foam pads sunt plasat under Gleznă (Articulație Talocrurală) și thigh pentru support.
+  • pernele de spumă sunt plasate sub gleznă (articulația talocrurală) și coapsă pentru
+  sprijin.
 
-  • limb este rotit la centralize Rotulă (Patelă).
+  • membrul este rotit pentru a centra rotula (patela).
 
-  • centre de caseta este level cu crease de Genunchi.'
+  • centrul casetei este la nivelul pliului genunchiului.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -110,7 +121,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Genunchi).
+- Vizualizarea clară a întregii arii anatomice (genunchi).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -120,16 +131,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 144
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Genunchi Antero-Posterior (AP) - standing
+  mas: Conform AEC / grosimii anatomice
+title: Rx genunchi – antero-posterior (AP) – în ortostatism
 ---
-# Rx Genunchi Antero-Posterior (AP) - standing
+# Rx genunchi – antero-posterior (AP) – în ortostatism
 
 
 <div class="rx-meta-bar">
@@ -148,36 +159,36 @@ title: Rx Genunchi Antero-Posterior (AP) - standing
 
     === "Indicații Clinice"
 
-        - articulație effusion este well evidențiat pe Profil (lateral) incidență ca ovoid densitate optică rising above postero-superior aspect de Rotulă (Patelă). Its significance varies according la clinical setting. Causes include proces infecțios / inflamator, haemorrhage și arthritis, but it poate also fie marker de occult suspiciune de fractură, e.g. tibial coloană vertebrală sau platou tibial suspiciune de fractură. Lipohaemarthrosis occurs when suspiciune de fractură passes into marrow-containing medullary space. Fat (bone marrow) leaks into articulație, producing nivele hidroaerice între fat și lichid (blood) that poate fie seen when Fascicul Orizontal este used.
-        - suspiciune de fractură de anterior tibial coloană vertebrală poate fie subtle, cu demonstration requiring attention la expunere și rotație. It este important ca attachment de anterior cruciate ligament, avulsion de which poate cause debilitating instability de Genunchi.
-        - vertical suspiciune de fractură de Rotulă (Patelă) este nu vizibil pe Profil (lateral) incidență și will fie seen pe Antero-posterior (AP) incidență only if exposed properly (i.e. nu underexposed). If clinically suspected, then skyline incidență maybe requested. 130
-        - platou tibial suspiciune de fractură poate fie subtle și hard la detect, but again they sunt functionally very important. Good technique este key. Full evaluation poate fie aided prin three-dimensional CT în some cases.
-        - fabella este sesamoid bone în tendon de medial cap de gastrocnemius, behind medial femoral condyle, și trebuie să nu fie confused cu loose corp.
-        - Osgood–Schlatters disease este clinical diagnosis și does nu usually require radiografie pentru diagnosis. Ultrasound poate fie useful if confirmation este required. incidențe de contralateral Genunchi trebuie să nu normally fie needed. Postero-anterior (PA) radiografie de normal Rotulă (Patelă) radiografie de Rotulă (Patelă) evidențiind transverse suspiciune de fractură
+        - Revărsatul articular este bine evidențiat pe incidența de profil ca o densitate ovoidă, situată deasupra aspectului posterosuperior al rotulei (patela). Semnificația sa variază în funcție de contextul clinic. Cauzele includ procesul infecțios/inflamator, hemoragia și artrita, dar poate fi, de asemenea, un marker al unei suspiciuni de fractură ocultă, de exemplu fractura coloanei tibiale sau a platoului tibial. Lipohemartroza apare atunci când suspiciunea de fractură pătrunde în spațiul medular care conține măduvă. Grăsimea (măduva osoasă) se scurge în articulație, producând niveluri hidroaerice între grăsime și lichid (sânge), care pot fi observate atunci când se utilizează fasciculul orizontal.
+        - Suspiciunea de fractură a coloanei tibiale anterioare poate fi subtilă, demonstrarea necesitând atenție la expunere și rotație. Aceasta este importantă deoarece reprezintă locul de inserție al ligamentului încrucișat anterior, a cărui avulsie poate cauza instabilitate invalidantă a genunchiului.
+        - Suspiciunea de fractură verticală a rotulei (patela) nu este vizibilă pe incidența de profil și va fi observată pe incidența antero-posterioară (AP) numai dacă este expusă corect (adică nu subexpusă). Dacă este suspectată clinic, se poate solicita o incidență skyline. 130
+        - Suspiciunea de fractură a platoului tibial poate fi subtilă și dificil de detectat, dar este, de asemenea, foarte importantă din punct de vedere funcțional. Tehnica bună este esențială. Evaluarea completă poate fi susținută de CT tridimensional în unele cazuri.
+        - Fabella este un os sesamoid în tendonul capului medial al gastrocnemianului, posterior de condilul femural medial, și nu trebuie confundată cu un corp liber.
+        - Boala Osgood–Schlatter este un diagnostic clinic și, de obicei, nu necesită radiografie pentru diagnostic. Ecografia poate fi utilă dacă este necesară confirmarea. Incidențele genunchiului contralateral nu sunt, în mod normal, necesare. Radiografie postero-anterioară (PA) a unei rotule (patela) normale Radiografie a rotulei (patela) evidențiind suspiciunea de fractură transversală
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul și casetă sunt poziționat pentru routine anteroposterior incidență.
-• doctor forcibly abducts sau adducts Genunchi, fără rotating membru inferior.
-
-• pacientul este culcat Decubit ventral pe masa de examinare, cu Genunchi slightly flectat.
-• Foam pads sunt plasat under Gleznă (Articulație Talocrurală) și thigh pentru support.
-• limb este rotit la centralize Rotulă (Patelă).
-• centre de caseta este level cu crease de Genunchi.
-    - **Punct de Centrare Fascicul:** • Centre midway între upper margini de tibial condyles, cu raza centrală centrală la 90 grade la axa longitudinală de tibia.
-Valgus Antero-posterior (AP) Genunchi cu valgus stress Varus Antero-posterior (AP) Genunchi cu varus stress în ortostatism Antero-posterior (AP) Genunchi radiografie evidențiind loss de height de medial compartment due la artroză / modificări degenerative articulare
-
-• Centre midway între upper margini de tibial condyles la nivelul crease de Genunchi, cu raza centrală centrală la 90 grade la axa longitudinală de tibia.
+    - **Poziție Pacient:**
+        - pacientul și caseta sunt poziționate pentru incidența anteroposterioară de rutină.
+        - medicul abduce sau adduce forțat genunchiul, fără a roti membrul inferior.
+        - pacientul este culcat în decubit ventral pe masa de examinare, cu genunchiul ușor flectat.
+        - pernele de spumă sunt plasate sub gleznă (articulația talocrurală) și coapsă pentru sprijin.
+        - membrul este rotit pentru a centra rotula (patela).
+        - centrul casetei este la nivelul pliului genunchiului.
+    - **Punct de Centrare Fascicul:**
+        - Centrați la mijlocul distanței dintre marginile superioare ale condililor tibiali, cu raza centrală la 90 grade față de axa longitudinală a tibiei. Valgus Genunchi antero-posterior (AP) cu stres în valgus Varus Genunchi antero-posterior (AP) cu stres în varus în ortostatism Genunchi antero-posterior (AP), radiografie evidențiind pierderea înălțimii compartimentului medial din cauza artrozei / modificărilor degenerative articulare
+        - Centrați la mijlocul distanței dintre marginile superioare ale condililor tibiali, la nivelul pliului genunchiului, cu raza centrală la 90 grade față de axa longitudinală a tibiei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -188,19 +199,19 @@ Valgus Antero-posterior (AP) Genunchi cu valgus stress Varus Antero-posterior (A
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Genunchi).
+    - Vizualizarea clară a întregii arii anatomice (genunchi).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -214,11 +225,12 @@ Valgus Antero-posterior (AP) Genunchi cu valgus stress Varus Antero-posterior (A
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • fascicul poate have la fie înclinat caudally la fie la rightangles la axa longitudinală de tibia.
-• Rotulă (Patelă) poate fie evidențiat more clearly ca it este now adjacent la receptorul de imagine și nu distant de la it, ca în conventional Antero-posterior (AP) incidență.
-• Subtle abnormalities poate nu fie detected, ca trabecular pattern de Femur will still predominate.
-• This incidență depends pe fitness de pacientul și trebuie să nu fie attempted if it results în undue discomfort sau if it poate exacerbate pacientul’s condition.
+    - fasciculul poate fi înclinat caudal pentru a fi perpendicular pe axa longitudinală a tibiei.
+    - Rotula (patela) poate fi evidențiată mai clar, deoarece este acum adiacentă receptorului de imagine și nu îndepărtată de acesta, ca în incidența antero-posterioară (AP) convențională.
+    - Anomaliile subtile pot să nu fie detectate, deoarece desenul trabecular al femurului va predomina în continuare.
+    - Această incidență depinde de condiția fizică a pacientului și nu trebuie efectuată dacă provoacă disconfort nejustificat sau poate agrava starea pacientului.
 
 
 ### 🖼️ Imagini
@@ -227,17 +239,17 @@ Valgus Antero-posterior (AP) Genunchi cu valgus stress Varus Antero-posterior (A
 
 <figure class="protocol-image-card" markdown>
 
-![articulație replacement, ca narrowing de one side la spații articulare](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_1.jpeg)
+![înlocuirea articulației, precum îngustarea spațiului articular pe o parte](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_1.jpeg)
 
-<figcaption><strong>articulație replacement, ca narrowing de one side la spații articulare</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>înlocuirea articulației, precum îngustarea spațiului articular pe o parte</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![în ortostatism Antero-posterior (AP) Genunchi radiografie evidențiind loss de height de the](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_2.jpeg)
+![în ortostatism Genunchi antero-posterior (AP), radiografie evidențiind pierderea înălțimii](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_2.jpeg)
 
-<figcaption><strong>în ortostatism Antero-posterior (AP) Genunchi radiografie evidențiind loss de height de the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>în ortostatism Genunchi antero-posterior (AP), radiografie evidențiind pierderea înălțimii</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -267,25 +279,25 @@ Valgus Antero-posterior (AP) Genunchi cu valgus stress Varus Antero-posterior (A
 
 <figure class="protocol-image-card" markdown>
 
-![• Subtle abnormalities poate nu fie detected, ca trabecular](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_6.jpeg)
+![• Anomaliile subtile pot să nu fie detectate, deoarece desenul trabecular](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_6.jpeg)
 
-<figcaption><strong>• Subtle abnormalities poate nu fie detected, ca trabecular</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![but it poate also fie marker de occult suspiciune de fractură, e.g. tibial coloană vertebrală](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_7.jpeg)
-
-<figcaption><strong>but it poate also fie marker de occult suspiciune de fractură, e.g. tibial coloană vertebrală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Anomaliile subtile pot să nu fie detectate, deoarece desenul trabecular</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![sau platou tibial suspiciune de fractură. Lipohaemarthrosis occurs when a](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_8.jpeg)
+![dar poate fi, de asemenea, un marker al unei suspiciuni de fractură oculte, de exemplu, al coloanei tibiale](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_7.jpeg)
 
-<figcaption><strong>sau platou tibial suspiciune de fractură. Lipohaemarthrosis occurs when a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>dar poate fi, de asemenea, un marker al unei suspiciuni de fractură oculte, de exemplu, al coloanei tibiale</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![sau al suspiciunii de fractură a platoului tibial. Lipohemartroza apare atunci când o](../../assets/images/protocols/clark/rx-genunchi-antero-posterior-standing-p144-clark/fig_8.jpeg)
+
+<figcaption><strong>sau al suspiciunii de fractură a platoului tibial. Lipohemartroza apare atunci când o</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

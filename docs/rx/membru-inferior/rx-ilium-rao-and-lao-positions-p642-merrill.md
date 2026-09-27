@@ -2,64 +2,69 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: perpendicular pe midpoint de receptorul de imagine
+centering: perpendicular pe punctul mijlociu al receptorului de imagine
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images: []
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral poziție.; se centrează plan sagital
-  passing through Șold articulație de afected side la linia mediană grilă. Elevate
-  unafected side about 40 grade la place afected ilium perpendicular pe plane de receptorul
-  de imagine. Se instruiește pacientul să rest pe Antebraț și flectat Genunchi de
-  ridicat side. se ajustează poziție de uppermost thigh la place crestele iliace în
-  same plan orizontal. se centrează receptorul de imagine la nivelul spină iliacă
-  antero-superioară (SIAS) (Fig. 8.51).
+position: Se așază pacientul în poziție de decubit ventral; se centrează planul sagital
+  care trece prin articulația șoldului de partea afectată la linia mediană a grilei.
+  Se ridică partea neafectată cu aproximativ 40 grade pentru a plasa iliumul afectat
+  perpendicular pe planul receptorului de imagine. Se instruiește pacientul să se
+  sprijine pe antebraț și pe genunchiul flectat al părții ridicate. Se ajustează poziția
+  coapsei superioare pentru a plasa crestele iliace în același plan orizontal. Se
+  centrează receptorul de imagine la nivelul spinei iliace antero-superioare (SIAS)
+  (Fig. 8.51).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire ilium
-- Șold articulație, proximal Femur, și SI articulație
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul ilium
+- Articulația șoldului, femurul proximal și articulația SI
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-ilium-rao-and-lao-positions-p642-merrill
 source_pages:
 - 642
 - 643
 source_sections:
-  anatomy: 'AP oblic imagine shows unobstructed incidență de ala și sciatic notches
-    și profile imagine de cotil (acetabul) (Fig. 8.52). PA oblic
-
-    imagine shows ilium în profile și cap femural within cotil (acetabul) (Fig. 8.53).'
+  anatomy: Imaginea oblică AP evidențiază fără obstacole aripile și incizurile sciatice
+    și profilul cotilului (acetabulului) (Fig. 8.52). Imaginea oblică PA evidențiază
+    iliumul în profil și capul femural în cotil (acetabul) (Fig. 8.53).
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: • perpendicular pe midpoint de receptorul de imagine
-  criteria: 'Criterii radiologice de calitate imaginii:
+  cr: • perpendicular pe punctul mijlociu al receptorului de imagine
+  criteria: 'Criterii radiologice pentru calitatea imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de regiunea anatomică de interes
 
-    • Entire ilium
+    • Întregul ilium
 
-    • Hip articulație, proximal femur, și SI articulație
+    • Articulația șoldului, femurul proximal și articulația SI
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează plan sagital passing through hip articulație de afected
-    side la linia mediană grilă.
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se centrează planul sagital care trece prin articulația șoldului de
+    partea afectată la linia mediană a grilei.
 
-    • Elevate unafected side about 40 grade la place afected ilium perpendicular pe
-    plane de receptorul de imagine.
+    • Se ridică partea neafectată cu aproximativ 40 grade pentru a plasa iliumul afectat
+    perpendicular pe planul receptorului de imagine.
 
-    • Se instruiește pacientul să rest pe forearm și flectat genunchi de ridicat side.
+    • Se instruiește pacientul să se sprijine pe antebraț și pe genunchiul flectat
+    al părții ridicate.
 
-    • se ajustează poziție de uppermost thigh la place crestele iliace în same plan
-    orizontal.
+    • Se ajustează poziția coapsei superioare pentru a plasa crestele iliace în același
+    plan orizontal.
 
-    • se centrează receptorul de imagine la nivelul spină iliacă antero-superioară
+    • Se centrează receptorul de imagine la nivelul spinei iliace antero-superioare
     (SIAS) (Fig. 8.51).'
   patient_pos: • se așază pacientul în decubit ventral.
   respiration: apnee (oprirea respirației).
@@ -70,9 +75,9 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Ilium — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
+title: Rx Ilium — RAO și oblică anterioară stângă (OAS / LAO) (Merrill)
 ---
-# Rx Ilium — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
+# Rx Ilium — RAO și oblică anterioară stângă (OAS / LAO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -96,17 +101,18 @@ title: Rx Ilium — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție.; se centrează plan sagital passing through Șold articulație de afected side la linia mediană grilă. Elevate unafected side about 40 grade la place afected ilium perpendicular pe plane de receptorul de imagine. Se instruiește pacientul să rest pe Antebraț și flectat Genunchi de ridicat side. se ajustează poziție de uppermost thigh la place crestele iliace în same plan orizontal. se centrează receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS) (Fig. 8.51).
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de receptorul de imagine
+    - **Poziție Pacient:** Se așază pacientul în poziție de decubit ventral; se centrează planul sagital care trece prin articulația șoldului de partea afectată la linia mediană a grilei. Se ridică partea neafectată cu aproximativ 40 grade pentru a plasa iliumul afectat perpendicular pe planul receptorului de imagine. Se instruiește pacientul să se sprijine pe antebraț și pe genunchiul flectat al părții ridicate. Se ajustează poziția coapsei superioare pentru a plasa crestele iliace în același plan orizontal. Se centrează receptorul de imagine la nivelul spinei iliace antero-superioare (SIAS) (Fig. 8.51).
+    - **Punct de Centrare Fascicul:** perpendicular pe punctul mijlociu al receptorului de imagine
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -129,11 +135,11 @@ title: Rx Ilium — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire ilium
-    - Șold articulație, proximal Femur, și SI articulație
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul ilium
+    - Articulația șoldului, femurul proximal și articulația SI
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -142,6 +148,7 @@ title: Rx Ilium — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -158,43 +165,3 @@ title: Rx Ilium — RAO and Oblică Anterioară Stângă (OAS / LAO)s (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 642–643](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP oblic imagine shows unobstructed incidență de ala și sciatic notches și profile imagine de cotil (acetabul) (Fig. 8.52). PA oblic
-imagine shows ilium în profile și cap femural within cotil (acetabul) (Fig. 8.53).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe midpoint de receptorul de imagine
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire ilium
-• Hip articulație, proximal femur, și SI articulație
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează plan sagital passing through hip articulație de afected side la linia mediană grilă.
-• Elevate unafected side about 40 grade la place afected ilium perpendicular pe plane de receptorul de imagine.
-• Se instruiește pacientul să rest pe forearm și flectat genunchi de ridicat side.
-• se ajustează poziție de uppermost thigh la place crestele iliace în same plan orizontal.
-• se centrează receptorul de imagine la nivelul spină iliacă antero-superioară (SIAS) (Fig. 8.51).
-
-### patient_pos
-
-• se așază pacientul în decubit ventral.
-
-### respiration
-
-apnee (oprirea respirației).
-

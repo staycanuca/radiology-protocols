@@ -1,6 +1,7 @@
 title: CT
 nav:
   - Prezentare Generală: index.md
+  - Parametri Scanere (Defaults): parametri-aparate-scanner-defaults.md
   - Compară Protocoale CT: compare.md
   - Abdomen & Pelvis: abdomen
   - Torace: chest
@@ -9,4 +10,7 @@ nav:
   - Musculoscheletic: msk
   - Angio-CT & Vascular: vascular
   - Traumă: trauma
+  - Catalog MCB Radiology: mcb
+  - Parametri aparate CT: aparate
+  - Pediatrie: pediatrie
 collapse_single_pages: true

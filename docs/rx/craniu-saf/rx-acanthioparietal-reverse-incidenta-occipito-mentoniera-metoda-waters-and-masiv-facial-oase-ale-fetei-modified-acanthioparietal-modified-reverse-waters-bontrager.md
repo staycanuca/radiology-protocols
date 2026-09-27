@@ -36,6 +36,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 15.84
     Acanthioparietală modificată (incidență Waters inversă modificată)
   url: assets/images/protocols/bontrager/rx-acanthioparietal-reverse-incidenta-occipito-mentoniera-metoda-waters-and-masiv-facial-oase-ale-fetei-modified-acanthioparietal-modified-reverse-waters-bontrager/fig_4.jpeg
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: 'Această incidență evidențiază cel mai bine planșeul orbitelor și oferă o incidență
@@ -103,11 +107,12 @@ title: RADIOGRAFIA ACANTHIOPARIETALEI (INCIDENȚĂ OCCIPITO-MENTONIERĂ INVERSĂ
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -149,6 +154,7 @@ title: RADIOGRAFIA ACANTHIOPARIETALEI (INCIDENȚĂ OCCIPITO-MENTONIERĂ INVERSĂ
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Această incidență evidențiază cel mai bine planșeul orbitelor și oferă o incidență a întregilor reborduri orbitare. Stâncile temporale (piramidele pietroase) sunt vizualizate în regiunea sinusurilor maxilare (Fig. 15.84). Se centrează pe acantion; apoi se centrează receptorul de imagine pe proiecția razei centrale. Siguranța radiologică: selectarea factorilor de expunere trebuie optimizată în conformitate cu ALARA. Se efectuează colimarea pe toate cele patru laturi la nivelul anatomiei de interes.

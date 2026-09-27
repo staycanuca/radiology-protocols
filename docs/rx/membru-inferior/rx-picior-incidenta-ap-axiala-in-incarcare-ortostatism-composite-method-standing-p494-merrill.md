@@ -2,16 +2,21 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: la use masking efect de membru inferior, se orientează raza centrală centrală
-  along plane de alignment de Picior în ambele expuneri. cu tubul în front de pacientul
-  și ajustat pentru posterior angulation de 15 grade, se centrează raza centrală la
-  base de third metatarsal pentru first expunere (Figs. 7.59 și 7.60). Caution pacientul
-  la carefully maintain poziție de afected Picior și la place opposite Picior one
-  step forward în preparation pentru second expunere. Move tubul behind pacientul,
-  adjust it pentru anterior angulation de 25 grade, și se orientează raza centrală
-  centrală la posterior surface de Gleznă (Articulație Talocrurală). raza centrală
-  emerges pe plantar surface la nivelul maleolă laterală (fibulară) (Figs. 7.61 și
-  7.62). increase în technical factors este recommended pentru this expunere.
+centering: '• utilizând efectul de mascare al membrului inferior, se orientează raza
+  centrală de-a lungul planului de aliniere al piciorului în ambele expuneri.
+
+  • Cu tubul în fața pacientului și ajustat pentru o angulație posterioară de 15 grade,
+  se centrează raza centrală la baza celui de-al treilea metatarsian pentru prima
+  expunere (Fig. 7.59 și 7.60).
+
+  • Se instruiește pacientul să mențină cu atenție poziția piciorului afectat și să
+  plaseze piciorul opus cu un pas înainte, în pregătirea celei de-a doua expuneri.
+
+  • Se deplasează tubul în spatele pacientului, se ajustează pentru o angulație anterioară
+  de 25 grade și se orientează raza centrală către suprafața posterioară a gleznei
+  (articulația talocrurală). Raza centrală iese pe suprafața plantară la nivelul maleolei
+  laterale (fibulare) (Fig. 7.61 și 7.62). Pentru această expunere se recomandă creșterea
+  factorilor tehnici.'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -30,27 +35,31 @@ images:
 - caption: Merrill — pagina 497, imaginea 5
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill/p497_fig5.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în ortostatism-ortostatism. pacientul trebuie să stand
-  la comfortable height pe low stool sau pe floor.; cu pacientul în ortostatism în
-  ortostatism, se ajustează receptorul de imagine under Picior și center its midline
-  la axa longitudinală de Picior. la prevent superimposition de membru inferior shadow
-  pe that de Gleznă (Articulație Talocrurală) articulație, Se instruiește pacientul
-  să place opposite Picior one step backward pentru expunere de forefoot și one step
-  forward pentru expunere de hindfoot sau Calcaneu. se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+position: Se așază pacientul în ortostatism. Pacientul trebuie să stea la o înălțime
+  confortabilă pe un scăunel jos sau pe podea. Cu pacientul în ortostatism, se ajustează
+  receptorul de imagine sub picior și se centrează linia mediană a acestuia pe axa
+  longitudinală a piciorului. Pentru a preveni suprapunerea umbrei membrului inferior
+  peste cea a articulației gleznei (articulației talocrurale), se instruiește pacientul
+  să plaseze piciorul opus cu un pas înapoi pentru expunerea antepiciorului și cu
+  un pas înainte pentru expunerea retropiciorului sau a calcaneului. Se efectuează
+  ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire Picior, de la Degete Picior la heel
-- Shadow de membru inferior nu overlapping oase tarsiene
-- Picior nu rotit
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Întregul picior, de la degete până la călcâi
+- Umbra membrului inferior nu se suprapune peste oasele tarsiene
+- Piciorul nu este rotit
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-picior-incidenta-ap-axiala-in-incarcare-ortostatism-composite-method-standing-p494-merrill
 source_pages:
@@ -59,69 +68,64 @@ source_pages:
 - 496
 - 497
 source_sections:
-  anatomy: weight-bearing AP axial incidență de toate bones de picior. full outline
-    de picior este projected liber de membru inferior (Fig. 7.63).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    și 1 inch (2.5 cm) beyond calcaneu și distal tip de toes. Place side
+  anatomy: Incidență AP axială în încărcare a tuturor oaselor piciorului. Conturul
+    complet al piciorului este proiectat liber de membrul inferior (Fig. 7.63).
+  collimation: • Ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile și
+    la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor. Plasați
+    markerul lateral în câmpul de expunere colimat.
+  cr: '• utilizând efectul de mascare al membrului inferior, se orientează raza centrală
+    de-a lungul planului de aliniere al piciorului în ambele expuneri.
 
-    marker în collimated expunere field.'
-  cr: '• la use masking efect de membru inferior, se orientează raza centrală centrală
-    along plane de alignment de picior în ambele expuneri.
+    • Cu tubul în fața pacientului și ajustat pentru o angulație posterioară de 15
+    grade, se centrează raza centrală la baza celui de-al treilea metatarsian pentru
+    prima expunere (Fig. 7.59 și 7.60).
 
-    • cu tubul în front de pacientul și ajustat pentru posterior angulation de 15
-    grade, se centrează raza centrală la base de third
+    • Se instruiește pacientul să mențină cu atenție poziția piciorului afectat și
+    să plaseze piciorul opus cu un pas înainte, în pregătirea celei de-a doua expuneri.
 
-    metatarsal pentru first expunere (Figs. 7.59 și 7.60).
+    • Se deplasează tubul în spatele pacientului, se ajustează pentru o angulație
+    anterioară de 25 grade și se orientează raza centrală către suprafața posterioară
+    a gleznei. Raza centrală iese pe suprafața plantară la nivelul maleolei laterale
+    (fibulare) (Fig. 7.61 și 7.62). Pentru această expunere se recomandă creșterea
+    factorilor tehnici.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Caution pacientul la carefully maintain poziție de afected picior și la place
-    opposite picior one step forward în
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    preparation pentru second expunere.
+    • Piciorul în întregime, de la degete la călcâi
 
-    • Move tubul behind pacientul, adjust it pentru anterior angulation de 25 grade,
-    și se orientează raza centrală centrală la posterior surface
+    • Umbra membrului inferior nu se suprapune peste oasele tarsiene
 
-    de ankle. raza centrală emerges pe plantar surface la nivelul maleolă laterală
-    (fibulară) (Figs. 7.61 și 7.62). increase în
+    • Piciorul nu este rotit
 
-    technical factors este recommended pentru this expunere.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Detaliile trabeculare osoase și țesuturile moi din jur'
+  part_pos: '• Cu pacientul în ortostatism, se ajustează receptorul de imagine sub
+    picior și se centrează linia mediană a acestuia pe axa longitudinală a piciorului.
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Pentru a preveni suprapunerea umbrei membrului inferior peste cea a articulației
+    gleznei, se instruiește pacientul să plaseze piciorul opus cu un pas înapoi pentru
+    expunerea antepiciorului și cu un pas înainte pentru expunerea retropiciorului
+    sau a calcaneului.
 
-    • Entire picior, de la toes la heel
-
-    • Shadow de membru inferior nu overlapping oase tarsiene
-
-    • picior nu rotit
-
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• cu pacientul în ortostatism în ortostatism, se ajustează receptorul
-    de imagine under picior și center its midline la axa longitudinală de picior.
-
-    • la prevent superimposition de membru inferior shadow pe that de ankle articulație,
-    Se instruiește pacientul să place opposite picior one step backward pentru
-
-    expunere de forefoot și one step forward pentru expunere de hindfoot sau calcaneu.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în ortostatism-ortostatism. pacientul trebuie
-    să stand la comfortable height pe low stool sau pe floor.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se așază pacientul în ortostatism. Pacientul trebuie să stea la o
+    înălțime confortabilă pe un scăunel jos sau pe podea.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 494–497
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și
-    1 inch (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Place marker de
-    lateralitate (D/S) în collimated expunere field.
-title: Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Composite Method
-  Standing (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile
+    și la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx picior — incidență AP axială — în încărcare (ortostatism), metodă compozită
+  în ortostatism (Merrill)
 ---
-# Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Composite Method Standing (Merrill)
+# Rx picior — incidență AP axială — în încărcare (ortostatism), metodă compozită în ortostatism (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -145,17 +149,22 @@ title: Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Co
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în ortostatism-ortostatism. pacientul trebuie să stand la comfortable height pe low stool sau pe floor.; cu pacientul în ortostatism în ortostatism, se ajustează receptorul de imagine under Picior și center its midline la axa longitudinală de Picior. la prevent superimposition de membru inferior shadow pe that de Gleznă (Articulație Talocrurală) articulație, Se instruiește pacientul să place opposite Picior one step backward pentru expunere de forefoot și one step forward pentru expunere de hindfoot sau Calcaneu. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** la use masking efect de membru inferior, se orientează raza centrală centrală along plane de alignment de Picior în ambele expuneri. cu tubul în front de pacientul și ajustat pentru posterior angulation de 15 grade, se centrează raza centrală la base de third metatarsal pentru first expunere (Figs. 7.59 și 7.60). Caution pacientul la carefully maintain poziție de afected Picior și la place opposite Picior one step forward în preparation pentru second expunere. Move tubul behind pacientul, adjust it pentru anterior angulation de 25 grade, și se orientează raza centrală centrală la posterior surface de Gleznă (Articulație Talocrurală). raza centrală emerges pe plantar surface la nivelul maleolă laterală (fibulară) (Figs. 7.61 și 7.62). increase în technical factors este recommended pentru this expunere.
+    - **Poziție Pacient:** Se așază pacientul în ortostatism. Pacientul trebuie să stea la o înălțime confortabilă pe un scăunel jos sau pe podea. Cu pacientul în ortostatism, se ajustează receptorul de imagine sub picior și se centrează linia mediană a acestuia pe axa longitudinală a piciorului. Pentru a preveni suprapunerea umbrei membrului inferior peste cea a articulației gleznei (articulației talocrurale), se instruiește pacientul să plaseze piciorul opus cu un pas înapoi pentru expunerea antepiciorului și cu un pas înainte pentru expunerea retropiciorului sau a calcaneului. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:**
+        - utilizând efectul de mascare al membrului inferior, se orientează raza centrală de-a lungul planului de aliniere al piciorului în ambele expuneri.
+        - Cu tubul în fața pacientului și ajustat pentru o angulație posterioară de 15 grade, se centrează raza centrală la baza celui de-al treilea metatarsian pentru prima expunere (Fig. 7.59 și 7.60).
+        - Se instruiește pacientul să mențină cu atenție poziția piciorului afectat și să plaseze piciorul opus cu un pas înainte, în pregătirea celei de-a doua expuneri.
+        - Se deplasează tubul în spatele pacientului, se ajustează pentru o angulație anterioară de 25 grade și se orientează raza centrală către suprafața posterioară a gleznei (articulația talocrurală). Raza centrală iese pe suprafața plantară la nivelul maleolei laterale (fibulare) (Fig. 7.61 și 7.62). Pentru această expunere se recomandă creșterea factorilor tehnici.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -171,19 +180,19 @@ title: Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Co
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și 1 inch (2.5 cm) beyond Calcaneu și distal tip de Degete Picior. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile și la 1 țol (2.5 cm) dincolo de calcaneu și de vârful distal al degetelor piciorului. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Picior, de la Degete Picior la heel
-    - Shadow de membru inferior nu overlapping oase tarsiene
-    - Picior nu rotit
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Întregul picior, de la degete până la călcâi
+    - Umbra membrului inferior nu se suprapune peste oasele tarsiene
+    - Piciorul nu este rotit
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -192,6 +201,7 @@ title: Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Co
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -255,50 +265,3 @@ title: Rx Picior — Incidență AP Axială — În Încărcare (Ortostatism) Co
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 494–497](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-weight-bearing AP axial incidență de toate bones de picior. full outline de picior este projected liber de membru inferior (Fig. 7.63).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides și 1 inch (2.5 cm) beyond calcaneu și distal tip de toes. Place side
-marker în collimated expunere field.
-
-### cr
-
-• la use masking efect de membru inferior, se orientează raza centrală centrală along plane de alignment de picior în ambele expuneri.
-• cu tubul în front de pacientul și ajustat pentru posterior angulation de 15 grade, se centrează raza centrală la base de third
-metatarsal pentru first expunere (Figs. 7.59 și 7.60).
-• Caution pacientul la carefully maintain poziție de afected picior și la place opposite picior one step forward în
-preparation pentru second expunere.
-• Move tubul behind pacientul, adjust it pentru anterior angulation de 25 grade, și se orientează raza centrală centrală la posterior surface
-de ankle. raza centrală emerges pe plantar surface la nivelul maleolă laterală (fibulară) (Figs. 7.61 și 7.62). increase în
-technical factors este recommended pentru this expunere.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire picior, de la toes la heel
-• Shadow de membru inferior nu overlapping oase tarsiene
-• picior nu rotit
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• cu pacientul în ortostatism în ortostatism, se ajustează receptorul de imagine under picior și center its midline la axa longitudinală de picior.
-• la prevent superimposition de membru inferior shadow pe that de ankle articulație, Se instruiește pacientul să place opposite picior one step backward pentru
-expunere de forefoot și one step forward pentru expunere de hindfoot sau calcaneu.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în ortostatism-ortostatism. pacientul trebuie să stand la comfortable height pe low stool sau pe floor.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

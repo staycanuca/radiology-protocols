@@ -130,6 +130,7 @@ workbench_review:
             - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -170,6 +171,7 @@ workbench_review:
     - Colimare laterală strânsă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Efectul de toc poate fi utilizat orientând catodul spre partea inferioară a toracelui pentru o densitate mai uniformă.

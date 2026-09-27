@@ -2,8 +2,8 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe Calcaneu. Center about 1 inch (2.5 cm) distal la maleolă
-  medială (tibială). This places raza centrală la subtalar articulație.
+centering: perpendicular pe calcaneu. Se centrează la aproximativ 1 țol (2.5 cm) distal
+  față de maleola medială (tibială). Astfel, raza centrală ajunge la articulația subtalară.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,27 +13,32 @@ images:
 - caption: Merrill — pagina 511, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-calcaneu-incidenta-de-profil-lateral-mediolateral-p509-merrill/p511_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Have Decubit dorsal pacient turn spre afected side until membru inferior
-  este approximately lateral. support poate fie plasat under Genunchi.; se ajustează
-  Calcaneu ca pentru lateral Picior și la center de receptorul de imagine. se ajustează
-  receptorul de imagine astfel încât axa longitudinală este paralel cu plantar surface
-  de heel (Fig. 7.81). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Pacientul în decubit dorsal se rotește spre partea afectată până când membrul
+  inferior este aproximativ lateral. Suportul poate fi plasat sub genunchi.; se ajustează
+  calcaneul ca pentru incidența laterală a piciorului și se centrează pe receptorul
+  de imagine. se ajustează receptorul de imagine astfel încât axa longitudinală să
+  fie paralelă cu suprafața plantară a călcâiului (Fig. 7.81). se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Entire Calcaneu, including Gleznă (Articulație Talocrurală) articulație și adjacent
-  oase tarsiene
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Calcaneu
-- Tuberosity în profile
-- Sinus tarsi open
-- Calcaneocuboid și talonavicular articulații open
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Întregul calcaneu, inclusiv articulația gleznei (articulația talocrurală) și oasele
+  tarsiene adiacente
+- Absența rotației anatomice (simetrie bilaterală perfectă) a calcaneului
+- Tuberozitatea în profil
+- Sinus tarsi deschis
+- Articulațiile calcaneocuboidă și talonaviculară deschise
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-calcaneu-incidenta-de-profil-lateral-mediolateral-p509-merrill
 source_pages:
@@ -41,52 +46,54 @@ source_pages:
 - 510
 - 511
 source_sections:
-  anatomy: ankle articulație și calcaneu în lateral profile (Fig. 7.82).
-  collimation: • se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior
-    și inferior shadow de heel. Include maleolă medială (tibială) și base de fifth
-    metatarsal. Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe calcaneu. Center about 1 inch (2.5 cm) distal la maleolă
-    medială (tibială). This places raza centrală la subtalar
+  anatomy: articulația gleznei și calcaneul în profil lateral (Fig. 7.82).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de imaginea
+    posterioară și inferioară a călcâiului. Se includ maleola medială (tibială) și
+    baza celui de-al cincilea metatarsian. Se plasează markerul de lateralitate în
+    câmpul colimat.
+  cr: • perpendicular pe calcaneu. Se centrează la aproximativ 1 țol (2.5 cm) distal
+    față de maleola medială (tibială). Astfel, raza centrală ajunge la articulația
+    subtalară.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    articulație.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Întregul calcaneu, inclusiv articulația gleznei și oasele tarsiene adiacente
 
-    • Entire calcaneu, including ankle articulație și adjacent oase tarsiene
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a calcaneului
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de calcaneu
+    • Tuberozitatea în profil
 
-    • Tuberosity în profile
+    • Sinus tarsi deschis
 
-    • Sinus tarsi open
+    • Articulațiile calcaneocuboidă și talonaviculară deschise
 
-    • Calcaneocuboid și talonavicular articulații open
+    • Detalii osoase trabeculare și țesuturile moi adiacente'
+  part_pos: '• se ajustează calcaneul ca pentru incidența laterală a piciorului și
+    se centrează pe receptorul de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se ajustează calcaneu ca pentru lateral picior și la center de receptorul
-    de imagine.
-
-    • se ajustează receptorul de imagine astfel încât axa longitudinală este paralel
-    cu plantar surface de heel (Fig. 7.81).
+    • se ajustează receptorul de imagine astfel încât axa longitudinală să fie paralelă
+    cu suprafața plantară a călcâiului (Fig. 7.81).
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Have în decubit dorsal pacient turn spre afected side until membru
-    inferior este approximately lateral. support poate fie plasat under genunchi.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+  patient_pos: • Pacientul în decubit dorsal se rotește spre partea afectată până
+    când membrul inferior este aproximativ lateral. Suportul poate fi plasat sub genunchi.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 509–511
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și
-    inferior shadow de heel. Include maleolă medială (tibială) și base de fifth metatarsal.
-    Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Calcaneu — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de imaginea
+    posterioară și inferioară a călcâiului. Se includ maleola medială (tibială) și
+    baza celui de-al cincilea metatarsian. Se plasează markerul de lateralitate în
+    câmpul colimat.
+title: Rx calcaneu — incidență de profil (lateral) — mediolaterală (Merrill)
 ---
-# Rx Calcaneu — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+# Rx calcaneu — incidență de profil (lateral) — mediolaterală (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -110,17 +117,18 @@ title: Rx Calcaneu — Incidență de Profil (Lateral) — Medio-Lateral (Merril
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Have Decubit dorsal pacient turn spre afected side until membru inferior este approximately lateral. support poate fie plasat under Genunchi.; se ajustează Calcaneu ca pentru lateral Picior și la center de receptorul de imagine. se ajustează receptorul de imagine astfel încât axa longitudinală este paralel cu plantar surface de heel (Fig. 7.81). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe Calcaneu. Center about 1 inch (2.5 cm) distal la maleolă medială (tibială). This places raza centrală la subtalar articulație.
+    - **Poziție Pacient:** Pacientul în decubit dorsal se rotește spre partea afectată până când membrul inferior este aproximativ lateral. Suportul poate fi plasat sub genunchi.; se ajustează calcaneul ca pentru incidența laterală a piciorului și se centrează pe receptorul de imagine. se ajustează receptorul de imagine astfel încât axa longitudinală să fie paralelă cu suprafața plantară a călcâiului (Fig. 7.81). se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe calcaneu. Se centrează la aproximativ 1 țol (2.5 cm) distal față de maleola medială (tibială). Astfel, raza centrală ajunge la articulația subtalară.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -136,21 +144,21 @@ title: Rx Calcaneu — Incidență de Profil (Lateral) — Medio-Lateral (Merril
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă medială (tibială) și base de fifth metatarsal. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) dincolo de imaginea posterioară și inferioară a călcâiului. Se includ maleola medială (tibială) și baza celui de-al cincilea metatarsian. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire Calcaneu, including Gleznă (Articulație Talocrurală) articulație și adjacent oase tarsiene
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Calcaneu
-    - Tuberosity în profile
-    - Sinus tarsi open
-    - Calcaneocuboid și talonavicular articulații open
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Întregul calcaneu, inclusiv articulația gleznei (articulația talocrurală) și oasele tarsiene adiacente
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a calcaneului
+    - Tuberozitatea în profil
+    - Sinus tarsi deschis
+    - Articulațiile calcaneocuboidă și talonaviculară deschise
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,6 +167,7 @@ title: Rx Calcaneu — Incidență de Profil (Lateral) — Medio-Lateral (Merril
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -198,44 +207,3 @@ title: Rx Calcaneu — Incidență de Profil (Lateral) — Medio-Lateral (Merril
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 509–511](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-ankle articulație și calcaneu în lateral profile (Fig. 7.82).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) beyond posterior și inferior shadow de heel. Include maleolă medială (tibială) și base de fifth metatarsal. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe calcaneu. Center about 1 inch (2.5 cm) distal la maleolă medială (tibială). This places raza centrală la subtalar
-articulație.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire calcaneu, including ankle articulație și adjacent oase tarsiene
-• Absența rotației anatomice (simetrie bilaterală perfectă) de calcaneu
-• Tuberosity în profile
-• Sinus tarsi open
-• Calcaneocuboid și talonavicular articulații open
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se ajustează calcaneu ca pentru lateral picior și la center de receptorul de imagine.
-• se ajustează receptorul de imagine astfel încât axa longitudinală este paralel cu plantar surface de heel (Fig. 7.81).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Have în decubit dorsal pacient turn spre afected side until membru inferior este approximately lateral. support poate fie plasat under genunchi.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

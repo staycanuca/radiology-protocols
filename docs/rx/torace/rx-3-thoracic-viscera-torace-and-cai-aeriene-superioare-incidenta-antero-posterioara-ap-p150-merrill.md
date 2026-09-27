@@ -1,10 +1,10 @@
 ---
 author: Referință Merrill
-breathing: expunere este made during slow inspiration la ensure that trachea este
-  filled cu air.
+breathing: Expunerea se efectuează în timpul unei inspirații lente pentru a asigura
+  umplerea traheei cu aer.
 category: torace
-centering: perpendicular through planul mediosagital la nivelul laryngeal prominence
-  (Căi Aeriene Superioare) sau manubriu sternal (laringe și superior mediastinum)
+centering: Perpendicular prin planul mediosagital la nivelul proeminenței laringiene
+  (căi aeriene superioare) sau al manubriului sternal (laringele și mediastinul superior)
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -20,29 +20,35 @@ images:
 - caption: Merrill — pagina 153, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill/p153_fig4.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Performed în either Decubit dorsal sau ortostatism, depending pe pacient
-  condition; se centrează plan mediosagital de corp la linia mediană grilă. se ajustează
-  pacient’s umeri la lie în same plan transversal. se extinde pacient’s neck slightly
-  și adjust it astfel încât plan mediosagital este perpendicular pe plane de receptorul
-  de imagine (Figs. 3.15 și 3.16). se centrează receptorul de imagine la nivelul laryngeal
-  prominence (pentru Căi Aeriene Superioare) sau manubriu sternal (pentru laringe
-  și superior mediastinum). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Efectuată fie în decubit dorsal, fie în ortostatism, în funcție de starea
+  pacientului; se centrează planul mediosagital al corpului pe linia mediană a grilei.
+  Se ajustează umerii pacientului pentru a se afla în același plan transversal. Se
+  extinde ușor gâtul pacientului și se ajustează astfel încât planul mediosagital
+  să fie perpendicular pe planul receptorului de imagine (Fig. 3.15 și 3.16). Se centrează
+  receptorul de imagine la nivelul proeminenței laringiene (pentru căile aeriene superioare)
+  sau al manubriului sternal (pentru laringe și mediastinul superior). Se efectuează
+  ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Air-filled Căi Aeriene Superioare, de la faringe la proximal trachea (pentru Căi
-  Aeriene Superioare)
-- Air-filled airway, de la midcervical la midthoracic region (pentru trachea și superior
-  mediastinum)
-- Absența rotației anatomice (simetrie bilaterală perfectă), cu procese spinoase echidistant
-  față de pedicles și aliniat cu linia mediană cervical corpuri
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Căi aeriene superioare umplute cu aer, de la faringe până la traheea proximală (pentru
+  căile aeriene superioare)
+- Căi aeriene umplute cu aer, de la regiunea cervicală medie până la regiunea toracală
+  medie (pentru trahee și mediastinul superior)
+- Absența rotației anatomice (simetrie bilaterală perfectă), cu procesele spinoase
+  echidistante față de pediculi și aliniate cu linia mediană a corpurilor vertebrale
+  cervicale
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-3-thoracic-viscera-torace-and-cai-aeriene-superioare-incidenta-antero-posterioara-ap-p150-merrill
 source_pages:
@@ -51,64 +57,62 @@ source_pages:
 - 152
 - 153
 source_sections:
-  anatomy: 'resulting imagine shows air-filled upper airway sau trachea și superior
-    mediastinum. Under normal conditions, airway este
+  anatomy: Imaginea rezultată prezintă căile aeriene superioare sau traheea și mediastinul
+    superior umplute cu aer. În condiții normale, căile aeriene se suprapun peste
+    umbra coloanei cervicale (Fig. 3.17 și 3.18).
+  collimation: • Se ajustează câmpul de iradiere la 12 țoli (30 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de linia cutanată pe laturi, dar nu mai mult de 10 țoli
+    (24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular prin planul mediosagital la nivelul proeminenței laringiene
+    (căile aeriene superioare) sau al manubriului sternal (laringele și mediastinul
+    superior)
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    superimposed pe shadow de coloană cervicală (Figs. 3.17 și 3.18).'
-  collimation: '• Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch
-    (2.5 cm) beyond skin line pe sides but nu more than 10 inches
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S) plasat
+    clar față de anatomia de interes
 
-    (24 cm). Place marker de lateralitate (D/S) în collimated expunere field.'
-  cr: '• perpendicular through planul mediosagital la nivelul laryngeal prominence
-    (upper airway) sau manubriu sternal (laringe și
+    • Căi aeriene superioare umplute cu aer, de la faringe până la traheea proximală
+    (pentru căile aeriene superioare)
 
-    superior mediastinum)'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Căi aeriene umplute cu aer, de la regiunea cervicală medie până la regiunea
+    toracală medie (pentru trahee și mediastinul superior)
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Absența rotației anatomice (simetrie bilaterală perfectă), cu procesele spinoase
+    echidistante față de pediculi și aliniate cu linia mediană a corpurilor vertebrale
+    cervicale
 
-    • Air-filled upper airway, de la faringe la proximal trachea (pentru upper airway)
+    • Detalii trabeculare osoase și țesuturile moi din jur'
+  part_pos: '• Se centrează planul mediosagital al corpului pe linia mediană a grilei.
 
-    • Air-filled airway, de la midcervical la midthoracic region (pentru trachea și
-    superior mediastinum)
+    • Se ajustează umerii pacientului pentru a se afla în același plan transversal.
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă), cu procese spinoase
-    echidistant față de pedicles și aliniat cu linia mediană cervical corpuri
+    • Se extinde ușor gâtul pacientului și se ajustează astfel încât planul mediosagital
+    să fie perpendicular pe planul receptorului de imagine (Fig. 3.15 și 3.16).
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se centrează plan mediosagital de corp la linia mediană grilă.
+    • Se centrează receptorul de imagine la nivelul proeminenței laringiene (pentru
+    căile aeriene superioare) sau al manubriului sternal (pentru laringe și mediastinul
+    superior).
 
-    • se ajustează pacient’s umeri la lie în same plan transversal.
-
-    • se extinde pacient’s neck slightly și adjust it astfel încât plan mediosagital
-    este perpendicular pe plane de receptorul de imagine (Figs. 3.15 și 3.16).
-
-    • se centrează receptorul de imagine la nivelul laryngeal prominence (pentru upper
-    airway) sau manubriu sternal (pentru laringe și superior mediastinum).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Performed în either în decubit dorsal sau ortostatism, depending
-    pe pacient condition
-  respiration: expunere este made during slow inspiration la ensure that trachea este
-    filled cu air.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală (raza centrală) plate: 10 × 12
-
-    inches (24 × 30 cm) longitudinal.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Efectuată fie în decubit dorsal, fie în ortostatism, în funcție de
+    starea pacientului
+  respiration: Expunerea se efectuează în timpul unei inspirații lente pentru a asigura
+    umplerea traheei cu aer.
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; placa receptorului de imagine: 10 × 12
+    țoli (24 × 30 cm), longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    150–153'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 150–153'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch
-    (2.5 cm) beyond skin line pe sides but nu more than 10 inches (24 cm). Place marker
-    de lateralitate (D/S) în collimated expunere field.
-title: Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-Posterioară
+  collimation: Se ajustează câmpul de iradiere la 12 țoli (30 cm) longitudinal și
+    la 1 țol (2.5 cm) dincolo de linia cutanată pe laturi, dar nu mai mult de 10 țoli
+    (24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx torace și torace și căi aeriene superioare — incidență antero-posterioară
   (AP) (Merrill)
 ---
-# Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx torace și torace și căi aeriene superioare — incidență antero-posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -132,19 +136,20 @@ title: Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-P
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Performed în either Decubit dorsal sau ortostatism, depending pe pacient condition; se centrează plan mediosagital de corp la linia mediană grilă. se ajustează pacient’s umeri la lie în same plan transversal. se extinde pacient’s neck slightly și adjust it astfel încât plan mediosagital este perpendicular pe plane de receptorul de imagine (Figs. 3.15 și 3.16). se centrează receptorul de imagine la nivelul laryngeal prominence (pentru Căi Aeriene Superioare) sau manubriu sternal (pentru laringe și superior mediastinum). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular through planul mediosagital la nivelul laryngeal prominence (Căi Aeriene Superioare) sau manubriu sternal (laringe și superior mediastinum)
+    - **Poziție Pacient:** Efectuată fie în decubit dorsal, fie în ortostatism, în funcție de starea pacientului; se centrează planul mediosagital al corpului pe linia mediană a grilei. Se ajustează umerii pacientului pentru a se afla în același plan transversal. Se extinde ușor gâtul pacientului și se ajustează astfel încât planul mediosagital să fie perpendicular pe planul receptorului de imagine (Fig. 3.15 și 3.16). Se centrează receptorul de imagine la nivelul proeminenței laringiene (pentru căile aeriene superioare) sau al manubriului sternal (pentru laringe și mediastinul superior). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular prin planul mediosagital la nivelul proeminenței laringiene (căi aeriene superioare) sau al manubriului sternal (laringele și mediastinul superior)
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** expunere este made during slow inspiration la ensure that trachea este filled cu air.
+    - **Comandă Respiratorie:** Expunerea se efectuează în timpul unei inspirații lente pentru a asigura umplerea traheei cu aer.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -158,19 +163,19 @@ title: Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-P
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch (2.5 cm) beyond skin line pe sides but nu more than 10 inches (24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 12 țoli (30 cm) longitudinal și la 1 țol (2.5 cm) dincolo de linia cutanată pe laturi, dar nu mai mult de 10 țoli (24 cm). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Air-filled Căi Aeriene Superioare, de la faringe la proximal trachea (pentru Căi Aeriene Superioare)
-    - Air-filled airway, de la midcervical la midthoracic region (pentru trachea și superior mediastinum)
-    - Absența rotației anatomice (simetrie bilaterală perfectă), cu procese spinoase echidistant față de pedicles și aliniat cu linia mediană cervical corpuri
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Căi aeriene superioare umplute cu aer, de la faringe până la traheea proximală (pentru căile aeriene superioare)
+    - Căi aeriene umplute cu aer, de la regiunea cervicală medie până la regiunea toracală medie (pentru trahee și mediastinul superior)
+    - Absența rotației anatomice (simetrie bilaterală perfectă), cu procesele spinoase echidistante față de pediculi și aliniate cu linia mediană a corpurilor vertebrale cervicale
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -179,6 +184,7 @@ title: Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-P
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -234,51 +240,3 @@ title: Rx Torace și Torace and Căi Aeriene Superioare — Incidență Antero-P
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 150–153](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-resulting imagine shows air-filled upper airway sau trachea și superior mediastinum. Under normal conditions, airway este
-superimposed pe shadow de coloană cervicală (Figs. 3.17 și 3.18).
-
-### collimation
-
-• Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch (2.5 cm) beyond skin line pe sides but nu more than 10 inches
-(24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• perpendicular through planul mediosagital la nivelul laryngeal prominence (upper airway) sau manubriu sternal (laringe și
-superior mediastinum)
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Air-filled upper airway, de la faringe la proximal trachea (pentru upper airway)
-• Air-filled airway, de la midcervical la midthoracic region (pentru trachea și superior mediastinum)
-• Absența rotației anatomice (simetrie bilaterală perfectă), cu procese spinoase echidistant față de pedicles și aliniat cu linia mediană cervical corpuri
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se centrează plan mediosagital de corp la linia mediană grilă.
-• se ajustează pacient’s umeri la lie în same plan transversal.
-• se extinde pacient’s neck slightly și adjust it astfel încât plan mediosagital este perpendicular pe plane de receptorul de imagine (Figs. 3.15 și 3.16).
-• se centrează receptorul de imagine la nivelul laryngeal prominence (pentru upper airway) sau manubriu sternal (pentru laringe și superior mediastinum).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Performed în either în decubit dorsal sau ortostatism, depending pe pacient condition
-
-### respiration
-
-expunere este made during slow inspiration la ensure that trachea este filled cu air.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală (raza centrală) plate: 10 × 12
-inches (24 × 30 cm) longitudinal.
-

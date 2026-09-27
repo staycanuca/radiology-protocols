@@ -18,6 +18,10 @@ contrast:
   timing: 65-70 secunde de la debutul injectării (fază venoasă portală/parenchimatoasă)
   trigger: N/A
   volume: 130-150 mL
+iris_reference:
+  chapter: Traumatisme & Politraumă
+  radiation_dose: Clasa 4 (Ridicată > 15 - 20 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-20'
 notes:
   additional_recons: Reconstrucții 3D VR pentru bazin și cutie toracică (fracturi
@@ -129,10 +133,14 @@ title: CT Politraumă Pan-Scan Whole Body (Protocol OHSU)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Traumatisme & Politraumă*).
+            - **Capitol Ghid IRIS:** *Traumatisme & Politraumă*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 4 (Ridicată > 15 - 20 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

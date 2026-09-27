@@ -24,11 +24,11 @@ centering: '• Tubul radiogen este poziționat la 2 cm sub și posterior de ung
   la 25 grade față de verticală.
 
   Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este
-  utilizată în principal pentru detectarea litiazei urinare radioopace / litiazei
-  urinare / calculilor radioopaci în regiunile proximale ale canalului submandibular,
-  acolo unde acesta traversează marginea liberă a mușchiului milohioidian. Această
-  modificare este denumită și incidență ocluzală oblică posterioară și ocluzală inferioară
-  postero-anterioară (PA).
+  utilizată în principal pentru detectarea calculilor radioopaci [sursa conține și
+  mențiuni contradictorii de litiază urinară] în regiunile proximale ale canalului
+  submandibular, acolo unde acesta traversează marginea liberă a mușchiului milohioidian.
+  Această modificare este denumită și incidență ocluzală oblică posterioară și ocluzală
+  inferioară postero-anterioară (PA).
 
   Ocluzală oblică inferioară Sinonim: ocluzală oblică.
 
@@ -52,6 +52,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-ocluzala-direction-and-centring-of-the-x-ray-beam-p328-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -135,32 +139,30 @@ title: Rx Radiografie dentară ocluzală Direcția și centrarea fasciculului de
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
-• Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
-• Filmul radiologic se sprijină pe suprafețele ocluzale ale dinților inferiori, cu partea filmului radiologic orientată spre planșeul bucal. Convenția pentru poziționarea filmului radiologic este ca axa longitudinală a filmului radiologic să fie orientată antero-posterior în cavitatea bucală (adică paralel cu planul sagital).
-• Marginea filmului radiologic adiacentă obrazului trebuie să se extindă 1cm lateral față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
-• Filmul radiologic trebuie poziționat cât mai posterior posibil, atât cât tolerează pacientul, iar pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
-• Operatorul susține apoi capul pacientului și îl rotește în partea opusă părții de interes și, simultan, ridică bărbia.
-• Această rotație și ridicare permit poziționarea tubului radiogen sub unghiul mandibulei.
-Exemplu de ocluzală oblică inferioară Poziționarea pacientului și a tubului radiogen pentru ocluzala oblică inferioară a mandibulei Poziționarea alternativă a pacientului și a tubului radiogen pentru ocluzala oblică inferioară a mandibulei Ocluzală oblică a mandibulei
-    - **Punct de Centrare Fascicul:** • Tubul radiogen este poziționat la 2 cm sub și posterior de unghiul mandibulei.
-• Punctul de centrare este unghiul mandibulei, cu un unghi ascendent (cranial) față de planul filmului radiologic de 115 grade.
-• Este important să se asigure că fasciculul este paralel cu lama linguală a mandibulei.
-Tehnică alternativă La pacienții vârstnici sau cu gât scurt, poate fi dificilă obținerea imaginii prin această tehnică, dar a fost concepută o modificare eficientă (Semple și Gibb, 1982):
-• Pacientul este așezat pe un scaun adiacent unei suprafețe plane (de exemplu, o masă sau o suprafață de lucru). Cu filmul radiologic poziționat intraoral, capul este înclinat astfel încât fruntea și nasul să fie în contact cu masa de examinare, iar capul este rotit cu partea afectată la 20 grade distanță de masa de examinare.
-• Tubul radiogen este poziționat deasupra și posterior de umărul pacientului. Se utilizează aceleași puncte de centrare ca cele descrise mai sus, cu tubul înclinat la 25 grade față de verticală.
-Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este utilizată în principal pentru detectarea litiazei urinare radioopace / litiazei urinare / calculilor radioopaci în regiunile proximale ale canalului submandibular, acolo unde acesta traversează marginea liberă a mușchiului milohioidian. Această modificare este denumită și incidență ocluzală oblică posterioară și ocluzală inferioară postero-anterioară (PA).
-Ocluzală oblică inferioară Sinonim: ocluzală oblică.
-Această incidență evidențiază țesuturile moi din aspectele mijlociu și posterior ale planșeului bucal.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat confortabil pe scaun, cu capul sprijinit. Planul mediosagital este vertical, iar planul ocluzal este orizontal.
+        - Filmul ocluzal este plasat orizontal în gura pacientului, pe partea de interes.
+        - Filmul radiologic se sprijină pe suprafețele ocluzale ale dinților inferiori, cu partea filmului radiologic orientată spre planșeul bucal. Convenția pentru poziționarea filmului radiologic este ca axa longitudinală a filmului radiologic să fie orientată antero-posterior în cavitatea bucală (adică paralel cu planul sagital).
+        - Marginea filmului radiologic adiacentă obrazului trebuie să se extindă 1cm lateral față de suprafețele bucale ale dinților posteriori care urmează să fie examinați.
+        - Filmul radiologic trebuie poziționat cât mai posterior posibil, atât cât tolerează pacientul, iar pacientul trebuie să muște ușor pentru a evita urmele de presiune pe filmul radiologic.
+        - Operatorul susține apoi capul pacientului și îl rotește în partea opusă părții de interes și, simultan, ridică bărbia.
+        - Această rotație și ridicare permit poziționarea tubului radiogen sub unghiul mandibulei. Exemplu de ocluzală oblică inferioară Poziționarea pacientului și a tubului radiogen pentru ocluzala oblică inferioară a mandibulei Poziționarea alternativă a pacientului și a tubului radiogen pentru ocluzala oblică inferioară a mandibulei Ocluzală oblică a mandibulei
+    - **Punct de Centrare Fascicul:**
+        - Tubul radiogen este poziționat la 2 cm sub și posterior de unghiul mandibulei.
+        - Punctul de centrare este unghiul mandibulei, cu un unghi ascendent (cranial) față de planul filmului radiologic de 115 grade.
+        - Este important să se asigure că fasciculul este paralel cu lama linguală a mandibulei. Tehnică alternativă La pacienții vârstnici sau cu gât scurt, poate fi dificilă obținerea imaginii prin această tehnică, dar a fost concepută o modificare eficientă (Semple și Gibb, 1982):
+        - Pacientul este așezat pe un scaun adiacent unei suprafețe plane (de exemplu, o masă sau o suprafață de lucru). Cu filmul radiologic poziționat intraoral, capul este înclinat astfel încât fruntea și nasul să fie în contact cu masa de examinare, iar capul este rotit cu partea afectată la 20 grade distanță de masa de examinare.
+        - Tubul radiogen este poziționat deasupra și posterior de umărul pacientului. Se utilizează aceleași puncte de centrare ca cele descrise mai sus, cu tubul înclinat la 25 grade față de verticală. Modificări ale tehnicii Folosind expunerea pentru părți moi, această incidență este utilizată în principal pentru detectarea calculilor radioopaci [sursa conține și mențiuni contradictorii de litiază urinară] în regiunile proximale ale canalului submandibular, acolo unde acesta traversează marginea liberă a mușchiului milohioidian. Această modificare este denumită și incidență ocluzală oblică posterioară și ocluzală inferioară postero-anterioară (PA). Ocluzală oblică inferioară Sinonim: ocluzală oblică. Această incidență evidențiază țesuturile moi din aspectele mijlociu și posterior ale planșeului bucal.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -196,6 +198,7 @@ Această incidență evidențiază țesuturile moi din aspectele mijlociu și po
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

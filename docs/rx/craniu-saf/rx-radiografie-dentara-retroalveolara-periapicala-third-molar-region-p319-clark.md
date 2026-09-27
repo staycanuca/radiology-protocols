@@ -37,6 +37,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-radiografie-dentara-retroalveolara-periapicala-third-molar-region-p319-clark/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -109,24 +113,25 @@ title: Rx Radiografie Dentară Retroalveolară (Periapicală) Regiunea molarului
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Marginea anterioară superioară a filmului radiologic de dimensiunea 2 este fixată ferm pe brațele suportului pentru ace, asigurându-se că fața anterioară (sau suprafața de examinare) va fi orientată spre tubul de raze X atunci când este poziționată intraoral.
-• Filmul radiologic este poziționat în șanțul lingual cât mai posterior posibil.
-• Pacientul este instruit să-și apropie lent dinții.
-Aceasta are ca efect coborârea planșeului bucal, oferind astfel mai mult spațiu pentru acomodarea filmului radiologic.
-• Simultan, operatorul poziționează suportul pentru film radiologic astfel încât marginea anterioară a filmului radiologic să se afle adiacent aspectului mezial al primului molar mandibular. Este important ca acest lucru să fie efectuat treptat, pentru a reduce disconfortul pacientului.
-• Pacientul este instruit să țină mânerele suportului pentru ace.
-    - **Punct de Centrare Fascicul:** • Tubul este centrat și angulat conform indicațiilor din tabelul de examinare de la p. 298 pentru regiunea molarilor mandibulari.
-• Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea orizontală, iar filmul radiologic să fie expus.
-304 Hemostate chirurgicale modificate cu bloc de ocluzie lipit Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a molarului de minte mandibular. Suportul este stabilizat prin Mâna pacientului. Radiografia retroalveolară a molarului de minte inferior stâng evidențiind forma complexă a rădăcinilor și apropierea vârfurilor rădăcinilor de canalul mandibular.
+    - **Poziție Pacient:**
+        - Marginea anterioară superioară a filmului radiologic de dimensiunea 2 este fixată ferm pe brațele suportului pentru ace, asigurându-se că fața anterioară (sau suprafața de examinare) va fi orientată spre tubul de raze X atunci când este poziționată intraoral.
+        - Filmul radiologic este poziționat în șanțul lingual cât mai posterior posibil.
+        - Pacientul este instruit să-și apropie lent dinții. Aceasta are ca efect coborârea planșeului bucal, oferind astfel mai mult spațiu pentru acomodarea filmului radiologic.
+        - Simultan, operatorul poziționează suportul pentru film radiologic astfel încât marginea anterioară a filmului radiologic să se afle adiacent aspectului mezial al primului molar mandibular. Este important ca acest lucru să fie efectuat treptat, pentru a reduce disconfortul pacientului.
+        - Pacientul este instruit să țină mânerele suportului pentru ace.
+    - **Punct de Centrare Fascicul:**
+        - Tubul este centrat și angulat conform indicațiilor din tabelul de examinare de la p. 298 pentru regiunea molarilor mandibulari.
+        - Tubul de raze X trebuie poziționat astfel încât fasciculul să fie perpendicular pe suprafețele labiale sau vestibulare ale dinților, pentru a preveni suprapunerea orizontală, iar filmul radiologic să fie expus. 304 Hemostate chirurgicale modificate cu bloc de ocluzie lipit Poziționarea pacientului și a tubului de raze X pentru radiografia retroalveolară a molarului de minte mandibular. Suportul este stabilizat prin Mâna pacientului. Radiografia retroalveolară a molarului de minte inferior stâng evidențiind forma complexă a rădăcinilor și apropierea vârfurilor rădăcinilor de canalul mandibular.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -162,6 +167,7 @@ Aceasta are ca efect coborârea planșeului bucal, oferind astfel mai mult spaț
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

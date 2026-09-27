@@ -1,9 +1,9 @@
 ---
 author: Referință Merrill
-breathing: Expose la end de Inspir profund complet.
+breathing: Expunere la sfârșitul inspirului profund complet
 category: torace
-centering: orientat la un unghi de 15 sau 20 grade cranial la center de receptorul
-  de imagine și entering manubriu sternal
+centering: Orientat la un unghi de 15 sau 20 grade cranial, spre centrul receptorului
+  de imagine, cu punctul de intrare la manubriul sternal.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -13,107 +13,109 @@ images:
 - caption: Merrill — pagina 196, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-pulmonary-apices-incidenta-ap-axiala-p194-merrill/p196_fig2.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: This incidență este recommended when pacientul cannot fie plasat în lordotic
-  poziție. Incidență AP Axială este used în preference la Incidență PA Axială în hypersthenic
-  pacienți și pacienți whose clavicles occupy high poziție. Incidență AP Axială makes
-  it possible la separate apical și clavicular shadows fără undue distortion de apexuri
-  (vârfuri pulmonare).
-position: Examine pacientul în ortostatism sau Decubit dorsal poziție.; se centrează
-  receptorul de imagine la planul mediosagital la nivelul T2. se ajustează pacient’s
-  corp so that it este nu rotit, ensuring MSP este perpendicular pe receptorul de
-  imagine (RI) plane. se flectează pacient’s coate și place mâinile pe șoldurile cu
-  palms out sau pronate mâinile beside șoldurile. Place umerii back pe / sprijinit
-  de grilă și adjust them la lie în same plan transversal (Fig. 3.63). se efectuează
-  ecranarea gonadelor cu șorț plumbat.
+notes: Această incidență este recomandată când pacientul nu poate fi plasat în poziție
+  lordotică. Incidența AP axială este utilizată cu preferință față de incidența PA
+  axială la pacienții hiperstenici și la pacienții ale căror clavicule ocupă o poziție
+  înaltă. Incidența AP axială permite separarea umbrelor apicale și claviculare fără
+  distorsionarea excesivă a apexurilor (vârfurilor pulmonare).
+position: Se examinează pacientul în ortostatism sau în decubit dorsal. Se centrează
+  receptorul de imagine la planul mediosagital, la nivelul T2. Se ajustează corpul
+  pacientului astfel încât să nu fie rotit, asigurând perpendicularitatea MSP pe planul
+  receptorului de imagine (RI). Se flectează coatele pacientului și se plasează mâinile
+  pe șolduri, cu palmele orientate în afară, sau se pronază mâinile lângă șolduri.
+  Se plasează umerii posterior, pe sau sprijiniți de grilă, și se ajustează astfel
+  încât să se afle în același plan transversal (Fig. 3.63). Se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- apexuri (vârfuri pulmonare) în their entirety
-- superior lung region adjacent la apexuri (vârfuri pulmonare)
-- Clavicles located superior la apexuri (vârfuri pulmonare) și oriented horizontally
-  cu sternal ends overlapping first sau second rib
-- Sternal ends de clavicles echidistant față de coloană vertebrală
-- Coaste (Grilaj Costal) distorted, cu their anterior și posterior portions superimposed
-- Pulmonary vascular markings de apexuri (vârfuri pulmonare)
-sid_dff: Minimum SID of 72 inches (183 cm) is recommended to decrease magnification
-  of the heart and to increase spatial resolution of the thoracic structures.
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Apexurile (vârfurile pulmonare) în întregime
+- Regiunea pulmonară superioară adiacentă apexurilor (vârfurilor pulmonare)
+- Claviculele situate superior față de apexuri (vârfurile pulmonare) și orientate
+  orizontal, cu capetele sternale suprapuse peste prima sau a doua coastă
+- Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+- Coastele (grilajul costal) deformate, cu porțiunile lor anterioare și posterioare
+  suprapuse
+- Desenul vascular pulmonar de la apexuri (vârfurile pulmonare)
+sid_dff: Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea
+  inimii și a crește rezoluția spațială a structurilor toracice.
 slug: rx-pulmonary-apices-incidenta-ap-axiala-p194-merrill
 source_pages:
 - 194
 - 195
 - 196
 source_sections:
-  anatomy: AP axial incidență shows apexuri (vârfuri pulmonare) culcat below clavicles
+  anatomy: Incidența axială AP arată apexurile (vârfurile pulmonare) situate sub clavicule
     (Fig. 3.64).
-  collimation: • Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Approximately
-    1 inch (2.5 cm) de field light trebuie să fie seen above shadow de umeri. Place
-    marker de lateralitate (D/S) în collimated expunere field.
-  cr: • orientat la un unghi de 15 sau 20 grade cranial la center de receptorul de
-    imagine și entering manubriu sternal
-  criteria: 'Criterii radiologice de calitate imaginii:
+  collimation: • Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm). Aproximativ
+    1 țol (2,5 cm) din lumina câmpului trebuie să fie vizibil deasupra umbrei umerilor.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Orientat la un unghi de 15 sau 20 grade cranial, spre centrul receptorului
+    de imagine, cu punctul de intrare la manubriul sternal.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • apexuri (vârfuri pulmonare) în their entirety
+    • Apexurile (vârfurile pulmonare) în întregime
 
-    • superior lung region adjacent la apexuri (vârfuri pulmonare)
+    • Regiunea pulmonară superioară adiacentă apexurilor (vârfurilor pulmonare)
 
-    • Clavicles located superior la apexuri (vârfuri pulmonare) și oriented horizontally
-    cu sternal ends overlapping first sau second rib
+    • Claviculele situate superior față de apexuri (vârfurile pulmonare) și orientate
+    orizontal, cu extremitățile sternale suprapuse peste prima sau a doua coastă
 
-    • Sternal ends de clavicles echidistant față de coloană vertebrală
+    • Extremitățile sternale ale claviculelor echidistante față de coloana vertebrală
 
-    • coaste distorted, cu their anterior și posterior portions superimposed
+    • Coastele distorsionate, cu porțiunile lor anterioare și posterioare suprapuse
 
-    • Pulmonary vascular markings de apexuri (vârfuri pulmonare)'
-  notes: 'This incidență este recommended when pacientul cannot fie plasat în lordotic
-    poziție.
+    • Desenul vascular pulmonar al apexurilor (vârfurilor pulmonare)'
+  notes: 'Această incidență este recomandată când pacientul nu poate fi plasat în
+    poziție lordotică.
 
-    AP axial incidență este used în preference la PA axial incidență în hypersthenic
-    pacienți și pacienți whose clavicles occupy high poziție. AP axial incidență makes
-    it possible la separate apical și clavicular shadows fără undue distortion de
-    apexuri (vârfuri pulmonare).'
-  part_pos: '• se centrează receptorul de imagine la planul mediosagital la nivelul
+    Incidența AP axială este utilizată cu preferință față de incidența PA axială la
+    pacienții hiperstenici și la pacienții ale căror clavicule ocupă o poziție înaltă.
+    Incidența AP axială permite separarea umbrelor apicale și claviculare fără distorsionarea
+    excesivă a apexurilor (vârfurilor pulmonare).'
+  part_pos: '• Se centrează receptorul de imagine la planul mediosagital, la nivelul
     T2.
 
-    • se ajustează pacient’s corp so that it este nu rotit, ensuring MSP este perpendicular
-    pe receptorul de imagine (RI) plane.
+    • Se ajustează corpul pacientului astfel încât să nu fie rotit, asigurând perpendicularitatea
+    MSP pe planul receptorului de imagine (RI).
 
-    • se flectează pacient’s coate și place mâinile pe șoldurile cu palms out sau
-    pronate mâinile beside șoldurile.
+    • Se flectează coatele pacientului și se plasează mâinile pe șolduri, cu palmele
+    orientate în afară, sau se pronază mâinile lângă șolduri.
 
-    • Place umerii back pe / sprijinit de grilă și adjust them la lie în same plan
-    transversal (Fig. 3.63).
+    • Se plasează umerii posterior, pe sau sprijiniți de grilă, și se ajustează astfel
+    încât să se afle în același plan transversal (Fig. 3.63).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • Examine pacientul în ortostatism sau decubit dorsal.
-  respiration: Expose la end de Inspir profund complet.
-  sid: 'Minimum SID de 72 inches (183 cm) este recommended la decrease magnification
-    de cordul și la increase spatial resolution de thoracic
-
-    structures.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) transversal sau 14 × 17 inches (35 × 43 cm)'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Se examinează pacientul în ortostatism sau decubit dorsal.
+  respiration: Expunere la sfârșitul inspirului profund complet
+  sid: O SID minimă de 72 țoli (183 cm) este recomandată pentru a reduce magnifierea
+    cordului și a crește rezoluția spațială a structurilor toracice.
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptor de imagine: 10 × 12 țoli (24
+    × 30 cm) transversal sau 14 × 17 țoli (35 × 43 cm)'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    194–196'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 194–196'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Approximately
-    1 inch (2.5 cm) de field light trebuie să fie seen above shadow de umerii. Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Vârfuri Pulmonare (Apexuri) — Incidență AP Axială (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm). Aproximativ
+    1 țol (2,5 cm) din lumina câmpului trebuie să fie vizibil deasupra umbrei umerilor.
+    Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Radiografie a apexurilor pulmonare — incidență axială AP (Merrill)
 ---
-# Rx Vârfuri Pulmonare (Apexuri) — Incidență AP Axială (Merrill)
+# Radiografie a apexurilor pulmonare — incidență axială AP (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -137,19 +139,20 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență AP Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Examine pacientul în ortostatism sau Decubit dorsal poziție.; se centrează receptorul de imagine la planul mediosagital la nivelul T2. se ajustează pacient’s corp so that it este nu rotit, ensuring MSP este perpendicular pe receptorul de imagine (RI) plane. se flectează pacient’s coate și place mâinile pe șoldurile cu palms out sau pronate mâinile beside șoldurile. Place umerii back pe / sprijinit de grilă și adjust them la lie în same plan transversal (Fig. 3.63). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat la un unghi de 15 sau 20 grade cranial la center de receptorul de imagine și entering manubriu sternal
-    - **Distanță Focar-Film (DFF / SID):** Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and to increase spatial resolution of the thoracic structures.
-    - **Comandă Respiratorie:** Expose la end de Inspir profund complet.
+    - **Poziție Pacient:** Se examinează pacientul în ortostatism sau în decubit dorsal. Se centrează receptorul de imagine la planul mediosagital, la nivelul T2. Se ajustează corpul pacientului astfel încât să nu fie rotit, asigurând perpendicularitatea MSP pe planul receptorului de imagine (RI). Se flectează coatele pacientului și se plasează mâinile pe șolduri, cu palmele orientate în afară, sau se pronază mâinile lângă șolduri. Se plasează umerii posterior, pe sau sprijiniți de grilă, și se ajustează astfel încât să se afle în același plan transversal (Fig. 3.63). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientat la un unghi de 15 sau 20 grade cranial, spre centrul receptorului de imagine, cu punctul de intrare la manubriul sternal.
+    - **Distanță Focar-Film (DFF / SID):** Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.
+    - **Comandă Respiratorie:** Expunere la sfârșitul inspirului profund complet
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -159,25 +162,25 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență AP Axială (Merrill)
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
     | **Sarcină / Produs Curent-Timp (mAs)** | DE CONFIGURAT PE APARAT |
-    | **Distanță Focar-Film (DFF / SID)** | Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and to increase spatial resolution of the thoracic structures. |
+    | **Distanță Focar-Film (DFF / SID)** | Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice. |
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Approximately 1 inch (2.5 cm) de field light trebuie să fie seen above shadow de umerii. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm). Aproximativ 1 țol (2,5 cm) din lumina câmpului trebuie să fie vizibil deasupra umbrei umerilor. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - apexuri (vârfuri pulmonare) în their entirety
-    - superior lung region adjacent la apexuri (vârfuri pulmonare)
-    - Clavicles located superior la apexuri (vârfuri pulmonare) și oriented horizontally cu sternal ends overlapping first sau second rib
-    - Sternal ends de clavicles echidistant față de coloană vertebrală
-    - Coaste (Grilaj Costal) distorted, cu their anterior și posterior portions superimposed
-    - Pulmonary vascular markings de apexuri (vârfuri pulmonare)
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Apexurile (vârfurile pulmonare) în întregime
+    - Regiunea pulmonară superioară adiacentă apexurilor (vârfurilor pulmonare)
+    - Claviculele situate superior față de apexuri (vârfurile pulmonare) și orientate orizontal, cu capetele sternale suprapuse peste prima sau a doua coastă
+    - Capetele sternale ale claviculelor echidistante față de coloana vertebrală
+    - Coastele (grilajul costal) deformate, cu porțiunile lor anterioare și posterioare suprapuse
+    - Desenul vascular pulmonar de la apexuri (vârfurile pulmonare)
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -187,8 +190,9 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență AP Axială (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    This incidență este recommended when pacientul cannot fie plasat în lordotic poziție. Incidență AP Axială este used în preference la Incidență PA Axială în hypersthenic pacienți și pacienți whose clavicles occupy high poziție. Incidență AP Axială makes it possible la separate apical și clavicular shadows fără undue distortion de apexuri (vârfuri pulmonare).
+    Această incidență este recomandată când pacientul nu poate fi plasat în poziție lordotică. Incidența AP axială este utilizată cu preferință față de incidența PA axială la pacienții hiperstenici și la pacienții ale căror clavicule ocupă o poziție înaltă. Incidența AP axială permite separarea umbrelor apicale și claviculare fără distorsionarea excesivă a apexurilor (vârfurilor pulmonare).
 
 
 ### 🖼️ Imagini
@@ -217,7 +221,7 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență AP Axială (Merrill)
 
     1. **Identificarea și verificarea pacientului:** verificare identitate, zonă de examinat, consimțământ conform procedurii și evaluarea posibilității unei sarcini, când este relevantă.
     2. **Pregătire:** îndepărtarea oricăror obiecte radiopace (bijuterii, agrafe, fermoare, proteze, pansamente dense).
-    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Minimum SID of 72 inches (183 cm) is recommended to decrease magnification of the heart and to increase spatial resolution of the thoracic structures.).
+    3. **Poziționare precisă:** alinierea receptorului de imagine și a tubului la distanța prescrisă (Se recomandă o SID minimă de 72 inci (183 cm), pentru a reduce magnificarea inimii și a crește rezoluția spațială a structurilor toracice.).
     4. **Colimare strictă:** adaptarea fasciculului strict la regiunea de diagnostic pentru scăderea iradierii și reducerea radiației difuze.
     5. **Radioprotecție:** verificarea [politicii RX](../radioprotectie.md), cu măsuri distincte pentru pacient, personal și însoțitor.
 
@@ -225,60 +229,3 @@ title: Rx Vârfuri Pulmonare (Apexuri) — Incidență AP Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 194–196](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP axial incidență shows apexuri (vârfuri pulmonare) culcat below clavicles (Fig. 3.64).
-
-### collimation
-
-• Adjust câmp de iradiere la 10 × 12 inches (24 × 30 cm). Approximately 1 inch (2.5 cm) de field light trebuie să fie seen above shadow de umeri. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• orientat la un unghi de 15 sau 20 grade cranial la center de receptorul de imagine și entering manubriu sternal
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• apexuri (vârfuri pulmonare) în their entirety
-• superior lung region adjacent la apexuri (vârfuri pulmonare)
-• Clavicles located superior la apexuri (vârfuri pulmonare) și oriented horizontally cu sternal ends overlapping first sau second rib
-• Sternal ends de clavicles echidistant față de coloană vertebrală
-• coaste distorted, cu their anterior și posterior portions superimposed
-• Pulmonary vascular markings de apexuri (vârfuri pulmonare)
-
-### notes
-
-This incidență este recommended when pacientul cannot fie plasat în lordotic poziție.
-AP axial incidență este used în preference la PA axial incidență în hypersthenic pacienți și pacienți whose clavicles occupy high poziție. AP axial incidență makes it possible la separate apical și clavicular shadows fără undue distortion de apexuri (vârfuri pulmonare).
-
-### part_pos
-
-• se centrează receptorul de imagine la planul mediosagital la nivelul T2.
-• se ajustează pacient’s corp so that it este nu rotit, ensuring MSP este perpendicular pe receptorul de imagine (RI) plane.
-• se flectează pacient’s coate și place mâinile pe șoldurile cu palms out sau pronate mâinile beside șoldurile.
-• Place umerii back pe / sprijinit de grilă și adjust them la lie în same plan transversal (Fig. 3.63).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Examine pacientul în ortostatism sau decubit dorsal.
-
-### respiration
-
-Expose la end de Inspir profund complet.
-
-### sid
-
-Minimum SID de 72 inches (183 cm) este recommended la decrease magnification de cordul și la increase spatial resolution de thoracic
-structures.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) transversal sau 14 × 17 inches (35 × 43 cm)
-

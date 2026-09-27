@@ -4,8 +4,8 @@ breathing: tehnica necesită un timp minim de expunere de 2 sau 3 secunde, cu o 
   mA scăzută.
 category: coloana
 centering: perpendiculară pe axa longitudinală a Coloanei Toracale (vezi NOTA 2).
-  Raza centrală se orientează spre T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară
-  (manubriul sternal) sau 7 la 8 inches [18 la 20 cm] sub vertebra proeminentă (apofiza
+  Raza centrală se orientează spre T7 (3 la 4 țoli [8 la 10 cm] sub incizura jugulară
+  (manubriul sternal) sau 7 la 8 țoli [18 la 20 cm] sub vertebra proeminentă (apofiza
   spinoasă C7)). Se centrează receptorul de imagine pe raza centrală.
 clinical_indications:
 - Patologie care implică Coloana Toracală, cum ar fi compresia, suspiciunea de fractură,
@@ -23,6 +23,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 8.85
     incidență de profil a coloanei vertebrale toracale.)
   url: assets/images/protocols/bontrager/rx-coloana-toracala-profil-lateral-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: o cantitate optimă de suport sub talie va determina ca vertebrele inferioare
@@ -65,7 +69,7 @@ quality_criteria:
 - 'Din cauza OID mai mare pe o parte, coastele posterioare (Grilajul Costal) nu vor
   fi suprapuse direct, în special dacă pacientul are torace lat. Absența rotației
   anatomice: claviculele echidistante față de linia apofizelor spinoase, indicată
-  printr-un spațiu mai mic de ½ inch (1.25 cm) între coastele posterioare (Grilajul
+  printr-un spațiu mai mic de ½ țol (1.25 cm) între coastele posterioare (Grilajul
   Costal).'
 - Colimare la aria de interes diagnostic. Expunere
 - expunere optimă a receptorului de imagine și contrast. Demonstrarea clară a marginilor
@@ -110,17 +114,18 @@ title: Rx Coloană Toracală Profil (Lateral)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: poziția pacientului în Decubit lateral sau Ortostatism, în poziție de Decubit lateral, cu capul pe o pernă și genunchii flectați. Pentru poziția în Ortostatism, se plasează brațele întinse, cu greutatea distribuită uniform pe ambele picioare.; Regiune anatomică: Se aliniază jumătatea posterioară a toracelui (între planul mediocoronal și aspectul posterior al toracelui) cu raza centrală și cu linia mediană a mesei și/sau a receptorului de imagine (Fig. 8.83). Se ridică brațele pacientului la unghiuri drepte față de corp, cu coatele flectate. Se susține talia astfel încât întreaga coloană vertebrală să fie aproape paralelă cu masa. Se palpează apofizele spinoase pentru a determina alinierea (vezi NOTA 2). Se flectează șoldurile și genunchii, cu suport între genunchi. Se verifică absența rotației: claviculele sunt riguros echidistante față de linia proceselor spinoase ale umerilor sau Bazinului (bazin (pelvis)) exists.
-    - **Punct de Centrare Fascicul:** perpendiculară pe axa longitudinală a Coloanei Toracale (vezi NOTA 2). Raza centrală se orientează spre T7 (3 la 4 inches [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 7 la 8 inches [18 la 20 cm] sub vertebra proeminentă (apofiza spinoasă C7)). Se centrează receptorul de imagine pe raza centrală.
+    - **Punct de Centrare Fascicul:** perpendiculară pe axa longitudinală a Coloanei Toracale (vezi NOTA 2). Raza centrală se orientează spre T7 (3 la 4 țoli [8 la 10 cm] sub incizura jugulară (manubriul sternal) sau 7 la 8 țoli [18 la 20 cm] sub vertebra proeminentă (apofiza spinoasă C7)). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** tehnica necesită un timp minim de expunere de 2 sau 3 secunde, cu o valoare mA scăzută.
 
@@ -148,7 +153,7 @@ title: Rx Coloană Toracală Profil (Lateral)
     - Se obține o imagine de profil utilizând incidența latero-cervicotoracică (a înotătorului) dacă porțiunea superioară a coloanei toracale prezintă un interes deosebit (Figs. 8.84 și 8.85). poziție
     - Spațiile discale intervertebrale trebuie să fie deschise.
     - Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase, indicată prin suprapunerea aspectelor posterioare ale corpurilor vertebrale.
-    - Din cauza OID mai mare pe o parte, coastele posterioare (Grilajul Costal) nu vor fi suprapuse direct, în special dacă pacientul are torace lat. Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase, indicată printr-un spațiu mai mic de ½ inch (1.25 cm) între coastele posterioare (Grilajul Costal).
+    - Din cauza OID mai mare pe o parte, coastele posterioare (Grilajul Costal) nu vor fi suprapuse direct, în special dacă pacientul are torace lat. Absența rotației anatomice: claviculele echidistante față de linia apofizelor spinoase, indicată printr-un spațiu mai mic de ½ țol (1.25 cm) între coastele posterioare (Grilajul Costal).
     - Colimare la aria de interes diagnostic. Expunere
     - expunere optimă a receptorului de imagine și contrast. Demonstrarea clară a marginilor osoase și a desenului trabecular al coloanei toracale.
     - fără mișcare.
@@ -162,6 +167,7 @@ title: Rx Coloană Toracală Profil (Lateral)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     o cantitate optimă de suport sub talie va determina ca vertebrele inferioare să fie la aceeași distanță de masa radiologică precum vertebrele superioare. pacientul cu șolduri late va necesita un suport considerabil mai mare sub talie pentru a preveni lăsarea. pacientul cu umeri lați poate necesita o angulație cefalică a razei centrale de 10° la 15° dacă talia nu este sprijinită. fără AEC, cu Tehnică de estompare prin respirație superficială (tehnică de respirație). Coloană Toracală DE RUTINĂ AP profil Fig. 8.83 profil stâng Coloană Toracală, cu suport corect pentru talie. Fig. 8.84 profil toracal cu Tehnică de estompare prin respirație superficială (tehnică de respirație). Spații articulare intervertebrale Corpuri vertebrale toracale Găuri intervertebrale (D și S) Fig. 8.85 profil Coloană Toracală.

@@ -1,0 +1,14 @@
+{
+  "protocols": 1687,
+  "modalities": {
+    "ct": 937,
+    "eco": 22,
+    "fluoro": 13,
+    "irm": 37,
+    "rx": 678
+  },
+  "catalog_bytes": 4709609,
+  "errors": [],
+  "provider_tests": "Simulated providers; no live provider validation",
+  "visual_check": "Not performed: no browser provider connected"
+}

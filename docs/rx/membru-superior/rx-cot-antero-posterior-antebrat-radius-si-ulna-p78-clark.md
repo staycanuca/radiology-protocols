@@ -9,7 +9,8 @@ clinical_indications:
 - 'Cot, incidență antero-posterioară (AP): antebrațul în contact.'
 images:
 - caption: Radiografie antero-posterioară a cotului în flexie parțială
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_1.jpeg
 - caption: 'Radiografie antero-posterioară a cotului: brațul în contact cu caseta'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
@@ -23,6 +24,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -57,14 +62,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
+  mas: Conform AEC / grosimii anatomice
+title: Rx Cot antero-posterior (AP) – antebraț (radius și ulnă)
 ---
-# Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
+# Rx Cot antero-posterior (AP) – antebraț (radius și ulnă)
 
 
 <div class="rx-meta-bar">
@@ -88,20 +93,22 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
-• Fața posterioară a humerusului este plasată pe masa de examinare, cu palma orientată în sus.
-• Caseta este plasată sub antebraț, cu centrul sub articulația cotului.
-• Brațul este ajustat astfel încât epicondilii medial și lateral ai humerusului să fie la distanță egală față de filmul radiologic.
-• Membrul este sprijinit și imobilizat în această poziție.
+    - **Poziție Pacient:**
+        - Pacientul stă așezat pe scaun lângă masa de examinare, cu partea afectată sprijinită pe masă.
+        - Fața posterioară a humerusului este plasată pe masa de examinare, cu palma orientată în sus.
+        - Caseta este plasată sub antebraț, cu centrul sub articulația cotului.
+        - Brațul este ajustat astfel încât epicondilii medial și lateral ai humerusului să fie la distanță egală față de filmul radiologic.
+        - Membrul este sprijinit și imobilizat în această poziție.
     - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată la mijlocul distanței dintre epicondilii humerusului.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -113,13 +120,13 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
@@ -137,6 +144,7 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -149,7 +157,7 @@ title: Rx Cot Antero-Posterior (AP) - Antebraț (Radius și Ulna)
 
 ![Radiografie antero-posterioară a cotului în flexie parțială](../../assets/images/protocols/clark/rx-cot-antero-posterior-antebrat-radius-si-ulna-p78-clark/fig_1.jpeg)
 
-<figcaption><strong>Radiografie antero-posterioară a cotului în flexie parțială</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie antero-posterioară a cotului în flexie parțială</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

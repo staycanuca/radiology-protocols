@@ -130,6 +130,7 @@ position: 'Decubit dorsal adaptat ferestrei acustice / pregătire: À jeun (post
             - **Nivel de Iradiere Estimată:** `Clasa 0 (Fără Iradiere / Unde Mecanice - Ultrasunete)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient &amp; Echipament (Transductori)__
 
     ---

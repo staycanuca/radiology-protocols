@@ -40,6 +40,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-lower-coaste-grilaj-costal-antero-posterior-basic-p237-clark/fig_4.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -104,22 +108,24 @@ title: Rx coaste inferioare (grilaj costal) antero-posterior (AP) (incidență d
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal pe masa de examinare, cu planul mediosagital coincident cu linia mediană a mesei și a mecanismului Bucky.
-• Spinele iliace antero-superioare trebuie să fie echidistante față de suprafața mesei.
-• Caseta este plasată transversal, cu marginea caudală poziționată imediat sub marginea costală inferioară.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe linia mediană, la nivelul marginii costale inferioare, apoi înclinată cranial pentru a coincide cu centrul filmului radiologic.
-• Această centrare ajută la evidențierea numărului maxim de coaste (grilaj costal) sub cupolele diafragmatice.
-• Expunerea efectuată după un expir profund complet contribuie, de asemenea, la acest obiectiv.
-222 Efectul expirului. Radiografie antero-posterioară (AP) care evidențiază coastele inferioare (grilaj costal) bilateral. Tub de raze X. Stern. Rază centrală. Casetă. 1 2 3 4 5 6 7 8 9 10 11 12 3LV 4LV 5LV. Efectul inspirului. Linia punctată arată cupolele diafragmatice proiectate superior.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal pe masa de examinare, cu planul mediosagital coincident cu linia mediană a mesei și a mecanismului Bucky.
+        - Spinele iliace antero-superioare trebuie să fie echidistante față de suprafața mesei.
+        - Caseta este plasată transversal, cu marginea caudală poziționată imediat sub marginea costală inferioară.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este centrată pe linia mediană, la nivelul marginii costale inferioare, apoi înclinată cranial pentru a coincide cu centrul filmului radiologic.
+        - Această centrare ajută la evidențierea numărului maxim de coaste (grilaj costal) sub cupolele diafragmatice.
+        - Expunerea efectuată după un expir profund complet contribuie, de asemenea, la acest obiectiv. 222 Efectul expirului. Radiografie antero-posterioară (AP) care evidențiază coastele inferioare (grilaj costal) bilateral. Tub de raze X. Stern. Rază centrală. Casetă. 1 2 3 4 5 6 7 8 9 10 11 12 3LV 4LV 5LV. Efectul inspirului. Linia punctată arată cupolele diafragmatice proiectate superior.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -155,6 +161,7 @@ title: Rx coaste inferioare (grilaj costal) antero-posterior (AP) (incidență d
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

@@ -18,6 +18,10 @@ images:
 - caption: Merrill — pagina 688, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-cervical-vertebrae-incidenta-de-profil-lateral-grandy-method-4-right-or-left-position-p685-merrill/p688_fig3.png
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Dacă se suspectează un traumatism al coloanei cervicale / o situație de urgență,
@@ -154,10 +158,10 @@ source_sections:
     înălțimea receptorului de imagine astfel încât acesta să fie centrat la nivelul
     C4. Marginea superioară a receptorului de imagine se află la aproximativ
 
-    1 inch (2.5 cm) deasupra conductului auditiv extern (CAE).'
+    1 țol (2.5 cm) deasupra conductului auditiv extern (CAE).'
   respiration: Apnee la sfârșitul expirului profund complet (diafragm ridicat) pentru
     a obține coborârea maximă a umerilor.
-  sid: Se recomandă o SID de 60–72 inch (152–183 cm) pentru a compensa OID crescută.
+  sid: Se recomandă o SID de 60–72 țol (152–183 cm) pentru a compensa OID crescută.
     Distanța mai mare ajută la vizualizarea C7.
   tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
     pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
@@ -198,11 +202,12 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Metoda Gra
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -250,6 +255,7 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Metoda Gra
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Dacă se suspectează un traumatism al coloanei cervicale / o situație de urgență, această incidență trebuie efectuată prima și validată de medicul radiolog înainte de realizarea unor imagini suplimentare. Consultați Capitolul 12 din Volumul 2 pentru detalii privind realizarea acestei incidențe la pacienții cu suspiciune de traumatism al coloanei cervicale / în regim de urgență.
 
@@ -296,73 +302,3 @@ title: Rx Coloană Cervicală — Incidență de Profil (Lateral) — Metoda Gra
 ## Surse de documentare
 
 - [Merrill’s Atlas, 9. Vertebral Column, pagini 685–688](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Corpurile vertebrale cervicale și spațiile lor discale intervertebrale, pilierii articulari, cele cinci articulații zigapofizare inferioare și procesele spinoase (Fig.
-9.43 și 9.44). În funcție de cât de mult pot fi coborâți umerii, o incidență de profil de bună calitate trebuie să includă C7; uneori pot fi vizualizate și T1 și T2.
-
-### colimare
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Orizontală și perpendiculară la nivelul C4. Prin această centrare, conturul mărit al umărului cel mai îndepărtat de receptorul de imagine se proiectează sub
-porțiunea inferioară a coloanei cervicale.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare corectă și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
-• Toate cele șapte vertebre cervicale și cel puțin o treime din T1 (în caz contrar, se recomandă o radiografie separată a regiunii cervicotoracice)
-• C4 în centrul radiografiei
-• Gâtul în extensie, astfel încât ramurile mandibulare să nu se suprapună peste atlas sau axis
-• Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei vertebrale cervicale
-• Articulații zigapofizare suprapuse și spații discale intervertebrale deschise
-• Ramurile mandibulei suprapuse sau aproape suprapuse
-• Procesele spinoase vizualizate din profil
-• Detalii trabeculare osoase și țesuturile moi înconjurătoare
-
-### note
-
-Dacă se suspectează un traumatism al coloanei vertebrale cervicale, această incidență trebuie efectuată prima și validată de medicul radiolog înainte de realizarea unor imagini
-suplimentare. Consultați Capitolul 12 din Volumul 2 pentru detalii privind realizarea acestei incidențe la pacienții cu suspiciune de traumatism al coloanei vertebrale cervicale.
-
-### part_pos
-
-• Se centrează planul coronal care trece prin vârfurile mastoidelor pe linia mediană a receptorului de imagine.
-• Se apropie pacientul suficient de stativul vertical Bucky pentru a permite sprijinirea umărului adiacent de dispozitiv (Fig.
-9.42). (Această incidență poate fi realizată folosind grila.)
-• Se rotesc umerii anterior sau posterior, în funcție de cifoza naturală a spatelui: dacă pacientul are umerii aduși înainte, se rotesc
-umerii anterior; în caz contrar, se rotesc posterior.
-• Se poziționează umerii în același plan orizontal, se coboară cât mai mult posibil și se imobilizează prin atașarea unui săculeț mic
-cu nisip la fiecare încheietură a mâinii. Săculeții cu nisip trebuie să aibă aceeași greutate.
-• Se acordă atenție pentru a se asigura că pacientul nu ridică umărul.
-• Se ridică ușor bărbia sau se instruiește pacientul să protruzioneze mandibula pentru a preveni suprapunerea ramurilor mandibulare peste coloana vertebrală.
-În același timp, cu MSP al capului vertical, se instruiește pacientul să privească fix un punct de pe perete; acest lucru ajută la menținerea
-poziției capului.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se așază pacientul în poziție de profil strict, fie așezat pe scaun, fie în ortostatism, în fața stativului vertical Bucky. Axa longitudinală a coloanei cervicale
-trebuie să fie paralelă cu planul receptorului de imagine.
-• Se instruiește pacientul să stea drept, așezat sau în picioare, apoi se ajustează înălțimea receptorului de imagine astfel încât acesta să fie centrat la nivelul C4. Marginea superioară a receptorului de imagine se află la aproximativ
-1 inch (2.5 cm) deasupra conductului auditiv extern (CAE).
-
-### respirație
-
-Apnee la sfârșitul expirului profund complet (diafragm ridicat) pentru a obține coborârea maximă a umerilor.
-
-### sid
-
-Se recomandă o SID de 60–72 inch (152–183 cm) pentru a compensa OID crescută. Distanța mai mare ajută la vizualizarea C7.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

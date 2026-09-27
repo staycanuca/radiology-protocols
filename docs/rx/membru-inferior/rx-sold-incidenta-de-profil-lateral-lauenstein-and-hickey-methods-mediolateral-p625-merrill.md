@@ -2,11 +2,11 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: perpendicular through Șold articulație, which este located midway între
-  spină iliacă antero-superioară (SIAS) și simfiză pubiană pentru Lauenstein method
-  (Fig. 8.31) și la cephalic angle de 20 la 25 grade și additional 1 inch (2.5 cm)
-  more inferior pentru Hickey method (Fig. 8.32). Se centrează receptorul de imagine
-  pe raza centrală.
+centering: Perpendicular prin articulația șoldului, care este situată la jumătatea
+  distanței dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană pentru
+  metoda Lauenstein (Fig. 8.31), și la un unghi cefalic de 20 la 25 de grade și încă
+  1 țol (2.5 cm) mai inferior pentru metoda Hickey (Fig. 8.32). Se centrează receptorul
+  de imagine pe raza centrală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -19,31 +19,36 @@ images:
 - caption: Merrill — pagina 627, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sold-incidenta-de-profil-lateral-lauenstein-and-hickey-methods-mediolateral-p625-merrill/p627_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: This examination este contraindicated pentru pacienți cu suspected suspiciune
-  de fractură sau pathologic condition. Lauenstein și Hickey methods sunt used la
-  show Șold articulație și relationship de cap femural la cotil (acetabul). This poziție
-  este similar la previously described modified Cleaves method.
-position: de la Decubit dorsal poziție, se rotește pacient slightly spre afected side
-  la Incidență Oblică. grade de obliquity depends pe how much pacientul poate abduct
-  membru inferior.; se ajustează pacient’s corp și se centrează afected Șold la linia
-  mediană grilă. Se instruiește pacientul să se flectează afected Genunchi și draw
-  thigh up la poziție la nearly drept angle la Șold bone. Keep corp de afected Femur
-  paralel cu table. se extinde opposite limb și support it la Șold level și under
-  Genunchi. se rotește Bazin (bazin (pelvis)) fără more than necessary la accommodate
-  flexion de thigh și avoid superimposition de afected side (Fig. 8.30).
+notes: Această examinare este contraindicată la pacienții cu suspiciune de fractură
+  sau afecțiune patologică. Metodele Lauenstein și Hickey sunt utilizate pentru a
+  evidenția articulația șoldului și relația capului femural cu cotilul (acetabulul).
+  Această poziție este similară cu metoda Cleaves modificată descrisă anterior.
+position: Din poziție de decubit dorsal, pacientul se rotește ușor spre partea afectată,
+  în incidență oblică. Gradul de oblicitate depinde de cât de mult poate pacientul
+  să abducă membrul inferior; se ajustează corpul pacientului și se centrează șoldul
+  afectat pe linia mediană a grilei. Se instruiește pacientul să flecteze genunchiul
+  afectat și să ridice coapsa într-o poziție aproape perpendiculară pe osul șoldului.
+  Se menține corpul femurului afectat paralel cu masa. Se extinde membrul opus și
+  se susține la nivelul șoldului și sub genunchi. Se rotește bazinul atât cât este
+  necesar pentru a permite flexia coapsei și a evita suprapunerea părții afectate
+  (Fig. 8.30).
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Șold articulație centrat pe radiografie
-- Șold articulație, cotil (acetabul), și cap femural
-- col femural overlapped prin mare trohanter în Lauenstein method
-- cu cephalic angulation în Hickey method, col femural liber de superimposition
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Articulația șoldului centrată pe radiografie
+- Articulația șoldului, cotilul (acetabulul) și capul femural
+- Colul femural suprapus de trohanterul mare în metoda Lauenstein
+- Cu angulația cefalică din metoda Hickey, colul femural este liber de suprapunere
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sold-incidenta-de-profil-lateral-lauenstein-and-hickey-methods-mediolateral-p625-merrill
 source_pages:
@@ -51,59 +56,58 @@ source_pages:
 - 626
 - 627
 source_sections:
-  anatomy: lateral incidență de hip, including cotil (acetabul), extremitatea proximală
-    femur, și relationship de cap femural la cotil (acetabul) (see Figs. 8.31 și 8.32).
+  anatomy: Incidență laterală a șoldului, incluzând cotilul (acetabulul), extremitatea
+    proximală a femurului și relația capului femural cu cotilul (acetabulul) (vezi
+    Fig. 8.31 și 8.32).
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular through hip articulație, which este located midway între spină
-    iliacă antero-superioară (SIAS) și simfiză pubiană pentru Lauenstein method
-
-    (Fig. 8.31) și la cephalic angle de 20 la 25 grade și additional 1 inch (2.5 cm)
-    more inferior pentru Hickey method (Fig. 8.32).
+  cr: '• Perpendicular prin articulația șoldului, care este situată la jumătatea distanței
+    dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană pentru metoda
+    Lauenstein (Fig. 8.31), și la un unghi cefalic de 20 la 25 de grade și încă 1
+    țol (2.5 cm) mai inferior pentru metoda Hickey (Fig. 8.32).
 
     • Se centrează receptorul de imagine pe raza centrală.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Hip articulație centrat pe radiografie
+    • Articulația șoldului centrată pe radiografie
 
-    • Hip articulație, cotil (acetabul), și cap femural
+    • Articulația șoldului, cotilul (acetabulul) și capul femural
 
-    • col femural overlapped prin mare trohanter în Lauenstein method
+    • Colul femural suprapus de trohanterul mare în metoda Lauenstein
 
-    • cu cephalic angulation în Hickey method, col femural liber de superimposition
+    • Cu angulația cefalică din metoda Hickey, colul femural este liber de suprapunere
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'This examination este contraindicated pentru pacienți cu suspected suspiciune
-    de fractură sau pathologic condition.
+    • Detaliile trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: 'Această examinare este contraindicată la pacienții cu suspiciune de fractură
+    sau afecțiune patologică.
 
-    Lauenstein și Hickey methods sunt used la show hip articulație și relationship
-    de cap femural la cotil (acetabul). This poziție este
+    Metodele Lauenstein și Hickey sunt utilizate pentru a evidenția articulația șoldului
+    și relația capului femural cu cotilul (acetabulul). Această poziție este similară
+    cu metoda Cleaves modificată descrisă anterior.'
+  part_pos: '• Se ajustează corpul pacientului și se centrează șoldul afectat pe linia
+    mediană a grilei.
 
-    similar la previously described modified Cleaves method.'
-  part_pos: '• se ajustează pacient’s corp și se centrează afected hip la linia mediană
-    grilă.
+    • Se instruiește pacientul să flecteze genunchiul afectat și să ridice coapsa
+    într-o poziție aproape perpendiculară pe osul șoldului.
 
-    • Se instruiește pacientul să se flectează afected genunchi și draw thigh up la
-    poziție la nearly drept angle la hip bone.
+    • Se menține corpul femurului afectat paralel cu masa.
 
-    • Keep corp de afected femur paralel cu table.
+    • Se extinde membrul opus și se susține la nivelul șoldului și sub genunchi.
 
-    • se extinde opposite limb și support it la hip level și under genunchi.
-
-    • se rotește bazin (pelvis) fără more than necessary la accommodate flexion de
-    thigh și avoid superimposition de afected side (Fig. 8.30).'
-  patient_pos: '• de la decubit dorsal, se rotește pacient slightly spre afected side
-    la oblic poziție. grade de obliquity depends pe
-
-    how much pacientul poate abduct membru inferior.'
+    • Se rotește bazinul atât cât este necesar pentru a permite flexia coapsei și
+    a evita suprapunerea părții afectate (Fig. 8.30).'
+  patient_pos: • Din poziție de decubit dorsal, pacientul se rotește ușor spre partea
+    afectată, în poziție oblică. Gradul de oblicitate depinde de cât de mult poate
+    pacientul să abducă membrul inferior.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) transversal.'
+    × 30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 625–627
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -111,10 +115,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Șold — Incidență de Profil (Lateral) — Lauenstein and Hickey Methods Medio-Lateral
+title: Rx șold — incidență de profil (lateral) — metodele Lauenstein și Hickey medio-lateral
   (Merrill)
 ---
-# Rx Șold — Incidență de Profil (Lateral) — Lauenstein and Hickey Methods Medio-Lateral (Merrill)
+# Rx șold — incidență de profil (lateral) — metodele Lauenstein și Hickey medio-lateral (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -138,17 +142,18 @@ title: Rx Șold — Incidență de Profil (Lateral) — Lauenstein and Hickey Me
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** de la Decubit dorsal poziție, se rotește pacient slightly spre afected side la Incidență Oblică. grade de obliquity depends pe how much pacientul poate abduct membru inferior.; se ajustează pacient’s corp și se centrează afected Șold la linia mediană grilă. Se instruiește pacientul să se flectează afected Genunchi și draw thigh up la poziție la nearly drept angle la Șold bone. Keep corp de afected Femur paralel cu table. se extinde opposite limb și support it la Șold level și under Genunchi. se rotește Bazin (bazin (pelvis)) fără more than necessary la accommodate flexion de thigh și avoid superimposition de afected side (Fig. 8.30).
-    - **Punct de Centrare Fascicul:** perpendicular through Șold articulație, which este located midway între spină iliacă antero-superioară (SIAS) și simfiză pubiană pentru Lauenstein method (Fig. 8.31) și la cephalic angle de 20 la 25 grade și additional 1 inch (2.5 cm) more inferior pentru Hickey method (Fig. 8.32). Se centrează receptorul de imagine pe raza centrală.
+    - **Poziție Pacient:** Din poziție de decubit dorsal, pacientul se rotește ușor spre partea afectată, în incidență oblică. Gradul de oblicitate depinde de cât de mult poate pacientul să abducă membrul inferior; se ajustează corpul pacientului și se centrează șoldul afectat pe linia mediană a grilei. Se instruiește pacientul să flecteze genunchiul afectat și să ridice coapsa într-o poziție aproape perpendiculară pe osul șoldului. Se menține corpul femurului afectat paralel cu masa. Se extinde membrul opus și se susține la nivelul șoldului și sub genunchi. Se rotește bazinul atât cât este necesar pentru a permite flexia coapsei și a evita suprapunerea părții afectate (Fig. 8.30).
+    - **Punct de Centrare Fascicul:** Perpendicular prin articulația șoldului, care este situată la jumătatea distanței dintre spina iliacă antero-superioară (SIAS) și simfiza pubiană pentru metoda Lauenstein (Fig. 8.31), și la un unghi cefalic de 20 la 25 de grade și încă 1 țol (2.5 cm) mai inferior pentru metoda Hickey (Fig. 8.32). Se centrează receptorul de imagine pe raza centrală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -171,13 +176,13 @@ title: Rx Șold — Incidență de Profil (Lateral) — Lauenstein and Hickey Me
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Șold articulație centrat pe radiografie
-    - Șold articulație, cotil (acetabul), și cap femural
-    - col femural overlapped prin mare trohanter în Lauenstein method
-    - cu cephalic angulation în Hickey method, col femural liber de superimposition
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Articulația șoldului centrată pe radiografie
+    - Articulația șoldului, cotilul (acetabulul) și capul femural
+    - Colul femural suprapus de trohanterul mare în metoda Lauenstein
+    - Cu angulația cefalică din metoda Hickey, colul femural este liber de suprapunere
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -187,8 +192,9 @@ title: Rx Șold — Incidență de Profil (Lateral) — Lauenstein and Hickey Me
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    This examination este contraindicated pentru pacienți cu suspected suspiciune de fractură sau pathologic condition. Lauenstein și Hickey methods sunt used la show Șold articulație și relationship de cap femural la cotil (acetabul). This poziție este similar la previously described modified Cleaves method.
+    Această examinare este contraindicată la pacienții cu suspiciune de fractură sau afecțiune patologică. Metodele Lauenstein și Hickey sunt utilizate pentru a evidenția articulația șoldului și relația capului femural cu cotilul (acetabulul). Această poziție este similară cu metoda Cleaves modificată descrisă anterior.
 
 
 ### 🖼️ Imagini
@@ -233,58 +239,3 @@ title: Rx Șold — Incidență de Profil (Lateral) — Lauenstein and Hickey Me
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 625–627](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență de hip, including cotil (acetabul), extremitatea proximală femur, și relationship de cap femural la cotil (acetabul) (see Figs. 8.31 și 8.32).
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular through hip articulație, which este located midway între spină iliacă antero-superioară (SIAS) și simfiză pubiană pentru Lauenstein method
-(Fig. 8.31) și la cephalic angle de 20 la 25 grade și additional 1 inch (2.5 cm) more inferior pentru Hickey method (Fig. 8.32).
-• Se centrează receptorul de imagine pe raza centrală.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Hip articulație centrat pe radiografie
-• Hip articulație, cotil (acetabul), și cap femural
-• col femural overlapped prin mare trohanter în Lauenstein method
-• cu cephalic angulation în Hickey method, col femural liber de superimposition
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-This examination este contraindicated pentru pacienți cu suspected suspiciune de fractură sau pathologic condition.
-Lauenstein și Hickey methods sunt used la show hip articulație și relationship de cap femural la cotil (acetabul). This poziție este
-similar la previously described modified Cleaves method.
-
-### part_pos
-
-• se ajustează pacient’s corp și se centrează afected hip la linia mediană grilă.
-• Se instruiește pacientul să se flectează afected genunchi și draw thigh up la poziție la nearly drept angle la hip bone.
-• Keep corp de afected femur paralel cu table.
-• se extinde opposite limb și support it la hip level și under genunchi.
-• se rotește bazin (pelvis) fără more than necessary la accommodate flexion de thigh și avoid superimposition de afected side (Fig. 8.30).
-
-### patient_pos
-
-• de la decubit dorsal, se rotește pacient slightly spre afected side la oblic poziție. grade de obliquity depends pe
-how much pacientul poate abduct membru inferior.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) transversal.
-

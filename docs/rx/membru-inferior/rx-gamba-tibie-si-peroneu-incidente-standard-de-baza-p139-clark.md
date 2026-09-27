@@ -3,23 +3,25 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: '• Centre la middle de caseta, cu raza centrală centrală la drept-angles
-  la axa longitudinală de tibia și paralel la imaginary line joining malleoli.
+centering: '• Se centrează la mijlocul casetei, cu raza centrală perpendiculară pe
+  axa longitudinală a tibiei și paralelă cu linia imaginară care unește maleolele.
 
 
-  • raza centrală verticală centrală este orientat la capul de fibula.'
+  • Raza centrală verticală este orientată la capul fibulei.'
 clinical_indications:
-- This pair de bones constitutes ring. ca pentru other bony rings, suspiciune de fractură
-  la one site poate fie associated cu suspiciune de fractură elsewhere. example este
-  Maissonneuve’s suspiciune de fractură, which este suspiciune de fractură de distal
-  tibia și proximal fibula. If suspiciune de fractură de one de pair este seen, cu
-  overlap sau shortening, then entire length de ambele bones trebuie să fie evidențiat.
+- Această pereche de oase constituie un inel. Ca și în cazul altor inele osoase, suspiciunea
+  de fractură într-un loc poate fi asociată cu suspiciunea de fractură în altă parte.
+  Un exemplu este suspiciunea de fractură Maisonneuve, care reprezintă suspiciunea
+  de fractură a tibiei distale și a fibulei proximale. Dacă se observă suspiciunea
+  de fractură a unuia dintre oasele perechii, cu suprapunere sau scurtare, trebuie
+  evidențiată întreaga lungime a ambelor oase.
 images:
-- caption: imal end de fibula poate also fie suspiciune de fracturăd when there este
-    a
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Extremitatea proximală a fibulei poate prezenta, de asemenea, suspiciune
+    de fractură atunci când există o
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_1.jpeg
-- caption: suspiciune de fractură de distal fibula.
+- caption: suspiciune de fractură a fibulei distale.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_2.jpeg
@@ -27,7 +29,7 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_3.jpeg
-- caption: suspiciune de fractură de proximal
+- caption: suspiciune de fractură proximală
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_4.jpeg
@@ -35,18 +37,18 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_5.jpeg
-- caption: suspiciune de fractură la one site poate fie associated cu suspiciune de
-    fractură elsewhere.
+- caption: suspiciunea de fractură într-un loc poate fi asociată cu suspiciunea de
+    fractură în altă parte.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_6.jpeg
-- caption: example este Maissonneuve’s suspiciune de fractură, which este suspiciune
+- caption: un exemplu este suspiciunea de fractură Maisonneuve, care este o suspiciune
     de fractură
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_7.jpeg
-- caption: de distal tibia și proximal fibula. If suspiciune de fractură de one de
-    the
+- caption: a tibiei distale și a fibulei proximale. Dacă există suspiciunea de fractură
+    a uneia dintre
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_8.jpeg
@@ -54,42 +56,47 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_9.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• If it este impossible la include ambele articulații pe one imagine, then
-  two filme radiologice trebuie să fie exposed separately, one pentru include Gleznă
-  (Articulație Talocrurală) și other pentru include Genunchi. ambele imagini trebuie
-  să 124 include middle third de lower membru inferior, so general alignment de bones
-  poate fie seen.
+notes: '• Dacă nu este posibilă includerea ambelor articulații pe o singură imagine,
+  trebuie expuse separat două filme radiologice: unul care să includă glezna (articulația
+  talocrurală) și celălalt care să includă genunchiul. Ambele imagini trebuie să includă
+  treimea mijlocie a segmentului inferior al membrului inferior, astfel încât alinierea
+  generală a oaselor să poată fi observată. [Număr intercalat în sursă: 124.]
 
-  • If it este impossible pentru pacientul la rotate pe la partea afectată, then caseta
-  trebuie să fie sprijinit vertically pe / sprijinit de medial side de membru inferior
-  și fascicul Orientat orizontal la middle de caseta.
+  • Dacă pacientul nu se poate roti pe partea afectată, caseta trebuie sprijinită
+  vertical de partea medială a membrului inferior, iar fasciculul trebuie orientat
+  orizontal către centrul casetei.
 
-  Antero-posterior (AP) Profil (lateral) Antero-posterior (AP) radiografie evidențiind
-  suspiciune de fractură de proximal fibula și distal tibia'
-position: '• de la Decubit dorsal/așezat pe scaun poziție, pacientul rotates pe la
-  partea afectată.
+  Antero-posterior (AP). Profil (lateral). Radiografie antero-posterioară (AP) care
+  evidențiază suspiciunea unei fracturi a fibulei proximale și a tibiei distale.'
+position: '• Din poziția de decubit dorsal sau așezat pe scaun, pacientul se rotește
+  spre partea afectată.
 
-  • membru inferior este rotit further until malleoli sunt superimposed vertically.
+  • Membrul inferior este rotit suplimentar până când maleolele se suprapun vertical.
 
-  • tibia trebuie să fie paralel cu casetă.
+  • Tibia trebuie să fie paralelă cu caseta.
 
-  • Se plasează un suport/pernă sub genunchi pentru sprijin și relaxare.
+  • Se plasează un suport/o pernă sub genunchi pentru sprijin și relaxare.
 
-  • lower edge de caseta este poziționat just below plantar aspect de heel.
+  • Marginea inferioară a casetei este poziționată imediat sub aspectul plantar al
+  călcâiului.
 
 
-  • pacientul este either Decubit dorsal sau așezat pe scaun pe masa radiologică,
-  cu ambele membre inferioare extins.
+  • Pacientul se află fie în decubit dorsal, fie așezat pe scaun pe masa radiologică,
+  cu ambele membre inferioare extinse.
 
-  • Palpate capul de fibula și Profil (lateral) tibial condyle.
+  • Se palpează capul fibulei și condilul tibial de profil.
 
-  • se rotește limb medially la project tibial condyle clear de articulație.
+  • Se rotește membrul medial pentru a proiecta condilul tibial liber de articulație.
 
-  • limb este sprijinit prin pads și săculeți cu nisip.
+  • Membrul este susținut cu tampoane și săculeți cu nisip.
 
-  • centre de caseta este poziționat la nivelul capul de fibula.'
+  • Centrul casetei este poziționat la nivelul capului fibulei.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -98,9 +105,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Genunchi și Gleznă (Articulație Talocrurală) articulații trebuie să fie included,
-  since extremitatea proximală fibula poate also fie suspiciune de fracturăd when
-  there este suspiciune de fractură de distal fibula.
+- Articulațiile genunchiului și gleznei (articulația talocrurală) trebuie incluse,
+  deoarece extremitatea proximală a fibulei poate prezenta, de asemenea, suspiciune
+  de fractură atunci când există suspiciune de fractură a fibulei distale.
 sid_dff: 100 cm
 slug: rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark
 sources:
@@ -109,14 +116,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Gambă (Tibie și Peroneu) Incidențe Standard de Bază
+  mas: Conform AEC / grosimii anatomice
+title: Rx gambă (tibie și peroneu) – incidențe standard de bază
 ---
-# Rx Gambă (Tibie și Peroneu) Incidențe Standard de Bază
+# Rx gambă (tibie și peroneu) – incidențe standard de bază
 
 
 <div class="rx-meta-bar">
@@ -135,34 +142,35 @@ title: Rx Gambă (Tibie și Peroneu) Incidențe Standard de Bază
 
     === "Indicații Clinice"
 
-        - This pair de bones constitutes ring. ca pentru other bony rings, suspiciune de fractură la one site poate fie associated cu suspiciune de fractură elsewhere. example este Maissonneuve’s suspiciune de fractură, which este suspiciune de fractură de distal tibia și proximal fibula. If suspiciune de fractură de one de pair este seen, cu overlap sau shortening, then entire length de ambele bones trebuie să fie evidențiat.
+        - Această pereche de oase constituie un inel. Ca și în cazul altor inele osoase, suspiciunea de fractură într-un loc poate fi asociată cu suspiciunea de fractură în altă parte. Un exemplu este suspiciunea de fractură Maisonneuve, care reprezintă suspiciunea de fractură a tibiei distale și a fibulei proximale. Dacă se observă suspiciunea de fractură a unuia dintre oasele perechii, cu suprapunere sau scurtare, trebuie evidențiată întreaga lungime a ambelor oase.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • de la Decubit dorsal/așezat pe scaun poziție, pacientul rotates pe la partea afectată.
-• membru inferior este rotit further until malleoli sunt superimposed vertically.
-• tibia trebuie să fie paralel cu casetă.
-• Se plasează un suport/pernă sub genunchi pentru sprijin și relaxare.
-• lower edge de caseta este poziționat just below plantar aspect de heel.
-
-• pacientul este either Decubit dorsal sau așezat pe scaun pe masa radiologică, cu ambele membre inferioare extins.
-• Palpate capul de fibula și Profil (lateral) tibial condyle.
-• se rotește limb medially la project tibial condyle clear de articulație.
-• limb este sprijinit prin pads și săculeți cu nisip.
-• centre de caseta este poziționat la nivelul capul de fibula.
-    - **Punct de Centrare Fascicul:** • Centre la middle de caseta, cu raza centrală centrală la drept-angles la axa longitudinală de tibia și paralel la imaginary line joining malleoli.
-
-• raza centrală verticală centrală este orientat la capul de fibula.
+    - **Poziție Pacient:**
+        - Din poziția de decubit dorsal sau așezat pe scaun, pacientul se rotește spre partea afectată.
+        - Membrul inferior este rotit suplimentar până când maleolele se suprapun vertical.
+        - Tibia trebuie să fie paralelă cu caseta.
+        - Se plasează un suport/o pernă sub genunchi pentru sprijin și relaxare.
+        - Marginea inferioară a casetei este poziționată imediat sub aspectul plantar al călcâiului.
+        - Pacientul se află fie în decubit dorsal, fie așezat pe scaun pe masa radiologică, cu ambele membre inferioare extinse.
+        - Se palpează capul fibulei și condilul tibial de profil.
+        - Se rotește membrul medial pentru a proiecta condilul tibial liber de articulație.
+        - Membrul este susținut cu tampoane și săculeți cu nisip.
+        - Centrul casetei este poziționat la nivelul capului fibulei.
+    - **Punct de Centrare Fascicul:**
+        - Se centrează la mijlocul casetei, cu raza centrală perpendiculară pe axa longitudinală a tibiei și paralelă cu linia imaginară care unește maleolele.
+        - Raza centrală verticală este orientată la capul fibulei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -173,19 +181,19 @@ title: Rx Gambă (Tibie și Peroneu) Incidențe Standard de Bază
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Genunchi și Gleznă (Articulație Talocrurală) articulații trebuie să fie included, since extremitatea proximală fibula poate also fie suspiciune de fracturăd when there este suspiciune de fractură de distal fibula.
+    - Articulațiile genunchiului și gleznei (articulația talocrurală) trebuie incluse, deoarece extremitatea proximală a fibulei poate prezenta, de asemenea, suspiciune de fractură atunci când există suspiciune de fractură a fibulei distale.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,10 +205,10 @@ title: Rx Gambă (Tibie și Peroneu) Incidențe Standard de Bază
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • If it este impossible la include ambele articulații pe one imagine, then two filme radiologice trebuie să fie exposed separately, one pentru include Gleznă (Articulație Talocrurală) și other pentru include Genunchi. ambele imagini trebuie să 124 include middle third de lower membru inferior, so general alignment de bones poate fie seen.
-• If it este impossible pentru pacientul la rotate pe la partea afectată, then caseta trebuie să fie sprijinit vertically pe / sprijinit de medial side de membru inferior și fascicul Orientat orizontal la middle de caseta.
-Antero-posterior (AP) Profil (lateral) Antero-posterior (AP) radiografie evidențiind suspiciune de fractură de proximal fibula și distal tibia
+    - Dacă nu este posibilă includerea ambelor articulații pe o singură imagine, trebuie expuse separat două filme radiologice: unul care să includă glezna (articulația talocrurală) și celălalt care să includă genunchiul. Ambele imagini trebuie să includă treimea mijlocie a segmentului inferior al membrului inferior, astfel încât alinierea generală a oaselor să poată fi observată. [Număr intercalat în sursă: 124.]
+    - Dacă pacientul nu se poate roti pe partea afectată, caseta trebuie sprijinită vertical de partea medială a membrului inferior, iar fasciculul trebuie orientat orizontal către centrul casetei. Antero-posterior (AP). Profil (lateral). Radiografie antero-posterioară (AP) care evidențiază suspiciunea unei fracturi a fibulei proximale și a tibiei distale.
 
 
 ### 🖼️ Imagini
@@ -209,17 +217,17 @@ Antero-posterior (AP) Profil (lateral) Antero-posterior (AP) radiografie eviden�
 
 <figure class="protocol-image-card" markdown>
 
-![imal end de fibula poate also fie suspiciune de fracturăd when there este a](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_1.jpeg)
+![Extremitatea proximală a fibulei poate prezenta, de asemenea, suspiciune de fractură atunci când există o](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_1.jpeg)
 
-<figcaption><strong>imal end de fibula poate also fie suspiciune de fracturăd when there este a</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Extremitatea proximală a fibulei poate prezenta, de asemenea, suspiciune de fractură atunci când există o</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![suspiciune de fractură de distal fibula.](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_2.jpeg)
+![suspiciune de fractură a fibulei distale.](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_2.jpeg)
 
-<figcaption><strong>suspiciune de fractură de distal fibula.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>suspiciune de fractură a fibulei distale.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -233,9 +241,9 @@ Antero-posterior (AP) Profil (lateral) Antero-posterior (AP) radiografie eviden�
 
 <figure class="protocol-image-card" markdown>
 
-![suspiciune de fractură de proximal](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_4.jpeg)
+![suspiciune de fractură proximală](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_4.jpeg)
 
-<figcaption><strong>suspiciune de fractură de proximal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>suspiciune de fractură proximală</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -249,25 +257,25 @@ Antero-posterior (AP) Profil (lateral) Antero-posterior (AP) radiografie eviden�
 
 <figure class="protocol-image-card" markdown>
 
-![suspiciune de fractură la one site poate fie associated cu suspiciune de fractură elsewhere.](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_6.jpeg)
+![suspiciunea de fractură într-un loc poate fi asociată cu suspiciunea de fractură în altă parte.](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_6.jpeg)
 
-<figcaption><strong>suspiciune de fractură la one site poate fie associated cu suspiciune de fractură elsewhere.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![example este Maissonneuve’s suspiciune de fractură, which este suspiciune de fractură](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_7.jpeg)
-
-<figcaption><strong>example este Maissonneuve’s suspiciune de fractură, which este suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>suspiciunea de fractură într-un loc poate fi asociată cu suspiciunea de fractură în altă parte.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![de distal tibia și proximal fibula. If suspiciune de fractură de one de the](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_8.jpeg)
+![un exemplu este suspiciunea de fractură Maisonneuve, care este o suspiciune de fractură](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_7.jpeg)
 
-<figcaption><strong>de distal tibia și proximal fibula. If suspiciune de fractură de one de the</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>un exemplu este suspiciunea de fractură Maisonneuve, care este o suspiciune de fractură</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![a tibiei distale și a fibulei proximale. Dacă există suspiciunea de fractură a uneia dintre](../../assets/images/protocols/clark/rx-gamba-tibie-si-peroneu-incidente-standard-de-baza-p139-clark/fig_8.jpeg)
+
+<figcaption><strong>a tibiei distale și a fibulei proximale. Dacă există suspiciunea de fractură a uneia dintre</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

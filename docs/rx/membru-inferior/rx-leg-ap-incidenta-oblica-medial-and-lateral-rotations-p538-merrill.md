@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe midpoint de receptorul de imagine.
+centering: perpendicular pe mijlocul receptorului de imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -15,29 +15,34 @@ images:
 - caption: Merrill — pagina 540, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-leg-ap-incidenta-oblica-medial-and-lateral-rotations-p538-merrill/p540_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție pe masa radiologică.; Perform
-  oblic incidențe de membru inferior prin alternately rotating extremity 45 grade
-  medially (Fig. 7.115) sau laterally (Fig. 7.116). pentru rotație internă (medială),
-  ensure that membru inferior este turned inward, nu just Picior. pentru medial Incidență
-  Oblică, elevate afected Șold enough la rest medial side de Picior și Gleznă (Articulație
-  Talocrurală) against a 45-grade foam wedge, și place support under mare trohanter.
-  se efectuează ecranarea gonadelor cu șorț plumbat.
+position: se așază pacientul în decubit dorsal pe masa radiologică.; Se efectuează
+  incidențe oblice ale membrului inferior prin rotirea alternativă a extremității
+  cu 45 grade medial (Fig. 7.115) sau lateral (Fig. 7.116). pentru rotația internă
+  (medială), se asigură rotirea spre interior a membrului inferior, nu doar a piciorului.
+  pentru incidența oblică medială, se ridică șoldul afectat suficient pentru a sprijini
+  partea medială a piciorului și glezna (articulația talocrurală) pe o pană de spumă
+  de 45 grade și se plasează un suport sub marele trohanter. se efectuează ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Gleznă (Articulație Talocrurală) și Genunchi articulații pe one sau more imagini
-- Bony detalii trabeculare osoase și surrounding soft tissues rotație internă (medială)
-- corect rotație de membru inferior
-- proximal și distal tibiofibular articulations
-- Maximum interosseous space între tibia și fibula rotație externă (laterală)
-- corect rotație de membru inferior
-- Fibula superimposed prin lateral portion de tibia
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Articulațiile gleznei (talocrurale) și genunchiului pe una sau mai multe imagini
+- Detalii trabeculare osoase și țesuturi moi înconjurătoare — rotație internă (medială)
+- rotația corectă a membrului inferior
+- articulațiile tibiofibulare proximală și distală
+- Spațiu interosos maxim între tibie și fibulă — rotație externă (laterală)
+- rotația corectă a membrului inferior
+- Fibula suprapusă peste porțiunea laterală a tibiei
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-leg-ap-incidenta-oblica-medial-and-lateral-rotations-p538-merrill
 source_pages:
@@ -45,66 +50,60 @@ source_pages:
 - 539
 - 540
 source_sections:
-  anatomy: A 45-grade oblic incidență de bones și soft tissues de membru inferior
-    și one sau ambele de adjacent articulații (Figs. 7.117 și 7.118).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½
-    inches (3.8 cm) beyond ankle și genunchi articulații. Place marker de lateralitate
-    (D/S) în
+  anatomy: O incidență oblică la 45 grade a oaselor și țesuturilor moi ale membrului
+    inferior și a uneia sau ambelor articulații adiacente (Figs. 7.117 și 7.118).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părți și la
+    1½ țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe mijlocul receptorului de imagine.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    collimated expunere field.'
-  cr: • perpendicular pe midpoint de receptorul de imagine.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovezi de colimare corectă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • articulațiile gleznei și genunchiului pe una sau mai multe imagini
 
-    • Ankle și genunchi articulații pe one sau more imagini
-
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    • detalii trabeculare osoase și țesuturi moi înconjurătoare
 
     rotație internă (medială)
 
-    • corect rotație de membru inferior
+    • rotația corectă a membrului inferior
 
-    • proximal și distal tibiofibular articulations
+    • articulațiile tibiofibulare proximală și distală
 
-    • Maximum interosseous space între tibia și fibula
+    • spațiul interosos maxim între tibie și fibulă
 
     rotație externă (laterală)
 
-    • corect rotație de membru inferior
+    • rotația corectă a membrului inferior
 
-    • Fibula superimposed prin lateral portion de tibia'
-  part_pos: '• Perform oblic incidențe de membru inferior prin alternately rotating
-    extremity 45 grade medially (Fig. 7.115) sau laterally (Fig. 7.116). pentru
+    • fibula suprapusă peste porțiunea laterală a tibiei'
+  part_pos: '• Se efectuează incidențe oblice ale membrului inferior prin rotirea
+    alternativă a extremității cu 45 grade medial (Fig. 7.115) sau lateral (Fig. 7.116).
+    pentru rotația internă (medială), se asigură rotirea spre interior a membrului
+    inferior, nu doar a piciorului.
 
-    rotație internă (medială), ensure that membru inferior este turned inward, nu
-    just picior.
-
-    • pentru medial oblic incidență, elevate afected hip enough la rest medial side
-    de picior și ankle against a 45-grade foam
-
-    wedge, și place support under mare trohanter.
+    • pentru incidența oblică medială, se ridică șoldul afectat suficient pentru a
+    sprijini partea medială a piciorului și glezna pe o pană de spumă de 45 grade
+    și se plasează un suport sub marele trohanter.
 
     • se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit dorsal pe masa radiologică.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal
-    sau
-
-    diagonal.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 țoli (35
+    × 43 cm), longitudinal sau diagonal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 538–540
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches
-    (3.8 cm) beyond Gleznă (Articulație Talocrurală) și Genunchi articulații. Place
-    marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Leg — Oblică Antero-Posterioară (AP) — Medial and Rotație Externă (Laterală)s
-  (Merrill)
+  collimation: se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părți și la 1½
+    țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx gambă — Incidență antero-posterioară (AP) oblică — rotație medială și externă
+  (laterală) (Merrill)
 ---
-# Rx Leg — Oblică Antero-Posterioară (AP) — Medial and Rotație Externă (Laterală)s (Merrill)
+# Rx gambă — Incidență antero-posterioară (AP) oblică — rotație medială și externă (laterală) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -128,17 +127,18 @@ title: Rx Leg — Oblică Antero-Posterioară (AP) — Medial and Rotație Exter
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție pe masa radiologică.; Perform oblic incidențe de membru inferior prin alternately rotating extremity 45 grade medially (Fig. 7.115) sau laterally (Fig. 7.116). pentru rotație internă (medială), ensure that membru inferior este turned inward, nu just Picior. pentru medial Incidență Oblică, elevate afected Șold enough la rest medial side de Picior și Gleznă (Articulație Talocrurală) against a 45-grade foam wedge, și place support under mare trohanter. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de receptorul de imagine.
+    - **Poziție Pacient:** se așază pacientul în decubit dorsal pe masa radiologică.; Se efectuează incidențe oblice ale membrului inferior prin rotirea alternativă a extremității cu 45 grade medial (Fig. 7.115) sau lateral (Fig. 7.116). pentru rotația internă (medială), se asigură rotirea spre interior a membrului inferior, nu doar a piciorului. pentru incidența oblică medială, se ridică șoldul afectat suficient pentru a sprijini partea medială a piciorului și glezna (articulația talocrurală) pe o pană de spumă de 45 grade și se plasează un suport sub marele trohanter. se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe mijlocul receptorului de imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -154,22 +154,22 @@ title: Rx Leg — Oblică Antero-Posterioară (AP) — Medial and Rotație Exter
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches (3.8 cm) beyond Gleznă (Articulație Talocrurală) și Genunchi articulații. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părți și la 1½ țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Gleznă (Articulație Talocrurală) și Genunchi articulații pe one sau more imagini
-    - Bony detalii trabeculare osoase și surrounding soft tissues rotație internă (medială)
-    - corect rotație de membru inferior
-    - proximal și distal tibiofibular articulations
-    - Maximum interosseous space între tibia și fibula rotație externă (laterală)
-    - corect rotație de membru inferior
-    - Fibula superimposed prin lateral portion de tibia
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Articulațiile gleznei (talocrurale) și genunchiului pe una sau mai multe imagini
+    - Detalii trabeculare osoase și țesuturi moi înconjurătoare — rotație internă (medială)
+    - rotația corectă a membrului inferior
+    - articulațiile tibiofibulare proximală și distală
+    - Spațiu interosos maxim între tibie și fibulă — rotație externă (laterală)
+    - rotația corectă a membrului inferior
+    - Fibula suprapusă peste porțiunea laterală a tibiei
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -178,6 +178,7 @@ title: Rx Leg — Oblică Antero-Posterioară (AP) — Medial and Rotație Exter
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -225,50 +226,3 @@ title: Rx Leg — Oblică Antero-Posterioară (AP) — Medial and Rotație Exter
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 538–540](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-A 45-grade oblic incidență de bones și soft tissues de membru inferior și one sau ambele de adjacent articulații (Figs. 7.117 și 7.118).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches (3.8 cm) beyond ankle și genunchi articulații. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe midpoint de receptorul de imagine.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Ankle și genunchi articulații pe one sau more imagini
-• Bony detalii trabeculare osoase și surrounding soft tissues
-rotație internă (medială)
-• corect rotație de membru inferior
-• proximal și distal tibiofibular articulations
-• Maximum interosseous space între tibia și fibula
-rotație externă (laterală)
-• corect rotație de membru inferior
-• Fibula superimposed prin lateral portion de tibia
-
-### part_pos
-
-• Perform oblic incidențe de membru inferior prin alternately rotating extremity 45 grade medially (Fig. 7.115) sau laterally (Fig. 7.116). pentru
-rotație internă (medială), ensure that membru inferior este turned inward, nu just picior.
-• pentru medial oblic incidență, elevate afected hip enough la rest medial side de picior și ankle against a 45-grade foam
-wedge, și place support under mare trohanter.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal pe masa radiologică.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal sau
-diagonal.
-

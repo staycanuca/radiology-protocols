@@ -10,6 +10,10 @@ contrast:
   agent: Nativ de regulă. Contrast dacă se evaluează metastaze sau infecție
   flow_rate: 3 mL/s
   volume: 'Dacă este indicat: 125 mL'
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 3 (Moderată 4 - 8 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-01-01'
 notes:
   additional_recons: Reconstrucții sagitale și coronale pe întreg axul spinal. Reformatări
@@ -57,6 +61,21 @@ series:
   start: Baza craniului
   thickness: 0.625 mm
 slug: ct-complete-spine
+sources:
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: AAPM
+  kind: Protocol tehnic standardizat
+  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
+  source_region: US
+  title: AAPM CT Protocols — Adult Routine Head CT
+  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
+- checked_at: '2026-09-14T15:57:46.637480+00:00'
+  institution: UT Southwestern
+  kind: Protocol instituțional
+  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
+  source_region: US
+  title: UT Southwestern Radiology — CT Neuro / Head Protocols
+  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
 synonyms: []
 tech_params:
   aec: Activat (Modulare 3D adaptată coloanei vertebrale)
@@ -68,27 +87,12 @@ tech_params:
   scan_mode: Elicoidal (Helical)
   slice_thickness: 0.625 mm
 title: CT Coloană Vertebrală Completă (Cervico-Toraco-Lombară)
-sources:
-- title: AAPM CT Protocols — Adult Routine Head CT
-  url: https://www.aapm.org/pubs/ctprotocols/documents/RoutineHeadCT.pdf
-  institution: AAPM
-  source_region: US
-  kind: Protocol tehnic standardizat
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 503972f1004a69ab87fba33be79f28ad3647b389370870386d9af7967ea1691b
-- title: UT Southwestern Radiology — CT Neuro / Head Protocols
-  url: https://www.utsouthwestern.edu/departments/radiology/protocols/ct.html
-  institution: UT Southwestern
-  source_region: US
-  kind: Protocol instituțional
-  checked_at: '2026-09-14T15:57:46.637480+00:00'
-  sha256: 585ee440fc9feeb019a4a974e7113683b042c715bd8816718ff43384801f3b20
 ---
 
 # CT Coloană Vertebrală Completă (Cervico-Toraco-Lombară)
 
 **Ultima actualizare:** 2026-01-01
-**Autor:** None
+**Autor:** Departamentul de Radiologie
 
 ---
 
@@ -114,10 +118,14 @@ sources:
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Cap, Gât & Coloană vertebrală*).
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 3 (Moderată 4 - 8 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 
@@ -201,6 +209,7 @@ sources:
     | Axial | CT Coloană Completă | Coloană | 1.5 mm/1.5 mm | Bone |  | Secțiuni fine axiale etajate |
     | Sagital | CT Coloană Completă | Coloană completă | 2 mm/2 mm | Bone |  | Plan sagital panoramic complet al coloanei vertebrale |
     | Coronal | CT Coloană Completă | Coloană completă | 2 mm/2 mm | Bone |  | Plan coronal de ansamblu |
+
 
 ## Surse și revizuire
 

@@ -1,12 +1,12 @@
 ---
 author: Referință Merrill
-breathing: expunere este made during slow inspiration la ensure that trachea este
-  filled cu air.
+breathing: Expunerea se efectuează în timpul unei inspirații lente pentru a asigura
+  umplerea traheei cu aer.
 category: torace
-centering: orizontal through planul mediocoronal la nivelul laryngeal prominence (pentru
-  Căi Aeriene Superioare [Fig. 3.21]) sau la nivelul incizură jugulară (furculiță
-  sternală) through point midway între incizură jugulară (furculiță sternală) și planul
-  mediocoronal (pentru trachea și superior mediastinum [Fig. 3.22])
+centering: Orizontală, prin planul mediocoronal, la nivelul proeminenței laringiene
+  (pentru căile aeriene superioare [Fig. 3.21]) sau la nivelul incizurii jugulare
+  (furculița sternală), prin punctul situat la jumătatea distanței dintre incizura
+  jugulară și planul mediocoronal (pentru trahee și mediastinul superior [Fig. 3.22]).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -52,56 +52,62 @@ images:
 - caption: Merrill — pagina 166, imaginea 14
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill/p166_fig14.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Incidență de Profil (lateral), either Poziție Șezândă
-  sau în ortostatism, before stativ vertical Bucky. If în ortostatism poziție este
-  used, weight de pacientul’s corp trebuie să fie equally distributed pe picioarele.;
-  Se instruiește pacientul să clasp mâinile behind corp și se rotește umeri posteriorly
-  ca far ca possible (see Figs. 3.19 și 3.20). This poziție keeps superimposed shadows
-  de brațele de la obscuring structures de superior mediastinum. se ajustează pacient’s
-  poziție la se centrează airway la linia mediană receptorul de imagine. trachea lies
-  în plan coronal that passes approximately midway între incizură jugulară (furculiță
-  sternală) și planul mediocoronal. se centrează receptorul de imagine la nivelul
-  laryngeal prominence (pentru Căi Aeriene Superioare) sau manubriu sternal (pentru
-  laringe și superior mediastinum). Readjust poziție de corp, being careful la have
-  planul mediosagital vertical și paralel cu plane de receptorul de imagine. se extinde
-  neck slightly. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Așezați pacientul în poziție de profil (laterală), șezând sau în ortostatism,
+  în fața stativului Bucky vertical. Dacă se folosește ortostatismul, greutatea corpului
+  trebuie distribuită egal pe picioare. Instruiți pacientul să își împreuneze mâinile
+  în spatele corpului și să rotească umerii posterior cât mai mult posibil (vezi Fig.
+  3.19 și 3.20). Această poziție împiedică umbrele suprapuse ale brațelor să mascheze
+  structurile mediastinului superior. Ajustați poziția pacientului pentru a centra
+  calea aeriană la linia mediană a receptorului de imagine. Traheea se află într-un
+  plan coronal care trece aproximativ la jumătatea distanței dintre incizura jugulară
+  (furculița sternală) și planul mediocoronal. Centrați receptorul la nivelul proeminenței
+  laringiene (pentru căile aeriene superioare) sau al manubriului sternal (pentru
+  laringe și mediastinul superior). Reajustați poziția corpului, având grijă ca planul
+  mediosagital să fie vertical și paralel cu planul receptorului. Extindeți ușor gâtul.
+  Ecranați gonadele cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Air-filled Căi Aeriene Superioare, de la faringe la proximal trachea (pentru Căi
-  Aeriene Superioare)
-- Air-filled airway, de la midcervical la midthoracic region (pentru trachea și superior
-  mediastinum)
-- Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de Coloană Cervicală
-- Superimposed zygapophyseal articulații și open intervertebral articulații
-- Superimposed sau nearly superimposed ramuri mandibulare
-- Bony detalii trabeculare osoase și surrounding soft tissues
-- Se instruiește pacientul să sit sau stand în ortostatism. If în ortostatism poziție
-  este used, weight de corp trebuie să fie equally distributed pe picioarele.
-- se poziționează pacientul’s cap în ortostatism, facing directly forward.
-- 'Se instruiește pacientul să depress umerii și hold them în contact cu grila device
-  la carry clavicles below lung apexuri (vârfuri pulmonare). Except în presence de
-  upper thoracic scoliosis, faulty corp poziție poate fie detected prin asimetric
-  appearance de articulații sternoclaviculare. Compare clavicular margins în Figs.
-  3.27 și 3.28. lateral Criteria pentru lateral incidențe, procedures sunt ca follows:'
-- Place side de interest pe / sprijinit de receptorul de imagine holder.
-- Se instruiește pacientul să stand astfel încât weight este equally distributed pe
-  picioarele. pacientul trebuie să nu lean spre sau away de la receptorul de imagine
-  holder.
-- Raise pacientul’s brațe la prevent părți moi de brațele de la superimposing câmpuri
-  pulmonare.
-- Se instruiește pacientul să face straight ahead și raise bărbia.
-- la determine rotație, examine posterior aspects de Coaste (Grilaj Costal). radiografii
-  fără rotație show superimposed posterior Coaste (Grilaj Costal) (see Figs. 3.25
-  și 3.26). oblic Criteria în oblic incidențe, pacientul rotates șoldurile cu thorax
-  și points picioarele directly forward. umerii trebuie să lie în same plan transversal
-  pe toate radiografii.
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Căi aeriene superioare umplute cu aer, de la faringe până la traheea proximală (pentru
+  căile aeriene superioare)
+- Căi aeriene umplute cu aer, de la regiunea cervicală medie până la regiunea toracală
+  medie (pentru trahee și mediastinul superior)
+- Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei
+  cervicale
+- Articulații zigapofizare suprapuse și spații articulare intervertebrale deschise.
+- Ramuri mandibulare suprapuse sau aproape suprapuse.
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
+- Instruiți pacientul să stea în șezut sau în ortostatism. În ortostatism, greutatea
+  corpului trebuie distribuită egal pe picioare.
+- Poziționați capul pacientului vertical, cu fața orientată drept înainte.
+- 'Instruiți pacientul să coboare umerii și să îi mențină în contact cu dispozitivul
+  grilei, pentru a coborî claviculele sub apexurile pulmonare (vârfurile pulmonare).
+  Cu excepția prezenței unei scolioze toracale superioare, poziția incorectă a corpului
+  poate fi identificată prin aspectul asimetric al articulațiilor sternoclaviculare.
+  Comparați marginile claviculelor în Fig. 3.27 și 3.28. Criterii pentru incidența
+  de profil: pentru incidențele de profil, procedurile sunt următoarele:'
+- Așezați partea de interes în contact cu suportul receptorului de imagine.
+- Instruiți pacientul să stea în ortostatism, cu greutatea distribuită egal pe picioare.
+  Pacientul nu trebuie să se încline spre suportul receptorului de imagine sau în
+  direcția opusă acestuia.
+- Ridicați brațele pacientului pentru a preveni suprapunerea părților moi ale brațelor
+  peste câmpurile pulmonare.
+- Instruiți pacientul să privească drept înainte și să ridice bărbia.
+- 'Pentru a evalua rotația, examinați porțiunile posterioare ale coastelor (grilajului
+  costal). Radiografiile fără rotație prezintă coastele posterioare suprapuse (vezi
+  Fig. 3.25 și 3.26). Criterii pentru incidențele oblice: în incidențele oblice, pacientul
+  rotește șoldurile împreună cu toracele și orientează picioarele drept înainte. Umerii
+  trebuie să se afle în același plan transversal pe toate radiografiile.'
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-bony-trabecular-detail-and-surrounding-soft-tissues-incidenta-de-profil-lateral-r-or-l-position-p153-merrill
 source_pages:
@@ -120,130 +126,119 @@ source_pages:
 - 165
 - 166
 source_sections:
-  anatomy: 'resulting imagine shows air-filled upper airway sau trachea și superior
-    mediastinum. incidență pentru trachea și superior
+  anatomy: Imaginea rezultată evidențiază calea aeriană superioară plină cu aer sau
+    traheea și mediastinul superior. Incidența pentru trahee și mediastinul superior,
+    descrisă pentru prima dată de Eiselberg și Sgalitzer, 1 este utilizată pentru
+    evidențierea extensiilor retrosternale ale glandei tiroide, a măririi timusului
+    la sugari (în decubit), a faringelui și esofagului superior opacifiate și a conturului
+    traheei și bronhiilor. Este utilizată și pentru localizarea corpurilor străine
+    radioopace.
+  collimation: • Ajustați câmpul de iradiere la 12 inci (30 cm) longitudinal și la
+    1 țol (2.5 cm) dincolo de conturul cutanat al suprafețelor anterioară și posterioară,
+    fără a depăși 10 inci (24 cm). Plasați markerul de lateralitate (D/S) în câmpul
+    de expunere colimat.
+  cr: • Orizontală, prin planul mediocoronal, la nivelul proeminenței laringiene (pentru
+    calea aeriană superioară [Fig. 3.21]) sau la nivelul incizurii jugulare (furculița
+    sternală), prin punctul situat la jumătatea distanței dintre incizura jugulară
+    și planul mediocoronal (pentru trahee și mediastinul superior [Fig. 3.22]).
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    mediastinum, first described prin Eiselberg și Sgalitzer, 1 este used la show
-    retrosternal extensions de thyroid gland, thymic enlargement în
+    • Dovezi ale colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    fără a acoperi anatomia de interes.
 
-    infants (în recumbent poziție), opacified faringe și upper esophagus, și outline
-    de trachea și bronchi. It este also used la
+    • Calea aeriană superioară plină cu aer, de la faringe până la traheea proximală
+    (pentru calea aeriană superioară).
 
-    locate Corp străin / corpuri străine radio-opace.'
-  collimation: '• Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch
-    (2.5 cm) beyond skin line de anterior și posterior surfaces but
+    • Calea aeriană plină cu aer, de la regiunea cervicală mijlocie până la regiunea
+    toracală mijlocie (pentru trahee și mediastinul superior).
 
-    nu greater than 10 inches (24 cm). Place marker de lateralitate (D/S) în collimated
-    expunere field.'
-  cr: '• orizontal through planul mediocoronal la nivelul laryngeal prominence (pentru
-    upper airway [Fig. 3.21]) sau la nivelul incizură jugulară (furculiță sternală)
-    through point midway între incizură jugulară (furculiță sternală) și planul mediocoronal
-    (pentru trachea și superior mediastinum
+    • Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei
+    cervicale.
 
-    [Fig. 3.22])'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Articulații zigapofizare suprapuse și spații articulare intervertebrale deschise.
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Ramuri mandibulare suprapuse sau aproape suprapuse.
 
-    • Air-filled upper airway, de la faringe la proximal trachea (pentru upper airway)
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare.
 
-    • Air-filled airway, de la midcervical la midthoracic region (pentru trachea și
-    superior mediastinum)
+    • Instruiți pacientul să stea în șezut sau în ortostatism. În ortostatism, greutatea
+    corpului trebuie distribuită egal pe picioare.
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de cervical
-    coloană vertebrală
+    • Poziționați capul pacientului vertical, cu fața orientată drept înainte.
 
-    • Superimposed zygapophyseal articulații și open intervertebral articulații
+    • Instruiți pacientul să coboare umerii și să îi mențină în contact cu dispozitivul
+    grilei, pentru a coborî claviculele sub apexurile pulmonare (vârfurile pulmonare).
 
-    • Superimposed sau nearly superimposed ramuri mandibulare
+    Cu excepția prezenței unei scolioze toracale superioare, poziția incorectă a corpului
+    poate fi identificată prin aspectul asimetric al articulațiilor sternoclaviculare.
+    Comparați marginile claviculelor în Fig. 3.27 și 3.28.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues
+    Criterii pentru incidența de profil
 
-    • Se instruiește pacientul să sit sau stand în ortostatism. If în ortostatism
-    poziție este used, weight de corp trebuie să fie equally distributed pe picioare.
+    Pentru incidențele de profil, procedurile sunt următoarele:
 
-    • se poziționează pacientul’s cap în ortostatism, facing directly forward.
+    • Așezați partea de interes în contact cu suportul receptorului de imagine.
 
-    • Se instruiește pacientul să depress umerii și hold them în contact cu grila
-    device la carry clavicles below lung apexuri (vârfuri pulmonare).
+    • Instruiți pacientul să stea în ortostatism cu greutatea distribuită egal pe
+    picioare. Pacientul nu trebuie să se încline spre suportul receptorului de imagine
+    sau în direcția opusă acestuia.
 
-    Except în presence de upper thoracic scoliosis, faulty corp poziție poate fie
-    detected prin asimetric appearance de articulații sternoclaviculare. Compare clavicular
-    margins în Figs. 3.27 și 3.28.
+    • Ridicați brațele pacientului pentru a preveni suprapunerea părților moi ale
+    brațelor peste câmpurile pulmonare.
 
-    lateral Criteria
+    • Instruiți pacientul să privească drept înainte și să ridice bărbia.
 
-    pentru lateral incidențe, procedures sunt ca follows:
+    • Pentru a evalua rotația, examinați porțiunile posterioare ale coastelor. Radiografiile
+    fără rotație prezintă coastele posterioare suprapuse (vezi Fig. 3.25 și 3.26).
 
-    • Place side de interest pe / sprijinit de receptorul de imagine holder.
+    Criterii pentru incidențele oblice
 
-    • Se instruiește pacientul să stand astfel încât weight este equally distributed
-    pe picioarele. pacientul trebuie să nu lean spre sau away de la receptorul de
-    imagine
+    În incidențele oblice, pacientul rotește șoldurile împreună cu toracele și orientează
+    picioarele drept înainte. Umerii trebuie să se afle în același plan transversal
+    pe toate radiografiile.'
+  part_pos: '• Instruiți pacientul să își împreuneze mâinile în spatele corpului și
+    să rotească umerii posterior cât mai mult posibil (vezi Fig. 3.19 și 3.20). Această
+    poziție împiedică umbrele suprapuse ale brațelor să mascheze structurile mediastinului
+    superior.
 
-    holder.
+    • Ajustați poziția pacientului pentru a centra calea aeriană la linia mediană
+    a receptorului de imagine. Traheea se află într-un plan coronal care trece aproximativ
+    la jumătatea distanței dintre incizura jugulară (furculița sternală) și planul
+    mediocoronal.
 
-    • Raise pacientul’s brațe la prevent părți moi de brațele de la superimposing
-    câmpuri pulmonare.
+    • Centrați receptorul de imagine la nivelul proeminenței laringiene (pentru calea
+    aeriană superioară) sau al manubriului sternal (pentru laringe și mediastinul
+    superior).
 
-    • Se instruiește pacientul să face straight ahead și raise bărbia.
+    • Reajustați poziția corpului, având grijă ca planul mediosagital să fie vertical
+    și paralel cu planul receptorului de imagine.
 
-    • la determine rotație, examine posterior aspects de coaste. radiografii fără
-    rotație show superimposed posterior coaste (see
+    • Extindeți ușor gâtul.
 
-    Figs. 3.25 și 3.26).
+    • Ecranați gonadele cu șorț plumbat.'
+  patient_pos: • Așezați pacientul în poziție de profil (laterală), șezând pe scaun
+    sau în ortostatism, în fața stativului Bucky vertical. Dacă se folosește ortostatismul,
+    greutatea corpului pacientului trebuie distribuită egal pe picioare.
+  respiration: Expunerea se efectuează în timpul unei inspirații lente pentru a asigura
+    umplerea traheei cu aer.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    oblic Criteria
-
-    în oblic incidențe, pacientul rotates șoldurile cu thorax și points picioarele
-    directly forward. umerii trebuie să lie în same
-
-    plan transversal pe toate radiografii.'
-  part_pos: '• Se instruiește pacientul să clasp mâinile behind corp și se rotește
-    umeri posteriorly ca far ca possible (see Figs. 3.19 și 3.20).
-
-    This poziție keeps superimposed shadows de brațele de la obscuring structures
-    de superior mediastinum.
-
-    • se ajustează pacient’s poziție la se centrează airway la linia mediană receptorul
-    de imagine. trachea lies în plan coronal that passes
-
-    approximately midway între incizură jugulară (furculiță sternală) și planul mediocoronal.
-
-    • se centrează receptorul de imagine la nivelul laryngeal prominence (pentru upper
-    airway) sau manubriu sternal (pentru laringe și superior mediastinum).
-
-    • Readjust poziție de corp, being careful la have planul mediosagital vertical
-    și paralel cu plane de receptorul de imagine.
-
-    • se extinde neck slightly.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în poziție de profil (lateral), either așezat
-    pe scaun sau în ortostatism, before stativ vertical Bucky. If în ortostatism poziție
-    este used, weight
-
-    de pacientul’s corp trebuie să fie equally distributed pe picioarele.'
-  respiration: expunere este made during slow inspiration la ensure that trachea este
-    filled cu air.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
-
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
-- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini
-    153–166'
+- title: 'Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 153–166'
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch
-    (2.5 cm) beyond skin line de anterior și posterior surfaces but nu greater than
-    10 inches (24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidență de Profil
-  (Lateral) — Profil Drept sau Stâng (Merrill)
+  collimation: Ajustați câmpul de iradiere la 12 inci (30 cm) longitudinal și la 1
+    țol (2.5 cm) dincolo de conturul cutanat al suprafețelor anterioară și posterioară,
+    fără a depăși însă 10 inci (24 cm). Plasați markerul de lateralitate (D/S) în
+    câmpul de expunere colimat.
+title: Rx ▪ Detaliile trabeculare osoase și țesuturile moi înconjurătoare — Incidență
+  de profil — Profil drept sau stâng (Merrill)
 ---
-# Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidență de Profil (Lateral) — Profil Drept sau Stâng (Merrill)
+# Rx ▪ Detaliile trabeculare osoase și țesuturile moi înconjurătoare — Incidență de profil — Profil drept sau stâng (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -267,19 +262,20 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Incidență de Profil (lateral), either Poziție Șezândă sau în ortostatism, before stativ vertical Bucky. If în ortostatism poziție este used, weight de pacientul’s corp trebuie să fie equally distributed pe picioarele.; Se instruiește pacientul să clasp mâinile behind corp și se rotește umeri posteriorly ca far ca possible (see Figs. 3.19 și 3.20). This poziție keeps superimposed shadows de brațele de la obscuring structures de superior mediastinum. se ajustează pacient’s poziție la se centrează airway la linia mediană receptorul de imagine. trachea lies în plan coronal that passes approximately midway între incizură jugulară (furculiță sternală) și planul mediocoronal. se centrează receptorul de imagine la nivelul laryngeal prominence (pentru Căi Aeriene Superioare) sau manubriu sternal (pentru laringe și superior mediastinum). Readjust poziție de corp, being careful la have planul mediosagital vertical și paralel cu plane de receptorul de imagine. se extinde neck slightly. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orizontal through planul mediocoronal la nivelul laryngeal prominence (pentru Căi Aeriene Superioare [Fig. 3.21]) sau la nivelul incizură jugulară (furculiță sternală) through point midway între incizură jugulară (furculiță sternală) și planul mediocoronal (pentru trachea și superior mediastinum [Fig. 3.22])
+    - **Poziție Pacient:** Așezați pacientul în poziție de profil (laterală), șezând sau în ortostatism, în fața stativului Bucky vertical. Dacă se folosește ortostatismul, greutatea corpului trebuie distribuită egal pe picioare. Instruiți pacientul să își împreuneze mâinile în spatele corpului și să rotească umerii posterior cât mai mult posibil (vezi Fig. 3.19 și 3.20). Această poziție împiedică umbrele suprapuse ale brațelor să mascheze structurile mediastinului superior. Ajustați poziția pacientului pentru a centra calea aeriană la linia mediană a receptorului de imagine. Traheea se află într-un plan coronal care trece aproximativ la jumătatea distanței dintre incizura jugulară (furculița sternală) și planul mediocoronal. Centrați receptorul la nivelul proeminenței laringiene (pentru căile aeriene superioare) sau al manubriului sternal (pentru laringe și mediastinul superior). Reajustați poziția corpului, având grijă ca planul mediosagital să fie vertical și paralel cu planul receptorului. Extindeți ușor gâtul. Ecranați gonadele cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orizontală, prin planul mediocoronal, la nivelul proeminenței laringiene (pentru căile aeriene superioare [Fig. 3.21]) sau la nivelul incizurii jugulare (furculița sternală), prin punctul situat la jumătatea distanței dintre incizura jugulară și planul mediocoronal (pentru trahee și mediastinul superior [Fig. 3.22]).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** expunere este made during slow inspiration la ensure that trachea este filled cu air.
+    - **Comandă Respiratorie:** Expunerea se efectuează în timpul unei inspirații lente pentru a asigura umplerea traheei cu aer.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -293,29 +289,29 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch (2.5 cm) beyond skin line de anterior și posterior surfaces but nu greater than 10 inches (24 cm). Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 12 inci (30 cm) longitudinal și la 1 țol (2.5 cm) dincolo de conturul cutanat al suprafețelor anterioară și posterioară, fără a depăși însă 10 inci (24 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Air-filled Căi Aeriene Superioare, de la faringe la proximal trachea (pentru Căi Aeriene Superioare)
-    - Air-filled airway, de la midcervical la midthoracic region (pentru trachea și superior mediastinum)
-    - Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de Coloană Cervicală
-    - Superimposed zygapophyseal articulații și open intervertebral articulații
-    - Superimposed sau nearly superimposed ramuri mandibulare
-    - Bony detalii trabeculare osoase și surrounding soft tissues
-    - Se instruiește pacientul să sit sau stand în ortostatism. If în ortostatism poziție este used, weight de corp trebuie să fie equally distributed pe picioarele.
-    - se poziționează pacientul’s cap în ortostatism, facing directly forward.
-    - Se instruiește pacientul să depress umerii și hold them în contact cu grila device la carry clavicles below lung apexuri (vârfuri pulmonare). Except în presence de upper thoracic scoliosis, faulty corp poziție poate fie detected prin asimetric appearance de articulații sternoclaviculare. Compare clavicular margins în Figs. 3.27 și 3.28. lateral Criteria pentru lateral incidențe, procedures sunt ca follows:
-    - Place side de interest pe / sprijinit de receptorul de imagine holder.
-    - Se instruiește pacientul să stand astfel încât weight este equally distributed pe picioarele. pacientul trebuie să nu lean spre sau away de la receptorul de imagine holder.
-    - Raise pacientul’s brațe la prevent părți moi de brațele de la superimposing câmpuri pulmonare.
-    - Se instruiește pacientul să face straight ahead și raise bărbia.
-    - la determine rotație, examine posterior aspects de Coaste (Grilaj Costal). radiografii fără rotație show superimposed posterior Coaste (Grilaj Costal) (see Figs. 3.25 și 3.26). oblic Criteria în oblic incidențe, pacientul rotates șoldurile cu thorax și points picioarele directly forward. umerii trebuie să lie în same plan transversal pe toate radiografii.
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Căi aeriene superioare umplute cu aer, de la faringe până la traheea proximală (pentru căile aeriene superioare)
+    - Căi aeriene umplute cu aer, de la regiunea cervicală medie până la regiunea toracală medie (pentru trahee și mediastinul superior)
+    - Absența rotației anatomice (simetrie bilaterală perfectă) sau a înclinării coloanei cervicale
+    - Articulații zigapofizare suprapuse și spații articulare intervertebrale deschise.
+    - Ramuri mandibulare suprapuse sau aproape suprapuse.
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
+    - Instruiți pacientul să stea în șezut sau în ortostatism. În ortostatism, greutatea corpului trebuie distribuită egal pe picioare.
+    - Poziționați capul pacientului vertical, cu fața orientată drept înainte.
+    - Instruiți pacientul să coboare umerii și să îi mențină în contact cu dispozitivul grilei, pentru a coborî claviculele sub apexurile pulmonare (vârfurile pulmonare). Cu excepția prezenței unei scolioze toracale superioare, poziția incorectă a corpului poate fi identificată prin aspectul asimetric al articulațiilor sternoclaviculare. Comparați marginile claviculelor în Fig. 3.27 și 3.28. Criterii pentru incidența de profil: pentru incidențele de profil, procedurile sunt următoarele:
+    - Așezați partea de interes în contact cu suportul receptorului de imagine.
+    - Instruiți pacientul să stea în ortostatism, cu greutatea distribuită egal pe picioare. Pacientul nu trebuie să se încline spre suportul receptorului de imagine sau în direcția opusă acestuia.
+    - Ridicați brațele pacientului pentru a preveni suprapunerea părților moi ale brațelor peste câmpurile pulmonare.
+    - Instruiți pacientul să privească drept înainte și să ridice bărbia.
+    - Pentru a evalua rotația, examinați porțiunile posterioare ale coastelor (grilajului costal). Radiografiile fără rotație prezintă coastele posterioare suprapuse (vezi Fig. 3.25 și 3.26). Criterii pentru incidențele oblice: în incidențele oblice, pacientul rotește șoldurile împreună cu toracele și orientează picioarele drept înainte. Umerii trebuie să se afle în același plan transversal pe toate radiografiile.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -324,6 +320,7 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -459,75 +456,3 @@ title: Rx ▪ Bony trabecular detail and surrounding soft tissues — Incidenț�
 ## Surse de documentare
 
 - [Merrill’s Atlas, 3. Thoracic Viscera: Chest and Upper Airway, pagini 153–166](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-resulting imagine shows air-filled upper airway sau trachea și superior mediastinum. incidență pentru trachea și superior
-mediastinum, first described prin Eiselberg și Sgalitzer, 1 este used la show retrosternal extensions de thyroid gland, thymic enlargement în
-infants (în recumbent poziție), opacified faringe și upper esophagus, și outline de trachea și bronchi. It este also used la
-locate Corp străin / corpuri străine radio-opace.
-
-### collimation
-
-• Adjust câmp de iradiere la 12 inches (30 cm) longitudinal și 1 inch (2.5 cm) beyond skin line de anterior și posterior surfaces but
-nu greater than 10 inches (24 cm). Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• orizontal through planul mediocoronal la nivelul laryngeal prominence (pentru upper airway [Fig. 3.21]) sau la nivelul incizură jugulară (furculiță sternală) through point midway între incizură jugulară (furculiță sternală) și planul mediocoronal (pentru trachea și superior mediastinum
-[Fig. 3.22])
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Air-filled upper airway, de la faringe la proximal trachea (pentru upper airway)
-• Air-filled airway, de la midcervical la midthoracic region (pentru trachea și superior mediastinum)
-• Absența rotației anatomice (simetrie bilaterală perfectă) sau tilt de cervical coloană vertebrală
-• Superimposed zygapophyseal articulații și open intervertebral articulații
-• Superimposed sau nearly superimposed ramuri mandibulare
-• Bony detalii trabeculare osoase și surrounding soft tissues
-• Se instruiește pacientul să sit sau stand în ortostatism. If în ortostatism poziție este used, weight de corp trebuie să fie equally distributed pe picioare.
-• se poziționează pacientul’s cap în ortostatism, facing directly forward.
-• Se instruiește pacientul să depress umerii și hold them în contact cu grila device la carry clavicles below lung apexuri (vârfuri pulmonare).
-Except în presence de upper thoracic scoliosis, faulty corp poziție poate fie detected prin asimetric appearance de articulații sternoclaviculare. Compare clavicular margins în Figs. 3.27 și 3.28.
-lateral Criteria
-pentru lateral incidențe, procedures sunt ca follows:
-• Place side de interest pe / sprijinit de receptorul de imagine holder.
-• Se instruiește pacientul să stand astfel încât weight este equally distributed pe picioarele. pacientul trebuie să nu lean spre sau away de la receptorul de imagine
-holder.
-• Raise pacientul’s brațe la prevent părți moi de brațele de la superimposing câmpuri pulmonare.
-• Se instruiește pacientul să face straight ahead și raise bărbia.
-• la determine rotație, examine posterior aspects de coaste. radiografii fără rotație show superimposed posterior coaste (see
-Figs. 3.25 și 3.26).
-oblic Criteria
-în oblic incidențe, pacientul rotates șoldurile cu thorax și points picioarele directly forward. umerii trebuie să lie în same
-plan transversal pe toate radiografii.
-
-### part_pos
-
-• Se instruiește pacientul să clasp mâinile behind corp și se rotește umeri posteriorly ca far ca possible (see Figs. 3.19 și 3.20).
-This poziție keeps superimposed shadows de brațele de la obscuring structures de superior mediastinum.
-• se ajustează pacient’s poziție la se centrează airway la linia mediană receptorul de imagine. trachea lies în plan coronal that passes
-approximately midway între incizură jugulară (furculiță sternală) și planul mediocoronal.
-• se centrează receptorul de imagine la nivelul laryngeal prominence (pentru upper airway) sau manubriu sternal (pentru laringe și superior mediastinum).
-• Readjust poziție de corp, being careful la have planul mediosagital vertical și paralel cu plane de receptorul de imagine.
-• se extinde neck slightly.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în poziție de profil (lateral), either așezat pe scaun sau în ortostatism, before stativ vertical Bucky. If în ortostatism poziție este used, weight
-de pacientul’s corp trebuie să fie equally distributed pe picioarele.
-
-### respiration
-
-expunere este made during slow inspiration la ensure that trachea este filled cu air.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-

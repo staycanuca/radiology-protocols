@@ -3,62 +3,70 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală orizontală centrală este centred la palpable Profil (lateral)
-  end de Claviculă la articulații acromioclaviculare.
+centering: '• Raza centrală orizontală este centrată la extremitatea laterală palpabilă
+  a claviculei, la nivelul articulației acromioclaviculare.
 
-  • la avoid superimposition de articulație pe coloană vertebrală de Omoplat (Scapulă),
-  raza centrală poate fie înclinat 25 grade cranially before centring la articulație.'
+  • Pentru a evita suprapunerea articulației peste coloana vertebrală a omoplatului
+  (scapulei), raza centrală poate fi înclinată cu 25 de grade cranial înainte de centrarea
+  pe articulație.'
 clinical_indications:
-- "An 18 \x02 24-cm casetă este plasat în vertical casetă holder."
+- O casetă de 18 × 24 cm este plasată în suportul vertical pentru casetă.
 images:
-- caption: este normally required. în certain circumstances, subluxation de the
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: este necesară în mod normal. În anumite circumstanțe, subluxația articulației
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_1.jpeg
-- caption: examined la bring articulații acromioclaviculare space la drept-
+- caption: examinate pentru a aduce spațiul articulației acromioclaviculare perpendicular
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_2.jpeg
-- caption: • normal articulație este variable (3–8 mm) în width. normal
+- caption: • Articulația normală are o lățime variabilă (3–8 mm). Normal
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_3.jpeg
-- caption: normally fie în straight line.
+- caption: trebuie să fie în mod normal pe aceeași linie dreaptă.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_4.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• normal articulație este variable (3–8 mm) în width. normal difference între
-  sides trebuie să fie less than 2–3 mm (Manaster 1997).
+notes: '• Articulația normală are o lățime variabilă (3–8 mm). Diferența normală dintre
+  părți trebuie să fie mai mică de 2–3 mm (Manaster 1997).
 
-  • inferior surfaces de acromion și Claviculă trebuie să normally fie în straight
-  line.
+  • Suprafețele inferioare ale acromionului și claviculei trebuie să fie în mod normal
+  pe aceeași linie dreaptă.
 
-  În Încărcare (Ortostatism) Antero-posterior (AP) incidență
+  În încărcare (ortostatism), incidență anteroposterioară (AP)
 
-  • articulații acromioclaviculare has weak articulație capsule și este vulnerable
-  la trauma. Subluxation poate fie difficult la diagnose în standard Antero-posterior
-  (AP) imagine, because width de articulație poate fie variable și poate look widened
-  în normal articulație.
+  • Articulațiile acromioclaviculare au o capsulă articulară slabă și sunt vulnerabile
+  la traumatisme. Subluxația poate fi dificil de diagnosticat pe imaginea anteroposterioară
+  (AP) standard, deoarece lățimea articulației poate varia și poate părea mărită în
+  articulația normală.
 
-  • la prove subluxation, it poate fie necessary la do În Încărcare (Ortostatism)
-  comparison incidențe de ambele Articulații Acromioclaviculare (separate articulație
-  imagini).
+  • Pentru a demonstra subluxația, poate fi necesară efectuarea unor incidențe comparative
+  în încărcare (ortostatism) ale ambelor articulații acromioclaviculare (imagini separate
+  ale articulațiilor).
 
-  • poziții de pacientul și casetă sunt ca described above.
+  • Pozițiile pacientului și ale casetei sunt cele descrise mai sus.
 
-  • It este advisable la ‘strap’ weights used pentru procedure around lower brațe
-  rather than getting pacientul la hold pe la them, ca biomechanics involved poate
-  lead la false negative appearance.
+  • Se recomandă utilizarea unor greutăți „legate” în jurul porțiunilor inferioare
+  ale brațelor pentru procedură, în loc ca pacientul să fie rugat să le țină, deoarece
+  biomecanica implicată poate duce la un aspect fals negativ.
 
-  94 Normal Antero-posterior (AP) radiografie de articulații acromioclaviculare Antero-posterior
-  (AP) radiografie de articulații acromioclaviculare evidențiind subluxation'
-position: '• pacientul stă în ortostatism facing X-ray tube, cu brațele relaxat la
-  side. posterior aspect de Umăr being examined este plasat în contact cu caseta,
-  și pacientul este then rotit approximately 15 grade spre side being examined la
-  bring articulații acromioclaviculare space la rightangles la film radiologic.
+  94 Radiografie normală anteroposterioară (AP) a articulațiilor acromioclaviculare
 
-  • caseta este poziționat astfel încât acromion este în centre de film radiologic.'
+  Radiografie anteroposterioară (AP) a articulațiilor acromioclaviculare, evidențiind
+  subluxație'
+position: '• Pacientul stă în ortostatism cu fața spre tubul radiologic, cu brațele
+  relaxate pe lângă corp. Aspectul posterior al umărului examinat este plasat în contact
+  cu caseta, iar pacientul este apoi rotit aproximativ 15 grade spre partea examinată
+  pentru a aduce spațiul articulației acromioclaviculare perpendicular pe filmul radiologic.
+
+  • Caseta este poziționată astfel încât acromionul să fie în centrul filmului radiologic.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -67,9 +75,9 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază articulații acromioclaviculare și Claviculă projected
-  above acromion.
-- expunere trebuie să evidențiază părți moi around articulation.
+- Imaginea trebuie să evidențieze articulațiile acromioclaviculare și clavicula proiectată
+  deasupra acromionului.
+- Expunerea trebuie să evidențieze părțile moi din jurul articulației.
 sid_dff: 100 cm
 slug: rx-articulatii-acromioclaviculare-antero-posterior-p109-clark
 sources:
@@ -78,14 +86,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 18 x 24 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Articulații Acromioclaviculare Antero-Posterior (AP)
+  mas: Conform AEC / grosimii anatomice
+title: Rx articulații acromioclaviculare anteroposterior (AP)
 ---
-# Rx Articulații Acromioclaviculare Antero-Posterior (AP)
+# Rx articulații acromioclaviculare anteroposterior (AP)
 
 
 <div class="rx-meta-bar">
@@ -104,24 +112,27 @@ title: Rx Articulații Acromioclaviculare Antero-Posterior (AP)
 
     === "Indicații Clinice"
 
-        - An 18  24-cm casetă este plasat în vertical casetă holder.
+        - O casetă de 18 × 24 cm este plasată în suportul vertical pentru casetă.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă în ortostatism facing X-ray tube, cu brațele relaxat la side. posterior aspect de Umăr being examined este plasat în contact cu caseta, și pacientul este then rotit approximately 15 grade spre side being examined la bring articulații acromioclaviculare space la rightangles la film radiologic.
-• caseta este poziționat astfel încât acromion este în centre de film radiologic.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală centrală este centred la palpable Profil (lateral) end de Claviculă la articulații acromioclaviculare.
-• la avoid superimposition de articulație pe coloană vertebrală de Omoplat (Scapulă), raza centrală poate fie înclinat 25 grade cranially before centring la articulație.
+    - **Poziție Pacient:**
+        - Pacientul stă în ortostatism cu fața spre tubul radiologic, cu brațele relaxate pe lângă corp. Aspectul posterior al umărului examinat este plasat în contact cu caseta, iar pacientul este apoi rotit aproximativ 15 grade spre partea examinată pentru a aduce spațiul articulației acromioclaviculare perpendicular pe filmul radiologic.
+        - Caseta este poziționată astfel încât acromionul să fie în centrul filmului radiologic.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală orizontală este centrată la extremitatea laterală palpabilă a claviculei, la nivelul articulației acromioclaviculare.
+        - Pentru a evita suprapunerea articulației peste coloana vertebrală a omoplatului (scapulei), raza centrală poate fi înclinată cu 25 de grade cranial înainte de centrarea pe articulație.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -132,20 +143,20 @@ title: Rx Articulații Acromioclaviculare Antero-Posterior (AP)
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 18 x 24 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază articulații acromioclaviculare și Claviculă projected above acromion.
-    - expunere trebuie să evidențiază părți moi around articulation.
+    - Imaginea trebuie să evidențieze articulațiile acromioclaviculare și clavicula proiectată deasupra acromionului.
+    - Expunerea trebuie să evidențieze părțile moi din jurul articulației.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -157,15 +168,14 @@ title: Rx Articulații Acromioclaviculare Antero-Posterior (AP)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • normal articulație este variable (3–8 mm) în width. normal difference între sides trebuie să fie less than 2–3 mm (Manaster 1997).
-• inferior surfaces de acromion și Claviculă trebuie să normally fie în straight line.
-În Încărcare (Ortostatism) Antero-posterior (AP) incidență
-• articulații acromioclaviculare has weak articulație capsule și este vulnerable la trauma. Subluxation poate fie difficult la diagnose în standard Antero-posterior (AP) imagine, because width de articulație poate fie variable și poate look widened în normal articulație.
-• la prove subluxation, it poate fie necessary la do În Încărcare (Ortostatism) comparison incidențe de ambele Articulații Acromioclaviculare (separate articulație imagini).
-• poziții de pacientul și casetă sunt ca described above.
-• It este advisable la ‘strap’ weights used pentru procedure around lower brațe rather than getting pacientul la hold pe la them, ca biomechanics involved poate lead la false negative appearance.
-94 Normal Antero-posterior (AP) radiografie de articulații acromioclaviculare Antero-posterior (AP) radiografie de articulații acromioclaviculare evidențiind subluxation
+    - Articulația normală are o lățime variabilă (3–8 mm). Diferența normală dintre părți trebuie să fie mai mică de 2–3 mm (Manaster 1997).
+    - Suprafețele inferioare ale acromionului și claviculei trebuie să fie în mod normal pe aceeași linie dreaptă. În încărcare (ortostatism), incidență anteroposterioară (AP)
+    - Articulațiile acromioclaviculare au o capsulă articulară slabă și sunt vulnerabile la traumatisme. Subluxația poate fi dificil de diagnosticat pe imaginea anteroposterioară (AP) standard, deoarece lățimea articulației poate varia și poate părea mărită în articulația normală.
+    - Pentru a demonstra subluxația, poate fi necesară efectuarea unor incidențe comparative în încărcare (ortostatism) ale ambelor articulații acromioclaviculare (imagini separate ale articulațiilor).
+    - Pozițiile pacientului și ale casetei sunt cele descrise mai sus.
+    - Se recomandă utilizarea unor greutăți „legate” în jurul porțiunilor inferioare ale brațelor pentru procedură, în loc ca pacientul să fie rugat să le țină, deoarece biomecanica implicată poate duce la un aspect fals negativ. 94 Radiografie normală anteroposterioară (AP) a articulațiilor acromioclaviculare Radiografie anteroposterioară (AP) a articulațiilor acromioclaviculare, evidențiind subluxație
 
 
 ### 🖼️ Imagini
@@ -174,33 +184,33 @@ title: Rx Articulații Acromioclaviculare Antero-Posterior (AP)
 
 <figure class="protocol-image-card" markdown>
 
-![este normally required. în certain circumstances, subluxation de the](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_1.jpeg)
+![este necesară în mod normal. În anumite circumstanțe, subluxația articulației](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_1.jpeg)
 
-<figcaption><strong>este normally required. în certain circumstances, subluxation de the</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![examined la bring articulații acromioclaviculare space la drept-](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_2.jpeg)
-
-<figcaption><strong>examined la bring articulații acromioclaviculare space la drept-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>este necesară în mod normal. În anumite circumstanțe, subluxația articulației</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• normal articulație este variable (3–8 mm) în width. normal](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_3.jpeg)
+![examinate pentru a aduce spațiul articulației acromioclaviculare perpendicular](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_2.jpeg)
 
-<figcaption><strong>• normal articulație este variable (3–8 mm) în width. normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>examinate pentru a aduce spațiul articulației acromioclaviculare perpendicular</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![normally fie în straight line.](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_4.jpeg)
+![• Articulația normală are o lățime variabilă (3–8 mm). Normal](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_3.jpeg)
 
-<figcaption><strong>normally fie în straight line.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Articulația normală are o lățime variabilă (3–8 mm). Normal</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![trebuie să fie în mod normal pe aceeași linie dreaptă.](../../assets/images/protocols/clark/rx-articulatii-acromioclaviculare-antero-posterior-p109-clark/fig_4.jpeg)
+
+<figcaption><strong>trebuie să fie în mod normal pe aceeași linie dreaptă.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

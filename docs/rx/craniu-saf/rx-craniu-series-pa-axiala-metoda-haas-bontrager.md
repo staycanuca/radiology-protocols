@@ -5,9 +5,9 @@ breathing: Apnee pe durata expunerii. Fig. 11.122 PA axială—raza centrală 25
   SERIE SPECIALĂ SMV PA axială (metoda Haas)
 category: craniu-saf
 centering: Raza centrală se înclină cu 25° cranial (spre cap) față de linia orbitomeatală
-  (LOM). Se centrează raza centrală la MSP și la 1½ inches (4 cm) inferior față de
-  inion și se proiectează la 1½ inches (4 cm) superior față de nazion. Se centrează
-  receptorul de imagine pe proiecția razei centrale.
+  (LOM). Se centrează raza centrală la MSP și la 1½ țoli (4 cm) inferior față de inion
+  și se proiectează la 1½ țoli (4 cm) superior față de nazion. Se centrează receptorul
+  de imagine pe proiecția razei centrale.
 clinical_indications:
 - 'Craniu: suspiciune de fractură (deplasare medială și laterală), procese neoplazice
   și boala Paget. Aceasta este o incidență alternativă pentru pacienții care nu pot
@@ -31,6 +31,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 11.124
     PA axială.)
   url: assets/images/protocols/bontrager/rx-craniu-series-pa-axiala-metoda-haas-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -108,17 +112,18 @@ title: Rx Craniu SERIE PA axială (metoda Haas)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: se îndepărtează toate obiectele radioopace (metalice sau din plastic) de la nivelul capului și gâtului pacientului. Se efectuează radiografia cu pacientul în ortostatism sau în decubit ventral. Regiune anatomică: pacientul își sprijină nasul și fruntea pe suprafața mesei/dispozitivului de imagistică. Se flectează gâtul, aducând linia orbitomeatală (LOM) perpendicular pe receptorul de imagine (Fig. 11.122). Se aliniază MSP cu raza centrală și cu linia mediană a grilei sau a suprafeței mesei/dispozitivului de imagistică. Se verifică absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase; nu există înclinare (MSP perpendicular pe receptorul de imagine).
-    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 25° cranial (spre cap) față de linia orbitomeatală (LOM). Se centrează raza centrală la MSP și la 1½ inches (4 cm) inferior față de inion și se proiectează la 1½ inches (4 cm) superior față de nazion. Se centrează receptorul de imagine pe proiecția razei centrale.
+    - **Punct de Centrare Fascicul:** Raza centrală se înclină cu 25° cranial (spre cap) față de linia orbitomeatală (LOM). Se centrează raza centrală la MSP și la 1½ țoli (4 cm) inferior față de inion și se proiectează la 1½ țoli (4 cm) superior față de nazion. Se centrează receptorul de imagine pe proiecția razei centrale.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii. Fig. 11.122 PA axială—raza centrală 25° cranial față de linia orbitomeatală (LOM), ortostatism și decubit ventral (inserție). Craniu SERIE SPECIALĂ SMV PA axială (metoda Haas)
 

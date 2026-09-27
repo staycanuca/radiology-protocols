@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe midpoint de membru inferior.
+centering: perpendicular pe punctul median al gambei.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,38 +12,43 @@ images:
 - caption: Merrill — pagina 538, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-leg-incidenta-de-profil-lateral-mediolateral-p536-merrill/p538_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal poziție.; Turn pacientul spre afected
-  side cu membru inferior pe receptorul de imagine. se ajustează rotație de corp la
-  place Rotulă (Patelă) perpendicular pe receptorul de imagine (RI) și ensure that
-  line drawn through femoral condyles este also perpendicular (Fig. 7.113). Place
-  săculeți cu nisip supports where needed pentru pacientul’s comfort și la stabilize
-  corp poziție (Fig. 7.113A). Genunchi poate fie flectat, if necessary, la ensure
-  true Incidență de Profil (lateral). incidență poate fie done cu receptorul de imagine
-  diagonal pentru include Gleznă (Articulație Talocrurală) și Genunchi articulații
-  sau two incidențe sunt made—one de membru inferior la include articulație, și one
-  pentru include other articulație. Alternative method When pacientul cannot fie turned
-  de la Decubit dorsal poziție, lateromedial Incidență de Profil (lateral) poate fie
-  taken cross-table using orizontal raza centrală. Lift membru inferior high enough
-  pentru assistant la slide rigid support under pacientul’s membru inferior. receptorul
-  de imagine poate fie plasat între membre inferioare, și raza centrală poate fie
-  orientat de la lateral side. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal. Se întoarce pacientul spre partea
+  afectată, cu gamba pe receptorul de imagine. Se ajustează rotația corpului astfel
+  încât rotula să fie perpendiculară pe receptorul de imagine (RI), iar linia trasată
+  prin condilii femurali să fie, de asemenea, perpendiculară (Fig. 7.113). Se plasează
+  săculeți cu nisip acolo unde este necesar, pentru confortul pacientului și pentru
+  stabilizarea poziției corpului (Fig. 7.113A). Genunchiul poate fi flectat, dacă
+  este necesar, pentru a asigura o incidență de profil adevărată. Incidența poate
+  fi efectuată cu receptorul de imagine poziționat diagonal, pentru a include articulațiile
+  gleznei și genunchiului, sau se efectuează două incidențe — una pentru a include
+  o articulație și cealaltă pentru a include cealaltă articulație. Metodă alternativă
+  Când pacientul nu poate fi întors din decubit dorsal, se poate efectua o incidență
+  de profil lateromedială pe masă, utilizând o rază centrală orizontală. Se ridică
+  gamba suficient de mult pentru ca asistentul să poată introduce un suport rigid
+  sub gamba pacientului. Receptorul de imagine poate fi plasat între gambe, iar raza
+  centrală poate fi orientată dinspre lateral. Se efectuează ecranarea gonadelor cu
+  șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Gleznă (Articulație Talocrurală) și Genunchi articulații pe one sau more imagini
-- Entire membru inferior în true Incidență de Profil (lateral)
-- distal fibula superimposed prin posterior half de tibia
-- Slight overlap de tibia pe proximal cap peronier (fibular)
-- Moderate separation de tibial și fibular corpuri sau shafts (except la their articular
-  ends)
-- Possibly reduced superimposition de femoral condyles because de divergence de fascicul
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Articulațiile gleznei (talocrurale) și genunchiului pe una sau mai multe imagini
+- Întreaga gambă în incidență de profil adevărată
+- fibula distală suprapusă peste jumătatea posterioară a tibiei
+- suprapunere ușoară a tibiei peste capul fibulei proximale
+- separare moderată a corpurilor sau diafizelor tibiei și fibulei, cu excepția extremităților
+  articulare
+- suprapunere posibil redusă a condililor femurali din cauza divergenței fasciculului
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-leg-incidenta-de-profil-lateral-mediolateral-p536-merrill
 source_pages:
@@ -51,80 +56,74 @@ source_pages:
 - 537
 - 538
 source_sections:
-  anatomy: tibia, fibula, și adjacent articulații (Fig. 7.114).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½
-    inches (3.8 cm) beyond ankle și genunchi articulații. Place marker de lateralitate
-    (D/S) în
+  anatomy: tibia, fibula și articulațiile adiacente (Fig. 7.114).
+  collimation: • se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe părți și la
+    1½ țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează
+    markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • perpendicular pe punctul median al gambei.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    collimated expunere field.'
-  cr: • perpendicular pe midpoint de membru inferior.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de regiunea anatomică de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Articulațiile gleznei și genunchiului pe una sau mai multe imagini
 
-    • Ankle și genunchi articulații pe one sau more imagini
+    • Întreaga gambă în poziție de profil adevărată
 
-    • Entire membru inferior în true poziție de profil (lateral)
+    • Fibula distală suprapusă peste jumătatea posterioară a tibiei
 
-    • distal fibula superimposed prin posterior half de tibia
+    • Suprapunere ușoară a tibiei peste capul fibulei proximale
 
-    • Slight overlap de tibia pe proximal cap peronier (fibular)
+    • Separare moderată a corpurilor sau diafizelor tibiei și fibulei, cu excepția
+    extremităților articulare
 
-    • Moderate separation de tibial și fibular corpuri sau shafts (except la their
-    articular ends)
+    • Suprapunere posibil redusă a condililor femurali din cauza divergenței fasciculului
 
-    • Possibly reduced superimposition de femoral condyles because de divergence de
-    fascicul
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Se întoarce pacientul spre partea afectată, cu gamba pe receptorul
+    de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Turn pacientul spre afected side cu membru inferior pe receptorul de
-    imagine.
+    • Se ajustează rotația corpului astfel încât rotula să fie perpendiculară pe receptorul
+    de imagine (RI), iar linia trasată prin condilii femurali să fie, de asemenea,
+    perpendiculară (Fig. 7.113).
 
-    • se ajustează rotație de corp la place rotulă (patelă) perpendicular pe receptorul
-    de imagine (RI) și ensure that line drawn through femoral condyles
+    • Se plasează săculeți cu nisip acolo unde este necesar, pentru confortul pacientului
+    și pentru stabilizarea poziției corpului (Fig. 7.113A).
 
-    este also perpendicular (Fig. 7.113).
+    • Genunchiul poate fi flectat, dacă este necesar, pentru a asigura o poziție de
+    profil adevărată.
 
-    • Place săculeți cu nisip supports where needed pentru pacientul’s comfort și
-    la stabilize corp poziție (Fig. 7.113A).
+    • Incidența poate fi efectuată cu receptorul de imagine poziționat diagonal, pentru
+    a include articulațiile gleznei și genunchiului, sau se efectuează două incidențe
+    — una pentru a include o articulație și cealaltă pentru a include cealaltă articulație.
 
-    • genunchi poate fie flectat, if necessary, la ensure true poziție de profil (lateral).
+    Metodă alternativă
 
-    • incidență poate fie done cu receptorul de imagine diagonal pentru include ankle
-    și genunchi articulații sau two incidențe sunt made—one de membru inferior la
+    • Când pacientul nu poate fi întors din decubit dorsal, se poate efectua o incidență
+    de profil lateromedială pe masă, utilizând o rază centrală orizontală.
 
-    include articulație, și one pentru include other articulație.
+    • Se ridică gamba suficient de mult pentru ca asistentul să poată introduce un
+    suport rigid sub gamba pacientului.
 
-    Alternative method
+    • Receptorul de imagine poate fi plasat între gambe, iar raza centrală poate fi
+    orientată dinspre lateral.
 
-    • When pacientul cannot fie turned de la decubit dorsal, lateromedial lateral
-    incidență poate fie taken cross-table using orizontal raza centrală.
-
-    • Lift membru inferior high enough pentru assistant la slide rigid support under
-    pacientul’s membru inferior.
-
-    • receptorul de imagine poate fie plasat între membre inferioare, și raza centrală
-    poate fie orientat de la lateral side.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
   patient_pos: • se așază pacientul în decubit dorsal.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal
-    sau
-
-    diagonal.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    afișarea corectă a orientării anatomice; receptorul de imagine: 14 × 17 țoli (35
+    × 43 cm), longitudinal sau diagonal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 536–538
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches
-    (3.8 cm) beyond Gleznă (Articulație Talocrurală) și Genunchi articulații. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Leg — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+  collimation: Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturi și la 1½
+    țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează markerul
+    de lateralitate în câmpul colimat.
+title: Rx gambă — Incidență de profil — mediolaterală (Merrill)
 ---
-# Rx Leg — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
+# Rx gambă — Incidență de profil — mediolaterală (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -148,17 +147,18 @@ title: Rx Leg — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție.; Turn pacientul spre afected side cu membru inferior pe receptorul de imagine. se ajustează rotație de corp la place Rotulă (Patelă) perpendicular pe receptorul de imagine (RI) și ensure that line drawn through femoral condyles este also perpendicular (Fig. 7.113). Place săculeți cu nisip supports where needed pentru pacientul’s comfort și la stabilize corp poziție (Fig. 7.113A). Genunchi poate fie flectat, if necessary, la ensure true Incidență de Profil (lateral). incidență poate fie done cu receptorul de imagine diagonal pentru include Gleznă (Articulație Talocrurală) și Genunchi articulații sau two incidențe sunt made—one de membru inferior la include articulație, și one pentru include other articulație. Alternative method When pacientul cannot fie turned de la Decubit dorsal poziție, lateromedial Incidență de Profil (lateral) poate fie taken cross-table using orizontal raza centrală. Lift membru inferior high enough pentru assistant la slide rigid support under pacientul’s membru inferior. receptorul de imagine poate fie plasat între membre inferioare, și raza centrală poate fie orientat de la lateral side. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe midpoint de membru inferior.
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal. Se întoarce pacientul spre partea afectată, cu gamba pe receptorul de imagine. Se ajustează rotația corpului astfel încât rotula să fie perpendiculară pe receptorul de imagine (RI), iar linia trasată prin condilii femurali să fie, de asemenea, perpendiculară (Fig. 7.113). Se plasează săculeți cu nisip acolo unde este necesar, pentru confortul pacientului și pentru stabilizarea poziției corpului (Fig. 7.113A). Genunchiul poate fi flectat, dacă este necesar, pentru a asigura o incidență de profil adevărată. Incidența poate fi efectuată cu receptorul de imagine poziționat diagonal, pentru a include articulațiile gleznei și genunchiului, sau se efectuează două incidențe — una pentru a include o articulație și cealaltă pentru a include cealaltă articulație. Metodă alternativă Când pacientul nu poate fi întors din decubit dorsal, se poate efectua o incidență de profil lateromedială pe masă, utilizând o rază centrală orizontală. Se ridică gamba suficient de mult pentru ca asistentul să poată introduce un suport rigid sub gamba pacientului. Receptorul de imagine poate fi plasat între gambe, iar raza centrală poate fi orientată dinspre lateral. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe punctul median al gambei.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -174,22 +174,22 @@ title: Rx Leg — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches (3.8 cm) beyond Gleznă (Articulație Talocrurală) și Genunchi articulații. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Se ajustează câmpul de iradiere la 1 țol (2.5 cm) pe laturi și la 1½ țoli (3.8 cm) dincolo de articulațiile gleznei și genunchiului. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Gleznă (Articulație Talocrurală) și Genunchi articulații pe one sau more imagini
-    - Entire membru inferior în true Incidență de Profil (lateral)
-    - distal fibula superimposed prin posterior half de tibia
-    - Slight overlap de tibia pe proximal cap peronier (fibular)
-    - Moderate separation de tibial și fibular corpuri sau shafts (except la their articular ends)
-    - Possibly reduced superimposition de femoral condyles because de divergence de fascicul
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Articulațiile gleznei (talocrurale) și genunchiului pe una sau mai multe imagini
+    - Întreaga gambă în incidență de profil adevărată
+    - fibula distală suprapusă peste jumătatea posterioară a tibiei
+    - suprapunere ușoară a tibiei peste capul fibulei proximale
+    - separare moderată a corpurilor sau diafizelor tibiei și fibulei, cu excepția extremităților articulare
+    - suprapunere posibil redusă a condililor femurali din cauza divergenței fasciculului
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -198,6 +198,7 @@ title: Rx Leg — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -237,55 +238,3 @@ title: Rx Leg — Incidență de Profil (Lateral) — Medio-Lateral (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 536–538](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-tibia, fibula, și adjacent articulații (Fig. 7.114).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe sides și 1½ inches (3.8 cm) beyond ankle și genunchi articulații. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe midpoint de membru inferior.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Ankle și genunchi articulații pe one sau more imagini
-• Entire membru inferior în true poziție de profil (lateral)
-• distal fibula superimposed prin posterior half de tibia
-• Slight overlap de tibia pe proximal cap peronier (fibular)
-• Moderate separation de tibial și fibular corpuri sau shafts (except la their articular ends)
-• Possibly reduced superimposition de femoral condyles because de divergence de fascicul
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Turn pacientul spre afected side cu membru inferior pe receptorul de imagine.
-• se ajustează rotație de corp la place rotulă (patelă) perpendicular pe receptorul de imagine (RI) și ensure that line drawn through femoral condyles
-este also perpendicular (Fig. 7.113).
-• Place săculeți cu nisip supports where needed pentru pacientul’s comfort și la stabilize corp poziție (Fig. 7.113A).
-• genunchi poate fie flectat, if necessary, la ensure true poziție de profil (lateral).
-• incidență poate fie done cu receptorul de imagine diagonal pentru include ankle și genunchi articulații sau two incidențe sunt made—one de membru inferior la
-include articulație, și one pentru include other articulație.
-Alternative method
-• When pacientul cannot fie turned de la decubit dorsal, lateromedial lateral incidență poate fie taken cross-table using orizontal raza centrală.
-• Lift membru inferior high enough pentru assistant la slide rigid support under pacientul’s membru inferior.
-• receptorul de imagine poate fie plasat între membre inferioare, și raza centrală poate fie orientat de la lateral side.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 × 43 cm) longitudinal sau
-diagonal.
-

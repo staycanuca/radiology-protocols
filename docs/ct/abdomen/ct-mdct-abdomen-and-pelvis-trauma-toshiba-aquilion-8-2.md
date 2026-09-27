@@ -13,6 +13,10 @@ contrast:
   timing: 45 to 60
   trigger: 120 - 180 HU
   volume: 140 mL
+iris_reference:
+  chapter: Aparat uro-genital și glande suprarenale
+  radiation_dose: Clasa 4 (Ridicată > 10 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-20'
 modality: ct
 notes:
@@ -102,10 +106,14 @@ title: CT Abdomen and Pelvis (Trauma) (Toshiba – Aquilion 8)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            Pentru evaluarea oportunității clinice, gradul de recomandare (A/B/C) și nivelul de iradiere (comparativ cu Ecografia, RMN sau Radiografia), consultați **[Ghidul Național IRIS](../../iris.md)** (Capitolul: *Aparat digestiv & Abdomen*).
+            - **Capitol Ghid IRIS:** *Aparat uro-genital și glande suprarenale*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 4 (Ridicată > 10 mSv)`
 
-            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Web PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+            [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Pregătire Pacient__
+
 
     ---
 

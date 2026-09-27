@@ -25,6 +25,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-lombara-antero-posterior-basic-p197-clark/fig_4.jpeg
+iris_reference:
+  chapter: Coloană vertebrală
+  radiation_dose: Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: 'pentru pacienții relativ apți, această incidență poate fi efectuată cu pacientul
@@ -111,20 +115,22 @@ title: Rx Coloană Lombară Antero-Posterior (AP) - de bază
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat în decubit dorsal pe masa radiologică, cu planul mediosagital coincident cu linia mediană a mesei și perpendicular pe aceasta și pe Bucky.
-• spinele iliace anterosuperioare trebuie să fie echidistante față de suprafața mesei.
-• șoldurile și genunchii sunt flectați, iar picioarele sunt așezate cu suprafața plantară pe suprafața mesei pentru a reduce arcul lombar și a aduce regiunea lombară a coloanei vertebrale paralelă cu caseta.
-• caseta trebuie să fie suficient de mare pentru a include coloana toracală inferioară și articulațiile sacroiliace și este centrată la nivelul marginii costale inferioare.
-• expunerea trebuie efectuată în apnee, la sfârșitul expirului, deoarece cupolele diafragmatice se vor deplasa superior. Aerul din torace (câmpurile pulmonare) ar produce altfel o diferență mare de densitate optică și un contrast redus între coloana lombară superioară și inferioară.
+    - **Poziție Pacient:**
+        - pacientul este culcat în decubit dorsal pe masa radiologică, cu planul mediosagital coincident cu linia mediană a mesei și perpendicular pe aceasta și pe Bucky.
+        - spinele iliace anterosuperioare trebuie să fie echidistante față de suprafața mesei.
+        - șoldurile și genunchii sunt flectați, iar picioarele sunt așezate cu suprafața plantară pe suprafața mesei pentru a reduce arcul lombar și a aduce regiunea lombară a coloanei vertebrale paralelă cu caseta.
+        - caseta trebuie să fie suficient de mare pentru a include coloana toracală inferioară și articulațiile sacroiliace și este centrată la nivelul marginii costale inferioare.
+        - expunerea trebuie efectuată în apnee, la sfârșitul expirului, deoarece cupolele diafragmatice se vor deplasa superior. Aerul din torace (câmpurile pulmonare) ar produce altfel o diferență mare de densitate optică și un contrast redus între coloana lombară superioară și inferioară.
     - **Punct de Centrare Fascicul:** • se orientează raza centrală spre linia mediană la nivelul marginii costale inferioare (L3).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -163,9 +169,9 @@ title: Rx Coloană Lombară Antero-Posterior (AP) - de bază
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    pentru pacienții relativ apți, această incidență poate fi efectuată cu pacientul în poziție postero-anterioară (PA). Aceasta permite o vizualizare mai bună a spațiilor discale și a articulațiilor sacroiliace, deoarece concavitatea lordozei lombare este orientată spre tub, astfel încât fasciculul divergent trece direct prin aceste structuri. Deși mărirea este crescută, aceasta nu afectează semnificativ calitatea imaginii.
-182 Incidență antero-posterioară (AP) Incidență postero-anterioară (PA): vizualizare mai bună a spațiilor discale și a articulațiilor SI
+    pentru pacienții relativ apți, această incidență poate fi efectuată cu pacientul în poziție postero-anterioară (PA). Aceasta permite o vizualizare mai bună a spațiilor discale și a articulațiilor sacroiliace, deoarece concavitatea lordozei lombare este orientată spre tub, astfel încât fasciculul divergent trece direct prin aceste structuri. Deși mărirea este crescută, aceasta nu afectează semnificativ calitatea imaginii. 182 Incidență antero-posterioară (AP) Incidență postero-anterioară (PA): vizualizare mai bună a spațiilor discale și a articulațiilor SI
 
 
 ### 🖼️ Imagini

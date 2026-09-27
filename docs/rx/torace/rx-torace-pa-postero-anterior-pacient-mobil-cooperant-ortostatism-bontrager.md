@@ -2,43 +2,50 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee la sfârșitul celui de-al doilea inspir profund complet.
 category: torace
-centering: perpendicular pe receptorul de imagine și centrată pe linia medio-sagitală
-  la nivelul vertebrei T7 (7 la 8 inches [18 la 20 cm] below vertebra proeminentă
-  (apofiza spinoasă C7), sau la inferior angle de Omoplat (Scapulă)) receptorul de
-  imagine centrat pe raza centrală
+centering: perpendicular pe receptorul de imagine și centrată pe linia mediosagitală
+  la nivelul vertebrei T7 (7 până la 8 țoli [18 până la 20 cm] sub vertebra proeminentă
+  (apofiza spinoasă C7) sau la unghiul inferior al omoplatului (scapulei)); receptorul
+  de imagine centrat pe raza centrală
 clinical_indications:
-- When performed Ortostatism, PA evidențiază revărsat pleural (pleurezie), pneumotorax,
-  atelectazie pulmonară, și semne de infecție respiratorie (pneumonie, bronhopneumonie)
+- Când este efectuată în ortostatism, incidența PA evidențiază revărsat pleural (pleurezie),
+  pneumotorax, atelectazie pulmonară și semne de infecție respiratorie (pneumonie,
+  bronhopneumonie).
 images:
 - caption: Fig. 2.52 PA Torace.
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 2.52 PA chest.)
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.52 torace
+    PA.)
   url: assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager/fig_1.jpeg
 - caption: Fig. 2.53 PA Torace.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.53
-    PA chest.)
+    torace PA.)
   url: assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager/fig_2.jpeg
 - caption: Fig. 2.54 PA Torace.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.54
-    PA chest.)
+    torace PA.)
   url: assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: scolioză / vicii de postură ale coloanei și kyphosis poate cause asymmetry
-  de articulații sternoclaviculare și rib cage margins, ca evidenced prin R la L spinal
-  curvature.
-position: 'Pacient: pacient Ortostatism, picioarele ușor depărtate pentru stabilitate,
-  greutatea distribuită egal pe ambele picioare Bărbia ridicată și sprijinită pe stativul
-  receptorului Mâinile poziționate pe șolduri, palmele orientate spre exterior, coatele
-  parțial flectate (Fig. 2.52) Umerii rotiți anterior spre receptor pentru degajarea
-  omoplaților la allow scapulae la move laterally clear de câmpuri pulmonare; umerii
-  coborâți pentru eliberarea apexurilor pulmonare la move clavicles below apexuri
-  (vârfuri pulmonare); Regiune anatomică: Alinierea planului medio-sagital cu raza
-  centrală și cu midline de receptorul de imagine cu equal margins între lateral thorax
-  și sides de receptorul de imagine. Asigurarea lipsei rotației toracelui (simetrie
-  bilaterală) prin placing planul medio-coronal paralel cu receptorul de imagine.
-  Raise sau lower raza centrală și receptorul de imagine ca needed la level de T7
-  pentru average pacient (top de receptorul de imagine este approximately 1½ la 2
-  inches [4 la 5 cm] above umeri pe average pacienți).'
+notes: Scolioza, viciile de postură ale coloanei și cifoza pot cauza asimetria articulațiilor
+  sternoclaviculare și a marginilor cutiei toracice, evidențiată prin curbura coloanei
+  de la dreapta la stânga.
+position: 'Pacient: pacient. Ortostatism, picioarele ușor depărtate pentru stabilitate,
+  greutatea distribuită egal pe ambele picioare. Bărbia ridicată și sprijinită pe
+  stativul receptorului. Mâinile poziționate pe șolduri, palmele orientate spre exterior,
+  coatele parțial flectate (Fig. 2.52). Umerii rotiți anterior spre receptor pentru
+  degajarea omoplaților, permițând scapulelor să se deplaseze lateral, în afara câmpurilor
+  pulmonare; umerii coborâți pentru eliberarea apexurilor pulmonare, permițând claviculelor
+  să coboare sub apexuri (vârfuri pulmonare). Regiune anatomică: alinierea planului
+  mediosagital cu raza centrală și cu linia mediană a receptorului de imagine, cu
+  margini egale între toracele lateral și laturile receptorului de imagine. Se asigură
+  absența rotației toracelui (simetrie bilaterală) prin poziționarea planului mediocoronal
+  paralel cu receptorul de imagine. Se ridică sau se coboară raza centrală și receptorul
+  de imagine, după cum este necesar, până la nivelul T7 pentru pacientul mediu (partea
+  superioară a receptorului de imagine este la aproximativ 1½ până la 2 țoli [4 până
+  la 5 cm] deasupra umerilor la pacienții medii).'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -46,49 +53,53 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Included sunt Vizualizarea completă ambelor câmpuri pulmonare, de la apexuri până
-  la unghiurile costodiafragmatice și airfilled trachea de la T1 down.
-- Hilum region markings, heart, great vessels, și Grilaj Costal și Stern sunt evidențiat
-  (Figs. 2.53 și 2.54). poziție
-- Chin sufficiently ridicat la prevent superimposing apexuri (vârfuri pulmonare).
-- Sufficient forward Umăr rotație la prevent superimposition de scapulae over câmpuri
-  pulmonare.
-- Larger Mamografie (Sân) shadows (if present) primarily lateral la câmpuri pulmonare.
-- 'Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase:
-  ambele articulații sternoclaviculare same distance de la center line de coloană
-  vertebrală.4'
-- Distance de la lateral rib margins la coloană vertebrală same pe fiecare side de
-  la upper la lower rib cage (see NOTE 2).
-- Collimation margins near equal pe top și bottom cu center de collimation field (raza
-  centrală) la T7 region pe most pacienți.
-- 'Inspir profund adecvat: minim 9-10 arcuri costale posterioare vizibile cu fără
+- Se include vizualizarea completă a ambelor câmpuri pulmonare, de la apexuri până
+  la unghiurile costodiafragmatice, precum și a traheei pline cu aer de la T1 în jos.
+- Desenul regiunii hilare, inima, vasele mari, grilajul costal și sternul sunt evidențiate
+  (Fig. 2.53 și 2.54). Poziție.
+- Bărbia suficient de ridicată pentru a preveni suprapunerea peste apexuri (vârfurile
+  pulmonare).
+- Rotație suficientă a umerilor înainte pentru a preveni suprapunerea omoplaților
+  peste câmpurile pulmonare.
+- Umbrele mamare mai mari (dacă sunt prezente) sunt în principal laterale față de
+  câmpurile pulmonare.
+- 'Absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor
+  spinoase; ambele articulații sternoclaviculare sunt la aceeași distanță de linia
+  mediană a coloanei vertebrale.4'
+- Distanța de la marginile laterale ale coastelor la coloana vertebrală este aceeași
+  pe fiecare parte, de la cutia toracică superioară la cea inferioară (vezi NOTA 2).
+- Marginile colimării sunt aproape egale sus și jos, cu centrul câmpului de colimare
+  (raza centrală) în regiunea T7 la majoritatea pacienților.
+- 'Inspir profund adecvat: minimum 9-10 arcuri costale posterioare vizibile, fără
   mișcare.'
-- Visualizes minimum de 10 posterior Coaste (Grilaj Costal) above cupole diafragmatice
-  (11 pe many pacienți). expunere
-- fără mișcare, ca evidenced prin net outlines de rib margins, cupole diafragmatice,
-  și heart margini și also net lung markings în hilar region și throughout plămâni.
-- optim receptorul de imagine expunere cu sufficient longscale contrast pentru visualization
-  de fine vascular markings within plămâni.
-- Faint outlines de la least midthoracic și upper coloană toracală și posterior Coaste
-  (Grilaj Costal) vizibil through heart și mediastinal structures.
+- Evidențiază minimum 10 coaste posterioare (grilaj costal) deasupra cupolelor diafragmatice
+  (11 la mulți pacienți). Expunere.
+- Fără mișcare, evidențiată prin contururile clare ale marginilor coastelor, cupolelor
+  diafragmatice și marginilor inimii, precum și prin desenul pulmonar clar în regiunea
+  hilară și în întregul plămân.
+- Expunerea optimă a receptorului de imagine, cu contrast suficient pe scară lungă
+  pentru vizualizarea desenului vascular fin din plămâni.
+- Contururi discrete ale cel puțin coloanei toracale mijlocii și superioare și ale
+  coastelor posterioare (grilaj costal), vizibile prin inimă și structurile mediastinale.
 sid_dff: 180 cm
 slug: rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager
 sources:
 - title: Bontrager's Textbook of Radiographic Positioning (Ed. 9/10), Pagina 102
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
-  collimation: Collimate pe four sides la area de câmpuri pulmonare (top margine de
-    illuminated field trebuie să fie la level de vertebra proeminentă (apofiza spinoasă
-    C7), și lateral margine trebuie să fie la outer skin margins).
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
+  collimation: Colimați pe cele patru laturi la nivelul câmpurilor pulmonare (marginea
+    superioară a câmpului iluminat trebuie să fie la nivelul vertebrei proeminente
+    (apofiza spinoasă C7), iar marginea laterală trebuie să fie la marginile externe
+    ale pielii).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mare (1.0 - 1.2 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: 110-125
   mas: DE CONFIGURAT PE APARAT
-title: Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
+title: Rx torace PA (postero-anterior) (pacient mobil / cooperant (ortostatism))
 ---
-# Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
+# Rx torace PA (postero-anterior) (pacient mobil / cooperant (ortostatism))
 
 
 <div class="rx-meta-bar">
@@ -107,22 +118,23 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
 
     === "Indicații Clinice"
 
-        - When performed Ortostatism, PA evidențiază revărsat pleural (pleurezie), pneumotorax, atelectazie pulmonară, și semne de infecție respiratorie (pneumonie, bronhopneumonie)
+        - Când este efectuată în ortostatism, incidența PA evidențiază revărsat pleural (pleurezie), pneumotorax, atelectazie pulmonară și semne de infecție respiratorie (pneumonie, bronhopneumonie).
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: pacient Ortostatism, picioarele ușor depărtate pentru stabilitate, greutatea distribuită egal pe ambele picioare Bărbia ridicată și sprijinită pe stativul receptorului Mâinile poziționate pe șolduri, palmele orientate spre exterior, coatele parțial flectate (Fig. 2.52) Umerii rotiți anterior spre receptor pentru degajarea omoplaților la allow scapulae la move laterally clear de câmpuri pulmonare; umerii coborâți pentru eliberarea apexurilor pulmonare la move clavicles below apexuri (vârfuri pulmonare); Regiune anatomică: Alinierea planului medio-sagital cu raza centrală și cu midline de receptorul de imagine cu equal margins între lateral thorax și sides de receptorul de imagine. Asigurarea lipsei rotației toracelui (simetrie bilaterală) prin placing planul medio-coronal paralel cu receptorul de imagine. Raise sau lower raza centrală și receptorul de imagine ca needed la level de T7 pentru average pacient (top de receptorul de imagine este approximately 1½ la 2 inches [4 la 5 cm] above umeri pe average pacienți).
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine și centrată pe linia medio-sagitală la nivelul vertebrei T7 (7 la 8 inches [18 la 20 cm] below vertebra proeminentă (apofiza spinoasă C7), sau la inferior angle de Omoplat (Scapulă)) receptorul de imagine centrat pe raza centrală
+    - **Poziție Pacient:** Pacient: pacient. Ortostatism, picioarele ușor depărtate pentru stabilitate, greutatea distribuită egal pe ambele picioare. Bărbia ridicată și sprijinită pe stativul receptorului. Mâinile poziționate pe șolduri, palmele orientate spre exterior, coatele parțial flectate (Fig. 2.52). Umerii rotiți anterior spre receptor pentru degajarea omoplaților, permițând scapulelor să se deplaseze lateral, în afara câmpurilor pulmonare; umerii coborâți pentru eliberarea apexurilor pulmonare, permițând claviculelor să coboare sub apexuri (vârfuri pulmonare). Regiune anatomică: alinierea planului mediosagital cu raza centrală și cu linia mediană a receptorului de imagine, cu margini egale între toracele lateral și laturile receptorului de imagine. Se asigură absența rotației toracelui (simetrie bilaterală) prin poziționarea planului mediocoronal paralel cu receptorul de imagine. Se ridică sau se coboară raza centrală și receptorul de imagine, după cum este necesar, până la nivelul T7 pentru pacientul mediu (partea superioară a receptorului de imagine este la aproximativ 1½ până la 2 țoli [4 până la 5 cm] deasupra umerilor la pacienții medii).
+    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine și centrată pe linia mediosagitală la nivelul vertebrei T7 (7 până la 8 țoli [18 până la 20 cm] sub vertebra proeminentă (apofiza spinoasă C7) sau la unghiul inferior al omoplatului (scapulei)); receptorul de imagine centrat pe raza centrală
     - **Distanță Focar-Film (DFF / SID):** 180 cm
     - **Comandă Respiratorie:** Apnee la sfârșitul celui de-al doilea inspir profund complet.
 
@@ -137,27 +149,27 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
     | **Distanță Focar-Film (DFF / SID)** | 180 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mare (1.0 - 1.2 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
-    | **Colimare Fascicul** | Collimate pe four sides la area de câmpuri pulmonare (top margine de illuminated field trebuie să fie la level de vertebra proeminentă (apofiza spinoasă C7), și lateral margine trebuie să fie la outer skin margins). |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
+    | **Colimare Fascicul** | Colimați pe cele patru laturi la nivelul câmpurilor pulmonare (marginea superioară a câmpului iluminat trebuie să fie la nivelul vertebrei proeminente (apofiza spinoasă C7), iar marginea laterală trebuie să fie la marginile externe ale pielii). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Included sunt Vizualizarea completă ambelor câmpuri pulmonare, de la apexuri până la unghiurile costodiafragmatice și airfilled trachea de la T1 down.
-    - Hilum region markings, heart, great vessels, și Grilaj Costal și Stern sunt evidențiat (Figs. 2.53 și 2.54). poziție
-    - Chin sufficiently ridicat la prevent superimposing apexuri (vârfuri pulmonare).
-    - Sufficient forward Umăr rotație la prevent superimposition de scapulae over câmpuri pulmonare.
-    - Larger Mamografie (Sân) shadows (if present) primarily lateral la câmpuri pulmonare.
-    - Absența rotației anatomice: clavicule echidistante față de linia apofizelor spinoase: ambele articulații sternoclaviculare same distance de la center line de coloană vertebrală.4
-    - Distance de la lateral rib margins la coloană vertebrală same pe fiecare side de la upper la lower rib cage (see NOTE 2).
-    - Collimation margins near equal pe top și bottom cu center de collimation field (raza centrală) la T7 region pe most pacienți.
-    - Inspir profund adecvat: minim 9-10 arcuri costale posterioare vizibile cu fără mișcare.
-    - Visualizes minimum de 10 posterior Coaste (Grilaj Costal) above cupole diafragmatice (11 pe many pacienți). expunere
-    - fără mișcare, ca evidenced prin net outlines de rib margins, cupole diafragmatice, și heart margini și also net lung markings în hilar region și throughout plămâni.
-    - optim receptorul de imagine expunere cu sufficient longscale contrast pentru visualization de fine vascular markings within plămâni.
-    - Faint outlines de la least midthoracic și upper coloană toracală și posterior Coaste (Grilaj Costal) vizibil through heart și mediastinal structures.
+    - Se include vizualizarea completă a ambelor câmpuri pulmonare, de la apexuri până la unghiurile costodiafragmatice, precum și a traheei pline cu aer de la T1 în jos.
+    - Desenul regiunii hilare, inima, vasele mari, grilajul costal și sternul sunt evidențiate (Fig. 2.53 și 2.54). Poziție.
+    - Bărbia suficient de ridicată pentru a preveni suprapunerea peste apexuri (vârfurile pulmonare).
+    - Rotație suficientă a umerilor înainte pentru a preveni suprapunerea omoplaților peste câmpurile pulmonare.
+    - Umbrele mamare mai mari (dacă sunt prezente) sunt în principal laterale față de câmpurile pulmonare.
+    - Absența rotației anatomice: claviculele sunt echidistante față de linia apofizelor spinoase; ambele articulații sternoclaviculare sunt la aceeași distanță de linia mediană a coloanei vertebrale.4
+    - Distanța de la marginile laterale ale coastelor la coloana vertebrală este aceeași pe fiecare parte, de la cutia toracică superioară la cea inferioară (vezi NOTA 2).
+    - Marginile colimării sunt aproape egale sus și jos, cu centrul câmpului de colimare (raza centrală) în regiunea T7 la majoritatea pacienților.
+    - Inspir profund adecvat: minimum 9-10 arcuri costale posterioare vizibile, fără mișcare.
+    - Evidențiază minimum 10 coaste posterioare (grilaj costal) deasupra cupolelor diafragmatice (11 la mulți pacienți). Expunere.
+    - Fără mișcare, evidențiată prin contururile clare ale marginilor coastelor, cupolelor diafragmatice și marginilor inimii, precum și prin desenul pulmonar clar în regiunea hilară și în întregul plămân.
+    - Expunerea optimă a receptorului de imagine, cu contrast suficient pe scară lungă pentru vizualizarea desenului vascular fin din plămâni.
+    - Contururi discrete ale cel puțin coloanei toracale mijlocii și superioare și ale coastelor posterioare (grilaj costal), vizibile prin inimă și structurile mediastinale.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -169,8 +181,9 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    scolioză / vicii de postură ale coloanei și kyphosis poate cause asymmetry de articulații sternoclaviculare și rib cage margins, ca evidenced prin R la L spinal curvature.
+    Scolioza, viciile de postură ale coloanei și cifoza pot cauza asimetria articulațiilor sternoclaviculare și a marginilor cutiei toracice, evidențiată prin curbura coloanei de la dreapta la stânga.
 
 
 ### 🖼️ Imagini
@@ -181,7 +194,7 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
 
 ![Fig. 2.52 PA Torace.](../../assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 2.52 PA Torace.</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 2.52 PA chest.)</span></figcaption>
+<figcaption><strong>Fig. 2.52 PA Torace.</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 2.52 torace PA.)</span></figcaption>
 
 </figure>
 
@@ -189,7 +202,7 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
 
 ![Fig. 2.53 PA Torace.](../../assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 2.53 PA Torace.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.53 PA chest.)</span></figcaption>
+<figcaption><strong>Fig. 2.53 PA Torace.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.53 torace PA.)</span></figcaption>
 
 </figure>
 
@@ -197,7 +210,7 @@ title: Rx Torace PA (Postero-Anterior) (Pacient Mobil / Cooperant (Ortostatism))
 
 ![Fig. 2.54 PA Torace.](../../assets/images/protocols/bontrager/rx-torace-pa-postero-anterior-pacient-mobil-cooperant-ortostatism-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 2.54 PA Torace.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.54 PA chest.)</span></figcaption>
+<figcaption><strong>Fig. 2.54 PA Torace.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 2.54 torace PA.)</span></figcaption>
 
 </figure>
 

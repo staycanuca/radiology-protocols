@@ -16,6 +16,10 @@ images:
 - caption: Merrill — pagina 1160, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-large-intestine-incidenta-pa-axiala-p1157-merrill/p1160_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Această incidență axială se efectuează uneori cu pacientul în poziție oblică
@@ -115,11 +119,12 @@ title: Rx intestin gros — Incidență PA Axială (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -162,6 +167,7 @@ title: Rx intestin gros — Incidență PA Axială (Merrill)
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Această incidență axială se efectuează uneori cu pacientul în poziție oblică anterioară dreaptă (OAD / RAO), pentru a reduce suplimentar suprapunerile în regiunea rectosigmoidiană.
@@ -209,50 +215,3 @@ title: Rx intestin gros — Incidență PA Axială (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 15. Digestive System: Salivary Glands, Alimentary Canal, And Biliary System, pagini 1157–1160](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Regiunea rectosigmoidiană a intestinului gros (colon) (Fig. 15.113 și 15.114).
-
-### colimare
-
-• Se ajustează câmpul de iradiere astfel încât să nu depășească 14 × 17 țoli (35 × 43 cm) sau 10 × 12 țoli (24 × 30). Se plasează markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• Orientată caudal la 30 la 40 grade, pentru a pătrunde pe linia mediană a corpului la nivelul spinei iliace antero-superioare (SIAS).
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
-• Regiunea rectosigmoidiană centrată pe imagine când se utilizează un câmp de expunere/receptor de imagine de 10 × 12 țoli (24 × 30 cm)
-• Regiunea rectosigmoidiană cu mai puține suprapuneri decât în incidența PA, datorită angulării razei centrale
-• Colonul transvers și ambele flexuri nu sunt întotdeauna incluse
-• Penetrarea substanței de contrast
-
-### note
-
-Această incidență axială se efectuează uneori cu pacientul în poziție oblică anterioară dreaptă (OAD / RAO), pentru a reduce suplimentar suprapunerile în regiunea rectosigmoidiană.
-
-### part_pos
-
-• Se centrează MSP la grilă.
-• Se ajustează centrul receptorului de imagine la nivelul crestelor iliace (Fig. 15.112).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral.
-
-### respirație
-
-apnee (oprirea respirației).
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm) sau 14 × 17 țoli (35 × 43 cm), longitudinal.
-

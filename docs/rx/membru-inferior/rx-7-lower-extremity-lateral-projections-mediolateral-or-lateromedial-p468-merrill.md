@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: perpendicular pe plane de receptorul de imagine, entering articulații interfalangiene
-  (IF) de great toe sau proximal articulații interfalangiene (IF) de lesser Degete
-  Picior.
+centering: perpendicular pe planul receptorului de imagine, intrând la nivelul articulațiilor
+  interfalangiene (IF) ale halucelui sau al articulațiilor interfalangiene (IF) proximale
+  ale degetelor mici de la picior.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -32,43 +32,50 @@ images:
 - caption: Merrill — pagina 473, imaginea 8
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-7-lower-extremity-lateral-projections-mediolateral-or-lateromedial-p468-merrill/p473_fig8.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Manipulate Degete Picior only if fără deformity este apparent.
-position: Se instruiește pacientul să lie în lateral Decubit poziție. Support afected
-  extremity pe săculeți cu nisip și adjust it în comfortable poziție. la prevent superimposition,
-  tape Degete Picior above one being examined into flectat poziție; a 4 × 4-inch gauze
-  pad also poate fie used la separate Degete Picior.; Great toe, second toe se poziționează
-  pacientul pe unaﬀected side pentru these two Degete Picior. Place receptorul de
-  imagine under medial side de Picior și center it la afected toe. Grasp pacientul’s
-  extremity prin heel și Genunchi și adjust its poziție la place toe în true Incidență
-  de Profil (lateral) (plane through articulații metatarsofalangiene (MTF) will fie
-  perpendicular pe receptorul de imagine). se ajustează axa longitudinală de receptorul
-  de imagine so that it este paralel cu axa longitudinală de toe (Figs. 7.24 și 7.25).
-  Third, fourth, fifth Degete Picior se poziționează pacientul pe aﬀected side pentru
-  these three Degete Picior. Place receptorul de imagine under lateral side de Picior
-  și center it la Degete Picior. Grasp pacient’s extremity prin heel și Genunchi și
-  adjust its poziție la place Degete Picior în true Incidență de Profil (lateral)
-  (plane through articulații metatarsofalangiene (MTF) este perpendicular pe receptorul
-  de imagine). se ajustează axa longitudinală de receptorul de imagine so that it
-  este paralel cu axa longitudinală de toe. Support ridicat heel pe săculeți cu nisip
-  sau sponge pentru imobilizare (Figs. 7.26 through 7.28). se efectuează ecranarea
-  gonadelor cu șorț plumbat.
+notes: Se mobilizează degetele de la picior numai dacă nu este evidentă nicio deformare.
+position: Se instruiește pacientul să stea în decubit lateral. Se sprijină extremitatea
+  afectată pe săculeți cu nisip și se ajustează într-o poziție confortabilă. Pentru
+  a preveni suprapunerea, se fixează cu bandă adezivă degetele de la picior situate
+  deasupra celui examinat într-o poziție flectată; pentru separarea degetelor de la
+  picior poate fi utilizat și un tampon de tifon de 4 × 4 țoli; pentru haluce și al
+  doilea deget de la picior, pacientul este poziționat pe partea neafectată pentru
+  aceste două degete de la picior. Se plasează receptorul de imagine sub partea medială
+  a piciorului și se centrează pe degetul afectat. Se prinde extremitatea pacientului
+  de călcâi și de genunchi și se ajustează poziția pentru a plasa degetul în incidență
+  de profil adevărată (laterală) (planul prin articulațiile metatarsofalangiene (MTF)
+  trebuie să fie perpendicular pe receptorul de imagine). Se ajustează axa longitudinală
+  a receptorului de imagine astfel încât să fie paralelă cu axa longitudinală a degetului
+  (Fig. 7.24 și 7.25). Pentru al treilea, al patrulea și al cincilea deget de la picior,
+  pacientul este poziționat pe partea afectată pentru aceste trei degete de la picior.
+  Se plasează receptorul de imagine sub partea laterală a piciorului și se centrează
+  pe degetele de la picior. Se prinde extremitatea pacientului de călcâi și de genunchi
+  și se ajustează poziția pentru a plasa degetele în incidență de profil adevărată
+  (laterală) (planul prin articulațiile metatarsofalangiene (MTF) este perpendicular
+  pe receptorul de imagine). Se ajustează axa longitudinală a receptorului de imagine
+  astfel încât să fie paralelă cu axa longitudinală a degetului. Se sprijină călcâiul
+  ridicat pe săculeți cu nisip sau pe un burete pentru imobilizare (Fig. 7.26 până
+  la 7.28). Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Entire toe, fără superimposition de adjacent Degete Picior; when superimposition
-  cannot fie avoided, proximal phalanx trebuie să fie vizualizat
-- Toe(s) în true Incidență de Profil (lateral)
-- Toenail în profile, if visualized și normal
-- Concave, plantar surfaces de falange
-- Absența rotației anatomice (simetrie bilaterală perfectă) de falange
-- Open articulații interfalangiene (IF) spaces; articulații metatarsofalangiene (MTF)
-  sunt overlapped but poate fie seen în some pacienți
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Degetul întreg, fără suprapunerea degetelor de la picior adiacente; când suprapunerea
+  nu poate fi evitată, trebuie vizualizată falanga proximală
+- Degetul sau degetele de la picior în incidență de profil adevărată (laterală)
+- Unghia de la picior în profil, dacă este vizualizată și normală
+- Suprafețele concave, plantare ale falangelor
+- Absența rotației anatomice (simetrie bilaterală perfectă) a falangelor
+- Spații articulare interfalangiene (IF) deschise; articulațiile metatarsofalangiene
+  (MTF) sunt suprapuse, dar pot fi vizibile la unii pacienți
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-7-lower-extremity-lateral-projections-mediolateral-or-lateromedial-p468-merrill
 source_pages:
@@ -79,91 +86,93 @@ source_pages:
 - 472
 - 473
 source_sections:
-  anatomy: lateral incidență de falange de toe și IP articulations projected liber
-    de other toes (Figs. 7.29 through 7.33).
-  collimation: '• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides
-    de toes, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene
-    (MTF). Place side
+  anatomy: incidența laterală a falangelor degetului de la picior și articulațiile
+    IF proiectate liber de celelalte degete de la picior (Fig. 7.29 până la 7.33).
+  collimation: • ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor
+    de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene
+    (MTF). Plasați markerul de lateralitate în câmpul de expunere colimat.
+  cr: • perpendicular pe planul receptorului de imagine, intrând la nivelul articulațiilor
+    interfalangiene (IF) ale halucelui sau al articulațiilor interfalangiene (IF)
+    proximale ale degetelor mici de la picior.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    marker în collimated expunere field.'
-  cr: • perpendicular pe plane de receptorul de imagine, entering articulații interfalangiene
-    (IF) de great toe sau proximal articulații interfalangiene (IF) de lesser toes.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Degetul întreg, fără suprapunerea degetelor de la picior adiacente; când suprapunerea
+    nu poate fi evitată, trebuie vizualizată falanga proximală
 
-    • Entire toe, fără superimposition de adjacent toes; when superimposition cannot
-    fie avoided, proximal phalanx trebuie să fie vizualizat
+    • Degetul sau degetele de la picior în poziție de profil adevărată (laterală)
 
-    • Toe(s) în true poziție de profil (lateral)
+    • Unghia de la picior în profil, dacă este vizualizată și normală
 
-    • Toenail în profile, if visualized și normal
+    • Suprafețele concave, plantare ale falangelor
 
-    • Concave, plantar surfaces de falange
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a falangelor
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de falange
+    • Spații articulare interfalangiene (IF) deschise; articulațiile metatarsofalangiene
+    (MTF) sunt suprapuse, dar pot fi vizibile la unii pacienți
 
-    • Open articulații interfalangiene (IF) spaces; articulații metatarsofalangiene
-    (MTF) sunt overlapped but poate fie seen în some pacienți
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  notes: Se mobilizează degetele de la picior numai dacă nu este evidentă nicio deformare.
+  part_pos: 'Haluce, al doilea deget de la picior
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: Manipulate toes only if fără deformity este apparent.
-  part_pos: 'Great toe, second toe
+    • pacientul este poziționat pe partea neafectată pentru aceste două degete de
+    la picior.
 
-    • se poziționează pacientul pe unaﬀected side pentru these two toes.
+    • Se plasează receptorul de imagine sub partea medială a piciorului și se centrează
+    pe degetul afectat.
 
-    • Place receptorul de imagine under medial side de picior și center it la afected
-    toe.
+    • Se prinde extremitatea pacientului de călcâi și de genunchi și se ajustează
+    poziția pentru a plasa degetul în poziție de profil adevărată (laterală) (planul
+    prin articulațiile MTF trebuie să fie perpendicular pe receptorul de imagine).
 
-    • Grasp pacientul’s extremity prin heel și genunchi și adjust its poziție la place
-    toe în true poziție de profil (lateral) (plane through MTP
+    • Se ajustează axa longitudinală a receptorului de imagine astfel încât să fie
+    paralelă cu axa longitudinală a degetului (Fig. 7.24 și 7.25).
 
-    articulații will fie perpendicular pe receptorul de imagine).
+    Al treilea, al patrulea și al cincilea deget de la picior
 
-    • se ajustează axa longitudinală de receptorul de imagine so that it este paralel
-    cu axa longitudinală de toe (Figs. 7.24 și 7.25).
+    • pacientul este poziționat pe partea afectată pentru aceste trei degete de la
+    picior.
 
-    Third, fourth, fifth toes
+    • Se plasează receptorul de imagine sub partea laterală a piciorului și se centrează
+    pe degete.
 
-    • se poziționează pacientul pe aﬀected side pentru these three toes.
+    • Se prinde extremitatea pacientului de călcâi și de genunchi și se ajustează
+    poziția pentru a plasa degetele în poziție de profil adevărată (laterală) (planul
+    prin articulațiile metatarsofalangiene (MTF) este perpendicular pe receptorul
+    de imagine).
 
-    • Place receptorul de imagine under lateral side de picior și center it la toes.
+    • Se ajustează axa longitudinală a receptorului de imagine astfel încât să fie
+    paralelă cu axa longitudinală a degetului.
 
-    • Grasp pacient’s extremity prin heel și genunchi și adjust its poziție la place
-    toes în true poziție de profil (lateral) (plane through articulații metatarsofalangiene
-    (MTF)
+    • Se sprijină călcâiul ridicat pe săculeți cu nisip sau pe un burete pentru imobilizare
+    (Fig. 7.26 până la 7.28).
 
-    este perpendicular pe receptorul de imagine).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se instruiește pacientul să stea în decubit lateral.
 
-    • se ajustează axa longitudinală de receptorul de imagine so that it este paralel
-    cu axa longitudinală de toe.
+    • Se sprijină extremitatea afectată pe săculeți cu nisip și se ajustează într-o
+    poziție confortabilă.
 
-    • Support ridicat heel pe săculeți cu nisip sau sponge pentru imobilizare (Figs.
-    7.26 through 7.28).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Se instruiește pacientul să lie în lateral recumbent poziție.
-
-    • Support afected extremity pe săculeți cu nisip și adjust it în comfortable poziție.
-
-    • la prevent superimposition, tape toes above one being examined into flectat
-    poziție; a 4 × 4-inch gauze pad also poate fie used
-
-    la separate toes.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Pentru a preveni suprapunerea, se fixează cu bandă adezivă degetele de la picior
+    situate deasupra celui examinat într-o poziție flectată; pentru separarea degetelor
+    poate fi utilizat și un tampon de tifon de 4 × 4 țoli.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 468–473
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de
-    Degete Picior, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene
-    (MTF). Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Membru Inferior — Lateral Incidență — Medio-Lateral or Latero-Medial (Merrill)
+  collimation: ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor
+    de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene
+    (MTF). Plasați markerul de lateralitate în câmpul colimat.
+title: Rx membru inferior — incidență de profil — mediolaterală sau lateromedială
+  (Merrill)
 ---
-# Rx Membru Inferior — Lateral Incidență — Medio-Lateral or Latero-Medial (Merrill)
+# Rx membru inferior — incidență de profil — mediolaterală sau lateromedială (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -187,17 +196,18 @@ title: Rx Membru Inferior — Lateral Incidență — Medio-Lateral or Latero-Me
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Se instruiește pacientul să lie în lateral Decubit poziție. Support afected extremity pe săculeți cu nisip și adjust it în comfortable poziție. la prevent superimposition, tape Degete Picior above one being examined into flectat poziție; a 4 × 4-inch gauze pad also poate fie used la separate Degete Picior.; Great toe, second toe se poziționează pacientul pe unaﬀected side pentru these two Degete Picior. Place receptorul de imagine under medial side de Picior și center it la afected toe. Grasp pacientul’s extremity prin heel și Genunchi și adjust its poziție la place toe în true Incidență de Profil (lateral) (plane through articulații metatarsofalangiene (MTF) will fie perpendicular pe receptorul de imagine). se ajustează axa longitudinală de receptorul de imagine so that it este paralel cu axa longitudinală de toe (Figs. 7.24 și 7.25). Third, fourth, fifth Degete Picior se poziționează pacientul pe aﬀected side pentru these three Degete Picior. Place receptorul de imagine under lateral side de Picior și center it la Degete Picior. Grasp pacient’s extremity prin heel și Genunchi și adjust its poziție la place Degete Picior în true Incidență de Profil (lateral) (plane through articulații metatarsofalangiene (MTF) este perpendicular pe receptorul de imagine). se ajustează axa longitudinală de receptorul de imagine so that it este paralel cu axa longitudinală de toe. Support ridicat heel pe săculeți cu nisip sau sponge pentru imobilizare (Figs. 7.26 through 7.28). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe plane de receptorul de imagine, entering articulații interfalangiene (IF) de great toe sau proximal articulații interfalangiene (IF) de lesser Degete Picior.
+    - **Poziție Pacient:** Se instruiește pacientul să stea în decubit lateral. Se sprijină extremitatea afectată pe săculeți cu nisip și se ajustează într-o poziție confortabilă. Pentru a preveni suprapunerea, se fixează cu bandă adezivă degetele de la picior situate deasupra celui examinat într-o poziție flectată; pentru separarea degetelor de la picior poate fi utilizat și un tampon de tifon de 4 × 4 țoli; pentru haluce și al doilea deget de la picior, pacientul este poziționat pe partea neafectată pentru aceste două degete de la picior. Se plasează receptorul de imagine sub partea medială a piciorului și se centrează pe degetul afectat. Se prinde extremitatea pacientului de călcâi și de genunchi și se ajustează poziția pentru a plasa degetul în incidență de profil adevărată (laterală) (planul prin articulațiile metatarsofalangiene (MTF) trebuie să fie perpendicular pe receptorul de imagine). Se ajustează axa longitudinală a receptorului de imagine astfel încât să fie paralelă cu axa longitudinală a degetului (Fig. 7.24 și 7.25). Pentru al treilea, al patrulea și al cincilea deget de la picior, pacientul este poziționat pe partea afectată pentru aceste trei degete de la picior. Se plasează receptorul de imagine sub partea laterală a piciorului și se centrează pe degetele de la picior. Se prinde extremitatea pacientului de călcâi și de genunchi și se ajustează poziția pentru a plasa degetele în incidență de profil adevărată (laterală) (planul prin articulațiile metatarsofalangiene (MTF) este perpendicular pe receptorul de imagine). Se ajustează axa longitudinală a receptorului de imagine astfel încât să fie paralelă cu axa longitudinală a degetului. Se sprijină călcâiul ridicat pe săculeți cu nisip sau pe un burete pentru imobilizare (Fig. 7.26 până la 7.28). Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe planul receptorului de imagine, intrând la nivelul articulațiilor interfalangiene (IF) ale halucelui sau al articulațiilor interfalangiene (IF) proximale ale degetelor mici de la picior.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -213,22 +223,22 @@ title: Rx Membru Inferior — Lateral Incidență — Medio-Lateral or Latero-Me
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de Degete Picior, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene (MTF). Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | ajustați câmpul de iradiere la 1 țol (2.5 cm) pe toate laturile degetelor de la picior, inclusiv 1 țol (2.5 cm) proximal față de articulațiile metatarsofalangiene (MTF). Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Entire toe, fără superimposition de adjacent Degete Picior; when superimposition cannot fie avoided, proximal phalanx trebuie să fie vizualizat
-    - Toe(s) în true Incidență de Profil (lateral)
-    - Toenail în profile, if visualized și normal
-    - Concave, plantar surfaces de falange
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de falange
-    - Open articulații interfalangiene (IF) spaces; articulații metatarsofalangiene (MTF) sunt overlapped but poate fie seen în some pacienți
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Degetul întreg, fără suprapunerea degetelor de la picior adiacente; când suprapunerea nu poate fi evitată, trebuie vizualizată falanga proximală
+    - Degetul sau degetele de la picior în incidență de profil adevărată (laterală)
+    - Unghia de la picior în profil, dacă este vizualizată și normală
+    - Suprafețele concave, plantare ale falangelor
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a falangelor
+    - Spații articulare interfalangiene (IF) deschise; articulațiile metatarsofalangiene (MTF) sunt suprapuse, dar pot fi vizibile la unii pacienți
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -238,8 +248,9 @@ title: Rx Membru Inferior — Lateral Incidență — Medio-Lateral or Latero-Me
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Manipulate Degete Picior only if fără deformity este apparent.
+    Se mobilizează degetele de la picior numai dacă nu este evidentă nicio deformare.
 
 
 ### 🖼️ Imagini
@@ -324,63 +335,3 @@ title: Rx Membru Inferior — Lateral Incidență — Medio-Lateral or Latero-Me
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 468–473](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-lateral incidență de falange de toe și IP articulations projected liber de other toes (Figs. 7.29 through 7.33).
-
-### collimation
-
-• se ajustează câmp de iradiere la 1 inch (2.5 cm) pe toate sides de toes, including 1 inch (2.5 cm) proximal la articulații metatarsofalangiene (MTF). Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular pe plane de receptorul de imagine, entering articulații interfalangiene (IF) de great toe sau proximal articulații interfalangiene (IF) de lesser toes.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• Entire toe, fără superimposition de adjacent toes; when superimposition cannot fie avoided, proximal phalanx trebuie să fie vizualizat
-• Toe(s) în true poziție de profil (lateral)
-• Toenail în profile, if visualized și normal
-• Concave, plantar surfaces de falange
-• Absența rotației anatomice (simetrie bilaterală perfectă) de falange
-• Open articulații interfalangiene (IF) spaces; articulații metatarsofalangiene (MTF) sunt overlapped but poate fie seen în some pacienți
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Manipulate toes only if fără deformity este apparent.
-
-### part_pos
-
-Great toe, second toe
-• se poziționează pacientul pe unaﬀected side pentru these two toes.
-• Place receptorul de imagine under medial side de picior și center it la afected toe.
-• Grasp pacientul’s extremity prin heel și genunchi și adjust its poziție la place toe în true poziție de profil (lateral) (plane through MTP
-articulații will fie perpendicular pe receptorul de imagine).
-• se ajustează axa longitudinală de receptorul de imagine so that it este paralel cu axa longitudinală de toe (Figs. 7.24 și 7.25).
-Third, fourth, fifth toes
-• se poziționează pacientul pe aﬀected side pentru these three toes.
-• Place receptorul de imagine under lateral side de picior și center it la toes.
-• Grasp pacient’s extremity prin heel și genunchi și adjust its poziție la place toes în true poziție de profil (lateral) (plane through articulații metatarsofalangiene (MTF)
-este perpendicular pe receptorul de imagine).
-• se ajustează axa longitudinală de receptorul de imagine so that it este paralel cu axa longitudinală de toe.
-• Support ridicat heel pe săculeți cu nisip sau sponge pentru imobilizare (Figs. 7.26 through 7.28).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Se instruiește pacientul să lie în lateral recumbent poziție.
-• Support afected extremity pe săculeți cu nisip și adjust it în comfortable poziție.
-• la prevent superimposition, tape toes above one being examined into flectat poziție; a 4 × 4-inch gauze pad also poate fie used
-la separate toes.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

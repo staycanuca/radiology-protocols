@@ -96,6 +96,7 @@ title: Rx Coloană Lombară (față, profil și L5-S1)
             - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 1.0 - 1.5 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -137,6 +138,7 @@ title: Rx Coloană Lombară (față, profil și L5-S1)
     - Evaluarea posibilității unei sarcini se documentează conform procedurii locale și examinării solicitate.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Incidențele oblice (pentru vizualizarea „cățelușului Lachapelle” în spondiloliză) se realizează doar dacă există suspiciune specifică de liză istmică.

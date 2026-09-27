@@ -16,6 +16,10 @@ images:
 - caption: Merrill — pagina 877, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-craniu-incidenta-antero-posterioara-ap-and-incidenta-ap-axiala-reverse-incidenta-occipito-frontala-metoda-caldwell-p875-merrill/p877_fig3.png
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -47,10 +51,10 @@ source_sections:
     din cauza distanței crescute obiect–receptor de imagine (OID). În mod similar,
     din cauza măririi, distanța de la marginea laterală a orbitei la marginea laterală
     a osului temporal este mai mică pe incidența AP decât pe incidența PA.
-  collimation: • Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch
-    (2.5 cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra
-    vertexului și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate
-    (D/S) în câmpul de expunere colimat.
+  collimation: • Ajustați câmpul de iradiere astfel încât să se extindă cu 1 țol (2.5
+    cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului
+    și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S)
+    în câmpul de expunere colimat.
   cr: '• perpendicular (Fig. 11.63) sau orientat spre nazion la un unghi cranial de
     15 grade (Fig. 11.64).
 
@@ -77,8 +81,8 @@ source_sections:
 
     n Detaliile osoase ale osului frontal și țesuturile moi înconjurătoare'
   tech: 'poziționat de producător sau prin protocolul departamentului pentru orientarea
-    corectă a afișării anatomiei; placă pentru raza centrală: 10 × 12 inches (24 ×
-    30 cm), longitudinal.
+    corectă a afișării anatomiei; placă pentru raza centrală: 10 × 12 țoli (24 × 30
+    cm), longitudinal.
 
     Când pacientul nu poate fi poziționat pentru incidența PA sau PA axială, o imagine
     similară, dar mărită, poate fi obținută cu incidența AP.
@@ -96,7 +100,7 @@ sources:
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5
+  collimation: Ajustați câmpul de iradiere astfel încât să se extindă cu 1 țol (2.5
     cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului
     și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S)
     în câmpul de expunere colimat.
@@ -127,11 +131,12 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) și Incidență AP Axi
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -153,7 +158,7 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) și Incidență AP Axi
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere astfel încât să se extindă cu 1 țol (2.5 cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -172,6 +177,7 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) și Incidență AP Axi
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -219,40 +225,3 @@ title: Rx Craniu — Incidență Antero-Posterioară (AP) și Incidență AP Axi
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 875–877](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Structurile vizualizate pe incidența AP sunt aceleași cu cele vizualizate pe incidența PA. Pe incidența AP (Fig. 11.65), orbitele sunt considerabil mărite din cauza distanței crescute obiect–receptor de imagine (OID). În mod similar, din cauza măririi, distanța de la marginea laterală a orbitei la marginea laterală a osului temporal este mai mică pe incidența AP decât pe incidența PA.
-
-### colimare
-
-• Ajustați câmpul de iradiere astfel încât să se extindă cu 1 inch (2.5 cm) dincolo de conturul cutanat al craniului. Verificați lumina deasupra vertexului și pe ambele părți (bilateral) ale feței. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular (Fig. 11.63) sau orientat spre nazion la un unghi cranial de 15 grade (Fig. 11.64).
-• Centrați receptorul de imagine pe raza centrală.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-n Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat clar în afara anatomiei de interes
-n Întregul craniu fără rotație sau înclinare, evidențiat prin:
-• Distanțe egale de la marginile laterale ale craniului la marginile laterale ale orbitelor pe ambele părți (bilateral)
-• stânci temporale (piramide pietroase) simetrice
-• MSP al craniului aliniat cu axa longitudinală a câmpului colimat
-n stâncile temporale (piramidele pietroase) situate în treimea inferioară a orbitelor, cu o angulație cranială a razei centrale de 15 grade și cu umplerea orbitelor la o angulație de 0 grade a razei centrale
-n Întregul perimetru cranian, evidențiind trei zone distincte ale osului scuamos
-n Detaliile osoase ale osului frontal și țesuturile moi înconjurătoare
-
-### tehnică
-
-poziționat de producător sau prin protocolul departamentului pentru orientarea corectă a afișării anatomiei; placă pentru raza centrală: 10 × 12 inches (24 × 30 cm), longitudinal.
-Când pacientul nu poate fi poziționat pentru incidența PA sau PA axială, o imagine similară, dar mărită, poate fi obținută cu incidența AP.
-Incidența AP axială este denumită adesea Caldwell inversă.
-Poziția pacientului și a regiunii anatomice
-• Poziționați pacientul în decubit dorsal, cu MSP al corpului centrat pe grilă.
-• Asigurați-vă că MSP și linia orbitomeatală (LOM) sunt perpendiculare pe receptorul de imagine (RI).
-

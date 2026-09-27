@@ -6,6 +6,10 @@ nav:
   - RX: rx
   - US: eco
   - FLOURO: fluoro
+  - Medicină Nucleară: mn
   - IRIS: iris.md
   - AI: ai.md
   - Propunere Modificare: request-change.md
+  - Despre proiect: despre-proiect.md
+  - Radiologie intervențională: ir
+  - Biblioteca MCB: mcb

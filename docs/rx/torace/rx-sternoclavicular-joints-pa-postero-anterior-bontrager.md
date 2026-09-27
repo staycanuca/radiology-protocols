@@ -4,8 +4,8 @@ breathing: 'Apnee (oprirea respirației) în expir. Articulații sternoclavicula
   de RUTINĂ: PA; oblică anterioară. Fig. 10.27 Articulații sternoclaviculare, PA bilateral.'
 category: torace
 centering: Perpendicular pe receptorul de imagine, centrat pe planul mediosagital
-  la nivelul T2–T3 sau la 3 inches (7 cm) distal de vertebra proeminentă (apofiza
-  spinoasă C7) (apofiza spinoasă a C7)
+  la nivelul T2–T3 sau la 3 țoli (7 cm) distal de vertebra proeminentă (apofiza spinoasă
+  C7) (apofiza spinoasă a C7)
 clinical_indications:
 - Subluxație articulară sau altă patologie a articulațiilor sternoclaviculare
 images:
@@ -21,6 +21,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 10.29
     Articulații sternoclaviculare, PA bilateral.)
   url: assets/images/protocols/bontrager/rx-sternoclavicular-joints-pa-postero-anterior-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: ''
@@ -60,7 +64,7 @@ sources:
 tech_params:
   aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimați strâns la regiunea articulațiilor sternoclaviculare (aproximativ
-    2 inches [5 cm] de fiecare parte a coloanei toracale).
+    2 țoli [5 cm] de fiecare parte a coloanei toracale).
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
@@ -92,17 +96,18 @@ title: Rx ARTICULAȚII STERNOCLAVICULARE PA (postero-anterior)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: în decubit ventral, cu capul drept și bărbia sprijinită pe un burete radiotransparent de poziționare, cu brațele ridicate lângă cap sau coborâte de-a lungul corpului (Fig. 10.27). Incidența poate fi realizată și în ortostatism. Regiune anatomică: aliniați planul mediosagital cu linia mediană a receptorului de imagine. Asigurați absența rotației umerilor sau toracelui: claviculele echidistante față de linia apofizelor spinoase.
-    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, centrat pe planul mediosagital la nivelul T2–T3 sau la 3 inches (7 cm) distal de vertebra proeminentă (apofiza spinoasă C7) (apofiza spinoasă a C7)
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine, centrat pe planul mediosagital la nivelul T2–T3 sau la 3 țoli (7 cm) distal de vertebra proeminentă (apofiza spinoasă C7) (apofiza spinoasă a C7)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee (oprirea respirației) în expir. Articulații sternoclaviculare, incidențe de RUTINĂ: PA; oblică anterioară. Fig. 10.27 Articulații sternoclaviculare, PA bilateral.
 
@@ -118,7 +123,7 @@ title: Rx ARTICULAȚII STERNOCLAVICULARE PA (postero-anterior)
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
-    | **Colimare Fascicul** | Colimați strâns la regiunea articulațiilor sternoclaviculare (aproximativ 2 inches [5 cm] de fiecare parte a coloanei toracale). |
+    | **Colimare Fascicul** | Colimați strâns la regiunea articulațiilor sternoclaviculare (aproximativ 2 țoli [5 cm] de fiecare parte a coloanei toracale). |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__

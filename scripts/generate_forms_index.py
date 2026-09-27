@@ -213,7 +213,7 @@ def build_institution_config(config_path: Path) -> dict:
 # ---------------------------------------------------------------------------
 
 def generate_forms_index():
-    modalities = ['ct', 'irm', 'rx', 'eco', 'fluoro']
+    modalities = ['ct', 'irm', 'rx', 'eco', 'fluoro', 'mn', 'ir']
     protocols = []
 
     for mod in modalities:
@@ -243,6 +243,19 @@ def generate_forms_index():
 
     print(f'Generated forms index with {len(protocols)} protocols across modalities: {modalities}')
     print(f'Saved to: {forms_index_path}')
+
+    # Write lightweight body-map counts index (~1KB instead of 5.2MB)
+    counts = {}
+    for p in protocols:
+        m = p.get('modality')
+        c = p.get('category')
+        if m and c:
+            k = f"{m}:{str(c).lower()}"
+            counts[k] = counts.get(k, 0) + 1
+    counts_path = Path('docs/javascripts/body-map-counts.json')
+    with open(counts_path, 'w', encoding='utf-8') as f:
+        json.dump(counts, f, indent=2, ensure_ascii=False)
+    print(f'Saved lightweight body map counts to: {counts_path}')
 
     # Write institution config
     institution_config = build_institution_config(Path('config/institution.yml'))

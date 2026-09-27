@@ -2,9 +2,9 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: 'orientat ½ inch (1.3 cm) inferior la patellar apex. angle este variable,
-  depending pe measurement între spină iliacă antero-superioară (SIAS) și tabletop,
-  ca follows: <19 cm 3–5 grade caudal 19–24 cm 0 grade >24 cm 3–5 grade cranial'
+centering: 'Orientată la ½ țol (1.3 cm) inferior față de vârful rotulei. Unghiul este
+  variabil, în funcție de măsurarea dintre SIAS și masa radiologică, după cum urmează:
+  <19 cm 3–5 grade caudal; 19–24 cm 0 grade; >24 cm 3–5 grade cranial'
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -14,27 +14,32 @@ images:
 - caption: Merrill — pagina 553, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-genunchi-ap-incidenta-oblica-lateral-rotation-p551-merrill/p553_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se poziționează pacientul pe masa radiologică în Decubit dorsal poziție
-  și support ankles.; If necessary, elevate Șold de unaﬀected side enough la se rotește
-  afected extremity. Support ridicat Șold și Genunchi de unafected side (Fig. 7.131).
-  se centrează receptorul de imagine ½ inch (1.3 cm) below apex de Rotulă (Patelă).
-  Externally se rotește extremity 45 grade. se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+position: Poziționați pacientul pe masa radiologică în decubit dorsal și sprijiniți
+  gleznele. Dacă este necesar, ridicați șoldul de pe partea neafectată suficient pentru
+  a roti extremitatea afectată. Sprijin ridicat pentru șoldul și genunchiul de pe
+  partea neafectată (Fig. 7.131). Centrați receptorul de imagine la ½ țol (1.3 cm)
+  sub vârful rotulei (patelă). Rotiți extern extremitatea la 45 grade. Efectuați ecranarea
+  gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- medial femoral și tibial condyles
-- Tibial plateaus
-- Fibula superimposed over lateral half de tibia
-- Margin de Rotulă (Patelă) projected slightly beyond edge de lateral femoral condyle
-- Open Genunchi articulație
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- Condilii femural și tibial mediali
+- Platourile tibiale
+- Fibula suprapusă peste jumătatea laterală a tibiei
+- Marginea rotulei (patelă) proiectată ușor dincolo de marginea condilului femural
+  lateral
+- Articulația genunchiului deschisă
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-genunchi-ap-incidenta-oblica-lateral-rotation-p551-merrill
 source_pages:
@@ -42,16 +47,14 @@ source_pages:
 - 552
 - 553
 source_sections:
-  anatomy: AP oblic incidență de laterally rotit femoral condyles, rotulă (patelă),
-    tibial condyles, și cap de fibula (Fig. 7.132).
-  collimation: '• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S)
-
-    în collimated expunere field.'
-  cr: '•orientat ½ inch (1.3 cm) inferior la patellar apex. angle este variable, depending
-    pe measurement între spină iliacă antero-superioară (SIAS) și tabletop,
-
-    ca follows:
+  anatomy: Incidență AP oblică a condililor femurali rotiți lateral, rotulei (patelă),
+    condililor tibiali și capului fibulei (Fig. 7.132).
+  collimation: • Ajustați câmpul de iradiere la 8 × 10 inci (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de laturi. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+  cr: '• orientată la ½ țol (1.3 cm) inferior față de vârful rotulei. Unghiul este
+    variabil, în funcție de măsurătoarea dintre spina iliacă antero-superioară (SIAS)
+    și masa radiologică, după cum urmează:
 
     <19 cm
 
@@ -64,48 +67,48 @@ source_sections:
     >24 cm
 
     3–5 grade cranial'
-  criteria: 'Criterii radiologice de calitate imaginii:
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • medial femoral și tibial condyles
+    • Condilii femurali și tibiali mediali
 
-    • Tibial plateaus
+    • Platourile tibiale
 
-    • Fibula superimposed over lateral half de tibia
+    • Fibula suprapusă peste jumătatea laterală a tibiei
 
-    • Margin de rotulă (patelă) projected slightly beyond edge de lateral femoral
-    condyle
+    • Marginea rotulei proiectată ușor dincolo de marginea condilului femural lateral
 
-    • Open genunchi articulație
+    • Interlinia articulară a genunchiului deschisă
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• If necessary, elevate hip de unaﬀected side enough la se rotește afected
-    extremity.
+    • Detalii trabeculare osoase și țesuturile moi înconjurătoare'
+  part_pos: '• Dacă este necesar, ridicați șoldul de partea neafectată suficient pentru
+    a roti extremitatea afectată.
 
-    • Support ridicat hip și genunchi de unafected side (Fig. 7.131).
+    • Sprijiniți șoldul și genunchiul ridicate de partea neafectată (Fig. 7.131).
 
-    • se centrează receptorul de imagine ½ inch (1.3 cm) below apex de rotulă (patelă).
+    • Centrați receptorul de imagine la ½ țol (1.3 cm) inferior față de vârful rotulei.
 
-    • Externally se rotește extremity 45 grade.
+    • Rotiți extremitatea extern cu 45 de grade.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se poziționează pacientul pe masa radiologică în decubit dorsal și
-    support ankles.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Poziționați pacientul pe masa radiologică în decubit dorsal și sprijiniți
+    gleznele.
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 551–553
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator.
-    Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în
-    collimated expunere field.
-title: Rx Genunchi — Oblică Antero-Posterioară (AP) — Rotație Externă (Laterală) (Merrill)
+  collimation: Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator.
+    Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate
+    (D/S) în câmpul de expunere colimat.
+title: Rx genunchi — oblică antero-posterioară (AP) — rotație externă (laterală) (Merrill)
 ---
-# Rx Genunchi — Oblică Antero-Posterioară (AP) — Rotație Externă (Laterală) (Merrill)
+# Rx genunchi — oblică antero-posterioară (AP) — rotație externă (laterală) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -129,17 +132,18 @@ title: Rx Genunchi — Oblică Antero-Posterioară (AP) — Rotație Externă (L
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se poziționează pacientul pe masa radiologică în Decubit dorsal poziție și support ankles.; If necessary, elevate Șold de unaﬀected side enough la se rotește afected extremity. Support ridicat Șold și Genunchi de unafected side (Fig. 7.131). se centrează receptorul de imagine ½ inch (1.3 cm) below apex de Rotulă (Patelă). Externally se rotește extremity 45 grade. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** orientat ½ inch (1.3 cm) inferior la patellar apex. angle este variable, depending pe measurement între spină iliacă antero-superioară (SIAS) și tabletop, ca follows: <19 cm 3–5 grade caudal 19–24 cm 0 grade >24 cm 3–5 grade cranial
+    - **Poziție Pacient:** Poziționați pacientul pe masa radiologică în decubit dorsal și sprijiniți gleznele. Dacă este necesar, ridicați șoldul de pe partea neafectată suficient pentru a roti extremitatea afectată. Sprijin ridicat pentru șoldul și genunchiul de pe partea neafectată (Fig. 7.131). Centrați receptorul de imagine la ½ țol (1.3 cm) sub vârful rotulei (patelă). Rotiți extern extremitatea la 45 grade. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Orientată la ½ țol (1.3 cm) inferior față de vârful rotulei. Unghiul este variabil, în funcție de măsurarea dintre SIAS și masa radiologică, după cum urmează: <19 cm 3–5 grade caudal; 19–24 cm 0 grade; >24 cm 3–5 grade cranial
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -155,21 +159,21 @@ title: Rx Genunchi — Oblică Antero-Posterioară (AP) — Rotație Externă (L
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 8 × 10 țoli (18 × 24 cm) pe colimator. Ajustați la 1 țol (2.5 cm) dincolo de margini. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - medial femoral și tibial condyles
-    - Tibial plateaus
-    - Fibula superimposed over lateral half de tibia
-    - Margin de Rotulă (Patelă) projected slightly beyond edge de lateral femoral condyle
-    - Open Genunchi articulație
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - Condilii femural și tibial mediali
+    - Platourile tibiale
+    - Fibula suprapusă peste jumătatea laterală a tibiei
+    - Marginea rotulei (patelă) proiectată ușor dincolo de marginea condilului femural lateral
+    - Articulația genunchiului deschisă
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -178,6 +182,7 @@ title: Rx Genunchi — Oblică Antero-Posterioară (AP) — Rotație Externă (L
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -217,53 +222,3 @@ title: Rx Genunchi — Oblică Antero-Posterioară (AP) — Rotație Externă (L
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 551–553](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-AP oblic incidență de laterally rotit femoral condyles, rotulă (patelă), tibial condyles, și cap de fibula (Fig. 7.132).
-
-### collimation
-
-• se ajustează câmp de iradiere la 8 × 10 inches (18 × 24 cm) pe collimator. Adjust la 1 inch (2.5 cm) beyond sides. Place marker de lateralitate (D/S)
-în collimated expunere field.
-
-### cr
-
-•orientat ½ inch (1.3 cm) inferior la patellar apex. angle este variable, depending pe measurement între spină iliacă antero-superioară (SIAS) și tabletop,
-ca follows:
-<19 cm
-3–5 grade caudal
-19–24 cm
-0 grade
->24 cm
-3–5 grade cranial
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• medial femoral și tibial condyles
-• Tibial plateaus
-• Fibula superimposed over lateral half de tibia
-• Margin de rotulă (patelă) projected slightly beyond edge de lateral femoral condyle
-• Open genunchi articulație
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• If necessary, elevate hip de unaﬀected side enough la se rotește afected extremity.
-• Support ridicat hip și genunchi de unafected side (Fig. 7.131).
-• se centrează receptorul de imagine ½ inch (1.3 cm) below apex de rotulă (patelă).
-• Externally se rotește extremity 45 grade.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se poziționează pacientul pe masa radiologică în decubit dorsal și support ankles.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

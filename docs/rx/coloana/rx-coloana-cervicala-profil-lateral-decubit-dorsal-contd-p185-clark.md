@@ -67,6 +67,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-coloana-cervicala-profil-lateral-decubit-dorsal-contd-p185-clark/fig_6.jpeg
+iris_reference:
+  chapter: Coloană vertebrală & Traumatisme
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -149,23 +153,25 @@ title: Rx Coloană Cervicală Profil (Lateral) Decubit Dorsal (contd)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Coloană vertebrală & Traumatisme*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat în decubit dorsal pe masa radiologică sau, dacă se preferă poziționarea în ortostatism, stă așezat sau în picioare, cu partea posterioară a capului și umerii pe / sprijiniți de stativul vertical Bucky.
-• planul mediosagital este ajustat astfel încât să coincidă cu linia mediană a casetei, astfel încât să fie perpendicular pe casetă.
-• gâtul este extins, dacă este posibil, astfel încât linia care unește vârful procesului mastoidian și marginea inferioară a incisivilor superiori să fie perpendiculară pe casetă. Aceasta va suprapune incisivii superiori și osul occipital, permițând astfel vizualizarea clară a regiunii de interes diagnostic.
-• caseta este centrată la nivelul procesului mastoidian.
-    - **Punct de Centrare Fascicul:** • Raza centrală direct perpendiculară de-a lungul liniei mediane, centrată la nivelul gurii deschise (transoral).
-• Dacă pacientul nu poate flecta gâtul și nu poate obține poziția descrisă mai sus, atunci fasciculul trebuie înclinat, de obicei cu five la ten grade cranial sau caudal, pentru a suprapune incisivii superiori peste osul occipital.
-• Poziția casetei va trebui ușor modificată pentru a permite centrarea imaginii după angularea fasciculului.
-170 Exemplu de radiografie poziționată corect Os occipital Incisiv superior Proces odontoid al C2 Masă laterală a C1 Corpul C2
+    - **Poziție Pacient:**
+        - pacientul este culcat în decubit dorsal pe masa radiologică sau, dacă se preferă poziționarea în ortostatism, stă așezat sau în picioare, cu partea posterioară a capului și umerii pe / sprijiniți de stativul vertical Bucky.
+        - planul mediosagital este ajustat astfel încât să coincidă cu linia mediană a casetei, astfel încât să fie perpendicular pe casetă.
+        - gâtul este extins, dacă este posibil, astfel încât linia care unește vârful procesului mastoidian și marginea inferioară a incisivilor superiori să fie perpendiculară pe casetă. Aceasta va suprapune incisivii superiori și osul occipital, permițând astfel vizualizarea clară a regiunii de interes diagnostic.
+        - caseta este centrată la nivelul procesului mastoidian.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală direct perpendiculară de-a lungul liniei mediane, centrată la nivelul gurii deschise (transoral).
+        - Dacă pacientul nu poate flecta gâtul și nu poate obține poziția descrisă mai sus, atunci fasciculul trebuie înclinat, de obicei cu five la ten grade cranial sau caudal, pentru a suprapune incisivii superiori peste osul occipital.
+        - Poziția casetei va trebui ușor modificată pentru a permite centrarea imaginii după angularea fasciculului. 170 Exemplu de radiografie poziționată corect Os occipital Incisiv superior Proces odontoid al C2 Masă laterală a C1 Corpul C2
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -204,6 +210,7 @@ title: Rx Coloană Cervicală Profil (Lateral) Decubit Dorsal (contd)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

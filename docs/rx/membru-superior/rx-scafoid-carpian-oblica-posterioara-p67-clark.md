@@ -3,27 +3,29 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• Raza centrală verticală este centrată pe styloid process de ulna.
+centering: '• Raza centrală verticală este centrată pe procesul stiloid al ulnei.
 
 
-  • Raza centrală verticală este centrată pe radial styloid process.'
+  • Raza centrală verticală este centrată pe procesul stiloid radial.'
 clinical_indications:
-- suspiciune de fractură de waist de Scafoid Carpian poate fie very poorly vizibil,
-  if la toate, la presentation. It carries high risk de delayed avascular necrosis
-  de distal pole, which poate cause severe disability. If suspected clinically, pacientul
-  poate fie re-examined after 10 days de imobilizare, otherwise technetium bone scan
-  sau magnetic resonance imaging (MRI) poate offer immediate diagnosis. 1st metacarpal
-  Trapezoid Hamate Capitate Triquetral Styloid de radius Styloid process de ulna Shaft
-  de ulna Trapezium Pisiform Lunate Radio-carpal articulație Shaft de radius Tubercle
-  de Scafoid Carpian oase metacarpiene 2–5 Profil (lateral) radiografie de Pumn (Articulație
-  Radiocarpiană) Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană)
-  Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană) evidențiind luxație
-  articulară de lunate. lunate bone este rotit și anteriorly displaced
+- Fractura suspectată la nivelul taliei scafoidului carpian poate fi foarte slab vizibilă
+  sau chiar invizibilă la prezentare. Aceasta prezintă un risc crescut de necroză
+  avasculară tardivă a polului distal, care poate cauza dizabilitate severă. Dacă
+  există suspiciune clinică, pacientul poate fi reexaminat după 10 zile de imobilizare;
+  în caz contrar, scintigrafia osoasă cu technețiu sau imagistica prin rezonanță magnetică
+  (MRI) poate oferi un diagnostic imediat. Metacarpianul 1; trapezoid; os cu cârlig;
+  capitat; piramidal; procesul stiloid al radiusului; procesul stiloid al ulnei; diafiza
+  ulnei; trapez; pisiform; semilunar; articulație radiocarpiană; diafiza radiusului;
+  tuberculul scafoidului carpian; metacarpienele 2–5. Radiografie de profil a pumnului
+  (articulației radiocarpiene). Normal. Radiografie de profil a pumnului (articulației
+  radiocarpiene). Radiografie de profil a pumnului (articulației radiocarpiene), evidențiind
+  luxația semilunarului. Osul semilunar este rotit și deplasat anterior.
 images:
-- caption: Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie oblică posterioară a pumnului (articulației radiocarpiene)
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_1.jpeg
-- caption: Normal Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)
+- caption: Radiografie oblică posterioară normală a pumnului (articulației radiocarpiene)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_2.jpeg
@@ -31,46 +33,51 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_3.jpeg
-- caption: • suspiciune de fractură de waist de Scafoid Carpian poate fie very poorly
-    vis-
+- caption: • Fractura suspectată a taliei scafoidului carpian poate fi foarte puțin
+    viz-
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_4.jpeg
-- caption: Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană)
+- caption: Radiografie de profil (laterală) a pumnului (articulației radiocarpiene)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_5.jpeg
-- caption: Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană)
+- caption: Radiografie normală de profil (laterală) a pumnului (articulației radiocarpiene)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_6.jpeg
-- caption: Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană) evidențiind
-    luxație articulară de lunate. lunate
+- caption: Radiografie de profil (laterală) a pumnului (articulației radiocarpiene),
+    evidențiind luxația articulară a semilunarului. semilunarul
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_7.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• de la Oblică Anterioară poziție, Mână și Pumn (Articulație Radiocarpiană)
-  sunt rotit externally through 90 grade, astfel încât posterior aspect de Mână și
-  Pumn (Articulație Radiocarpiană) sunt la 45 grade la caseta.
+position: '• Din poziția oblică anterioară, mâna și pumnul (articulația radiocarpiană)
+  sunt rotite extern cu 90 de grade, astfel încât aspectul posterior al mâinii și
+  pumnului (articulației radiocarpiene) să fie la 45 de grade față de casetă.
 
-  • Pumn (Articulație Radiocarpiană) este plasat over unexposed quarter de caseta,
-  cu Pumn (Articulație Radiocarpiană) și Mână sprijinit pe a 45-grade non-opaque foam
-  pad.
+  • Pumnul (articulația radiocarpiană) este așezat peste un sfert neexpus al casetei,
+  cu pumnul (articulația radiocarpiană) și mâna sprijinite pe un suport din spumă
+  radiotransparentă de 45 de grade.
 
   • Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
 
 
-  • de la Oblică Posterioară poziție, Mână și Pumn (Articulație Radiocarpiană) sunt
-  rotit internally through 45 grade, astfel încât medial aspect de Pumn (Articulație
-  Radiocarpiană) este în contact cu caseta.
+  • Din poziția oblică posterioară, mâna și pumnul (articulația radiocarpiană) sunt
+  rotite intern cu 45 de grade, astfel încât aspectul medial al pumnului (articulației
+  radiocarpiene) să fie în contact cu caseta.
 
-  • Mână este ajustat la ensure that radial și ulnar styloid processes sunt superimposed.
+  • Mâna este ajustată pentru a asigura suprapunerea proceselor stiloide radial și
+  ulnar.
 
-  • Mână și Pumn (Articulație Radiocarpiană) sunt imobilizat using non-opaque pads
-  și săculeți cu nisip.'
+  • Mâna și pumnul (articulația radiocarpiană) sunt imobilizate folosind suporturi
+  radiotransparente și săculeți cu nisip.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -79,18 +86,18 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală
-  oase metacarpiene.
-- pisiform trebuie să fie seen clearly în profile situated anterior la triquetral.
-- axa longitudinală de Scafoid Carpian trebuie să fie seen perpendicular pe casetă.
-  52 Hook de hamate Capitate Triquetral Pisiform Lunate Ulna articulații carpometacarpiene
-  (CMC) 1-5 Trapezoid Trapezium Scafoid Carpian Radio-carpal articulație Radius 1
-  2 3 4 5 Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană) Normal
-  Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)
-- imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală
-  oase metacarpiene.
-- imagine trebuie să evidențiază clearly orice subluxation sau luxație articulară
-  de oase carpiene.
+- Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea
+  proximală a oaselor metacarpiene.
+- Pisiformul trebuie să fie vizibil clar în profil, situat anterior față de triquetrum.
+- Axa longitudinală a scafoidului carpian trebuie să fie vizibilă perpendicular pe
+  casetă. 52 Cârligul hamatului Capitat Triquetrum Pisiform Semilunar Ulna Articulații
+  carpometacarpiene (CMC) 1-5 Trapezoid Trapez Scafoid carpian Articulație radiocarpiană
+  Radius 1 2 3 4 5 Radiografie oblică posterioară a pumnului (articulației radiocarpiene)
+  Normal Radiografie oblică posterioară a pumnului (articulației radiocarpiene)
+- Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea
+  proximală a oaselor metacarpiene.
+- Imaginea trebuie să evidențieze clar orice subluxație sau luxație articulară a oaselor
+  carpiene.
 sid_dff: 100 cm
 slug: rx-scafoid-carpian-oblica-posterioara-p67-clark
 sources:
@@ -99,14 +106,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Scafoid Carpian Oblică Posterioară
+  mas: Conform AEC / grosimii anatomice
+title: Rx scafoid carpian, incidență oblică posterioară
 ---
-# Rx Scafoid Carpian Oblică Posterioară
+# Rx scafoid carpian, incidență oblică posterioară
 
 
 <div class="rx-meta-bar">
@@ -125,30 +132,31 @@ title: Rx Scafoid Carpian Oblică Posterioară
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură de waist de Scafoid Carpian poate fie very poorly vizibil, if la toate, la presentation. It carries high risk de delayed avascular necrosis de distal pole, which poate cause severe disability. If suspected clinically, pacientul poate fie re-examined after 10 days de imobilizare, otherwise technetium bone scan sau magnetic resonance imaging (MRI) poate offer immediate diagnosis. 1st metacarpal Trapezoid Hamate Capitate Triquetral Styloid de radius Styloid process de ulna Shaft de ulna Trapezium Pisiform Lunate Radio-carpal articulație Shaft de radius Tubercle de Scafoid Carpian oase metacarpiene 2–5 Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană) Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană) Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană) evidențiind luxație articulară de lunate. lunate bone este rotit și anteriorly displaced
+        - Fractura suspectată la nivelul taliei scafoidului carpian poate fi foarte slab vizibilă sau chiar invizibilă la prezentare. Aceasta prezintă un risc crescut de necroză avasculară tardivă a polului distal, care poate cauza dizabilitate severă. Dacă există suspiciune clinică, pacientul poate fi reexaminat după 10 zile de imobilizare; în caz contrar, scintigrafia osoasă cu technețiu sau imagistica prin rezonanță magnetică (MRI) poate oferi un diagnostic imediat. Metacarpianul 1; trapezoid; os cu cârlig; capitat; piramidal; procesul stiloid al radiusului; procesul stiloid al ulnei; diafiza ulnei; trapez; pisiform; semilunar; articulație radiocarpiană; diafiza radiusului; tuberculul scafoidului carpian; metacarpienele 2–5. Radiografie de profil a pumnului (articulației radiocarpiene). Normal. Radiografie de profil a pumnului (articulației radiocarpiene). Radiografie de profil a pumnului (articulației radiocarpiene), evidențiind luxația semilunarului. Osul semilunar este rotit și deplasat anterior.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • de la Oblică Anterioară poziție, Mână și Pumn (Articulație Radiocarpiană) sunt rotit externally through 90 grade, astfel încât posterior aspect de Mână și Pumn (Articulație Radiocarpiană) sunt la 45 grade la caseta.
-• Pumn (Articulație Radiocarpiană) este plasat over unexposed quarter de caseta, cu Pumn (Articulație Radiocarpiană) și Mână sprijinit pe a 45-grade non-opaque foam pad.
-• Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
-
-• de la Oblică Posterioară poziție, Mână și Pumn (Articulație Radiocarpiană) sunt rotit internally through 45 grade, astfel încât medial aspect de Pumn (Articulație Radiocarpiană) este în contact cu caseta.
-• Mână este ajustat la ensure that radial și ulnar styloid processes sunt superimposed.
-• Mână și Pumn (Articulație Radiocarpiană) sunt imobilizat using non-opaque pads și săculeți cu nisip.
-    - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată pe styloid process de ulna.
-
-• Raza centrală verticală este centrată pe radial styloid process.
+    - **Poziție Pacient:**
+        - Din poziția oblică anterioară, mâna și pumnul (articulația radiocarpiană) sunt rotite extern cu 90 de grade, astfel încât aspectul posterior al mâinii și pumnului (articulației radiocarpiene) să fie la 45 de grade față de casetă.
+        - Pumnul (articulația radiocarpiană) este așezat peste un sfert neexpus al casetei, cu pumnul (articulația radiocarpiană) și mâna sprijinite pe un suport din spumă radiotransparentă de 45 de grade.
+        - Antebrațul este imobilizat cu ajutorul unui săculeț cu nisip.
+        - Din poziția oblică posterioară, mâna și pumnul (articulația radiocarpiană) sunt rotite intern cu 45 de grade, astfel încât aspectul medial al pumnului (articulației radiocarpiene) să fie în contact cu caseta.
+        - Mâna este ajustată pentru a asigura suprapunerea proceselor stiloide radial și ulnar.
+        - Mâna și pumnul (articulația radiocarpiană) sunt imobilizate folosind suporturi radiotransparente și săculeți cu nisip.
+    - **Punct de Centrare Fascicul:**
+        - Raza centrală verticală este centrată pe procesul stiloid al ulnei.
+        - Raza centrală verticală este centrată pe procesul stiloid radial.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -159,23 +167,23 @@ title: Rx Scafoid Carpian Oblică Posterioară
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală oase metacarpiene.
-    - pisiform trebuie să fie seen clearly în profile situated anterior la triquetral.
-    - axa longitudinală de Scafoid Carpian trebuie să fie seen perpendicular pe casetă. 52 Hook de hamate Capitate Triquetral Pisiform Lunate Ulna articulații carpometacarpiene (CMC) 1-5 Trapezoid Trapezium Scafoid Carpian Radio-carpal articulație Radius 1 2 3 4 5 Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană) Normal Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)
-    - imagine trebuie să include extremitatea distală radius și ulna și extremitatea proximală oase metacarpiene.
-    - imagine trebuie să evidențiază clearly orice subluxation sau luxație articulară de oase carpiene.
+    - Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea proximală a oaselor metacarpiene.
+    - Pisiformul trebuie să fie vizibil clar în profil, situat anterior față de triquetrum.
+    - Axa longitudinală a scafoidului carpian trebuie să fie vizibilă perpendicular pe casetă. 52 Cârligul hamatului Capitat Triquetrum Pisiform Semilunar Ulna Articulații carpometacarpiene (CMC) 1-5 Trapezoid Trapez Scafoid carpian Articulație radiocarpiană Radius 1 2 3 4 5 Radiografie oblică posterioară a pumnului (articulației radiocarpiene) Normal Radiografie oblică posterioară a pumnului (articulației radiocarpiene)
+    - Imaginea trebuie să includă extremitatea distală a radiusului și ulnei și extremitatea proximală a oaselor metacarpiene.
+    - Imaginea trebuie să evidențieze clar orice subluxație sau luxație articulară a oaselor carpiene.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -187,6 +195,7 @@ title: Rx Scafoid Carpian Oblică Posterioară
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -197,17 +206,17 @@ title: Rx Scafoid Carpian Oblică Posterioară
 
 <figure class="protocol-image-card" markdown>
 
-![Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_1.jpeg)
+![Radiografie oblică posterioară a pumnului (articulației radiocarpiene)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_1.jpeg)
 
-<figcaption><strong>Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică posterioară a pumnului (articulației radiocarpiene)</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_2.jpeg)
+![Radiografie oblică posterioară normală a pumnului (articulației radiocarpiene)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_2.jpeg)
 
-<figcaption><strong>Normal Oblică Posterioară radiografie de Pumn (Articulație Radiocarpiană)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie oblică posterioară normală a pumnului (articulației radiocarpiene)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -221,33 +230,33 @@ title: Rx Scafoid Carpian Oblică Posterioară
 
 <figure class="protocol-image-card" markdown>
 
-![• suspiciune de fractură de waist de Scafoid Carpian poate fie very poorly vis-](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_4.jpeg)
+![• Fractura suspectată a taliei scafoidului carpian poate fi foarte puțin viz-](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_4.jpeg)
 
-<figcaption><strong>• suspiciune de fractură de waist de Scafoid Carpian poate fie very poorly vis-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_5.jpeg)
-
-<figcaption><strong>Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Fractura suspectată a taliei scafoidului carpian poate fi foarte puțin viz-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_6.jpeg)
+![Radiografie de profil (laterală) a pumnului (articulației radiocarpiene)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_5.jpeg)
 
-<figcaption><strong>Normal Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie de profil (laterală) a pumnului (articulației radiocarpiene)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană) evidențiind luxație articulară de lunate. lunate](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_7.jpeg)
+![Radiografie normală de profil (laterală) a pumnului (articulației radiocarpiene)](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_6.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Pumn (Articulație Radiocarpiană) evidențiind luxație articulară de lunate. lunate</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie normală de profil (laterală) a pumnului (articulației radiocarpiene)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil (laterală) a pumnului (articulației radiocarpiene), evidențiind luxația articulară a semilunarului. semilunarul](../../assets/images/protocols/clark/rx-scafoid-carpian-oblica-posterioara-p67-clark/fig_7.jpeg)
+
+<figcaption><strong>Radiografie de profil (laterală) a pumnului (articulației radiocarpiene), evidențiind luxația articulară a semilunarului. semilunarul</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

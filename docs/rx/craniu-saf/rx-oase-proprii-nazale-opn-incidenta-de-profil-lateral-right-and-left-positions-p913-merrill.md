@@ -10,8 +10,8 @@ breathing: 'apnee (oprirea respirației).
   să fie proiectat peste partea superioară a receptorului de imagine. Fixați markerul
   de lateralitate (D/S) (R sau L) în poziție.'
 category: craniu-saf
-centering: perpendicular pe dorsul nasului, la un punct situat la 1 inch (2.5 cm)
-  distal de nazion (vezi Fig. 11.118).
+centering: perpendicular pe dorsul nasului, la un punct situat la 1 țol (2.5 cm) distal
+  de nazion (vezi Fig. 11.118).
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -21,6 +21,10 @@ images:
 - caption: Merrill — pagina 914, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-oase-proprii-nazale-opn-incidenta-de-profil-lateral-right-and-left-positions-p913-merrill/p914_fig2.png
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
@@ -40,11 +44,11 @@ source_pages:
 - 913
 - 914
 source_sections:
-  collimation: • ajustați câmpul de iradiere să se extindă de la glabelă la 1 inch
-    (2.5 cm) inferior de acantion și la 1 inch (2.5 cm) dincolo de vârful nasului.
-    Câmpul de expunere nu trebuie să fie mai mare de 3 × 3 inches (8 × 8 cm). Plasați
+  collimation: • ajustați câmpul de iradiere să se extindă de la glabelă la 1 țol
+    (2.5 cm) inferior de acantion și la 1 țol (2.5 cm) dincolo de vârful nasului.
+    Câmpul de expunere nu trebuie să fie mai mare de 3 × 3 țoli (8 × 8 cm). Plasați
     markerul de lateralitate (D/S) în câmpul de expunere colimat.
-  cr: • perpendicular pe dorsul nasului, la un punct situat la 1 inch (2.5 cm) distal
+  cr: • perpendicular pe dorsul nasului, la un punct situat la 1 țol (2.5 cm) distal
     de nazion (vezi Fig. 11.118).
   part_pos: '• ajustați capul astfel încât MSP să fie paralel cu masa și linia interpupilară
     (LIP) să fie perpendiculară pe masă.
@@ -67,17 +71,18 @@ source_sections:
     Această centrare permite spațiu pentru ca markerul de identificare să fie proiectat
     peste partea superioară a receptorului de imagine. Fixați markerul de lateralitate
     (D/S) (R sau L) în poziție.'
-  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
-    orientarea corectă a afișării anatomice; placă pentru raza centrală: 10 × 12 inches
-    (24 × 30 cm), transversală pentru two expuneri pe un receptor de imagine.'
+  tech: 'Poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomice; placă «raza centrală» [formulare ambiguă
+    în sursă]: 10 × 12 inci (24 × 30 cm), transversal, pentru două expuneri pe un
+    receptor de imagine.'
 sources:
 - title: Merrill’s Atlas, 11. Cranium, pagini 913–914
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: ajustați câmpul de iradiere să se extindă de la glabelă la 1 inch (2.5
-    cm) inferior de acantion și la 1 inch (2.5 cm) dincolo de vârful nasului. Câmpul
-    de expunere nu trebuie să fie mai mare de 3 × 3 inches (8 × 8 cm). Plasați markerul
+  collimation: ajustați câmpul de iradiere să se extindă de la glabelă la 1 țol (2.5
+    cm) inferior de acantion și la 1 țol (2.5 cm) dincolo de vârful nasului. Câmpul
+    de expunere nu trebuie să fie mai mare de 3 × 3 țoli (8 × 8 cm). Plasați markerul
     de lateralitate (D/S) în câmpul de expunere colimat.
 title: Rx Oase Proprii Nazale (OPN) — Incidență de Profil (Lateral) — Profil drept
   și profil stâng (Merrill)
@@ -106,21 +111,26 @@ title: Rx Oase Proprii Nazale (OPN) — Incidență de Profil (Lateral) — Prof
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** cu pacientul în decubit sau în ortostatism, în poziție oblică anterioară, ajustați rotația corpului astfel încât MSP al capului să poată fi poziționat orizontal; ajustați capul astfel încât MSP să fie paralel cu masa și linia interpupilară (LIP) să fie perpendiculară pe masă. Ajustați flexia gâtului pacientului astfel încât linia infraorbitomeatală (LIOM) să fie paralelă cu axul transversal al receptorului de imagine (Fig. 11.117 și 11.118). Susțineți mandibula pentru a preveni rotația.
-    - **Punct de Centrare Fascicul:** perpendicular pe dorsul nasului, la un punct situat la 1 inch (2.5 cm) distal de nazion (vezi Fig. 11.118).
+    - **Punct de Centrare Fascicul:** perpendicular pe dorsul nasului, la un punct situat la 1 țol (2.5 cm) distal de nazion (vezi Fig. 11.118).
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** apnee (oprirea respirației).
-Plasarea receptorului de imagine
-La utilizarea receptorului de imagine transversal, glisați jumătatea neacoperită a receptorului de imagine sub regiunea frontonazală și centrați-o la nazion (vezi Fig. 11.117). Această centrare permite spațiu pentru ca markerul de identificare să fie proiectat peste partea superioară a receptorului de imagine. Fixați markerul de lateralitate (D/S) (R sau L) în poziție.
+    - **Comandă Respiratorie:**
+        apnee (oprirea respirației).
+
+        Plasarea receptorului de imagine
+
+        La utilizarea receptorului de imagine transversal, glisați jumătatea neacoperită a receptorului de imagine sub regiunea frontonazală și centrați-o la nazion (vezi Fig. 11.117). Această centrare permite spațiu pentru ca markerul de identificare să fie proiectat peste partea superioară a receptorului de imagine. Fixați markerul de lateralitate (D/S) (R sau L) în poziție.
+
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -134,7 +144,7 @@ La utilizarea receptorului de imagine transversal, glisați jumătatea neacoperi
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | ajustați câmpul de iradiere să se extindă de la glabelă la 1 inch (2.5 cm) inferior de acantion și la 1 inch (2.5 cm) dincolo de vârful nasului. Câmpul de expunere nu trebuie să fie mai mare de 3 × 3 inches (8 × 8 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
+    | **Colimare Fascicul** | ajustați câmpul de iradiere să se extindă de la glabelă la 1 țol (2.5 cm) inferior de acantion și la 1 țol (2.5 cm) dincolo de vârful nasului. Câmpul de expunere nu trebuie să fie mai mare de 3 × 3 țoli (8 × 8 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
@@ -150,6 +160,7 @@ La utilizarea receptorului de imagine transversal, glisați jumătatea neacoperi
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -189,35 +200,3 @@ La utilizarea receptorului de imagine transversal, glisați jumătatea neacoperi
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 913–914](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### colimare
-
-• ajustați câmpul de iradiere să se extindă de la glabelă la 1 inch (2.5 cm) inferior de acantion și la 1 inch (2.5 cm) dincolo de vârful nasului. Câmpul de expunere nu trebuie să fie mai mare de 3 × 3 inches (8 × 8 cm). Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
-
-### raza centrală
-
-• perpendicular pe dorsul nasului, la un punct situat la 1 inch (2.5 cm) distal de nazion (vezi Fig. 11.118).
-
-### part_pos
-
-• ajustați capul astfel încât MSP să fie paralel cu masa și linia interpupilară (LIP) să fie perpendiculară pe masă.
-• ajustați flexia gâtului pacientului astfel încât linia infraorbitomeatală (LIOM) să fie paralelă cu axul transversal al receptorului de imagine (Fig. 11.117 și 11.118).
-• Susțineți mandibula pentru a preveni rotația.
-
-### patient_pos
-
-• cu pacientul în decubit sau în ortostatism, în poziție oblică anterioară, ajustați rotația corpului astfel încât MSP al capului să poată fi poziționat orizontal.
-
-### respirație
-
-apnee (oprirea respirației).
-Plasarea receptorului de imagine
-• La utilizarea receptorului de imagine transversal, glisați jumătatea neacoperită a receptorului de imagine sub regiunea frontonazală și centrați-o la nazion (vezi Fig. 11.117).
-Această centrare permite spațiu pentru ca markerul de identificare să fie proiectat peste partea superioară a receptorului de imagine. Fixați markerul de lateralitate (D/S) (R sau L) în poziție.
-
-### tehnică
-
-poziționat conform protocolului producătorului sau al departamentului pentru orientarea corectă a afișării anatomice; placă pentru raza centrală: 10 × 12 inches (24 × 30 cm), transversală pentru two expuneri pe un receptor de imagine.
-

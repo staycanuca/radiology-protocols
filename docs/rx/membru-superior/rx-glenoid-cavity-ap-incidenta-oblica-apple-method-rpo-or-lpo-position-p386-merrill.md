@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: perpendicular pe receptorul de imagine (RI) la nivelul proces coracoid
+centering: Perpendicular pe receptorul de imagine (RI), la nivelul procesului coracoid
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,29 +12,33 @@ images:
 - caption: Merrill — pagina 388, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-incidenta-oblica-apple-method-rpo-or-lpo-position-p386-merrill/p388_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: la avoid mișcare, have correct technical factors set pe generator și fie ready
-  la Se declanșează expunerea before pacientul abducts braț.
-position: se așază pacientul în Poziție Șezândă sau ortostatism.; se centrează receptorul
-  de imagine la scapulohumeral articulație. se rotește corp approximately 35 la 45
-  grade spre afected side (Fig. 6.21). posterior surface de afected side este cel
-  mai apropiat de receptorul de imagine. Omoplat (Scapulă) trebuie să fie poziționat
-  paralel cu plane de receptorul de imagine (see Grashey method pentru positioning
-  details). pacientul trebuie să hold a 1-lb weight în Mână pe same side ca afected
-  Umăr în neutral poziție. While menținerea weight, pacientul trebuie să abduct braț
-  90 grade de la linia mediană corp (Fig. 6.21A). se efectuează ecranarea gonadelor
-  cu șorț plumbat.
+notes: Pentru a evita mișcarea, setați factorii tehnici corecți pe generator și fiți
+  pregătiți să declanșați expunerea înainte ca pacientul să abducă brațul.
+position: Așezați pacientul în poziție șezândă sau în ortostatism.; centrați receptorul
+  de imagine pe articulația scapulohumerală. Rotiți corpul cu aproximativ 35 până
+  la 45 de grade spre partea afectată (Fig. 6.21). Suprafața posterioară a părții
+  afectate este cea mai apropiată de receptorul de imagine. Omoplatul trebuie poziționat
+  paralel cu planul receptorului de imagine (consultați metoda Grashey pentru detalii
+  privind poziționarea). Pacientul trebuie să țină o greutate de 1 lb în mâna de pe
+  aceeași parte cu umărul afectat, în poziție neutră. Menținând greutatea, pacientul
+  trebuie să abducă brațul la 90 de grade față de linia mediană a corpului (Fig. 6.21A).
+  Efectuați ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- cavitate glenoidă în profile
-- braț în a 90-grade în abducție poziție
-- Open spații articulare între cap humeral și cavitate glenoidă
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Cavitatea glenoidă în profil
+- Brațul în poziție de abducție la 90 de grade
+- Spații articulare deschise între capul humeral și cavitatea glenoidă
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-glenoid-cavity-ap-incidenta-oblica-apple-method-rpo-or-lpo-position-p386-merrill
 source_pages:
@@ -42,66 +46,67 @@ source_pages:
 - 387
 - 388
 source_sections:
-  anatomy: scapulohumeral articulație (Fig. 6.22), cu spații articulare narrowing
-    if present.
-  collimation: 'Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm)
-    pe collimator. Adjust ca needed la include 1.5 inches (3.8 cm) above umăr, 1 inch
-    (2.5 cm) beyond lateral aspect de umăr, lateral half de clavicle, și proximal
-    third de humerus. Place side
+  anatomy: Articulația scapulohumerală (Fig. 6.22), cu îngustarea spațiilor articulare,
+    dacă este prezentă.
+  collimation: Ajustați câmpul de iradiere la aproximativ 8 × 10 țol (18 × 24 cm)
+    pe colimator. Ajustați după cum este necesar pentru a include 1,5 țol (3,8 cm)
+    deasupra umărului, 1 țol (2,5 cm) dincolo de aspectul lateral al umărului, jumătatea
+    laterală a claviculei și treimea proximală a humerusului. Plasați markerul de
+    lateralitate în câmpul de expunere colimat.
+  cr: • perpendicular pe receptorul de imagine (RI), la nivelul procesului coracoid
+  criteria: 'Criterii radiologice pentru calitatea imaginii:
 
-    marker în collimated expunere field.'
-  cr: • perpendicular pe receptorul de imagine (RI) la nivelul proces coracoid
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes;
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • cavitatea glenoidă în profil;
 
-    • cavitate glenoidă în profile
+    • brațul în poziție de abducție la 90 de grade;
 
-    • braț în a 90-grade în abducție poziție
+    • spații articulare deschise între capul humeral și cavitatea glenoidă;
 
-    • Open spații articulare între cap humeral și cavitate glenoidă
+    • detalii osoase trabeculare și țesuturile moi înconjurătoare'
+  notes: Pentru a evita mișcarea, setați factorii tehnici corecți pe generator și
+    fiți pregătiți să declanșați expunerea înainte ca pacientul să abducă brațul.
+  part_pos: '• centrați receptorul de imagine pe articulația scapulohumerală.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'la avoid mișcare, have correct technical factors set pe generator și fie
-    ready la Se declanșează expunerea before pacientul abducts
+    • rotiți corpul cu aproximativ 35 până la 45 de grade spre partea afectată (Fig.
+    6.21).
 
-    braț.'
-  part_pos: '• se centrează receptorul de imagine la scapulohumeral articulație.
+    • suprafața posterioară a părții afectate este cea mai apropiată de receptorul
+    de imagine.
 
-    • se rotește corp approximately 35 la 45 grade spre afected side (Fig. 6.21).
+    • scapula trebuie poziționată paralel cu planul receptorului de imagine (consultați
+    metoda Grashey pentru detalii privind poziționarea).
 
-    • posterior surface de afected side este cel mai apropiat de receptorul de imagine.
+    • pacientul trebuie să țină o greutate de 1 lb în mâna de pe aceeași parte cu
+    umărul afectat, în poziție neutră.
 
-    • scapula trebuie să fie poziționat paralel cu plane de receptorul de imagine
-    (see Grashey method pentru positioning details).
+    • menținând greutatea, pacientul trebuie să abducă brațul la 90 de grade față
+    de linia mediană a corpului (Fig. 6.21A).
 
-    • pacientul trebuie să hold a 1-lb weight în mână pe same side ca afected umăr
-    în neutral poziție.
-
-    • While menținerea weight, pacientul trebuie să abduct braț 90 grade de la linia
-    mediană corp (Fig. 6.21A).
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în așezat pe scaun sau ortostatism.
+    • efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul în poziție șezândă sau în ortostatism.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului,
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) transversal.'
+    × 30 cm), transversal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 386–388
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm)
-    pe collimator. Adjust ca needed la include 1.5 inches (3.8 cm) above Umăr, 1 inch
-    (2.5 cm) beyond lateral aspect de Umăr, lateral half de Claviculă, și proximal
-    third de Humerus. Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Apple Method RPO or Oblică
-  Posterioară Stângă (OPS / LPO) (Merrill)
+  collimation: Ajustați câmpul de iradiere la aproximativ 8 × 10 țol (18 × 24 cm)
+    pe colimator. Ajustați după cum este necesar pentru a include 1,5 țol (3,8 cm)
+    deasupra umărului, 1 țol (2,5 cm) dincolo de aspectul lateral al umărului, jumătatea
+    laterală a claviculei și treimea proximală a humerusului. Plasați markerul de
+    lateralitate în câmpul de expunere colimat.
+title: Rx cavitatea glenoidă — oblică antero-posterioară (AP) — metoda Apple, RPO
+  sau oblică posterioară stângă (OPS/LPO) (Merrill)
 ---
-# Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Apple Method RPO or Oblică Posterioară Stângă (OPS / LPO) (Merrill)
+# Rx cavitatea glenoidă — oblică antero-posterioară (AP) — metoda Apple, RPO sau oblică posterioară stângă (OPS/LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -125,17 +130,18 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Apple Method R
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Poziție Șezândă sau ortostatism.; se centrează receptorul de imagine la scapulohumeral articulație. se rotește corp approximately 35 la 45 grade spre afected side (Fig. 6.21). posterior surface de afected side este cel mai apropiat de receptorul de imagine. Omoplat (Scapulă) trebuie să fie poziționat paralel cu plane de receptorul de imagine (see Grashey method pentru positioning details). pacientul trebuie să hold a 1-lb weight în Mână pe same side ca afected Umăr în neutral poziție. While menținerea weight, pacientul trebuie să abduct braț 90 grade de la linia mediană corp (Fig. 6.21A). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe receptorul de imagine (RI) la nivelul proces coracoid
+    - **Poziție Pacient:** Așezați pacientul în poziție șezândă sau în ortostatism.; centrați receptorul de imagine pe articulația scapulohumerală. Rotiți corpul cu aproximativ 35 până la 45 de grade spre partea afectată (Fig. 6.21). Suprafața posterioară a părții afectate este cea mai apropiată de receptorul de imagine. Omoplatul trebuie poziționat paralel cu planul receptorului de imagine (consultați metoda Grashey pentru detalii privind poziționarea). Pacientul trebuie să țină o greutate de 1 lb în mâna de pe aceeași parte cu umărul afectat, în poziție neutră. Menținând greutatea, pacientul trebuie să abducă brațul la 90 de grade față de linia mediană a corpului (Fig. 6.21A). Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe receptorul de imagine (RI), la nivelul procesului coracoid
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -151,19 +157,19 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Apple Method R
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm) pe collimator. Adjust ca needed la include 1.5 inches (3.8 cm) above Umăr, 1 inch (2.5 cm) beyond lateral aspect de Umăr, lateral half de Claviculă, și proximal third de Humerus. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la aproximativ 8 × 10 țol (18 × 24 cm) pe colimator. Ajustați după cum este necesar pentru a include 1,5 țol (3,8 cm) deasupra umărului, 1 țol (2,5 cm) dincolo de aspectul lateral al umărului, jumătatea laterală a claviculei și treimea proximală a humerusului. Plasați markerul de lateralitate în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - cavitate glenoidă în profile
-    - braț în a 90-grade în abducție poziție
-    - Open spații articulare între cap humeral și cavitate glenoidă
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Cavitatea glenoidă în profil
+    - Brațul în poziție de abducție la 90 de grade
+    - Spații articulare deschise între capul humeral și cavitatea glenoidă
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -173,8 +179,9 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Apple Method R
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    la avoid mișcare, have correct technical factors set pe generator și fie ready la Se declanșează expunerea before pacientul abducts braț.
+    Pentru a evita mișcarea, setați factorii tehnici corecți pe generator și fiți pregătiți să declanșați expunerea înainte ca pacientul să abducă brațul.
 
 
 ### 🖼️ Imagini
@@ -211,56 +218,3 @@ title: Rx Glenoid Cavity — Oblică Antero-Posterioară (AP) — Apple Method R
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 386–388](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-scapulohumeral articulație (Fig. 6.22), cu spații articulare narrowing if present.
-
-### collimation
-
-Adjust câmp de iradiere la approximately 8 × 10 inches (18 × 24 cm) pe collimator. Adjust ca needed la include 1.5 inches (3.8 cm) above umăr, 1 inch (2.5 cm) beyond lateral aspect de umăr, lateral half de clavicle, și proximal third de humerus. Place side
-marker în collimated expunere field.
-
-### cr
-
-• perpendicular pe receptorul de imagine (RI) la nivelul proces coracoid
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• cavitate glenoidă în profile
-• braț în a 90-grade în abducție poziție
-• Open spații articulare între cap humeral și cavitate glenoidă
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-la avoid mișcare, have correct technical factors set pe generator și fie ready la Se declanșează expunerea before pacientul abducts
-braț.
-
-### part_pos
-
-• se centrează receptorul de imagine la scapulohumeral articulație.
-• se rotește corp approximately 35 la 45 grade spre afected side (Fig. 6.21).
-• posterior surface de afected side este cel mai apropiat de receptorul de imagine.
-• scapula trebuie să fie poziționat paralel cu plane de receptorul de imagine (see Grashey method pentru positioning details).
-• pacientul trebuie să hold a 1-lb weight în mână pe same side ca afected umăr în neutral poziție.
-• While menținerea weight, pacientul trebuie să abduct braț 90 grade de la linia mediană corp (Fig. 6.21A).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în așezat pe scaun sau ortostatism.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) transversal.
-

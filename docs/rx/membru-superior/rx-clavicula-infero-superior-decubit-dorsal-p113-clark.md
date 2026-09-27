@@ -3,86 +3,96 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-superior
-centering: '• raza centrală este înclinat 45 grade cranially și centred la centre
-  de Claviculă.
+centering: '• raza centrală este înclinată cu 45 grade cranial și centrată la mijlocul
+  claviculei.
 
 
-  • raza centrală orizontală centrală este centred la nivelul fourth thoracic vertebra
-  la point 10 cm away de la linia mediană pe side away de la caseta.'
+  • raza centrală orizontală este centrată la nivelul celei de-a patra vertebre toracice,
+  într-un punct situat la 10 cm de linia mediană, pe partea opusă casetei.'
 clinical_indications:
-- These articulații sunt difficult la evidențiază, even cu good technique. Alternatives
-  include ultrasound, CT (especially cu three-dimensional sau multiplanar reconstructions)
-  și MRI. X-ray tube Oblică ray passing through stâng articulații sternoclaviculare
-  Oblică ray passing through drept articulații sternoclaviculare Articulații Sternoclaviculare
-  Normal ray 45° Claviculă Omoplat (Scapulă) Humerus Humerus incizură jugulară (furculiță
-  sternală) R R L L Shadow de coloană vertebrală Shadows de drept și stâng Articulații
-  Sternoclaviculare X-ray casetă Coaste (Grilaj Costal) Omoplat (Scapulă) Claviculă
-  III 3rd TV Axială diagram evidențiind incidență pentru drept articulații sternoclaviculare
-  radiografie de normal drept sternoclavicular join radiografie de normal stâng articulații
-  sternoclaviculare
+- Aceste articulații sunt dificil de evidențiat, chiar și cu o tehnică bună. Alternativele
+  includ ecografia, CT (în special cu reconstrucții tridimensionale sau multiplanare)
+  și RMN. Tub radiogen. Rază oblică trecând prin articulațiile sternoclaviculare stângi.
+  Rază oblică trecând prin articulațiile sternoclaviculare drepte. Articulații sternoclaviculare.
+  Normal. Rază 45°. Claviculă. Omoplat (scapulă). Humerus. Humerus. Incizură jugulară
+  (furculiță sternală). R R L L. Umbra coloanei vertebrale. Umbrele articulațiilor
+  sternoclaviculare drepte și stângi. Casetă radiografică. Coaste (grilaj costal).
+  Omoplat (scapulă). Claviculă. III. A 3-a vertebră toracică. Diagramă axială evidențiind
+  incidența pentru articulațiile sternoclaviculare drepte. Radiografie a articulației
+  sternoclaviculare drepte normale. Radiografie a articulațiilor sternoclaviculare
+  stângi normale.
 images:
-- caption: Decubit dorsal Infero-Superioară (Axială) radiografie de Claviculă evidențiind
-    early healing de a
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Radiografie infero-superioară (axială), în decubit dorsal, a claviculei,
+    evidențiind vindecarea timpurie a [fragment deteriorat în sursă]
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_1.jpeg
 - caption: 'Figura 2: Aspect radiografic / Poziționare (Clark Ed. 12)'
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_2.jpeg
-- caption: spații articulare clear de Coloană Vertebrală. Oblică incidență
+- caption: Spații articulare clare față de coloana vertebrală. Incidență oblică
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_3.jpeg
-- caption: este chosen that will bring spații articulare ca near ca possible la
+- caption: este aleasă pentru a aduce spațiile articulare cât mai aproape posibil
+    de
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_4.jpeg
-- caption: Axială diagram evidențiind incidență pentru drept articulații sternoclaviculare
+- caption: Diagramă axială evidențiind incidența pentru articulațiile sternoclaviculare
+    drepte
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_5.jpeg
-- caption: radiografie de normal drept
+- caption: Radiografie a articulației sternoclaviculare drepte normale
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_6.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: 'If caseta cannot fie pressed well into side de gâtul, then medial end de Claviculă
-  might nu fie included pe casetă. în this case, cu raza centrală centrală again înclinat
-  45 grade cranially, raza centrală este first centred la articulații sternoclaviculare
-  de partea afectată și then tubul este rotit until raza centrală este orientat la
-  centre de Claviculă.
+notes: 'Dacă caseta nu poate fi apăsată bine pe partea gâtului, atunci extremitatea
+  medială a claviculei s-ar putea să nu fie inclusă pe casetă. În acest caz, cu raza
+  centrală înclinată din nou cu 45 grade cranial, raza centrală este centrată mai
+  întâi la nivelul articulațiilor sternoclaviculare de partea afectată și apoi tubul
+  este rotit până când raza centrală este orientată spre mijlocul claviculei.
 
-  98 Decubit dorsal Infero-Superioară (Axială) radiografie de Claviculă evidențiind
-  early healing de suspiciune de fractură
-
-
-  Superimposed lung detail poate fie reduced prin asking pacientul la breathe gently
-  during expunere.
-
-  Semi-Decubit ventral (alternate) Alternatively, pacientul poate fie examined în
-  semi-Decubit ventral poziție. Starting cu pacientul Decubit ventral, side nu being
-  examined este raised de la masa de examinare until planul mediosagital este la 45
-  grade la masa de examinare, cu articulație being examined în linia mediană mesei.
-  centring point este la raised side, 10 cm de la linia mediană la nivelul fourth
-  thoracic vertebra.'
-position: '• pacientul este culcat Decubit dorsal pe masa de examinare, cu Umăr de
-  side being examined raised pe non-opaque pad și cu braț relaxat prin side.
-
-  • pacientul’s cap este turned away de la partea afectată.
-
-  • caseta este tilted back about 20 grade de la vertical și este sprijinit prin săculeți
-  cu nisip pe / sprijinit de upper margine de Umăr și pressed into side de gâtul.
+  98 Radiografie infero-superioară (axială), în decubit dorsal, a claviculei, evidențiind
+  vindecarea timpurie a suspiciunii de fractură.
 
 
-  • pacientul stă în ortostatism facing Bucky.
+  Suprapunerea desenului pulmonar poate fi redusă cerând pacientului să respire ușor
+  în timpul expunerii.
 
-  • pacientul este then rotit through 45 grade astfel încât plan mediosagital de corp
-  este la 45 grade la caseta cu articulații sternoclaviculare being examined nearer
-  caseta și centred la it.
+  Semi-decubit ventral (alternativ). Alternativ, pacientul poate fi examinat în poziție
+  de semi-decubit ventral. Pornind cu pacientul în decubit ventral, partea neexaminată
+  este ridicată de la masa de examinare până când planul mediosagital formează un
+  unghi de 45 grade cu masa de examinare, articulația examinată fiind pe linia mediană
+  a mesei. Punctul de centrare este pe partea ridicată, la 10 cm de linia mediană,
+  la nivelul celei de-a patra vertebre toracice.'
+position: '• pacientul este culcat în decubit dorsal pe masa de examinare, cu umărul
+  de partea examinată ridicat pe un suport radiotransparent și cu brațul relaxat pe
+  lângă corp.
 
-  • pacientul holds vertical stand la help imobilizare și continues la breathe during
-  expunere.'
+  • capul pacientului este întors în partea opusă celei afectate.
+
+  • caseta este înclinată posterior cu aproximativ 20 grade față de verticală, este
+  sprijinită cu săculeți cu nisip pe marginea superioară a umărului și apăsată pe
+  partea gâtului.
+
+
+  • pacientul stă în ortostatism, cu fața spre Bucky.
+
+  • pacientul este apoi rotit cu 45 grade, astfel încât planul mediosagital al corpului
+  să formeze un unghi de 45 grade cu caseta, articulațiile sternoclaviculare examinate
+  fiind mai apropiate de casetă și centrate pe aceasta.
+
+  • pacientul se ține de stativul vertical pentru a ajuta la imobilizare și continuă
+  să respire în timpul expunerii.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -91,29 +101,29 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- imagine trebuie să evidențiază entire length de Claviculă, including sternoclavicular
-  și Articulații Acromioclaviculare.
-- entire length de Claviculă, cu exception de proximal end, trebuie să fie projected
-  clear de thoracic cage.
-- Claviculă trebuie să fie orizontal.
-- articulații sternoclaviculare trebuie să fie clar evidențiat(e) în profile away
-  de la Coloană Vertebrală.
+- Imaginea trebuie să evidențieze întreaga lungime a claviculei, inclusiv articulațiile
+  sternoclaviculare și acromioclaviculare.
+- Întreaga lungime a claviculei, cu excepția extremității proximale, trebuie proiectată
+  clar deasupra cutiei toracice.
+- Clavicula trebuie să fie orizontală.
+- Articulațiile sternoclaviculare trebuie să fie evidențiate clar în profil, departe
+  de coloana vertebrală.
 sid_dff: 100 cm
 slug: rx-clavicula-infero-superior-decubit-dorsal-p113-clark
 sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 113
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Claviculă Infero - superior - Decubit Dorsal
+  mas: Conform AEC / grosimii anatomice
+title: Rx claviculă infero-superior – decubit dorsal
 ---
-# Rx Claviculă Infero - superior - Decubit Dorsal
+# Rx claviculă infero-superior – decubit dorsal
 
 
 <div class="rx-meta-bar">
@@ -132,30 +142,31 @@ title: Rx Claviculă Infero - superior - Decubit Dorsal
 
     === "Indicații Clinice"
 
-        - These articulații sunt difficult la evidențiază, even cu good technique. Alternatives include ultrasound, CT (especially cu three-dimensional sau multiplanar reconstructions) și MRI. X-ray tube Oblică ray passing through stâng articulații sternoclaviculare Oblică ray passing through drept articulații sternoclaviculare Articulații Sternoclaviculare Normal ray 45° Claviculă Omoplat (Scapulă) Humerus Humerus incizură jugulară (furculiță sternală) R R L L Shadow de coloană vertebrală Shadows de drept și stâng Articulații Sternoclaviculare X-ray casetă Coaste (Grilaj Costal) Omoplat (Scapulă) Claviculă III 3rd TV Axială diagram evidențiind incidență pentru drept articulații sternoclaviculare radiografie de normal drept sternoclavicular join radiografie de normal stâng articulații sternoclaviculare
+        - Aceste articulații sunt dificil de evidențiat, chiar și cu o tehnică bună. Alternativele includ ecografia, CT (în special cu reconstrucții tridimensionale sau multiplanare) și RMN. Tub radiogen. Rază oblică trecând prin articulațiile sternoclaviculare stângi. Rază oblică trecând prin articulațiile sternoclaviculare drepte. Articulații sternoclaviculare. Normal. Rază 45°. Claviculă. Omoplat (scapulă). Humerus. Humerus. Incizură jugulară (furculiță sternală). R R L L. Umbra coloanei vertebrale. Umbrele articulațiilor sternoclaviculare drepte și stângi. Casetă radiografică. Coaste (grilaj costal). Omoplat (scapulă). Claviculă. III. A 3-a vertebră toracică. Diagramă axială evidențiind incidența pentru articulațiile sternoclaviculare drepte. Radiografie a articulației sternoclaviculare drepte normale. Radiografie a articulațiilor sternoclaviculare stângi normale.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal pe masa de examinare, cu Umăr de side being examined raised pe non-opaque pad și cu braț relaxat prin side.
-• pacientul’s cap este turned away de la partea afectată.
-• caseta este tilted back about 20 grade de la vertical și este sprijinit prin săculeți cu nisip pe / sprijinit de upper margine de Umăr și pressed into side de gâtul.
-
-• pacientul stă în ortostatism facing Bucky.
-• pacientul este then rotit through 45 grade astfel încât plan mediosagital de corp este la 45 grade la caseta cu articulații sternoclaviculare being examined nearer caseta și centred la it.
-• pacientul holds vertical stand la help imobilizare și continues la breathe during expunere.
-    - **Punct de Centrare Fascicul:** • raza centrală este înclinat 45 grade cranially și centred la centre de Claviculă.
-
-• raza centrală orizontală centrală este centred la nivelul fourth thoracic vertebra la point 10 cm away de la linia mediană pe side away de la caseta.
+    - **Poziție Pacient:**
+        - pacientul este culcat în decubit dorsal pe masa de examinare, cu umărul de partea examinată ridicat pe un suport radiotransparent și cu brațul relaxat pe lângă corp.
+        - capul pacientului este întors în partea opusă celei afectate.
+        - caseta este înclinată posterior cu aproximativ 20 grade față de verticală, este sprijinită cu săculeți cu nisip pe marginea superioară a umărului și apăsată pe partea gâtului.
+        - pacientul stă în ortostatism, cu fața spre Bucky.
+        - pacientul este apoi rotit cu 45 grade, astfel încât planul mediosagital al corpului să formeze un unghi de 45 grade cu caseta, articulațiile sternoclaviculare examinate fiind mai apropiate de casetă și centrate pe aceasta.
+        - pacientul se ține de stativul vertical pentru a ajuta la imobilizare și continuă să respire în timpul expunerii.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală este înclinată cu 45 grade cranial și centrată la mijlocul claviculei.
+        - raza centrală orizontală este centrată la nivelul celei de-a patra vertebre toracice, într-un punct situat la 10 cm de linia mediană, pe partea opusă casetei.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -166,22 +177,22 @@ title: Rx Claviculă Infero - superior - Decubit Dorsal
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - imagine trebuie să evidențiază entire length de Claviculă, including sternoclavicular și Articulații Acromioclaviculare.
-    - entire length de Claviculă, cu exception de proximal end, trebuie să fie projected clear de thoracic cage.
-    - Claviculă trebuie să fie orizontal.
-    - articulații sternoclaviculare trebuie să fie clar evidențiat(e) în profile away de la Coloană Vertebrală.
+    - Imaginea trebuie să evidențieze întreaga lungime a claviculei, inclusiv articulațiile sternoclaviculare și acromioclaviculare.
+    - Întreaga lungime a claviculei, cu excepția extremității proximale, trebuie proiectată clar deasupra cutiei toracice.
+    - Clavicula trebuie să fie orizontală.
+    - Articulațiile sternoclaviculare trebuie să fie evidențiate clar în profil, departe de coloana vertebrală.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -193,12 +204,11 @@ title: Rx Claviculă Infero - superior - Decubit Dorsal
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    If caseta cannot fie pressed well into side de gâtul, then medial end de Claviculă might nu fie included pe casetă. în this case, cu raza centrală centrală again înclinat 45 grade cranially, raza centrală este first centred la articulații sternoclaviculare de partea afectată și then tubul este rotit until raza centrală este orientat la centre de Claviculă.
-98 Decubit dorsal Infero-Superioară (Axială) radiografie de Claviculă evidențiind early healing de suspiciune de fractură
 
-Superimposed lung detail poate fie reduced prin asking pacientul la breathe gently during expunere.
-Semi-Decubit ventral (alternate) Alternatively, pacientul poate fie examined în semi-Decubit ventral poziție. Starting cu pacientul Decubit ventral, side nu being examined este raised de la masa de examinare until planul mediosagital este la 45 grade la masa de examinare, cu articulație being examined în linia mediană mesei. centring point este la raised side, 10 cm de la linia mediană la nivelul fourth thoracic vertebra.
+!!! note "Observații Clinice & Tehnice"
+    Dacă caseta nu poate fi apăsată bine pe partea gâtului, atunci extremitatea medială a claviculei s-ar putea să nu fie inclusă pe casetă. În acest caz, cu raza centrală înclinată din nou cu 45 grade cranial, raza centrală este centrată mai întâi la nivelul articulațiilor sternoclaviculare de partea afectată și apoi tubul este rotit până când raza centrală este orientată spre mijlocul claviculei. 98 Radiografie infero-superioară (axială), în decubit dorsal, a claviculei, evidențiind vindecarea timpurie a suspiciunii de fractură.
+
+    Suprapunerea desenului pulmonar poate fi redusă cerând pacientului să respire ușor în timpul expunerii. Semi-decubit ventral (alternativ). Alternativ, pacientul poate fi examinat în poziție de semi-decubit ventral. Pornind cu pacientul în decubit ventral, partea neexaminată este ridicată de la masa de examinare până când planul mediosagital formează un unghi de 45 grade cu masa de examinare, articulația examinată fiind pe linia mediană a mesei. Punctul de centrare este pe partea ridicată, la 10 cm de linia mediană, la nivelul celei de-a patra vertebre toracice.
 
 
 ### 🖼️ Imagini
@@ -207,9 +217,9 @@ Semi-Decubit ventral (alternate) Alternatively, pacientul poate fie examined în
 
 <figure class="protocol-image-card" markdown>
 
-![Decubit dorsal Infero-Superioară (Axială) radiografie de Claviculă evidențiind early healing de a](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_1.jpeg)
+![Radiografie infero-superioară (axială), în decubit dorsal, a claviculei, evidențiind vindecarea timpurie a [fragment deteriorat în sursă]](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_1.jpeg)
 
-<figcaption><strong>Decubit dorsal Infero-Superioară (Axială) radiografie de Claviculă evidențiind early healing de a</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie infero-superioară (axială), în decubit dorsal, a claviculei, evidențiind vindecarea timpurie a [fragment deteriorat în sursă]</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
@@ -223,33 +233,33 @@ Semi-Decubit ventral (alternate) Alternatively, pacientul poate fie examined în
 
 <figure class="protocol-image-card" markdown>
 
-![spații articulare clear de Coloană Vertebrală. Oblică incidență](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_3.jpeg)
+![Spații articulare clare față de coloana vertebrală. Incidență oblică](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_3.jpeg)
 
-<figcaption><strong>spații articulare clear de Coloană Vertebrală. Oblică incidență</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![este chosen that will bring spații articulare ca near ca possible la](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_4.jpeg)
-
-<figcaption><strong>este chosen that will bring spații articulare ca near ca possible la</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Spații articulare clare față de coloana vertebrală. Incidență oblică</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Axială diagram evidențiind incidență pentru drept articulații sternoclaviculare](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_5.jpeg)
+![este aleasă pentru a aduce spațiile articulare cât mai aproape posibil de](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_4.jpeg)
 
-<figcaption><strong>Axială diagram evidențiind incidență pentru drept articulații sternoclaviculare</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>este aleasă pentru a aduce spațiile articulare cât mai aproape posibil de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![radiografie de normal drept](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_6.jpeg)
+![Diagramă axială evidențiind incidența pentru articulațiile sternoclaviculare drepte](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_5.jpeg)
 
-<figcaption><strong>radiografie de normal drept</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Diagramă axială evidențiind incidența pentru articulațiile sternoclaviculare drepte</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie a articulației sternoclaviculare drepte normale](../../assets/images/protocols/clark/rx-clavicula-infero-superior-decubit-dorsal-p113-clark/fig_6.jpeg)
+
+<figcaption><strong>Radiografie a articulației sternoclaviculare drepte normale</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

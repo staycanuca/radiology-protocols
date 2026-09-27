@@ -6,38 +6,45 @@ category: membru-superior
 centering: • Raza centrală verticală este centrată perpendicular pe capul metacarpianului
   III.
 clinical_indications:
-- Evaluare radiografică regiunii Mână Incidențe Standard de Bază (Postero - anterior
-  - dorsi - palmar).
+- Evaluarea radiografică a regiunii mâinii — incidențe standard de bază (postero-anterioară
+  — dorso-palmară).
 - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
 - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 images:
-- caption: • inter-phalangeal și metacarpo-phalangeal și carpo-
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: • interfalangiene și metacarpofalangiene și carpometacarpiene
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_1.jpeg
-- caption: Normal Postero-anterior (PA) radiografie de stâng Mână
+- caption: Radiografie postero-anterioară (PA) normală a mâinii stângi
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_2.jpeg
-- caption: Postero-anterior (PA) radiografie evidențiind suspiciune de fractură de
+- caption: Radiografie postero-anterioară (PA) evidențiind suspiciune de fractură
+    a
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_3.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• Pacientul este așezat pe scaun lângă masa de examinare cu brațul afectat
-  cel mai apropiat de table.
+position: '• Pacientul este așezat pe scaun lângă masa de examinare, cu brațul afectat
+  cel mai apropiat de masă.
 
-  • Antebraț (Radius și Ulna) este în pronație și plasat pe masa de examinare cu palmer
-  surface de Mână în contact cu caseta.
+  • Antebrațul (radiusul și ulna) este în pronație și plasat pe masa de examinare,
+  cu suprafața palmară a mâinii în contact cu caseta.
 
-  • Degete Mână sunt separated și extins but relaxat la ensure that they remain în
-  contact cu caseta.
+  • Degetele mâinii sunt depărtate și extinse, dar relaxate, pentru a se asigura că
+  rămân în contact cu caseta.
 
-  • Pumn (Articulație Radiocarpiană) este ajustat astfel încât radial și ulna styloid
-  processes sunt echidistant față de caseta.
+  • Pumnul (articulația radiocarpiană) este ajustat astfel încât procesele stiloide
+  radial și ulnar să fie echidistante față de casetă.
 
-  • săculeți cu nisip este plasat over lower Antebraț (Radius și Ulna) pentru imobilizare.'
+  • Săculețul cu nisip este plasat peste partea inferioară a antebrațului (radiusul
+  și ulna) pentru imobilizare.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -47,13 +54,13 @@ protection:
   expunere.
 quality_criteria:
 - Imaginea trebuie să demonstreze toate falangele (inclusiv părțile moi ale pulpei
-  degetelor), oasele carpiene, metacarpienele și extremitatea distală radiusului și
-  ulnei.
+  degetelor), oasele carpiene, metacarpienele și extremitatea distală a radiusului
+  și ulnei.
 - Articulațiile interfalangiene, metacarpofalangiene și carpometacarpiene trebuie
-  evidențiate net, deschise.
-- Absența rotației anatomice (simetrie bilaterală perfectă). 40 Normal Postero-anterior
-  (PA) radiografie de stâng Mână Postero-anterior (PA) radiografie evidențiind suspiciune
-  de fractură de fourth și fifth oase metacarpiene
+  evidențiate clar și deschise.
+- Absența rotației anatomice (simetrie bilaterală perfectă). 40 Radiografie postero-anterioară
+  (PA) normală a mâinii stângi. Radiografie postero-anterioară (PA) evidențiind suspiciune
+  de fractură a oaselor metacarpiene patru și cinci.
 sid_dff: 100 cm
 slug: rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark
 sources:
@@ -62,14 +69,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă adaptată pe receptor 24 x 30 cm
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Mână Incidențe Standard de Bază Postero-Anterior (PA) - Dorso-Palmar
+  mas: Conform AEC / grosimii anatomice
+title: Rx mână — incidențe standard de bază postero-anterioare (PA) — dorso-palmar
 ---
-# Rx Mână Incidențe Standard de Bază Postero-Anterior (PA) - Dorso-Palmar
+# Rx mână — incidențe standard de bază postero-anterioare (PA) — dorso-palmar
 
 
 <div class="rx-meta-bar">
@@ -88,27 +95,29 @@ title: Rx Mână Incidențe Standard de Bază Postero-Anterior (PA) - Dorso-Palm
 
     === "Indicații Clinice"
 
-        - Evaluare radiografică regiunii Mână Incidențe Standard de Bază (Postero - anterior - dorsi - palmar).
+        - Evaluarea radiografică a regiunii mâinii — incidențe standard de bază (postero-anterioară — dorso-palmară).
         - Suspiciune de leziuni traumatice (fracturi, luxații sau diastazis articular).
         - Bilanț osteoarticular / visceral conform recomandării medicale de trimitere.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este așezat pe scaun lângă masa de examinare cu brațul afectat cel mai apropiat de table.
-• Antebraț (Radius și Ulna) este în pronație și plasat pe masa de examinare cu palmer surface de Mână în contact cu caseta.
-• Degete Mână sunt separated și extins but relaxat la ensure that they remain în contact cu caseta.
-• Pumn (Articulație Radiocarpiană) este ajustat astfel încât radial și ulna styloid processes sunt echidistant față de caseta.
-• săculeți cu nisip este plasat over lower Antebraț (Radius și Ulna) pentru imobilizare.
+    - **Poziție Pacient:**
+        - Pacientul este așezat pe scaun lângă masa de examinare, cu brațul afectat cel mai apropiat de masă.
+        - Antebrațul (radiusul și ulna) este în pronație și plasat pe masa de examinare, cu suprafața palmară a mâinii în contact cu caseta.
+        - Degetele mâinii sunt depărtate și extinse, dar relaxate, pentru a se asigura că rămân în contact cu caseta.
+        - Pumnul (articulația radiocarpiană) este ajustat astfel încât procesele stiloide radial și ulnar să fie echidistante față de casetă.
+        - Săculețul cu nisip este plasat peste partea inferioară a antebrațului (radiusul și ulna) pentru imobilizare.
     - **Punct de Centrare Fascicul:** • Raza centrală verticală este centrată perpendicular pe capul metacarpianului III.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -120,21 +129,21 @@ title: Rx Mână Incidențe Standard de Bază Postero-Anterior (PA) - Dorso-Palm
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă adaptată pe receptor 24 x 30 cm |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Imaginea trebuie să demonstreze toate falangele (inclusiv părțile moi ale pulpei degetelor), oasele carpiene, metacarpienele și extremitatea distală radiusului și ulnei.
-    - Articulațiile interfalangiene, metacarpofalangiene și carpometacarpiene trebuie evidențiate net, deschise.
-    - Absența rotației anatomice (simetrie bilaterală perfectă). 40 Normal Postero-anterior (PA) radiografie de stâng Mână Postero-anterior (PA) radiografie evidențiind suspiciune de fractură de fourth și fifth oase metacarpiene
+    - Imaginea trebuie să demonstreze toate falangele (inclusiv părțile moi ale pulpei degetelor), oasele carpiene, metacarpienele și extremitatea distală a radiusului și ulnei.
+    - Articulațiile interfalangiene, metacarpofalangiene și carpometacarpiene trebuie evidențiate clar și deschise.
+    - Absența rotației anatomice (simetrie bilaterală perfectă). 40 Radiografie postero-anterioară (PA) normală a mâinii stângi. Radiografie postero-anterioară (PA) evidențiind suspiciune de fractură a oaselor metacarpiene patru și cinci.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -146,6 +155,7 @@ title: Rx Mână Incidențe Standard de Bază Postero-Anterior (PA) - Dorso-Palm
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -156,25 +166,25 @@ title: Rx Mână Incidențe Standard de Bază Postero-Anterior (PA) - Dorso-Palm
 
 <figure class="protocol-image-card" markdown>
 
-![• inter-phalangeal și metacarpo-phalangeal și carpo-](../../assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_1.jpeg)
+![• interfalangiene și metacarpofalangiene și carpometacarpiene](../../assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_1.jpeg)
 
-<figcaption><strong>• inter-phalangeal și metacarpo-phalangeal și carpo-</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Normal Postero-anterior (PA) radiografie de stâng Mână](../../assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_2.jpeg)
-
-<figcaption><strong>Normal Postero-anterior (PA) radiografie de stâng Mână</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• interfalangiene și metacarpofalangiene și carpometacarpiene</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Postero-anterior (PA) radiografie evidențiind suspiciune de fractură de](../../assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_3.jpeg)
+![Radiografie postero-anterioară (PA) normală a mâinii stângi](../../assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_2.jpeg)
 
-<figcaption><strong>Postero-anterior (PA) radiografie evidențiind suspiciune de fractură de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie postero-anterioară (PA) normală a mâinii stângi</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie postero-anterioară (PA) evidențiind suspiciune de fractură a](../../assets/images/protocols/clark/rx-mana-incidente-standard-de-baza-postero-anterior-dorsi-palmar-p55-clark/fig_3.jpeg)
+
+<figcaption><strong>Radiografie postero-anterioară (PA) evidențiind suspiciune de fractură a</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

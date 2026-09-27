@@ -4,7 +4,7 @@ breathing: Efectuați expunerea în timpul unui inspir lent și profund, pentru 
   umplerea cu aer a traheei și a căilor aeriene superioare.
 category: torace
 centering: Perpendicular pe centrul receptorului de imagine, la nivelul T1–T2, la
-  aproximativ 1 inch (2.5 cm) deasupra incizurii jugulare (manubriul sternal).
+  aproximativ 1 țol (2.5 cm) deasupra incizurii jugulare (manubriul sternal).
 clinical_indications:
 - Investigarea patologiei laringelui și traheei umplute cu aer, inclusiv regiunea
   glandelor tiroidă și timus și porțiunea superioară a esofagului, pentru identificarea
@@ -24,6 +24,10 @@ images:
   description: Aspect radiografic de referință conform Ghidului Bontrager (Figura
     3)
   url: assets/images/protocols/bontrager/rx-cai-aeriene-superioare-ap-antero-posterior-bontrager/fig_3.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
 notes: '(Centrarea pentru căile aeriene superioare și trahee): Centrarea pentru această
@@ -63,7 +67,7 @@ quality_criteria:
 - Mandibula trebuie să se suprapună peste baza craniului, cu coloana vertebrală aliniată
   cu centrul filmului radiologic.
 - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼
-  inch) la partea superioară și inferioară.
+  țol) la partea superioară și inferioară.
 - Câmpul de colimare (raza centrală) trebuie să fie centrat pe regiunea T1–T2. Expunere.
 - Expunerea și algoritmul de procesare optime trebuie să permită vizualizarea traheei
   umplute cu aer prin suprapunerea coloanei cervicale și toracale.
@@ -106,17 +110,18 @@ title: Rx căi aeriene superioare AP (antero-posterior)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
     - **Poziție Pacient:** Pacient: Dacă este posibil, pacientul trebuie să fie în poziție verticală, șezând sau în ortostatism, cu partea posterioară a capului și umerii sprijiniți de receptorul de imagine (dacă este necesar, examinarea se poate efectua în decubit pe masa de examinare).; Regiune anatomică: Aliniați planul medio-sagital cu raza centrală și cu linia mediană a grilei sau a mesei. Ridicați bărbia astfel încât linia acantiomeatală (LAM) să fie perpendiculară pe receptorul de imagine (RI) (linia dintre acantion, adică zona imediat sub nas, și meat sau conductul auditiv extern (CAE)); pacientul privește drept înainte (Fig. 2.89). Ajustați înălțimea receptorului de imagine pentru a-i plasa marginea superioară la aproximativ 1 sau 1½ inci (3 la 4 cm) sub conductul auditiv extern (CAE) (consultați NOTA pentru explicația centrării).
-    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine, la nivelul T1–T2, la aproximativ 1 inch (2.5 cm) deasupra incizurii jugulare (manubriul sternal).
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine, la nivelul T1–T2, la aproximativ 1 țol (2.5 cm) deasupra incizurii jugulare (manubriul sternal).
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Efectuați expunerea în timpul unui inspir lent și profund, pentru a asigura umplerea cu aer a traheei și a căilor aeriene superioare.
 
@@ -143,7 +148,7 @@ title: Rx căi aeriene superioare AP (antero-posterior)
     - Trebuie inclusă zona de la porțiunea proximală a coloanei cervicale (marginea inferioară a umbrei mandibulei și bazei craniului suprapuse) până la regiunea toracică mijlocie (Fig. 2.90). Poziție (consultați notele anterioare).
     - Absența rotației anatomice: claviculele trebuie să fie echidistante față de linia apofizelor spinoase, evidențiată prin aspectul simetric al articulațiilor sternoclaviculare.
     - Mandibula trebuie să se suprapună peste baza craniului, cu coloana vertebrală aliniată cu centrul filmului radiologic.
-    - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼ inch) la partea superioară și inferioară.
+    - Marginile colimării trebuie să fie vizibile bilateral, ideal cu margini minime (≤¼ țol) la partea superioară și inferioară.
     - Câmpul de colimare (raza centrală) trebuie să fie centrat pe regiunea T1–T2. Expunere.
     - Expunerea și algoritmul de procesare optime trebuie să permită vizualizarea traheei umplute cu aer prin suprapunerea coloanei cervicale și toracale.
 
@@ -156,6 +161,7 @@ title: Rx căi aeriene superioare AP (antero-posterior)
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     (Centrarea pentru căile aeriene superioare și trahee): Centrarea pentru această incidență antero-posterioară (AP) este similară celei pentru poziția de profil a laringelui distal și a traheei superioare descrise pe pagina anterioară, deoarece porțiunea cea mai proximală a laringelui nu se vizualizează în AP din cauza suprapunerii bazei craniului și mandibulei. Prin urmare, poate fi vizualizată o porțiune mai mare a traheei. CĂI AERIENE SUPERIOARE — INCIDENȚE DE RUTINĂ: profil, AP. B Fig. 2.90 Crup. (A) Săgeata indică îngustarea netedă, conică a porțiunii subglotice a traheei (semnul arcului gotic). (B) Trahee normală cu umeri largi în regiunea subglotică. (Din Eisenberg R, Johnson N: Patologie radiografică cuprinzătoare, ediția 7, St Louis, 2021, Elsevier.) Fig. 2.89 AP—căi aeriene superioare.

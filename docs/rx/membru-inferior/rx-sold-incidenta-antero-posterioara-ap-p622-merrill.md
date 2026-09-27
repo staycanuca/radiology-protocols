@@ -2,13 +2,13 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-inferior
-centering: perpendicular pe col femural; using localizing technique previously described
-  (see Fig. 8.12), place raza centrală approximately 2.5 inches (6.4 cm) distal pe
-  line drawn perpendicular pe midpoint de line între spină iliacă antero-superioară
-  (SIAS) și simfiză pubiană (see Fig. 8.28B). Se centrează receptorul de imagine pe
-  raza centrală. Make orice necessary adjustments în receptorul de imagine size și
-  raza centrală point when entire orthopedic device este la fie vizualizat pe one
-  imagine.
+centering: perpendicular pe colul femural; utilizând tehnica de localizare descrisă
+  anterior (vezi Fig. 8.12), se plasează raza centrală la aproximativ 2.5 țoli (6.4
+  cm) distal pe linia trasată perpendicular pe mijlocul liniei dintre SIAS și simfiza
+  pubiană (vezi Fig. 8.28B). Se centrează receptorul de imagine pe raza centrală.
+  Se fac toate ajustările necesare ale dimensiunii receptorului de imagine și ale
+  punctului razei centrale atunci când întregul dispozitiv ortopedic trebuie vizualizat
+  într-o singură imagine.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -21,39 +21,44 @@ images:
 - caption: Merrill — pagina 625, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-sold-incidenta-antero-posterioara-ap-p622-merrill/p625_fig3.png
+iris_reference:
+  chapter: Aparat locomotor & Bazin
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: Traumatism / Regim Urgență pacienți who have sustained severe injury usually
-  sunt nu transferred la masa radiologică but sunt radiographed pe stretcher sau bed.
-  After localization point has been established și marked, one assistant trebuie să
-  fie pe fiecare side de stretcher la grasp sheet și lift Bazin (bazin (pelvis)) just
-  enough pentru placement de receptorul de imagine, while third person supports injured
-  limb. orice necessary manipulation de limb trebuie să fie made prin physician.
-position: se așază pacientul în Decubit dorsal poziție.; se ajustează pacient’s Bazin
-  (bazin (pelvis)) so that it este nu rotit. This este accomplished prin placing spină
-  iliacă antero-superioară (SIAS) echidistant față de masa de examinare (Figs. 8.27
-  și 8.28). se poziționează pacientul’s brațe în comfortable poziție. Medially se
-  rotește membru inferior și Picior approximately 15 la 20 grade la place col femural
-  paralel cu plane de receptorul de imagine unless this maneuver este contraindicated
-  sau other instructions sunt given. Place support under Genunchi și săculeți cu nisip
-  across Gleznă (Articulație Talocrurală). This makes it easier pentru pacientul la
-  maintain this poziție.
+notes: Traumatism / regim de urgență. Pacienții care au suferit leziuni severe nu
+  sunt de obicei transferați pe masa radiologică, ci sunt radiografiați pe targă sau
+  pe pat. După stabilirea și marcarea punctului de localizare, câte un asistent trebuie
+  să se afle de fiecare parte a tărgii pentru a prinde cearșaful și a ridica bazinul
+  doar atât cât este necesar pentru plasarea receptorului de imagine, în timp ce o
+  a treia persoană susține membrul lezat. Orice manipulare necesară a membrului trebuie
+  efectuată de medic.
+position: Se așază pacientul în poziție de decubit dorsal; se ajustează bazinul pacientului
+  astfel încât să nu fie rotit. Acest lucru se realizează prin poziționarea spinelor
+  iliace antero-superioare (SIAS) la distanțe egale față de masa de examinare (Fig.
+  8.27 și 8.28). Se poziționează brațele pacientului într-o poziție confortabilă.
+  Se rotește medial membrul inferior și piciorul cu aproximativ 15 la 20 de grade
+  pentru a plasa colul femural paralel cu planul receptorului de imagine, cu excepția
+  cazului în care această manevră este contraindicată sau sunt date alte instrucțiuni.
+  Se plasează un suport sub genunchi și săculeți cu nisip peste gleznă (articulația
+  talocrurală). Astfel, pacientului îi este mai ușor să mențină această poziție.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Regions de ilium și pubic bones adjoining simfiză pubiană
-- Șold articulație
-- proximal one-third de Femur
-- cap femural, penetrated și seen through cotil (acetabul)
-- Entire axa longitudinală de col femural nu foreshortened
-- mare trohanter în profile
-- mic trohanter usually nu projected beyond medial margine de Femur sau only very
-  small amount de trochanter vizibil
-- orice orthopedic appliance în its entirety
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Regiunile ilionului și oaselor pubiene adiacente simfizei pubiene
+- Articulația șoldului
+- Treimea proximală a femurului
+- Capul femural, penetrat și vizibil prin cotil (acetabul)
+- Întreaga axă longitudinală a colului femural, fără scurtare de perspectivă
+- Trohanterul mare în profil
+- Trohanterul mic nu este de obicei proiectat dincolo de marginea medială a femurului
+  sau este vizibilă doar o porțiune foarte mică a trohanterului
+- orice dispozitiv ortopedic în întregime
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-sold-incidenta-antero-posterioara-ap-p622-merrill
 source_pages:
@@ -62,80 +67,71 @@ source_pages:
 - 624
 - 625
 source_sections:
-  anatomy: 'capul, neck, trochanters, și proximal one-third de corp de femur (Fig.
-    8.29). în initial examination de hip lesion, whether
-
-    traumatic sau pathologic în origin, AP incidență este often obtained using receptorul
-    de imagine large enough pentru include entire pelvic girdle și upper
-
-    femora. Progress studies poate fie restricted la afected side.'
+  anatomy: Capul, colul, trohanterii și treimea proximală a corpului femurului (Fig.
+    8.29). În examinarea inițială a unei leziuni a șoldului, indiferent dacă are origine
+    traumatică sau patologică, se obține adesea o incidență AP folosind un receptor
+    de imagine suficient de mare pentru a include întreaga centură pelviană și femurele
+    proximale. Studiile ulterioare pot fi restrânse la partea afectată.
   collimation: • Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe col femural; using localizing technique previously described
-    (see Fig. 8.12), place raza centrală
-
-    approximately 2.5 inches (6.4 cm) distal pe line drawn perpendicular pe midpoint
-    de line între spină iliacă antero-superioară (SIAS) și pubic
-
-    simfiză (see Fig. 8.28B).
+  cr: '• Perpendicular pe colul femural; folosind tehnica de localizare descrisă anterior
+    (vezi Fig. 8.12), se plasează raza centrală la aproximativ 2.5 țoli (6.4 cm) distal
+    față de linia trasată perpendicular pe punctul de mijloc al liniei dintre spina
+    iliacă antero-superioară (SIAS) și simfiza pubiană (vezi Fig. 8.28B).
 
     • Se centrează receptorul de imagine pe raza centrală.
 
-    • Make orice necessary adjustments în receptorul de imagine size și raza centrală
-    point when entire orthopedic device este la fie vizualizat pe one imagine.'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Se efectuează toate ajustările necesare ale dimensiunii receptorului de imagine
+    și ale punctului de incidență al razei centrale când întregul dispozitiv ortopedic
+    trebuie vizualizat pe o singură imagine.'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar în afara anatomiei de interes
 
-    • Regions de ilium și pubic bones adjoining simfiză pubiană
+    • Regiunile ilionului și oaselor pubiene adiacente simfizei pubiene
 
-    • Hip articulație
+    • Articulația șoldului
 
-    • proximal one-third de femur
+    • Treimea proximală a femurului
 
-    • cap femural, penetrated și seen through cotil (acetabul)
+    • Capul femural, penetrat și vizibil prin cotil (acetabul)
 
-    • Entire axa longitudinală de col femural nu foreshortened
+    • Întreaga axă longitudinală a colului femural, fără scurtare de perspectivă
 
-    • mare trohanter în profile
+    • Trohanterul mare în profil
 
-    • mic trohanter usually nu projected beyond medial margine de femur sau only very
-    small amount de trochanter vizibil
+    • Trohanterul mic nu este de obicei proiectat dincolo de marginea medială a femurului
+    sau este vizibilă doar o porțiune foarte mică a trohanterului
 
-    • orice orthopedic appliance în its entirety
+    • Orice dispozitiv ortopedic, în întregime
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  notes: 'Trauma pacienți who have sustained severe injury usually sunt nu transferred
-    la masa radiologică but sunt radiographed pe stretcher sau bed. After localization
-    point has been established și marked, one assistant trebuie să fie pe fiecare
-    side de stretcher la grasp
+    • Detaliile trabeculare osoase și țesuturile moi înconjurătoare'
+  notes: Pacienții traumatizați care au suferit leziuni severe nu sunt de obicei transferați
+    pe masa radiologică, ci sunt radiografiați pe targă sau în pat. După stabilirea
+    și marcarea punctului de localizare, un asistent trebuie să se afle pe fiecare
+    parte a tărgii pentru a prinde cearșaful și a ridica bazinul suficient pentru
+    plasarea receptorului de imagine, în timp ce a treia persoană susține membrul
+    lezat. Orice manipulare necesară a membrului trebuie efectuată de medic.
+  part_pos: '• Se ajustează bazinul pacientului astfel încât să nu fie rotit. Acest
+    lucru se realizează prin poziționarea spinelor iliace antero-superioare (SIAS)
+    la distanțe egale față de masa de examinare (Fig. 8.27 și 8.28).
 
-    sheet și lift bazinul just enough pentru placement de receptorul de imagine, while
-    third person supports injured limb. orice necessary manipulation de
+    • Se poziționează brațele pacientului într-o poziție confortabilă.
 
-    limb trebuie să fie made prin physician.'
-  part_pos: '• se ajustează pacient’s bazin (pelvis) so that it este nu rotit. This
-    este accomplished prin placing spină iliacă antero-superioară (SIAS) echidistant
-    față de masa de examinare (Figs. 8.27 și
+    • Se rotește medial membrul inferior și piciorul cu aproximativ 15 la 20 de grade
+    pentru a plasa colul femural paralel cu planul receptorului de imagine, cu excepția
+    cazului în care această manevră este contraindicată sau sunt date alte instrucțiuni.
 
-    8.28).
-
-    • se poziționează pacientul’s brațe în comfortable poziție.
-
-    • Medially se rotește membru inferior și picior approximately 15 la 20 grade la
-    place col femural paralel cu plane de receptorul de imagine
-
-    unless this maneuver este contraindicated sau other instructions sunt given.
-
-    • Place support under genunchi și săculeți cu nisip across ankle. This makes it
-    easier pentru pacientul la maintain this poziție.'
+    • Se plasează un suport sub genunchi și săculeți cu nisip peste gleznă. Astfel,
+    pacientului îi este mai ușor să mențină această poziție.'
   patient_pos: • se așază pacientul în decubit dorsal.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 8. Pelvis and Hip, pagini 622–625
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -143,9 +139,9 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Șold — Incidență Antero-Posterioară (AP) (Merrill)
+title: Rx șold — incidență antero-posterioară (AP) (Merrill)
 ---
-# Rx Șold — Incidență Antero-Posterioară (AP) (Merrill)
+# Rx șold — incidență antero-posterioară (AP) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -169,17 +165,18 @@ title: Rx Șold — Incidență Antero-Posterioară (AP) (Merrill)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Bazin*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.8 - 1.0 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal poziție.; se ajustează pacient’s Bazin (bazin (pelvis)) so that it este nu rotit. This este accomplished prin placing spină iliacă antero-superioară (SIAS) echidistant față de masa de examinare (Figs. 8.27 și 8.28). se poziționează pacientul’s brațe în comfortable poziție. Medially se rotește membru inferior și Picior approximately 15 la 20 grade la place col femural paralel cu plane de receptorul de imagine unless this maneuver este contraindicated sau other instructions sunt given. Place support under Genunchi și săculeți cu nisip across Gleznă (Articulație Talocrurală). This makes it easier pentru pacientul la maintain this poziție.
-    - **Punct de Centrare Fascicul:** perpendicular pe col femural; using localizing technique previously described (see Fig. 8.12), place raza centrală approximately 2.5 inches (6.4 cm) distal pe line drawn perpendicular pe midpoint de line între spină iliacă antero-superioară (SIAS) și simfiză pubiană (see Fig. 8.28B). Se centrează receptorul de imagine pe raza centrală. Make orice necessary adjustments în receptorul de imagine size și raza centrală point when entire orthopedic device este la fie vizualizat pe one imagine.
+    - **Poziție Pacient:** Se așază pacientul în poziție de decubit dorsal; se ajustează bazinul pacientului astfel încât să nu fie rotit. Acest lucru se realizează prin poziționarea spinelor iliace antero-superioare (SIAS) la distanțe egale față de masa de examinare (Fig. 8.27 și 8.28). Se poziționează brațele pacientului într-o poziție confortabilă. Se rotește medial membrul inferior și piciorul cu aproximativ 15 la 20 de grade pentru a plasa colul femural paralel cu planul receptorului de imagine, cu excepția cazului în care această manevră este contraindicată sau sunt date alte instrucțiuni. Se plasează un suport sub genunchi și săculeți cu nisip peste gleznă (articulația talocrurală). Astfel, pacientului îi este mai ușor să mențină această poziție.
+    - **Punct de Centrare Fascicul:** perpendicular pe colul femural; utilizând tehnica de localizare descrisă anterior (vezi Fig. 8.12), se plasează raza centrală la aproximativ 2.5 țoli (6.4 cm) distal pe linia trasată perpendicular pe mijlocul liniei dintre SIAS și simfiza pubiană (vezi Fig. 8.28B). Se centrează receptorul de imagine pe raza centrală. Se fac toate ajustările necesare ale dimensiunii receptorului de imagine și ale punctului razei centrale atunci când întregul dispozitiv ortopedic trebuie vizualizat într-o singură imagine.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -202,17 +199,17 @@ title: Rx Șold — Incidență Antero-Posterioară (AP) (Merrill)
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Regions de ilium și pubic bones adjoining simfiză pubiană
-    - Șold articulație
-    - proximal one-third de Femur
-    - cap femural, penetrated și seen through cotil (acetabul)
-    - Entire axa longitudinală de col femural nu foreshortened
-    - mare trohanter în profile
-    - mic trohanter usually nu projected beyond medial margine de Femur sau only very small amount de trochanter vizibil
-    - orice orthopedic appliance în its entirety
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Regiunile ilionului și oaselor pubiene adiacente simfizei pubiene
+    - Articulația șoldului
+    - Treimea proximală a femurului
+    - Capul femural, penetrat și vizibil prin cotil (acetabul)
+    - Întreaga axă longitudinală a colului femural, fără scurtare de perspectivă
+    - Trohanterul mare în profil
+    - Trohanterul mic nu este de obicei proiectat dincolo de marginea medială a femurului sau este vizibilă doar o porțiune foarte mică a trohanterului
+    - orice dispozitiv ortopedic în întregime
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -222,8 +219,9 @@ title: Rx Șold — Incidență Antero-Posterioară (AP) (Merrill)
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Traumatism / Regim Urgență pacienți who have sustained severe injury usually sunt nu transferred la masa radiologică but sunt radiographed pe stretcher sau bed. After localization point has been established și marked, one assistant trebuie să fie pe fiecare side de stretcher la grasp sheet și lift Bazin (bazin (pelvis)) just enough pentru placement de receptorul de imagine, while third person supports injured limb. orice necessary manipulation de limb trebuie să fie made prin physician.
+    Traumatism / regim de urgență. Pacienții care au suferit leziuni severe nu sunt de obicei transferați pe masa radiologică, ci sunt radiografiați pe targă sau pe pat. După stabilirea și marcarea punctului de localizare, câte un asistent trebuie să se afle de fiecare parte a tărgii pentru a prinde cearșaful și a ridica bazinul doar atât cât este necesar pentru plasarea receptorului de imagine, în timp ce o a treia persoană susține membrul lezat. Orice manipulare necesară a membrului trebuie efectuată de medic.
 
 
 ### 🖼️ Imagini
@@ -268,66 +266,3 @@ title: Rx Șold — Incidență Antero-Posterioară (AP) (Merrill)
 ## Surse de documentare
 
 - [Merrill’s Atlas, 8. Pelvis and Hip, pagini 622–625](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-capul, neck, trochanters, și proximal one-third de corp de femur (Fig. 8.29). în initial examination de hip lesion, whether
-traumatic sau pathologic în origin, AP incidență este often obtained using receptorul de imagine large enough pentru include entire pelvic girdle și upper
-femora. Progress studies poate fie restricted la afected side.
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 24 × 30 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe col femural; using localizing technique previously described (see Fig. 8.12), place raza centrală
-approximately 2.5 inches (6.4 cm) distal pe line drawn perpendicular pe midpoint de line între spină iliacă antero-superioară (SIAS) și pubic
-simfiză (see Fig. 8.28B).
-• Se centrează receptorul de imagine pe raza centrală.
-• Make orice necessary adjustments în receptorul de imagine size și raza centrală point when entire orthopedic device este la fie vizualizat pe one imagine.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Regions de ilium și pubic bones adjoining simfiză pubiană
-• Hip articulație
-• proximal one-third de femur
-• cap femural, penetrated și seen through cotil (acetabul)
-• Entire axa longitudinală de col femural nu foreshortened
-• mare trohanter în profile
-• mic trohanter usually nu projected beyond medial margine de femur sau only very small amount de trochanter vizibil
-• orice orthopedic appliance în its entirety
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### notes
-
-Trauma pacienți who have sustained severe injury usually sunt nu transferred la masa radiologică but sunt radiographed pe stretcher sau bed. After localization point has been established și marked, one assistant trebuie să fie pe fiecare side de stretcher la grasp
-sheet și lift bazinul just enough pentru placement de receptorul de imagine, while third person supports injured limb. orice necessary manipulation de
-limb trebuie să fie made prin physician.
-
-### part_pos
-
-• se ajustează pacient’s bazin (pelvis) so that it este nu rotit. This este accomplished prin placing spină iliacă antero-superioară (SIAS) echidistant față de masa de examinare (Figs. 8.27 și
-8.28).
-• se poziționează pacientul’s brațe în comfortable poziție.
-• Medially se rotește membru inferior și picior approximately 15 la 20 grade la place col femural paralel cu plane de receptorul de imagine
-unless this maneuver este contraindicated sau other instructions sunt given.
-• Place support under genunchi și săculeți cu nisip across ankle. This makes it easier pentru pacientul la maintain this poziție.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-

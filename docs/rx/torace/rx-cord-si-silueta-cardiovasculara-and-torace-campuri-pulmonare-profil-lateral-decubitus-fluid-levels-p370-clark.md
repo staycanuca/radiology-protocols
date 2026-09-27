@@ -3,56 +3,62 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: torace
-centering: • Centre la axilla, cu raza centrală centrală orizontal și orientat la
-  drept-angles la caseta.
+centering: • Centrați pe axilă, cu raza centrală orizontală și orientată perpendicular
+  pe casetă.
 clinical_indications:
-- 355 12 Cord și Siluetă Cardiovasculară și Torace (Câmpuri Pulmonare) – nivele hidroaerice
-  pacienți who sunt too ill la sit Ortostatism poate fie examined whilst culcat down.
-  use de orizontal raza centrală este essential la evidențiază nivele hidroaerice,
-  e.g. hydropneumotorax. Postero-anterior (PA) sau Antero-posterior (AP) (Profil (lateral)
-  decubit) This incidență este used la confirm presence de lichid. Moving pacientul
-  into different poziție causes movement de liber lichid, so that loculation este
-  also detected. It poate also fie used la evidențiază Profil (lateral) chest perete
-  de partea afectată clear de lichid, și la unmask orice underlying lung pathology.
+- 355 12 Cord, siluetă cardiovasculară și torace (câmpuri pulmonare) – niveluri hidroaerice.
+  Pacienții a căror stare este prea gravă pentru a sta șezând cu trunchiul vertical
+  pot fi examinați culcați. Utilizarea unei raze centrale orizontale este esențială
+  pentru a evidenția nivelurile hidroaerice, de exemplu hidropneumotoraxul. Postero-anterior
+  (PA) sau antero-posterior (AP) (decubit lateral). Această incidență este utilizată
+  pentru a confirma prezența lichidului. Mutarea pacientului într-o altă poziție determină
+  deplasarea lichidului liber, astfel încât poate fi detectată și închistarea acestuia.
+  Poate fi utilizată și pentru a evidenția peretele toracic lateral de partea afectată,
+  fără suprapunerea lichidului, și pentru a demasca orice patologie pulmonară subiacentă.
 images:
-- caption: strate nivele hidroaerice, e.g. hydropneumotorax.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: evidențierea nivelurilor hidroaerice, de exemplu hidropneumotoraxul.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_1.jpeg
-- caption: Postero-anterior (PA) radiografie în Profil (lateral) decubit poziție evidențiind
-    pleural
+- caption: Radiografie postero-anterioară (PA) în decubit lateral care evidențiază
+    aspectul pleural
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_2.jpeg
-- caption: effusion cu pneumotorax
+- caption: revărsat cu pneumotorax
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_3.jpeg
-- caption: Profil (lateral) radiografie în dorsal decubit poziție evidențiind revărsat
-    pleural (pleurezie)
+- caption: Radiografie de profil în decubit dorsal care evidențiază revărsat pleural
+    (pleurezie).
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_4.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• Further incidențe poate fie taken cu pacientul culcat pe partea afectată
-  sau în Decubit ventral poziție la disclose further aspects de câmpuri pulmonare
-  nu obscured prin lichid.
+notes: '• Se pot realiza incidențe suplimentare cu pacientul culcat pe partea afectată
+  sau în decubit ventral, pentru a evidenția alte porțiuni ale câmpurilor pulmonare
+  nemascate de lichid.
 
-  • casetă cu grilă antidifuzoare poate have la fie used if width de Torace este likely
-  la produce unacceptable amount de secondary radiation.
+  • Poate fi necesară utilizarea unei casete cu grilă antidifuzoare dacă lățimea toracelui
+  este susceptibilă să producă o cantitate inacceptabilă de radiație secundară.
 
-  pacient poziționat pentru Postero-anterior (PA) chest (Profil (lateral) decubit)
-  incidență Postero-anterior (PA) radiografie în Profil (lateral) decubit poziție
-  evidențiind revărsat pleural (pleurezie) cu pneumotorax pacient poziționat pentru
-  Profil (lateral) chest (dorsal decubit) incidență Profil (lateral) radiografie în
-  dorsal decubit poziție evidențiind revărsat pleural (pleurezie) cu pneumotorax'
-position: '• pacientul este culcat Decubit dorsal și, if possible, este raised off
-  bed pe supporting foam pad.
+  Pacient poziționat pentru incidența toracică postero-anterioară (PA) (decubit lateral).
+  Radiografie postero-anterioară (PA) în decubit lateral care evidențiază revărsat
+  pleural (pleurezie) cu pneumotorax. Pacient poziționat pentru incidența toracică
+  de profil (decubit dorsal). Radiografie de profil în decubit dorsal care evidențiază
+  revărsat pleural (pleurezie) cu pneumotorax.'
+position: '• Pacientul este culcat în decubit dorsal și, dacă este posibil, ridicat
+  de pe pat pe un suport din spumă.
 
-  • brațele sunt extins și sprijinit above capul.
+  • Brațele sunt întinse și sprijinite deasupra capului.
 
-  • casetă este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de
-  toracele de partea afectată și ajustat paralel cu plan mediosagital.'
+  • Caseta este sprijinită vertical de fața laterală a toracelui, pe partea afectată,
+  și ajustată paralel cu planul mediosagital.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -61,8 +67,8 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Cord și Siluetă Cardiovasculară și Torace
-  (Câmpuri Pulmonare)).
+- Vizualizarea clară a întregii arii anatomice (cord și siluetă cardiovasculară și
+  torace (câmpuri pulmonare)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -74,15 +80,15 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Profil (Lateral)
-  decubitus (Nivele Hidroaerice)
+  mas: Conform AEC / grosimii anatomice
+title: Rx cord, siluetă cardiovasculară și torace (câmpuri pulmonare) în decubit lateral
+  (niveluri hidroaerice)
 ---
-# Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Profil (Lateral) decubitus (Nivele Hidroaerice)
+# Rx cord, siluetă cardiovasculară și torace (câmpuri pulmonare) în decubit lateral (niveluri hidroaerice)
 
 
 <div class="rx-meta-bar">
@@ -101,24 +107,26 @@ title: Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Pro
 
     === "Indicații Clinice"
 
-        - 355 12 Cord și Siluetă Cardiovasculară și Torace (Câmpuri Pulmonare) – nivele hidroaerice pacienți who sunt too ill la sit Ortostatism poate fie examined whilst culcat down. use de orizontal raza centrală este essential la evidențiază nivele hidroaerice, e.g. hydropneumotorax. Postero-anterior (PA) sau Antero-posterior (AP) (Profil (lateral) decubit) This incidență este used la confirm presence de lichid. Moving pacientul into different poziție causes movement de liber lichid, so that loculation este also detected. It poate also fie used la evidențiază Profil (lateral) chest perete de partea afectată clear de lichid, și la unmask orice underlying lung pathology.
+        - 355 12 Cord, siluetă cardiovasculară și torace (câmpuri pulmonare) – niveluri hidroaerice. Pacienții a căror stare este prea gravă pentru a sta șezând cu trunchiul vertical pot fi examinați culcați. Utilizarea unei raze centrale orizontale este esențială pentru a evidenția nivelurile hidroaerice, de exemplu hidropneumotoraxul. Postero-anterior (PA) sau antero-posterior (AP) (decubit lateral). Această incidență este utilizată pentru a confirma prezența lichidului. Mutarea pacientului într-o altă poziție determină deplasarea lichidului liber, astfel încât poate fi detectată și închistarea acestuia. Poate fi utilizată și pentru a evidenția peretele toracic lateral de partea afectată, fără suprapunerea lichidului, și pentru a demasca orice patologie pulmonară subiacentă.
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul este culcat Decubit dorsal și, if possible, este raised off bed pe supporting foam pad.
-• brațele sunt extins și sprijinit above capul.
-• casetă este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de toracele de partea afectată și ajustat paralel cu plan mediosagital.
-    - **Punct de Centrare Fascicul:** • Centre la axilla, cu raza centrală centrală orizontal și orientat la drept-angles la caseta.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal și, dacă este posibil, ridicat de pe pat pe un suport din spumă.
+        - Brațele sunt întinse și sprijinite deasupra capului.
+        - Caseta este sprijinită vertical de fața laterală a toracelui, pe partea afectată, și ajustată paralel cu planul mediosagital.
+    - **Punct de Centrare Fascicul:** • Centrați pe axilă, cu raza centrală orizontală și orientată perpendicular pe casetă.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -129,19 +137,19 @@ title: Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Pro
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Cord și Siluetă Cardiovasculară și Torace (Câmpuri Pulmonare)).
+    - Vizualizarea clară a întregii arii anatomice (cord și siluetă cardiovasculară și torace (câmpuri pulmonare)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -155,10 +163,10 @@ title: Rx Cord și Siluetă Cardiovasculară and Torace (Câmpuri Pulmonare) Pro
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Further incidențe poate fie taken cu pacientul culcat pe partea afectată sau în Decubit ventral poziție la disclose further aspects de câmpuri pulmonare nu obscured prin lichid.
-• casetă cu grilă antidifuzoare poate have la fie used if width de Torace este likely la produce unacceptable amount de secondary radiation.
-pacient poziționat pentru Postero-anterior (PA) chest (Profil (lateral) decubit) incidență Postero-anterior (PA) radiografie în Profil (lateral) decubit poziție evidențiind revărsat pleural (pleurezie) cu pneumotorax pacient poziționat pentru Profil (lateral) chest (dorsal decubit) incidență Profil (lateral) radiografie în dorsal decubit poziție evidențiind revărsat pleural (pleurezie) cu pneumotorax
+    - Se pot realiza incidențe suplimentare cu pacientul culcat pe partea afectată sau în decubit ventral, pentru a evidenția alte porțiuni ale câmpurilor pulmonare nemascate de lichid.
+    - Poate fi necesară utilizarea unei casete cu grilă antidifuzoare dacă lățimea toracelui este susceptibilă să producă o cantitate inacceptabilă de radiație secundară. Pacient poziționat pentru incidența toracică postero-anterioară (PA) (decubit lateral). Radiografie postero-anterioară (PA) în decubit lateral care evidențiază revărsat pleural (pleurezie) cu pneumotorax. Pacient poziționat pentru incidența toracică de profil (decubit dorsal). Radiografie de profil în decubit dorsal care evidențiază revărsat pleural (pleurezie) cu pneumotorax.
 
 
 ### 🖼️ Imagini
@@ -167,33 +175,33 @@ pacient poziționat pentru Postero-anterior (PA) chest (Profil (lateral) decubit
 
 <figure class="protocol-image-card" markdown>
 
-![strate nivele hidroaerice, e.g. hydropneumotorax.](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_1.jpeg)
+![evidențierea nivelurilor hidroaerice, de exemplu hidropneumotoraxul.](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_1.jpeg)
 
-<figcaption><strong>strate nivele hidroaerice, e.g. hydropneumotorax.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Postero-anterior (PA) radiografie în Profil (lateral) decubit poziție evidențiind pleural](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_2.jpeg)
-
-<figcaption><strong>Postero-anterior (PA) radiografie în Profil (lateral) decubit poziție evidențiind pleural</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>evidențierea nivelurilor hidroaerice, de exemplu hidropneumotoraxul.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![effusion cu pneumotorax](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_3.jpeg)
+![Radiografie postero-anterioară (PA) în decubit lateral care evidențiază aspectul pleural](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_2.jpeg)
 
-<figcaption><strong>effusion cu pneumotorax</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie postero-anterioară (PA) în decubit lateral care evidențiază aspectul pleural</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie în dorsal decubit poziție evidențiind revărsat pleural (pleurezie)](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_4.jpeg)
+![revărsat cu pneumotorax](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_3.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie în dorsal decubit poziție evidențiind revărsat pleural (pleurezie)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>revărsat cu pneumotorax</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie de profil în decubit dorsal care evidențiază revărsat pleural (pleurezie).](../../assets/images/protocols/clark/rx-cord-si-silueta-cardiovasculara-and-torace-campuri-pulmonare-profil-lateral-decubitus-fluid-levels-p370-clark/fig_4.jpeg)
+
+<figcaption><strong>Radiografie de profil în decubit dorsal care evidențiază revărsat pleural (pleurezie).</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

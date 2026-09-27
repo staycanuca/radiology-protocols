@@ -2,7 +2,8 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: perpendicular pe lateral margine de rib cage la midscapular area
+centering: perpendicular pe marginea laterală a grilajului costal, la nivelul regiunii
+  medi-scapulare
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,34 +19,39 @@ images:
 - caption: Merrill — pagina 434, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill/p434_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal sau ortostatism. Use ortostatism when
-  Umăr este painful unless contraindicated.; se aliniază corp și se centrează afected
-  Omoplat (Scapulă) la linia mediană grilă. pentru moderate AP Incidență Oblică, Se
-  instruiește pacientul să se extinde braț superiorly, se flectează Cot, și place
-  în supinație Mână under capul, sau Se instruiește pacientul să se extinde afected
-  braț across anterior Torace. Se instruiește pacientul să turn away de la afected
-  side enough la se rotește Umăr 15 la 25 grade (Fig. 6.75). pentru steeper Incidență
-  Oblică, Se instruiește pacientul să se extinde braț, rest flectat Cot pe forehead,
-  și se rotește corp away de la afected side 25 la 35 grade (Fig. 6.76). Grasp lateral
-  și medial margini de Omoplat (Scapulă) între Police și index finger de one Mână
-  și se ajustează rotație de corp la project Omoplat (Scapulă) liber de rib cage.
-  pentru direct Incidență de Profil (lateral) de Omoplat (Scapulă) using this poziție,
-  draw braț across Torace, și se ajustează corp rotație la place Omoplat (Scapulă)
-  perpendicular pe plane de receptorul de imagine ca previously described și vizualizat
-  în Figs. 6.71 through 6.74. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Se așază pacientul în decubit dorsal sau în ortostatism. Se utilizează ortostatismul
+  când umărul este dureros, cu excepția cazurilor contraindicate.; Se aliniază corpul
+  și se centrează omoplatul afectat pe linia mediană a grilei. Pentru incidența oblică
+  AP moderată, se instruiește pacientul să extindă brațul superior, să flecteze cotul
+  și să plaseze mâna în supinație sub cap sau să extindă brațul afectat peste toracele
+  anterior. Se instruiește pacientul să se rotească în direcția opusă părții afectate
+  suficient pentru a roti umărul cu 15 la 25 de grade (Fig. 6.75). Pentru incidența
+  oblică mai accentuată, se instruiește pacientul să extindă brațul, să sprijine cotul
+  flectat pe frunte și să rotească corpul în direcția opusă părții afectate cu 25
+  la 35 de grade (Fig. 6.76). Se prind marginile laterală și medială ale omoplatului
+  între policele și indexul unei mâini și se ajustează rotația corpului pentru a proiecta
+  omoplatul liber de grilajul costal. Pentru incidența directă de profil (laterală)
+  a omoplatului folosind această poziție, se trage brațul peste torace și se ajustează
+  rotația corpului pentru a plasa omoplatul perpendicular pe planul receptorului de
+  imagine, așa cum s-a descris anterior și s-a ilustrat în Figs. 6.71 până la 6.74.
+  Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- oblic Omoplat (Scapulă)
-- lateral scapular margine adjacent la Coaste (Grilaj Costal)
-- acromion și inferior angle
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- omoplat oblic
+- marginea laterală a omoplatului adiacentă coastelor (grilajului costal)
+- acromion și unghi inferior
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-omoplat-scapula-ap-incidenta-oblica-rpo-or-lpo-position-p432-merrill
 source_pages:
@@ -54,70 +60,71 @@ source_pages:
 - 434
 - 435
 source_sections:
-  anatomy: oblic imagine de scapula, projected liber sau nearly liber de rib superimposition
-    (Figs. 6.77 și 6.78).
-  collimation: '• Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator,
-    1.5 inches (3.8 cm) above umăr și 1 inch (2.5 cm) beyond
+  anatomy: imagine oblică a scapulei, proiectată liberă sau aproape liberă de suprapunerea
+    coastelor (Figs. 6.77 și 6.78).
+  collimation: • Ajustați câmpul de iradiere la 12 țoli (30 cm) în lungime pe colimator,
+    cu 1.5 țoli (3.8 cm) deasupra umărului și 1 țol (2.5 cm) dincolo de umbra laterală.
+    Plasați markerul de lateralitate în câmpul colimat.
+  cr: • perpendicular pe marginea laterală a grilajului costal, la nivelul regiunii
+    medi-scapulare
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    lateral shadow. Se plasează markerul de lateralitate în câmpul colimat.'
-  cr: • perpendicular pe lateral margine de rib cage la midscapular area
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • omoplat oblic
 
-    • oblic scapula
+    • marginea laterală a omoplatului adiacentă coastelor
 
-    • lateral scapular margine adjacent la coaste
+    • acromion și unghi inferior
 
-    • acromion și inferior angle
+    • Detalii osoase trabeculare și țesuturi moi înconjurătoare'
+  part_pos: '• Se aliniază corpul și se centrează scapula afectată pe linia mediană
+    a grilei.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se aliniază corp și se centrează afected scapula la linia mediană grilă.
+    • Pentru incidența oblică AP moderată, se instruiește pacientul să extindă brațul
+    superior, să flecteze cotul și să plaseze mâna în supinație sub cap sau să extindă
+    brațul afectat peste toracele anterior.
 
-    • pentru moderate AP oblic incidență, Se instruiește pacientul să se extinde braț
-    superiorly, se flectează cot, și place în supinație mână under
+    • Se instruiește pacientul să se rotească în direcția opusă părții afectate suficient
+    pentru a roti umărul cu 15 la 25 de grade (Fig. 6.75).
 
-    capul, sau Se instruiește pacientul să se extinde afected braț across anterior
-    chest.
+    • Pentru incidența oblică mai accentuată, se instruiește pacientul să extindă
+    brațul, să sprijine cotul flectat pe frunte și să rotească corpul în direcția
+    opusă părții afectate cu 25 la 35 de grade (Fig. 6.76).
 
-    • Se instruiește pacientul să turn away de la afected side enough la se rotește
-    umăr 15 la 25 grade (Fig. 6.75).
+    • Se prind marginile laterală și medială ale scapulei între policele și indexul
+    unei mâini și se ajustează rotația corpului pentru a proiecta scapula liberă de
+    grilajul costal.
 
-    • pentru steeper oblic incidență, Se instruiește pacientul să se extinde braț,
-    rest flectat cot pe forehead, și se rotește corp away
+    • Pentru incidența directă de profil a scapulei folosind această poziție, se trage
+    brațul peste torace și se ajustează rotația corpului pentru a plasa scapula perpendicular
+    pe planul receptorului de imagine, așa cum s-a descris anterior și s-a ilustrat
+    în Figs. 6.71 până la 6.74.
 
-    de la afected side 25 la 35 grade (Fig. 6.76).
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Se așază pacientul în decubit dorsal sau în ortostatism.
 
-    • Grasp lateral și medial margini de scapula între thumb și index finger de one
-    mână și se ajustează rotație de corp la project scapula liber de rib cage.
-
-    • pentru direct lateral incidență de scapula using this poziție, draw braț across
-    toracele, și se ajustează corp rotație la place scapula perpendicular pe plane
-    de receptorul de imagine ca previously described și vizualizat în Figs. 6.71 through
-    6.74.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit dorsal sau ortostatism.
-
-    • Use ortostatism when umăr este painful unless contraindicated.'
+    • Se utilizează ortostatismul când umărul este dureros, cu excepția cazurilor
+    contraindicate.'
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 ×
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza
+    centrală: 10 × 12 țoli (24 ×
 
-    30 cm) longitudinal.'
+    30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 432–435
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator,
-    1.5 inches (3.8 cm) above Umăr și 1 inch (2.5 cm) beyond lateral shadow. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Oblică Posterioară
-  Stângă (OPS / LPO) (Merrill)
+  collimation: Ajustați câmpul de iradiere la 12 țoli (30 cm) în lungime pe colimator,
+    cu 1.5 țoli (3.8 cm) deasupra umărului și 1 țol (2.5 cm) dincolo de umbra laterală.
+    Plasați markerul de lateralitate în câmpul colimat.
+title: Rx omoplat — oblică antero-posterioară (AP) — RPO sau oblică posterioară stângă
+  (OPS / LPO) (Merrill)
 ---
-# Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Oblică Posterioară Stângă (OPS / LPO) (Merrill)
+# Rx omoplat — oblică antero-posterioară (AP) — RPO sau oblică posterioară stângă (OPS / LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -141,17 +148,18 @@ title: Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Obl
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal sau ortostatism. Use ortostatism when Umăr este painful unless contraindicated.; se aliniază corp și se centrează afected Omoplat (Scapulă) la linia mediană grilă. pentru moderate AP Incidență Oblică, Se instruiește pacientul să se extinde braț superiorly, se flectează Cot, și place în supinație Mână under capul, sau Se instruiește pacientul să se extinde afected braț across anterior Torace. Se instruiește pacientul să turn away de la afected side enough la se rotește Umăr 15 la 25 grade (Fig. 6.75). pentru steeper Incidență Oblică, Se instruiește pacientul să se extinde braț, rest flectat Cot pe forehead, și se rotește corp away de la afected side 25 la 35 grade (Fig. 6.76). Grasp lateral și medial margini de Omoplat (Scapulă) între Police și index finger de one Mână și se ajustează rotație de corp la project Omoplat (Scapulă) liber de rib cage. pentru direct Incidență de Profil (lateral) de Omoplat (Scapulă) using this poziție, draw braț across Torace, și se ajustează corp rotație la place Omoplat (Scapulă) perpendicular pe plane de receptorul de imagine ca previously described și vizualizat în Figs. 6.71 through 6.74. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe lateral margine de rib cage la midscapular area
+    - **Poziție Pacient:** Se așază pacientul în decubit dorsal sau în ortostatism. Se utilizează ortostatismul când umărul este dureros, cu excepția cazurilor contraindicate.; Se aliniază corpul și se centrează omoplatul afectat pe linia mediană a grilei. Pentru incidența oblică AP moderată, se instruiește pacientul să extindă brațul superior, să flecteze cotul și să plaseze mâna în supinație sub cap sau să extindă brațul afectat peste toracele anterior. Se instruiește pacientul să se rotească în direcția opusă părții afectate suficient pentru a roti umărul cu 15 la 25 de grade (Fig. 6.75). Pentru incidența oblică mai accentuată, se instruiește pacientul să extindă brațul, să sprijine cotul flectat pe frunte și să rotească corpul în direcția opusă părții afectate cu 25 la 35 de grade (Fig. 6.76). Se prind marginile laterală și medială ale omoplatului între policele și indexul unei mâini și se ajustează rotația corpului pentru a proiecta omoplatul liber de grilajul costal. Pentru incidența directă de profil (laterală) a omoplatului folosind această poziție, se trage brațul peste torace și se ajustează rotația corpului pentru a plasa omoplatul perpendicular pe planul receptorului de imagine, așa cum s-a descris anterior și s-a ilustrat în Figs. 6.71 până la 6.74. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** perpendicular pe marginea laterală a grilajului costal, la nivelul regiunii medi-scapulare
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -167,19 +175,19 @@ title: Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Obl
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator, 1.5 inches (3.8 cm) above Umăr și 1 inch (2.5 cm) beyond lateral shadow. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 12 țoli (30 cm) în lungime pe colimator, cu 1.5 țoli (3.8 cm) deasupra umărului și 1 țol (2.5 cm) dincolo de umbra laterală. Plasați markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - oblic Omoplat (Scapulă)
-    - lateral scapular margine adjacent la Coaste (Grilaj Costal)
-    - acromion și inferior angle
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - omoplat oblic
+    - marginea laterală a omoplatului adiacentă coastelor (grilajului costal)
+    - acromion și unghi inferior
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -188,6 +196,7 @@ title: Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Obl
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -243,54 +252,3 @@ title: Rx Omoplat (Scapulă) — Oblică Antero-Posterioară (AP) — RPO or Obl
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 432–435](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-oblic imagine de scapula, projected liber sau nearly liber de rib superimposition (Figs. 6.77 și 6.78).
-
-### collimation
-
-• Adjust câmp de iradiere la 12 inches (30 cm) în length pe collimator, 1.5 inches (3.8 cm) above umăr și 1 inch (2.5 cm) beyond
-lateral shadow. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe lateral margine de rib cage la midscapular area
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• oblic scapula
-• lateral scapular margine adjacent la coaste
-• acromion și inferior angle
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se aliniază corp și se centrează afected scapula la linia mediană grilă.
-• pentru moderate AP oblic incidență, Se instruiește pacientul să se extinde braț superiorly, se flectează cot, și place în supinație mână under
-capul, sau Se instruiește pacientul să se extinde afected braț across anterior chest.
-• Se instruiește pacientul să turn away de la afected side enough la se rotește umăr 15 la 25 grade (Fig. 6.75).
-• pentru steeper oblic incidență, Se instruiește pacientul să se extinde braț, rest flectat cot pe forehead, și se rotește corp away
-de la afected side 25 la 35 grade (Fig. 6.76).
-• Grasp lateral și medial margini de scapula între thumb și index finger de one mână și se ajustează rotație de corp la project scapula liber de rib cage.
-• pentru direct lateral incidență de scapula using this poziție, draw braț across toracele, și se ajustează corp rotație la place scapula perpendicular pe plane de receptorul de imagine ca previously described și vizualizat în Figs. 6.71 through 6.74.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal sau ortostatism.
-• Use ortostatism when umăr este painful unless contraindicated.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 ×
-30 cm) longitudinal.
-

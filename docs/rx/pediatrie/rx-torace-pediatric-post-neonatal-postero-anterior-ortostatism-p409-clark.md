@@ -3,67 +3,80 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: pediatrie
-centering: '• orizontal central fascicul este înclinat five la ten grade caudally
-  la middle de caseta la nivelul eighth thoracic vertebra, approximately la midpoint
-  de corp de Stern. This este particularly important în children cu hyperinflated
-  chests due la diseases such ca bronchiolitis, which predisposes la Lordotică incidențe.
+centering: '• fasciculul central orizontal este înclinat cu five până la ten grade
+  caudal spre mijlocul casetei, la nivelul celei de-a eighth vertebre toracice, aproximativ
+  la mijlocul corpului sternului. Acest lucru este deosebit de important la copiii
+  cu torace hiperinsuflat din cauza unor boli precum bronșiolita, care predispun la
+  incidențe lordotice.
 
-  • câmp de iradiere este collimated la caseta, thus avoiding expunere de eyes, thyroid
-  și etajul abdominal superior.'
+  • câmpul de iradiere este colimat la dimensiunea casetei, evitând astfel expunerea
+  ochilor, tiroidei și etajului abdominal superior.'
 clinical_indications:
-- Chest radiografii sunt nu required routinely pentru simple chest proces infecțios
-  / inflamators, și follow-up chest imagini sunt nu required routinely if there has
-  been good response la treatment, unless initial chest imagine showed lobar pneumonie
-  / infiltrate pulmonare, extensive sublobar pneumonie / infiltrate pulmonare involving
-  several segments, pneumatocoeles, adenopathy sau revărsat pleural (pleurezie).
-- Follow-up radiografii, where indicated, trebuie să nu fie taken în less than three
-  weeks, ca radiological resolution lags behind clinical resolution. Repeat imagini
-  sunt required earlier if there este orice deterioration. Prompt follow-up chest
-  radiografie este required following physiotherapy și antibiotics pentru areas de
-  collapse. R L Coned Antero-posterior (AP) Decubit dorsal chest X-ray la show poziție
-  de pH probe which trebuie să fie la nivelul T7/T8 imagine de normal Postero-anterior
-  (PA) Ortostatism chest imagine de Postero-anterior (PA) Ortostatism chest evidențiind
-  dense drept hilum și RUL bronchiectasis în pacient cu TB
+- Radiografiile toracice nu sunt necesare de rutină pentru procesele infecțioase/inflamatorii
+  toracice simple, iar imaginile toracice de control nu sunt necesare de rutină dacă
+  a existat un răspuns bun la tratament, cu excepția cazurilor în care imaginea toracică
+  inițială a evidențiat pneumonie/infiltrate lobare, pneumonie/infiltrate sublobare
+  extinse care implică mai multe segmente, pneumatoceluri, adenopatie sau revărsat
+  pleural (pleurezie).
+- Radiografiile de control, atunci când sunt indicate, nu trebuie efectuate la mai
+  puțin de three săptămâni, deoarece rezoluția radiologică rămâne în urma rezoluției
+  clinice. Repetarea imaginilor este necesară mai devreme dacă apare orice deteriorare.
+  Radiografia toracică de control promptă este necesară după fizioterapie și antibiotice
+  pentru zonele de colaps. R L Radiografie toracică conică anteroposterioară (AP),
+  în decubit dorsal, care arată poziția sondei pH, ce trebuie să fie la nivelul T7/T8.
+  Imagine toracică normală posteroanterioară (PA), în ortostatism. Imagine toracică
+  posteroanterioară (PA), în ortostatism, evidențiind hilul drept dens și bronșiectazii
+  în lobul superior drept (RUL) la un pacient cu TB
 images:
-- caption: key la Ortostatism chest radiografie este specifically designed paedi-
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: Elementele-cheie ale radiografiei toracice în ortostatism sunt concepute
+    special pentru copii
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_1.jpeg
-- caption: poziție de child pentru Postero-anterior (PA) Ortostatism chest radiografie
+- caption: Poziția copilului pentru radiografia toracică postero-anterioară (PA) în
+    ortostatism
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_2.jpeg
-- caption: poziție de child pentru Antero-posterior (AP) chest radiografie
+- caption: Poziția copilului pentru radiografia toracică antero-posterioară (AP)
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_3.jpeg
-- caption: • Correct interpretation de paediatric chest radiografii requires
+- caption: • Interpretarea corectă a radiografiilor toracice pediatrice necesită
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_4.jpeg
-- caption: tilting. radiographer trebuie să watch child’s chest/
+- caption: Înclinare. Radiograful trebuie să urmărească toracele copilului/
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_5.jpeg
-- caption: • Incorrect densitate optică – needs radiographer experience în assess-
+- caption: • Densitate optică incorectă – este necesară experiența radiografului în
+    evaluarea
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_6.jpeg
+iris_reference:
+  chapter: Pediatrie — Torace, pulmon, cord
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
-position: '• child este așezat pe scaun cu their back sprijinit pe casetă, which este
-  sprijinit vertically, cu upper edge de caseta above lung Vârfuri Pulmonare (Apexuri).
+position: '• copilul este așezat pe scaun, cu spatele sprijinit pe casetă, care este
+  susținută vertical, cu marginea superioară a casetei deasupra vârfurilor pulmonare.
 
-  • brațele trebuie să fie raised gently, bringing coate forward. brațele trebuie
-  să nu fie extins fully.
+  • brațele trebuie ridicate ușor, aducând coatele înainte. Brațele nu trebuie extinse
+  complet.
 
-  • parent sau carer trebuie să hold flectat coate și cap together cu their Degete
-  Mână pe forehead, la prevent child’s chin de la obscuring upper chest.
+  • părintele sau însoțitorul trebuie să țină coatele flectate și capul împreună cu
+  degetele mâinii pe frunte, pentru a preveni acoperirea toracelui superior de către
+  bărbia copilului.
 
-  • holder trebuie să pull gently upwards la prevent child de la slumping forward.
+  • persoana care ține copilul trebuie să tragă ușor în sus pentru a preveni aplecarea
+  copilului înainte.
 
-  • Place a 15-grade foam wedge behind umerii la prevent child de la adopting Lordotică
-  poziție.'
+  • Plasați o pană de spumă de 15 grade în spatele umerilor pentru a preveni adoptarea
+  unei poziții lordotice.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -72,30 +85,33 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'Antero-posterior (AP)/Postero-anterior (PA) incidență:'
-- Peak inspiration (six anterior Coaste (Grilaj Costal) (Postero-anterior (PA), 5/6
-  pentru Antero-posterior (AP)) și nine posterior Coaste (Grilaj Costal) above cupole
-  diafragmatice).
-- Whole chest de la just above lung Vârfuri Pulmonare (Apexuri) pentru include cupole
-  diafragmatice și Coaste (Grilaj Costal).
-- Absența rotației anatomice (simetrie bilaterală perfectă) (medial ends de clavicles
-  sau first Coaste (Grilaj Costal) trebuie să fie echidistant față de coloană vertebrală).
-- fără tilting (clavicles trebuie să overlie lung Vârfuri Pulmonare (Apexuri)). anterior
-  Coaste (Grilaj Costal) trebuie să point downwards.
-- Reproduction de vascular pattern în central two-thirds de Torace (Câmpuri Pulmonare).
-- Reproduction de trachea și proximal bronchi.
-- Visually reproducere netă contururilor de cupole diafragmatice și sinusuri costodiafragmatice.
-- Reproduction de coloană vertebrală și paraspinal structures și visualization de
-  retrocardiac lung și mediastinum.
-- 'Erori de evitat / remedii: Incorrect densitate optică – needs radiographer experience
-  în assessing size de child și careful expunere charts.'
-- 'Erori de evitat / remedii: Torace tilted backwards (Antero-posterior (AP) incidență),
-  cu clavicles vizualizat high above lung Vârfuri Pulmonare (Apexuri). This Lordotică
-  incidență results în lower lobes de Torace (Câmpuri Pulmonare) being obscured prin
-  cupole diafragmatice. pneumonie / infiltrate pulmonare și other lung pathology poate
-  fie missed. See poziție de pacient și casetă pentru how la correct this fault.'
-- 'Erori de evitat / remedii: Holder’s mâini pe umerii – avoid prin following technique
-  ca described.'
+- 'Incidență anteroposterioară (AP)/posteroanterioară (PA):'
+- Inspir maxim (six coaste anterioare (posteroanterioră (PA), 5/6 pentru anteroposterioară
+  (AP)) și nine coaste posterioare deasupra cupolelor diafragmatice).
+- Întregul torace, de la imediat deasupra vârfurilor pulmonare, pentru a include cupolele
+  diafragmatice și coastele.
+- Absența rotației anatomice (simetrie bilaterală perfectă) (extremitățile mediale
+  ale claviculelor sau primele coaste trebuie să fie echidistante față de coloana
+  vertebrală).
+- fără înclinare (claviculele trebuie să se proiecteze peste vârfurile pulmonare).
+  Coastele anterioare trebuie să fie orientate în jos.
+- Reproducerea desenului vascular în cele două treimi centrale ale toracelui.
+- Reproducerea traheei și a bronhiilor proximale.
+- Reproducerea vizuală clară a contururilor cupolelor diafragmatice și sinusurilor
+  costodiafragmatice.
+- Reproducerea coloanei vertebrale și a structurilor paraspinale și vizualizarea plămânului
+  retrocardiac și a mediastinului.
+- 'Erori de evitat / remedii: Densitate optică incorectă – este necesară experiența
+  radiografului în evaluarea dimensiunii copilului și utilizarea atentă a diagramelor
+  de expunere.'
+- 'Erori de evitat / remedii: Torace înclinat posterior (incidență antero-posterioară
+  (AP)), cu claviculele vizualizate mult deasupra vârfurilor pulmonare (apexurilor).
+  Această incidență lordotică are ca rezultat obscurarea lobilor inferiori ai toracelui
+  (câmpurilor pulmonare) de către cupolele diafragmatice. Pneumonia / infiltratele
+  pulmonare și alte afecțiuni pulmonare pot fi omise. Consultați poziția pacientului
+  și caseta pentru modul de corectare a acestui defect.'
+- 'Erori de evitat / remedii: Mâinile însoțitorului pe umerii copilului – evitați
+  acest lucru urmând tehnica descrisă.'
 sid_dff: 100 cm
 slug: rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark
 sources:
@@ -104,14 +120,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Torace Pediatric (Post-Neonatal) Postero-Anterior (PA) - Ortostatism
+  mas: Conform AEC / grosimii anatomice
+title: Rx torace pediatric (post-neonatal) postero-anterior (PA) – ortostatism
 ---
-# Rx Torace Pediatric (Post-Neonatal) Postero-Anterior (PA) - Ortostatism
+# Rx torace pediatric (post-neonatal) postero-anterior (PA) – ortostatism
 
 
 <div class="rx-meta-bar">
@@ -130,28 +146,31 @@ title: Rx Torace Pediatric (Post-Neonatal) Postero-Anterior (PA) - Ortostatism
 
     === "Indicații Clinice"
 
-        - Chest radiografii sunt nu required routinely pentru simple chest proces infecțios / inflamators, și follow-up chest imagini sunt nu required routinely if there has been good response la treatment, unless initial chest imagine showed lobar pneumonie / infiltrate pulmonare, extensive sublobar pneumonie / infiltrate pulmonare involving several segments, pneumatocoeles, adenopathy sau revărsat pleural (pleurezie).
-        - Follow-up radiografii, where indicated, trebuie să nu fie taken în less than three weeks, ca radiological resolution lags behind clinical resolution. Repeat imagini sunt required earlier if there este orice deterioration. Prompt follow-up chest radiografie este required following physiotherapy și antibiotics pentru areas de collapse. R L Coned Antero-posterior (AP) Decubit dorsal chest X-ray la show poziție de pH probe which trebuie să fie la nivelul T7/T8 imagine de normal Postero-anterior (PA) Ortostatism chest imagine de Postero-anterior (PA) Ortostatism chest evidențiind dense drept hilum și RUL bronchiectasis în pacient cu TB
+        - Radiografiile toracice nu sunt necesare de rutină pentru procesele infecțioase/inflamatorii toracice simple, iar imaginile toracice de control nu sunt necesare de rutină dacă a existat un răspuns bun la tratament, cu excepția cazurilor în care imaginea toracică inițială a evidențiat pneumonie/infiltrate lobare, pneumonie/infiltrate sublobare extinse care implică mai multe segmente, pneumatoceluri, adenopatie sau revărsat pleural (pleurezie).
+        - Radiografiile de control, atunci când sunt indicate, nu trebuie efectuate la mai puțin de three săptămâni, deoarece rezoluția radiologică rămâne în urma rezoluției clinice. Repetarea imaginilor este necesară mai devreme dacă apare orice deteriorare. Radiografia toracică de control promptă este necesară după fizioterapie și antibiotice pentru zonele de colaps. R L Radiografie toracică conică anteroposterioară (AP), în decubit dorsal, care arată poziția sondei pH, ce trebuie să fie la nivelul T7/T8. Imagine toracică normală posteroanterioară (PA), în ortostatism. Imagine toracică posteroanterioară (PA), în ortostatism, evidențiind hilul drept dens și bronșiectazii în lobul superior drept (RUL) la un pacient cu TB
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Pediatrie — Torace, pulmon, cord*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • child este așezat pe scaun cu their back sprijinit pe casetă, which este sprijinit vertically, cu upper edge de caseta above lung Vârfuri Pulmonare (Apexuri).
-• brațele trebuie să fie raised gently, bringing coate forward. brațele trebuie să nu fie extins fully.
-• parent sau carer trebuie să hold flectat coate și cap together cu their Degete Mână pe forehead, la prevent child’s chin de la obscuring upper chest.
-• holder trebuie să pull gently upwards la prevent child de la slumping forward.
-• Place a 15-grade foam wedge behind umerii la prevent child de la adopting Lordotică poziție.
-    - **Punct de Centrare Fascicul:** • orizontal central fascicul este înclinat five la ten grade caudally la middle de caseta la nivelul eighth thoracic vertebra, approximately la midpoint de corp de Stern. This este particularly important în children cu hyperinflated chests due la diseases such ca bronchiolitis, which predisposes la Lordotică incidențe.
-• câmp de iradiere este collimated la caseta, thus avoiding expunere de eyes, thyroid și etajul abdominal superior.
+    - **Poziție Pacient:**
+        - copilul este așezat pe scaun, cu spatele sprijinit pe casetă, care este susținută vertical, cu marginea superioară a casetei deasupra vârfurilor pulmonare.
+        - brațele trebuie ridicate ușor, aducând coatele înainte. Brațele nu trebuie extinse complet.
+        - părintele sau însoțitorul trebuie să țină coatele flectate și capul împreună cu degetele mâinii pe frunte, pentru a preveni acoperirea toracelui superior de către bărbia copilului.
+        - persoana care ține copilul trebuie să tragă ușor în sus pentru a preveni aplecarea copilului înainte.
+        - Plasați o pană de spumă de 15 grade în spatele umerilor pentru a preveni adoptarea unei poziții lordotice.
+    - **Punct de Centrare Fascicul:**
+        - fasciculul central orizontal este înclinat cu five până la ten grade caudal spre mijlocul casetei, la nivelul celei de-a eighth vertebre toracice, aproximativ la mijlocul corpului sternului. Acest lucru este deosebit de important la copiii cu torace hiperinsuflat din cauza unor boli precum bronșiolita, care predispun la incidențe lordotice.
+        - câmpul de iradiere este colimat la dimensiunea casetei, evitând astfel expunerea ochilor, tiroidei și etajului abdominal superior.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -162,30 +181,30 @@ title: Rx Torace Pediatric (Post-Neonatal) Postero-Anterior (PA) - Ortostatism
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Antero-posterior (AP)/Postero-anterior (PA) incidență:
-    - Peak inspiration (six anterior Coaste (Grilaj Costal) (Postero-anterior (PA), 5/6 pentru Antero-posterior (AP)) și nine posterior Coaste (Grilaj Costal) above cupole diafragmatice).
-    - Whole chest de la just above lung Vârfuri Pulmonare (Apexuri) pentru include cupole diafragmatice și Coaste (Grilaj Costal).
-    - Absența rotației anatomice (simetrie bilaterală perfectă) (medial ends de clavicles sau first Coaste (Grilaj Costal) trebuie să fie echidistant față de coloană vertebrală).
-    - fără tilting (clavicles trebuie să overlie lung Vârfuri Pulmonare (Apexuri)). anterior Coaste (Grilaj Costal) trebuie să point downwards.
-    - Reproduction de vascular pattern în central two-thirds de Torace (Câmpuri Pulmonare).
-    - Reproduction de trachea și proximal bronchi.
-    - Visually reproducere netă contururilor de cupole diafragmatice și sinusuri costodiafragmatice.
-    - Reproduction de coloană vertebrală și paraspinal structures și visualization de retrocardiac lung și mediastinum.
-    - Erori de evitat / remedii: Incorrect densitate optică – needs radiographer experience în assessing size de child și careful expunere charts.
-    - Erori de evitat / remedii: Torace tilted backwards (Antero-posterior (AP) incidență), cu clavicles vizualizat high above lung Vârfuri Pulmonare (Apexuri). This Lordotică incidență results în lower lobes de Torace (Câmpuri Pulmonare) being obscured prin cupole diafragmatice. pneumonie / infiltrate pulmonare și other lung pathology poate fie missed. See poziție de pacient și casetă pentru how la correct this fault.
-    - Erori de evitat / remedii: Holder’s mâini pe umerii – avoid prin following technique ca described.
+    - Incidență anteroposterioară (AP)/posteroanterioară (PA):
+    - Inspir maxim (six coaste anterioare (posteroanterioră (PA), 5/6 pentru anteroposterioară (AP)) și nine coaste posterioare deasupra cupolelor diafragmatice).
+    - Întregul torace, de la imediat deasupra vârfurilor pulmonare, pentru a include cupolele diafragmatice și coastele.
+    - Absența rotației anatomice (simetrie bilaterală perfectă) (extremitățile mediale ale claviculelor sau primele coaste trebuie să fie echidistante față de coloana vertebrală).
+    - fără înclinare (claviculele trebuie să se proiecteze peste vârfurile pulmonare). Coastele anterioare trebuie să fie orientate în jos.
+    - Reproducerea desenului vascular în cele două treimi centrale ale toracelui.
+    - Reproducerea traheei și a bronhiilor proximale.
+    - Reproducerea vizuală clară a contururilor cupolelor diafragmatice și sinusurilor costodiafragmatice.
+    - Reproducerea coloanei vertebrale și a structurilor paraspinale și vizualizarea plămânului retrocardiac și a mediastinului.
+    - Erori de evitat / remedii: Densitate optică incorectă – este necesară experiența radiografului în evaluarea dimensiunii copilului și utilizarea atentă a diagramelor de expunere.
+    - Erori de evitat / remedii: Torace înclinat posterior (incidență antero-posterioară (AP)), cu claviculele vizualizate mult deasupra vârfurilor pulmonare (apexurilor). Această incidență lordotică are ca rezultat obscurarea lobilor inferiori ai toracelui (câmpurilor pulmonare) de către cupolele diafragmatice. Pneumonia / infiltratele pulmonare și alte afecțiuni pulmonare pot fi omise. Consultați poziția pacientului și caseta pentru modul de corectare a acestui defect.
+    - Erori de evitat / remedii: Mâinile însoțitorului pe umerii copilului – evitați acest lucru urmând tehnica descrisă.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -197,6 +216,7 @@ title: Rx Torace Pediatric (Post-Neonatal) Postero-Anterior (PA) - Ortostatism
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
 
@@ -207,49 +227,49 @@ title: Rx Torace Pediatric (Post-Neonatal) Postero-Anterior (PA) - Ortostatism
 
 <figure class="protocol-image-card" markdown>
 
-![key la Ortostatism chest radiografie este specifically designed paedi-](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_1.jpeg)
+![Elementele-cheie ale radiografiei toracice în ortostatism sunt concepute special pentru copii](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_1.jpeg)
 
-<figcaption><strong>key la Ortostatism chest radiografie este specifically designed paedi-</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![poziție de child pentru Postero-anterior (PA) Ortostatism chest radiografie](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_2.jpeg)
-
-<figcaption><strong>poziție de child pentru Postero-anterior (PA) Ortostatism chest radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Elementele-cheie ale radiografiei toracice în ortostatism sunt concepute special pentru copii</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![poziție de child pentru Antero-posterior (AP) chest radiografie](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_3.jpeg)
+![Poziția copilului pentru radiografia toracică postero-anterioară (PA) în ortostatism](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_2.jpeg)
 
-<figcaption><strong>poziție de child pentru Antero-posterior (AP) chest radiografie</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• Correct interpretation de paediatric chest radiografii requires](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_4.jpeg)
-
-<figcaption><strong>• Correct interpretation de paediatric chest radiografii requires</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Poziția copilului pentru radiografia toracică postero-anterioară (PA) în ortostatism</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![tilting. radiographer trebuie să watch child’s chest/](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_5.jpeg)
+![Poziția copilului pentru radiografia toracică antero-posterioară (AP)](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_3.jpeg)
 
-<figcaption><strong>tilting. radiographer trebuie să watch child’s chest/</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Poziția copilului pentru radiografia toracică antero-posterioară (AP)</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• Incorrect densitate optică – needs radiographer experience în assess-](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_6.jpeg)
+![• Interpretarea corectă a radiografiilor toracice pediatrice necesită](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_4.jpeg)
 
-<figcaption><strong>• Incorrect densitate optică – needs radiographer experience în assess-</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Interpretarea corectă a radiografiilor toracice pediatrice necesită</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Înclinare. Radiograful trebuie să urmărească toracele copilului/](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_5.jpeg)
+
+<figcaption><strong>Înclinare. Radiograful trebuie să urmărească toracele copilului/</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![• Densitate optică incorectă – este necesară experiența radiografului în evaluarea](../../assets/images/protocols/clark/rx-torace-pediatric-post-neonatal-postero-anterior-ortostatism-p409-clark/fig_6.jpeg)
+
+<figcaption><strong>• Densitate optică incorectă – este necesară experiența radiografului în evaluarea</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

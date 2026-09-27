@@ -54,6 +54,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-craniu-non-isocentric-technique-p253-clark/fig_5.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Alegerea incidenței de profil va depinde de localizarea patologiei suspectate.
@@ -166,30 +170,31 @@ title: 'Radiografia craniului: tehnică non-izocentrică'
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Pacientul este culcat în decubit dorsal, cu capul ridicat și imobilizat pe suportul radiotransparent pentru craniu. Astfel se va asigura includerea regiunii occipitale în imaginea finală.
-• Capul este ajustat astfel încât planul mediosagital să fie perpendicular pe masă/targă, iar linia interorbitară să fie perpendiculară pe casetă.
-• Susțineți caseta cu grilă antidifuzoare în poziție verticală pe/lângă aspectul de profil al capului, paralel cu planul mediosagital, cu marginea sa lungă la 5 cm deasupra vertexului craniului.
-
-• Pacientul stă așezat cu fața spre stativul Bucky vertical, iar capul este apoi rotit astfel încât planul mediosagital să fie paralel cu Bucky, iar linia interorbitară să fie perpendiculară pe acesta.
-• Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
-• Poziționați caseta transversal în stativul Bucky vertical, astfel încât marginea sa superioară să fie la 5 cm deasupra vertexului craniului.
-• Un suport radiotransparent poate fi plasat sub bărbie pentru susținere.
-    - **Punct de Centrare Fascicul:** • raza centrală orizontală este orientată paralel cu linia interorbitală, astfel încât este în unghi drept față de planul mediosagital.
-• Se centrează la jumătatea distanței dintre glabelă și protuberanța occipitală externă, într-un punct situat la aproximativ 5 cm superior de conductul auditiv extern.
-• axa longitudinală a casetei trebuie să coincidă cu axa longitudinală a craniului.
-
-• Tubul de raze X trebuie să fi fost centrat anterior la Bucky.
-• se ajustează înălțimea Bucky/tubului astfel încât pacientul să fie confortabil (NB: nu se decentrează tubul față de Bucky în acest moment).
-• Se centrează la jumătatea distanței dintre glabelă și protuberanța occipitală externă, într-un punct situat la aproximativ 5 cm superior de conductul auditiv extern.
+    - **Poziție Pacient:**
+        - Pacientul este culcat în decubit dorsal, cu capul ridicat și imobilizat pe suportul radiotransparent pentru craniu. Astfel se va asigura includerea regiunii occipitale în imaginea finală.
+        - Capul este ajustat astfel încât planul mediosagital să fie perpendicular pe masă/targă, iar linia interorbitară să fie perpendiculară pe casetă.
+        - Susțineți caseta cu grilă antidifuzoare în poziție verticală pe/lângă aspectul de profil al capului, paralel cu planul mediosagital, cu marginea sa lungă la 5 cm deasupra vertexului craniului.
+        - Pacientul stă așezat cu fața spre stativul Bucky vertical, iar capul este apoi rotit astfel încât planul mediosagital să fie paralel cu Bucky, iar linia interorbitară să fie perpendiculară pe acesta.
+        - Umerii pot fi rotiți ușor pentru a permite obținerea poziției corecte. Pacientul se poate sprijini de stativul Bucky pentru stabilitate.
+        - Poziționați caseta transversal în stativul Bucky vertical, astfel încât marginea sa superioară să fie la 5 cm deasupra vertexului craniului.
+        - Un suport radiotransparent poate fi plasat sub bărbie pentru susținere.
+    - **Punct de Centrare Fascicul:**
+        - raza centrală orizontală este orientată paralel cu linia interorbitală, astfel încât este în unghi drept față de planul mediosagital.
+        - Se centrează la jumătatea distanței dintre glabelă și protuberanța occipitală externă, într-un punct situat la aproximativ 5 cm superior de conductul auditiv extern.
+        - axa longitudinală a casetei trebuie să coincidă cu axa longitudinală a craniului.
+        - Tubul de raze X trebuie să fi fost centrat anterior la Bucky.
+        - se ajustează înălțimea Bucky/tubului astfel încât pacientul să fie confortabil (NB: nu se decentrează tubul față de Bucky în acest moment).
+        - Se centrează la jumătatea distanței dintre glabelă și protuberanța occipitală externă, într-un punct situat la aproximativ 5 cm superior de conductul auditiv extern.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -227,16 +232,14 @@ title: 'Radiografia craniului: tehnică non-izocentrică'
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • Alegerea incidenței de profil va depinde de localizarea patologiei suspectate.
-• Dacă patologia suspectată este pe partea stângă a capului, atunci profilul stâng trebuie efectuat cu caseta sprijinită pe partea stângă a pacientului și viceversa. Astfel se va asigura vizualizarea patologiei la rezoluția maximă posibilă, datorită minimizării neclarității geometrice.
-• Aceasta este incidența de elecție pentru majoritatea cazurilor de traumă efectuate pe targă.
-MSP
 
-• Această incidență poate fi efectuată și cu pacientul în decubit ventral pe masa cu blat mobil.
-• Incidența poate fi efectuată util la sugari aflați în decubit dorsal, cu capul rotit spre oricare dintre părți.
-• Nivelurile hidroaerice din sinusurile sfenoidale (indicator pentru suspiciunea de fractură a bazei craniului) nu vor fi vizibile dacă pacientul este examinat cu raza centrală verticală. Acest aspect nu este relevant la sugarii mici, deoarece sinusul nu este complet dezvoltat.
-Poziționare corectă Poziționare incorectă
+!!! note "Observații Clinice & Tehnice"
+    - Alegerea incidenței de profil va depinde de localizarea patologiei suspectate.
+    - Dacă patologia suspectată este pe partea stângă a capului, atunci profilul stâng trebuie efectuat cu caseta sprijinită pe partea stângă a pacientului și viceversa. Astfel se va asigura vizualizarea patologiei la rezoluția maximă posibilă, datorită minimizării neclarității geometrice.
+    - Aceasta este incidența de elecție pentru majoritatea cazurilor de traumă efectuate pe targă. MSP
+    - Această incidență poate fi efectuată și cu pacientul în decubit ventral pe masa cu blat mobil.
+    - Incidența poate fi efectuată util la sugari aflați în decubit dorsal, cu capul rotit spre oricare dintre părți.
+    - Nivelurile hidroaerice din sinusurile sfenoidale (indicator pentru suspiciunea de fractură a bazei craniului) nu vor fi vizibile dacă pacientul este examinat cu raza centrală verticală. Acest aspect nu este relevant la sugarii mici, deoarece sinusul nu este complet dezvoltat. Poziționare corectă Poziționare incorectă
 
 
 ### 🖼️ Imagini

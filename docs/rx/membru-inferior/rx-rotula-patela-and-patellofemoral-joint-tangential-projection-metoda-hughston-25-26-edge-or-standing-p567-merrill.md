@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-inferior
-centering: Înclinat 45 grade cranial și orientat through patellofemoral articulație.
+centering: Înclinată la 45 de grade cranial și orientată prin articulația patelofemurală.
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -12,27 +12,31 @@ images:
 - caption: Merrill — pagina 569, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-hughston-25-26-edge-or-standing-p567-merrill/p569_fig2.png
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit ventral poziție cu Picior resting pe masa
-  radiologică. se ajustează corp so that it este nu rotit.; Place receptorul de imagine
-  under femoral portion de Genunchi, și slowly se flectează afected Genunchi astfel
-  încât tibia și fibula form a 50- la 60-grade angle de la masa de examinare. Rest
-  Picior pe / sprijinit de collimator sau support it în poziție (Fig. 7.152). Ensure
-  that collimator surface este nu hot because this could burn pacientul. se ajustează
-  pacient’s membru inferior so that it este nu rotit medially sau laterally de la
-  plan vertical. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Așezați pacientul în decubit ventral, cu piciorul sprijinit pe masa radiologică.
+  Ajustați corpul astfel încât să nu fie rotit.; Așezați receptorul de imagine sub
+  porțiunea femurală a genunchiului și flectați lent genunchiul afectat astfel încât
+  tibia și fibula să formeze un unghi de 50 până la 60 de grade față de masa de examinare.
+  Sprijiniți piciorul pe colimator sau susțineți-l în poziție (Fig. 7.152). Asigurați-vă
+  că suprafața colimatorului nu este fierbinte, deoarece aceasta ar putea arde pacientul.
+  Ajustați membrul inferior al pacientului astfel încât să nu fie rotit medial sau
+  lateral față de planul vertical. Efectuați ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-  clear de anatomy de interest
-- Rotulă (Patelă) în profile
-- Femoral condyles și intercondylar sulcus
-- Open patellofemoral articulation
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat
+  fără a se suprapune peste anatomia de interes
+- rotula în profil
+- Condilii femurali și șanțul intercondilian
+- Articulație patelofemurală deschisă
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-rotula-patela-and-patellofemoral-joint-tangential-projection-metoda-hughston-25-26-edge-or-standing-p567-merrill
 source_pages:
@@ -40,55 +44,59 @@ source_pages:
 - 568
 - 569
 source_sections:
-  anatomy: 'tangențial imagine shows subluxation de rotulă (patelă) și patellar suspiciune
-    de fractură și allows radiologic assessment de femoral condyles (Fig. 7.153).
+  anatomy: 'Imaginea tangențială evidențiază subluxația rotulei și suspiciunea de
+    fractură a rotulei și permite evaluarea radiologică a condililor femurali (Fig.
+    7.153).
 
-    Hughston recommended that ambele genunchi fie examined pentru comparison.'
-  collimation: • se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-  cr: • Înclinat 45 grade cranial și orientat through patellofemoral articulație.
-  criteria: 'Criterii radiologice de calitate imaginii:
+    Hughston a recomandat examinarea ambilor genunchi pentru comparație.'
+  collimation: • ajustați câmpul de iradiere la 4 × 4 țoli (10 × 10 cm) pe colimator.
+    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Înclinați la 45 de grade cranial și orientați prin articulația patelofemurală.
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Dovada colimării corecte și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • rotulă (patelă) în profile
+    • rotula în profil
 
-    • Femoral condyles și intercondylar sulcus
+    • Condilii femurali și șanțul intercondilian
 
-    • Open patellofemoral articulation
+    • Articulație patelofemurală deschisă
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place receptorul de imagine under femoral portion de genunchi, și slowly
-    se flectează afected genunchi astfel încât tibia și fibula form a 50- la 60-grade
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  part_pos: '• Așezați receptorul de imagine sub porțiunea femurală a genunchiului
+    și flectați lent genunchiul afectat astfel încât tibia și fibula să formeze un
+    unghi de 50 până la 60 de grade
 
-    angle de la masa de examinare.
+    față de masa de examinare.
 
-    • Rest picior pe / sprijinit de collimator sau support it în poziție (Fig. 7.152).
+    • Sprijiniți piciorul pe colimator sau susțineți-l în poziție (Fig. 7.152).
 
-    • Ensure that collimator surface este nu hot because this could burn pacientul.
+    • Asigurați-vă că suprafața colimatorului nu este fierbinte, deoarece aceasta
+    ar putea arde pacientul.
 
-    • se ajustează pacient’s membru inferior so that it este nu rotit medially sau
-    laterally de la plan vertical.
+    • Ajustați membrul inferior al pacientului astfel încât să nu fie rotit medial
+    sau lateral față de planul vertical.
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul în decubit ventral cu picior resting pe masa
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Așezați pacientul în decubit ventral, cu piciorul sprijinit pe masa
     radiologică.
 
-    • se ajustează corp so that it este nu rotit.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Ajustați corpul astfel încât să nu fie rotit.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 7. Lower Extremity, pagini 567–569
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator.
-    Place marker de lateralitate (D/S) în collimated expunere field.
-title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență — Metoda
-  Hughston 25 , 26 edge, or standing. (Merrill)
+  collimation: Ajustați câmpul de iradiere la 4 × 4 țoli (10 × 10 cm) pe colimator.
+    Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat.
+title: Rx rotulă și articulația patelofemurală — incidență tangențială — metoda Hughston
+  25, 26, pe margine sau în ortostatism. (Merrill)
 ---
-# Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență — Metoda Hughston 25 , 26 edge, or standing. (Merrill)
+# Rx rotulă și articulația patelofemurală — incidență tangențială — metoda Hughston 25, 26, pe margine sau în ortostatism. (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -112,17 +120,18 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit ventral poziție cu Picior resting pe masa radiologică. se ajustează corp so that it este nu rotit.; Place receptorul de imagine under femoral portion de Genunchi, și slowly se flectează afected Genunchi astfel încât tibia și fibula form a 50- la 60-grade angle de la masa de examinare. Rest Picior pe / sprijinit de collimator sau support it în poziție (Fig. 7.152). Ensure that collimator surface este nu hot because this could burn pacientul. se ajustează pacient’s membru inferior so that it este nu rotit medially sau laterally de la plan vertical. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Înclinat 45 grade cranial și orientat through patellofemoral articulație.
+    - **Poziție Pacient:** Așezați pacientul în decubit ventral, cu piciorul sprijinit pe masa radiologică. Ajustați corpul astfel încât să nu fie rotit.; Așezați receptorul de imagine sub porțiunea femurală a genunchiului și flectați lent genunchiul afectat astfel încât tibia și fibula să formeze un unghi de 50 până la 60 de grade față de masa de examinare. Sprijiniți piciorul pe colimator sau susțineți-l în poziție (Fig. 7.152). Asigurați-vă că suprafața colimatorului nu este fierbinte, deoarece aceasta ar putea arde pacientul. Ajustați membrul inferior al pacientului astfel încât să nu fie rotit medial sau lateral față de planul vertical. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Înclinată la 45 de grade cranial și orientată prin articulația patelofemurală.
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -138,19 +147,19 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 4 × 4 țoli (10 × 10 cm) pe colimator. Plasați markerul de lateralitate (D/S) în câmpul de expunere colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-    - Rotulă (Patelă) în profile
-    - Femoral condyles și intercondylar sulcus
-    - Open patellofemoral articulation
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Evidențierea colimării corecte și prezența markerului de lateralitate (D/S), plasat fără a se suprapune peste anatomia de interes
+    - rotula în profil
+    - Condilii femurali și șanțul intercondilian
+    - Articulație patelofemurală deschisă
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -159,6 +168,7 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -198,46 +208,3 @@ title: Rx Rotulă (Patelă) and Patellofemoral Joint — Tangential Incidență 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 7. Lower Extremity, pagini 567–569](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-tangențial imagine shows subluxation de rotulă (patelă) și patellar suspiciune de fractură și allows radiologic assessment de femoral condyles (Fig. 7.153).
-Hughston recommended that ambele genunchi fie examined pentru comparison.
-
-### collimation
-
-• se ajustează câmp de iradiere la 4 × 4 inches (10 × 10 cm) pe collimator. Place marker de lateralitate (D/S) în collimated expunere field.
-
-### cr
-
-• Înclinat 45 grade cranial și orientat through patellofemoral articulație.
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Evidence de corect collimation și presence de marker de lateralitate (D/S) plasat clear de anatomy de interest
-• rotulă (patelă) în profile
-• Femoral condyles și intercondylar sulcus
-• Open patellofemoral articulation
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Place receptorul de imagine under femoral portion de genunchi, și slowly se flectează afected genunchi astfel încât tibia și fibula form a 50- la 60-grade
-angle de la masa de examinare.
-• Rest picior pe / sprijinit de collimator sau support it în poziție (Fig. 7.152).
-• Ensure that collimator surface este nu hot because this could burn pacientul.
-• se ajustează pacient’s membru inferior so that it este nu rotit medially sau laterally de la plan vertical.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit ventral cu picior resting pe masa radiologică.
-• se ajustează corp so that it este nu rotit.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

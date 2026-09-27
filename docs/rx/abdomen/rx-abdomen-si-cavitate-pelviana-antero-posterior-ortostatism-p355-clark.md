@@ -48,6 +48,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-abdomen-si-cavitate-pelviana-antero-posterior-ortostatism-p355-clark/fig_5.jpeg
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: '• Parametrii de expunere sunt setați folosind mA mari și un timp scurt de
@@ -162,35 +166,35 @@ title: Rx Abdomen și cavitate pelviană în incidență anteroposterioară (AP)
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** (masă basculantă) Această examinare poate fi efectuată folosind o masă basculantă cu un ansamblu cu braț în C, cu un intensificator de imagine mare și tubul de raze X poziționat deasupra mesei. Se utilizează la efectuarea examinărilor cu bariu ale tubului digestiv și a altor investigații care necesită o imagine în ortostatism, de exemplu IVU, pentru a evidenția sediul obstrucției.
-• Pacientul este culcat în decubit dorsal pe masa basculantă, cu picioarele sprijinite ferm pe treaptă. Masa de examinare este deplasată lent spre poziția verticală până când pacientul ajunge în ortostatism.
-• Dacă este necesar, benzile de imobilizare sunt strânse peste genunchi și torace pentru a preveni prăbușirea pacientului când masa de examinare este deplasată spre poziția verticală. Totuși, nu se recomandă efectuarea acestei proceduri dacă pacientul are o stare generală alterată și nu poate sta în picioare fără ajutor.
-• Marginea superioară a intensificatorului de imagine este ajustată astfel încât să fie la nivelul mijlocului corpului sternului, pentru a include cupolele diafragmatice.
-• Ansamblul tub de raze X/braț în C este poziționat astfel încât raza centrală să fie orizontală.
-• Expunerea se efectuează imediat ce mișcarea mesei s-a oprit.
-De preferat, aceasta se efectuează când masa de examinare este verticală, dar apropierea de poziția verticală va depinde de starea pacientului.
-• Imediat după efectuarea expunerii, tubul de raze X este îndepărtat și masa de examinare este readusă în poziție orizontală.
-340 Radiografie anteroposterioară (AP) a abdomenului în ortostatism care evidențiază anse intestinale dilatate cu nivele hidroaerice mici (săgeți)
+    - **Poziție Pacient:**
+        (masă basculantă) Această examinare poate fi efectuată folosind o masă basculantă cu un ansamblu cu braț în C, cu un intensificator de imagine mare și tubul de raze X poziționat deasupra mesei. Se utilizează la efectuarea examinărilor cu bariu ale tubului digestiv și a altor investigații care necesită o imagine în ortostatism, de exemplu IVU, pentru a evidenția sediul obstrucției.
 
-• După setarea parametrilor de expunere și poziționarea tubului de raze X astfel încât raza centrală orizontală să fie aproximativ la înălțimea corectă, pacientul, aflat deja în ortostatism, este rotit cu 90 grade astfel încât să fie cu fața spre tubul de raze X.
-• Trebuie avut grijă să se efectueze abducția picioarelor pentru a evita suprapunerea părților moi ale coapselor peste cavitatea pelviană.
-• Planul mediosagital este ajustat perpendicular pe stativul vertical Bucky sau pe caseta cu grilă antidifuzoare și aliniat cu linia mediană a acestora.
-• Pacientul este susținut în această poziție, cu o casetă de 35 × 43-cm în Bucky sau cu o casetă cu grilă antidifuzoare sprijinită vertical pe spatele pacientului, cu marginea superioară nu mai jos de mijlocul sternului.
-• Alternativ, în funcție de starea sa, pacientul poate sta pe un taburet sau într-un scaun cu rotile cu spătarul îndepărtat, cu spatele lipit de stativul vertical Bucky. Dacă este necesar, pacientul poate fi examinat și cu spătarul tărgii ridicat în poziție verticală.
-    - **Punct de Centrare Fascicul:** • Raza orizontală este orientată astfel încât să coincidă cu centrul casetei pe linia mediană.
-• Expunerea se efectuează la un expir normal, profund și complet.
-
-• Se efectuează ajustarea finală a poziției tubului de raze X astfel încât raza centrală orizontală să fie orientată spre fața anterioară a pacientului, la centrul casetei, la distanța focar-film radiologic (FFD) corectă.
-• Expunerea se efectuează în apnee la sfârșitul expirului complet, după care pacientul este readus în decubit dorsal.
+        - Pacientul este culcat în decubit dorsal pe masa basculantă, cu picioarele sprijinite ferm pe treaptă. Masa de examinare este deplasată lent spre poziția verticală până când pacientul ajunge în ortostatism.
+        - Dacă este necesar, benzile de imobilizare sunt strânse peste genunchi și torace pentru a preveni prăbușirea pacientului când masa de examinare este deplasată spre poziția verticală. Totuși, nu se recomandă efectuarea acestei proceduri dacă pacientul are o stare generală alterată și nu poate sta în picioare fără ajutor.
+        - Marginea superioară a intensificatorului de imagine este ajustată astfel încât să fie la nivelul mijlocului corpului sternului, pentru a include cupolele diafragmatice.
+        - Ansamblul tub de raze X/braț în C este poziționat astfel încât raza centrală să fie orizontală.
+        - Expunerea se efectuează imediat ce mișcarea mesei s-a oprit. De preferat, aceasta se efectuează când masa de examinare este verticală, dar apropierea de poziția verticală va depinde de starea pacientului.
+        - Imediat după efectuarea expunerii, tubul de raze X este îndepărtat și masa de examinare este readusă în poziție orizontală. 340 Radiografie anteroposterioară (AP) a abdomenului în ortostatism care evidențiază anse intestinale dilatate cu nivele hidroaerice mici (săgeți)
+        - După setarea parametrilor de expunere și poziționarea tubului de raze X astfel încât raza centrală orizontală să fie aproximativ la înălțimea corectă, pacientul, aflat deja în ortostatism, este rotit cu 90 grade astfel încât să fie cu fața spre tubul de raze X.
+        - Trebuie avut grijă să se efectueze abducția picioarelor pentru a evita suprapunerea părților moi ale coapselor peste cavitatea pelviană.
+        - Planul mediosagital este ajustat perpendicular pe stativul vertical Bucky sau pe caseta cu grilă antidifuzoare și aliniat cu linia mediană a acestora.
+        - Pacientul este susținut în această poziție, cu o casetă de 35 × 43-cm în Bucky sau cu o casetă cu grilă antidifuzoare sprijinită vertical pe spatele pacientului, cu marginea superioară nu mai jos de mijlocul sternului.
+        - Alternativ, în funcție de starea sa, pacientul poate sta pe un taburet sau într-un scaun cu rotile cu spătarul îndepărtat, cu spatele lipit de stativul vertical Bucky. Dacă este necesar, pacientul poate fi examinat și cu spătarul tărgii ridicat în poziție verticală.
+    - **Punct de Centrare Fascicul:**
+        - Raza orizontală este orientată astfel încât să coincidă cu centrul casetei pe linia mediană.
+        - Expunerea se efectuează la un expir normal, profund și complet.
+        - Se efectuează ajustarea finală a poziției tubului de raze X astfel încât raza centrală orizontală să fie orientată spre fața anterioară a pacientului, la centrul casetei, la distanța focar-film radiologic (FFD) corectă.
+        - Expunerea se efectuează în apnee la sfârșitul expirului complet, după care pacientul este readus în decubit dorsal.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează imediat ce mișcarea mesei s-a oprit
 
@@ -225,9 +229,10 @@ De preferat, aceasta se efectuează când masa de examinare este verticală, dar
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    • Parametrii de expunere sunt setați folosind mA mari și un timp scurt de expunere, cu o creștere de 7–10 kVp față de valoarea necesară cu pacientul în decubit dorsal.
-• În cazul unei suspiciuni de perforație, pacientul trebuie menținut în ortostatism, ideal timp de 20 minute înainte de expunere, pentru a permite oricărui pneumoperitoneu (aer liber subdiafragmatic) să se ridice. Imaginea adecvată în această situație ar fi o radiografie toracică în ortostatism sau o radiografie anteroposterioară (AP) a abdomenului în decubit lateral stâng ori, ca ultimă opțiune, o radiografie de profil în decubit dorsal.
+    - Parametrii de expunere sunt setați folosind mA mari și un timp scurt de expunere, cu o creștere de 7–10 kVp față de valoarea necesară cu pacientul în decubit dorsal.
+    - În cazul unei suspiciuni de perforație, pacientul trebuie menținut în ortostatism, ideal timp de 20 minute înainte de expunere, pentru a permite oricărui pneumoperitoneu (aer liber subdiafragmatic) să se ridice. Imaginea adecvată în această situație ar fi o radiografie toracică în ortostatism sau o radiografie anteroposterioară (AP) a abdomenului în decubit lateral stâng ori, ca ultimă opțiune, o radiografie de profil în decubit dorsal.
 
 
 ### 🖼️ Imagini

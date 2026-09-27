@@ -2,21 +2,25 @@
 author: Referință Merrill
 breathing: apnee (oprirea respirației).
 category: membru-superior
-centering: Înclinat 45 grade caudal through scapulohumeral articulație
+centering: Înclinat 45 de grade caudal prin articulația scapulohumerală
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
 - caption: Merrill — pagina 410, imaginea 1
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-glenoid-cavity-ap-axial-incidenta-oblica-garth-method-rpo-or-lpo-position-hill-sachs-lesions-and-soft-tissue-calcifications-12-p409-merrill/p410_fig1.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul în Decubit dorsal, Poziție Șezândă, sau ortostatism.;
-  se centrează receptorul de imagine la glenohumeral articulație. se rotește corp
-  approximately 45 grade spre afected side. posterior surface de afected side este
-  cel mai apropiat de receptorul de imagine. se flectează Cot de afected braț și place
-  braț across Torace (Fig. 6.48). se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Așezați pacientul în decubit dorsal, în poziție șezândă sau în ortostatism.;
+  centrați receptorul de imagine pe articulația glenohumerală. Rotiți corpul cu aproximativ
+  45 de grade spre partea afectată. Suprafața posterioară a părții afectate este cea
+  mai apropiată de receptorul de imagine. Flectați cotul brațului afectat și așezați
+  brațul peste torace (Fig. 6.48). Efectuați ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
@@ -27,32 +31,34 @@ source_pages:
 - 409
 - 410
 source_sections:
-  cr: • Înclinat 45 grade caudal through scapulohumeral articulație
-  part_pos: '• se centrează receptorul de imagine la glenohumeral articulație.
+  cr: • Înclinat 45 de grade caudal prin articulația scapulohumerală
+  part_pos: '• centrați receptorul de imagine pe articulația glenohumerală.
 
-    • se rotește corp approximately 45 grade spre afected side.
+    • rotiți corpul cu aproximativ 45 de grade spre partea afectată.
 
-    • posterior surface de afected side este cel mai apropiat de receptorul de imagine.
+    • suprafața posterioară a părții afectate este cea mai apropiată de receptorul
+    de imagine.
 
-    • se flectează cot de afected braț și place braț across toracele (Fig. 6.48).
+    • flectați cotul brațului afectat și așezați brațul peste torace (Fig. 6.48).
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: • se așază pacientul în decubit dorsal, așezat pe scaun, sau ortostatism.
+    • efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: • Așezați pacientul în decubit dorsal, în poziție șezândă sau în ortostatism.
   respiration: apnee (oprirea respirației).
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24
+  tech: 'poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12
+    țoli (24
 
-    × 30 cm) longitudinal.'
+    × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 6. Shoulder Girdle, pagini 409–410
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
   collimation: Conform reperelor anatomice standard din tratat
-title: Rx Glenoid Cavity — Oblică Axială AP — Garth Method RPO or Oblică Posterioară
-  Stângă (OPS / LPO) Hill-Sachs lesions, and soft tissue calcifications. 12 (Merrill)
+title: Rx cavitatea glenoidă — oblică axială AP — metoda Garth, RPO sau oblică posterioară
+  stângă (OPS/LPO), leziuni Hill-Sachs și calcificări ale țesuturilor moi. 12 (Merrill)
 ---
-# Rx Glenoid Cavity — Oblică Axială AP — Garth Method RPO or Oblică Posterioară Stângă (OPS / LPO) Hill-Sachs lesions, and soft tissue calcifications. 12 (Merrill)
+# Rx cavitatea glenoidă — oblică axială AP — metoda Garth, RPO sau oblică posterioară stângă (OPS/LPO), leziuni Hill-Sachs și calcificări ale țesuturilor moi. 12 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -76,17 +82,18 @@ title: Rx Glenoid Cavity — Oblică Axială AP — Garth Method RPO or Oblică 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul în Decubit dorsal, Poziție Șezândă, sau ortostatism.; se centrează receptorul de imagine la glenohumeral articulație. se rotește corp approximately 45 grade spre afected side. posterior surface de afected side este cel mai apropiat de receptorul de imagine. se flectează Cot de afected braț și place braț across Torace (Fig. 6.48). se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** Înclinat 45 grade caudal through scapulohumeral articulație
+    - **Poziție Pacient:** Așezați pacientul în decubit dorsal, în poziție șezândă sau în ortostatism.; centrați receptorul de imagine pe articulația glenohumerală. Rotiți corpul cu aproximativ 45 de grade spre partea afectată. Suprafața posterioară a părții afectate este cea mai apropiată de receptorul de imagine. Flectați cotul brațului afectat și așezați brațul peste torace (Fig. 6.48). Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Înclinat 45 de grade caudal prin articulația scapulohumerală
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** apnee (oprirea respirației).
 
@@ -119,6 +126,7 @@ title: Rx Glenoid Cavity — Oblică Axială AP — Garth Method RPO or Oblică 
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
 
@@ -149,31 +157,3 @@ title: Rx Glenoid Cavity — Oblică Axială AP — Garth Method RPO or Oblică 
 ## Surse de documentare
 
 - [Merrill’s Atlas, 6. Shoulder Girdle, pagini 409–410](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### cr
-
-• Înclinat 45 grade caudal through scapulohumeral articulație
-
-### part_pos
-
-• se centrează receptorul de imagine la glenohumeral articulație.
-• se rotește corp approximately 45 grade spre afected side.
-• posterior surface de afected side este cel mai apropiat de receptorul de imagine.
-• se flectează cot de afected braț și place braț across toracele (Fig. 6.48).
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul în decubit dorsal, așezat pe scaun, sau ortostatism.
-
-### respiration
-
-apnee (oprirea respirației).
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24
-× 30 cm) longitudinal.
-

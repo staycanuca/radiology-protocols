@@ -92,6 +92,7 @@ title: Rx grilaj costal / hemitorace
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -132,6 +133,7 @@ title: Rx grilaj costal / hemitorace
     - Colimare strictă unilaterală (nu se expune inutil hemitoracele sănătos)
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Orice suspiciune de fracturi costale multiple cu detresă respiratorie sau instabilitate impune completarea cu CT toracic.

@@ -2,7 +2,7 @@
 author: Referință Merrill
 breathing: Conform reperelor anatomice standard din tratat
 category: membru-superior
-centering: perpendicular pe table și orientat la enter scaphoid
+centering: Perpendicular pe masă și orientat să pătrundă în scafoid
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,28 +18,32 @@ images:
 - caption: Merrill — pagina 305, imaginea 4
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-scaphoid-incidenta-pa-axiala-incidenta-scafoid-metoda-stecher-22-p302-merrill/p305_fig4.png
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.01 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: se așază pacientul pe scaun la end de masa radiologică, cu braț și axilla
-  în contact cu masa de examinare. Rest Antebraț pe masa de examinare.; Place one
-  end de receptorul de imagine pe support, și se ajustează receptorul de imagine astfel
-  încât finger end de receptorul de imagine este ridicat 20 grade (Fig. 5.87). se
-  ajustează Pumn (Articulație Radiocarpiană) pe receptorul de imagine pentru Incidență
-  Postero-Anterioară (PA), și se centrează Pumn (Articulație Radiocarpiană) la receptorul
-  de imagine. Bridgman 23 suСested positioning Pumn (Articulație Radiocarpiană) în
-  ulnar deviation pentru this radiografie. se efectuează ecranarea gonadelor cu șorț
-  plumbat.
+position: Pacientul este așezat pe scaun la capătul mesei radiologice, cu brațul și
+  axila în contact cu masa de examinare. Restul antebrațului pe masa de examinare.
+  Se așază un capăt al receptorului de imagine pe suport și se ajustează receptorul
+  de imagine astfel încât capătul pentru degete al receptorului de imagine să fie
+  ridicat cu 20 de grade (Fig. 5.87). Se ajustează pumnul (articulația radiocarpiană)
+  pe receptorul de imagine pentru incidența postero-anterioară (PA) și se centrează
+  pumnul (articulația radiocarpiană) pe receptorul de imagine. Bridgman 23 a sugerat
+  poziționarea pumnului (articulației radiocarpiene) în deviație ulnară pentru această
+  radiografie. Se efectuează ecranarea gonadelor cu șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-- Scaphoid cu adjacent articulations open
-- Absența rotației anatomice (simetrie bilaterală perfectă) de Pumn (Articulație Radiocarpiană)
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+- Scafoidul cu articulațiile adiacente deschise
+- Absența rotației anatomice (simetrie bilaterală perfectă) a pumnului
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-scaphoid-incidenta-pa-axiala-incidenta-scafoid-metoda-stecher-22-p302-merrill
 source_pages:
@@ -48,55 +52,55 @@ source_pages:
 - 304
 - 305
 source_sections:
-  anatomy: '20-grade angulation de wrist places scaphoid în unghi drept față de raza
-    centrală, so that it este projected cu minimal superimposition (Figs.
+  anatomy: Angulația de 20 de grade a pumnului așază scafoidul în unghi drept față
+    de raza centrală, astfel încât acesta să fie proiectat cu suprapunere minimă (Fig.
+    5.88 și 5.89).
+  collimation: • Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal
+    față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Plasați markerul
+    de lateralitate (D/S) în câmpul de expunere colimat.
+  cr: • Perpendicular pe masă și orientat să pătrundă în scafoid
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    5.88 și 5.89).'
-  collimation: '• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal
-    la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate
-    (D/S) în
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    collimated expunere field.'
-  cr: • perpendicular pe table și orientat la enter scaphoid
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Scafoidul cu articulațiile adiacente deschise
 
-    • distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
+    • Absența rotației anatomice (simetrie bilaterală perfectă) a pumnului
 
-    • Scaphoid cu adjacent articulations open
+    • Detalii osoase trabeculare și țesuturile moi din jur'
+  part_pos: '• Se așază un capăt al receptorului de imagine pe suport și se ajustează
+    receptorul de imagine astfel încât capătul pentru degete al receptorului de imagine
+    să fie ridicat cu 20 de grade (Fig. 5.87).
 
-    • Absența rotației anatomice (simetrie bilaterală perfectă) de wrist
+    • Se ajustează pumnul pe receptorul de imagine pentru incidența PA și se centrează
+    pumnul pe receptorul de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• Place one end de receptorul de imagine pe support, și se ajustează
-    receptorul de imagine astfel încât finger end de receptorul de imagine este ridicat
-    20 grade (Fig. 5.87).
+    • Bridgman 23 a sugerat poziționarea pumnului în deviație ulnară pentru această
+    radiografie.
 
-    • se ajustează wrist pe receptorul de imagine pentru PA incidență, și se centrează
-    wrist la receptorul de imagine.
+    • Se efectuează ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Pacientul este așezat pe scaun la capătul mesei radiologice, cu
+    brațul și axila în contact cu masa de examinare.
 
-    • Bridgman 23 suСested positioning wrist în ulnar deviation pentru this radiografie.
-
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• se așază pacientul pe scaun la end de masa radiologică, cu braț
-    și axilla în contact cu masa de examinare.
-
-    • Rest forearm pe masa de examinare.'
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.'
+    • Restul antebrațului pe masa de examinare.'
+  tech: 'poziționat conform protocolului producătorului sau al departamentului pentru
+    orientarea corectă a afișării anatomiei; placa pentru raza centrală: 10 × 12 țoli
+    (24 × 30 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 5. Upper Extremity, pagini 302–305
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
 status: draft
 tech_params:
-  collimation: Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la
-    Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează
-    markerul de lateralitate în câmpul colimat.
-title: Rx Scaphoid — Incidență PA Axială — Incidență Scafoid (Metoda Stecher) 22 (Merrill)
+  collimation: Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față
+    de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de
+    lateralitate în câmpul colimat.
+title: Rx scafoid — incidență PA axială — incidența scafoidului (metoda Stecher) 22
+  (Merrill)
 ---
-# Rx Scaphoid — Incidență PA Axială — Incidență Scafoid (Metoda Stecher) 22 (Merrill)
+# Rx scafoid — incidență PA axială — incidența scafoidului (metoda Stecher) 22 (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -120,17 +124,18 @@ title: Rx Scaphoid — Incidență PA Axială — Incidență Scafoid (Metoda St
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.01 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** se așază pacientul pe scaun la end de masa radiologică, cu braț și axilla în contact cu masa de examinare. Rest Antebraț pe masa de examinare.; Place one end de receptorul de imagine pe support, și se ajustează receptorul de imagine astfel încât finger end de receptorul de imagine este ridicat 20 grade (Fig. 5.87). se ajustează Pumn (Articulație Radiocarpiană) pe receptorul de imagine pentru Incidență Postero-Anterioară (PA), și se centrează Pumn (Articulație Radiocarpiană) la receptorul de imagine. Bridgman 23 suСested positioning Pumn (Articulație Radiocarpiană) în ulnar deviation pentru this radiografie. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe table și orientat la enter scaphoid
+    - **Poziție Pacient:** Pacientul este așezat pe scaun la capătul mesei radiologice, cu brațul și axila în contact cu masa de examinare. Restul antebrațului pe masa de examinare. Se așază un capăt al receptorului de imagine pe suport și se ajustează receptorul de imagine astfel încât capătul pentru degete al receptorului de imagine să fie ridicat cu 20 de grade (Fig. 5.87). Se ajustează pumnul (articulația radiocarpiană) pe receptorul de imagine pentru incidența postero-anterioară (PA) și se centrează pumnul (articulația radiocarpiană) pe receptorul de imagine. Bridgman 23 a sugerat poziționarea pumnului (articulației radiocarpiene) în deviație ulnară pentru această radiografie. Se efectuează ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe masă și orientat să pătrundă în scafoid
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
     - **Comandă Respiratorie:** Conform reperelor anatomice standard din tratat
 
@@ -146,19 +151,19 @@ title: Rx Scaphoid — Incidență PA Axială — Incidență Scafoid (Metoda St
     | **Grilă Antidifuzoare (Bucky)** | DE CONFIGURAT PE APARAT |
     | **Dimensiune Focar** | DE CONFIGURAT PE APARAT |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la Pumn (Articulație Radiocarpiană) articulație și 1 inch (2.5 cm) pe sides. Se plasează markerul de lateralitate în câmpul colimat. |
+    | **Colimare Fascicul** | Ajustați câmpul de iradiere la 2.5 țoli (6 cm) proximal și distal față de articulația pumnului și la 1 țol (2.5 cm) pe laturi. Se plasează markerul de lateralitate în câmpul colimat. |
     | **Filtrare Tub** | DE CONFIGURAT PE APARAT |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-    - Scaphoid cu adjacent articulations open
-    - Absența rotației anatomice (simetrie bilaterală perfectă) de Pumn (Articulație Radiocarpiană)
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Radiusul și ulna distale, oasele carpiene și jumătatea proximală a oaselor metacarpiene
+    - Scafoidul cu articulațiile adiacente deschise
+    - Absența rotației anatomice (simetrie bilaterală perfectă) a pumnului
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -167,6 +172,7 @@ title: Rx Scaphoid — Incidență PA Axială — Incidență Scafoid (Metoda St
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -222,45 +228,3 @@ title: Rx Scaphoid — Incidență PA Axială — Incidență Scafoid (Metoda St
 ## Surse de documentare
 
 - [Merrill’s Atlas, 5. Upper Extremity, pagini 302–305](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-20-grade angulation de wrist places scaphoid în unghi drept față de raza centrală, so that it este projected cu minimal superimposition (Figs.
-5.88 și 5.89).
-
-### collimation
-
-• Adjust câmp de iradiere la 2.5 inches (6 cm) proximal și distal la wrist articulație și 1 inch (2.5 cm) pe sides. Place marker de lateralitate (D/S) în
-collimated expunere field.
-
-### cr
-
-• perpendicular pe table și orientat la enter scaphoid
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• distal radius și ulna, oase carpiene, și proximal half de oase metacarpiene
-• Scaphoid cu adjacent articulations open
-• Absența rotației anatomice (simetrie bilaterală perfectă) de wrist
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• Place one end de receptorul de imagine pe support, și se ajustează receptorul de imagine astfel încât finger end de receptorul de imagine este ridicat 20 grade (Fig. 5.87).
-• se ajustează wrist pe receptorul de imagine pentru PA incidență, și se centrează wrist la receptorul de imagine.
-• Bridgman 23 suСested positioning wrist în ulnar deviation pentru this radiografie.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• se așază pacientul pe scaun la end de masa radiologică, cu braț și axilla în contact cu masa de examinare.
-• Rest forearm pe masa de examinare.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 10 × 12 inches (24 × 30 cm) longitudinal.
-

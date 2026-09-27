@@ -46,6 +46,7 @@ def _minify_html_content(raw_html: str) -> str:
                 minify_js=True,
                 minify_css=True,
                 keep_comments=False,
+                keep_closing_tags=True,
             )
         except Exception:
             pass
@@ -153,12 +154,50 @@ def optimize_site(site_dir: Path | str) -> dict:
     print(f"    - Imagini: {img_orig_total / (1024*1024):.1f} MB -> {img_opt_total / (1024*1024):.1f} MB (-{img_saved_mb:.1f} MB)")
     print(f"    - TOTAL ECONOMISIT: {saved_mb:.1f} MB (reducere {((saved_bytes / total_orig) * 100 if total_orig else 0):.1f}%)\n")
 
+    _generate_compatibility_redirects(site_path)
+
     return {
         "duration_seconds": duration,
         "saved_mb": saved_mb,
         "html_saved_mb": html_saved_mb,
         "img_saved_mb": img_saved_mb,
     }
+
+
+def _generate_compatibility_redirects(site_dir: Path) -> None:
+    """Generează reguli Cloudflare Pages _redirects și pagini HTML de redirect ca fallback."""
+    # 1. Cloudflare Pages _redirects
+    redirects_file = site_dir / "_redirects"
+    redirect_rules = [
+        "/ct/parametri-aparate-scanner-defaults.md /ct/parametri-aparate-scanner-defaults/ 301",
+        "/ct/ct/parametri-aparate-scanner-defaults/ /ct/parametri-aparate-scanner-defaults/ 301",
+        "/ct/parametri-aparate-scanner-defaults.html /ct/parametri-aparate-scanner-defaults/ 301",
+    ]
+    existing = redirects_file.read_text(encoding="utf-8") if redirects_file.exists() else ""
+    for r in redirect_rules:
+        if r not in existing:
+            existing = (existing + "\n" + r).strip() + "\n"
+    redirects_file.write_text(existing, encoding="utf-8")
+
+    # 2. Fișiere statice HTML redirect ca fallback garantat
+    redirect_html = """<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecționare...</title>
+  <meta http-equiv="refresh" content="0; url=/ct/parametri-aparate-scanner-defaults/">
+  <link rel="canonical" href="https://protocoale.co.uk/ct/parametri-aparate-scanner-defaults/">
+  <script>window.location.replace("/ct/parametri-aparate-scanner-defaults/");</script>
+</head>
+<body>
+  <p>Redirecționare către <a href="/ct/parametri-aparate-scanner-defaults/">Parametri Impliciti Scanere CT</a>...</p>
+</body>
+</html>
+"""
+    ct_dir = site_dir / "ct"
+    if ct_dir.exists():
+        (ct_dir / "parametri-aparate-scanner-defaults.md").write_text(redirect_html, encoding="utf-8")
+        (ct_dir / "parametri-aparate-scanner-defaults.html").write_text(redirect_html, encoding="utf-8")
 
 
 def on_post_build(config: dict) -> None:

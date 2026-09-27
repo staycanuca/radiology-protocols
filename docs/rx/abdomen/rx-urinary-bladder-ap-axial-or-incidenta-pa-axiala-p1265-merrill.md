@@ -29,6 +29,10 @@ images:
 - caption: Merrill — pagina 1267, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-urinary-bladder-ap-axial-or-incidenta-pa-axiala-p1265-merrill/p1267_fig3.png
+iris_reference:
+  chapter: Aparat digestiv & Abdomen
+  radiation_dose: Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Imaginile preliminare și cele după injectare sunt obținute cel mai frecvent
@@ -193,11 +197,12 @@ title: Rx Vezică urinară — Incidență AP axială sau incidență PA axială
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat digestiv & Abdomen*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 2 (Foarte mică ~ 0.7 - 1.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -240,6 +245,7 @@ title: Rx Vezică urinară — Incidență AP axială sau incidență PA axială
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Imaginile preliminare și cele după injectare sunt obținute cel mai frecvent cu pacientul în decubit dorsal. Poziția de decubit ventral este uneori utilizată pentru a vizualiza zone ale vezicii urinare care nu sunt clar vizibile în incidența AP axială. Incidența AP axială în poziție Trendelenburg la 15 până la 20 de grade, cu raza centrală orientată vertical, este uneori utilizată pentru a evidenția extremitățile distale ale ureterelor. În această poziție înclinată, greutatea lichidului conținut întinde fundul vezicii urinare în sens superior, oferind o vizualizare fără suprapuneri a porțiunilor inferioare ale ureterelor și a regiunilor orificiilor vezicoureterale.
@@ -287,67 +293,3 @@ title: Rx Vezică urinară — Incidență AP axială sau incidență PA axială
 ## Surse de documentare
 
 - [Merrill’s Atlas, 16. Urinary System and Venipuncture, pagini 1265–1267](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomie
-
-Incidențele AP axiale și PA axiale evidențiază vezica urinară umplută cu substanță de contrast (Fig. 16.64 și 16.65). Dacă este prezent refluxul, sunt vizualizate
-și ureterele distale.
-
-### colimare
-
-• Se ajustează câmpul de iradiere la 10 × 12 țoli (24 × 30 cm), longitudinal. Plasați markerul de lateralitate (D/S) corect în câmpul de expunere colimat.
-
-### raza centrală
-
-AP axială
-• Raza centrală este înclinată caudal cu 10 până la 15 grade, spre centrul receptorului de imagine. Raza centrală trebuie să pătrundă la 2 țoli (5 cm) deasupra marginii superioare a simfizei
-pubiene. Când colul vezical și uretra proximală sunt principalele zone de interes, o angulare caudală de 5 grade a razei centrale este
-de obicei suficientă pentru a proiecta oasele pubiene sub acestea. Poate fi necesară o angulare mai mare sau mai mică, în funcție de gradul
-lordozei coloanei lombare. În cazul unei lordoze mai accentuate, poate fi necesară o angulare mai mică (vezi Fig. 16.63).
-PA axială
-• Când se efectuează incidențe PA axiale ale vezicii urinare, se orientează raza centrală prin regiunea colului vezical, la un unghi de 10 până la 15
-grade cranial, pătrunzând la aproximativ 1 țol (2.5 cm) distal de vârful coccisului și ieșind puțin deasupra marginii superioare a simfizei pubiene. Dacă prostata este aria de interes diagnostic, raza centrală este orientată cranial cu 20 până la 25 de grade pentru a o proiecta deasupra oaselor pubiene. Pentru incidențele PA axiale, receptorul de imagine este centrat pe raza centrală.
-• Raza centrală este perpendiculară pe simfiza pubiană pentru examinările micționale.
-
-### criterii
-
-Criterii radiologice de calitate a imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat fără suprapunere peste structurile anatomice de interes
-• Regiunile extremităților distale ale ureterelor, vezica urinară și porțiunea proximală a uretrei
-• Oasele pubiene proiectate sub colul vezical și uretra proximală
-• Substanță de contrast în vezica urinară, ureterele distale și uretra proximală
-• Structurile anatomice înconjurătoare
-
-### note
-
-Imaginile preliminare și cele după injectare sunt obținute cel mai frecvent cu pacientul în decubit dorsal. Decubitul ventral este uneori
-utilizat pentru a vizualiza zone ale vezicii urinare care nu sunt clar vizibile în incidența AP axială. Incidența AP axială în poziție Trendelenburg la 15 până la
-20 de grade, cu raza centrală orientată vertical, este uneori utilizată pentru a evidenția extremitățile distale ale ureterelor. În această poziție înclinată, greutatea
-lichidului conținut întinde fundul vezicii urinare în sens superior, oferind o vizualizare fără suprapuneri a porțiunilor inferioare ale ureterelor și a regiunilor orificiilor
-vezicoureterale.
-
-### part_pos
-
-• Se centrează MSP al corpului pacientului pe linia mediană a dispozitivului cu grilă.
-• Se ajustează poziția umerilor și a șoldurilor pacientului astfel încât acestea să fie echidistante față de receptorul de imagine.
-• Se poziționează brațele pacientului astfel încât să nu proiecteze umbre pe receptorul de imagine.
-• Dacă pacientul este poziționat pentru o imagine în decubit dorsal, se instruiește să își extindă membrele inferioare astfel încât regiunea lombosacrată a coloanei vertebrale să fie
-suficient de arcuită pentru a înclina inferior oasele anterioare ale pelvisului. În această poziție, oasele pubiene pot fi proiectate mai ușor sub colul
-vezical și uretra proximală (Fig. 16.63).
-• Se centrează receptorul de imagine la 2 țoli (5 cm) deasupra marginii superioare a simfizei pubiene (sau la nivelul simfizei pubiene pentru examinările micționale).
-
-### patient_pos
-
-• Se poziționează pacientul în decubit dorsal pe masa radiologică pentru incidența AP a vezicii urinare.
-
-### respirație
-
-Apnee la sfârșitul expirului complet.
-
-### tehnică
-
-Poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării structurilor anatomice; placă pentru raza centrală: 10 × 12 țoli (24 ×
-30 cm), longitudinal.
-

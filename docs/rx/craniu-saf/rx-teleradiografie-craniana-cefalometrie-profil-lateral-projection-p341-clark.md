@@ -34,6 +34,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-teleradiografie-craniana-cefalometrie-profil-lateral-projection-p341-clark/fig_4.jpeg
+iris_reference:
+  chapter: Traumatisme — Față și orbite
+  radiation_dose: Clasa 1 (Minimă < 0.2 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.
@@ -122,22 +126,24 @@ title: Rx Teleradiografie Craniană (Cefalometrie) Profil (Lateral) Incidență
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Traumatisme — Față și orbite*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.2 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul stă așezat sau în picioare în interiorul unității cefalometrice, cu planul sagital vertical și paralel cu caseta.
-• planul Frankfort trebuie să fie orizontal.
-• capul este imobilizat prin introducerea cu grijă a olivelor în meaturile acustice externe. Markerii metalici circulari din olive permit operatorului să recunoască rapid decentrarea cefalostatului.
-• suportul nazal este poziționat pe / sprijinit de nazion.
-• filtrul în formă de pană este poziționat astfel încât să se suprapună peste față, cu marginea sa groasă plasată anterior.
-• pacientul este instruit să închidă gura și să muște împreună pe dinții posteriori (adică în ocluzie centrică). Unii copii întâmpină dificultăți în acest sens, de aceea merită verificat înainte de efectuarea radiografiei.
-• buzele trebuie să fie relaxate.
+    - **Poziție Pacient:**
+        - pacientul stă așezat sau în picioare în interiorul unității cefalometrice, cu planul sagital vertical și paralel cu caseta.
+        - planul Frankfort trebuie să fie orizontal.
+        - capul este imobilizat prin introducerea cu grijă a olivelor în meaturile acustice externe. Markerii metalici circulari din olive permit operatorului să recunoască rapid decentrarea cefalostatului.
+        - suportul nazal este poziționat pe / sprijinit de nazion.
+        - filtrul în formă de pană este poziționat astfel încât să se suprapună peste față, cu marginea sa groasă plasată anterior.
+        - pacientul este instruit să închidă gura și să muște împreună pe dinții posteriori (adică în ocluzie centrică). Unii copii întâmpină dificultăți în acest sens, de aceea merită verificat înainte de efectuarea radiografiei.
+        - buzele trebuie să fie relaxate.
     - **Punct de Centrare Fascicul:** • direcția și centrarea fasciculului de raze X vor fi în mod normal fixe. Fasciculul orizontal este centrat pe meaturile acustice externe.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
@@ -190,6 +196,7 @@ title: Rx Teleradiografie Craniană (Cefalometrie) Profil (Lateral) Incidență
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Pregătirea pacientului prin îndepărtarea tuturor accesoriilor radio-opace.

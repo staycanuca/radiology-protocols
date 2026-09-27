@@ -1,11 +1,11 @@
 ---
 author: Referință Merrill
-breathing: Apnee la sfârșitul inspirului profund complet pentru Coaste (Grilaj Costal)
-  above cupole diafragmatice și la end de deep expiration pentru Coaste (Grilaj Costal)
-  below cupole diafragmatice.
+breathing: Apnee la sfârșitul inspirului profund complet pentru coaste (grilaj costal)
+  deasupra cupolelor diafragmatice și la sfârșitul expirului profund pentru coaste
+  (grilaj costal) sub cupolele diafragmatice.
 category: torace
-centering: perpendicular pe center de receptorul de imagine Closest la receptorul
-  de imagine
+centering: Perpendicular pe centrul receptorului de imagine. Cel mai apropiat de receptorul
+  de imagine [fragment incomplet în sursă].
 clinical_indications:
 - Conform reperelor anatomice standard din tratat
 images:
@@ -18,41 +18,49 @@ images:
 - caption: Merrill — pagina 821, imaginea 3
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-axillary-coaste-grilaj-costal-ap-incidenta-oblica-rpo-or-lpo-position-p819-merrill/p821_fig3.png
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: Conform reperelor anatomice standard din tratat
-position: Examine pacientul în ortostatism sau Decubit poziție. Unless contraindicated
-  prin pacientul’s condition, use ortostatism la imagine Coaste (Grilaj Costal) above
-  cupole diafragmatice, și use Decubit poziție la imagine Coaste (Grilaj Costal) below
-  cupole diafragmatice. Gravity assists prin moving cupole diafragmatice.; se poziționează
-  pacientul’s corp pentru a 45-grade AP Incidență Oblică using RPO sau poziție oblică
-  posterioară stângă (OPS / LPO). Place aﬀected side cel mai apropiat de receptorul
-  de imagine. se centrează afected side pe longitudinal plane drawn midway între MSP
-  și lateral surface de corp. poziție this plane la linia mediană grilă. If pacientul
-  este în Decubit poziție, support ridicat Șold. Abduct braț de afected side, și elevate
-  it la carry Omoplat (Scapulă) away de la rib cage. se sprijină pacientul’s Mână
-  pe capul if ortostatism este used (Fig. 10.37), sau place Mână under sau above capul
-  if Decubit poziție este used (Fig. 10.38). Abduct opposite limb cu Mână pe Șold.
-  se centrează receptorul de imagine cu top 1½ inches (3.8 cm) above upper margine
-  de relaxat Umăr la imagine Coaste (Grilaj Costal) above cupole diafragmatice sau
-  la point halfway între apendice xifoid și lower rib margin la imagine Coaste (Grilaj
-  Costal) below cupole diafragmatice. se efectuează ecranarea gonadelor cu șorț plumbat.
+position: Examinați pacientul în ortostatism sau în decubit. Dacă nu este contraindicat
+  de starea pacientului, utilizați ortostatismul pentru imaginea coastelor (grilajului
+  costal) deasupra cupolelor diafragmatice și decubitul pentru imaginea coastelor
+  (grilajului costal) sub cupolele diafragmatice. Gravitația ajută la deplasarea cupolelor
+  diafragmatice.; poziționați corpul pacientului pentru o incidență oblică AP la 45
+  de grade, utilizând RPO sau poziția oblică posterioară stângă (OPS / LPO). Plasați
+  partea afectată cel mai aproape de receptorul de imagine. Centrați partea afectată
+  pe planul longitudinal trasat la jumătatea distanței dintre MSP și suprafața laterală
+  a corpului. Poziționați acest plan pe linia mediană a grilei. Dacă pacientul este
+  în decubit, susțineți șoldul ridicat. Abduceți brațul de partea afectată și ridicați-l
+  pentru a îndepărta omoplatul (scapula) de cutia toracică. Sprijiniți mâna pacientului
+  pe cap dacă se utilizează ortostatismul (Fig. 10.37) sau plasați mâna sub sau deasupra
+  capului dacă se utilizează decubitul (Fig. 10.38). Abduceți membrul opus, cu mâna
+  pe șold. Centrați receptorul de imagine cu partea superioară la 1½ țoli (3.8 cm)
+  deasupra marginii superioare a umărului relaxat pentru imaginea coastelor (grilajului
+  costal) deasupra cupolelor diafragmatice sau la punctul situat la jumătatea distanței
+  dintre apendicele xifoid și marginea inferioară a coastelor pentru imaginea coastelor
+  (grilajului costal) sub cupolele diafragmatice. Efectuați ecranarea gonadelor cu
+  șorț plumbat.
 protection:
 - Nespecificat în fragmentul extras; de verificat în sursă
 quality_criteria:
-- 'Criterii radiologice de calitate imaginii:'
-- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear
-  de anatomy de interest
-- Approximately twice ca much distance între coloană vertebrală și lateral margine
-  de Coaste (Grilaj Costal) pe afected side ca este present pe unafected side
-- Axillary portion de Coaste (Grilaj Costal) liber de superimposition cu Coloană Toracală
-- First through tenth Coaste (Grilaj Costal) vizibil above cupole diafragmatice pentru
-  upper Coaste (Grilaj Costal)
-- Eighth through twelfth Coaste (Grilaj Costal) vizibil below cupole diafragmatice
-  pentru lower Coaste (Grilaj Costal)
-- Coaste (Grilaj Costal) vizibil through plămânii sau Abdomen according la region
-  examined
-- Bony detalii trabeculare osoase și surrounding soft tissues
+- 'Criterii radiologice de calitate a imaginii:'
+- Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în
+  afara structurilor anatomice de interes
+- Distanța dintre coloana vertebrală și marginea laterală a coastelor de pe partea
+  afectată este de aproximativ două ori mai mare decât cea prezentă pe partea neafectată.
+- Porțiunea axilară a coastelor (grilajului costal) liberă de suprapunerea cu coloana
+  toracală
+- Coastele de la prima până la a zecea vizibile deasupra cupolelor diafragmatice pentru
+  coastele superioare
+- Coastele de la a opta până la a douăsprezecea vizibile sub cupolele diafragmatice
+  pentru coastele inferioare
+- Coastele (grilajul costal) vizibile prin plămâni sau abdomen, în funcție de regiunea
+  examinată.
+- Detalii trabeculare osoase și țesuturile moi înconjurătoare
 sid_dff: Nespecificat în fragmentul extras; de verificat în sursă
 slug: rx-axillary-coaste-grilaj-costal-ap-incidenta-oblica-rpo-or-lpo-position-p819-merrill
 source_pages:
@@ -60,75 +68,74 @@ source_pages:
 - 820
 - 821
 source_sections:
-  anatomy: 'axillary portion de coaste cel mai apropiat de receptorul de imagine este
-    projected liber de superimposition cu thoracic coloană vertebrală (Fig. 10.39).
-    posterior coaste closest
-
-    la receptorul de imagine sunt also well vizualizat.'
+  anatomy: Porțiunea axilară a coastelor cea mai apropiată de receptorul de imagine
+    este proiectată liber, fără suprapunere cu coloana vertebrală toracică (Fig. 10.39).
+    Coastele posterioare cele mai apropiate de receptorul de imagine sunt, de asemenea,
+    bine vizualizate.
   collimation: • Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-  cr: '• perpendicular pe center de receptorul de imagine
+  cr: '• Perpendicular pe centrul receptorului de imagine.
 
-    • Closest la receptorul de imagine'
-  criteria: 'Criterii radiologice de calitate imaginii:
+    • Cel mai apropiat de receptorul de imagine [fragment incomplet în sursă].'
+  criteria: 'Criterii radiologice de calitate a imaginii:
 
-    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat
-    clear de anatomy de interest
+    • Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S), plasat
+    clar față de anatomia de interes
 
-    • Approximately twice ca much distance între coloană vertebrală și lateral margine
-    de coaste pe afected side ca este present
+    • Distanța dintre coloana vertebrală și marginea laterală a coastelor de pe partea
+    afectată este de aproximativ două ori mai mare decât cea prezentă pe partea neafectată
 
-    pe unafected side
+    • Porțiunea axilară a coastelor este liberă de suprapunerea cu coloana vertebrală
+    toracică
 
-    • Axillary portion de coaste liber de superimposition cu thoracic coloană vertebrală
+    • Coastele întâi până la a zecea vizibile deasupra cupolelor diafragmatice pentru
+    coastele superioare
 
-    • First through tenth coaste vizibil above cupole diafragmatice pentru coaste
-    superioare
+    • Coastele a opta până la a douăsprezecea vizibile sub cupolele diafragmatice
+    pentru coastele inferioare
 
-    • Eighth through twelfth coaste vizibil below cupole diafragmatice pentru coaste
-    inferioare
+    • Coaste vizibile prin plămâni sau abdomen, în funcție de regiunea examinată
 
-    • coaste vizibil through plămânii sau abdomen according la region examined
+    • Detalii trabeculare osoase și țesuturi moi înconjurătoare'
+  part_pos: '• Poziționați corpul pacientului pentru o incidență oblică AP la 45 de
+    grade, utilizând RPO sau poziția oblică posterioară stângă (OPS / LPO). Plasați
+    partea afectată cel mai aproape de receptorul de imagine.
 
-    • Bony detalii trabeculare osoase și surrounding soft tissues'
-  part_pos: '• se poziționează pacientul’s corp pentru a 45-grade AP oblic incidență
-    using RPO sau poziție oblică posterioară stângă (OPS / LPO). Place aﬀected side
-    cel mai apropiat de
+    • Centrați partea afectată pe planul longitudinal trasat la jumătatea distanței
+    dintre MSP și suprafața laterală a corpului.
 
-    receptorul de imagine.
+    • Poziționați acest plan pe linia mediană a grilei.
 
-    • se centrează afected side pe longitudinal plane drawn midway între MSP și lateral
-    surface de corp.
+    • Dacă pacientul este în decubit, susțineți șoldul ridicat.
 
-    • poziție this plane la linia mediană grilă.
+    • Abduceți brațul de partea afectată și ridicați-l pentru a îndepărta scapula
+    de cutia toracică.
 
-    • If pacientul este în recumbent poziție, support ridicat hip.
+    • Sprijiniți mâna pacientului pe cap dacă se utilizează ortostatismul (Fig. 10.37)
+    sau plasați mâna sub sau deasupra capului dacă se utilizează decubitul (Fig. 10.38).
 
-    • Abduct braț de afected side, și elevate it la carry scapula away de la rib cage.
+    • Abduceți membrul opus, cu mâna pe șold.
 
-    • se sprijină pacientul’s mână pe capul if ortostatism este used (Fig. 10.37),
-    sau place mână under sau above capul if recumbent poziție este used (Fig. 10.38).
+    • Centrați receptorul de imagine cu partea superioară la 1½ țoli (3.8 cm) deasupra
+    marginii superioare a umărului relaxat pentru imaginea coastelor deasupra cupolelor
+    diafragmatice sau la punctul situat la jumătatea distanței dintre apendicele xifoid
+    și marginea inferioară a coastelor pentru imaginea coastelor sub cupolele diafragmatice.
 
-    • Abduct opposite limb cu mână pe hip.
+    • Efectuați ecranarea gonadelor cu șorț plumbat.'
+  patient_pos: '• Examinați pacientul în ortostatism sau în decubit.
 
-    • se centrează receptorul de imagine cu top 1½ inches (3.8 cm) above upper margine
-    de relaxat umăr la imagine coaste above cupole diafragmatice sau la point halfway
-    între apendice xifoid și lower rib margin la imagine coaste below cupole diafragmatice.
+    • Dacă nu este contraindicat de starea pacientului, utilizați ortostatismul pentru
+    imaginea coastelor deasupra cupolelor diafragmatice și decubitul pentru imaginea
+    coastelor sub cupolele diafragmatice. Gravitația ajută la deplasarea cupolelor
+    diafragmatice.'
+  respiration: Apnee la sfârșitul inspirului profund complet pentru coastele deasupra
+    cupolelor diafragmatice și la sfârșitul expirului profund pentru coastele de sub
+    cupolele diafragmatice.
+  tech: 'Poziționat conform indicațiilor producătorului sau protocolului departamentului
+    pentru orientarea corectă a afișării structurilor anatomice; raza centrală, placă:
+    14 × 17 țoli (35 ×
 
-    • se efectuează ecranarea gonadelor cu șorț plumbat.'
-  patient_pos: '• Examine pacientul în ortostatism sau recumbent poziție.
-
-    • Unless contraindicated prin pacientul’s condition, use ortostatism la imagine
-    coaste above cupole diafragmatice, și use recumbent
-
-    poziție la imagine coaste below cupole diafragmatice. Gravity assists prin moving
-    cupole diafragmatice.'
-  respiration: Apnee la sfârșitul inspirului profund complet pentru coaste above cupole
-    diafragmatice și la end de deep expiration pentru coaste below cupole diafragmatice.
-  tech: 'poziționat prin manufacturer sau department protocol pentru corect anatomy
-    display orientation; raza centrală plate: 14 × 17 inches (35 ×
-
-    43 cm) longitudinal.'
+    43 cm), longitudinal.'
 sources:
 - title: Merrill’s Atlas, 10. Bony Thorax, pagini 819–821
   url: https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ
@@ -136,10 +143,10 @@ status: draft
 tech_params:
   collimation: Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator.
     Se plasează markerul de lateralitate în câmpul colimat.
-title: Rx Grilaj Costal Axilar — Oblică Antero-Posterioară (AP) — RPO or Oblică Posterioară
-  Stângă (OPS / LPO) (Merrill)
+title: Radiografie a grilajului costal axilar — incidență oblică antero-posterioară
+  (AP) — RPO sau oblică posterioară stângă (OPS / LPO) (Merrill)
 ---
-# Rx Grilaj Costal Axilar — Oblică Antero-Posterioară (AP) — RPO or Oblică Posterioară Stângă (OPS / LPO) (Merrill)
+# Radiografie a grilajului costal axilar — incidență oblică antero-posterioară (AP) — RPO sau oblică posterioară stângă (OPS / LPO) (Merrill)
 
 
 <div class="rx-meta-bar">
@@ -163,19 +170,20 @@ title: Rx Grilaj Costal Axilar — Oblică Antero-Posterioară (AP) — RPO or O
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Examine pacientul în ortostatism sau Decubit poziție. Unless contraindicated prin pacientul’s condition, use ortostatism la imagine Coaste (Grilaj Costal) above cupole diafragmatice, și use Decubit poziție la imagine Coaste (Grilaj Costal) below cupole diafragmatice. Gravity assists prin moving cupole diafragmatice.; se poziționează pacientul’s corp pentru a 45-grade AP Incidență Oblică using RPO sau poziție oblică posterioară stângă (OPS / LPO). Place aﬀected side cel mai apropiat de receptorul de imagine. se centrează afected side pe longitudinal plane drawn midway între MSP și lateral surface de corp. poziție this plane la linia mediană grilă. If pacientul este în Decubit poziție, support ridicat Șold. Abduct braț de afected side, și elevate it la carry Omoplat (Scapulă) away de la rib cage. se sprijină pacientul’s Mână pe capul if ortostatism este used (Fig. 10.37), sau place Mână under sau above capul if Decubit poziție este used (Fig. 10.38). Abduct opposite limb cu Mână pe Șold. se centrează receptorul de imagine cu top 1½ inches (3.8 cm) above upper margine de relaxat Umăr la imagine Coaste (Grilaj Costal) above cupole diafragmatice sau la point halfway între apendice xifoid și lower rib margin la imagine Coaste (Grilaj Costal) below cupole diafragmatice. se efectuează ecranarea gonadelor cu șorț plumbat.
-    - **Punct de Centrare Fascicul:** perpendicular pe center de receptorul de imagine Closest la receptorul de imagine
+    - **Poziție Pacient:** Examinați pacientul în ortostatism sau în decubit. Dacă nu este contraindicat de starea pacientului, utilizați ortostatismul pentru imaginea coastelor (grilajului costal) deasupra cupolelor diafragmatice și decubitul pentru imaginea coastelor (grilajului costal) sub cupolele diafragmatice. Gravitația ajută la deplasarea cupolelor diafragmatice.; poziționați corpul pacientului pentru o incidență oblică AP la 45 de grade, utilizând RPO sau poziția oblică posterioară stângă (OPS / LPO). Plasați partea afectată cel mai aproape de receptorul de imagine. Centrați partea afectată pe planul longitudinal trasat la jumătatea distanței dintre MSP și suprafața laterală a corpului. Poziționați acest plan pe linia mediană a grilei. Dacă pacientul este în decubit, susțineți șoldul ridicat. Abduceți brațul de partea afectată și ridicați-l pentru a îndepărta omoplatul (scapula) de cutia toracică. Sprijiniți mâna pacientului pe cap dacă se utilizează ortostatismul (Fig. 10.37) sau plasați mâna sub sau deasupra capului dacă se utilizează decubitul (Fig. 10.38). Abduceți membrul opus, cu mâna pe șold. Centrați receptorul de imagine cu partea superioară la 1½ țoli (3.8 cm) deasupra marginii superioare a umărului relaxat pentru imaginea coastelor (grilajului costal) deasupra cupolelor diafragmatice sau la punctul situat la jumătatea distanței dintre apendicele xifoid și marginea inferioară a coastelor pentru imaginea coastelor (grilajului costal) sub cupolele diafragmatice. Efectuați ecranarea gonadelor cu șorț plumbat.
+    - **Punct de Centrare Fascicul:** Perpendicular pe centrul receptorului de imagine. Cel mai apropiat de receptorul de imagine [fragment incomplet în sursă].
     - **Distanță Focar-Film (DFF / SID):** Nespecificat în fragmentul extras; de verificat în sursă
-    - **Comandă Respiratorie:** Apnee la sfârșitul inspirului profund complet pentru Coaste (Grilaj Costal) above cupole diafragmatice și la end de deep expiration pentru Coaste (Grilaj Costal) below cupole diafragmatice.
+    - **Comandă Respiratorie:** Apnee la sfârșitul inspirului profund complet pentru coaste (grilaj costal) deasupra cupolelor diafragmatice și la sfârșitul expirului profund pentru coaste (grilaj costal) sub cupolele diafragmatice.
 
 -   __3. Parametri Tehnici Expunere__
 
@@ -196,14 +204,14 @@ title: Rx Grilaj Costal Axilar — Oblică Antero-Posterioară (AP) — RPO or O
 
     ---
 
-    - Criterii radiologice de calitate imaginii:
-    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-    - Approximately twice ca much distance între coloană vertebrală și lateral margine de Coaste (Grilaj Costal) pe afected side ca este present pe unafected side
-    - Axillary portion de Coaste (Grilaj Costal) liber de superimposition cu Coloană Toracală
-    - First through tenth Coaste (Grilaj Costal) vizibil above cupole diafragmatice pentru upper Coaste (Grilaj Costal)
-    - Eighth through twelfth Coaste (Grilaj Costal) vizibil below cupole diafragmatice pentru lower Coaste (Grilaj Costal)
-    - Coaste (Grilaj Costal) vizibil through plămânii sau Abdomen according la region examined
-    - Bony detalii trabeculare osoase și surrounding soft tissues
+    - Criterii radiologice de calitate a imaginii:
+    - Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat în afara structurilor anatomice de interes
+    - Distanța dintre coloana vertebrală și marginea laterală a coastelor de pe partea afectată este de aproximativ două ori mai mare decât cea prezentă pe partea neafectată.
+    - Porțiunea axilară a coastelor (grilajului costal) liberă de suprapunerea cu coloana toracală
+    - Coastele de la prima până la a zecea vizibile deasupra cupolelor diafragmatice pentru coastele superioare
+    - Coastele de la a opta până la a douăsprezecea vizibile sub cupolele diafragmatice pentru coastele inferioare
+    - Coastele (grilajul costal) vizibile prin plămâni sau abdomen, în funcție de regiunea examinată.
+    - Detalii trabeculare osoase și țesuturile moi înconjurătoare
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -212,6 +220,7 @@ title: Rx Grilaj Costal Axilar — Oblică Antero-Posterioară (AP) — RPO or O
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Conform reperelor anatomice standard din tratat
@@ -259,60 +268,3 @@ title: Rx Grilaj Costal Axilar — Oblică Antero-Posterioară (AP) — RPO or O
 ## Surse de documentare
 
 - [Merrill’s Atlas, 10. Bony Thorax, pagini 819–821](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### anatomy
-
-axillary portion de coaste cel mai apropiat de receptorul de imagine este projected liber de superimposition cu thoracic coloană vertebrală (Fig. 10.39). posterior coaste closest
-la receptorul de imagine sunt also well vizualizat.
-
-### collimation
-
-• Se ajustează câmpul de iradiere la formatul 35 × 43 cm pe colimator. Se plasează markerul de lateralitate în câmpul colimat.
-
-### cr
-
-• perpendicular pe center de receptorul de imagine
-• Closest la receptorul de imagine
-
-### criteria
-
-Criterii radiologice de calitate imaginii:
-• Colimare adecvată vizibilă și prezența markerului de lateralitate (D/S) plasat clear de anatomy de interest
-• Approximately twice ca much distance între coloană vertebrală și lateral margine de coaste pe afected side ca este present
-pe unafected side
-• Axillary portion de coaste liber de superimposition cu thoracic coloană vertebrală
-• First through tenth coaste vizibil above cupole diafragmatice pentru coaste superioare
-• Eighth through twelfth coaste vizibil below cupole diafragmatice pentru coaste inferioare
-• coaste vizibil through plămânii sau abdomen according la region examined
-• Bony detalii trabeculare osoase și surrounding soft tissues
-
-### part_pos
-
-• se poziționează pacientul’s corp pentru a 45-grade AP oblic incidență using RPO sau poziție oblică posterioară stângă (OPS / LPO). Place aﬀected side cel mai apropiat de
-receptorul de imagine.
-• se centrează afected side pe longitudinal plane drawn midway între MSP și lateral surface de corp.
-• poziție this plane la linia mediană grilă.
-• If pacientul este în recumbent poziție, support ridicat hip.
-• Abduct braț de afected side, și elevate it la carry scapula away de la rib cage.
-• se sprijină pacientul’s mână pe capul if ortostatism este used (Fig. 10.37), sau place mână under sau above capul if recumbent poziție este used (Fig. 10.38).
-• Abduct opposite limb cu mână pe hip.
-• se centrează receptorul de imagine cu top 1½ inches (3.8 cm) above upper margine de relaxat umăr la imagine coaste above cupole diafragmatice sau la point halfway între apendice xifoid și lower rib margin la imagine coaste below cupole diafragmatice.
-• se efectuează ecranarea gonadelor cu șorț plumbat.
-
-### patient_pos
-
-• Examine pacientul în ortostatism sau recumbent poziție.
-• Unless contraindicated prin pacientul’s condition, use ortostatism la imagine coaste above cupole diafragmatice, și use recumbent
-poziție la imagine coaste below cupole diafragmatice. Gravity assists prin moving cupole diafragmatice.
-
-### respiration
-
-Apnee la sfârșitul inspirului profund complet pentru coaste above cupole diafragmatice și la end de deep expiration pentru coaste below cupole diafragmatice.
-
-### tech
-
-poziționat prin manufacturer sau department protocol pentru corect anatomy display orientation; raza centrală plate: 14 × 17 inches (35 ×
-43 cm) longitudinal.
-

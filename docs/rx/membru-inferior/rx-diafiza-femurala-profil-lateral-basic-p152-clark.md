@@ -3,50 +3,56 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: membru-inferior
-centering: • Centre la middle de caseta, cu fascicul orizontal.
+centering: • Centrați pe mijlocul casetei, cu fascicul orizontal.
 clinical_indications:
-- 137 4 Diafiză Femurală Profil (lateral) – basic
+- 137 4 Diafiză femurală — profil — de bază
 images:
-- caption: gross injury și suspected suspiciune de fractură.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: leziune severă și suspiciune de fractură.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_1.jpeg
-- caption: ca it poate obscure injury. în subsequent follow-up radiografii,
+- caption: deoarece poate ascunde leziunea. La radiografiile de urmărire ulterioare,
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_2.jpeg
-- caption: Profil (lateral) radiografie de Femur, Șold down,
+- caption: Radiografie a femurului, în incidență de profil, cu șoldul în jos,
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_3.jpeg
-- caption: evidențiind prosthetic Șold
+- caption: evidențiind o proteză de șold
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_4.jpeg
-- caption: Profil (lateral) radiografie de Femur,
+- caption: Radiografie a femurului, în incidență de profil,
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_5.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru inferior
+  radiation_dose: Clasa 1 (Minimă < 0.05 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: If injury involves only lower two-thirds de Femur, then place caseta vertically
-  pe / sprijinit de medial aspect de thigh, directing fascicul de la Profil (lateral)
-  aspect de limb la middle de caseta.
-position: '• pacientul remains pe trolley/bed. If possible, membru inferior poate
-  fie slightly rotit la centralize Rotulă (Patelă) între femoral condyles.
+notes: Dacă leziunea implică numai cele două treimi inferioare ale femurului, plasați
+  caseta vertical, pe/sprijinită de aspectul medial al coapsei, orientând fasciculul
+  de la aspectul lateral al membrului spre mijlocul casetei.
+position: '• Pacientul rămâne pe targa/patul mobil. Dacă este posibil, membrul inferior
+  poate fi ușor rotit pentru a centra rotula între condilii femurali.
 
-  • caseta este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de
-  thigh, cu lower margine de caseta level cu upper margine de tibial condyle.
+  • Caseta este sprijinită vertical pe/la aspectul lateral al coapsei, cu marginea
+  inferioară a casetei la nivelul marginii superioare a condilului tibial.
 
-  • unaffected limb este raised above injured limb, cu Genunchi flectat și lower membru
-  inferior sprijinit pe stool sau specialized support.'
+  • Membrul neafectat este ridicat deasupra membrului lezat, cu genunchiul flectat
+  și membrul inferior sprijinit pe un taburet sau pe un suport specializat.'
 protection:
-- In all cases, the beam must be well collimated.
-- Gonad protection must be applied in all non-trauma cases, as extra-focal radiation
-  and scattered radiation will irradiate the gonads if not protected.
-- In trauma cases, gonad protection is not used in the first instance as it may obscure
-  injury. In subsequent follow-up radiographs, gonad protection must be used. Fascicul
-  Orizontal Profil (Lateral) radiograph of Femur, Șold down, showing prosthetic Șold
-  Profil (Lateral) radiograph of Femur, Genunchi up, showing an area of myositis ossificans
+- În toate cazurile, fasciculul trebuie colimat corespunzător.
+- Protecția gonadelor trebuie aplicată în toate cazurile nontraumatice, deoarece radiația
+  extrafocală și radiația împrăștiată vor iradia gonadele dacă acestea nu sunt protejate.
+- În cazurile traumatice, protecția gonadelor nu se utilizează inițial, deoarece poate
+  ascunde leziunea. La radiografiile de urmărire ulterioare, protecția gonadelor trebuie
+  utilizată. Radiografie cu fascicul orizontal, în incidență de profil, a femurului,
+  cu șoldul în jos, evidențiind o proteză de șold. Radiografie a femurului, în incidență
+  de profil, cu genunchiul în sus, evidențiind o zonă de miosită osificantă.
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
 - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei
@@ -54,7 +60,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Diafiză Femurală).
+- Vizualizarea clară a întregii arii anatomice (diafiza femurală).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -64,16 +70,16 @@ sources:
 - title: Clark's Positioning in Radiography (Ed. 12), Pagina 152
   url: https://books.google.com/books/about/Clark_s_Positioning_in_Radiography.html?id=Xxu6MwEACAAJ
 tech_params:
-  aec_chambers: Camerele laterale (sau camera centrală funcție de regiune)
+  aec_chambers: Camerele laterale (sau camera centrală, în funcție de regiune)
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Cu grilă antidifuzoare Bucky
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Diafiză Femurală Profil (Lateral) - basic
+  mas: Conform AEC / grosimii anatomice
+title: Rx diafiză femurală — profil — de bază
 ---
-# Rx Diafiză Femurală Profil (Lateral) - basic
+# Rx diafiză femurală — profil — de bază
 
 
 <div class="rx-meta-bar">
@@ -92,24 +98,26 @@ title: Rx Diafiză Femurală Profil (Lateral) - basic
 
     === "Indicații Clinice"
 
-        - 137 4 Diafiză Femurală Profil (lateral) – basic
+        - 137 4 Diafiză femurală — profil — de bază
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru inferior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.05 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul remains pe trolley/bed. If possible, membru inferior poate fie slightly rotit la centralize Rotulă (Patelă) între femoral condyles.
-• caseta este sprijinit vertically pe / sprijinit de Profil (lateral) aspect de thigh, cu lower margine de caseta level cu upper margine de tibial condyle.
-• unaffected limb este raised above injured limb, cu Genunchi flectat și lower membru inferior sprijinit pe stool sau specialized support.
-    - **Punct de Centrare Fascicul:** • Centre la middle de caseta, cu fascicul orizontal.
+    - **Poziție Pacient:**
+        - Pacientul rămâne pe targa/patul mobil. Dacă este posibil, membrul inferior poate fi ușor rotit pentru a centra rotula între condilii femurali.
+        - Caseta este sprijinită vertical pe/la aspectul lateral al coapsei, cu marginea inferioară a casetei la nivelul marginii superioare a condilului tibial.
+        - Membrul neafectat este ridicat deasupra membrului lezat, cu genunchiul flectat și membrul inferior sprijinit pe un taburet sau pe un suport specializat.
+    - **Punct de Centrare Fascicul:** • Centrați pe mijlocul casetei, cu fascicul orizontal.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -120,19 +128,19 @@ title: Rx Diafiză Femurală Profil (Lateral) - basic
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
-    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală funcție de regiune) |
+    | **Camere de Ionizare AEC** | Camerele laterale (sau camera centrală, în funcție de regiune) |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Diafiză Femurală).
+    - Vizualizarea clară a întregii arii anatomice (diafiza femurală).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -140,17 +148,18 @@ title: Rx Diafiză Femurală Profil (Lateral) - basic
 
     ---
 
-    - In all cases, the beam must be well collimated.
-    - Gonad protection must be applied in all non-trauma cases, as extra-focal radiation and scattered radiation will irradiate the gonads if not protected.
-    - In trauma cases, gonad protection is not used in the first instance as it may obscure injury. In subsequent follow-up radiographs, gonad protection must be used. Fascicul Orizontal Profil (Lateral) radiograph of Femur, Șold down, showing prosthetic Șold Profil (Lateral) radiograph of Femur, Genunchi up, showing an area of myositis ossificans
+    - În toate cazurile, fasciculul trebuie colimat corespunzător.
+    - Protecția gonadelor trebuie aplicată în toate cazurile nontraumatice, deoarece radiația extrafocală și radiația împrăștiată vor iradia gonadele dacă acestea nu sunt protejate.
+    - În cazurile traumatice, protecția gonadelor nu se utilizează inițial, deoarece poate ascunde leziunea. La radiografiile de urmărire ulterioare, protecția gonadelor trebuie utilizată. Radiografie cu fascicul orizontal, în incidență de profil, a femurului, cu șoldul în jos, evidențiind o proteză de șold. Radiografie a femurului, în incidență de profil, cu genunchiul în sus, evidențiind o zonă de miosită osificantă.
     - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului util (regula ALARA).
     - Colimare precisă la dimensiunea anatomică strict necesară pentru reducerea dozei și a radiației difuze.
     - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de expunere.
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    If injury involves only lower two-thirds de Femur, then place caseta vertically pe / sprijinit de medial aspect de thigh, directing fascicul de la Profil (lateral) aspect de limb la middle de caseta.
+    Dacă leziunea implică numai cele două treimi inferioare ale femurului, plasați caseta vertical, pe/sprijinită de aspectul medial al coapsei, orientând fasciculul de la aspectul lateral al membrului spre mijlocul casetei.
 
 
 ### 🖼️ Imagini
@@ -159,41 +168,41 @@ title: Rx Diafiză Femurală Profil (Lateral) - basic
 
 <figure class="protocol-image-card" markdown>
 
-![gross injury și suspected suspiciune de fractură.](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_1.jpeg)
+![leziune severă și suspiciune de fractură.](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_1.jpeg)
 
-<figcaption><strong>gross injury și suspected suspiciune de fractură.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![ca it poate obscure injury. în subsequent follow-up radiografii,](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_2.jpeg)
-
-<figcaption><strong>ca it poate obscure injury. în subsequent follow-up radiografii,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>leziune severă și suspiciune de fractură.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Femur, Șold down,](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_3.jpeg)
+![deoarece poate ascunde leziunea. La radiografiile de urmărire ulterioare,](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_2.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Femur, Șold down,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![evidențiind prosthetic Șold](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_4.jpeg)
-
-<figcaption><strong>evidențiind prosthetic Șold</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>deoarece poate ascunde leziunea. La radiografiile de urmărire ulterioare,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Profil (lateral) radiografie de Femur,](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_5.jpeg)
+![Radiografie a femurului, în incidență de profil, cu șoldul în jos,](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_3.jpeg)
 
-<figcaption><strong>Profil (lateral) radiografie de Femur,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>Radiografie a femurului, în incidență de profil, cu șoldul în jos,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![evidențiind o proteză de șold](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_4.jpeg)
+
+<figcaption><strong>evidențiind o proteză de șold</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Radiografie a femurului, în incidență de profil,](../../assets/images/protocols/clark/rx-diafiza-femurala-profil-lateral-basic-p152-clark/fig_5.jpeg)
+
+<figcaption><strong>Radiografie a femurului, în incidență de profil,</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 

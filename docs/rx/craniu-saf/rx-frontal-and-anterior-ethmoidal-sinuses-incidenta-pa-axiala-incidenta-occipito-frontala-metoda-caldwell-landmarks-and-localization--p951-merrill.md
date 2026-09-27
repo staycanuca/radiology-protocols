@@ -22,6 +22,10 @@ images:
 - caption: Merrill — pagina 952, imaginea 2
   description: Imagine din fragmentul sursă; asocierea necesită revizie.
   url: ../../assets/images/protocols/merrill/rx-frontal-and-anterior-ethmoidal-sinuses-incidenta-pa-axiala-incidenta-occipito-frontala-metoda-caldwell-landmarks-and-localization--p951-merrill/p952_fig2.png
+iris_reference:
+  chapter: Cap — ORL
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad B
 last_updated: '2026-09-16'
 modality: rx
 notes: Tehnica cu grilă înclinată este preferată deoarece aduce receptorul de imagine
@@ -129,11 +133,12 @@ title: Radiografia sinusurilor frontale și etmoidale anterioare — Incidență
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Cap — ORL*
+            - **Grad de Recomandare:** **Grad B**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -171,6 +176,7 @@ title: Radiografia sinusurilor frontale și etmoidale anterioare — Incidență
     - Nespecificat în fragmentul extras; de verificat în sursă
 
 </div>
+
 
 !!! note "Observații Clinice & Tehnice"
     Tehnica cu grilă înclinată este preferată deoarece aduce receptorul de imagine mai aproape de sinusuri, crescând rezoluția. Înclinarea dispozitivului cu grilă asigură o poziție naturală pentru plasarea nasului și frunții pacientului.
@@ -210,44 +216,3 @@ title: Radiografia sinusurilor frontale și etmoidale anterioare — Incidență
 ## Surse de documentare
 
 - [Merrill’s Atlas, 11. Cranium, pagini 951–952](https://books.google.com/books/about/Merrill_s_Atlas_of_Radiographic_Position.html?id=BM0lEQAAQBAJ)
-
-## Fragmente sursă traduse (referință tehnică)
-
-### raza centrală
-
-• orientată orizontal spre ieșirea nazionului. Relația de 15 grade dintre raza centrală și linia orbitomeatală (LOM) rămâne aceeași pentru ambele tehnici.
-• Se centrează receptorul de imagine pe raza centrală.
-
-### note
-
-Tehnica cu grilă înclinată este preferată deoarece aduce receptorul de imagine mai aproape de sinusuri, crescând rezoluția. Înclinarea dispozitivului cu grilă asigură o poziție naturală pentru plasarea nasului și frunții pacientului.
-
-### part_pos
-
-Tehnica cu grilă înclinată
-• Înainte de poziționarea pacientului, se înclină în jos stativul vertical Bucky astfel încât să se obțină un unghi de 15 grade (Fig. 11.171A).
-• se sprijină nasul și fruntea pacientului pe stativul vertical Bucky și se centrează nazionul la receptorul de imagine.
-• se ajustează MSP și linia orbitomeatală (LOM) ale capului pacientului perpendicular pe planul receptorului de imagine.
-• Această poziționare plasează linia orbitomeatală (LOM) perpendicular pe receptorul de imagine înclinat și la 15 grade față de raza centrală orizontală.
-• Se imobilizează capul pacientului.
-
-### patient_pos
-
-• se așază pacientul pe scaun, cu fața spre stativul vertical Bucky.
-• Se centrează MSP al corpului pacientului pe linia mediană a grilei.
-
-### respirație
-
-apnee (oprirea respirației).
-Tehnica cu grilă verticală
-• Când stativul vertical Bucky nu poate fi înclinat, se extinde ușor gâtul pacientului, se sprijină vârful nasului pe dispozitivul cu grilă și se centrează nazionul la receptorul de imagine.
-• se poziționează capul pacientului astfel încât linia orbitomeatală (LOM) să formeze un unghi de 15 grade cu raza centrală orizontală. Pentru susținere, se plasează un burete radiotransparent între frunte și dispozitivul cu grilă (a se vedea Fig. 11.171B și 11.172).
-• se ajustează MSP al capului pacientului perpendicular pe planul receptorului de imagine.
-• Se imobilizează capul pacientului.
-Apnee (oprirea respirației).
-
-### tehnică
-
-poziționat conform indicațiilor producătorului sau protocolului departamentului pentru orientarea corectă a afișării anatomiei; placa razei centrale: 10 × 12 țoli (24
-× 30 cm), longitudinal.
-

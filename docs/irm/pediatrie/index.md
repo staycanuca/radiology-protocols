@@ -1,6 +1,19 @@
-# Protocoale IRM Pediatrică (WFPI)
+---
+title: Protocoale IRM Pediatrică (WFPI & OHSU)
+---
 
-Ghid clinic și tehnic de protocoale de **Rezonanță Magnetică (IRM) Pediatrică**, standardizate la nivel internațional de către **World Federation of Pediatric Imaging (WFPI)** și comitetul condus de Dr. Michael Gee (*Pediatric Radiology*, 2024).
+# Protocoale IRM Pediatrică (WFPI & OHSU)
+
+Ghid clinic și tehnic de protocoale de **Rezonanță Magnetică (IRM) Pediatrică**, standardizate la nivel internațional de către **World Federation of Pediatric Imaging (WFPI)** și comitetul condus de Dr. Michael Gee (*Pediatric Radiology*, 2024), completate cu protocoalele clinice de referință ale OHSU Doernbecher Children's Hospital.
+
+<div class="hero-buttons" style="margin-bottom: 24px; display: flex; flex-wrap: wrap; gap: 12px;">
+  <a href="../" class="hero-btn primary" style="background: #1a237e;">
+    🧲 Toate Protocoalele IRM ➔
+  </a>
+  <a href="../../iris/" class="hero-btn secondary" style="border-color: #1565c0; color: #1565c0;">
+    🏛️ Justificare Clinică Ghid IRIS
+  </a>
+</div>
 
 !!! info "Standarde Internaționale WFPI"
     Aceste protocoale au fost optimizate pentru a:
@@ -11,7 +24,7 @@ Ghid clinic și tehnic de protocoale de **Rezonanță Magnetică (IRM) Pediatric
 
 ---
 
-## Catalog Protocoale IRM Pediatrice
+## Catalog Protocoale IRM Pediatrice (9 disponibile)
 
 <div class="grid cards" markdown>
 
@@ -20,6 +33,7 @@ Ghid clinic și tehnic de protocoale de **Rezonanță Magnetică (IRM) Pediatric
     ---
 
     - [RM Cerebral Rapid (Rapid Brain — ~10 min)](irm-pediatric-rapid-brain.md)
+    - [RM Cerebral Pediatric cu/fără Contrast (Protocol OHSU)](irm-pediatric-brain-wwo-ohsu.md)
     - [RM Convulsii & Epilepsie (Seizure Brain)](irm-pediatric-epilepsie-convulsii.md)
     - [RM Hidrocefalie & Control Șunt / Ventriculi (3-5 min)](irm-pediatric-hidrocefalie-control-ventriculi.md)
     - [RM Tumori & Infecții Cerebrale (20-30 min)](irm-pediatric-tumori-infectii-cerebrale.md)
@@ -40,3 +54,11 @@ Ghid clinic și tehnic de protocoale de **Rezonanță Magnetică (IRM) Pediatric
 ### Referințe & Colaborare Internațională
 - **Portal Oficial WFPI:** [wfpiweb.org/Resources/Modalities/MRIProtocols.aspx](https://wfpiweb.org/Resources/Modalities/MRIProtocols.aspx){ target="_blank" rel="noopener" }
 - **Articol Standard:** *International standardization of pediatric magnetic resonance imaging protocols: creation of the World Federation of Pediatric Imaging MR Protocols Committee* (Ferraciolli SF, Boechat MI, Gee MS et al. — *Pediatric Radiology*, 2024. [DOI: 10.1007/s00247-024-06041-0](https://doi.org/10.1007/s00247-024-06041-0){ target="_blank" rel="noopener" })
+
+<!-- mcb-mri:start -->
+## Protocoale MCB Radiology
+
+[Catalogul complet MCB](../mcb/index.md)
+
+- [Abdomen la pacientul pediatric](irm-abdomen-la-pacientul-pediatric-mcb.md)
+<!-- mcb-mri:end -->

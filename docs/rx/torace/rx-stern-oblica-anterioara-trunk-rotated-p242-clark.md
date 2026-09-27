@@ -51,6 +51,10 @@ images:
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-stern-oblica-anterioara-trunk-rotated-p242-clark/fig_5.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
 notes: 'Pacientului i se permite să respire superficial în timpul expunerii de câteva
@@ -142,27 +146,30 @@ title: Rx stern oblică anterioară – trunchiul rotit
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • Inițial, pacientul stă în șezut sau în picioare cu fața spre stativul vertical Bucky, ori în decubit ventral pe masa radiologică, cu planul mediosagital perpendicular pe casetă și centrat la aceasta.
-• Pacientul este apoi rotit cu aproximativ 20–30 de grade, ridicând partea dreaptă pentru a adopta poziția oblică anterioară stângă, astfel încât o porțiune mai mică din umbra cordului și siluetei cardiovasculare să acopere sternul.
-• Pacientul este susținut în poziție cu perne radiotransparente și, dacă este posibil, cu o bandă de imobilizare.
-• Caseta este centrată la nivelul celei de-a cincea vertebre toracice.
-• Pacientul stă în șezut sau în picioare, cu oricare dintre umeri sprijinit de stativul vertical Bucky sau de suportul casetei.
-• Planul mediosagital al trunchiului este ajustat paralel cu caseta.
-• Sternul este centrat la casetă sau la Bucky.
-• Mâinile pacientului sunt împreunate la spate, iar umerii sunt trași bine înapoi.
-• Caseta este centrată la un nivel situat la 2.5 cm sub unghiul sternal.
-    - **Punct de Centrare Fascicul:** • Orientați raza centrală perpendicular pe casetă, către un punct situat la 7.5 cm lateral de a cincea vertebră toracică, pe partea cea mai apropiată de tubul de raze X.
-• Orientați raza centrală orizontală către un punct situat la 2.5 cm sub unghiul sternal.
-• Expunerea se efectuează în apnee după un inspir profund complet.
+    - **Poziție Pacient:**
+        - Inițial, pacientul stă în șezut sau în picioare cu fața spre stativul vertical Bucky, ori în decubit ventral pe masa radiologică, cu planul mediosagital perpendicular pe casetă și centrat la aceasta.
+        - Pacientul este apoi rotit cu aproximativ 20–30 de grade, ridicând partea dreaptă pentru a adopta poziția oblică anterioară stângă, astfel încât o porțiune mai mică din umbra cordului și siluetei cardiovasculare să acopere sternul.
+        - Pacientul este susținut în poziție cu perne radiotransparente și, dacă este posibil, cu o bandă de imobilizare.
+        - Caseta este centrată la nivelul celei de-a cincea vertebre toracice.
+        - Pacientul stă în șezut sau în picioare, cu oricare dintre umeri sprijinit de stativul vertical Bucky sau de suportul casetei.
+        - Planul mediosagital al trunchiului este ajustat paralel cu caseta.
+        - Sternul este centrat la casetă sau la Bucky.
+        - Mâinile pacientului sunt împreunate la spate, iar umerii sunt trași bine înapoi.
+        - Caseta este centrată la un nivel situat la 2.5 cm sub unghiul sternal.
+    - **Punct de Centrare Fascicul:**
+        - Orientați raza centrală perpendicular pe casetă, către un punct situat la 7.5 cm lateral de a cincea vertebră toracică, pe partea cea mai apropiată de tubul de raze X.
+        - Orientați raza centrală orizontală către un punct situat la 2.5 cm sub unghiul sternal.
+        - Expunerea se efectuează în apnee după un inspir profund complet.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Expunerea se efectuează în apnee după un inspir profund complet.
 
@@ -199,11 +206,13 @@ title: Rx stern oblică anterioară – trunchiul rotit
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
     Pacientului i se permite să respire superficial în timpul expunerii de câteva secunde, utilizând un mA redus, cu condiția unei imobilizări adecvate. Oblică anterioară dreaptă. Cord și siluetă cardiovasculară. Tub de raze X. Plămân stâng. Plămân drept. Omoplat (scapulă). Coaste (grilaj costal). Stern. 30° Suport. A 5-a, a 6-a TT. A 4-a, a 3-a cc. Casetă. Radiografie oblică postero-anterioară (PA) a sternului, efectuată în timpul respirației superficiale.
-• Imediat înaintea expunerii, pacientului i se cere să tragă umerii înapoi.
-• Dacă pacientul este în ortostatism, picioarele trebuie depărtate pentru stabilitate.
-• Se selectează o FFD de 120 sau 150 cm.
+
+    - Imediat înaintea expunerii, pacientului i se cere să tragă umerii înapoi.
+    - Dacă pacientul este în ortostatism, picioarele trebuie depărtate pentru stabilitate.
+    - Se selectează o FFD de 120 sau 150 cm.
 
 
 ### 🖼️ Imagini

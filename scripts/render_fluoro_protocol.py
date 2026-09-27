@@ -22,6 +22,48 @@ def _bullets(items: list, indent: str = "        ") -> str:
     return ''.join(f'{indent}- {it}\n' for it in items)
 
 
+def _format_notes_section(notes: str) -> str:
+    if not notes or not str(notes).strip():
+        return ""
+    val_str = str(notes).strip()
+    lines = [l.strip() for l in val_str.splitlines()]
+    has_bullets = any(l.startswith("• ") or l.startswith("- ") for l in lines if l)
+
+    out = ['\n!!! note "Observații Clinice, Capcane & Recomandări Practice"\n']
+    if has_bullets:
+        current_bullet = []
+        for l in lines:
+            if not l:
+                if current_bullet:
+                    out.append(f"    - {' '.join(current_bullet)}\n")
+                    current_bullet = []
+                continue
+            if l.startswith("• ") or l.startswith("- "):
+                if current_bullet:
+                    out.append(f"    - {' '.join(current_bullet)}\n")
+                    current_bullet = []
+                current_bullet.append(l[2:].strip())
+            else:
+                if current_bullet:
+                    current_bullet.append(l)
+                else:
+                    out.append(f"    {l}\n\n")
+        if current_bullet:
+            out.append(f"    - {' '.join(current_bullet)}\n")
+    else:
+        current_para = []
+        for l in lines:
+            if not l:
+                if current_para:
+                    out.append(f"    {' '.join(current_para)}\n\n")
+                    current_para = []
+            else:
+                current_para.append(l)
+        if current_para:
+            out.append(f"    {' '.join(current_para)}\n")
+    return "".join(out)
+
+
 def _format_kv(kv: str) -> str:
     s = str(kv).strip() if kv else "75-90 kV"
     if not s.lower().endswith("kv"):
@@ -198,7 +240,8 @@ def render_fluoro_document(fm: dict) -> str:
     === "Contraindicații & Atenționări"
 
 {_bullets(contraindications)}
-{_iris_guide_tab(iris_ref)}-   __2. Pregătire Pacient & Substanță de Contrast__
+{_iris_guide_tab(iris_ref)}
+-   __2. Pregătire Pacient & Substanță de Contrast__
 
     ---
 
@@ -238,7 +281,7 @@ def render_fluoro_document(fm: dict) -> str:
 {_bullets(radiation_safety, indent="    ")}
 </div>
 
-{f'!!! note "Observații Clinice, Capcane & Recomandări Practice"\n    {notes}\n' if notes else ''}{images_section}
+{_format_notes_section(notes)}{images_section}
 === "Ghid Rapid de Execuție & Siguranță Fluoroscopică"
 
     1. **Pregătire și Informare:** Verificarea identității pacientului, a indicației clinice, a excluderii sarcinii la paciente fertile și informarea privind substanța de contrast.

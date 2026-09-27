@@ -2,54 +2,61 @@
 author: Departamentul de Radiologie / Referință Bontrager
 breathing: Apnee pe durata expunerii (sau conform cooperării pacientului)
 category: membru-superior
-centering: înclinat 45° de la Umăr, into midelbow articulație (Figs. 4.147 și 4.149)
+centering: înclinat la 45° de la umăr, spre articulația cotului (Figs. 4.147 și 4.149)
 clinical_indications:
-- suspiciune de fractură și luxație / subluxație articulară de Cot, particularly cap
-  radial (part poziție 1) și proces coronoid (part poziție 2 pentru proces coronoid)
+- Fractură suspectă și luxație/subluxație articulară a cotului, în special a capului
+  radial (parte poziția 1) și a procesului coronoid (parte poziția 2 pentru procesul
+  coronoid)
 images:
-- caption: Fig. 4.146 Ortostatism pentru radial
-  description: Poziționare pacient conform Ghidului Bontrager (Fig. 4.146 în ortostatism
-    pentru radial)
+- caption: Fig. 4.146 Ortostatism pentru procesul radial
+  description: Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.146 în
+    ortostatism pentru procesul radial)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_1.jpeg
-- caption: Fig. 4.148 Decubit dorsal, înclinat 45° pentru
+- caption: Fig. 4.148 Decubit dorsal, înclinat la 45° pentru
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.148
-    în decubit dorsal, înclinat 45° pentru)
+    în decubit dorsal, înclinat la 45° pentru)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_2.jpeg
-- caption: Fig. 4.147 Ortostatism pentru coronoid
+- caption: Fig. 4.147 Ortostatism pentru procesul coronoid
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.147
-    în ortostatism pentru coronoid)
+    în ortostatism pentru procesul coronoid)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_3.jpeg
-- caption: Fig. 4.149 Decubit dorsal, înclinat 45° pentru
+- caption: Fig. 4.149 Decubit dorsal, înclinat la 45° pentru
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.149
-    în decubit dorsal, înclinat 45° pentru)
+    în decubit dorsal, înclinat la 45° pentru)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_4.jpeg
-- caption: Fig. 4.150 pentru cap radial.
+- caption: Fig. 4.150 pentru capul radial.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.150
-    pentru cap radial.)
+    pentru capul radial.)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_5.jpeg
-- caption: Fig. 4.152 axial lateromedial
+- caption: Fig. 4.152 axială latero-medială
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.152
-    axial lateromedial)
+    axială latero-medială)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_6.jpeg
-- caption: Fig. 4.151 pentru proces coronoid.
+- caption: Fig. 4.151 pentru procesul coronoid.
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.151
-    pentru proces coronoid.)
+    pentru procesul coronoid.)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_7.jpeg
-- caption: Fig. 4.153 axial mediolateral
+- caption: Fig. 4.153 axială medio-laterală
   description: Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.153
-    axial mediolateral)
+    axială medio-laterală)
   url: assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_8.jpeg
+iris_reference:
+  chapter: Aparat locomotor & Membru superior
+  radiation_dose: Clasa 1 (Minimă < 0.02 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-15'
 modality: rx
-notes: Increase parametri de expunere prin 4 la 6 kVp de la lateral Cot because de
-  înclinat raza centrală. These incidențe sunt effective cu sau fără splint. Cot SPECIAL
-  traumatism acuttism / Regim Urgență axial laterals (Coyle method) Fig. 4.146 Ortostatism
-  pentru cap radial—flectat 90°. Fig. 4.148 Decubit dorsal, înclinat 45° pentru cap
-  radial—flectat 90°. Fig. 4.147 Ortostatism pentru proces coronoid—flectat 80°.
-position: 'Pacient: Seat pacient la end de masa de examinare pentru Ortostatism poziție
-  sau Decubit dorsal pe masa de examinare pentru orizontal fascicul imaging.; Regiune
-  anatomică: 2: proces coronoid–axial Mediolateral incidență Cot flectat only 80°
-  de la extins poziție (because >80° poate obscure proces coronoid) și Mână în pronație'
+notes: Creșteți parametrii de expunere cu 4 la 6 kVp față de cotul de profil, din
+  cauza înclinării razei centrale. Aceste incidențe sunt eficiente cu sau fără atelă.
+  Cot SPECIAL, traumatism acut/Regim de urgență, incidențe axiale de profil (metoda
+  Coyle). Fig. 4.146 Ortostatism pentru capul radial—flectat la 90°. Fig. 4.148 Decubit
+  dorsal, înclinat la 45° pentru capul radial—flectat la 90°. Fig. 4.147 Ortostatism
+  pentru procesul coronoid—flectat la 80°.
+position: 'Pacient: Așezați pacientul la capătul mesei de examinare pentru poziția
+  în ortostatism sau în decubit dorsal pe masa de examinare pentru imagistică cu fascicul
+  orizontal.; Regiune anatomică: 2: proces coronoid–incidență axială mediolaterală,
+  cot flectat la numai 80° față de poziția extinsă (deoarece >80° poate obscura procesul
+  coronoid) și mâna în pronație'
 protection:
 - Ecranare gonadică și a organelor radiosensibile conform procedurilor locale de radioprotecție
   ALARA.
@@ -57,22 +64,23 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- 'cap radial:'
-- spații articulare între cap radial și capitulum trebuie să fie open și clear.
-- cap radial, neck, și tuberosity trebuie să fie în profile și liber de superimposition
-  except pentru small part de proces coronoid.
-- 'distal Humerus și epicondyles appear distorted because de 45° angle (Figs. 4.150
-  și 4.152). proces coronoid:'
-- anterior portion de coronoid appears elongated but în profile.
-- spații articulare între proces coronoid și trochlea trebuie să fie open și clear.
-- cap radial și neck trebuie să fie superimposed prin ulna.
-- optim parametri de expunere trebuie să visualize clearly proces coronoid în profile.
-  Bony margins de superimposed cap radial și neck trebuie să fie visualized faintly
-  through proximal ulna (Figs. 4.151 și 4.153). Fig. 4.149 Decubit dorsal, înclinat
-  45° pentru proces coronoid—flectat 80°. Fig. 4.150 pentru cap radial. Capitulum
-  col radial R Radial tubercle cap radial Fig. 4.152 axial lateromedial incidență
-  pentru cap radial. Fig. 4.151 pentru proces coronoid. Trochlea proces coronoid R
-  Fig. 4.153 axial mediolateral incidență pentru proces coronoid.
+- 'Cap radial:'
+- Spațiile articulare dintre capul radial și capitul trebuie să fie deschise și clare.
+- Capul radial, colul și tuberozitatea trebuie să fie vizualizate de profil și libere
+  de suprapunere, cu excepția unei mici porțiuni a procesului coronoid.
+- 'Humerusul distal și epicondilii apar deformați din cauza unghiului de 45° (Figs.
+  4.150 și 4.152). Proces coronoid:'
+- Porțiunea anterioară a procesului coronoid apare alungită, dar de profil.
+- Spațiile articulare dintre procesul coronoid și trohlee trebuie să fie deschise
+  și clare.
+- Capul radial și colul trebuie să fie suprapuse de ulnă.
+- Parametrii optimi de expunere trebuie să vizualizeze clar procesul coronoid de profil.
+  Marginile osoase ale capului radial și colului suprapuse trebuie să fie vizualizate
+  discret prin ulna proximală (Figs. 4.151 și 4.153). Fig. 4.149 Decubit dorsal, înclinat
+  la 45° pentru procesul coronoid—flectat la 80°. Fig. 4.150 pentru capul radial.
+  Capitulum; col radial; R tubercul radial; cap radial. Fig. 4.152 incidență axială
+  latero-medială pentru capul radial. Fig. 4.151 pentru procesul coronoid. Trohlee;
+  proces coronoid; R. Fig. 4.153 incidență axială medio-laterală pentru procesul coronoid.
 sid_dff: 100 cm
 slug: rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager
 sources:
@@ -80,16 +88,17 @@ sources:
   url: https://www.elsevier.com/books/textbook-of-radiographic-positioning-and-related-anatomy/lampignano/978-0-323-65367-1
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
-  collimation: Field Size Collimate pe four sides la anatomy de interest.
+  collimation: Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică
+    de interes.
   filtration: Totală ≥ 2.5 mm Al echivalent
   focal_spot: Focar Mic (0.6 mm)
   grid: Fără grilă (expunere directă)
   kv: '70'
   mas: DE CONFIGURAT PE APARAT
-title: Rx Cot traumatism acuttism / Regim Urgență AXIAL Incidență Latero-Medială (COYLE
-  METHOD16)
+title: Rx cot — traumatism acut / regim de urgență — incidență axială latero-medială
+  (metoda COYLE 16)
 ---
-# Rx Cot traumatism acuttism / Regim Urgență AXIAL Incidență Latero-Medială (COYLE METHOD16)
+# Rx cot — traumatism acut / regim de urgență — incidență axială latero-medială (metoda COYLE 16)
 
 
 <div class="rx-meta-bar">
@@ -108,22 +117,23 @@ title: Rx Cot traumatism acuttism / Regim Urgență AXIAL Incidență Latero-Med
 
     === "Indicații Clinice"
 
-        - suspiciune de fractură și luxație / subluxație articulară de Cot, particularly cap radial (part poziție 1) și proces coronoid (part poziție 2 pentru proces coronoid)
+        - Fractură suspectă și luxație/subluxație articulară a cotului, în special a capului radial (parte poziția 1) și a procesului coronoid (parte poziția 2 pentru procesul coronoid)
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Aparat locomotor & Membru superior*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.02 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** Pacient: Seat pacient la end de masa de examinare pentru Ortostatism poziție sau Decubit dorsal pe masa de examinare pentru orizontal fascicul imaging.; Regiune anatomică: 2: proces coronoid–axial Mediolateral incidență Cot flectat only 80° de la extins poziție (because >80° poate obscure proces coronoid) și Mână în pronație
-    - **Punct de Centrare Fascicul:** înclinat 45° de la Umăr, into midelbow articulație (Figs. 4.147 și 4.149)
+    - **Poziție Pacient:** Pacient: Așezați pacientul la capătul mesei de examinare pentru poziția în ortostatism sau în decubit dorsal pe masa de examinare pentru imagistică cu fascicul orizontal.; Regiune anatomică: 2: proces coronoid–incidență axială mediolaterală, cot flectat la numai 80° față de poziția extinsă (deoarece >80° poate obscura procesul coronoid) și mâna în pronație
+    - **Punct de Centrare Fascicul:** înclinat la 45° de la umăr, spre articulația cotului (Figs. 4.147 și 4.149)
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (sau conform cooperării pacientului)
 
@@ -139,21 +149,21 @@ title: Rx Cot traumatism acuttism / Regim Urgență AXIAL Incidență Latero-Med
     | **Grilă Antidifuzoare (Bucky)** | Fără grilă (expunere directă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
-    | **Colimare Fascicul** | Field Size Collimate pe four sides la anatomy de interest. |
+    | **Colimare Fascicul** | Dimensiunea câmpului Colimați pe cele patru laturi la regiunea anatomică de interes. |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - cap radial:
-    - spații articulare între cap radial și capitulum trebuie să fie open și clear.
-    - cap radial, neck, și tuberosity trebuie să fie în profile și liber de superimposition except pentru small part de proces coronoid.
-    - distal Humerus și epicondyles appear distorted because de 45° angle (Figs. 4.150 și 4.152). proces coronoid:
-    - anterior portion de coronoid appears elongated but în profile.
-    - spații articulare între proces coronoid și trochlea trebuie să fie open și clear.
-    - cap radial și neck trebuie să fie superimposed prin ulna.
-    - optim parametri de expunere trebuie să visualize clearly proces coronoid în profile. Bony margins de superimposed cap radial și neck trebuie să fie visualized faintly through proximal ulna (Figs. 4.151 și 4.153). Fig. 4.149 Decubit dorsal, înclinat 45° pentru proces coronoid—flectat 80°. Fig. 4.150 pentru cap radial. Capitulum col radial R Radial tubercle cap radial Fig. 4.152 axial lateromedial incidență pentru cap radial. Fig. 4.151 pentru proces coronoid. Trochlea proces coronoid R Fig. 4.153 axial mediolateral incidență pentru proces coronoid.
+    - Cap radial:
+    - Spațiile articulare dintre capul radial și capitul trebuie să fie deschise și clare.
+    - Capul radial, colul și tuberozitatea trebuie să fie vizualizate de profil și libere de suprapunere, cu excepția unei mici porțiuni a procesului coronoid.
+    - Humerusul distal și epicondilii apar deformați din cauza unghiului de 45° (Figs. 4.150 și 4.152). Proces coronoid:
+    - Porțiunea anterioară a procesului coronoid apare alungită, dar de profil.
+    - Spațiile articulare dintre procesul coronoid și trohlee trebuie să fie deschise și clare.
+    - Capul radial și colul trebuie să fie suprapuse de ulnă.
+    - Parametrii optimi de expunere trebuie să vizualizeze clar procesul coronoid de profil. Marginile osoase ale capului radial și colului suprapuse trebuie să fie vizualizate discret prin ulna proximală (Figs. 4.151 și 4.153). Fig. 4.149 Decubit dorsal, înclinat la 45° pentru procesul coronoid—flectat la 80°. Fig. 4.150 pentru capul radial. Capitulum; col radial; R tubercul radial; cap radial. Fig. 4.152 incidență axială latero-medială pentru capul radial. Fig. 4.151 pentru procesul coronoid. Trohlee; proces coronoid; R. Fig. 4.153 incidență axială medio-laterală pentru procesul coronoid.
 
 -   __5. Protecție Radiologică (ALARA)__
 
@@ -165,8 +175,9 @@ title: Rx Cot traumatism acuttism / Regim Urgență AXIAL Incidență Latero-Med
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    Increase parametri de expunere prin 4 la 6 kVp de la lateral Cot because de înclinat raza centrală. These incidențe sunt effective cu sau fără splint. Cot SPECIAL traumatism acuttism / Regim Urgență axial laterals (Coyle method) Fig. 4.146 Ortostatism pentru cap radial—flectat 90°. Fig. 4.148 Decubit dorsal, înclinat 45° pentru cap radial—flectat 90°. Fig. 4.147 Ortostatism pentru proces coronoid—flectat 80°.
+    Creșteți parametrii de expunere cu 4 la 6 kVp față de cotul de profil, din cauza înclinării razei centrale. Aceste incidențe sunt eficiente cu sau fără atelă. Cot SPECIAL, traumatism acut/Regim de urgență, incidențe axiale de profil (metoda Coyle). Fig. 4.146 Ortostatism pentru capul radial—flectat la 90°. Fig. 4.148 Decubit dorsal, înclinat la 45° pentru capul radial—flectat la 90°. Fig. 4.147 Ortostatism pentru procesul coronoid—flectat la 80°.
 
 
 ### 🖼️ Imagini
@@ -175,65 +186,65 @@ title: Rx Cot traumatism acuttism / Regim Urgență AXIAL Incidență Latero-Med
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.146 Ortostatism pentru radial](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_1.jpeg)
+![Fig. 4.146 Ortostatism pentru procesul radial](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_1.jpeg)
 
-<figcaption><strong>Fig. 4.146 Ortostatism pentru radial</strong> — <span>Poziționare pacient conform Ghidului Bontrager (Fig. 4.146 în ortostatism pentru radial)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.148 Decubit dorsal, înclinat 45° pentru](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_2.jpeg)
-
-<figcaption><strong>Fig. 4.148 Decubit dorsal, înclinat 45° pentru</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.148 în decubit dorsal, înclinat 45° pentru)</span></figcaption>
+<figcaption><strong>Fig. 4.146 Ortostatism pentru procesul radial</strong> — <span>Poziționarea pacientului conform Ghidului Bontrager (Fig. 4.146 în ortostatism pentru procesul radial)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.147 Ortostatism pentru coronoid](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_3.jpeg)
+![Fig. 4.148 Decubit dorsal, înclinat la 45° pentru](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_2.jpeg)
 
-<figcaption><strong>Fig. 4.147 Ortostatism pentru coronoid</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.147 în ortostatism pentru coronoid)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.149 Decubit dorsal, înclinat 45° pentru](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_4.jpeg)
-
-<figcaption><strong>Fig. 4.149 Decubit dorsal, înclinat 45° pentru</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.149 în decubit dorsal, înclinat 45° pentru)</span></figcaption>
+<figcaption><strong>Fig. 4.148 Decubit dorsal, înclinat la 45° pentru</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.148 în decubit dorsal, înclinat la 45° pentru)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.150 pentru cap radial.](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_5.jpeg)
+![Fig. 4.147 Ortostatism pentru procesul coronoid](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_3.jpeg)
 
-<figcaption><strong>Fig. 4.150 pentru cap radial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.150 pentru cap radial.)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![Fig. 4.152 axial lateromedial](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_6.jpeg)
-
-<figcaption><strong>Fig. 4.152 axial lateromedial</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.152 axial lateromedial)</span></figcaption>
+<figcaption><strong>Fig. 4.147 Ortostatism pentru procesul coronoid</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.147 în ortostatism pentru procesul coronoid)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.151 pentru proces coronoid.](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_7.jpeg)
+![Fig. 4.149 Decubit dorsal, înclinat la 45° pentru](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_4.jpeg)
 
-<figcaption><strong>Fig. 4.151 pentru proces coronoid.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.151 pentru proces coronoid.)</span></figcaption>
+<figcaption><strong>Fig. 4.149 Decubit dorsal, înclinat la 45° pentru</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.149 în decubit dorsal, înclinat la 45° pentru)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![Fig. 4.153 axial mediolateral](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_8.jpeg)
+![Fig. 4.150 pentru capul radial.](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_5.jpeg)
 
-<figcaption><strong>Fig. 4.153 axial mediolateral</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.153 axial mediolateral)</span></figcaption>
+<figcaption><strong>Fig. 4.150 pentru capul radial.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.150 pentru capul radial.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.152 axială latero-medială](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_6.jpeg)
+
+<figcaption><strong>Fig. 4.152 axială latero-medială</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.152 axială latero-medială)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.151 pentru procesul coronoid.](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_7.jpeg)
+
+<figcaption><strong>Fig. 4.151 pentru procesul coronoid.</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.151 pentru procesul coronoid.)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![Fig. 4.153 axială medio-laterală](../../assets/images/protocols/bontrager/rx-cot-traumatism-acuttism-regim-urgenta-axial-lateromedial-projection-coyle-method16-bontrager/fig_8.jpeg)
+
+<figcaption><strong>Fig. 4.153 axială medio-laterală</strong> — <span>Aspect radiografic de referință conform Ghidului Bontrager (Fig. 4.153 axială medio-laterală)</span></figcaption>
 
 </figure>
 

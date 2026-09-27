@@ -5,10 +5,11 @@ category: membru-inferior
 centering: Pe pliul inghinal, la 2-3 cm distal de punctul mijlociu dintre SIAS și
   simfiză
 clinical_indications:
-- Cădere cu durere inghinală și impotență funcțională (suspiciune fractură col femural)
+- Cădere cu durere inghinală și impotență funcțională (suspiciune de fractură a colului
+  femural)
 - Coxartroză (pensare supero-externă, osteofitoză, geode subcondrale)
-- Necroză avasculară de cap femural (stadii inițiale / avansate)
-- Control proteză totală de șold
+- Necroză avasculară a capului femural (stadii inițiale / avansate)
+- Controlul protezei totale de șold
 iris_reference:
   chapter: Aparat locomotor & Membru inferior
   radiation_dose: Clasa 1 (Minimă < 0.3 mSv)
@@ -16,19 +17,19 @@ iris_reference:
 last_updated: '2026-09-15'
 modality: rx
 notes: În caz de traumatism acut cu durere severă, profilul Lauenstein este strict
-  CONTRAINDICAT! Se realizează incidența profil axială cu raza orizontală (incidența
+  CONTRAINDICAT! Se realizează incidența axială de profil cu raza orizontală (incidența
   Danelius-Miller).
 position: '1) AP: decubit dorsal, membrul afectat în rotație internă de 15°; 2) Profil
   Lauenstein (poziție broască): coapsa în abducție de 45° și flexie de 90°'
 protection:
 - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare
-  automată din template.
+  automată din șablon.
 - Colimare unilaterală riguroasă
 quality_criteria:
-- Vizualizarea clară cotilului, capului femural, liniei intertrohanteriene și marelui/micului
-  trohanter
+- Vizualizarea clară a cotilului, capului femural, liniei intertrohanteriene și trohanterului
+  mare/mic
 - Profilul Lauenstein evidențiază conturul sferic anterior al capului și colului femural
-- Trabeculația colului femural (traveele Ward) este vizibilă neted
+- Trabeculația colului femural (traveele Ward) este vizibilă net
 sid_dff: 100 - 115 cm
 slug: rx-sold-ap-profil
 sources:
@@ -57,13 +58,13 @@ tech_params:
   aec_chambers: Camera centrală de ionizare
   collimation: Inclusiv acetabulul, capul, colul femural și trohanterul
   filtration: Totală ≥ 2.5 mm Al
-  focal_spot: Focar Mic sau Mare
+  focal_spot: Focar mic sau mare
   grid: Cu grilă antidifuzoare Bucky
   kv: 70 - 80
   mas: 15 - 30 (AEC)
-title: Rx Șold (AP & Profil Lauenstein)
+title: Rx șold (AP și profil Lauenstein)
 ---
-# Rx Șold (AP & Profil Lauenstein)
+# Rx șold (AP și profil Lauenstein)
 
 
 <div class="rx-meta-bar">
@@ -82,10 +83,10 @@ title: Rx Șold (AP & Profil Lauenstein)
 
     === "Indicații Clinice"
 
-        - Cădere cu durere inghinală și impotență funcțională (suspiciune fractură col femural)
+        - Cădere cu durere inghinală și impotență funcțională (suspiciune de fractură a colului femural)
         - Coxartroză (pensare supero-externă, osteofitoză, geode subcondrale)
-        - Necroză avasculară de cap femural (stadii inițiale / avansate)
-        - Control proteză totală de șold
+        - Necroză avasculară a capului femural (stadii inițiale / avansate)
+        - Controlul protezei totale de șold
 
     === "Ghid Național IRIS"
 
@@ -95,6 +96,7 @@ title: Rx Șold (AP & Profil Lauenstein)
             - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.3 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
@@ -114,7 +116,7 @@ title: Rx Șold (AP & Profil Lauenstein)
     | **Sarcină / Produs Curent-Timp (mAs)** | 15 - 30 (AEC) |
     | **Distanță Focar-Film (DFF / SID)** | 100 - 115 cm |
     | **Grilă Antidifuzoare (Bucky)** | Cu grilă antidifuzoare Bucky |
-    | **Dimensiune Focar** | Focar Mic sau Mare |
+    | **Dimensiune Focar** | Focar mic sau mare |
     | **Camere de Ionizare AEC** | Camera centrală de ionizare |
     | **Colimare Fascicul** | Inclusiv acetabulul, capul, colul femural și trohanterul |
     | **Filtrare Tub** | Totală ≥ 2.5 mm Al |
@@ -123,21 +125,22 @@ title: Rx Șold (AP & Profil Lauenstein)
 
     ---
 
-    - Vizualizarea clară cotilului, capului femural, liniei intertrohanteriene și marelui/micului trohanter
+    - Vizualizarea clară a cotilului, capului femural, liniei intertrohanteriene și trohanterului mare/mic
     - Profilul Lauenstein evidențiază conturul sferic anterior al capului și colului femural
-    - Trabeculația colului femural (traveele Ward) este vizibilă neted
+    - Trabeculația colului femural (traveele Ward) este vizibilă net
 
 -   __5. Protecție Radiologică (ALARA)__
 
     ---
 
-    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din template.
+    - Ecranarea pacientului se stabilește conform politicii RX actualizate; fără aplicare automată din șablon.
     - Colimare unilaterală riguroasă
 
 </div>
 
+
 !!! note "Observații Clinice & Tehnice"
-    În caz de traumatism acut cu durere severă, profilul Lauenstein este strict CONTRAINDICAT! Se realizează incidența profil axială cu raza orizontală (incidența Danelius-Miller).
+    În caz de traumatism acut cu durere severă, profilul Lauenstein este strict CONTRAINDICAT! Se realizează incidența axială de profil cu raza orizontală (incidența Danelius-Miller).
 
 === "Ghid Rapid de Execuție"
 

@@ -3,109 +3,118 @@ author: Departamentul de Radiologie / Referință Clark (Ed. 12)
 breathing: Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru
   Abdomen/bazin).
 category: torace
-centering: '• orizontal ray este orientat first la drept-angles la caseta și spre
-  incizură jugulară (furculiță sternală).
+centering: '• Fasciculul orizontal este orientat inițial în unghi drept față de casetă
+  și către incizura jugulară (furculița sternală).
 
-  • raza centrală este then înclinat until it este coincident cu middle de caseta.
-  This has effect de confining câmp de iradiere la film radiologic, thus avoiding
-  unnecessary expunere de eyes.
+  • Raza centrală este apoi înclinată până când coincide cu centrul casetei. Aceasta
+  are efectul de a limita câmpul de iradiere la filmul radiologic, evitând astfel
+  expunerea inutilă a ochilor.
 
-  • expunere este taken pe normal inspir profund complet.
+  • Expunerea se efectuează în timpul unei inspirații profunde normale.
 
 
-  • raza centrală este orientat first la drept-angles și spre incizură jugulară (furculiță
-  sternală).
+  • Raza centrală este orientată inițial în unghi drept și către incizura jugulară
+  (furculița sternală).
 
-  • raza centrală este then înclinat until it este coincident cu middle de film radiologic,
-  thus avoiding unnecessary expunere la eyes.'
+  • Raza centrală este apoi înclinată până când coincide cu centrul filmului radiologic,
+  evitând astfel expunerea inutilă a ochilor.'
 clinical_indications:
-- This incidență moves Cord și Siluetă Cardiovasculară away de la film radiologic
-  plane, increasing magnification și reducing accuracy de assessment de Cord și Siluetă
-  Cardiovasculară size (în this incidență, cardiothoracic ratio (CRT) de greater than
-  50% does nu necessarily indicate cardiomegaly).
-- Compared cu Postero-anterior (PA) incidență, this incidență moves Cord și Siluetă
-  Cardiovasculară away de la receptorul de imagine plane, increasing magnification
-  și reducing accuracy de assessment de Cord și Siluetă Cardiovasculară size (în this
-  incidență, CTR de greater than 50% does nu necessarily indicate cardiomegaly).
-- normal biomechanics de blood flow sunt different de la those în Ortostatism poziție,
-  producing relative prominence de upper-lobe vessels și mimicking signs de Cord și
-  Siluetă Cardiovasculară failure.
-- Pleural lichid will layer pe / sprijinit de posterior chest perete, producing ill-defined
-  increase attenuation de affected hemithorax rather than usual blunting de sinusuri
-  costodiafragmatice; nivele hidroaerice sunt nu seen.
-- pneumotorax, if present, will fie located la front de toracele în Decubit dorsal
-  poziție. Unless it este large, it will fie more difficult la detect if Profil (lateral)
-  Fascicul Orizontal imagine este nu employed. Normal Decubit dorsal radiografie de
-  Torace
+- Această incidență îndepărtează cordul și silueta cardiovasculară de planul filmului
+  radiologic, crescând magnificația și reducând exactitatea evaluării dimensiunii
+  cordului și a siluetei cardiovasculare (în această incidență, un raport cardiotoracic
+  (CRT) mai mare de 50% nu indică neapărat cardiomegalie).
+- Comparativ cu incidența postero-anterioară (PA), această incidență îndepărtează
+  cordul și silueta cardiovasculară de planul receptorului de imagine, crescând magnificația
+  și reducând exactitatea evaluării dimensiunii cordului și a siluetei cardiovasculare
+  (în această incidență, un CTR mai mare de 50% nu indică neapărat cardiomegalie).
+- Biomecanica normală a fluxului sanguin este diferită de cea din poziția în ortostatism,
+  producând o proeminență relativă a vaselor lobului superior și imitând semnele insuficienței
+  cardiace și ale siluetei cardiovasculare.
+- Lichidul pleural se va dispune de-a lungul / se va sprijini pe peretele toracic
+  posterior, producând o creștere slab delimitată a atenuării hemitoracelui afectat,
+  mai degrabă decât obliterarea obișnuită a sinusurilor costodiafragmatice; nivelurile
+  hidroaerice nu sunt vizibile.
+- Pneumotoraxul, dacă este prezent, va fi localizat anterior în torace în decubit
+  dorsal. Dacă nu este mare, va fi mai dificil de detectat dacă nu se utilizează o
+  imagine de profil cu fascicul orizontal. Radiografie normală de torace în decubit
+  dorsal
 images:
-- caption: • expunere este taken pe normal inspir profund complet.
-  description: Poziționare pacient și centrare fascicul conform Clark (Ed. 12)
+- caption: • Expunerea se efectuează în inspir profund complet, normal.
+  description: Poziționarea pacientului și centrarea fasciculului conform Clark (Ed.
+    12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_1.jpeg
-- caption: • radiografie opposite este de similar appearance la that de
+- caption: • Radiografia alăturată are un aspect similar cu cea de [fragment incomplet
+    în sursă].
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_2.jpeg
-- caption: • expunere este taken pe full normal inspiration.
+- caption: • Expunerea se efectuează în inspir complet normal.
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_3.jpeg
-- caption: • normal biomechanics de blood flow sunt different de la
+- caption: • Biomecanica normală a fluxului sanguin este diferită față de [fragment
+    incomplet în sursă].
   description: Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed.
     12)
   url: assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_4.jpeg
+iris_reference:
+  chapter: Torace & Pulmon
+  radiation_dose: Clasa 1 (Minimă < 0.1 mSv)
+  recommendation_grade: Grad A
 last_updated: '2026-09-16'
 modality: rx
-notes: '• use de lower centring point combined cu Fascicul Orizontal has undesirable
-  effect de projecting clavicles above Vârfuri Pulmonare (Apexuri) de Torace (Câmpuri
-  Pulmonare).
+notes: '• Utilizarea unui punct de centrare inferior, combinată cu fasciculul orizontal,
+  are efectul nedorit de a proiecta claviculele deasupra vârfurilor pulmonare (apexurilor)
+  toracelui (câmpurilor pulmonare).
 
-  • radiografie opposite este de similar appearance la that de Postero-anterior (PA)
-  chest radiografie described pe p. 206.
+  • Radiografia opusă are un aspect similar celui al radiografiei toracice postero-anterioare
+  (PA) descrise la p. 206.
 
-  However, this incidență este valuable în elucidation de relative poziții de opacities
-  seen pe Postero-anterior (PA) incidență.
+  Totuși, această incidență este valoroasă pentru elucidarea pozițiilor relative ale
+  opacităților observate în incidența postero-anterioară (PA).
 
-  • Small lesions previously obscured prin rib poate also fie evidențiat.
+  • Leziunile mici, anterior obscure din cauza unei coaste, pot fi de asemenea evidențiate.
 
-  208 Normal Antero-posterior (AP) radiografie de Torace
-
-
-  • expunere este taken pe full normal inspiration.
-
-  • FFD de la least 120 cm este essential la reduce unequal magnification de intra-thoracic
-  structures.
-
-  • în this incidență, maximum lung demonstration este lost due la absence de gravity
-  effect de abdominal organs, which este present în Ortostatism poziție.
-
-  • imagini de heavy breasts sunt nu readily diffused.'
-position: '• pacientul poate fie în ortostatism sau Poziție Șezândă cu their back
-  sprijinit pe casetă, which este sprijinit vertically cu upper edge de caseta above
-  lung Vârfuri Pulmonare (Apexuri).
-
-  • planul mediosagital este ajustat la drept-angles la middle de caseta.
-
-  • umerii sunt brought downward și forward, cu backs de mâinile below șoldurile și
-  coate well forward, which has effect de projecting scapulae clear de câmpuri pulmonare.
-
-  • în unwell pacient, it poate nu fie possible la perform this procedure, cu result
-  that scapulae poate fie rotit și superimposed pe Profil (lateral) chest margins.
-  This causes increase în radiation absorption, making it difficulty la observe underlying
-  lung tissue. în this situation, it este preferable that pacientul’s brațe sunt rotit
-  laterally și sprijinit cu palms de mâinile facing forward. în this poziție, scapulae
-  sunt superimposed pe Torace (Câmpuri Pulmonare) but effect de absorption este less,
-  și comparison de either side de upper Profil (lateral) segments de lung este made
-  easier.
+  208 Radiografie toracică antero-posterioară (AP) normală
 
 
-  • cu assistance, casetă este carefully poziționat under pacientul’s chest cu upper
-  edge de caseta above lung Vârfuri Pulmonare (Apexuri).
+  • Expunerea se efectuează în timpul unei inspirații profunde normale complete.
 
-  • planul mediosagital este ajustat la drept-angles la middle de caseta, și pacientul’s
-  Bazin (bazin (pelvis)) este checked la ensure that it este nu rotit.
+  • FFD de cel puțin 120 cm este esențial pentru reducerea magnificației inegale a
+  structurilor intratoracice.
 
-  • brațele sunt rotit laterally și sprijinit prin side de trunk. capul este sprijinit
-  pe pillow, cu bărbia slightly raised.'
+  • În această incidență, demonstrarea maximă a plămânilor este pierdută din cauza
+  absenței efectului gravitației asupra organelor abdominale, prezent în poziția în
+  ortostatism.
+
+  • Imaginile obținute prin sâni voluminoși nu sunt difuzate cu ușurință.'
+position: '• Pacientul poate fi în ortostatism sau în poziție șezândă, cu spatele
+  sprijinit pe casetă, care este susținută vertical, cu marginea superioară a casetei
+  deasupra vârfurilor pulmonare (apexurilor).
+
+  • Planul mediosagital este ajustat în unghi drept față de centrul casetei.
+
+  • Umerii sunt coborâți și aduși înainte, cu dosul mâinilor sub șolduri și coatele
+  mult înainte, ceea ce are efectul de a proiecta scapulele în afara câmpurilor pulmonare.
+
+  • La un pacient cu stare generală alterată, este posibil să nu fie posibilă efectuarea
+  acestei proceduri, rezultând rotația scapulelor și suprapunerea lor peste marginile
+  toracice de profil (lateral). Aceasta determină creșterea absorbției radiației,
+  îngreunând observarea țesutului pulmonar subiacent. În această situație, este preferabil
+  ca brațele pacientului să fie rotite lateral și sprijinite, cu palmele orientate
+  înainte. În această poziție, scapulele se suprapun peste torace (câmpurile pulmonare),
+  dar efectul de absorbție este mai redus, iar comparația dintre segmentele superioare
+  de profil (lateral) ale plămânului de fiecare parte este mai ușoară.
+
+
+  • Cu ajutor, caseta este poziționată cu grijă sub toracele pacientului, cu marginea
+  superioară a casetei deasupra vârfurilor pulmonare (apexurilor).
+
+  • Planul mediosagital este ajustat în unghi drept față de centrul casetei, iar bazinul
+  pacientului este verificat pentru a se asigura că nu este rotit.
+
+  • Brațele sunt rotite lateral și sprijinite pe lângă trunchi. Capul este sprijinit
+  pe o pernă, cu bărbia ușor ridicată.'
 protection:
 - Ecranare gonadică cu șorț plumbat dacă gonadele sunt în apropierea fasciculului
   util (regula ALARA).
@@ -114,7 +123,7 @@ protection:
 - Verificarea posibilității unei sarcini la pacientele de vârstă fertilă înainte de
   expunere.
 quality_criteria:
-- Vizualizarea clară întregii arii anatomice (Torace (Câmpuri Pulmonare)).
+- Vizualizarea clară a întregii arii anatomice (toracele (câmpurile pulmonare)).
 - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
 - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile
   osoase.
@@ -126,14 +135,14 @@ sources:
 tech_params:
   aec_chambers: DE CONFIGURAT PE APARAT
   collimation: Colimare strictă la aria anatomică de interes diagnostic
-  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.)'
+  filtration: 'Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent)'
   focal_spot: Focar Mic (0.6 mm)
   grid: Conform grosimii anatomice (> 10-12 cm cu grilă)
   kv: DE CONFIGURAT PE APARAT
-  mas: Conform AEC / grosime anatomică
-title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - Ortostatism
+  mas: Conform AEC / grosimii anatomice
+title: Radiografie toracică (câmpuri pulmonare) antero-posterioară (AP) — ortostatism
 ---
-# Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - Ortostatism
+# Radiografie toracică (câmpuri pulmonare) antero-posterioară (AP) — ortostatism
 
 
 <div class="rx-meta-bar">
@@ -152,38 +161,39 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - Ortostatism
 
     === "Indicații Clinice"
 
-        - This incidență moves Cord și Siluetă Cardiovasculară away de la film radiologic plane, increasing magnification și reducing accuracy de assessment de Cord și Siluetă Cardiovasculară size (în this incidență, cardiothoracic ratio (CRT) de greater than 50% does nu necessarily indicate cardiomegaly).
-        - Compared cu Postero-anterior (PA) incidență, this incidență moves Cord și Siluetă Cardiovasculară away de la receptorul de imagine plane, increasing magnification și reducing accuracy de assessment de Cord și Siluetă Cardiovasculară size (în this incidență, CTR de greater than 50% does nu necessarily indicate cardiomegaly).
-        - normal biomechanics de blood flow sunt different de la those în Ortostatism poziție, producing relative prominence de upper-lobe vessels și mimicking signs de Cord și Siluetă Cardiovasculară failure.
-        - Pleural lichid will layer pe / sprijinit de posterior chest perete, producing ill-defined increase attenuation de affected hemithorax rather than usual blunting de sinusuri costodiafragmatice; nivele hidroaerice sunt nu seen.
-        - pneumotorax, if present, will fie located la front de toracele în Decubit dorsal poziție. Unless it este large, it will fie more difficult la detect if Profil (lateral) Fascicul Orizontal imagine este nu employed. Normal Decubit dorsal radiografie de Torace
+        - Această incidență îndepărtează cordul și silueta cardiovasculară de planul filmului radiologic, crescând magnificația și reducând exactitatea evaluării dimensiunii cordului și a siluetei cardiovasculare (în această incidență, un raport cardiotoracic (CRT) mai mare de 50% nu indică neapărat cardiomegalie).
+        - Comparativ cu incidența postero-anterioară (PA), această incidență îndepărtează cordul și silueta cardiovasculară de planul receptorului de imagine, crescând magnificația și reducând exactitatea evaluării dimensiunii cordului și a siluetei cardiovasculare (în această incidență, un CTR mai mare de 50% nu indică neapărat cardiomegalie).
+        - Biomecanica normală a fluxului sanguin este diferită de cea din poziția în ortostatism, producând o proeminență relativă a vaselor lobului superior și imitând semnele insuficienței cardiace și ale siluetei cardiovasculare.
+        - Lichidul pleural se va dispune de-a lungul / se va sprijini pe peretele toracic posterior, producând o creștere slab delimitată a atenuării hemitoracelui afectat, mai degrabă decât obliterarea obișnuită a sinusurilor costodiafragmatice; nivelurile hidroaerice nu sunt vizibile.
+        - Pneumotoraxul, dacă este prezent, va fi localizat anterior în torace în decubit dorsal. Dacă nu este mare, va fi mai dificil de detectat dacă nu se utilizează o imagine de profil cu fascicul orizontal. Radiografie normală de torace în decubit dorsal
 
     === "Ghid Național IRIS"
 
         !!! info "Referință Primară: Ghidul Național IRIS (Ordinul MS 1342/2012)"
-            - **Capitol Ghid IRIS:** *Ghidul Național IRIS*
-            - **Grad de Recomandare:** **De verificat pe indicație; fără grad atribuit automat**
-            - **Nivel de Iradiere Estimată:** `De verificat pentru examinarea și populația selectate`
+            - **Capitol Ghid IRIS:** *Torace & Pulmon*
+            - **Grad de Recomandare:** **Grad A**
+            - **Nivel de Iradiere Estimată:** `Clasa 1 (Minimă < 0.1 mSv)`
 
             [:octicons-search-16: Deschide Ghidul IRIS](../../iris.md){ .md-button .md-button--primary } [:material-open-in-new: Aplicația Oficială PWA](https://radiologie-pediatrica.ro/iris/){ .md-button target="_blank" rel="noopener" }
+
 -   __2. Poziționare & Centrare Fascicul__
 
     ---
 
-    - **Poziție Pacient:** • pacientul poate fie în ortostatism sau Poziție Șezândă cu their back sprijinit pe casetă, which este sprijinit vertically cu upper edge de caseta above lung Vârfuri Pulmonare (Apexuri).
-• planul mediosagital este ajustat la drept-angles la middle de caseta.
-• umerii sunt brought downward și forward, cu backs de mâinile below șoldurile și coate well forward, which has effect de projecting scapulae clear de câmpuri pulmonare.
-• în unwell pacient, it poate nu fie possible la perform this procedure, cu result that scapulae poate fie rotit și superimposed pe Profil (lateral) chest margins. This causes increase în radiation absorption, making it difficulty la observe underlying lung tissue. în this situation, it este preferable that pacientul’s brațe sunt rotit laterally și sprijinit cu palms de mâinile facing forward. în this poziție, scapulae sunt superimposed pe Torace (Câmpuri Pulmonare) but effect de absorption este less, și comparison de either side de upper Profil (lateral) segments de lung este made easier.
-
-• cu assistance, casetă este carefully poziționat under pacientul’s chest cu upper edge de caseta above lung Vârfuri Pulmonare (Apexuri).
-• planul mediosagital este ajustat la drept-angles la middle de caseta, și pacientul’s Bazin (bazin (pelvis)) este checked la ensure that it este nu rotit.
-• brațele sunt rotit laterally și sprijinit prin side de trunk. capul este sprijinit pe pillow, cu bărbia slightly raised.
-    - **Punct de Centrare Fascicul:** • orizontal ray este orientat first la drept-angles la caseta și spre incizură jugulară (furculiță sternală).
-• raza centrală este then înclinat until it este coincident cu middle de caseta. This has effect de confining câmp de iradiere la film radiologic, thus avoiding unnecessary expunere de eyes.
-• expunere este taken pe normal inspir profund complet.
-
-• raza centrală este orientat first la drept-angles și spre incizură jugulară (furculiță sternală).
-• raza centrală este then înclinat until it este coincident cu middle de film radiologic, thus avoiding unnecessary expunere la eyes.
+    - **Poziție Pacient:**
+        - Pacientul poate fi în ortostatism sau în poziție șezândă, cu spatele sprijinit pe casetă, care este susținută vertical, cu marginea superioară a casetei deasupra vârfurilor pulmonare (apexurilor).
+        - Planul mediosagital este ajustat în unghi drept față de centrul casetei.
+        - Umerii sunt coborâți și aduși înainte, cu dosul mâinilor sub șolduri și coatele mult înainte, ceea ce are efectul de a proiecta scapulele în afara câmpurilor pulmonare.
+        - La un pacient cu stare generală alterată, este posibil să nu fie posibilă efectuarea acestei proceduri, rezultând rotația scapulelor și suprapunerea lor peste marginile toracice de profil (lateral). Aceasta determină creșterea absorbției radiației, îngreunând observarea țesutului pulmonar subiacent. În această situație, este preferabil ca brațele pacientului să fie rotite lateral și sprijinite, cu palmele orientate înainte. În această poziție, scapulele se suprapun peste torace (câmpurile pulmonare), dar efectul de absorbție este mai redus, iar comparația dintre segmentele superioare de profil (lateral) ale plămânului de fiecare parte este mai ușoară.
+        - Cu ajutor, caseta este poziționată cu grijă sub toracele pacientului, cu marginea superioară a casetei deasupra vârfurilor pulmonare (apexurilor).
+        - Planul mediosagital este ajustat în unghi drept față de centrul casetei, iar bazinul pacientului este verificat pentru a se asigura că nu este rotit.
+        - Brațele sunt rotite lateral și sprijinite pe lângă trunchi. Capul este sprijinit pe o pernă, cu bărbia ușor ridicată.
+    - **Punct de Centrare Fascicul:**
+        - Fasciculul orizontal este orientat inițial în unghi drept față de casetă și către incizura jugulară (furculița sternală).
+        - Raza centrală este apoi înclinată până când coincide cu centrul casetei. Aceasta are efectul de a limita câmpul de iradiere la filmul radiologic, evitând astfel expunerea inutilă a ochilor.
+        - Expunerea se efectuează în timpul unei inspirații profunde normale.
+        - Raza centrală este orientată inițial în unghi drept și către incizura jugulară (furculița sternală).
+        - Raza centrală este apoi înclinată până când coincide cu centrul filmului radiologic, evitând astfel expunerea inutilă a ochilor.
     - **Distanță Focar-Film (DFF / SID):** 100 cm
     - **Comandă Respiratorie:** Apnee pe durata expunerii (apnee în inspir pentru torace; expir pentru Abdomen/bazin).
 
@@ -194,19 +204,19 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - Ortostatism
     | Parametru Tehnic | Valoare Configurare Generator / Tub |
     |:-----------------|:-------------------------------------|
     | **Tensiune Tub (kV)** | DE CONFIGURAT PE APARAT |
-    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosime anatomică |
+    | **Sarcină / Produs Curent-Timp (mAs)** | Conform AEC / grosimii anatomice |
     | **Distanță Focar-Film (DFF / SID)** | 100 cm |
     | **Grilă Antidifuzoare (Bucky)** | Conform grosimii anatomice (> 10-12 cm cu grilă) |
     | **Dimensiune Focar** | Focar Mic (0.6 mm) |
     | **Camere de Ionizare AEC** | DE CONFIGURAT PE APARAT |
     | **Colimare Fascicul** | Colimare strictă la aria anatomică de interes diagnostic |
-    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al eq.) |
+    | **Filtrare Tub** | Totală ≥ 2.5 mm Al echivalent (conform Clark: 3.0 mm Al echivalent) |
 
 -   __4. Criterii de Calitate & Reușită Imagine__
 
     ---
 
-    - Vizualizarea clară întregii arii anatomice (Torace (Câmpuri Pulmonare)).
+    - Vizualizarea clară a întregii arii anatomice (toracele (câmpurile pulmonare)).
     - Absența artefactelor de mișcare; trabeculație osoasă și contururi nete.
     - Densitate optică și contrast adecvate pentru diferențierea țesuturilor moi de structurile osoase.
 
@@ -220,17 +230,15 @@ title: Rx Torace (Câmpuri Pulmonare) Antero-Posterior (AP) - Ortostatism
 
 </div>
 
-!!! note "Observații Clinice & Tehnice"
-    • use de lower centring point combined cu Fascicul Orizontal has undesirable effect de projecting clavicles above Vârfuri Pulmonare (Apexuri) de Torace (Câmpuri Pulmonare).
-• radiografie opposite este de similar appearance la that de Postero-anterior (PA) chest radiografie described pe p. 206.
-However, this incidență este valuable în elucidation de relative poziții de opacities seen pe Postero-anterior (PA) incidență.
-• Small lesions previously obscured prin rib poate also fie evidențiat.
-208 Normal Antero-posterior (AP) radiografie de Torace
 
-• expunere este taken pe full normal inspiration.
-• FFD de la least 120 cm este essential la reduce unequal magnification de intra-thoracic structures.
-• în this incidență, maximum lung demonstration este lost due la absence de gravity effect de abdominal organs, which este present în Ortostatism poziție.
-• imagini de heavy breasts sunt nu readily diffused.
+!!! note "Observații Clinice & Tehnice"
+    - Utilizarea unui punct de centrare inferior, combinată cu fasciculul orizontal, are efectul nedorit de a proiecta claviculele deasupra vârfurilor pulmonare (apexurilor) toracelui (câmpurilor pulmonare).
+    - Radiografia opusă are un aspect similar celui al radiografiei toracice postero-anterioare (PA) descrise la p. 206. Totuși, această incidență este valoroasă pentru elucidarea pozițiilor relative ale opacităților observate în incidența postero-anterioară (PA).
+    - Leziunile mici, anterior obscure din cauza unei coaste, pot fi de asemenea evidențiate. 208 Radiografie toracică antero-posterioară (AP) normală
+    - Expunerea se efectuează în timpul unei inspirații profunde normale complete.
+    - FFD de cel puțin 120 cm este esențial pentru reducerea magnificației inegale a structurilor intratoracice.
+    - În această incidență, demonstrarea maximă a plămânilor este pierdută din cauza absenței efectului gravitației asupra organelor abdominale, prezent în poziția în ortostatism.
+    - Imaginile obținute prin sâni voluminoși nu sunt difuzate cu ușurință.
 
 
 ### 🖼️ Imagini
@@ -239,33 +247,33 @@ However, this incidență este valuable în elucidation de relative poziții de 
 
 <figure class="protocol-image-card" markdown>
 
-![• expunere este taken pe normal inspir profund complet.](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_1.jpeg)
+![• Expunerea se efectuează în inspir profund complet, normal.](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_1.jpeg)
 
-<figcaption><strong>• expunere este taken pe normal inspir profund complet.</strong> — <span>Poziționare pacient și centrare fascicul conform Clark (Ed. 12)</span></figcaption>
-
-</figure>
-
-<figure class="protocol-image-card" markdown>
-
-![• radiografie opposite este de similar appearance la that de](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_2.jpeg)
-
-<figcaption><strong>• radiografie opposite este de similar appearance la that de</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Expunerea se efectuează în inspir profund complet, normal.</strong> — <span>Poziționarea pacientului și centrarea fasciculului conform Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• expunere este taken pe full normal inspiration.](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_3.jpeg)
+![• Radiografia alăturată are un aspect similar cu cea de [fragment incomplet în sursă].](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_2.jpeg)
 
-<figcaption><strong>• expunere este taken pe full normal inspiration.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Radiografia alăturată are un aspect similar cu cea de [fragment incomplet în sursă].</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
 <figure class="protocol-image-card" markdown>
 
-![• normal biomechanics de blood flow sunt different de la](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_4.jpeg)
+![• Expunerea se efectuează în inspir complet normal.](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_3.jpeg)
 
-<figcaption><strong>• normal biomechanics de blood flow sunt different de la</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+<figcaption><strong>• Expunerea se efectuează în inspir complet normal.</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
+
+</figure>
+
+<figure class="protocol-image-card" markdown>
+
+![• Biomecanica normală a fluxului sanguin este diferită față de [fragment incomplet în sursă].](../../assets/images/protocols/clark/rx-torace-campuri-pulmonare-antero-posterior-ortostatism-p223-clark/fig_4.jpeg)
+
+<figcaption><strong>• Biomecanica normală a fluxului sanguin este diferită față de [fragment incomplet în sursă].</strong> — <span>Aspect radiografic / ghid de poziționare conform tratatului Clark (Ed. 12)</span></figcaption>
 
 </figure>
 
